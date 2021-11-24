@@ -19,6 +19,20 @@ html {
 .vertical {  z-index: 9999;}
 .horizontal {  z-index: 9998;}
 
+main {
+  /* padding: 1rem; */
+  padding-top: var(--horizontal-nav-width);
+  padding-left: var(--vertical-nav-width);
+  /* margin-top: var(--horizontal-nav-width);
+  margin-left: var(--vertical-nav-width); */
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  max-height: 100vh;
+
+  /* align-items: center; */
+
+}
 body {
   color: black;
   background-color: white;
@@ -46,20 +60,7 @@ ul.vertical:hover {
   width: calc(var(--vertical-nav-width) * 1.25);
 }
 
-main {
-  /* padding: 1rem; */
-  padding-top: var(--horizontal-nav-width);
-  padding-left: var(--vertical-nav-width);
-  /* margin-top: var(--horizontal-nav-width);
-  margin-left: var(--vertical-nav-width); */
-  display: flex;
-  flex-direction: row;
-  align-items: stretch;
-  max-height: 100vh;
 
-  /* align-items: center; */
-
-}
 
 .item {
   /* flex-grow: 1; */
@@ -67,10 +68,24 @@ main {
   overflow-y: scroll;
   /* margin-left: 2rem; */
   width: 50%;
-  height: calc(100vh - var(--horizontal-nav-width));
+  /* height: calc(100vh - var(--horizontal-nav-width)); */
   /* max-height: 80vh; */
   max-height: calc(100vh - (var(--horizontal-nav-width) + 4rem));
 }
 .first {
   margin-left: 2rem;
+}
+
+
+.item::-webkit-scrollbar {
+  width: 0.25rem;
+}
+
+/* .item::-webkit-scrollbar-track {
+  background: #1e1e24;
+} */
+
+.item::-webkit-scrollbar-thumb {
+  background: var(--accent-color);
+  /* border-radius: 1rem; */
 }
