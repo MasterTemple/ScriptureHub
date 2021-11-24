@@ -69,19 +69,8 @@ main {
   width: 50%;
   height: calc(100vh - var(--horizontal-nav-width));
   /* max-height: 80vh; */
-  max-height: calc(100vh - var(--horizontal-nav-width));
+  max-height: calc(100vh - (var(--horizontal-nav-width) + 4rem));
 }
 .first {
   margin-left: 2rem;
-}
-
-#verseList {
-  background-color: red;
-  fill: red;
-  transition: width var(--transition-speed) ease;
-
-}
-#interlinear {
-  background-color: blue;
-  fill: blue;
 }
