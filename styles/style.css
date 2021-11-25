@@ -205,17 +205,26 @@ select:-webkit-autofill:focus {
     box-shadow: 0 0 0px 1000px rgba(0, 0, 0, 0) inset;;
     transition: background-color 5000s ease-in-out 0s;
 }
-.interlinear-card {
+.interlinear-card, .commentary-header {
   display: flex;
   flex-direction: row;
-
 }
-.interlinear-content {
+.commentary-card {
+  display: flex;
+  flex-direction: column;
+}
+.interlinear-content, .commentary-content {
   width: 90%;
 }
-.interlinear-card > svg {
+.interlinear-card > svg, .commentary-card > svg {
   align-items: center;
   padding: 2rem;
+}
+/* .commentary-header > svg:active {
+  transform: rotate(90deg);
+} */
+.second {
+  margin-right: 0;
 }
 .arrow {
   margin: auto

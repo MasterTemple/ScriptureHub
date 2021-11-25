@@ -1,5 +1,10 @@
 // const ENTER_KEY = "13"
 var rightContent = "interlinear"
+var apiData = {
+  interlinear: [],
+  commentary: [],
+  context: []
+}
 async function get(url){
   return new Promise( (resolve, reject) => {
       fetch(url)
@@ -74,8 +79,9 @@ async function updateInterLinearContent(verse) {
 
   // let interlinear = await get(`./../BibleHub/json/interlinear/${book.to}/${chapter}/${start_verse}.json`)
   let json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
+  apiData['interlinear'] = json
 
-  console.log(json);
+  // console.log(json);
   let int = document.getElementById(rightContent)
   // console.log(int);
   int.innerHTML = ""
@@ -102,27 +108,30 @@ async function updateCommentaryContent(verse) {
 
   // let interlinear = await get(`./../BibleHub/json/interlinear/${book.to}/${chapter}/${start_verse}.json`)
   let json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
+  apiData['commentary'] = json
 
   // console.log(json);
   let int = document.getElementById(rightContent)
   // console.log(int);
   int.innerHTML = ""
-  json.forEach( ({type, name, text}) => {
-    int.innerHTML += `<h3>${name}</h3><p>${text.join("")}</p>`
+  json.forEach( ({type, name, text}, c) => {
+    // if(name === "Links") continue;
+    // int.innerHTML += `<h3>${name}</h3><p>${text.join("")}</p>`
     // let strongs = ""
     // if(num){
     //   strongs = ` [${num}]`
     // }
-    // int.innerHTML += `
-    // <article class="interlinear-card">
-    // <div class="interlinear-content">
-    // <h3>${word} - <span class="accent">${grk || heb} ${translit} </span></h3>
-    // <h4 class="parse"><span class="accent">${parse}</span>${strongs}</h4>
-    // <p class="definition">${str2}</p>
-    // </div>
-    // <svg class="fill-svg arrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
-    // </article>
-    // `
+    int.innerHTML += `
+    <article class="commentary-card">
+    <div class="commentary-header cmt-${c}">
+    <div class="commentary-content">
+    <h3>${name}</h3>
+    </div>
+    <svg class="fill-svg arrow" onclick="commentaryDropDown(${c})" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
+    </div>
+    <div class="commentary-text" id="commentary-text-${c}"></div>
+    </article>
+    `
   })
 }
 async function updateContextContent(verse) {
@@ -153,6 +162,27 @@ async function updateContextContent(verse) {
   //   `
   // })
 }
+function commentaryDropDown(c) {
+  // console.log(document.querySelector(`.cmt-${c} > svg`).style.transform);
+  let commentary = document.getElementById(`commentary-text-${c}`)
+
+  if(document.querySelector(`.cmt-${c} > svg`).style.transform === "rotate(90deg)"){
+    // document.querySelector(`.cmt-${c} > svg`).style.transform === "rotate(0deg)"
+    document.querySelector(`.cmt-${c} > svg`).style.transform = "rotate(0deg)"
+    commentary.textContent = ""
+
+  }else{
+    document.querySelector(`.cmt-${c} > svg`).style.transform = "rotate(90deg)"
+    commentary.textContent = apiData.commentary[c].text.join("")
+  }
+  //  {
+  //   transform: rotate(90deg);
+  // }
+  // console.log(c);
+  // console.log(apiData.commentary);
+  // console.log(apiData.commentary[c]);
+}
+
 function changeRightContent(iconClicked) {
   // document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(40%) opacity(0.7)";
   document.getElementById(`${rightContent}-icon`).classList.remove("selected")
