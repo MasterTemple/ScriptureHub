@@ -101,28 +101,29 @@ async function updateCommentaryContent(verse) {
     )]?.[0]?.groups
 
   // let interlinear = await get(`./../BibleHub/json/interlinear/${book.to}/${chapter}/${start_verse}.json`)
-  // let json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
+  let json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
 
   // console.log(json);
   let int = document.getElementById(rightContent)
   // console.log(int);
   int.innerHTML = ""
-  // json.forEach( ({word, grk, heb, translit, str, str2, parse, num}) => {
-  //   let strongs = ""
-  //   if(num){
-  //     strongs = ` [${num}]`
-  //   }
-  //   int.innerHTML += `
-  //   <article class="interlinear-card">
-  //   <div class="interlinear-content">
-  //   <h3>${word} - <span class="accent">${grk || heb} ${translit} </span></h3>
-  //   <h4 class="parse"><span class="accent">${parse}</span>${strongs}</h4>
-  //   <p class="definition">${str2}</p>
-  //   </div>
-  //   <svg class="fill-svg arrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
-  //   </article>
-  //   `
-  // })
+  json.forEach( ({type, name, text}) => {
+    int.innerHTML += `<h3>${name}</h3><p>${text.join("")}</p>`
+    // let strongs = ""
+    // if(num){
+    //   strongs = ` [${num}]`
+    // }
+    // int.innerHTML += `
+    // <article class="interlinear-card">
+    // <div class="interlinear-content">
+    // <h3>${word} - <span class="accent">${grk || heb} ${translit} </span></h3>
+    // <h4 class="parse"><span class="accent">${parse}</span>${strongs}</h4>
+    // <p class="definition">${str2}</p>
+    // </div>
+    // <svg class="fill-svg arrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
+    // </article>
+    // `
+  })
 }
 async function updateContextContent(verse) {
   let {book, chapter, start_verse, end_verse} = [...verse.matchAll(/(?<book>\d? ?\w+) (?<chapter>\d{1,3}):(?<start_verse>\d{1,3})-?(?<end_verse>\d{1,3})?/gim

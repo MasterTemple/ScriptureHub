@@ -48,7 +48,7 @@ module.exports = async(book, chapter, verse) => {
         }else{
           try{
             // console.log(child.localName);
-            if(child.localName === "p"){
+            if(child.localName === "p" || child.localName === "br"){
               console.log(`${c}. ${child.localName}`);
               obj.text.push("\n")
             }
