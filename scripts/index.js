@@ -53,7 +53,7 @@ async function updateRightContent(verse) {
 }
 
 async function updateInterLinearContent(verse) {
-  let {book, chapter, start_verse, end_verse} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):(?<start_verse>\d{1,3})-?(?<end_verse>\d{1,3})?/gim
+  let {book, chapter, start_verse, end_verse} = [...verse.matchAll(/(?<book>\d? ?\w+) (?<chapter>\d{1,3}):(?<start_verse>\d{1,3})-?(?<end_verse>\d{1,3})?/gim
     )]?.[0]?.groups
 
   // let interlinear = await get(`./../BibleHub/json/interlinear/${book.to}/${chapter}/${start_verse}.json`)
@@ -82,7 +82,11 @@ async function updateInterLinearContent(verse) {
 }
 
 function changeRightContent(iconClicked) {
-  rightContent = iconClicked.value
+  document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(40%) opacity(0.7)";
+  rightContent = iconClicked
+  document.getElementById(`${iconClicked}-icon`).style.filter = "grayscale(0%) opacity(1)";
+
+  // document.getElementById(`${iconClicked}-icon`).value // IM HERE
   updateRightContent(document.getElementById("search").value)
 }
 
