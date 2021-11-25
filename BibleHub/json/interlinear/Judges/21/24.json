@@ -5,7 +5,8 @@
     "translit": "(ha·hî)",
     "parse": "Article | Pronoun - third person feminine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "time,",
@@ -13,7 +14,8 @@
     "translit": "(bā·‘êṯ)",
     "parse": "Preposition-b, Article | Noun - common singular",
     "str": "Strong's 6256:  ",
-    "str2": "Time, now, when"
+    "str2": "Time, now, when",
+    "num": 6256
   },
   {
     "word": "each",
@@ -21,7 +23,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "of the Israelites",
@@ -29,7 +32,8 @@
     "translit": "(bə·nê-)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "returned",
@@ -37,7 +41,8 @@
     "translit": "(way·yiṯ·hal·lə·ḵū)",
     "parse": "Conjunctive waw | Verb - Hitpael - Consecutive imperfect - third person masculine plural",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "from there",
@@ -45,7 +50,8 @@
     "translit": "(miš·šām)",
     "parse": "Preposition-m | Adverb",
     "str": "Strong's 8033:  ",
-    "str2": "There, then, thither"
+    "str2": "There, then, thither",
+    "num": 8033
   },
   {
     "word": "to his own tribe",
@@ -53,7 +59,8 @@
     "translit": "(lə·šiḇ·ṭōw)",
     "parse": "Preposition-l | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 7626:  ",
-    "str2": "Rod, staff, club, scepter, tribe"
+    "str2": "Rod, staff, club, scepter, tribe",
+    "num": 7626
   },
   {
     "word": "and clan,",
@@ -61,7 +68,8 @@
     "translit": "(ū·lə·miš·paḥ·tōw)",
     "parse": "Conjunctive waw, Preposition-l | Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 4940:  ",
-    "str2": "A family, circle of relatives, a class, a species, sort, a tribe, people"
+    "str2": "A family, circle of relatives, a class, a species, sort, a tribe, people",
+    "num": 4940
   },
   {
     "word": "each",
@@ -69,7 +77,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "to his own inheritance.",
@@ -77,6 +86,7 @@
     "translit": "(lə·na·ḥă·lā·ṯōw)",
     "parse": "Preposition-l | Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 5159:  ",
-    "str2": "Something inherited, occupancy, an heirloom, an estate, patrimony, portion"
+    "str2": "Something inherited, occupancy, an heirloom, an estate, patrimony, portion",
+    "num": 5159
   }
 ]

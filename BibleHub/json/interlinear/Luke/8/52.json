@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "everyone",
@@ -13,7 +14,8 @@
     "translit": "(pantes)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "was weeping",
@@ -21,7 +23,8 @@
     "translit": "(eklaion)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2799:  ",
-    "str2": "To weep, weep for, mourn, lament. Of uncertain affinity; to sob, i.e. Wail aloud."
+    "str2": "To weep, weep for, mourn, lament. Of uncertain affinity; to sob, i.e. Wail aloud.",
+    "num": 2799
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "mourning for",
@@ -37,7 +41,8 @@
     "translit": "(ekoptonto)",
     "parse": "Verb - Imperfect Indicative Middle - 3rd Person Plural",
     "str": "Strong's 2875:  ",
-    "str2": "A primary verb; to 'chop'; specially, to beat the breast in grief."
+    "str2": "A primary verb; to 'chop'; specially, to beat the breast in grief.",
+    "num": 2875
   },
   {
     "word": "her.",
@@ -45,7 +50,8 @@
     "translit": "(autēn)",
     "parse": "Personal / Possessive Pronoun - Accusative Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "But",
@@ -53,7 +59,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[Jesus] said,",
@@ -61,7 +68,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“Stop weeping;",
@@ -69,7 +77,8 @@
     "translit": "(klaiete)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 2799:  ",
-    "str2": "To weep, weep for, mourn, lament. Of uncertain affinity; to sob, i.e. Wail aloud."
+    "str2": "To weep, weep for, mourn, lament. Of uncertain affinity; to sob, i.e. Wail aloud.",
+    "num": 2799
   },
   {
     "word": "she is not dead",
@@ -77,7 +86,8 @@
     "translit": "(apethanen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 599:  ",
-    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off."
+    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off.",
+    "num": 599
   },
   {
     "word": "but",
@@ -85,7 +95,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "asleep.”",
@@ -93,6 +104,7 @@
     "translit": "(katheudei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2518:  ",
-    "str2": "To sleep, be sleeping. From kata and heudo; to lie down to rest, i.e. to fall asleep."
+    "str2": "To sleep, be sleeping. From kata and heudo; to lie down to rest, i.e. to fall asleep.",
+    "num": 2518
   }
 ]

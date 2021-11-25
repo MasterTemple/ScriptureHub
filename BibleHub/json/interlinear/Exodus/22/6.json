@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "a fire",
@@ -13,7 +14,8 @@
     "translit": "(’êš)",
     "parse": "Noun - common singular",
     "str": "Strong's 784:  ",
-    "str2": "A fire"
+    "str2": "A fire",
+    "num": 784
   },
   {
     "word": "breaks out",
@@ -21,7 +23,8 @@
     "translit": "(ṯê·ṣê)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "and spreads",
@@ -29,7 +32,8 @@
     "translit": "(ū·mā·ṣə·’āh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person feminine singular",
     "str": "Strong's 4672:  ",
-    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present"
+    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present",
+    "num": 4672
   },
   {
     "word": "to thornbushes",
@@ -37,7 +41,8 @@
     "translit": "(qō·ṣîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 6975:  ",
-    "str2": "A thorn, thornbush"
+    "str2": "A thorn, thornbush",
+    "num": 6975
   },
   {
     "word": "so that it consumes",
@@ -45,7 +50,8 @@
     "translit": "(wə·ne·’ĕ·ḵal)",
     "parse": "Conjunctive waw | Verb - Nifal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "stacked",
@@ -53,7 +59,8 @@
     "translit": "(gā·ḏîš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1430:  ",
-    "str2": "A stack of sheaves, a tomb"
+    "str2": "A stack of sheaves, a tomb",
+    "num": 1430
   },
   {
     "word": "or",
@@ -61,7 +68,8 @@
     "translit": "(’ōw)",
     "parse": "Conjunction",
     "str": "Strong's 176:  ",
-    "str2": "Desire, if"
+    "str2": "Desire, if",
+    "num": 176
   },
   {
     "word": "standing grain,",
@@ -69,7 +77,8 @@
     "translit": "(haq·qā·māh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 7054:  ",
-    "str2": "Something that rises, a stalk of grain"
+    "str2": "Something that rises, a stalk of grain",
+    "num": 7054
   },
   {
     "word": "or",
@@ -77,7 +86,8 @@
     "translit": "(’ōw)",
     "parse": "Conjunction",
     "str": "Strong's 176:  ",
-    "str2": "Desire, if"
+    "str2": "Desire, if",
+    "num": 176
   },
   {
     "word": "the whole field,",
@@ -85,7 +95,8 @@
     "translit": "(haś·śā·ḏeh)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 7704:  ",
-    "str2": "Field, land"
+    "str2": "Field, land",
+    "num": 7704
   },
   {
     "word": "the one who started",
@@ -93,7 +104,8 @@
     "translit": "(ham·maḇ·‘ir)",
     "parse": "Article | Verb - Hifil - Participle - masculine singular",
     "str": "Strong's 1197:  ",
-    "str2": "To kindle, consume,   to be, brutish"
+    "str2": "To kindle, consume,   to be, brutish",
+    "num": 1197
   },
   {
     "word": "the fire",
@@ -101,7 +113,8 @@
     "translit": "(hab·bə·‘ê·rāh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 1200:  ",
-    "str2": "A burning"
+    "str2": "A burning",
+    "num": 1200
   },
   {
     "word": "must make full restitution.",
@@ -109,6 +122,7 @@
     "translit": "(šal·lêm)",
     "parse": "Verb - Piel - Infinitive absolute",
     "str": "Strong's 7999:  ",
-    "str2": "To be safe, to be, completed, to be friendly, to reciprocate"
+    "str2": "To be safe, to be, completed, to be friendly, to reciprocate",
+    "num": 7999
   }
 ]

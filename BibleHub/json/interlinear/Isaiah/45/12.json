@@ -5,7 +5,8 @@
     "translit": "(’ā·nō·ḵî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "who made",
@@ -13,7 +14,8 @@
     "translit": "(‘ā·śî·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "the earth,",
@@ -21,7 +23,8 @@
     "translit": "(’e·reṣ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "and created",
@@ -29,7 +32,8 @@
     "translit": "(ḇā·rā·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 1254:  ",
-    "str2": "To create, to cut down, select, feed"
+    "str2": "To create, to cut down, select, feed",
+    "num": 1254
   },
   {
     "word": "man",
@@ -37,7 +41,8 @@
     "translit": "(wə·’ā·ḏām)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   },
   {
     "word": "upon it.",
@@ -45,7 +50,8 @@
     "translit": "(‘ā·le·hā)",
     "parse": "Preposition | third person feminine singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "It was My hands",
@@ -53,7 +59,8 @@
     "translit": "(yā·ḏay)",
     "parse": "Noun - fdc | first person common singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "that stretched out",
@@ -61,7 +68,8 @@
     "translit": "(nā·ṭū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 5186:  ",
-    "str2": "To stretch out, spread out, extend, incline, bend"
+    "str2": "To stretch out, spread out, extend, incline, bend",
+    "num": 5186
   },
   {
     "word": "the heavens,",
@@ -69,7 +77,8 @@
     "translit": "(šā·ma·yim)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 8064:  ",
-    "str2": "Heaven, sky"
+    "str2": "Heaven, sky",
+    "num": 8064
   },
   {
     "word": "and I ordained",
@@ -77,7 +86,8 @@
     "translit": "(ṣiw·wê·ṯî)",
     "parse": "Verb - Piel - Perfect - first person common singular",
     "str": "Strong's 6680:  ",
-    "str2": "To lay charge (upon), give charge (to), command, order"
+    "str2": "To lay charge (upon), give charge (to), command, order",
+    "num": 6680
   },
   {
     "word": "all",
@@ -85,7 +95,8 @@
     "translit": "(wə·ḵāl)",
     "parse": "Conjunctive waw | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "their host.",
@@ -93,6 +104,7 @@
     "translit": "(ṣə·ḇā·’ām)",
     "parse": "Noun - common singular construct | third person masculine plural",
     "str": "Strong's 6635:  ",
-    "str2": "A mass of persons, reg, organized for, war, a campaign"
+    "str2": "A mass of persons, reg, organized for, war, a campaign",
+    "num": 6635
   }
 ]

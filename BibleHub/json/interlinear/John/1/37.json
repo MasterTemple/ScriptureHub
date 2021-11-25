@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "two",
@@ -21,7 +23,8 @@
     "translit": "(dyo)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 1417:  ",
-    "str2": "Two. A primary numeral; 'two'."
+    "str2": "Two. A primary numeral; 'two'.",
+    "num": 1417
   },
   {
     "word": "disciples",
@@ -29,7 +32,8 @@
     "translit": "(mathētai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   },
   {
     "word": "heard",
@@ -37,7 +41,8 @@
     "translit": "(ēkousan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "him",
@@ -45,7 +50,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "say this,",
@@ -53,7 +59,8 @@
     "translit": "(lalountos)",
     "parse": "Verb - Present Participle Active - Genitive Masculine Singular",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "they followed",
@@ -61,7 +68,8 @@
     "translit": "(ēkolouthēsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 190:  ",
-    "str2": "To accompany, attend, follow. Properly, to be in the same way with, i.e. To accompany."
+    "str2": "To accompany, attend, follow. Properly, to be in the same way with, i.e. To accompany.",
+    "num": 190
   },
   {
     "word": "Jesus.",
@@ -69,6 +77,7 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   }
 ]

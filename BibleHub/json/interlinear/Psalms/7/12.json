@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "one does not",
@@ -13,7 +14,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "repent,",
@@ -21,7 +23,8 @@
     "translit": "(yā·šūḇ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "God will sharpen",
@@ -29,7 +32,8 @@
     "translit": "(yil·ṭō·wōš)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 3913:  ",
-    "str2": "To hammer out, to sharpen"
+    "str2": "To hammer out, to sharpen",
+    "num": 3913
   },
   {
     "word": "His sword;",
@@ -37,7 +41,8 @@
     "translit": "(ḥar·bōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 2719:  ",
-    "str2": "Drought, a cutting instrument, as a, knife, sword"
+    "str2": "Drought, a cutting instrument, as a, knife, sword",
+    "num": 2719
   },
   {
     "word": "He has bent",
@@ -45,7 +50,8 @@
     "translit": "(ḏā·raḵ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 1869:  ",
-    "str2": "To tread, to walk, to string a, bow"
+    "str2": "To tread, to walk, to string a, bow",
+    "num": 1869
   },
   {
     "word": "and strung",
@@ -53,7 +59,8 @@
     "translit": "(way·ḵō·wn·ne·hā)",
     "parse": "Conjunctive waw | Verb - Piel - Consecutive imperfect - third person masculine singular | third person feminine singular",
     "str": "Strong's 3559:  ",
-    "str2": "To be erect"
+    "str2": "To be erect",
+    "num": 3559
   },
   {
     "word": "His bow.",
@@ -61,6 +68,7 @@
     "translit": "(qaš·tōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 7198:  ",
-    "str2": "A bow, for, shooting, the iris"
+    "str2": "A bow, for, shooting, the iris",
+    "num": 7198
   }
 ]

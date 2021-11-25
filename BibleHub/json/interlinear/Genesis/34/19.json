@@ -5,7 +5,8 @@
     "translit": "(han·na·‘ar)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5288:  ",
-    "str2": "A boy, lad, youth, retainer"
+    "str2": "A boy, lad, youth, retainer",
+    "num": 5288
   },
   {
     "word": "who [was]",
@@ -13,7 +14,8 @@
     "translit": "(wə·hū)",
     "parse": "Conjunctive waw | Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "the most respected",
@@ -21,7 +23,8 @@
     "translit": "(niḵ·bāḏ)",
     "parse": "Verb - Nifal - Participle - masculine singular",
     "str": "Strong's 3513:  ",
-    "str2": "To be heavy, weighty, or burdensome"
+    "str2": "To be heavy, weighty, or burdensome",
+    "num": 3513
   },
   {
     "word": "of all",
@@ -29,7 +32,8 @@
     "translit": "(mik·kōl)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "his father’s",
@@ -37,7 +41,8 @@
     "translit": "(’ā·ḇîw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "household,",
@@ -45,7 +50,8 @@
     "translit": "(bêṯ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "did not",
@@ -53,7 +59,8 @@
     "translit": "(wə·lō-)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "hesitate",
@@ -61,7 +68,8 @@
     "translit": "(’ê·ḥar)",
     "parse": "Verb - Piel - Perfect - third person masculine singular",
     "str": "Strong's 309:  ",
-    "str2": "To loiter, to procrastinate"
+    "str2": "To loiter, to procrastinate",
+    "num": 309
   },
   {
     "word": "to fulfill",
@@ -69,7 +77,8 @@
     "translit": "(la·‘ă·śō·wṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "this request,",
@@ -77,7 +86,8 @@
     "translit": "(had·dā·ḇār)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "because",
@@ -85,7 +95,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "he was delighted",
@@ -93,7 +104,8 @@
     "translit": "(ḥā·p̄êṣ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 2654:  ",
-    "str2": "To incline to, to bend, to be pleased with, desire"
+    "str2": "To incline to, to bend, to be pleased with, desire",
+    "num": 2654
   },
   {
     "word": "with Jacob’s",
@@ -101,7 +113,8 @@
     "translit": "(ya·‘ă·qōḇ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3290:  ",
-    "str2": "Jacob -- a son of Isaac, also his desc"
+    "str2": "Jacob -- a son of Isaac, also his desc",
+    "num": 3290
   },
   {
     "word": "daughter.",
@@ -109,6 +122,7 @@
     "translit": "(bə·ḇaṯ-)",
     "parse": "Preposition-b | Noun - feminine singular construct",
     "str": "Strong's 1323:  ",
-    "str2": "A daughter"
+    "str2": "A daughter",
+    "num": 1323
   }
 ]

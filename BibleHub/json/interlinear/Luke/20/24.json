@@ -5,7 +5,8 @@
     "translit": "(Deixate)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 1166:  ",
-    "str2": "A prolonged form of an obsolete primary of the same meaning; to show."
+    "str2": "A prolonged form of an obsolete primary of the same meaning; to show.",
+    "num": 1166
   },
   {
     "word": "Me",
@@ -13,7 +14,8 @@
     "translit": "(moi)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "a denarius.",
@@ -21,7 +23,8 @@
     "translit": "(dēnarion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 1220:  ",
-    "str2": "A denarius, a small Roman silver coin. Of Latin origin; a denarius."
+    "str2": "A denarius, a small Roman silver coin. Of Latin origin; a denarius.",
+    "num": 1220
   },
   {
     "word": "Whose",
@@ -29,7 +32,8 @@
     "translit": "(tinos)",
     "parse": "Interrogative / Indefinite Pronoun - Genitive Masculine Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "image",
@@ -37,7 +41,8 @@
     "translit": "(eikona)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1504:  ",
-    "str2": "An image, likeness, bust. From eiko; a likeness, i.e. statue, profile, or representation, resemblance."
+    "str2": "An image, likeness, bust. From eiko; a likeness, i.e. statue, profile, or representation, resemblance.",
+    "num": 1504
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "inscription",
@@ -53,7 +59,8 @@
     "translit": "(epigraphēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1923:  ",
-    "str2": "An inscription, title, label. From epigrapho; an inscription."
+    "str2": "An inscription, title, label. From epigrapho; an inscription.",
+    "num": 1923
   },
   {
     "word": "are on it?”",
@@ -61,7 +68,8 @@
     "translit": "(echei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "“Caesar’s,”",
@@ -69,7 +77,8 @@
     "translit": "(Kaisaros)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2541:  ",
-    "str2": "Of Latin origin; Caesar, a title of the Roman emperor."
+    "str2": "Of Latin origin; Caesar, a title of the Roman emperor.",
+    "num": 2541
   },
   {
     "word": "they answered.",
@@ -77,6 +86,7 @@
     "translit": "(eipan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   }
 ]

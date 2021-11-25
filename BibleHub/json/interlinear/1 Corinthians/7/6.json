@@ -5,7 +5,8 @@
     "translit": "(legō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "this",
@@ -13,7 +14,8 @@
     "translit": "(touto)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "as",
@@ -21,7 +23,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "a concession,",
@@ -29,7 +32,8 @@
     "translit": "(syngnōmēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4774:  ",
-    "str2": "Permission, indulgence, concession. From a compound of sun and ginosko; fellow knowledge, i.e. Concession."
+    "str2": "Permission, indulgence, concession. From a compound of sun and ginosko; fellow knowledge, i.e. Concession.",
+    "num": 4774
   },
   {
     "word": "not",
@@ -37,7 +41,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "as",
@@ -45,7 +50,8 @@
     "translit": "(kat’)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "a command.",
@@ -53,6 +59,7 @@
     "translit": "(epitagēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2003:  ",
-    "str2": "Instruction, command, order, authority. From epitasso; an injunction or decree; by implication, authoritativeness."
+    "str2": "Instruction, command, order, authority. From epitasso; an injunction or decree; by implication, authoritativeness.",
+    "num": 2003
   }
 ]

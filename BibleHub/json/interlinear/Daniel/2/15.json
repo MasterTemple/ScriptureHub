@@ -5,7 +5,8 @@
     "translit": "(‘al-)",
     "parse": "Interrogative",
     "str": "Strong's 5922:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5922
   },
   {
     "word": "is the decree",
@@ -13,7 +14,8 @@
     "translit": "(ḏā·ṯā)",
     "parse": "Noun - feminine singular determinate",
     "str": "Strong's 1882:  ",
-    "str2": "A royal edict, statute"
+    "str2": "A royal edict, statute",
+    "num": 1882
   },
   {
     "word": "from",
@@ -21,7 +23,8 @@
     "translit": "(min-)",
     "parse": "Preposition",
     "str": "Strong's 4481:  ",
-    "str2": "From, out of, by, by reason of, at, more than"
+    "str2": "From, out of, by, by reason of, at, more than",
+    "num": 4481
   },
   {
     "word": "the king",
@@ -29,7 +32,8 @@
     "translit": "(mal·kā)",
     "parse": "Noun - masculine singular determinate",
     "str": "Strong's 4430:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4430
   },
   {
     "word": "so harsh?”",
@@ -37,7 +41,8 @@
     "translit": "(mə·haḥ·ṣə·p̄āh)",
     "parse": "Verb - Hifil - Participle - feminine singular",
     "str": "Strong's 2685:  ",
-    "str2": "To shear, cut close, to be severe"
+    "str2": "To shear, cut close, to be severe",
+    "num": 2685
   },
   {
     "word": "he asked.",
@@ -45,7 +50,8 @@
     "translit": "(‘ā·nêh)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 6032:  ",
-    "str2": "To answer"
+    "str2": "To answer",
+    "num": 6032
   },
   {
     "word": "At this time",
@@ -53,7 +59,8 @@
     "translit": "(’ĕ·ḏa·yin)",
     "parse": "Adverb",
     "str": "Strong's 116:  ",
-    "str2": "Then, thereupon"
+    "str2": "Then, thereupon",
+    "num": 116
   },
   {
     "word": "Arioch",
@@ -61,7 +68,8 @@
     "translit": "(’ar·yō·wḵ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 746:  ",
-    "str2": "Arioch -- king of Ellasar"
+    "str2": "Arioch -- king of Ellasar",
+    "num": 746
   },
   {
     "word": "explained",
@@ -69,7 +77,8 @@
     "translit": "(hō·w·ḏa‘)",
     "parse": "Verb - Hifil - Perfect - third person masculine singular",
     "str": "Strong's 3046:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3046
   },
   {
     "word": "the situation",
@@ -77,7 +86,8 @@
     "translit": "(mil·lə·ṯā)",
     "parse": "Noun - feminine singular determinate",
     "str": "Strong's 4406:  ",
-    "str2": "A word, command, discourse, subject"
+    "str2": "A word, command, discourse, subject",
+    "num": 4406
   },
   {
     "word": "to Daniel.",
@@ -85,6 +95,7 @@
     "translit": "(lə·ḏā·nî·yêl)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 1841:  ",
-    "str2": "Daniel -- 'God is my judge', an Israelite leader in Babylon"
+    "str2": "Daniel -- 'God is my judge', an Israelite leader in Babylon",
+    "num": 1841
   }
 ]

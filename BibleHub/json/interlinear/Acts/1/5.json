@@ -5,7 +5,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "John",
@@ -13,7 +14,8 @@
     "translit": "(Iōannēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2491:  ",
-    "str2": "Of Hebrew origin; Joannes, the name of four Israelites."
+    "str2": "Of Hebrew origin; Joannes, the name of four Israelites.",
+    "num": 2491
   },
   {
     "word": "baptized",
@@ -21,7 +23,8 @@
     "translit": "(ebaptisen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 907:  ",
-    "str2": "Lit: I dip, submerge, but specifically of ceremonial dipping; I baptize. "
+    "str2": "Lit: I dip, submerge, but specifically of ceremonial dipping; I baptize. ",
+    "num": 907
   },
   {
     "word": "with water,",
@@ -29,7 +32,8 @@
     "translit": "(hydati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 5204:  ",
-    "str2": "Water. And genitive case, hudatos, etc. From the base of huetos; water literally or figuratively."
+    "str2": "Water. And genitive case, hudatos, etc. From the base of huetos; water literally or figuratively.",
+    "num": 5204
   },
   {
     "word": "but",
@@ -37,7 +41,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "in a few",
@@ -45,7 +50,8 @@
     "translit": "(pollas)",
     "parse": "Adjective - Accusative Feminine Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "days",
@@ -53,7 +59,8 @@
     "translit": "(hēmeras)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "you",
@@ -61,7 +68,8 @@
     "translit": "(hymeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "will be baptized",
@@ -69,7 +77,8 @@
     "translit": "(baptisthēsesthe)",
     "parse": "Verb - Future Indicative Passive - 2nd Person Plural",
     "str": "Strong's 907:  ",
-    "str2": "Lit: I dip, submerge, but specifically of ceremonial dipping; I baptize. "
+    "str2": "Lit: I dip, submerge, but specifically of ceremonial dipping; I baptize. ",
+    "num": 907
   },
   {
     "word": "with",
@@ -77,7 +86,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[the] Holy",
@@ -85,7 +95,8 @@
     "translit": "(Hagiō)",
     "parse": "Adjective - Dative Neuter Singular",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   },
   {
     "word": "Spirit.”",
@@ -93,6 +104,7 @@
     "translit": "(Pneumati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   }
 ]

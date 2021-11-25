@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[Joseph] got up,",
@@ -13,7 +14,8 @@
     "translit": "(egertheis)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Singular",
     "str": "Strong's 1453:  ",
-    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse."
+    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse.",
+    "num": 1453
   },
   {
     "word": "took",
@@ -21,7 +23,8 @@
     "translit": "(parelaben)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3880:  ",
-    "str2": "From para and lambano; to receive near, i.e. Associate with oneself; by analogy, to assume an office; figuratively, to learn."
+    "str2": "From para and lambano; to receive near, i.e. Associate with oneself; by analogy, to assume an office; figuratively, to learn.",
+    "num": 3880
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Child",
@@ -37,7 +41,8 @@
     "translit": "(paidion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3813:  ",
-    "str2": "Neuter diminutive of pais; a childling, i.e., an infant, or a half-grown boy or girl; figuratively, an immature Christian."
+    "str2": "Neuter diminutive of pais; a childling, i.e., an infant, or a half-grown boy or girl; figuratively, an immature Christian.",
+    "num": 3813
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "His",
@@ -53,7 +59,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "mother,",
@@ -61,7 +68,8 @@
     "translit": "(mētera)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3384:  ",
-    "str2": "A mother. Apparently a primary word; a 'mother'."
+    "str2": "A mother. Apparently a primary word; a 'mother'.",
+    "num": 3384
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "went",
@@ -77,7 +86,8 @@
     "translit": "(eisēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "to",
@@ -85,7 +95,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "[the] land",
@@ -93,7 +104,8 @@
     "translit": "(gēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1093:  ",
-    "str2": "Contracted from a primary word; soil; by extension a region, or the solid part or the whole of the terrene globe."
+    "str2": "Contracted from a primary word; soil; by extension a region, or the solid part or the whole of the terrene globe.",
+    "num": 1093
   },
   {
     "word": "of Israel.",
@@ -101,6 +113,7 @@
     "translit": "(Israēl)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2474:  ",
-    "str2": "Of Hebrew origin; Israel, the adopted name of Jacob, including his descendants."
+    "str2": "Of Hebrew origin; Israel, the adopted name of Jacob, including his descendants.",
+    "num": 2474
   }
 ]

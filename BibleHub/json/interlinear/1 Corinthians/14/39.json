@@ -5,7 +5,8 @@
     "translit": "(Hōste)",
     "parse": "Conjunction",
     "str": "Strong's 5620:  ",
-    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore."
+    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore.",
+    "num": 5620
   },
   {
     "word": "my",
@@ -13,7 +14,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "brothers,",
@@ -21,7 +23,8 @@
     "translit": "(adelphoi)",
     "parse": "Noun - Vocative Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "be eager",
@@ -29,7 +32,8 @@
     "translit": "(zēloute)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 2206:  ",
-    "str2": "From zelos; to have warmth of feeling for or against."
+    "str2": "From zelos; to have warmth of feeling for or against.",
+    "num": 2206
   },
   {
     "word": "to prophesy",
@@ -37,7 +41,8 @@
     "translit": "(prophēteuein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 4395:  ",
-    "str2": "From prophetes; to foretell events, divine, speak under inspiration, exercise the prophetic office."
+    "str2": "From prophetes; to foretell events, divine, speak under inspiration, exercise the prophetic office.",
+    "num": 4395
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "{do} not",
@@ -53,7 +59,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "forbid",
@@ -61,7 +68,8 @@
     "translit": "(kōlyete)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 2967:  ",
-    "str2": "To prevent, debar, hinder; with infin: from doing so and so. From the base of kolazo; to estop, i.e. Prevent."
+    "str2": "To prevent, debar, hinder; with infin: from doing so and so. From the base of kolazo; to estop, i.e. Prevent.",
+    "num": 2967
   },
   {
     "word": "speaking",
@@ -69,7 +77,8 @@
     "translit": "(lalein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "in tongues.",
@@ -77,6 +86,7 @@
     "translit": "(glōssais)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 1100:  ",
-    "str2": "The tongue; by implication, a language."
+    "str2": "The tongue; by implication, a language.",
+    "num": 1100
   }
 ]

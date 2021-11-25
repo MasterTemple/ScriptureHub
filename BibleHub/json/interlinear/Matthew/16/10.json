@@ -5,7 +5,8 @@
     "translit": "(oude)",
     "parse": "Conjunction",
     "str": "Strong's 3761:  ",
-    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even."
+    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even.",
+    "num": 3761
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "seven",
@@ -21,7 +23,8 @@
     "translit": "(hepta)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 2033:  ",
-    "str2": "Seven. A primary number; seven."
+    "str2": "Seven. A primary number; seven.",
+    "num": 2033
   },
   {
     "word": "loaves",
@@ -29,7 +32,8 @@
     "translit": "(artous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 740:  ",
-    "str2": "Bread, a loaf, food. From airo; bread or a loaf."
+    "str2": "Bread, a loaf, food. From airo; bread or a loaf.",
+    "num": 740
   },
   {
     "word": "for the",
@@ -37,7 +41,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "four thousand,",
@@ -45,7 +50,8 @@
     "translit": "(tetrakischiliōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 5070:  ",
-    "str2": "Four thousand. From the multiplicative adverb of tessares and chilioi; four times a thousand."
+    "str2": "Four thousand. From the multiplicative adverb of tessares and chilioi; four times a thousand.",
+    "num": 5070
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "how many",
@@ -61,7 +68,8 @@
     "translit": "(posas)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Feminine Plural",
     "str": "Strong's 4214:  ",
-    "str2": "How much, how great, how many. From an absolute pos and hos; interrogative pronoun how much (plural) many)."
+    "str2": "How much, how great, how many. From an absolute pos and hos; interrogative pronoun how much (plural) many).",
+    "num": 4214
   },
   {
     "word": "basketfuls",
@@ -69,7 +77,8 @@
     "translit": "(spyridas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 4711:  ",
-    "str2": "A plaited basket. From speiro; a hamper or lunch-receptacle."
+    "str2": "A plaited basket. From speiro; a hamper or lunch-receptacle.",
+    "num": 4711
   },
   {
     "word": "you gathered?",
@@ -77,6 +86,7 @@
     "translit": "(elabete)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Plural",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   }
 ]

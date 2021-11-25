@@ -5,7 +5,8 @@
     "translit": "(exeplēssonto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 1605:  ",
-    "str2": "To strike with panic or shock; I amaze, astonish. From ek and plesso; to strike with astonishment."
+    "str2": "To strike with panic or shock; I amaze, astonish. From ek and plesso; to strike with astonishment.",
+    "num": 1605
   },
   {
     "word": "[and] said,",
@@ -13,7 +14,8 @@
     "translit": "(legontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“He has done",
@@ -21,7 +23,8 @@
     "translit": "(pepoiēken)",
     "parse": "Verb - Perfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "all things",
@@ -29,7 +32,8 @@
     "translit": "(panta)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "well!",
@@ -37,7 +41,8 @@
     "translit": "(Kalōs)",
     "parse": "Adverb",
     "str": "Strong's 2573:  ",
-    "str2": "Well, nobly, honorably, rightly. Adverb from kalos; well."
+    "str2": "Well, nobly, honorably, rightly. Adverb from kalos; well.",
+    "num": 2573
   },
   {
     "word": "He makes",
@@ -45,7 +50,8 @@
     "translit": "(poiei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "even",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -61,7 +68,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "deaf",
@@ -69,7 +77,8 @@
     "translit": "(kōphous)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 2974:  ",
-    "str2": "(lit: blunted) dumb, dull, deaf. From kopto; blunted, i.e. of hearing or speech."
+    "str2": "(lit: blunted) dumb, dull, deaf. From kopto; blunted, i.e. of hearing or speech.",
+    "num": 2974
   },
   {
     "word": "to hear",
@@ -77,7 +86,8 @@
     "translit": "(akouein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -93,7 +104,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "mute",
@@ -101,7 +113,8 @@
     "translit": "(alalous)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 216:  ",
-    "str2": "Unable to speak or articulate; speechless. Mute."
+    "str2": "Unable to speak or articulate; speechless. Mute.",
+    "num": 216
   },
   {
     "word": "to speak!”",
@@ -109,6 +122,7 @@
     "translit": "(lalein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "we will not",
@@ -13,7 +14,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "fear,",
@@ -21,7 +23,8 @@
     "translit": "(nî·rā)",
     "parse": "Verb - Qal - Imperfect - first person common plural",
     "str": "Strong's 3372:  ",
-    "str2": "To fear, to revere, caus, to frighten"
+    "str2": "To fear, to revere, caus, to frighten",
+    "num": 3372
   },
   {
     "word": "though the earth",
@@ -29,7 +32,8 @@
     "translit": "(’ā·reṣ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "is transformed",
@@ -37,7 +41,8 @@
     "translit": "(bə·hā·mîr)",
     "parse": "Preposition-b | Verb - Hifil - Infinitive construct",
     "str": "Strong's 4171:  ",
-    "str2": "To alter, to barter, to dispose of"
+    "str2": "To alter, to barter, to dispose of",
+    "num": 4171
   },
   {
     "word": "and the mountains",
@@ -45,7 +50,8 @@
     "translit": "(hā·rîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 2022:  ",
-    "str2": "Mountain, hill, hill country"
+    "str2": "Mountain, hill, hill country",
+    "num": 2022
   },
   {
     "word": "are toppled",
@@ -53,7 +59,8 @@
     "translit": "(ū·ḇə·mō·wṭ)",
     "parse": "Conjunctive waw, Preposition-b | Verb - Qal - Infinitive construct",
     "str": "Strong's 4131:  ",
-    "str2": "To waver, to slip, shake, fall"
+    "str2": "To waver, to slip, shake, fall",
+    "num": 4131
   },
   {
     "word": "into the depths",
@@ -61,7 +68,8 @@
     "translit": "(bə·lêḇ)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3820:  ",
-    "str2": "The heart, the feelings, the will, the intellect, centre"
+    "str2": "The heart, the feelings, the will, the intellect, centre",
+    "num": 3820
   },
   {
     "word": "of the seas,",
@@ -69,6 +77,7 @@
     "translit": "(yam·mîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 3220:  ",
-    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin"
+    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin",
+    "num": 3220
   }
 ]

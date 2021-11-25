@@ -5,7 +5,8 @@
     "translit": "(mis·par)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4557:  ",
-    "str2": "A number, definite, indefinite, narration"
+    "str2": "A number, definite, indefinite, narration",
+    "num": 4557
   },
   {
     "word": "of time",
@@ -13,7 +14,8 @@
     "translit": "(hay·yā·mîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "that",
@@ -21,7 +23,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "David",
@@ -29,7 +32,8 @@
     "translit": "(ḏā·wiḏ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 1732:  ",
-    "str2": "David -- perhaps 'beloved one', a son of Jesse"
+    "str2": "David -- perhaps 'beloved one', a son of Jesse",
+    "num": 1732
   },
   {
     "word": "was",
@@ -37,7 +41,8 @@
     "translit": "(way·hî)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "king",
@@ -45,7 +50,8 @@
     "translit": "(me·leḵ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "in Hebron",
@@ -53,7 +59,8 @@
     "translit": "(bə·ḥeḇ·rō·wn)",
     "parse": "Preposition-b | Noun - proper - feminine singular",
     "str": "Strong's 2275:  ",
-    "str2": "Hebron -- 'association, league', a city in southern Judah"
+    "str2": "Hebron -- 'association, league', a city in southern Judah",
+    "num": 2275
   },
   {
     "word": "over",
@@ -61,7 +68,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the house",
@@ -69,7 +77,8 @@
     "translit": "(bêṯ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "of Judah",
@@ -77,7 +86,8 @@
     "translit": "(yə·hū·ḏāh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3063:  ",
-    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites"
+    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites",
+    "num": 3063
   },
   {
     "word": "was seven",
@@ -85,7 +95,8 @@
     "translit": "(še·ḇa‘)",
     "parse": "Number - feminine singular",
     "str": "Strong's 7651:  ",
-    "str2": "Seven, seven times, a week, an indefinite number"
+    "str2": "Seven, seven times, a week, an indefinite number",
+    "num": 7651
   },
   {
     "word": "years",
@@ -93,7 +104,8 @@
     "translit": "(šā·nîm)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "and six",
@@ -101,7 +113,8 @@
     "translit": "(wə·šiš·šāh)",
     "parse": "Conjunctive waw | Number - masculine singular",
     "str": "Strong's 8337:  ",
-    "str2": "Six (a cardinal number)"
+    "str2": "Six (a cardinal number)",
+    "num": 8337
   },
   {
     "word": "months.",
@@ -109,6 +122,7 @@
     "translit": "(ḥo·ḏā·šîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 2320:  ",
-    "str2": "The new moon, a month"
+    "str2": "The new moon, a month",
+    "num": 2320
   }
 ]

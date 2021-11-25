@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "attended to",
@@ -21,7 +23,8 @@
     "translit": "(p̄ā·qaḏ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 6485:  ",
-    "str2": "To visit, to oversee, muster, charge, care for, miss, deposit"
+    "str2": "To visit, to oversee, muster, charge, care for, miss, deposit",
+    "num": 6485
   },
   {
     "word": "Hannah,",
@@ -29,7 +32,8 @@
     "translit": "(ḥan·nāh)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 2584:  ",
-    "str2": "Hannah -- mother of Samuel"
+    "str2": "Hannah -- mother of Samuel",
+    "num": 2584
   },
   {
     "word": "and she conceived",
@@ -37,7 +41,8 @@
     "translit": "(wat·ta·har)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
     "str": "Strong's 2029:  ",
-    "str2": "To conceive, become pregnant"
+    "str2": "To conceive, become pregnant",
+    "num": 2029
   },
   {
     "word": "and gave birth to",
@@ -45,7 +50,8 @@
     "translit": "(wat·tê·leḏ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
     "str": "Strong's 3205:  ",
-    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage"
+    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage",
+    "num": 3205
   },
   {
     "word": "three",
@@ -53,7 +59,8 @@
     "translit": "(šə·lō·šāh-)",
     "parse": "Number - masculine singular",
     "str": "Strong's 7969:  ",
-    "str2": "Three, third, thrice"
+    "str2": "Three, third, thrice",
+    "num": 7969
   },
   {
     "word": "sons",
@@ -61,7 +68,8 @@
     "translit": "(ḇā·nîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "and two",
@@ -69,7 +77,8 @@
     "translit": "(ū·šə·tê)",
     "parse": "Conjunctive waw | Number - fdc",
     "str": "Strong's 8147:  ",
-    "str2": "Two (a cardinal number)"
+    "str2": "Two (a cardinal number)",
+    "num": 8147
   },
   {
     "word": "daughters.",
@@ -77,7 +86,8 @@
     "translit": "(ḇā·nō·wṯ)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 1323:  ",
-    "str2": "A daughter"
+    "str2": "A daughter",
+    "num": 1323
   },
   {
     "word": "Meanwhile, the boy",
@@ -85,7 +95,8 @@
     "translit": "(han·na·‘ar)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5288:  ",
-    "str2": "A boy, lad, youth, retainer"
+    "str2": "A boy, lad, youth, retainer",
+    "num": 5288
   },
   {
     "word": "Samuel",
@@ -93,7 +104,8 @@
     "translit": "(šə·mū·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 8050:  ",
-    "str2": "Samuel -- 'name of God', a prophet of Israel"
+    "str2": "Samuel -- 'name of God', a prophet of Israel",
+    "num": 8050
   },
   {
     "word": "grew up",
@@ -101,7 +113,8 @@
     "translit": "(way·yiḡ·dal)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 1431:  ",
-    "str2": "To grow up, become great"
+    "str2": "To grow up, become great",
+    "num": 1431
   },
   {
     "word": "in the presence of",
@@ -109,7 +122,8 @@
     "translit": "(‘im-)",
     "parse": "Preposition",
     "str": "Strong's 5973:  ",
-    "str2": "With, equally with"
+    "str2": "With, equally with",
+    "num": 5973
   },
   {
     "word": "the LORD.",
@@ -117,6 +131,7 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   }
 ]

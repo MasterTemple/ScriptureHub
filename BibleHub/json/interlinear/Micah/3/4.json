@@ -5,7 +5,8 @@
     "translit": "(’āz)",
     "parse": "Adverb",
     "str": "Strong's 227:  ",
-    "str2": "At that time, place, therefore"
+    "str2": "At that time, place, therefore",
+    "num": 227
   },
   {
     "word": "they will cry out",
@@ -13,7 +14,8 @@
     "translit": "(yiz·‘ă·qū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 2199:  ",
-    "str2": "To shriek, to announce, convene publicly"
+    "str2": "To shriek, to announce, convene publicly",
+    "num": 2199
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the LORD,",
@@ -29,7 +32,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "but He will not",
@@ -37,7 +41,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "answer",
@@ -45,7 +50,8 @@
     "translit": "(ya·‘ă·neh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 6030:  ",
-    "str2": "To answer, respond"
+    "str2": "To answer, respond",
+    "num": 6030
   },
   {
     "word": "them.",
@@ -53,7 +59,8 @@
     "translit": "(’ō·w·ṯām)",
     "parse": "Direct object marker | third person masculine plural",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "At that",
@@ -61,7 +68,8 @@
     "translit": "(ha·hî)",
     "parse": "Article | Pronoun - third person feminine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "time",
@@ -69,7 +77,8 @@
     "translit": "(bā·‘êṯ)",
     "parse": "Preposition-b, Article | Noun - common singular",
     "str": "Strong's 6256:  ",
-    "str2": "Time, now, when"
+    "str2": "Time, now, when",
+    "num": 6256
   },
   {
     "word": "He will hide",
@@ -77,7 +86,8 @@
     "translit": "(wə·yas·têr)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive imperfect Jussive - third person masculine singular",
     "str": "Strong's 5641:  ",
-    "str2": "To hide, conceal"
+    "str2": "To hide, conceal",
+    "num": 5641
   },
   {
     "word": "His face",
@@ -85,7 +95,8 @@
     "translit": "(pā·nāw)",
     "parse": "Noun - common plural construct | third person masculine singular",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "from them",
@@ -93,7 +104,8 @@
     "translit": "(mê·hem)",
     "parse": "Preposition-m | Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "because of",
@@ -101,7 +113,8 @@
     "translit": "(ka·’ă·šer)",
     "parse": "Preposition-k | Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "the evil",
@@ -109,7 +122,8 @@
     "translit": "(hê·rê·‘ū)",
     "parse": "Verb - Hifil - Perfect - third person common plural",
     "str": "Strong's 7489:  ",
-    "str2": "To spoil, to make, good for, nothing, bad"
+    "str2": "To spoil, to make, good for, nothing, bad",
+    "num": 7489
   },
   {
     "word": "they have done.",
@@ -117,6 +131,7 @@
     "translit": "(ma·‘al·lê·hem)",
     "parse": "Noun - masculine plural construct | third person masculine plural",
     "str": "Strong's 4611:  ",
-    "str2": "A deed, practice"
+    "str2": "A deed, practice",
+    "num": 4611
   }
 ]

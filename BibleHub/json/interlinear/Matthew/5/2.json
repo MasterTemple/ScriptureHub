@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "He began",
@@ -13,7 +14,8 @@
     "translit": "(anoixas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 455:  ",
-    "str2": "To open. From ana and oigo; to open up."
+    "str2": "To open. From ana and oigo; to open up.",
+    "num": 455
   },
   {
     "word": "to teach",
@@ -21,7 +23,8 @@
     "translit": "(edidasken)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1321:  ",
-    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach."
+    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach.",
+    "num": 1321
   },
   {
     "word": "them,",
@@ -29,7 +32,8 @@
     "translit": "(autous)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "saying:",
@@ -37,6 +41,7 @@
     "translit": "(legōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   }
 ]

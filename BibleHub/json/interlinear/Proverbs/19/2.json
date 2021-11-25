@@ -5,7 +5,8 @@
     "translit": "(gam)",
     "parse": "Conjunction",
     "str": "Strong's 1571:  ",
-    "str2": "Assemblage, also, even, yea, though, both, and"
+    "str2": "Assemblage, also, even, yea, though, both, and",
+    "num": 1571
   },
   {
     "word": "zeal",
@@ -13,7 +14,8 @@
     "translit": "(ne·p̄eš)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   },
   {
     "word": "is no",
@@ -21,7 +23,8 @@
     "translit": "(bə·lō-)",
     "parse": "Preposition-b | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "good",
@@ -29,7 +32,8 @@
     "translit": "(ṭō·wḇ)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 2896:  ",
-    "str2": "Pleasant, agreeable, good"
+    "str2": "Pleasant, agreeable, good",
+    "num": 2896
   },
   {
     "word": "without",
@@ -37,7 +41,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "knowledge,",
@@ -45,7 +50,8 @@
     "translit": "(ḏa·‘aṯ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 1847:  ",
-    "str2": "Knowledge"
+    "str2": "Knowledge",
+    "num": 1847
   },
   {
     "word": "and he who hurries",
@@ -53,7 +59,8 @@
     "translit": "(wə·’āṣ)",
     "parse": "Conjunctive waw | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 213:  ",
-    "str2": "To press, to be close, hurry, withdraw"
+    "str2": "To press, to be close, hurry, withdraw",
+    "num": 213
   },
   {
     "word": "his footsteps",
@@ -61,7 +68,8 @@
     "translit": "(bə·raḡ·la·yim)",
     "parse": "Preposition-b | Noun - fd",
     "str": "Strong's 7272:  ",
-    "str2": "A foot, a step, the pudenda"
+    "str2": "A foot, a step, the pudenda",
+    "num": 7272
   },
   {
     "word": "misses the mark.",
@@ -69,6 +77,7 @@
     "translit": "(ḥō·w·ṭê)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 2398:  ",
-    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn"
+    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn",
+    "num": 2398
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "He who",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "said,",
@@ -21,7 +23,8 @@
     "translit": "(eipōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“Do not commit adultery,”",
@@ -29,7 +32,8 @@
     "translit": "(moicheusēs)",
     "parse": "Verb - Aorist Subjunctive Active - 2nd Person Singular",
     "str": "Strong's 3431:  ",
-    "str2": "To commit adultery (of a man with a married woman, but also of a married man). From moichos; to commit adultery."
+    "str2": "To commit adultery (of a man with a married woman, but also of a married man). From moichos; to commit adultery.",
+    "num": 3431
   },
   {
     "word": "also",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "said,",
@@ -45,7 +50,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“Do not murder.”",
@@ -53,7 +59,8 @@
     "translit": "(phoneusēs)",
     "parse": "Verb - Aorist Subjunctive Active - 2nd Person Singular",
     "str": "Strong's 5407:  ",
-    "str2": "To murder, kill. From phoneus; to be a murderer."
+    "str2": "To murder, kill. From phoneus; to be a murderer.",
+    "num": 5407
   },
   {
     "word": "If",
@@ -61,7 +68,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "you do not commit adultery,",
@@ -69,7 +77,8 @@
     "translit": "(moicheueis)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 3431:  ",
-    "str2": "To commit adultery (of a man with a married woman, but also of a married man). From moichos; to commit adultery."
+    "str2": "To commit adultery (of a man with a married woman, but also of a married man). From moichos; to commit adultery.",
+    "num": 3431
   },
   {
     "word": "but",
@@ -77,7 +86,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "do commit murder,",
@@ -85,7 +95,8 @@
     "translit": "(phoneueis)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 5407:  ",
-    "str2": "To murder, kill. From phoneus; to be a murderer."
+    "str2": "To murder, kill. From phoneus; to be a murderer.",
+    "num": 5407
   },
   {
     "word": "you have become",
@@ -93,7 +104,8 @@
     "translit": "(gegonas)",
     "parse": "Verb - Perfect Indicative Active - 2nd Person Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "a lawbreaker.",
@@ -101,6 +113,7 @@
     "translit": "(nomou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3551:  ",
-    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively."
+    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively.",
+    "num": 3551
   }
 ]

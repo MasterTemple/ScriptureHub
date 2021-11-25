@@ -5,7 +5,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "gaze at",
@@ -13,7 +14,8 @@
     "translit": "(tê·re)",
     "parse": "Verb - Qal - Imperfect Jussive - second person masculine singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "wine",
@@ -21,7 +23,8 @@
     "translit": "(ya·yin)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3196:  ",
-    "str2": "Wine, intoxication"
+    "str2": "Wine, intoxication",
+    "num": 3196
   },
   {
     "word": "while",
@@ -29,7 +32,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "it is red,",
@@ -37,7 +41,8 @@
     "translit": "(yiṯ·’ad·dām)",
     "parse": "Verb - Hitpael - Imperfect - third person masculine singular",
     "str": "Strong's 119:  ",
-    "str2": "Flush, turn rosy"
+    "str2": "Flush, turn rosy",
+    "num": 119
   },
   {
     "word": "when",
@@ -45,7 +50,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "it sparkles",
@@ -53,7 +59,8 @@
     "translit": "(yit·tên)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "in the cup",
@@ -61,7 +68,8 @@
     "translit": "(bak·kō·ws)",
     "parse": "Preposition-b, Article | Noun - feminine singular",
     "str": "Strong's 3599:  ",
-    "str2": "A cup, a bag for, money, weights"
+    "str2": "A cup, a bag for, money, weights",
+    "num": 3599
   },
   {
     "word": "and goes down smoothly.",
@@ -69,6 +77,7 @@
     "translit": "(yiṯ·hal·lêḵ)",
     "parse": "Verb - Hitpael - Imperfect - third person masculine singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   }
 ]

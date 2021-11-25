@@ -5,7 +5,8 @@
     "translit": "(Ginesthe)",
     "parse": "Verb - Present Imperative Middle or Passive - 2nd Person Plural",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "doers",
@@ -13,7 +14,8 @@
     "translit": "(poiētai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 4163:  ",
-    "str2": "(a) a maker, poet, (b) a doer, carrier out, performer. From poieo; a performer; specially, a 'poet'."
+    "str2": "(a) a maker, poet, (b) a doer, carrier out, performer. From poieo; a performer; specially, a 'poet'.",
+    "num": 4163
   },
   {
     "word": "of [the] word,",
@@ -21,7 +23,8 @@
     "translit": "(logou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "not",
@@ -37,7 +41,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "hearers",
@@ -45,7 +50,8 @@
     "translit": "(akroatai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 202:  ",
-    "str2": "A hearer of, a listener to. From akroaomai; a hearer."
+    "str2": "A hearer of, a listener to. From akroaomai; a hearer.",
+    "num": 202
   },
   {
     "word": "only.",
@@ -53,7 +59,8 @@
     "translit": "(monon)",
     "parse": "Adverb",
     "str": "Strong's 3440:  ",
-    "str2": "Alone, but, only. Neuter of monos as adverb; merely."
+    "str2": "Alone, but, only. Neuter of monos as adverb; merely.",
+    "num": 3440
   },
   {
     "word": "[Otherwise,] you are deceiving",
@@ -61,7 +68,8 @@
     "translit": "(paralogizomenoi)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Masculine Plural",
     "str": "Strong's 3884:  ",
-    "str2": "To deceive, beguile, reason falsely, mislead. From para and logizomai; to misreckon, i.e. Delude."
+    "str2": "To deceive, beguile, reason falsely, mislead. From para and logizomai; to misreckon, i.e. Delude.",
+    "num": 3884
   },
   {
     "word": "yourselves.",
@@ -69,6 +77,7 @@
     "translit": "(heautous)",
     "parse": "Reflexive Pronoun - Accusative Masculine 3rd Person Plural",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   }
 ]

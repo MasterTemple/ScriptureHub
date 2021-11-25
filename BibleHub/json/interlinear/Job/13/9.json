@@ -5,7 +5,8 @@
     "translit": "(hă·ṭō·wḇ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 2896:  ",
-    "str2": "Pleasant, agreeable, good"
+    "str2": "Pleasant, agreeable, good",
+    "num": 2896
   },
   {
     "word": "when",
@@ -13,7 +14,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "He examined you?",
@@ -21,7 +23,8 @@
     "translit": "(yaḥ·qōr)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 2713:  ",
-    "str2": "To penetrate, to examine intimately"
+    "str2": "To penetrate, to examine intimately",
+    "num": 2713
   },
   {
     "word": "Could you deceive",
@@ -29,7 +32,8 @@
     "translit": "(kə·hā·ṯêl)",
     "parse": "Preposition-k | Verb - Hifil - Infinitive construct",
     "str": "Strong's 2048:  ",
-    "str2": "To deride, to cheat"
+    "str2": "To deride, to cheat",
+    "num": 2048
   },
   {
     "word": "Him",
@@ -37,7 +41,8 @@
     "translit": "(ḇōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "[like]",
@@ -45,7 +50,8 @@
     "translit": "(tə·hā·ṯêl·lū)",
     "parse": "Verb - Hifil - Imperfect - second person masculine plural",
     "str": "Strong's 2048:  ",
-    "str2": "To deride, to cheat"
+    "str2": "To deride, to cheat",
+    "num": 2048
   },
   {
     "word": "a man?",
@@ -53,6 +59,7 @@
     "translit": "(be·’ĕ·nō·wōš)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   }
 ]

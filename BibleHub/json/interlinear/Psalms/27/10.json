@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "my father",
@@ -13,7 +14,8 @@
     "translit": "(’ā·ḇî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "and mother",
@@ -21,7 +23,8 @@
     "translit": "(wə·’im·mî)",
     "parse": "Conjunctive waw | Noun - feminine singular construct | first person common singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "forsake me,",
@@ -29,7 +32,8 @@
     "translit": "(‘ă·zā·ḇū·nî)",
     "parse": "Verb - Qal - Perfect - third person common plural | first person common singular",
     "str": "Strong's 5800:  ",
-    "str2": "To loosen, relinquish, permit"
+    "str2": "To loosen, relinquish, permit",
+    "num": 5800
   },
   {
     "word": "the LORD",
@@ -37,7 +41,8 @@
     "translit": "(Yah·weh)",
     "parse": "Conjunctive waw | Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "will receive me.",
@@ -45,6 +50,7 @@
     "translit": "(ya·’as·p̄ê·nî)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular | first person common singular",
     "str": "Strong's 622:  ",
-    "str2": "To gather for, any purpose, to receive, take away, remove"
+    "str2": "To gather for, any purpose, to receive, take away, remove",
+    "num": 622
   }
 ]

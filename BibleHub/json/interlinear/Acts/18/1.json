@@ -5,7 +5,8 @@
     "translit": "(Meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "this,",
@@ -13,7 +14,8 @@
     "translit": "(tauta)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "[Paul] left",
@@ -21,7 +23,8 @@
     "translit": "(chōristheis)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Singular",
     "str": "Strong's 5563:  ",
-    "str2": "From chora; to place room between, i.e. Part; reflexively, to go away."
+    "str2": "From chora; to place room between, i.e. Part; reflexively, to go away.",
+    "num": 5563
   },
   {
     "word": "Athens",
@@ -29,7 +32,8 @@
     "translit": "(Athēnōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 116:  ",
-    "str2": "Athens, the intellectual capital of Greece. Plural of Athene; Athenoe, the capitol of Greece."
+    "str2": "Athens, the intellectual capital of Greece. Plural of Athene; Athenoe, the capitol of Greece.",
+    "num": 116
   },
   {
     "word": "[and] went",
@@ -37,7 +41,8 @@
     "translit": "(ēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "to",
@@ -45,7 +50,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "Corinth.",
@@ -53,6 +59,7 @@
     "translit": "(Korinthon)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2882:  ",
-    "str2": "Corinthus, a city of Greece."
+    "str2": "Corinthus, a city of Greece.",
+    "num": 2882
   }
 ]

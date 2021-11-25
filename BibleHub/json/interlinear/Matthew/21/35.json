@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "tenants",
@@ -21,7 +23,8 @@
     "translit": "(geōrgoi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 1092:  ",
-    "str2": "From ge and the base of ergon; a land-worker, i.e. Farmer."
+    "str2": "From ge and the base of ergon; a land-worker, i.e. Farmer.",
+    "num": 1092
   },
   {
     "word": "seized",
@@ -29,7 +32,8 @@
     "translit": "(labontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "his",
@@ -37,7 +41,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "servants.",
@@ -45,7 +50,8 @@
     "translit": "(doulous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 1401:  ",
-    "str2": "(a) (as adj.) enslaved, (b) (as noun) a (male) slave. From deo; a slave."
+    "str2": "(a) (as adj.) enslaved, (b) (as noun) a (male) slave. From deo; a slave.",
+    "num": 1401
   },
   {
     "word": "They beat",
@@ -53,7 +59,8 @@
     "translit": "(edeiran)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1194:  ",
-    "str2": "To flay, flog, scourge, beat. A primary verb; properly, to flay, i.e. to scourge, or to thrash."
+    "str2": "To flay, flog, scourge, beat. A primary verb; properly, to flay, i.e. to scourge, or to thrash.",
+    "num": 1194
   },
   {
     "word": "one,",
@@ -61,7 +68,8 @@
     "translit": "(hon)",
     "parse": "Personal / Relative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "killed",
@@ -69,7 +77,8 @@
     "translit": "(apekteinan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 615:  ",
-    "str2": "To put to death, kill; fig: I abolish. From apo and kteino; to kill outright; figuratively, to destroy."
+    "str2": "To put to death, kill; fig: I abolish. From apo and kteino; to kill outright; figuratively, to destroy.",
+    "num": 615
   },
   {
     "word": "[another],",
@@ -77,7 +86,8 @@
     "translit": "(hon)",
     "parse": "Personal / Relative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "stoned",
@@ -93,7 +104,8 @@
     "translit": "(elithobolēsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 3036:  ",
-    "str2": "To stone, cast stones (at), kill by stoning. From a compound of lithos and ballo; to throw stones, i.e. Lapidate."
+    "str2": "To stone, cast stones (at), kill by stoning. From a compound of lithos and ballo; to throw stones, i.e. Lapidate.",
+    "num": 3036
   },
   {
     "word": "a third.",
@@ -101,6 +113,7 @@
     "translit": "(hon)",
     "parse": "Personal / Relative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   }
 ]

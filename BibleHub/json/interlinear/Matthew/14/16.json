@@ -5,7 +5,8 @@
     "translit": "(echousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "not",
@@ -13,7 +14,8 @@
     "translit": "(Ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "need",
@@ -21,7 +23,8 @@
     "translit": "(chreian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5532:  ",
-    "str2": "From the base of chraomai or chre; employment, i.e. An affair; also occasion, demand, requirement or destitution."
+    "str2": "From the base of chraomai or chre; employment, i.e. An affair; also occasion, demand, requirement or destitution.",
+    "num": 5532
   },
   {
     "word": "to go away,”",
@@ -29,7 +32,8 @@
     "translit": "(apelthein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 565:  ",
-    "str2": "From apo and erchomai; to go off, aside or behind, literally or figuratively."
+    "str2": "From apo and erchomai; to go off, aside or behind, literally or figuratively.",
+    "num": 565
   },
   {
     "word": "Jesus",
@@ -37,7 +41,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "replied.",
@@ -45,7 +50,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“You",
@@ -53,7 +59,8 @@
     "translit": "(hymeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "give",
@@ -61,7 +68,8 @@
     "translit": "(dote)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "them",
@@ -69,7 +77,8 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "[something] to eat.”",
@@ -77,6 +86,7 @@
     "translit": "(phagein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 5315:  ",
-    "str2": "A primary verb; to eat."
+    "str2": "A primary verb; to eat.",
+    "num": 5315
   }
 ]

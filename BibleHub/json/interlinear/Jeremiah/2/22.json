@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you wash",
@@ -13,7 +14,8 @@
     "translit": "(tə·ḵab·bə·sî)",
     "parse": "Verb - Piel - Imperfect - second person feminine singular",
     "str": "Strong's 3526:  ",
-    "str2": "To trample, to wash"
+    "str2": "To trample, to wash",
+    "num": 3526
   },
   {
     "word": "with lye",
@@ -21,7 +23,8 @@
     "translit": "(ban·ne·ṯer)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 5427:  ",
-    "str2": "Natron or carbonate of soda"
+    "str2": "Natron or carbonate of soda",
+    "num": 5427
   },
   {
     "word": "and use an abundance",
@@ -29,7 +32,8 @@
     "translit": "(wə·ṯar·bî-)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive imperfect - second person feminine singular",
     "str": "Strong's 7235:  ",
-    "str2": "To be or become much, many or great"
+    "str2": "To be or become much, many or great",
+    "num": 7235
   },
   {
     "word": "of soap,",
@@ -37,7 +41,8 @@
     "translit": "(bō·rîṯ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 1287:  ",
-    "str2": "Lye, alkali, potash, soap"
+    "str2": "Lye, alkali, potash, soap",
+    "num": 1287
   },
   {
     "word": "the stain",
@@ -45,7 +50,8 @@
     "translit": "(niḵ·tām)",
     "parse": "Verb - Nifal - Participle - masculine singular",
     "str": "Strong's 3799:  ",
-    "str2": "To carve, engrave, to inscribe indelibly"
+    "str2": "To carve, engrave, to inscribe indelibly",
+    "num": 3799
   },
   {
     "word": "of your guilt",
@@ -53,7 +59,8 @@
     "translit": "(‘ă·wō·nêḵ)",
     "parse": "Noun - common singular construct | second person feminine singular",
     "str": "Strong's 5771:  ",
-    "str2": "Iniquity, guilt, punishment for iniquity"
+    "str2": "Iniquity, guilt, punishment for iniquity",
+    "num": 5771
   },
   {
     "word": "is still before Me,”",
@@ -61,7 +68,8 @@
     "translit": "(lə·p̄ā·nay)",
     "parse": "Preposition-l | Noun - masculine plural construct | first person common singular",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "declares",
@@ -69,7 +77,8 @@
     "translit": "(nə·’um)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 5002:  ",
-    "str2": "An oracle"
+    "str2": "An oracle",
+    "num": 5002
   },
   {
     "word": "the Lord",
@@ -77,7 +86,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD.",
@@ -85,6 +95,7 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   }
 ]

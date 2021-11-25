@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you gather the grapes",
@@ -13,7 +14,8 @@
     "translit": "(ṯiḇ·ṣōr)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 1219:  ",
-    "str2": "To cut off, make inaccessible, enclose"
+    "str2": "To cut off, make inaccessible, enclose",
+    "num": 1219
   },
   {
     "word": "of your vineyard,",
@@ -21,7 +23,8 @@
     "translit": "(kar·mə·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 3754:  ",
-    "str2": "A garden, vineyard"
+    "str2": "A garden, vineyard",
+    "num": 3754
   },
   {
     "word": "you must not",
@@ -29,7 +32,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "go over [the vines]",
@@ -37,7 +41,8 @@
     "translit": "(ṯə·‘ō·w·lêl)",
     "parse": "Verb - Piel - Imperfect - second person masculine singular",
     "str": "Strong's 5953:  ",
-    "str2": "To effect thoroughly, to glean, to overdo, maltreat, be saucy to, pain, impose"
+    "str2": "To effect thoroughly, to glean, to overdo, maltreat, be saucy to, pain, impose",
+    "num": 5953
   },
   {
     "word": "again.",
@@ -45,7 +50,8 @@
     "translit": "(’a·ḥă·re·ḵā)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's 310:  ",
-    "str2": "The hind or following part"
+    "str2": "The hind or following part",
+    "num": 310
   },
   {
     "word": "What remains will be",
@@ -53,7 +59,8 @@
     "translit": "(yih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "for the foreigner,",
@@ -61,7 +68,8 @@
     "translit": "(lag·gêr)",
     "parse": "Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 1616:  ",
-    "str2": "A guest, a foreigner"
+    "str2": "A guest, a foreigner",
+    "num": 1616
   },
   {
     "word": "the fatherless,",
@@ -69,7 +77,8 @@
     "translit": "(lay·yā·ṯō·wm)",
     "parse": "Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 3490:  ",
-    "str2": "A bereaved person"
+    "str2": "A bereaved person",
+    "num": 3490
   },
   {
     "word": "and the widow.",
@@ -77,6 +86,7 @@
     "translit": "(wə·lā·’al·mā·nāh)",
     "parse": "Conjunctive waw, Preposition-l, Article | Noun - feminine singular",
     "str": "Strong's 490:  ",
-    "str2": "A widow, a desolate place"
+    "str2": "A widow, a desolate place",
+    "num": 490
   }
 ]

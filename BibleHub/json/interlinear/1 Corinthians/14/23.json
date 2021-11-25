@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(Ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "whole",
@@ -29,7 +32,8 @@
     "translit": "(holē)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 3650:  ",
-    "str2": "All, the whole, entire, complete. A primary word; 'whole' or 'all', i.e. Complete, especially as noun or adverb."
+    "str2": "All, the whole, entire, complete. A primary word; 'whole' or 'all', i.e. Complete, especially as noun or adverb.",
+    "num": 3650
   },
   {
     "word": "church",
@@ -37,7 +41,8 @@
     "translit": "(ekklēsia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1577:  ",
-    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation."
+    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation.",
+    "num": 1577
   },
   {
     "word": "comes",
@@ -45,7 +50,8 @@
     "translit": "(synelthē)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 4905:  ",
-    "str2": "From sun and erchomai; to convene, depart in company with, associate with, or, cohabit."
+    "str2": "From sun and erchomai; to convene, depart in company with, associate with, or, cohabit.",
+    "num": 4905
   },
   {
     "word": "together",
@@ -53,7 +59,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "everyone",
@@ -69,7 +77,8 @@
     "translit": "(pantes)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "speaks",
@@ -77,7 +86,8 @@
     "translit": "(lalōsin)",
     "parse": "Verb - Present Subjunctive Active - 3rd Person Plural",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "in tongues,",
@@ -85,7 +95,8 @@
     "translit": "(glōssais)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 1100:  ",
-    "str2": "The tongue; by implication, a language."
+    "str2": "The tongue; by implication, a language.",
+    "num": 1100
   },
   {
     "word": "and",
@@ -93,7 +104,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "some who are uninstructed",
@@ -101,7 +113,8 @@
     "translit": "(idiōtai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 2399:  ",
-    "str2": "From idios; a private person, i.e. an ignoramus."
+    "str2": "From idios; a private person, i.e. an ignoramus.",
+    "num": 2399
   },
   {
     "word": "or",
@@ -109,7 +122,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "some unbelievers",
@@ -117,7 +131,8 @@
     "translit": "(apistoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 571:  ",
-    "str2": "(passively) untrustworthy (person), or incredible (thing)."
+    "str2": "(passively) untrustworthy (person), or incredible (thing).",
+    "num": 571
   },
   {
     "word": "come in,",
@@ -125,7 +140,8 @@
     "translit": "(eiselthōsin)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Plural",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "will they not say",
@@ -133,7 +149,8 @@
     "translit": "(erousin)",
     "parse": "Verb - Future Indicative Active - 3rd Person Plural",
     "str": "Strong's 2046:  ",
-    "str2": "Probably a fuller form of rheo; an alternate for epo in certain tenses; to utter, i.e. Speak or say."
+    "str2": "Probably a fuller form of rheo; an alternate for epo in certain tenses; to utter, i.e. Speak or say.",
+    "num": 2046
   },
   {
     "word": "that",
@@ -141,7 +158,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "you are out of your minds?",
@@ -149,6 +167,7 @@
     "translit": "(mainesthe)",
     "parse": "Verb - Present Indicative Middle or Passive - 2nd Person Plural",
     "str": "Strong's 3105:  ",
-    "str2": "To be raving mad, speak as a madman. Middle voice from a primary mao; to rave as a 'maniac'."
+    "str2": "To be raving mad, speak as a madman. Middle voice from a primary mao; to rave as a 'maniac'.",
+    "num": 3105
   }
 ]

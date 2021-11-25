@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "to me,",
@@ -13,7 +14,8 @@
     "translit": "(Emoi)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "to live",
@@ -21,7 +23,8 @@
     "translit": "(zēn)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2198:  ",
-    "str2": "To live, be alive. A primary verb; to live."
+    "str2": "To live, be alive. A primary verb; to live.",
+    "num": 2198
   },
   {
     "word": "[is] Christ,",
@@ -29,7 +32,8 @@
     "translit": "(Christos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "to die",
@@ -45,7 +50,8 @@
     "translit": "(apothanein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 599:  ",
-    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off."
+    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off.",
+    "num": 599
   },
   {
     "word": "[is] gain.",
@@ -53,6 +59,7 @@
     "translit": "(kerdos)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 2771:  ",
-    "str2": "Gain, advantage, profit. Of uncertain affinity; gain."
+    "str2": "Gain, advantage, profit. Of uncertain affinity; gain.",
+    "num": 2771
   }
 ]

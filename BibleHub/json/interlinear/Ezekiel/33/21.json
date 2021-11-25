@@ -5,7 +5,8 @@
     "translit": "(biš·tê)",
     "parse": "Preposition-b | Number - fdc",
     "str": "Strong's 8147:  ",
-    "str2": "Two (a cardinal number)"
+    "str2": "Two (a cardinal number)",
+    "num": 8147
   },
   {
     "word": "year",
@@ -13,7 +14,8 @@
     "translit": "(šā·nāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "of our exile,",
@@ -21,7 +23,8 @@
     "translit": "(lə·ḡā·lū·ṯê·nū)",
     "parse": "Preposition-l | Noun - feminine singular construct | first person common plural",
     "str": "Strong's 1546:  ",
-    "str2": "Captivity, exiles"
+    "str2": "Captivity, exiles",
+    "num": 1546
   },
   {
     "word": "on the fifth day",
@@ -29,7 +32,8 @@
     "translit": "(ba·ḥă·miš·šāh)",
     "parse": "Preposition-b, Article | Number - masculine singular",
     "str": "Strong's 2568:  ",
-    "str2": "Five"
+    "str2": "Five",
+    "num": 2568
   },
   {
     "word": "of the tenth month,",
@@ -37,7 +41,8 @@
     "translit": "(bā·‘ă·śi·rî)",
     "parse": "Preposition-b, Article | Number - ordinal masculine singular",
     "str": "Strong's 6224:  ",
-    "str2": "Tenth, tenth month, part"
+    "str2": "Tenth, tenth month, part",
+    "num": 6224
   },
   {
     "word": "a fugitive",
@@ -45,7 +50,8 @@
     "translit": "(hap·pā·lîṭ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 6412:  ",
-    "str2": "Escaped one, fugitive"
+    "str2": "Escaped one, fugitive",
+    "num": 6412
   },
   {
     "word": "from Jerusalem",
@@ -53,7 +59,8 @@
     "translit": "(mî·rū·šā·lim)",
     "parse": "Preposition-m | Noun - proper - feminine singular",
     "str": "Strong's 3389:  ",
-    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel"
+    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel",
+    "num": 3389
   },
   {
     "word": "came",
@@ -61,7 +68,8 @@
     "translit": "(bā-)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "to me",
@@ -69,7 +77,8 @@
     "translit": "(’ê·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "and reported,",
@@ -77,7 +86,8 @@
     "translit": "(lê·mōr)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“The city",
@@ -85,7 +95,8 @@
     "translit": "(hā·‘îr)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "has been taken!”",
@@ -93,6 +104,7 @@
     "translit": "(huk·kə·ṯāh)",
     "parse": "Verb - Hofal - Perfect - third person feminine singular",
     "str": "Strong's 5221:  ",
-    "str2": "To strike"
+    "str2": "To strike",
+    "num": 5221
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(houtos)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "is",
@@ -13,7 +14,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "‘the",
@@ -21,7 +23,8 @@
     "translit": "(Ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "stone",
@@ -29,7 +32,8 @@
     "translit": "(lithos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3037:  ",
-    "str2": "A stone; met: of Jesus as the chief stone in a building. Apparently a primary word; a stone."
+    "str2": "A stone; met: of Jesus as the chief stone in a building. Apparently a primary word; a stone.",
+    "num": 3037
   },
   {
     "word": "you",
@@ -37,7 +41,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "builders",
@@ -45,7 +50,8 @@
     "translit": "(oikodomōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 3618:  ",
-    "str2": "From the same as oikodome; to be a house-builder, i.e. Construct or confirm."
+    "str2": "From the same as oikodome; to be a house-builder, i.e. Construct or confirm.",
+    "num": 3618
   },
   {
     "word": "rejected,",
@@ -53,7 +59,8 @@
     "translit": "(exouthenētheis)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Singular",
     "str": "Strong's 1848:  ",
-    "str2": "To set at naught, ignore, despise. A variation of exoudenoo and meaning the same."
+    "str2": "To set at naught, ignore, despise. A variation of exoudenoo and meaning the same.",
+    "num": 1848
   },
   {
     "word": "which",
@@ -61,7 +68,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "has become",
@@ -69,7 +77,8 @@
     "translit": "(genomenos)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "[the] cornerstone.’",
@@ -77,6 +86,7 @@
     "translit": "(kephalēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2776:  ",
-    "str2": "From the primary kapto; the head, literally or figuratively."
+    "str2": "From the primary kapto; the head, literally or figuratively.",
+    "num": 2776
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[there was]",
@@ -13,7 +14,8 @@
     "translit": "(idou)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 2400:  ",
-    "str2": "See! Lo! Behold! Look! Second person singular imperative middle voice of eido; used as imperative lo!"
+    "str2": "See! Lo! Behold! Look! Second person singular imperative middle voice of eido; used as imperative lo!",
+    "num": 2400
   },
   {
     "word": "a man",
@@ -21,7 +23,8 @@
     "translit": "(anēr)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "named",
@@ -29,7 +32,8 @@
     "translit": "(onomati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 3686:  ",
-    "str2": "Name, character, fame, reputation. From a presumed derivative of the base of ginosko; a 'name'."
+    "str2": "Name, character, fame, reputation. From a presumed derivative of the base of ginosko; a 'name'.",
+    "num": 3686
   },
   {
     "word": "Zacchaeus,",
@@ -37,7 +41,8 @@
     "translit": "(Zakchaios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2195:  ",
-    "str2": "Zacchaeus, a Jewish tax-gatherer. Of Hebrew origin; Zacchaeus, an Israelite."
+    "str2": "Zacchaeus, a Jewish tax-gatherer. Of Hebrew origin; Zacchaeus, an Israelite.",
+    "num": 2195
   },
   {
     "word": "a chief tax collector,",
@@ -45,7 +50,8 @@
     "translit": "(architelōnēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 754:  ",
-    "str2": "Head of a custom-house, chief tax-gatherer or publican. From arche and telones; a principle tax-gatherer."
+    "str2": "Head of a custom-house, chief tax-gatherer or publican. From arche and telones; a principle tax-gatherer.",
+    "num": 754
   },
   {
     "word": "[who was]",
@@ -53,7 +59,8 @@
     "translit": "(autos)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "very wealthy.",
@@ -61,6 +68,7 @@
     "translit": "(plousios)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 4145:  ",
-    "str2": "Rich, abounding in, wealthy; subst: a rich man. From ploutos; wealthy; figuratively, abounding with."
+    "str2": "Rich, abounding in, wealthy; subst: a rich man. From ploutos; wealthy; figuratively, abounding with.",
+    "num": 4145
   }
 ]

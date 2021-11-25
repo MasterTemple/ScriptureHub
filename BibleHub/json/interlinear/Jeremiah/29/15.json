@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you may say,",
@@ -13,7 +14,8 @@
     "translit": "(’ă·mar·tem)",
     "parse": "Verb - Qal - Perfect - second person masculine plural",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“The LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "has raised up",
@@ -29,7 +32,8 @@
     "translit": "(hê·qîm)",
     "parse": "Verb - Hifil - Perfect - third person masculine singular",
     "str": "Strong's 6965:  ",
-    "str2": "To arise, stand up, stand"
+    "str2": "To arise, stand up, stand",
+    "num": 6965
   },
   {
     "word": "for us",
@@ -37,7 +41,8 @@
     "translit": "(lā·nū)",
     "parse": "Preposition | first person common plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "prophets",
@@ -45,7 +50,8 @@
     "translit": "(nə·ḇi·’îm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 5030:  ",
-    "str2": "A spokesman, speaker, prophet"
+    "str2": "A spokesman, speaker, prophet",
+    "num": 5030
   },
   {
     "word": "in Babylon,”",
@@ -53,6 +59,7 @@
     "translit": "(bā·ḇe·lāh)",
     "parse": "Noun - proper - feminine singular | third person feminine singular",
     "str": "Strong's 894:  ",
-    "str2": "Babylon -- an eastern Mediterranean empire and its capital city"
+    "str2": "Babylon -- an eastern Mediterranean empire and its capital city",
+    "num": 894
   }
 ]

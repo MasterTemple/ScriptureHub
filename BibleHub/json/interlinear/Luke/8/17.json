@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "there is",
@@ -13,7 +14,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "nothing",
@@ -21,7 +23,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "hidden",
@@ -29,7 +32,8 @@
     "translit": "(krypton)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 2927:  ",
-    "str2": "From krupto; concealed, i.e. Private."
+    "str2": "From krupto; concealed, i.e. Private.",
+    "num": 2927
   },
   {
     "word": "that",
@@ -37,7 +41,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Nominative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "will not be",
@@ -45,7 +50,8 @@
     "translit": "(genēsetai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "revealed,",
@@ -53,7 +59,8 @@
     "translit": "(phaneron)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 5318:  ",
-    "str2": "Apparent, clear, visible, manifest; adv: clearly. From phaino; shining, i.e. Apparent; neuter publicly, externally."
+    "str2": "Apparent, clear, visible, manifest; adv: clearly. From phaino; shining, i.e. Apparent; neuter publicly, externally.",
+    "num": 5318
   },
   {
     "word": "[and] nothing",
@@ -61,7 +68,8 @@
     "translit": "(oude)",
     "parse": "Conjunction",
     "str": "Strong's 3761:  ",
-    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even."
+    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even.",
+    "num": 3761
   },
   {
     "word": "concealed",
@@ -69,7 +77,8 @@
     "translit": "(apokryphon)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 614:  ",
-    "str2": "Hidden away, secret, stored up. From apokrupto; secret; by implication, treasured."
+    "str2": "Hidden away, secret, stored up. From apokrupto; secret; by implication, treasured.",
+    "num": 614
   },
   {
     "word": "that",
@@ -77,7 +86,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Nominative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "will not be known",
@@ -85,7 +95,8 @@
     "translit": "(gnōsthē)",
     "parse": "Verb - Aorist Subjunctive Passive - 3rd Person Singular",
     "str": "Strong's 1097:  ",
-    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications."
+    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications.",
+    "num": 1097
   },
   {
     "word": "and",
@@ -93,7 +104,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "illuminated.",
@@ -101,6 +113,7 @@
     "translit": "(phaneron)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 5318:  ",
-    "str2": "Apparent, clear, visible, manifest; adv: clearly. From phaino; shining, i.e. Apparent; neuter publicly, externally."
+    "str2": "Apparent, clear, visible, manifest; adv: clearly. From phaino; shining, i.e. Apparent; neuter publicly, externally.",
+    "num": 5318
   }
 ]

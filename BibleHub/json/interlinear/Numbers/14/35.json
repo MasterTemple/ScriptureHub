@@ -5,7 +5,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "the LORD,",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "have spoken,",
@@ -21,7 +23,8 @@
     "translit": "(dib·bar·tî)",
     "parse": "Verb - Piel - Perfect - first person common singular",
     "str": "Strong's 1696:  ",
-    "str2": "To arrange, to speak, to subdue"
+    "str2": "To arrange, to speak, to subdue",
+    "num": 1696
   },
   {
     "word": "and I will surely",
@@ -29,7 +32,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "do",
@@ -37,7 +41,8 @@
     "translit": "(’e·‘ĕ·śeh)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "these things",
@@ -45,7 +50,8 @@
     "translit": "(zōṯ)",
     "parse": "Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "to this entire",
@@ -53,7 +59,8 @@
     "translit": "(lə·ḵāl)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "wicked",
@@ -61,7 +68,8 @@
     "translit": "(hā·rā·‘āh)",
     "parse": "Article | Adjective - feminine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "congregation,",
@@ -69,7 +77,8 @@
     "translit": "(hā·‘ê·ḏāh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 5712:  ",
-    "str2": "A stated assemblage"
+    "str2": "A stated assemblage",
+    "num": 5712
   },
   {
     "word": "which has conspired",
@@ -77,7 +86,8 @@
     "translit": "(han·nō·w·‘ā·ḏîm)",
     "parse": "Article | Verb - Nifal - Participle - masculine plural",
     "str": "Strong's 3259:  ",
-    "str2": "To fix upon, to meet, to summon, to direct, to engage"
+    "str2": "To fix upon, to meet, to summon, to direct, to engage",
+    "num": 3259
   },
   {
     "word": "against Me.",
@@ -85,7 +95,8 @@
     "translit": "(‘ā·lāy)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "They will meet their end",
@@ -93,7 +104,8 @@
     "translit": "(yit·tam·mū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 8552:  ",
-    "str2": "To be complete or finished"
+    "str2": "To be complete or finished",
+    "num": 8552
   },
   {
     "word": "in the wilderness,",
@@ -101,7 +113,8 @@
     "translit": "(bam·miḏ·bār)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 4057:  ",
-    "str2": "A pasture, a desert, speech"
+    "str2": "A pasture, a desert, speech",
+    "num": 4057
   },
   {
     "word": "and there",
@@ -109,7 +122,8 @@
     "translit": "(wə·šām)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 8033:  ",
-    "str2": "There, then, thither"
+    "str2": "There, then, thither",
+    "num": 8033
   },
   {
     "word": "they will die.”",
@@ -117,6 +131,7 @@
     "translit": "(yā·mu·ṯū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   }
 ]

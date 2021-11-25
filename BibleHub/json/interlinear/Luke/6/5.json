@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[Jesus] declared,",
@@ -13,7 +14,8 @@
     "translit": "(elegen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“The",
@@ -21,7 +23,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Son",
@@ -29,7 +32,8 @@
     "translit": "(Huios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   },
   {
     "word": "of Man",
@@ -37,7 +41,8 @@
     "translit": "(anthrōpou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "is",
@@ -45,7 +50,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "Lord",
@@ -53,7 +59,8 @@
     "translit": "(Kyrios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "of the",
@@ -61,7 +68,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Sabbath.”",
@@ -69,6 +77,7 @@
     "translit": "(sabbatou)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 4521:  ",
-    "str2": "The Sabbath, a week. "
+    "str2": "The Sabbath, a week. ",
+    "num": 4521
   }
 ]

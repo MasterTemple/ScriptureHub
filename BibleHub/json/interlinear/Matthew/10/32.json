@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "everyone",
@@ -13,7 +14,8 @@
     "translit": "(Pas)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "who",
@@ -21,7 +23,8 @@
     "translit": "(hostis)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3748:  ",
-    "str2": "Whosoever, whichsoever, whatsoever. "
+    "str2": "Whosoever, whichsoever, whatsoever. ",
+    "num": 3748
   },
   {
     "word": "confesses",
@@ -29,7 +32,8 @@
     "translit": "(homologēsei)",
     "parse": "Verb - Future Indicative Active - 3rd Person Singular",
     "str": "Strong's 3670:  ",
-    "str2": "From a compound of the base of homou and logos; to assent, i.e. Covenant, acknowledge."
+    "str2": "From a compound of the base of homou and logos; to assent, i.e. Covenant, acknowledge.",
+    "num": 3670
   },
   {
     "word": "Me",
@@ -37,7 +41,8 @@
     "translit": "(emoi)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "before",
@@ -45,7 +50,8 @@
     "translit": "(emprosthen)",
     "parse": "Preposition",
     "str": "Strong's 1715:  ",
-    "str2": "From en and pros; in front of (literally or figuratively) or time)."
+    "str2": "From en and pros; in front of (literally or figuratively) or time).",
+    "num": 1715
   },
   {
     "word": "men,",
@@ -53,7 +59,8 @@
     "translit": "(anthrōpōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "I will also confess",
@@ -61,7 +68,8 @@
     "translit": "(homologēsō)",
     "parse": "Verb - Future Indicative Active - 1st Person Singular",
     "str": "Strong's 3670:  ",
-    "str2": "From a compound of the base of homou and logos; to assent, i.e. Covenant, acknowledge."
+    "str2": "From a compound of the base of homou and logos; to assent, i.e. Covenant, acknowledge.",
+    "num": 3670
   },
   {
     "word": "him",
@@ -69,7 +77,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "before",
@@ -77,7 +86,8 @@
     "translit": "(emprosthen)",
     "parse": "Preposition",
     "str": "Strong's 1715:  ",
-    "str2": "From en and pros; in front of (literally or figuratively) or time)."
+    "str2": "From en and pros; in front of (literally or figuratively) or time).",
+    "num": 1715
   },
   {
     "word": "My",
@@ -85,7 +95,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "Father",
@@ -93,7 +104,8 @@
     "translit": "(Patros)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "in",
@@ -101,7 +113,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "heaven.",
@@ -109,6 +122,7 @@
     "translit": "(ouranois)",
     "parse": "Noun - Dative Masculine Plural",
     "str": "Strong's 3772:  ",
-    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel."
+    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel.",
+    "num": 3772
   }
 ]

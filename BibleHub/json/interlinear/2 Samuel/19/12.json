@@ -5,7 +5,8 @@
     "translit": "(’at·tem)",
     "parse": "Pronoun - second person masculine plural",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "are my brothers,",
@@ -13,7 +14,8 @@
     "translit": "(’a·ḥay)",
     "parse": "Noun - masculine plural construct | first person common singular",
     "str": "Strong's 251:  ",
-    "str2": "A brother, )"
+    "str2": "A brother, )",
+    "num": 251
   },
   {
     "word": "my own flesh",
@@ -21,7 +23,8 @@
     "translit": "(ū·ḇə·śā·rî)",
     "parse": "Conjunctive waw | Noun - masculine singular construct | first person common singular",
     "str": "Strong's 1320:  ",
-    "str2": "Flesh, body, person, the pudenda of a, man"
+    "str2": "Flesh, body, person, the pudenda of a, man",
+    "num": 1320
   },
   {
     "word": "and blood.",
@@ -29,7 +32,8 @@
     "translit": "(‘aṣ·mî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 6106:  ",
-    "str2": "A bone, the body, the substance, selfsame"
+    "str2": "A bone, the body, the substance, selfsame",
+    "num": 6106
   },
   {
     "word": "So why",
@@ -37,7 +41,8 @@
     "translit": "(wə·lām·māh)",
     "parse": "Conjunctive waw | Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "should you",
@@ -45,7 +50,8 @@
     "translit": "(’at·tem)",
     "parse": "Pronoun - second person masculine plural",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "be",
@@ -53,7 +59,8 @@
     "translit": "(ṯih·yū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "the last",
@@ -61,7 +68,8 @@
     "translit": "(’a·ḥă·rō·nîm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 314:  ",
-    "str2": "Hinder, late, last, western"
+    "str2": "Hinder, late, last, western",
+    "num": 314
   },
   {
     "word": "to restore",
@@ -69,7 +77,8 @@
     "translit": "(lə·hā·šîḇ)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "the king?’",
@@ -77,6 +86,7 @@
     "translit": "(ham·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   }
 ]

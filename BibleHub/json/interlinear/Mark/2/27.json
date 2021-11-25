@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[Jesus] told",
@@ -13,7 +14,8 @@
     "translit": "(elegen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "them,",
@@ -21,7 +23,8 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“The",
@@ -29,7 +32,8 @@
     "translit": "(To)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Sabbath",
@@ -37,7 +41,8 @@
     "translit": "(sabbaton)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4521:  ",
-    "str2": "The Sabbath, a week. "
+    "str2": "The Sabbath, a week. ",
+    "num": 4521
   },
   {
     "word": "was made",
@@ -45,7 +50,8 @@
     "translit": "(egeneto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "for",
@@ -53,7 +59,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "man,",
@@ -61,7 +68,8 @@
     "translit": "(anthrōpon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "not",
@@ -69,7 +77,8 @@
     "translit": "(ouch)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "man",
@@ -77,7 +86,8 @@
     "translit": "(anthrōpos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "for",
@@ -85,7 +95,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "the",
@@ -93,7 +104,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Sabbath.",
@@ -101,6 +113,7 @@
     "translit": "(sabbaton)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4521:  ",
-    "str2": "The Sabbath, a week. "
+    "str2": "The Sabbath, a week. ",
+    "num": 4521
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "a great",
@@ -13,7 +14,8 @@
     "translit": "(megan)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 3173:  ",
-    "str2": "Large, great, in the widest sense. "
+    "str2": "Large, great, in the widest sense. ",
+    "num": 3173
   },
   {
     "word": "High Priest",
@@ -21,7 +23,8 @@
     "translit": "(hierea)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2409:  ",
-    "str2": "A priest, one who offers sacrifice to a god (in Jewish and pagan religions; of Christians only met.). From hieros; a priest."
+    "str2": "A priest, one who offers sacrifice to a god (in Jewish and pagan religions; of Christians only met.). From hieros; a priest.",
+    "num": 2409
   },
   {
     "word": "over",
@@ -29,7 +32,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "house",
@@ -45,7 +50,8 @@
     "translit": "(oikon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3624:  ",
-    "str2": "A dwelling; by implication, a family."
+    "str2": "A dwelling; by implication, a family.",
+    "num": 3624
   },
   {
     "word": "of God,",
@@ -53,6 +59,7 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he called out,",
@@ -13,7 +14,8 @@
     "translit": "(eboēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 994:  ",
-    "str2": "To shout, call aloud, proclaim. Apparently a prolonged form of a primary verb; to halloo, i.e. Shout."
+    "str2": "To shout, call aloud, proclaim. Apparently a prolonged form of a primary verb; to halloo, i.e. Shout.",
+    "num": 994
   },
   {
     "word": "“Jesus,",
@@ -21,7 +23,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "Son",
@@ -29,7 +32,8 @@
     "translit": "(huie)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   },
   {
     "word": "of David,",
@@ -37,7 +41,8 @@
     "translit": "(Dauid)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 1138:  ",
-    "str2": "David, King of Israel. Of Hebrew origin; Dabid, the Israelite king."
+    "str2": "David, King of Israel. Of Hebrew origin; Dabid, the Israelite king.",
+    "num": 1138
   },
   {
     "word": "have mercy on",
@@ -45,7 +50,8 @@
     "translit": "(eleēson)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 1653:  ",
-    "str2": "To pity, have mercy on. From eleos; to compassionate."
+    "str2": "To pity, have mercy on. From eleos; to compassionate.",
+    "num": 1653
   },
   {
     "word": "me!”",
@@ -53,6 +59,7 @@
     "translit": "(me)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   }
 ]

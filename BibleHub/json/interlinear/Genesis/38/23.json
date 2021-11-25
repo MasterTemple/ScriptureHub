@@ -5,7 +5,8 @@
     "translit": "(lāh)",
     "parse": "Preposition | third person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "keep the items,”",
@@ -13,7 +14,8 @@
     "translit": "(tiq·qaḥ-)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 3947:  ",
-    "str2": "To take"
+    "str2": "To take",
+    "num": 3947
   },
   {
     "word": "Judah",
@@ -21,7 +23,8 @@
     "translit": "(yə·hū·ḏāh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3063:  ",
-    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites"
+    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites",
+    "num": 3063
   },
   {
     "word": "replied.",
@@ -29,7 +32,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“Otherwise",
@@ -37,7 +41,8 @@
     "translit": "(pen)",
     "parse": "Conjunction",
     "str": "Strong's 6435:  ",
-    "str2": "Removal, lest"
+    "str2": "Removal, lest",
+    "num": 6435
   },
   {
     "word": "we will become",
@@ -45,7 +50,8 @@
     "translit": "(nih·yeh)",
     "parse": "Verb - Qal - Imperfect - first person common plural",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "a laughingstock.",
@@ -53,7 +59,8 @@
     "translit": "(lā·ḇūz)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 937:  ",
-    "str2": "Disrespect"
+    "str2": "Disrespect",
+    "num": 937
   },
   {
     "word": "After all,",
@@ -61,7 +68,8 @@
     "translit": "(hin·nêh)",
     "parse": "Interjection",
     "str": "Strong's 2009:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2009
   },
   {
     "word": "I did send her",
@@ -69,7 +77,8 @@
     "translit": "(šā·laḥ·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 7971:  ",
-    "str2": "To send away, for, out"
+    "str2": "To send away, for, out",
+    "num": 7971
   },
   {
     "word": "this",
@@ -77,7 +86,8 @@
     "translit": "(haz·zeh)",
     "parse": "Article | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "young goat,",
@@ -85,7 +95,8 @@
     "translit": "(hag·gə·ḏî)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1423:  ",
-    "str2": "A kid (a young goat)"
+    "str2": "A kid (a young goat)",
+    "num": 1423
   },
   {
     "word": "but you",
@@ -93,7 +104,8 @@
     "translit": "(wə·’at·tāh)",
     "parse": "Conjunctive waw | Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "could not",
@@ -101,7 +113,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "find her.”",
@@ -109,6 +122,7 @@
     "translit": "(mə·ṣā·ṯāh)",
     "parse": "Verb - Qal - Perfect - second person masculine singular | third person feminine singular",
     "str": "Strong's 4672:  ",
-    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present"
+    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present",
+    "num": 4672
   }
 ]

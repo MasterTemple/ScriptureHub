@@ -5,7 +5,8 @@
     "translit": "(hopou)",
     "parse": "Adverb",
     "str": "Strong's 3699:  ",
-    "str2": "Where, whither, in what place."
+    "str2": "Where, whither, in what place.",
+    "num": 3699
   },
   {
     "word": "their",
@@ -13,7 +14,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same."
+    "str2": "He, she, it, they, them, same.",
+    "num": 846
   },
   {
     "word": "worm",
@@ -21,7 +23,8 @@
     "translit": "(skōlēx)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4663:  ",
-    "str2": "A gnawing worm; gnawing anguish."
+    "str2": "A gnawing worm; gnawing anguish.",
+    "num": 4663
   },
   {
     "word": "{does} not",
@@ -29,7 +32,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not."
+    "str2": "No, not.",
+    "num": 3756
   },
   {
     "word": "die,",
@@ -37,7 +41,8 @@
     "translit": "(teleuta)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 5053:  ",
-    "str2": "To end, finish, die, complete."
+    "str2": "To end, finish, die, complete.",
+    "num": 5053
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely."
+    "str2": "And, even, also, namely.",
+    "num": 2532
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article."
+    "str2": "The, the definite article.",
+    "num": 3588
   },
   {
     "word": "fire",
@@ -61,7 +68,8 @@
     "translit": "(pyr)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4442:  ",
-    "str2": "Fire; the heat of the sun, lightning; fig: strife, trials; the eternal fire."
+    "str2": "Fire; the heat of the sun, lightning; fig: strife, trials; the eternal fire.",
+    "num": 4442
   },
   {
     "word": "is not quenched.",
@@ -69,6 +77,7 @@
     "translit": "(sbennytai)",
     "parse": "Verb - Present Indicative Passive - 3rd Person Singular",
     "str": "Strong's 4570:  ",
-    "str2": "(a) to extinguish, quench, (b) to suppress, thwart."
+    "str2": "(a) to extinguish, quench, (b) to suppress, thwart.",
+    "num": 4570
   }
 ]

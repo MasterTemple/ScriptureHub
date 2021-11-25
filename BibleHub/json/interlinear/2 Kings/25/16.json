@@ -5,7 +5,8 @@
     "translit": "(šə·na·yim)",
     "parse": "Number - md",
     "str": "Strong's 8147:  ",
-    "str2": "Two (a cardinal number)"
+    "str2": "Two (a cardinal number)",
+    "num": 8147
   },
   {
     "word": "pillars,",
@@ -13,7 +14,8 @@
     "translit": "(hā·‘am·mū·ḏîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 5982:  ",
-    "str2": "A column, a stand, platform"
+    "str2": "A column, a stand, platform",
+    "num": 5982
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(hā·’e·ḥāḏ)",
     "parse": "Article | Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "Sea,",
@@ -29,7 +32,8 @@
     "translit": "(hay·yām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3220:  ",
-    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin"
+    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin",
+    "num": 3220
   },
   {
     "word": "and the movable stands",
@@ -37,7 +41,8 @@
     "translit": "(wə·ham·mə·ḵō·nō·wṯ)",
     "parse": "Conjunctive waw, Article | Noun - feminine plural",
     "str": "Strong's 4350:  ",
-    "str2": "A fixed resting place, base"
+    "str2": "A fixed resting place, base",
+    "num": 4350
   },
   {
     "word": "that",
@@ -45,7 +50,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "Solomon",
@@ -53,7 +59,8 @@
     "translit": "(šə·lō·mōh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 8010:  ",
-    "str2": "Solomon -- David's son and successor to his throne"
+    "str2": "Solomon -- David's son and successor to his throne",
+    "num": 8010
   },
   {
     "word": "had made",
@@ -61,7 +68,8 @@
     "translit": "(‘ā·śāh)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "for the house",
@@ -69,7 +77,8 @@
     "translit": "(lə·ḇêṯ)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "of the LORD,",
@@ -77,7 +86,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "{the weight} of the bronze",
@@ -85,7 +95,8 @@
     "translit": "(lin·ḥō·šeṯ)",
     "parse": "Preposition-l | Noun - feminine singular construct",
     "str": "Strong's 5178:  ",
-    "str2": "Copper, something made of that metal, coin, a fetter, base"
+    "str2": "Copper, something made of that metal, coin, a fetter, base",
+    "num": 5178
   },
   {
     "word": "from all",
@@ -93,7 +104,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "these",
@@ -101,7 +113,8 @@
     "translit": "(hā·’êl·leh)",
     "parse": "Article | Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   },
   {
     "word": "articles",
@@ -109,7 +122,8 @@
     "translit": "(hak·kê·lîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 3627:  ",
-    "str2": "Something prepared, any apparatus"
+    "str2": "Something prepared, any apparatus",
+    "num": 3627
   },
   {
     "word": "[was beyond] measure.",
@@ -117,6 +131,7 @@
     "translit": "(miš·qāl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4948:  ",
-    "str2": "Weight, weighing"
+    "str2": "Weight, weighing",
+    "num": 4948
   }
 ]

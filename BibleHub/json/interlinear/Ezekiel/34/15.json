@@ -5,7 +5,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "will tend",
@@ -13,7 +14,8 @@
     "translit": "(’er·‘eh)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 7462:  ",
-    "str2": "To tend a, flock, pasture it, in, to graze, to rule, to associate with"
+    "str2": "To tend a, flock, pasture it, in, to graze, to rule, to associate with",
+    "num": 7462
   },
   {
     "word": "My flock",
@@ -21,7 +23,8 @@
     "translit": "(ṣō·nî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 6629:  ",
-    "str2": "Small cattle, sheep and goats, flock"
+    "str2": "Small cattle, sheep and goats, flock",
+    "num": 6629
   },
   {
     "word": "and make them lie down,",
@@ -29,7 +32,8 @@
     "translit": "(’ar·bî·ṣêm)",
     "parse": "Verb - Hifil - Imperfect - first person common singular | third person masculine plural",
     "str": "Strong's 7257:  ",
-    "str2": "To crouch, be implication, to recline, repose, brood, lurk, imbed"
+    "str2": "To crouch, be implication, to recline, repose, brood, lurk, imbed",
+    "num": 7257
   },
   {
     "word": "declares",
@@ -37,7 +41,8 @@
     "translit": "(nə·’um)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 5002:  ",
-    "str2": "An oracle"
+    "str2": "An oracle",
+    "num": 5002
   },
   {
     "word": "the Lord",
@@ -45,7 +50,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD.",
@@ -53,6 +59,7 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   }
 ]

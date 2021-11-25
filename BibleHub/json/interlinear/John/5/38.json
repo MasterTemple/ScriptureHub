@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[does]",
@@ -13,7 +14,8 @@
     "translit": "(echete)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "His",
@@ -21,7 +23,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "word",
@@ -29,7 +32,8 @@
     "translit": "(logon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "abide",
@@ -37,7 +41,8 @@
     "translit": "(menonta)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Singular",
     "str": "Strong's 3306:  ",
-    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay."
+    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay.",
+    "num": 3306
   },
   {
     "word": "in",
@@ -45,7 +50,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "you,",
@@ -53,7 +59,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "because",
@@ -61,7 +68,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "you",
@@ -69,7 +77,8 @@
     "translit": "(hymeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "{do} not",
@@ -77,7 +86,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "believe",
@@ -85,7 +95,8 @@
     "translit": "(pisteuete)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 4100:  ",
-    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust."
+    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust.",
+    "num": 4100
   },
   {
     "word": "the [One]",
@@ -93,7 +104,8 @@
     "translit": "(toutō)",
     "parse": "Demonstrative Pronoun - Dative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "He",
@@ -101,7 +113,8 @@
     "translit": "(ekeinos)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 1565:  ",
-    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed."
+    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed.",
+    "num": 1565
   },
   {
     "word": "sent.",
@@ -109,6 +122,7 @@
     "translit": "(apesteilen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 649:  ",
-    "str2": "From apo and stello; set apart, i.e. to send out literally or figuratively."
+    "str2": "From apo and stello; set apart, i.e. to send out literally or figuratively.",
+    "num": 649
   }
 ]

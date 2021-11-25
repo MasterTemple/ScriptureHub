@@ -5,7 +5,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "tribe",
@@ -13,7 +14,8 @@
     "translit": "(ḇaš·šê·ḇeṭ)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 7626:  ",
-    "str2": "Rod, staff, club, scepter, tribe"
+    "str2": "Rod, staff, club, scepter, tribe",
+    "num": 7626
   },
   {
     "word": "the foreigner",
@@ -21,7 +23,8 @@
     "translit": "(hag·gêr)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1616:  ",
-    "str2": "A guest, a foreigner"
+    "str2": "A guest, a foreigner",
+    "num": 1616
   },
   {
     "word": "dwells,",
@@ -29,7 +32,8 @@
     "translit": "(gār)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 1481:  ",
-    "str2": "To turn aside from the road, sojourn, to shrink, fear, to gather for, hostility"
+    "str2": "To turn aside from the road, sojourn, to shrink, fear, to gather for, hostility",
+    "num": 1481
   },
   {
     "word": "you are to assign",
@@ -37,7 +41,8 @@
     "translit": "(tit·tə·nū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "his inheritance",
@@ -45,7 +50,8 @@
     "translit": "(na·ḥă·lā·ṯōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 5159:  ",
-    "str2": "Something inherited, occupancy, an heirloom, an estate, patrimony, portion"
+    "str2": "Something inherited, occupancy, an heirloom, an estate, patrimony, portion",
+    "num": 5159
   },
   {
     "word": "there,",
@@ -53,7 +59,8 @@
     "translit": "(m)",
     "parse": "Adverb",
     "str": "Strong's 8033:  ",
-    "str2": "There, then, thither"
+    "str2": "There, then, thither",
+    "num": 8033
   },
   {
     "word": "declares",
@@ -61,7 +68,8 @@
     "translit": "(nə·’um)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 5002:  ",
-    "str2": "An oracle"
+    "str2": "An oracle",
+    "num": 5002
   },
   {
     "word": "the Lord",
@@ -69,7 +77,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD.’",
@@ -77,6 +86,7 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   }
 ]

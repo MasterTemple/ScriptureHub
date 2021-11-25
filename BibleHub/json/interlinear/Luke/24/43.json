@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "He took [it]",
@@ -13,7 +14,8 @@
     "translit": "(labōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "[and] ate [it]",
@@ -21,7 +23,8 @@
     "translit": "(ephagen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 5315:  ",
-    "str2": "A primary verb; to eat."
+    "str2": "A primary verb; to eat.",
+    "num": 5315
   },
   {
     "word": "in front of",
@@ -29,7 +32,8 @@
     "translit": "(enōpion)",
     "parse": "Preposition",
     "str": "Strong's 1799:  ",
-    "str2": "Neuter of a compound of en and a derivative of optanomai; in the face of."
+    "str2": "Neuter of a compound of en and a derivative of optanomai; in the face of.",
+    "num": 1799
   },
   {
     "word": "them.",
@@ -37,6 +41,7 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

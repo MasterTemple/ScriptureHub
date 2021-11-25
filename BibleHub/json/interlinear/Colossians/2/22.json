@@ -5,7 +5,8 @@
     "translit": "(ha)",
     "parse": "Personal / Relative Pronoun - Nominative Neuter Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "will",
@@ -13,7 +14,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "all",
@@ -21,7 +23,8 @@
     "translit": "(panta)",
     "parse": "Adjective - Nominative Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "perish",
@@ -29,7 +32,8 @@
     "translit": "(phthoran)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5356:  ",
-    "str2": "Corruption, destruction, decay, rottenness, decomposition. From phtheiro; decay, i.e. Ruin."
+    "str2": "Corruption, destruction, decay, rottenness, decomposition. From phtheiro; decay, i.e. Ruin.",
+    "num": 5356
   },
   {
     "word": "with",
@@ -37,7 +41,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "use,",
@@ -45,7 +50,8 @@
     "translit": "(apochrēsei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 671:  ",
-    "str2": "Using up, abuse, misuse. From a compound of apo and chraomai; the act of using up, i.e. Consumption."
+    "str2": "Using up, abuse, misuse. From a compound of apo and chraomai; the act of using up, i.e. Consumption.",
+    "num": 671
   },
   {
     "word": "because they are based on",
@@ -53,7 +59,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "human",
@@ -61,7 +68,8 @@
     "translit": "(anthrōpōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "commands",
@@ -69,7 +77,8 @@
     "translit": "(entalmata)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 1778:  ",
-    "str2": "An injunction, ordinance, precept. From entellomai; an injunction, i.e. Religious precept."
+    "str2": "An injunction, ordinance, precept. From entellomai; an injunction, i.e. Religious precept.",
+    "num": 1778
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "teachings.",
@@ -85,6 +95,7 @@
     "translit": "(didaskalias)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 1319:  ",
-    "str2": "Instruction, teaching. From didaskalos; instruction."
+    "str2": "Instruction, teaching. From didaskalos; instruction.",
+    "num": 1319
   }
 ]

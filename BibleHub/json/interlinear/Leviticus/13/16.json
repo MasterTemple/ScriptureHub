@@ -5,7 +5,8 @@
     "translit": "(’ōw)",
     "parse": "Conjunction",
     "str": "Strong's 176:  ",
-    "str2": "Desire, if"
+    "str2": "Desire, if",
+    "num": 176
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ḵî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the raw",
@@ -21,7 +23,8 @@
     "translit": "(ha·ḥay)",
     "parse": "Article | Adjective - masculine singular",
     "str": "Strong's 2416:  ",
-    "str2": "Alive, raw, fresh, strong, life"
+    "str2": "Alive, raw, fresh, strong, life",
+    "num": 2416
   },
   {
     "word": "flesh",
@@ -29,7 +32,8 @@
     "translit": "(hab·bā·śār)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1320:  ",
-    "str2": "Flesh, body, person, the pudenda of a, man"
+    "str2": "Flesh, body, person, the pudenda of a, man",
+    "num": 1320
   },
   {
     "word": "changes",
@@ -37,7 +41,8 @@
     "translit": "(yā·šūḇ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "and turns",
@@ -45,7 +50,8 @@
     "translit": "(wə·neh·paḵ)",
     "parse": "Conjunctive waw | Verb - Nifal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 2015:  ",
-    "str2": "To turn about, over, to change, overturn, return, pervert"
+    "str2": "To turn about, over, to change, overturn, return, pervert",
+    "num": 2015
   },
   {
     "word": "white,",
@@ -53,7 +59,8 @@
     "translit": "(lə·lā·ḇān)",
     "parse": "Preposition-l | Adjective - masculine singular",
     "str": "Strong's 3836:  ",
-    "str2": "White"
+    "str2": "White",
+    "num": 3836
   },
   {
     "word": "he must go",
@@ -61,7 +68,8 @@
     "translit": "(ū·ḇā)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "to",
@@ -69,7 +77,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the priest.",
@@ -77,6 +86,7 @@
     "translit": "(hak·kō·hên)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3548:  ",
-    "str2": "Priest"
+    "str2": "Priest",
+    "num": 3548
   }
 ]

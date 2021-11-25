@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "some",
@@ -13,7 +14,8 @@
     "translit": "(tines)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Plural",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "of the",
@@ -21,7 +23,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Pharisees",
@@ -29,7 +32,8 @@
     "translit": "(Pharisaiōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 5330:  ",
-    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary."
+    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary.",
+    "num": 5330
   },
   {
     "word": "in",
@@ -37,7 +41,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "crowd",
@@ -53,7 +59,8 @@
     "translit": "(ochlou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3793:  ",
-    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot."
+    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot.",
+    "num": 3793
   },
   {
     "word": "said",
@@ -61,7 +68,8 @@
     "translit": "(eipan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "to",
@@ -69,7 +77,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "Him,",
@@ -77,7 +86,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“Teacher,",
@@ -85,7 +95,8 @@
     "translit": "(Didaskale)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 1320:  ",
-    "str2": "A teacher, master. From didasko; an instructor."
+    "str2": "A teacher, master. From didasko; an instructor.",
+    "num": 1320
   },
   {
     "word": "rebuke",
@@ -93,7 +104,8 @@
     "translit": "(epitimēson)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 2008:  ",
-    "str2": "From epi and timao; to tax upon, i.e. Censure or admonish; by implication, forbid."
+    "str2": "From epi and timao; to tax upon, i.e. Censure or admonish; by implication, forbid.",
+    "num": 2008
   },
   {
     "word": "Your",
@@ -101,7 +113,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "disciples!”",
@@ -109,6 +122,7 @@
     "translit": "(mathētais)",
     "parse": "Noun - Dative Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’aḵ)",
     "parse": "Adverb",
     "str": "Strong's 389:  ",
-    "str2": "A particle of affirmation, surely"
+    "str2": "A particle of affirmation, surely",
+    "num": 389
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "the slave gets up",
@@ -21,7 +23,8 @@
     "translit": "(ya·‘ă·mōḏ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5975:  ",
-    "str2": "To stand, in various relations"
+    "str2": "To stand, in various relations",
+    "num": 5975
   },
   {
     "word": "after a day",
@@ -29,7 +32,8 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "or",
@@ -37,7 +41,8 @@
     "translit": "(’ōw)",
     "parse": "Conjunction",
     "str": "Strong's 176:  ",
-    "str2": "Desire, if"
+    "str2": "Desire, if",
+    "num": 176
   },
   {
     "word": "two,",
@@ -45,7 +50,8 @@
     "translit": "(yō·w·ma·yim)",
     "parse": "Noun - md",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "the owner shall not",
@@ -53,7 +59,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "be punished,",
@@ -61,7 +68,8 @@
     "translit": "(yuq·qam)",
     "parse": "Verb - QalPass - Imperfect - third person masculine singular",
     "str": "Strong's 5358:  ",
-    "str2": "To grudge, avenge, punish"
+    "str2": "To grudge, avenge, punish",
+    "num": 5358
   },
   {
     "word": "since",
@@ -69,7 +77,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "[the slave is]",
@@ -77,7 +86,8 @@
     "translit": "(hū)",
     "parse": "Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "his property.",
@@ -85,6 +95,7 @@
     "translit": "(ḵas·pōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 3701:  ",
-    "str2": "Silver, money"
+    "str2": "Silver, money",
+    "num": 3701
   }
 ]

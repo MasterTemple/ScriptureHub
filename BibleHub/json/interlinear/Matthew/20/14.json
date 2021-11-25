@@ -5,7 +5,8 @@
     "translit": "(aron)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 142:  ",
-    "str2": "To raise, lift up, take away, remove. "
+    "str2": "To raise, lift up, take away, remove. ",
+    "num": 142
   },
   {
     "word": "your",
@@ -13,7 +14,8 @@
     "translit": "(son)",
     "parse": "Personal / Possessive Pronoun - Accusative Neuter 2nd Person Singular",
     "str": "Strong's 4674:  ",
-    "str2": "Yours, thy, thine. From su; thine."
+    "str2": "Yours, thy, thine. From su; thine.",
+    "num": 4674
   },
   {
     "word": "[pay]",
@@ -21,7 +23,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "go.",
@@ -37,7 +41,8 @@
     "translit": "(hypage)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 5217:  ",
-    "str2": "To go away, depart, begone, die. From hupo and ago; to lead under, i.e. Withdraw or retire, literally or figuratively."
+    "str2": "To go away, depart, begone, die. From hupo and ago; to lead under, i.e. Withdraw or retire, literally or figuratively.",
+    "num": 5217
   },
   {
     "word": "I want",
@@ -45,7 +50,8 @@
     "translit": "(thelō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "to give",
@@ -53,7 +59,8 @@
     "translit": "(dounai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "this",
@@ -61,7 +68,8 @@
     "translit": "(toutō)",
     "parse": "Demonstrative Pronoun - Dative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "last [man]",
@@ -69,7 +77,8 @@
     "translit": "(eschatō)",
     "parse": "Adjective - Dative Masculine Singular",
     "str": "Strong's 2078:  ",
-    "str2": "Last, at the last, finally, till the end. A superlative probably from echo; farthest, final."
+    "str2": "Last, at the last, finally, till the end. A superlative probably from echo; farthest, final.",
+    "num": 2078
   },
   {
     "word": "the same as",
@@ -77,7 +86,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "[I gave]",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "you.",
@@ -93,6 +104,7 @@
     "translit": "(soi)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

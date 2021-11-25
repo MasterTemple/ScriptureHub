@@ -5,7 +5,8 @@
     "translit": "(hōste)",
     "parse": "Conjunction",
     "str": "Strong's 5620:  ",
-    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore."
+    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore.",
+    "num": 5620
   },
   {
     "word": "you are",
@@ -13,7 +14,8 @@
     "translit": "(ei)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "no longer",
@@ -21,7 +23,8 @@
     "translit": "(ouketi)",
     "parse": "Adverb",
     "str": "Strong's 3765:  ",
-    "str2": "No longer, no more. Also ouk eti from ou and eti; not yet, no longer."
+    "str2": "No longer, no more. Also ouk eti from ou and eti; not yet, no longer.",
+    "num": 3765
   },
   {
     "word": "a slave,",
@@ -29,7 +32,8 @@
     "translit": "(doulos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 1401:  ",
-    "str2": "(a) (as adj.) enslaved, (b) (as noun) a (male) slave. From deo; a slave."
+    "str2": "(a) (as adj.) enslaved, (b) (as noun) a (male) slave. From deo; a slave.",
+    "num": 1401
   },
   {
     "word": "but",
@@ -37,7 +41,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "a son;",
@@ -45,7 +50,8 @@
     "translit": "(huios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "since [you are]",
@@ -61,7 +68,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "a son,",
@@ -69,7 +77,8 @@
     "translit": "(huios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   },
   {
     "word": "[you are] also",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "an heir",
@@ -85,7 +95,8 @@
     "translit": "(klēronomos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2818:  ",
-    "str2": "From kleros and the base of nomos (reflexively) getting by apportionment); a sharer by lot, i.e. Inheritor; by implication, a possessor."
+    "str2": "From kleros and the base of nomos (reflexively) getting by apportionment); a sharer by lot, i.e. Inheritor; by implication, a possessor.",
+    "num": 2818
   },
   {
     "word": "through",
@@ -93,7 +104,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "God.",
@@ -101,6 +113,7 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

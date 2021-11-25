@@ -5,7 +5,8 @@
     "translit": "(nā)",
     "parse": "Interjection",
     "str": "Strong's 4994:  ",
-    "str2": "I pray', 'now', 'then'"
+    "str2": "I pray', 'now', 'then'",
+    "num": 4994
   },
   {
     "word": "do not",
@@ -13,7 +14,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "depart",
@@ -21,7 +23,8 @@
     "translit": "(ṯā·muš)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 4185:  ",
-    "str2": "To depart, remove"
+    "str2": "To depart, remove",
+    "num": 4185
   },
   {
     "word": "from this [place]",
@@ -29,7 +32,8 @@
     "translit": "(miz·zeh)",
     "parse": "Preposition-m | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "until",
@@ -37,7 +41,8 @@
     "translit": "(‘aḏ-)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "I return",
@@ -45,7 +50,8 @@
     "translit": "(bō·’î)",
     "parse": "Verb - Qal - Infinitive construct | first person common singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "to You.",
@@ -53,7 +59,8 @@
     "translit": "(’ê·le·ḵā)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "Let me bring",
@@ -61,7 +68,8 @@
     "translit": "(wə·hō·ṣê·ṯî)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - first person common singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "my gift",
@@ -69,7 +77,8 @@
     "translit": "(min·ḥā·ṯî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 4503:  ",
-    "str2": "A donation, tribute, a sacrificial offering"
+    "str2": "A donation, tribute, a sacrificial offering",
+    "num": 4503
   },
   {
     "word": "and set [it]",
@@ -77,7 +86,8 @@
     "translit": "(wə·hin·naḥ·tî)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - first person common singular",
     "str": "Strong's 3240:  ",
-    "str2": "Bestow, cast down, lay down, up, leave off, let alone remain, pacify, place, "
+    "str2": "Bestow, cast down, lay down, up, leave off, let alone remain, pacify, place, ",
+    "num": 3240
   },
   {
     "word": "before You.”",
@@ -85,7 +95,8 @@
     "translit": "(lə·p̄ā·ne·ḵā)",
     "parse": "Preposition-l | Noun - common plural construct | second person masculine singular",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "And [the LORD] said,",
@@ -93,7 +104,8 @@
     "translit": "(way·yō·mar)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“I",
@@ -101,7 +113,8 @@
     "translit": "(’ā·nō·ḵî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "will stay",
@@ -109,7 +122,8 @@
     "translit": "(’ê·šêḇ)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "until",
@@ -117,7 +131,8 @@
     "translit": "(‘aḏ)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "you return.”",
@@ -125,6 +140,7 @@
     "translit": "(šū·ḇe·ḵā)",
     "parse": "Verb - Qal - Infinitive construct | second person masculine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   }
 ]

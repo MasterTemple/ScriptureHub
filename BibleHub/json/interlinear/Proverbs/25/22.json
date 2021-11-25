@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you",
@@ -13,7 +14,8 @@
     "translit": "(’at·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "will heap",
@@ -21,7 +23,8 @@
     "translit": "(ḥō·ṯeh)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 2846:  ",
-    "str2": "To lay hold of, to pick up fire"
+    "str2": "To lay hold of, to pick up fire",
+    "num": 2846
   },
   {
     "word": "burning coals",
@@ -29,7 +32,8 @@
     "translit": "(ḡe·ḥā·lîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 1513:  ",
-    "str2": "An ember"
+    "str2": "An ember",
+    "num": 1513
   },
   {
     "word": "on",
@@ -37,7 +41,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "his head,",
@@ -45,7 +50,8 @@
     "translit": "(rō·šōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 7218:  ",
-    "str2": "The head"
+    "str2": "The head",
+    "num": 7218
   },
   {
     "word": "and the LORD",
@@ -53,7 +59,8 @@
     "translit": "(Yah·weh)",
     "parse": "Conjunctive waw | Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "will reward you.",
@@ -61,6 +68,7 @@
     "translit": "(yə·šal·lem-)",
     "parse": "Verb - Piel - Imperfect - third person masculine singular",
     "str": "Strong's 7999:  ",
-    "str2": "To be safe, to be, completed, to be friendly, to reciprocate"
+    "str2": "To be safe, to be, completed, to be friendly, to reciprocate",
+    "num": 7999
   }
 ]

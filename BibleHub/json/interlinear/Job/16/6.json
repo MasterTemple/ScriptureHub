@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I speak,",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏab·bə·rāh)",
     "parse": "Verb - Piel - Imperfect Cohortative - first person common singular",
     "str": "Strong's 1696:  ",
-    "str2": "To arrange, to speak, to subdue"
+    "str2": "To arrange, to speak, to subdue",
+    "num": 1696
   },
   {
     "word": "my pain",
@@ -21,7 +23,8 @@
     "translit": "(kə·’ê·ḇî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 3511:  ",
-    "str2": "Suffering, adversity"
+    "str2": "Suffering, adversity",
+    "num": 3511
   },
   {
     "word": "is not",
@@ -29,7 +32,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "relieved,",
@@ -37,7 +41,8 @@
     "translit": "(yê·ḥā·śêḵ)",
     "parse": "Verb - Nifal - Imperfect - third person masculine singular",
     "str": "Strong's 2820:  ",
-    "str2": "To restrain, refrain, to refuse, spare, preserve, to observe"
+    "str2": "To restrain, refrain, to refuse, spare, preserve, to observe",
+    "num": 2820
   },
   {
     "word": "and if I hold back,",
@@ -45,7 +50,8 @@
     "translit": "(wə·’aḥ·də·lāh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect Cohortative - first person common singular",
     "str": "Strong's 2308:  ",
-    "str2": "To be flabby, desist, be lacking, idle"
+    "str2": "To be flabby, desist, be lacking, idle",
+    "num": 2308
   },
   {
     "word": "how",
@@ -53,7 +59,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "will it go away?",
@@ -61,6 +68,7 @@
     "translit": "(ya·hă·lōḵ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   }
 ]

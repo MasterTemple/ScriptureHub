@@ -5,7 +5,8 @@
     "translit": "(Idou)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 2400:  ",
-    "str2": "See! Lo! Behold! Look! Second person singular imperative middle voice of eido; used as imperative lo!"
+    "str2": "See! Lo! Behold! Look! Second person singular imperative middle voice of eido; used as imperative lo!",
+    "num": 2400
   },
   {
     "word": "I am coming",
@@ -13,7 +14,8 @@
     "translit": "(erchomai)",
     "parse": "Verb - Present Indicative Middle or Passive - 1st Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "quickly,",
@@ -21,7 +23,8 @@
     "translit": "(tachy)",
     "parse": "Adverb",
     "str": "Strong's 5035:  ",
-    "str2": "Quickly, speedily. Neuter singular of tachus; shortly, i.e. Without delay, soon, or suddenly, or readily."
+    "str2": "Quickly, speedily. Neuter singular of tachus; shortly, i.e. Without delay, soon, or suddenly, or readily.",
+    "num": 5035
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "My",
@@ -37,7 +41,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "reward",
@@ -45,7 +50,8 @@
     "translit": "(misthos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3408:  ",
-    "str2": "(a) pay, wages, salary, (b) reward, recompense, punishment. Apparently a primary word; pay for service, good or bad."
+    "str2": "(a) pay, wages, salary, (b) reward, recompense, punishment. Apparently a primary word; pay for service, good or bad.",
+    "num": 3408
   },
   {
     "word": "[is] with",
@@ -53,7 +59,8 @@
     "translit": "(met’)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "Me,",
@@ -61,7 +68,8 @@
     "translit": "(emou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "to give",
@@ -69,7 +77,8 @@
     "translit": "(apodounai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 591:  ",
-    "str2": "From apo and didomi; to give away, i.e. Up, over, back, etc."
+    "str2": "From apo and didomi; to give away, i.e. Up, over, back, etc.",
+    "num": 591
   },
   {
     "word": "to each one",
@@ -77,7 +86,8 @@
     "translit": "(hekastō)",
     "parse": "Adjective - Dative Masculine Singular",
     "str": "Strong's 1538:  ",
-    "str2": "Each (of more than two), every one. As if a superlative of hekas; each or every."
+    "str2": "Each (of more than two), every one. As if a superlative of hekas; each or every.",
+    "num": 1538
   },
   {
     "word": "according to",
@@ -85,7 +95,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "what",
@@ -93,7 +104,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "he",
@@ -101,7 +113,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "has done.",
@@ -109,6 +122,7 @@
     "translit": "(ergon)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 2041:  ",
-    "str2": "From a primary ergo; toil; by implication, an act."
+    "str2": "From a primary ergo; toil; by implication, an act.",
+    "num": 2041
   }
 ]

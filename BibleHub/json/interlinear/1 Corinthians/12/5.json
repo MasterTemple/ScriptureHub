@@ -5,7 +5,8 @@
     "translit": "(eisin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "different",
@@ -13,7 +14,8 @@
     "translit": "(diaireseis)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 1243:  ",
-    "str2": "Division, distribution, difference, distinction. From diaireo; a distinction or variety."
+    "str2": "Division, distribution, difference, distinction. From diaireo; a distinction or variety.",
+    "num": 1243
   },
   {
     "word": "ministries,",
@@ -21,7 +23,8 @@
     "translit": "(diakoniōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 1248:  ",
-    "str2": "Waiting at table; in a wider sense: service, ministration. From diakonos; attendance; figuratively aid, service."
+    "str2": "Waiting at table; in a wider sense: service, ministration. From diakonos; attendance; figuratively aid, service.",
+    "num": 1248
   },
   {
     "word": "but",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "same",
@@ -45,7 +50,8 @@
     "translit": "(autos)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "Lord.",
@@ -53,6 +59,7 @@
     "translit": "(Kyrios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   }
 ]

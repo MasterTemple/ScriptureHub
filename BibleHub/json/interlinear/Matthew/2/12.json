@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "having been warned",
@@ -13,7 +14,8 @@
     "translit": "(chrēmatisthentes)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Plural",
     "str": "Strong's 5537:  ",
-    "str2": "From chrema; to utter an oracle, i.e. Divinely intimate; by implication, to constitute a firm for business, i.e. bear as a title."
+    "str2": "From chrema; to utter an oracle, i.e. Divinely intimate; by implication, to constitute a firm for business, i.e. bear as a title.",
+    "num": 5537
   },
   {
     "word": "in",
@@ -21,7 +23,8 @@
     "translit": "(kat’)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "a dream",
@@ -29,7 +32,8 @@
     "translit": "(onar)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3677:  ",
-    "str2": "A dream. Of uncertain derivation; a dream."
+    "str2": "A dream. Of uncertain derivation; a dream.",
+    "num": 3677
   },
   {
     "word": "not",
@@ -37,7 +41,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "to return",
@@ -45,7 +50,8 @@
     "translit": "(anakampsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 344:  ",
-    "str2": "To bend or turn back; I return. From ana and kampto; to turn back."
+    "str2": "To bend or turn back; I return. From ana and kampto; to turn back.",
+    "num": 344
   },
   {
     "word": "to",
@@ -53,7 +59,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "Herod,",
@@ -61,7 +68,8 @@
     "translit": "(Hērōdēn)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2264:  ",
-    "str2": "Compound of heros and eidos; heroic; Herod, the name of four Jewish kings."
+    "str2": "Compound of heros and eidos; heroic; Herod, the name of four Jewish kings.",
+    "num": 2264
   },
   {
     "word": "they withdrew",
@@ -69,7 +77,8 @@
     "translit": "(anechōrēsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 402:  ",
-    "str2": "From ana and choreo; to retire."
+    "str2": "From ana and choreo; to retire.",
+    "num": 402
   },
   {
     "word": "to",
@@ -77,7 +86,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "their",
@@ -85,7 +95,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "country",
@@ -93,7 +104,8 @@
     "translit": "(chōran)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5561:  ",
-    "str2": "Feminine of a derivative of the base of chasma through the idea of empty expanse; room, i.e. A space of territory."
+    "str2": "Feminine of a derivative of the base of chasma through the idea of empty expanse; room, i.e. A space of territory.",
+    "num": 5561
   },
   {
     "word": "by",
@@ -101,7 +113,8 @@
     "translit": "(di’)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "another",
@@ -109,7 +122,8 @@
     "translit": "(allēs)",
     "parse": "Adjective - Genitive Feminine Singular",
     "str": "Strong's 243:  ",
-    "str2": "Other, another (of more than two), different. A primary word; 'else, ' i.e. Different."
+    "str2": "Other, another (of more than two), different. A primary word; 'else, ' i.e. Different.",
+    "num": 243
   },
   {
     "word": "route.",
@@ -117,6 +131,7 @@
     "translit": "(hodou)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 3598:  ",
-    "str2": "A way, road, journey, path. Apparently a primary word; a road; by implication, a progress; figuratively, a mode or means."
+    "str2": "A way, road, journey, path. Apparently a primary word; a road; by implication, a progress; figuratively, a mode or means.",
+    "num": 3598
   }
 ]

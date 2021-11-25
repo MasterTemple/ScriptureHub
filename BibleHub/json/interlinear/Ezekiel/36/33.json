@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the Lord",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "says:",
@@ -29,7 +32,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘On the day",
@@ -37,7 +41,8 @@
     "translit": "(bə·yō·wm)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "I cleanse",
@@ -45,7 +50,8 @@
     "translit": "(ṭa·hă·rî)",
     "parse": "Verb - Piel - Infinitive construct | first person common singular",
     "str": "Strong's 2891:  ",
-    "str2": "To be clean or pure"
+    "str2": "To be clean or pure",
+    "num": 2891
   },
   {
     "word": "you",
@@ -53,7 +59,8 @@
     "translit": "(’eṯ·ḵem)",
     "parse": "Direct object marker | second person masculine plural",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "from all",
@@ -61,7 +68,8 @@
     "translit": "(mik·kōl)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "your iniquities,",
@@ -69,7 +77,8 @@
     "translit": "(‘ă·wō·nō·w·ṯê·ḵem)",
     "parse": "Noun - common plural construct | second person masculine plural",
     "str": "Strong's 5771:  ",
-    "str2": "Iniquity, guilt, punishment for iniquity"
+    "str2": "Iniquity, guilt, punishment for iniquity",
+    "num": 5771
   },
   {
     "word": "I will cause the cities",
@@ -77,7 +86,8 @@
     "translit": "(he·‘ā·rîm)",
     "parse": "Article | Noun - feminine plural",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "to be resettled",
@@ -85,7 +95,8 @@
     "translit": "(wə·hō·wō·šaḇ·tî)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - first person common singular",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "and the ruins",
@@ -93,7 +104,8 @@
     "translit": "(he·ḥo·rā·ḇō·wṯ)",
     "parse": "Article | Noun - feminine plural",
     "str": "Strong's 2723:  ",
-    "str2": "Waste, desolation, ruin"
+    "str2": "Waste, desolation, ruin",
+    "num": 2723
   },
   {
     "word": "to be rebuilt.",
@@ -101,6 +113,7 @@
     "translit": "(wə·niḇ·nū)",
     "parse": "Conjunctive waw | Verb - Nifal - Conjunctive perfect - third person common plural",
     "str": "Strong's 1129:  ",
-    "str2": "To build"
+    "str2": "To build",
+    "num": 1129
   }
 ]

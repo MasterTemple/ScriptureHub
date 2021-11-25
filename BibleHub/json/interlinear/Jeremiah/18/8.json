@@ -5,7 +5,8 @@
     "translit": "(ha·hū)",
     "parse": "Article | Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "nation",
@@ -13,7 +14,8 @@
     "translit": "(hag·gō·w)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1471:  ",
-    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts"
+    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+    "num": 1471
   },
   {
     "word": "I warned",
@@ -21,7 +23,8 @@
     "translit": "(dib·bar·tî)",
     "parse": "Verb - Piel - Perfect - first person common singular",
     "str": "Strong's 1696:  ",
-    "str2": "To arrange, to speak, to subdue"
+    "str2": "To arrange, to speak, to subdue",
+    "num": 1696
   },
   {
     "word": "turns",
@@ -29,7 +32,8 @@
     "translit": "(wə·šāḇ)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "from its evil,",
@@ -37,7 +41,8 @@
     "translit": "(mê·rā·‘ā·ṯōw)",
     "parse": "Preposition-m | Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "then I will relent",
@@ -45,7 +50,8 @@
     "translit": "(wə·ni·ḥam·tî)",
     "parse": "Conjunctive waw | Verb - Nifal - Conjunctive perfect - first person common singular",
     "str": "Strong's 5162:  ",
-    "str2": "To sigh, breathe strongly, to be sorry, to pity, console, rue, to avenge"
+    "str2": "To sigh, breathe strongly, to be sorry, to pity, console, rue, to avenge",
+    "num": 5162
   },
   {
     "word": "of",
@@ -53,7 +59,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the disaster",
@@ -61,7 +68,8 @@
     "translit": "(hā·rā·‘āh)",
     "parse": "Article | Adjective - feminine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "I had planned",
@@ -69,7 +77,8 @@
     "translit": "(ḥā·šaḇ·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 2803:  ",
-    "str2": "To think, account"
+    "str2": "To think, account",
+    "num": 2803
   },
   {
     "word": "to inflict.",
@@ -77,6 +86,7 @@
     "translit": "(la·‘ă·śō·wṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   }
 ]

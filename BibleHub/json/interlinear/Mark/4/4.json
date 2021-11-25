@@ -5,7 +5,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "he was sowing,",
@@ -13,7 +14,8 @@
     "translit": "(speirein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 4687:  ",
-    "str2": "To sow, spread, scatter. Probably strengthened from spao; to scatter, i.e. Sow."
+    "str2": "To sow, spread, scatter. Probably strengthened from spao; to scatter, i.e. Sow.",
+    "num": 4687
   },
   {
     "word": "some [seed]",
@@ -21,7 +23,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Nominative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "fell",
@@ -29,7 +32,8 @@
     "translit": "(epesen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 4098:  ",
-    "str2": "A reduplicated and contracted form of peto; probably akin to petomai through the idea of alighting; to fall."
+    "str2": "A reduplicated and contracted form of peto; probably akin to petomai through the idea of alighting; to fall.",
+    "num": 4098
   },
   {
     "word": "along",
@@ -37,7 +41,8 @@
     "translit": "(para)",
     "parse": "Preposition",
     "str": "Strong's 3844:  ",
-    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. "
+    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. ",
+    "num": 3844
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "path,",
@@ -53,7 +59,8 @@
     "translit": "(hodon)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3598:  ",
-    "str2": "A way, road, journey, path. Apparently a primary word; a road; by implication, a progress; figuratively, a mode or means."
+    "str2": "A way, road, journey, path. Apparently a primary word; a road; by implication, a progress; figuratively, a mode or means.",
+    "num": 3598
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(ta)",
     "parse": "Article - Nominative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "birds",
@@ -77,7 +86,8 @@
     "translit": "(peteina)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 4071:  ",
-    "str2": "A bird, fowl. Neuter of a derivative of petomai; a flying animal, i.e. Bird."
+    "str2": "A bird, fowl. Neuter of a derivative of petomai; a flying animal, i.e. Bird.",
+    "num": 4071
   },
   {
     "word": "came",
@@ -85,7 +95,8 @@
     "translit": "(ēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "and",
@@ -93,7 +104,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "devoured",
@@ -101,7 +113,8 @@
     "translit": "(katephagen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2719:  ",
-    "str2": "To eat up, eat till it is finished, devour, squander, annoy, injure. From kata and esthio; to eat down, i.e. Devour."
+    "str2": "To eat up, eat till it is finished, devour, squander, annoy, injure. From kata and esthio; to eat down, i.e. Devour.",
+    "num": 2719
   },
   {
     "word": "it.",
@@ -109,6 +122,7 @@
     "translit": "(auto)",
     "parse": "Personal / Possessive Pronoun - Accusative Neuter 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "I",
@@ -21,7 +23,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "drive out",
@@ -29,7 +32,8 @@
     "translit": "(ekballō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 1544:  ",
-    "str2": "To throw (cast, put) out; I banish; I bring forth, produce. From ek and ballo; to eject."
+    "str2": "To throw (cast, put) out; I banish; I bring forth, produce. From ek and ballo; to eject.",
+    "num": 1544
   },
   {
     "word": "demons",
@@ -37,7 +41,8 @@
     "translit": "(daimonia)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 1140:  ",
-    "str2": "An evil-spirit, demon; a heathen deity. Neuter of a derivative of daimon; a d?Monic being; by extension a deity."
+    "str2": "An evil-spirit, demon; a heathen deity. Neuter of a derivative of daimon; a d?Monic being; by extension a deity.",
+    "num": 1140
   },
   {
     "word": "by",
@@ -45,7 +50,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[the] Spirit",
@@ -53,7 +59,8 @@
     "translit": "(Pneumati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "of God,",
@@ -61,7 +68,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "then",
@@ -69,7 +77,8 @@
     "translit": "(ara)",
     "parse": "Conjunction",
     "str": "Strong's 686:  ",
-    "str2": "Then, therefore, since. Probably from airo; a particle denoting an inference more or less decisive."
+    "str2": "Then, therefore, since. Probably from airo; a particle denoting an inference more or less decisive.",
+    "num": 686
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "kingdom",
@@ -85,7 +95,8 @@
     "translit": "(basileia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 932:  ",
-    "str2": "From basileus; properly, royalty, i.e. rule, or a realm."
+    "str2": "From basileus; properly, royalty, i.e. rule, or a realm.",
+    "num": 932
   },
   {
     "word": "of God",
@@ -93,7 +104,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "has come",
@@ -101,7 +113,8 @@
     "translit": "(ephthasen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 5348:  ",
-    "str2": "Apparently a primary verb; to be beforehand, i.e. Anticipate or precede; by extension, to have arrived at."
+    "str2": "Apparently a primary verb; to be beforehand, i.e. Anticipate or precede; by extension, to have arrived at.",
+    "num": 5348
   },
   {
     "word": "upon",
@@ -109,7 +122,8 @@
     "translit": "(eph’)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "you.",
@@ -117,6 +131,7 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

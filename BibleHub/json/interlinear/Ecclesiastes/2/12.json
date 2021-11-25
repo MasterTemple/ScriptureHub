@@ -5,7 +5,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "turned",
@@ -13,7 +14,8 @@
     "translit": "(ū·p̄ā·nî·ṯî)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - first person common singular",
     "str": "Strong's 6437:  ",
-    "str2": "To turn, to face, appear, look"
+    "str2": "To turn, to face, appear, look",
+    "num": 6437
   },
   {
     "word": "to consider",
@@ -21,7 +23,8 @@
     "translit": "(lir·’ō·wṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "wisdom",
@@ -29,7 +32,8 @@
     "translit": "(ḥāḵ·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 2451:  ",
-    "str2": "Wisdom"
+    "str2": "Wisdom",
+    "num": 2451
   },
   {
     "word": "and madness",
@@ -37,7 +41,8 @@
     "translit": "(wə·hō·w·lê·lō·wṯ)",
     "parse": "Conjunctive waw | Noun - feminine plural",
     "str": "Strong's 1947:  ",
-    "str2": "Madness"
+    "str2": "Madness",
+    "num": 1947
   },
   {
     "word": "and folly;",
@@ -45,7 +50,8 @@
     "translit": "(wə·siḵ·lūṯ)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 5531:  ",
-    "str2": "Silliness"
+    "str2": "Silliness",
+    "num": 5531
   },
   {
     "word": "for",
@@ -53,7 +59,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "what [more]",
@@ -61,7 +68,8 @@
     "translit": "(meh)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "can the king’s",
@@ -69,7 +77,8 @@
     "translit": "(ham·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "successor",
@@ -77,7 +86,8 @@
     "translit": "(še·yā·ḇō·w)",
     "parse": "Pronoun - relative | Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "do",
@@ -85,7 +95,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "than what has already",
@@ -93,7 +104,8 @@
     "translit": "(kə·ḇār)",
     "parse": "Adverb",
     "str": "Strong's 3528:  ",
-    "str2": "Extent of time, a great while, long ago, formerly, hitherto"
+    "str2": "Extent of time, a great while, long ago, formerly, hitherto",
+    "num": 3528
   },
   {
     "word": "been accomplished?",
@@ -101,6 +113,7 @@
     "translit": "(‘ā·śū·hū)",
     "parse": "Verb - Qal - Perfect - third person common plural | third person masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   }
 ]

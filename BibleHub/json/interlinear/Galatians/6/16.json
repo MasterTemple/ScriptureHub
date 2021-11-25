@@ -5,7 +5,8 @@
     "translit": "(eirēnē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1515:  ",
-    "str2": "Probably from a primary verb eiro; peace; by implication, prosperity."
+    "str2": "Probably from a primary verb eiro; peace; by implication, prosperity.",
+    "num": 1515
   },
   {
     "word": "and",
@@ -13,7 +14,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "mercy",
@@ -21,7 +23,8 @@
     "translit": "(eleos)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 1656:  ",
-    "str2": "Pity, mercy, compassion. Of uncertain affinity; compassion."
+    "str2": "Pity, mercy, compassion. Of uncertain affinity; compassion.",
+    "num": 1656
   },
   {
     "word": "to",
@@ -29,7 +32,8 @@
     "translit": "(ep’)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "all",
@@ -37,7 +41,8 @@
     "translit": "(hosoi)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3745:  ",
-    "str2": "How much, how great, how many, as great as, as much. By reduplication from hos; as As."
+    "str2": "How much, how great, how many, as great as, as much. By reduplication from hos; as As.",
+    "num": 3745
   },
   {
     "word": "who",
@@ -45,7 +50,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "walk",
@@ -53,7 +59,8 @@
     "translit": "(stoichēsousin)",
     "parse": "Verb - Future Indicative Active - 3rd Person Plural",
     "str": "Strong's 4748:  ",
-    "str2": "To walk in, walk by. From a derivative of steicho; to march in rank, i.e. to conform to virtue and piety."
+    "str2": "To walk in, walk by. From a derivative of steicho; to march in rank, i.e. to conform to virtue and piety.",
+    "num": 4748
   },
   {
     "word": "by this",
@@ -61,7 +68,8 @@
     "translit": "(toutō)",
     "parse": "Demonstrative Pronoun - Dative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "rule,",
@@ -69,7 +77,8 @@
     "translit": "(kanoni)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2583:  ",
-    "str2": "From kane; a rule, i.e. a standard; by implication, a boundary, i.e. a sphere."
+    "str2": "From kane; a rule, i.e. a standard; by implication, a boundary, i.e. a sphere.",
+    "num": 2583
   },
   {
     "word": "even",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "to",
@@ -85,7 +95,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "the",
@@ -93,7 +104,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Israel",
@@ -101,7 +113,8 @@
     "translit": "(Israēl)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2474:  ",
-    "str2": "Of Hebrew origin; Israel, the adopted name of Jacob, including his descendants."
+    "str2": "Of Hebrew origin; Israel, the adopted name of Jacob, including his descendants.",
+    "num": 2474
   },
   {
     "word": "of God.",
@@ -109,6 +122,7 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

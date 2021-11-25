@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[the centurion] heard",
@@ -13,7 +14,8 @@
     "translit": "(akousas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "about",
@@ -21,7 +23,8 @@
     "translit": "(peri)",
     "parse": "Preposition",
     "str": "Strong's 4012:  ",
-    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time.",
+    "num": 4012
   },
   {
     "word": "Jesus,",
@@ -29,7 +32,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "he sent",
@@ -37,7 +41,8 @@
     "translit": "(apesteilen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 649:  ",
-    "str2": "From apo and stello; set apart, i.e. to send out literally or figuratively."
+    "str2": "From apo and stello; set apart, i.e. to send out literally or figuratively.",
+    "num": 649
   },
   {
     "word": "[some]",
@@ -45,7 +50,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Jewish",
@@ -53,7 +59,8 @@
     "translit": "(Ioudaiōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 2453:  ",
-    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah."
+    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah.",
+    "num": 2453
   },
   {
     "word": "elders",
@@ -61,7 +68,8 @@
     "translit": "(presbyterous)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 4245:  ",
-    "str2": "Comparative of presbus; older; as noun, a senior; specially, an Israelite Sanhedrist or Christian 'presbyter'."
+    "str2": "Comparative of presbus; older; as noun, a senior; specially, an Israelite Sanhedrist or Christian 'presbyter'.",
+    "num": 4245
   },
   {
     "word": "to ask",
@@ -69,7 +77,8 @@
     "translit": "(erōtōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2065:  ",
-    "str2": "Apparently from ereo; to interrogate; by implication, to request."
+    "str2": "Apparently from ereo; to interrogate; by implication, to request.",
+    "num": 2065
   },
   {
     "word": "Him",
@@ -77,7 +86,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "to come",
@@ -85,7 +95,8 @@
     "translit": "(elthōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "[and] heal",
@@ -93,7 +104,8 @@
     "translit": "(diasōsē)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 1295:  ",
-    "str2": "From dia and sozo; to save thoroughly, i.e. to cure, preserve, rescue, etc."
+    "str2": "From dia and sozo; to save thoroughly, i.e. to cure, preserve, rescue, etc.",
+    "num": 1295
   },
   {
     "word": "his",
@@ -101,7 +113,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "servant.",
@@ -109,6 +122,7 @@
     "translit": "(doulon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 1401:  ",
-    "str2": "(a) (as adj.) enslaved, (b) (as noun) a (male) slave. From deo; a slave."
+    "str2": "(a) (as adj.) enslaved, (b) (as noun) a (male) slave. From deo; a slave.",
+    "num": 1401
   }
 ]

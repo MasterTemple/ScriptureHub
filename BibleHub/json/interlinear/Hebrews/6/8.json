@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[land that] produces",
@@ -13,7 +14,8 @@
     "translit": "(ekpherousa)",
     "parse": "Verb - Present Participle Active - Nominative Feminine Singular",
     "str": "Strong's 1627:  ",
-    "str2": "To bring out, carry out, sometimes out of the city for burial; I bring forth, bear, produce. From ek and phero; to bear out."
+    "str2": "To bring out, carry out, sometimes out of the city for burial; I bring forth, bear, produce. From ek and phero; to bear out.",
+    "num": 1627
   },
   {
     "word": "thorns",
@@ -21,7 +23,8 @@
     "translit": "(akanthas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 173:  ",
-    "str2": "A thorn-bush, prickly plant; a thorn. Probably from the same as akmen; a thorn."
+    "str2": "A thorn-bush, prickly plant; a thorn. Probably from the same as akmen; a thorn.",
+    "num": 173
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "thistles",
@@ -37,7 +41,8 @@
     "translit": "(tribolous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 5146:  ",
-    "str2": "A thistle. From treis and belos; properly, a crow-foot, i.e. a thorny plant."
+    "str2": "A thistle. From treis and belos; properly, a crow-foot, i.e. a thorny plant.",
+    "num": 5146
   },
   {
     "word": "[is] worthless,",
@@ -45,7 +50,8 @@
     "translit": "(adokimos)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 96:  ",
-    "str2": "Failing to pass the test, unapproved, counterfeit. By implication, worthless."
+    "str2": "Failing to pass the test, unapproved, counterfeit. By implication, worthless.",
+    "num": 96
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[its] curse",
@@ -61,7 +68,8 @@
     "translit": "(kataras)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2671:  ",
-    "str2": "Cursing; a curse; meton: a doomed one. From kata and ara; imprecation, execration."
+    "str2": "Cursing; a curse; meton: a doomed one. From kata and ara; imprecation, execration.",
+    "num": 2671
   },
   {
     "word": "is imminent.",
@@ -69,7 +77,8 @@
     "translit": "(engys)",
     "parse": "Preposition",
     "str": "Strong's 1451:  ",
-    "str2": "Near. From a primary verb agcho; near."
+    "str2": "Near. From a primary verb agcho; near.",
+    "num": 1451
   },
   {
     "word": "[In]",
@@ -77,7 +86,8 @@
     "translit": "(hēs)",
     "parse": "Personal / Relative Pronoun - Genitive Feminine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "the",
@@ -85,7 +95,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "end",
@@ -93,7 +104,8 @@
     "translit": "(telos)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 5056:  ",
-    "str2": "(a) an end, (b) event or issue, (c) the principal end, aim, purpose, (d) a tax. "
+    "str2": "(a) an end, (b) event or issue, (c) the principal end, aim, purpose, (d) a tax. ",
+    "num": 5056
   },
   {
     "word": "it will be burned.",
@@ -101,6 +113,7 @@
     "translit": "(kausin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2740:  ",
-    "str2": "A burning up, being burned. From kaio; burning."
+    "str2": "A burning up, being burned. From kaio; burning.",
+    "num": 2740
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "be",
@@ -13,7 +14,8 @@
     "translit": "(tə·hî)",
     "parse": "Verb - Qal - Imperfect Jussive - second person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "wise",
@@ -21,7 +23,8 @@
     "translit": "(ḥā·ḵām)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 2450:  ",
-    "str2": "Wise"
+    "str2": "Wise",
+    "num": 2450
   },
   {
     "word": "in your own eyes;",
@@ -29,7 +32,8 @@
     "translit": "(bə·‘ê·ne·ḵā)",
     "parse": "Preposition-b | Noun - cdc | second person masculine singular",
     "str": "Strong's 5869:  ",
-    "str2": "An eye, a fountain"
+    "str2": "An eye, a fountain",
+    "num": 5869
   },
   {
     "word": "fear",
@@ -37,7 +41,8 @@
     "translit": "(yə·rā)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 3372:  ",
-    "str2": "To fear, to revere, caus, to frighten"
+    "str2": "To fear, to revere, caus, to frighten",
+    "num": 3372
   },
   {
     "word": "the LORD",
@@ -45,7 +50,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "and turn away",
@@ -53,7 +59,8 @@
     "translit": "(wə·sūr)",
     "parse": "Conjunctive waw | Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 5493:  ",
-    "str2": "To turn aside"
+    "str2": "To turn aside",
+    "num": 5493
   },
   {
     "word": "from evil.",
@@ -61,6 +68,7 @@
     "translit": "(mê·rā‘)",
     "parse": "Preposition-m | Adjective - masculine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   }
 ]

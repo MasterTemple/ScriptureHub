@@ -5,7 +5,8 @@
     "translit": "(Heteros)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 2087:  ",
-    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different."
+    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different.",
+    "num": 2087
   },
   {
     "word": "of His",
@@ -13,7 +14,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "disciples",
@@ -21,7 +23,8 @@
     "translit": "(mathētōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   },
   {
     "word": "requested,",
@@ -29,7 +32,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“Lord,",
@@ -37,7 +41,8 @@
     "translit": "(Kyrie)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "first",
@@ -45,7 +50,8 @@
     "translit": "(prōton)",
     "parse": "Adverb - Superlative",
     "str": "Strong's 4412:  ",
-    "str2": "First, in the first place, before, formerly. Neuter of protos as adverb; firstly."
+    "str2": "First, in the first place, before, formerly. Neuter of protos as adverb; firstly.",
+    "num": 4412
   },
   {
     "word": "let",
@@ -53,7 +59,8 @@
     "translit": "(epitrepson)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 2010:  ",
-    "str2": "To turn to, commit, entrust; I allow, yield, permit. From epi and the base of trope; to turn over, i.e. Allow."
+    "str2": "To turn to, commit, entrust; I allow, yield, permit. From epi and the base of trope; to turn over, i.e. Allow.",
+    "num": 2010
   },
   {
     "word": "me",
@@ -61,7 +68,8 @@
     "translit": "(moi)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "go",
@@ -69,7 +77,8 @@
     "translit": "(apelthein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 565:  ",
-    "str2": "From apo and erchomai; to go off, aside or behind, literally or figuratively."
+    "str2": "From apo and erchomai; to go off, aside or behind, literally or figuratively.",
+    "num": 565
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "bury",
@@ -85,7 +95,8 @@
     "translit": "(thapsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2290:  ",
-    "str2": "To bury. A primary verb; to celebrate funeral rites, i.e. Inter."
+    "str2": "To bury. A primary verb; to celebrate funeral rites, i.e. Inter.",
+    "num": 2290
   },
   {
     "word": "my",
@@ -93,7 +104,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "father.”",
@@ -101,6 +113,7 @@
     "translit": "(patera)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   }
 ]

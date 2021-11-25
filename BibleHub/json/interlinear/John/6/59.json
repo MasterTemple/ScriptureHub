@@ -5,7 +5,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "this",
@@ -13,7 +14,8 @@
     "translit": "(Tauta)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "while teaching",
@@ -21,7 +23,8 @@
     "translit": "(didaskōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1321:  ",
-    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach."
+    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach.",
+    "num": 1321
   },
   {
     "word": "in",
@@ -29,7 +32,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[the] synagogue",
@@ -37,7 +41,8 @@
     "translit": "(synagōgē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4864:  ",
-    "str2": "From sunago; an assemblage of persons; specially, a Jewish 'synagogue'; by analogy, a Christian church."
+    "str2": "From sunago; an assemblage of persons; specially, a Jewish 'synagogue'; by analogy, a Christian church.",
+    "num": 4864
   },
   {
     "word": "in",
@@ -45,7 +50,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "Capernaum.",
@@ -53,6 +59,7 @@
     "translit": "(Kapharnaoum)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 2584:  ",
-    "str2": "Capernaum, a town of Galilee. Of Hebrew origin; Capernaum, a place in Palestine."
+    "str2": "Capernaum, a town of Galilee. Of Hebrew origin; Capernaum, a place in Palestine.",
+    "num": 2584
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "now",
@@ -13,7 +14,8 @@
     "translit": "(nyn)",
     "parse": "Adverb",
     "str": "Strong's 3568:  ",
-    "str2": "A primary particle of present time; 'now'; also as noun or adjective present or immediate."
+    "str2": "A primary particle of present time; 'now'; also as noun or adjective present or immediate.",
+    "num": 3568
   },
   {
     "word": "I have told",
@@ -21,7 +23,8 @@
     "translit": "(eirēka)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Singular",
     "str": "Strong's 2046:  ",
-    "str2": "Probably a fuller form of rheo; an alternate for epo in certain tenses; to utter, i.e. Speak or say."
+    "str2": "Probably a fuller form of rheo; an alternate for epo in certain tenses; to utter, i.e. Speak or say.",
+    "num": 2046
   },
   {
     "word": "you",
@@ -29,7 +32,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "before",
@@ -37,7 +41,8 @@
     "translit": "(prin)",
     "parse": "Adverb",
     "str": "Strong's 4250:  ",
-    "str2": "Formerly, before. Adverb from pro; prior, sooner."
+    "str2": "Formerly, before. Adverb from pro; prior, sooner.",
+    "num": 4250
   },
   {
     "word": "it happens,",
@@ -45,7 +50,8 @@
     "translit": "(genesthai)",
     "parse": "Verb - Aorist Infinitive Middle",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "so that",
@@ -53,7 +59,8 @@
     "translit": "(hina)",
     "parse": "Conjunction",
     "str": "Strong's 2443:  ",
-    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that."
+    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that.",
+    "num": 2443
   },
   {
     "word": "when",
@@ -61,7 +68,8 @@
     "translit": "(hotan)",
     "parse": "Conjunction",
     "str": "Strong's 3752:  ",
-    "str2": "When, whenever. From hote and an; whenever; also causatively inasmuch as."
+    "str2": "When, whenever. From hote and an; whenever; also causatively inasmuch as.",
+    "num": 3752
   },
   {
     "word": "it does happen,",
@@ -69,7 +77,8 @@
     "translit": "(genētai)",
     "parse": "Verb - Aorist Subjunctive Middle - 3rd Person Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "you will believe.",
@@ -77,6 +86,7 @@
     "translit": "(pisteusēte)",
     "parse": "Verb - Aorist Subjunctive Active - 2nd Person Plural",
     "str": "Strong's 4100:  ",
-    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust."
+    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust.",
+    "num": 4100
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(poimanei)",
     "parse": "Verb - Future Indicative Active - 3rd Person Singular",
     "str": "Strong's 4165:  ",
-    "str2": "To shepherd, tend, herd; hence: I rule, govern. From poimen; to tend as a shepherd of."
+    "str2": "To shepherd, tend, herd; hence: I rule, govern. From poimen; to tend as a shepherd of.",
+    "num": 4165
   },
   {
     "word": "them",
@@ -13,7 +14,8 @@
     "translit": "(autous)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "with",
@@ -21,7 +23,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "an iron",
@@ -29,7 +32,8 @@
     "translit": "(sidēra)",
     "parse": "Adjective - Dative Feminine Singular",
     "str": "Strong's 4603:  ",
-    "str2": "Made of iron. From sideros; made of iron."
+    "str2": "Made of iron. From sideros; made of iron.",
+    "num": 4603
   },
   {
     "word": "scepter",
@@ -37,7 +41,8 @@
     "translit": "(rhabdō)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4464:  ",
-    "str2": "A rod, staff, staff of authority, scepter. From the base of rhapizo; a stick or wand."
+    "str2": "A rod, staff, staff of authority, scepter. From the base of rhapizo; a stick or wand.",
+    "num": 4464
   },
   {
     "word": "[and] shatter [them]",
@@ -45,7 +50,8 @@
     "translit": "(syntribetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 4937:  ",
-    "str2": "From sun and the base of tribos; to crush completely, i.e. To shatter."
+    "str2": "From sun and the base of tribos; to crush completely, i.e. To shatter.",
+    "num": 4937
   },
   {
     "word": "like",
@@ -53,7 +59,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "pottery—",
@@ -61,7 +68,8 @@
     "translit": "(keramika)",
     "parse": "Adjective - Nominative Neuter Plural",
     "str": "Strong's 2764:  ",
-    "str2": "Of clay, made by a potter, earthen. From keramos; made of clay, i.e. Earthen."
+    "str2": "Of clay, made by a potter, earthen. From keramos; made of clay, i.e. Earthen.",
+    "num": 2764
   },
   {
     "word": "just as",
@@ -69,7 +77,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "I",
@@ -77,7 +86,8 @@
     "translit": "(kagō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 2504:  ",
-    "str2": "To also, I too, but I. From kai and ego; so also the dative case kamoi, and accusative case kame and I, me."
+    "str2": "To also, I too, but I. From kai and ego; so also the dative case kamoi, and accusative case kame and I, me.",
+    "num": 2504
   },
   {
     "word": "have received [authority]",
@@ -85,7 +95,8 @@
     "translit": "(eilēpha)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Singular",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "from",
@@ -93,7 +104,8 @@
     "translit": "(para)",
     "parse": "Preposition",
     "str": "Strong's 3844:  ",
-    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. "
+    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. ",
+    "num": 3844
   },
   {
     "word": "My",
@@ -101,7 +113,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "Father.",
@@ -109,6 +122,7 @@
     "translit": "(Patros)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(autēs)",
     "parse": "Personal / Possessive Pronoun - Genitive Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "parents",
@@ -13,7 +14,8 @@
     "translit": "(goneis)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 1118:  ",
-    "str2": "A begetter, father; plur: parents. From the base of ginomai; a parent."
+    "str2": "A begetter, father; plur: parents. From the base of ginomai; a parent.",
+    "num": 1118
   },
   {
     "word": "were astonished,",
@@ -21,7 +23,8 @@
     "translit": "(exestēsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1839:  ",
-    "str2": "From ek and histemi; to put out of wits, i.e. Astound, or become astounded, insane."
+    "str2": "From ek and histemi; to put out of wits, i.e. Astound, or become astounded, insane.",
+    "num": 1839
   },
   {
     "word": "but",
@@ -29,7 +32,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[Jesus] ordered",
@@ -37,7 +41,8 @@
     "translit": "(parēngeilen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3853:  ",
-    "str2": "To notify, command, charge, entreat solemnly. From para and the base of aggelos; to transmit a message, i.e. to enjoin."
+    "str2": "To notify, command, charge, entreat solemnly. From para and the base of aggelos; to transmit a message, i.e. to enjoin.",
+    "num": 3853
   },
   {
     "word": "them",
@@ -45,7 +50,8 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "{not} to tell",
@@ -53,7 +59,8 @@
     "translit": "(eipein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "[anyone]",
@@ -61,7 +68,8 @@
     "translit": "(mēdeni)",
     "parse": "Adjective - Dative Masculine Singular",
     "str": "Strong's 3367:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3367
   },
   {
     "word": "what",
@@ -69,7 +77,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "had happened.",
@@ -77,6 +86,7 @@
     "translit": "(gegonos)",
     "parse": "Verb - Perfect Participle Active - Accusative Neuter Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   }
 ]

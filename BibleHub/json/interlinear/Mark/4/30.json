@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "He asked,",
@@ -13,7 +14,8 @@
     "translit": "(elegen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“To what",
@@ -21,7 +23,8 @@
     "translit": "(Pōs)",
     "parse": "Adverb",
     "str": "Strong's 4459:  ",
-    "str2": "Adverb from the base of pou; an interrogative particle of manner; in what way?; also as exclamation, how much!"
+    "str2": "Adverb from the base of pou; an interrogative particle of manner; in what way?; also as exclamation, how much!",
+    "num": 4459
   },
   {
     "word": "can we compare",
@@ -29,7 +32,8 @@
     "translit": "(homoiōsōmen)",
     "parse": "Verb - Aorist Subjunctive Active - 1st Person Plural",
     "str": "Strong's 3666:  ",
-    "str2": "To make like, liken; I compare. From homoios; to assimilate, i.e. Compare; passively, to become similar."
+    "str2": "To make like, liken; I compare. From homoios; to assimilate, i.e. Compare; passively, to become similar.",
+    "num": 3666
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "kingdom",
@@ -45,7 +50,8 @@
     "translit": "(basileian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 932:  ",
-    "str2": "From basileus; properly, royalty, i.e. rule, or a realm."
+    "str2": "From basileus; properly, royalty, i.e. rule, or a realm.",
+    "num": 932
   },
   {
     "word": "of God?",
@@ -53,7 +59,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "With",
@@ -61,7 +68,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "what",
@@ -69,7 +77,8 @@
     "translit": "(tini)",
     "parse": "Interrogative / Indefinite Pronoun - Dative Feminine Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "parable",
@@ -77,7 +86,8 @@
     "translit": "(parabolē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3850:  ",
-    "str2": "From paraballo; a similitude, i.e. fictitious narrative, apothegm or adage."
+    "str2": "From paraballo; a similitude, i.e. fictitious narrative, apothegm or adage.",
+    "num": 3850
   },
   {
     "word": "shall we present",
@@ -85,7 +95,8 @@
     "translit": "(thōmen)",
     "parse": "Verb - Aorist Subjunctive Active - 1st Person Plural",
     "str": "Strong's 5087:  ",
-    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place."
+    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place.",
+    "num": 5087
   },
   {
     "word": "it?",
@@ -93,6 +104,7 @@
     "translit": "(autēn)",
     "parse": "Personal / Possessive Pronoun - Accusative Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

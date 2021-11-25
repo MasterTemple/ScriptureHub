@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the Lord",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "says:",
@@ -29,7 +32,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘You will drink",
@@ -37,7 +41,8 @@
     "translit": "(tiš·tî)",
     "parse": "Verb - Qal - Imperfect - second person feminine singular",
     "str": "Strong's 8354:  ",
-    "str2": "To imbibe"
+    "str2": "To imbibe",
+    "num": 8354
   },
   {
     "word": "your sister’s",
@@ -45,7 +50,8 @@
     "translit": "(’ă·ḥō·w·ṯêḵ)",
     "parse": "Noun - feminine singular construct | second person feminine singular",
     "str": "Strong's 269:  ",
-    "str2": "Sister -- a sister"
+    "str2": "Sister -- a sister",
+    "num": 269
   },
   {
     "word": "cup,",
@@ -53,7 +59,8 @@
     "translit": "(kō·ws)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 3563:  ",
-    "str2": "A cup, a lot, some unclean bird, an owl"
+    "str2": "A cup, a lot, some unclean bird, an owl",
+    "num": 3563
   },
   {
     "word": "a cup deep",
@@ -61,7 +68,8 @@
     "translit": "(hā·‘ă·muq·qāh)",
     "parse": "Article | Adjective - feminine singular",
     "str": "Strong's 6013:  ",
-    "str2": "Deep"
+    "str2": "Deep",
+    "num": 6013
   },
   {
     "word": "and wide.",
@@ -69,7 +77,8 @@
     "translit": "(wə·hā·rə·ḥā·ḇāh)",
     "parse": "Conjunctive waw, Article | Adjective - feminine singular",
     "str": "Strong's 7342:  ",
-    "str2": "Wide, broad"
+    "str2": "Wide, broad",
+    "num": 7342
   },
   {
     "word": "It will bring",
@@ -77,7 +86,8 @@
     "translit": "(tih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "scorn",
@@ -85,7 +95,8 @@
     "translit": "(liṣ·ḥōq)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 6712:  ",
-    "str2": "Laughter"
+    "str2": "Laughter",
+    "num": 6712
   },
   {
     "word": "and derision,",
@@ -93,7 +104,8 @@
     "translit": "(ū·lə·la·‘aḡ)",
     "parse": "Conjunctive waw, Preposition | Noun - masculine singular construct",
     "str": "Strong's 3932:  ",
-    "str2": "To deride, to speak unintelligibly"
+    "str2": "To deride, to speak unintelligibly",
+    "num": 3932
   },
   {
     "word": "for it holds",
@@ -101,7 +113,8 @@
     "translit": "(lə·hā·ḵîl)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct",
     "str": "Strong's 3557:  ",
-    "str2": "To keep in, to measure, to maintain"
+    "str2": "To keep in, to measure, to maintain",
+    "num": 3557
   },
   {
     "word": "so much.",
@@ -109,6 +122,7 @@
     "translit": "(mir·bāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 4767:  ",
-    "str2": "Abundance, a great quantity"
+    "str2": "Abundance, a great quantity",
+    "num": 4767
   }
 ]

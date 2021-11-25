@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "when",
@@ -13,7 +14,8 @@
     "translit": "(Hotan)",
     "parse": "Conjunction",
     "str": "Strong's 3752:  ",
-    "str2": "When, whenever. From hote and an; whenever; also causatively inasmuch as."
+    "str2": "When, whenever. From hote and an; whenever; also causatively inasmuch as.",
+    "num": 3752
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "owner",
@@ -29,7 +32,8 @@
     "translit": "(kyrios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "of the",
@@ -37,7 +41,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "vineyard",
@@ -45,7 +50,8 @@
     "translit": "(ampelōnos)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 290:  ",
-    "str2": "A vineyard. From ampelos; a vineyard."
+    "str2": "A vineyard. From ampelos; a vineyard.",
+    "num": 290
   },
   {
     "word": "returns,",
@@ -53,7 +59,8 @@
     "translit": "(elthē)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "what",
@@ -61,7 +68,8 @@
     "translit": "(ti)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Neuter Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "will he do",
@@ -69,7 +77,8 @@
     "translit": "(poiēsei)",
     "parse": "Verb - Future Indicative Active - 3rd Person Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "to those",
@@ -77,7 +86,8 @@
     "translit": "(ekeinois)",
     "parse": "Demonstrative Pronoun - Dative Masculine Plural",
     "str": "Strong's 1565:  ",
-    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed."
+    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed.",
+    "num": 1565
   },
   {
     "word": "tenants?”",
@@ -85,6 +95,7 @@
     "translit": "(geōrgois)",
     "parse": "Noun - Dative Masculine Plural",
     "str": "Strong's 1092:  ",
-    "str2": "From ge and the base of ergon; a land-worker, i.e. Farmer."
+    "str2": "From ge and the base of ergon; a land-worker, i.e. Farmer.",
+    "num": 1092
   }
 ]

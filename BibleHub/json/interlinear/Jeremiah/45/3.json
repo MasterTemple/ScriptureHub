@@ -5,7 +5,8 @@
     "translit": "(’ā·mar·tā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘Woe is me,",
@@ -13,7 +14,8 @@
     "translit": "(’ō·w-)",
     "parse": "Interjection",
     "str": "Strong's 188:  ",
-    "str2": "Lamentation, Oh!"
+    "str2": "Lamentation, Oh!",
+    "num": 188
   },
   {
     "word": "because",
@@ -21,7 +23,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the LORD",
@@ -29,7 +32,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "has added",
@@ -37,7 +41,8 @@
     "translit": "(yā·sap̄)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 3254:  ",
-    "str2": "To add, augment"
+    "str2": "To add, augment",
+    "num": 3254
   },
   {
     "word": "sorrow",
@@ -45,7 +50,8 @@
     "translit": "(yā·ḡō·wn)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3015:  ",
-    "str2": "Grief, sorrow"
+    "str2": "Grief, sorrow",
+    "num": 3015
   },
   {
     "word": "to",
@@ -53,7 +59,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "my pain!",
@@ -61,7 +68,8 @@
     "translit": "(maḵ·’ō·ḇî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 4341:  ",
-    "str2": "Anguish, affliction"
+    "str2": "Anguish, affliction",
+    "num": 4341
   },
   {
     "word": "I am worn out",
@@ -69,7 +77,8 @@
     "translit": "(yā·ḡa‘·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 3021:  ",
-    "str2": "To gasp, to be exhausted, to tire, to toil"
+    "str2": "To gasp, to be exhausted, to tire, to toil",
+    "num": 3021
   },
   {
     "word": "with groaning",
@@ -77,7 +86,8 @@
     "translit": "(bə·’an·ḥā·ṯî)",
     "parse": "Preposition-b | Noun - feminine singular construct | first person common singular",
     "str": "Strong's 585:  ",
-    "str2": "A sighing, groaning"
+    "str2": "A sighing, groaning",
+    "num": 585
   },
   {
     "word": "and have found",
@@ -85,7 +95,8 @@
     "translit": "(mā·ṣā·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 4672:  ",
-    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present"
+    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present",
+    "num": 4672
   },
   {
     "word": "no",
@@ -93,7 +104,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "rest.’”",
@@ -101,6 +113,7 @@
     "translit": "(ū·mə·nū·ḥāh)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 4496:  ",
-    "str2": "Repose, peacefully, consolation, an abode"
+    "str2": "Repose, peacefully, consolation, an abode",
+    "num": 4496
   }
 ]

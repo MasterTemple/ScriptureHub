@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "immediately",
@@ -13,7 +14,8 @@
     "translit": "(eutheōs)",
     "parse": "Adverb",
     "str": "Strong's 2112:  ",
-    "str2": "Immediately, soon, at once. Adverb from euthus; directly, i.e. At once or soon."
+    "str2": "Immediately, soon, at once. Adverb from euthus; directly, i.e. At once or soon.",
+    "num": 2112
   },
   {
     "word": "they left",
@@ -21,7 +23,8 @@
     "translit": "(aphentes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 863:  ",
-    "str2": "From apo and hiemi; to send forth, in various applications."
+    "str2": "From apo and hiemi; to send forth, in various applications.",
+    "num": 863
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "boat",
@@ -37,7 +41,8 @@
     "translit": "(ploion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4143:  ",
-    "str2": "A ship, vessel, boat. From pleo; a sailer, i.e. Vessel."
+    "str2": "A ship, vessel, boat. From pleo; a sailer, i.e. Vessel.",
+    "num": 4143
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "their",
@@ -53,7 +59,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "father",
@@ -61,7 +68,8 @@
     "translit": "(patera)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "[and] followed",
@@ -69,7 +77,8 @@
     "translit": "(ēkolouthēsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 190:  ",
-    "str2": "To accompany, attend, follow. Properly, to be in the same way with, i.e. To accompany."
+    "str2": "To accompany, attend, follow. Properly, to be in the same way with, i.e. To accompany.",
+    "num": 190
   },
   {
     "word": "Him.",
@@ -77,6 +86,7 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

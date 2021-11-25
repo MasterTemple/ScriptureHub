@@ -5,7 +5,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "power",
@@ -21,7 +23,8 @@
     "translit": "(kratos)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 2904:  ",
-    "str2": "Dominion, strength, power; a mighty deed. Perhaps a primary word; vigor."
+    "str2": "Dominion, strength, power; a mighty deed. Perhaps a primary word; vigor.",
+    "num": 2904
   },
   {
     "word": "forever",
@@ -29,7 +32,8 @@
     "translit": "(aiōnas)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 165:  ",
-    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period."
+    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period.",
+    "num": 165
   },
   {
     "word": "[and]",
@@ -37,7 +41,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "ever.",
@@ -45,7 +50,8 @@
     "translit": "(aiōnōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 165:  ",
-    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period."
+    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period.",
+    "num": 165
   },
   {
     "word": "Amen.",
@@ -53,6 +59,7 @@
     "translit": "(amēn)",
     "parse": "Hebrew Word ",
     "str": "Strong's 281:  ",
-    "str2": "Of Hebrew origin; properly, firm, i.e. trustworthy; adverbially, surely."
+    "str2": "Of Hebrew origin; properly, firm, i.e. trustworthy; adverbially, surely.",
+    "num": 281
   }
 ]

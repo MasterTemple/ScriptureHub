@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "You, O LORD,",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "have made me glad",
@@ -21,7 +23,8 @@
     "translit": "(śim·maḥ·ta·nî)",
     "parse": "Verb - Piel - Perfect - second person masculine singular | first person common singular",
     "str": "Strong's 8055:  ",
-    "str2": "To brighten up, be, blithe, gleesome"
+    "str2": "To brighten up, be, blithe, gleesome",
+    "num": 8055
   },
   {
     "word": "by Your deeds;",
@@ -29,7 +32,8 @@
     "translit": "(bə·p̄ā·‘o·le·ḵā)",
     "parse": "Preposition-b | Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 6467:  ",
-    "str2": "Doing, deed, work"
+    "str2": "Doing, deed, work",
+    "num": 6467
   },
   {
     "word": "I will sing for joy",
@@ -37,7 +41,8 @@
     "translit": "(’ă·ran·nên)",
     "parse": "Verb - Piel - Imperfect - first person common singular",
     "str": "Strong's 7442:  ",
-    "str2": "To give a ringing cry"
+    "str2": "To give a ringing cry",
+    "num": 7442
   },
   {
     "word": "at the works",
@@ -45,7 +50,8 @@
     "translit": "(bə·ma·‘ă·śê)",
     "parse": "Preposition-b | Noun - masculine plural construct",
     "str": "Strong's 4639:  ",
-    "str2": "An action, a transaction, activity, a product, property"
+    "str2": "An action, a transaction, activity, a product, property",
+    "num": 4639
   },
   {
     "word": "of Your hands.",
@@ -53,6 +59,7 @@
     "translit": "(yā·ḏe·ḵā)",
     "parse": "Noun - fdc | second person masculine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   }
 ]

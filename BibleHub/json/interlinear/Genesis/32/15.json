@@ -5,7 +5,8 @@
     "translit": "(šə·lō·šîm)",
     "parse": "Number - common plural",
     "str": "Strong's 7970:  ",
-    "str2": "Thirty, thirtieth"
+    "str2": "Thirty, thirtieth",
+    "num": 7970
   },
   {
     "word": "milk",
@@ -13,7 +14,8 @@
     "translit": "(mê·nî·qō·wṯ)",
     "parse": "Verb - Hifil - Participle - feminine plural",
     "str": "Strong's 3243:  ",
-    "str2": "To suck, to give milk"
+    "str2": "To suck, to give milk",
+    "num": 3243
   },
   {
     "word": "camels",
@@ -21,7 +23,8 @@
     "translit": "(gə·mal·lîm)",
     "parse": "Noun - common plural",
     "str": "Strong's 1581:  ",
-    "str2": "A camel"
+    "str2": "A camel",
+    "num": 1581
   },
   {
     "word": "with their young,",
@@ -29,7 +32,8 @@
     "translit": "(ū·ḇə·nê·hem)",
     "parse": "Conjunctive waw | Noun - masculine plural construct | third person masculine plural",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "40",
@@ -37,7 +41,8 @@
     "translit": "(’ar·bā·‘îm)",
     "parse": "Number - common plural",
     "str": "Strong's 705:  ",
-    "str2": "Forty"
+    "str2": "Forty",
+    "num": 705
   },
   {
     "word": "cows,",
@@ -45,7 +50,8 @@
     "translit": "(pā·rō·wṯ)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 6510:  ",
-    "str2": "A heifer, cow"
+    "str2": "A heifer, cow",
+    "num": 6510
   },
   {
     "word": "10",
@@ -53,7 +59,8 @@
     "translit": "(‘ă·śā·rāh)",
     "parse": "Number - masculine singular",
     "str": "Strong's 6235:  ",
-    "str2": "Ten"
+    "str2": "Ten",
+    "num": 6235
   },
   {
     "word": "bulls,",
@@ -61,7 +68,8 @@
     "translit": "(ū·p̄ā·rîm)",
     "parse": "Conjunctive waw | Noun - masculine plural",
     "str": "Strong's 6499:  ",
-    "str2": "Young bull, steer"
+    "str2": "Young bull, steer",
+    "num": 6499
   },
   {
     "word": "20",
@@ -69,7 +77,8 @@
     "translit": "(‘eś·rîm)",
     "parse": "Number - common plural",
     "str": "Strong's 6242:  ",
-    "str2": "Twenty, twentieth"
+    "str2": "Twenty, twentieth",
+    "num": 6242
   },
   {
     "word": "female donkeys,",
@@ -77,7 +86,8 @@
     "translit": "(’ă·ṯō·nōṯ)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 860:  ",
-    "str2": "A female donkey"
+    "str2": "A female donkey",
+    "num": 860
   },
   {
     "word": "and 10",
@@ -85,7 +95,8 @@
     "translit": "(‘ă·śā·rāh)",
     "parse": "Number - masculine singular",
     "str": "Strong's 6235:  ",
-    "str2": "Ten"
+    "str2": "Ten",
+    "num": 6235
   },
   {
     "word": "male donkeys.",
@@ -93,6 +104,7 @@
     "translit": "(wa‘·yā·rim)",
     "parse": "Conjunctive waw | Noun - masculine plural",
     "str": "Strong's 5895:  ",
-    "str2": "A young ass, an ass-colt"
+    "str2": "A young ass, an ass-colt",
+    "num": 5895
   }
 ]

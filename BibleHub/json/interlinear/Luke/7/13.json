@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord",
@@ -21,7 +23,8 @@
     "translit": "(Kyrios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "saw",
@@ -29,7 +32,8 @@
     "translit": "(idōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "her,",
@@ -37,7 +41,8 @@
     "translit": "(autēn)",
     "parse": "Personal / Possessive Pronoun - Accusative Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "He had compassion",
@@ -45,7 +50,8 @@
     "translit": "(esplanchnisthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 4697:  ",
-    "str2": "To feel compassion, have pity on, be moved. "
+    "str2": "To feel compassion, have pity on, be moved. ",
+    "num": 4697
   },
   {
     "word": "on",
@@ -53,7 +59,8 @@
     "translit": "(ep’)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "her",
@@ -61,7 +68,8 @@
     "translit": "(autē)",
     "parse": "Personal / Possessive Pronoun - Dative Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "said,",
@@ -77,7 +86,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“{Do} not",
@@ -85,7 +95,8 @@
     "translit": "(Mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "weep.”",
@@ -93,6 +104,7 @@
     "translit": "(klaie)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 2799:  ",
-    "str2": "To weep, weep for, mourn, lament. Of uncertain affinity; to sob, i.e. Wail aloud."
+    "str2": "To weep, weep for, mourn, lament. Of uncertain affinity; to sob, i.e. Wail aloud.",
+    "num": 2799
   }
 ]

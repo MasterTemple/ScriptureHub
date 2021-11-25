@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[John’s]",
@@ -13,7 +14,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "disciples",
@@ -21,7 +23,8 @@
     "translit": "(mathētai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   },
   {
     "word": "informed",
@@ -29,7 +32,8 @@
     "translit": "(apēngeilan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 518:  ",
-    "str2": "To report (from one place to another), bring a report, announce, declare. From apo and the base of aggelos; to announce."
+    "str2": "To report (from one place to another), bring a report, announce, declare. From apo and the base of aggelos; to announce.",
+    "num": 518
   },
   {
     "word": "[him]",
@@ -37,7 +41,8 @@
     "translit": "(Iōannē)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2491:  ",
-    "str2": "Of Hebrew origin; Joannes, the name of four Israelites."
+    "str2": "Of Hebrew origin; Joannes, the name of four Israelites.",
+    "num": 2491
   },
   {
     "word": "about",
@@ -45,7 +50,8 @@
     "translit": "(peri)",
     "parse": "Preposition",
     "str": "Strong's 4012:  ",
-    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time.",
+    "num": 4012
   },
   {
     "word": "all",
@@ -53,7 +59,8 @@
     "translit": "(pantōn)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "these things.",
@@ -61,6 +68,7 @@
     "translit": "(toutōn)",
     "parse": "Demonstrative Pronoun - Genitive Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Pilate",
@@ -13,7 +14,8 @@
     "translit": "(Pilatos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4091:  ",
-    "str2": "Pilate. Of Latin origin; close-pressed, i.e. Firm; Pilatus, a Roman."
+    "str2": "Pilate. Of Latin origin; close-pressed, i.e. Firm; Pilatus, a Roman.",
+    "num": 4091
   },
   {
     "word": "sentenced [that]",
@@ -21,7 +23,8 @@
     "translit": "(epekrinen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1948:  ",
-    "str2": "To decree, give sentence, decide. From epi and krino; to adjudge."
+    "str2": "To decree, give sentence, decide. From epi and krino; to adjudge.",
+    "num": 1948
   },
   {
     "word": "their",
@@ -29,7 +32,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "demand",
@@ -37,7 +41,8 @@
     "translit": "(aitēma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 155:  ",
-    "str2": "A petition, request. From aiteo; a thing asked or an asking."
+    "str2": "A petition, request. From aiteo; a thing asked or an asking.",
+    "num": 155
   },
   {
     "word": "be met.",
@@ -45,6 +50,7 @@
     "translit": "(genesthai)",
     "parse": "Verb - Aorist Infinitive Middle",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   }
 ]

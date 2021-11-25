@@ -5,7 +5,8 @@
     "translit": "(Adelphoi)",
     "parse": "Noun - Vocative Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "my",
@@ -13,7 +14,8 @@
     "translit": "(emēs)",
     "parse": "Personal / Possessive Pronoun - Genitive Feminine 1st Person Singular",
     "str": "Strong's 1699:  ",
-    "str2": "My, mine. From the oblique cases of ego; my."
+    "str2": "My, mine. From the oblique cases of ego; my.",
+    "num": 1699
   },
   {
     "word": "heart’s",
@@ -21,7 +23,8 @@
     "translit": "(kardias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2588:  ",
-    "str2": "Prolonged from a primary kar; the heart, i.e. the thoughts or feelings; also the middle."
+    "str2": "Prolonged from a primary kar; the heart, i.e. the thoughts or feelings; also the middle.",
+    "num": 2588
   },
   {
     "word": "desire",
@@ -29,7 +32,8 @@
     "translit": "(eudokia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2107:  ",
-    "str2": "From a presumed compound of eu and the base of dokeo; satisfaction, i.e. delight, or kindness, wish, purpose."
+    "str2": "From a presumed compound of eu and the base of dokeo; satisfaction, i.e. delight, or kindness, wish, purpose.",
+    "num": 2107
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "prayer",
@@ -45,7 +50,8 @@
     "translit": "(deēsis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1162:  ",
-    "str2": "Supplication, prayer, entreaty. From deomai; a petition."
+    "str2": "Supplication, prayer, entreaty. From deomai; a petition.",
+    "num": 1162
   },
   {
     "word": "to",
@@ -53,7 +59,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "God",
@@ -61,7 +68,8 @@
     "translit": "(Theon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "for",
@@ -69,7 +77,8 @@
     "translit": "(hyper)",
     "parse": "Preposition",
     "str": "Strong's 5228:  ",
-    "str2": "Gen: in behalf of; acc: above. "
+    "str2": "Gen: in behalf of; acc: above. ",
+    "num": 5228
   },
   {
     "word": "[the Israelites]",
@@ -77,7 +86,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "[is] for",
@@ -85,7 +95,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "[their] salvation.",
@@ -93,6 +104,7 @@
     "translit": "(sōtērian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4991:  ",
-    "str2": "Feminine of a derivative of soter as noun; rescue or safety."
+    "str2": "Feminine of a derivative of soter as noun; rescue or safety.",
+    "num": 4991
   }
 ]

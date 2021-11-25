@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the Lord",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "says",
@@ -29,7 +32,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "to these",
@@ -37,7 +41,8 @@
     "translit": "(hā·’êl·leh)",
     "parse": "Article | Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   },
   {
     "word": "bones:",
@@ -45,7 +50,8 @@
     "translit": "(lā·‘ă·ṣā·mō·wṯ)",
     "parse": "Preposition-l, Article | Noun - feminine plural",
     "str": "Strong's 6106:  ",
-    "str2": "A bone, the body, the substance, selfsame"
+    "str2": "A bone, the body, the substance, selfsame",
+    "num": 6106
   },
   {
     "word": "I",
@@ -53,7 +59,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "will cause breath",
@@ -61,7 +68,8 @@
     "translit": "(rū·aḥ)",
     "parse": "Noun - common singular",
     "str": "Strong's 7307:  ",
-    "str2": "Wind, breath, exhalation, life, anger, unsubstantiality, a region of the sky, spirit"
+    "str2": "Wind, breath, exhalation, life, anger, unsubstantiality, a region of the sky, spirit",
+    "num": 7307
   },
   {
     "word": "to enter you,",
@@ -69,7 +77,8 @@
     "translit": "(mê·ḇî)",
     "parse": "Verb - Hifil - Participle - masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "and you will live.",
@@ -77,6 +86,7 @@
     "translit": "(wiḥ·yî·ṯem)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - second person masculine plural",
     "str": "Strong's 2421:  ",
-    "str2": "To live, to revive"
+    "str2": "To live, to revive",
+    "num": 2421
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(eiselthōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "to",
@@ -13,7 +14,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "her",
@@ -21,7 +23,8 @@
     "translit": "(autēn)",
     "parse": "Personal / Possessive Pronoun - Accusative Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "[and] said,",
@@ -29,7 +32,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“Greetings,",
@@ -37,7 +41,8 @@
     "translit": "(Chaire)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 5463:  ",
-    "str2": "A primary verb; to be 'cheer'ful, i.e. Calmly happy or well-off; impersonally, especially as salutation, be well."
+    "str2": "A primary verb; to be 'cheer'ful, i.e. Calmly happy or well-off; impersonally, especially as salutation, be well.",
+    "num": 5463
   },
   {
     "word": "you who are highly favored!",
@@ -45,7 +50,8 @@
     "translit": "(kecharitōmenē)",
     "parse": "Verb - Perfect Participle Middle or Passive - Vocative Feminine Singular",
     "str": "Strong's 5487:  ",
-    "str2": "To favor, bestow freely on. From charis; to grace, i.e. Indue with special honor."
+    "str2": "To favor, bestow freely on. From charis; to grace, i.e. Indue with special honor.",
+    "num": 5487
   },
   {
     "word": "The",
@@ -53,7 +59,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord [is]",
@@ -61,7 +68,8 @@
     "translit": "(Kyrios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "with",
@@ -69,7 +77,8 @@
     "translit": "(meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "you.”",
@@ -77,6 +86,7 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

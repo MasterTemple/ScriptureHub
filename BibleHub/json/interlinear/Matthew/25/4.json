@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hai)",
     "parse": "Article - Nominative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "wise [ones]",
@@ -21,7 +23,8 @@
     "translit": "(phronimoi)",
     "parse": "Adjective - Nominative Feminine Plural",
     "str": "Strong's 5429:  ",
-    "str2": "Intelligent, prudent, sensible, wise. From phren; thoughtful, i.e. Sagacious or discreet; in a bad sense conceited."
+    "str2": "Intelligent, prudent, sensible, wise. From phren; thoughtful, i.e. Sagacious or discreet; in a bad sense conceited.",
+    "num": 5429
   },
   {
     "word": "took",
@@ -29,7 +32,8 @@
     "translit": "(elabon)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "oil",
@@ -37,7 +41,8 @@
     "translit": "(elaion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 1637:  ",
-    "str2": "Olive oil, oil. Neuter of the same as elaia; olive oil."
+    "str2": "Olive oil, oil. Neuter of the same as elaia; olive oil.",
+    "num": 1637
   },
   {
     "word": "in",
@@ -45,7 +50,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "flasks",
@@ -53,7 +59,8 @@
     "translit": "(angeiois)",
     "parse": "Noun - Dative Neuter Plural",
     "str": "Strong's 30:  ",
-    "str2": "A vessel, flask. From aggos; a receptacle."
+    "str2": "A vessel, flask. From aggos; a receptacle.",
+    "num": 30
   },
   {
     "word": "along with",
@@ -61,7 +68,8 @@
     "translit": "(meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "their",
@@ -69,7 +77,8 @@
     "translit": "(heautōn)",
     "parse": "Reflexive Pronoun - Genitive Feminine 3rd Person Plural",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   },
   {
     "word": "lamps.",
@@ -77,6 +86,7 @@
     "translit": "(lampadōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 2985:  ",
-    "str2": "A torch, lamp, lantern. From lampo; a 'lamp' or flambeau."
+    "str2": "A torch, lamp, lantern. From lampo; a 'lamp' or flambeau.",
+    "num": 2985
   }
 ]

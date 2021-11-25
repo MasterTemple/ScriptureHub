@@ -5,7 +5,8 @@
     "translit": "(Mēdamōs)",
     "parse": "Adverb",
     "str": "Strong's 3365:  ",
-    "str2": "By no means, not at all. Adverb from a compound of me and amos; by no means."
+    "str2": "By no means, not at all. Adverb from a compound of me and amos; by no means.",
+    "num": 3365
   },
   {
     "word": "Lord,’",
@@ -13,7 +14,8 @@
     "translit": "(Kyrie)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "I said,",
@@ -21,7 +23,8 @@
     "translit": "(Eipon)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "‘for",
@@ -29,7 +32,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "nothing",
@@ -37,7 +41,8 @@
     "translit": "(oudepote)",
     "parse": "Adverb",
     "str": "Strong's 3763:  ",
-    "str2": "Never. From oude and pote; not even at any time, i.e. Never at all."
+    "str2": "Never. From oude and pote; not even at any time, i.e. Never at all.",
+    "num": 3763
   },
   {
     "word": "impure",
@@ -45,7 +50,8 @@
     "translit": "(koinon)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 2839:  ",
-    "str2": "Probably from sun; common, i.e. shared by all or several, or profane."
+    "str2": "Probably from sun; common, i.e. shared by all or several, or profane.",
+    "num": 2839
   },
   {
     "word": "or",
@@ -53,7 +59,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "unclean",
@@ -61,7 +68,8 @@
     "translit": "(akatharton)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 169:  ",
-    "str2": "Unclean, impure. Impure (lewd) or specially, (demonic)."
+    "str2": "Unclean, impure. Impure (lewd) or specially, (demonic).",
+    "num": 169
   },
   {
     "word": "has {ever} entered",
@@ -69,7 +77,8 @@
     "translit": "(eisēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "my",
@@ -77,7 +86,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "mouth.’",
@@ -85,6 +95,7 @@
     "translit": "(stoma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4750:  ",
-    "str2": "The mouth, speech, eloquence in speech, the point of a sword. "
+    "str2": "The mouth, speech, eloquence in speech, the point of a sword. ",
+    "num": 4750
   }
 ]

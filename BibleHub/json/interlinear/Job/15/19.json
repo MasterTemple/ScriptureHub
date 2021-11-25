@@ -5,7 +5,8 @@
     "translit": "(lā·hem)",
     "parse": "Preposition | third person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "alone",
@@ -13,7 +14,8 @@
     "translit": "(lə·ḇad·dām)",
     "parse": "Preposition-l | Noun - masculine singular construct | third person masculine plural",
     "str": "Strong's 905:  ",
-    "str2": "Separation, a part of the body, branch of a, tree, bar for, carrying, chief of"
+    "str2": "Separation, a part of the body, branch of a, tree, bar for, carrying, chief of",
+    "num": 905
   },
   {
     "word": "the land",
@@ -21,7 +23,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "was given",
@@ -29,7 +32,8 @@
     "translit": "(nit·tə·nāh)",
     "parse": "Verb - Nifal - Perfect - third person feminine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "when no",
@@ -37,7 +41,8 @@
     "translit": "(wə·lō-)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "foreigner",
@@ -45,7 +50,8 @@
     "translit": "(zār)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 2114:  ",
-    "str2": "To turn aside, to be a, foreigner, strange, profane, to commit adultery"
+    "str2": "To turn aside, to be a, foreigner, strange, profane, to commit adultery",
+    "num": 2114
   },
   {
     "word": "passed",
@@ -53,7 +59,8 @@
     "translit": "(‘ā·ḇar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 5674:  ",
-    "str2": "To pass over, through, or by, pass on"
+    "str2": "To pass over, through, or by, pass on",
+    "num": 5674
   },
   {
     "word": "among them:",
@@ -61,6 +68,7 @@
     "translit": "(bə·ṯō·w·ḵām)",
     "parse": "Preposition-b | Noun - masculine singular construct | third person masculine plural",
     "str": "Strong's 8432:  ",
-    "str2": "A bisection, the centre"
+    "str2": "A bisection, the centre",
+    "num": 8432
   }
 ]

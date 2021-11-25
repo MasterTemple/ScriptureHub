@@ -5,7 +5,8 @@
     "translit": "(houtos)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "is",
@@ -13,7 +14,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "the [One who]",
@@ -21,7 +23,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "came",
@@ -29,7 +32,8 @@
     "translit": "(elthōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "by",
@@ -37,7 +41,8 @@
     "translit": "(di’)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "water",
@@ -45,7 +50,8 @@
     "translit": "(hydatos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 5204:  ",
-    "str2": "Water. And genitive case, hudatos, etc. From the base of huetos; water literally or figuratively."
+    "str2": "Water. And genitive case, hudatos, etc. From the base of huetos; water literally or figuratively.",
+    "num": 5204
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "blood,",
@@ -61,7 +68,8 @@
     "translit": "(haimatos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 129:  ",
-    "str2": "Blood, literally, figuratively or specially; by implication, bloodshed, also kindred."
+    "str2": "Blood, literally, figuratively or specially; by implication, bloodshed, also kindred.",
+    "num": 129
   },
   {
     "word": "Jesus",
@@ -69,7 +77,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "Christ—",
@@ -77,7 +86,8 @@
     "translit": "(Christos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "not",
@@ -85,7 +95,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "by",
@@ -93,7 +104,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "water",
@@ -101,7 +113,8 @@
     "translit": "(hydati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 5204:  ",
-    "str2": "Water. And genitive case, hudatos, etc. From the base of huetos; water literally or figuratively."
+    "str2": "Water. And genitive case, hudatos, etc. From the base of huetos; water literally or figuratively.",
+    "num": 5204
   },
   {
     "word": "alone,",
@@ -109,7 +122,8 @@
     "translit": "(monon)",
     "parse": "Adverb",
     "str": "Strong's 3440:  ",
-    "str2": "Alone, but, only. Neuter of monos as adverb; merely."
+    "str2": "Alone, but, only. Neuter of monos as adverb; merely.",
+    "num": 3440
   },
   {
     "word": "but",
@@ -117,7 +131,8 @@
     "translit": "(all’)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "by",
@@ -125,7 +140,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "water",
@@ -133,7 +149,8 @@
     "translit": "(hydati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 5204:  ",
-    "str2": "Water. And genitive case, hudatos, etc. From the base of huetos; water literally or figuratively."
+    "str2": "Water. And genitive case, hudatos, etc. From the base of huetos; water literally or figuratively.",
+    "num": 5204
   },
   {
     "word": "and",
@@ -141,7 +158,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "blood.",
@@ -149,7 +167,8 @@
     "translit": "(haimati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 129:  ",
-    "str2": "Blood, literally, figuratively or specially; by implication, bloodshed, also kindred."
+    "str2": "Blood, literally, figuratively or specially; by implication, bloodshed, also kindred.",
+    "num": 129
   },
   {
     "word": "And",
@@ -157,7 +176,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "it is",
@@ -165,7 +185,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "the",
@@ -173,7 +194,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Spirit",
@@ -181,7 +203,8 @@
     "translit": "(Pneuma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "who",
@@ -189,7 +212,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "testifies [to this],",
@@ -197,7 +221,8 @@
     "translit": "(martyroun)",
     "parse": "Verb - Present Participle Active - Nominative Neuter Singular",
     "str": "Strong's 3140:  ",
-    "str2": "To witness, bear witness, give evidence, testify, give a good report. From martus; to be a witness, i.e. Testify."
+    "str2": "To witness, bear witness, give evidence, testify, give a good report. From martus; to be a witness, i.e. Testify.",
+    "num": 3140
   },
   {
     "word": "because",
@@ -205,7 +230,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "the",
@@ -213,7 +239,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Spirit",
@@ -221,7 +248,8 @@
     "translit": "(Pneuma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "is",
@@ -229,7 +257,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "the",
@@ -237,7 +266,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "truth.",
@@ -245,6 +275,7 @@
     "translit": "(alētheia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 225:  ",
-    "str2": "From alethes; truth."
+    "str2": "From alethes; truth.",
+    "num": 225
   }
 ]

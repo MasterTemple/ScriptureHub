@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "there were",
@@ -13,7 +14,8 @@
     "translit": "(ēsan)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "shepherds",
@@ -21,7 +23,8 @@
     "translit": "(poimenes)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 4166:  ",
-    "str2": "A shepherd; hence met: of the feeder, protector, and ruler of a flock of men. Of uncertain affinity; a shepherd."
+    "str2": "A shepherd; hence met: of the feeder, protector, and ruler of a flock of men. Of uncertain affinity; a shepherd.",
+    "num": 4166
   },
   {
     "word": "residing in the fields",
@@ -29,7 +32,8 @@
     "translit": "(agraulountes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 63:  ",
-    "str2": "To spend the night in the open, bivouac. From agros and auleo; to camp out."
+    "str2": "To spend the night in the open, bivouac. From agros and auleo; to camp out.",
+    "num": 63
   },
   {
     "word": "nearby,",
@@ -37,7 +41,8 @@
     "translit": "(chōra)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 5561:  ",
-    "str2": "Feminine of a derivative of the base of chasma through the idea of empty expanse; room, i.e. A space of territory."
+    "str2": "Feminine of a derivative of the base of chasma through the idea of empty expanse; room, i.e. A space of territory.",
+    "num": 5561
   },
   {
     "word": "keeping",
@@ -45,7 +50,8 @@
     "translit": "(phylassontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 5442:  ",
-    "str2": "Probably from phule through the idea of isolation; to watch, i.e. Be on guard; by implication, to preserve, obey, avoid."
+    "str2": "Probably from phule through the idea of isolation; to watch, i.e. Be on guard; by implication, to preserve, obey, avoid.",
+    "num": 5442
   },
   {
     "word": "watch",
@@ -53,7 +59,8 @@
     "translit": "(phylakas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 5438:  ",
-    "str2": "From phulasso; a guarding or, the act, the person; figuratively, the place, the condition, or, the time, literally or figuratively."
+    "str2": "From phulasso; a guarding or, the act, the person; figuratively, the place, the condition, or, the time, literally or figuratively.",
+    "num": 5438
   },
   {
     "word": "over",
@@ -61,7 +68,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "their",
@@ -69,7 +77,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "flocks",
@@ -77,7 +86,8 @@
     "translit": "(poimnēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4167:  ",
-    "str2": "A flock (of sheep or goats). Contraction from poimaino; a flock."
+    "str2": "A flock (of sheep or goats). Contraction from poimaino; a flock.",
+    "num": 4167
   },
   {
     "word": "by night.",
@@ -85,6 +95,7 @@
     "translit": "(nyktos)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 3571:  ",
-    "str2": "The night, night-time. A primary word; 'night'."
+    "str2": "The night, night-time. A primary word; 'night'.",
+    "num": 3571
   }
 ]

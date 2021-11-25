@@ -5,7 +5,8 @@
     "translit": "(’an·šê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "of",
@@ -13,7 +14,8 @@
     "translit": "(ḇêṯ-)",
     "parse": "Preposition",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "Bethel",
@@ -21,7 +23,8 @@
     "translit": "(’êl)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 1008:  ",
-    "str2": "Bethel -- 'house of God', a city in Ephraim, also a place in southern Judah"
+    "str2": "Bethel -- 'house of God', a city in Ephraim, also a place in southern Judah",
+    "num": 1008
   },
   {
     "word": "and Ai,",
@@ -29,7 +32,8 @@
     "translit": "(wə·hā·‘āy)",
     "parse": "Conjunctive waw, Article | Noun - proper - feminine singular",
     "str": "Strong's 5857:  ",
-    "str2": "Ai -- a Canaanite city"
+    "str2": "Ai -- a Canaanite city",
+    "num": 5857
   },
   {
     "word": "123;",
@@ -37,6 +41,7 @@
     "translit": "(mê·’āh)",
     "parse": "Number - feminine singular",
     "str": "Strong's 3967:  ",
-    "str2": "A hundred"
+    "str2": "A hundred",
+    "num": 3967
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "has called you back,",
@@ -21,7 +23,8 @@
     "translit": "(qə·rā·’āḵ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular | second person feminine singular",
     "str": "Strong's 7121:  ",
-    "str2": "To call, proclaim, read"
+    "str2": "To call, proclaim, read",
+    "num": 7121
   },
   {
     "word": "like a wife",
@@ -29,7 +32,8 @@
     "translit": "(ḵə·’iš·šāh)",
     "parse": "Preposition-k | Noun - feminine singular",
     "str": "Strong's 802:  ",
-    "str2": "Woman, wife, female"
+    "str2": "Woman, wife, female",
+    "num": 802
   },
   {
     "word": "deserted",
@@ -37,7 +41,8 @@
     "translit": "(‘ă·zū·ḇāh)",
     "parse": "Verb - Qal - QalPassParticiple - feminine singular",
     "str": "Strong's 5805:  ",
-    "str2": "Forsakenness, desolation"
+    "str2": "Forsakenness, desolation",
+    "num": 5805
   },
   {
     "word": "and wounded",
@@ -45,7 +50,8 @@
     "translit": "(wa·‘ă·ṣū·ḇaṯ)",
     "parse": "Conjunctive waw | Verb - Qal - QalPassParticiple - feminine singular construct",
     "str": "Strong's 6087:  ",
-    "str2": "To carve, fabricate, fashion, to worry, pain, anger"
+    "str2": "To carve, fabricate, fashion, to worry, pain, anger",
+    "num": 6087
   },
   {
     "word": "in spirit,",
@@ -53,7 +59,8 @@
     "translit": "(rū·aḥ)",
     "parse": "Noun - common singular",
     "str": "Strong's 7307:  ",
-    "str2": "Wind, breath, exhalation, life, anger, unsubstantiality, a region of the sky, spirit"
+    "str2": "Wind, breath, exhalation, life, anger, unsubstantiality, a region of the sky, spirit",
+    "num": 7307
   },
   {
     "word": "the wife",
@@ -61,7 +68,8 @@
     "translit": "(wə·’ê·šeṯ)",
     "parse": "Conjunctive waw | Noun - feminine singular construct",
     "str": "Strong's 802:  ",
-    "str2": "Woman, wife, female"
+    "str2": "Woman, wife, female",
+    "num": 802
   },
   {
     "word": "of one’s youth",
@@ -69,7 +77,8 @@
     "translit": "(nə·‘ū·rîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 5271:  ",
-    "str2": "Youth, the state, the persons"
+    "str2": "Youth, the state, the persons",
+    "num": 5271
   },
   {
     "word": "when",
@@ -77,7 +86,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "she is rejected,”",
@@ -85,7 +95,8 @@
     "translit": "(ṯim·mā·’ês)",
     "parse": "Verb - Nifal - Imperfect - third person feminine singular",
     "str": "Strong's 3988:  ",
-    "str2": "To spurn, to disappear"
+    "str2": "To spurn, to disappear",
+    "num": 3988
   },
   {
     "word": "says",
@@ -93,7 +104,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "your God.",
@@ -101,6 +113,7 @@
     "translit": "(’ĕ·lō·hā·yiḵ)",
     "parse": "Noun - masculine plural construct | second person feminine singular",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   }
 ]

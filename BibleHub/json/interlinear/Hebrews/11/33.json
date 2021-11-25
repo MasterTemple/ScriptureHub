@@ -5,7 +5,8 @@
     "translit": "(hoi)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "through",
@@ -13,7 +14,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "faith",
@@ -21,7 +23,8 @@
     "translit": "(pisteōs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4102:  ",
-    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. "
+    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. ",
+    "num": 4102
   },
   {
     "word": "conquered",
@@ -29,7 +32,8 @@
     "translit": "(katēgōnisanto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Plural",
     "str": "Strong's 2610:  ",
-    "str2": "From kata and agonizomai; to struggle against, i.e. to overcome."
+    "str2": "From kata and agonizomai; to struggle against, i.e. to overcome.",
+    "num": 2610
   },
   {
     "word": "kingdoms,",
@@ -37,7 +41,8 @@
     "translit": "(basileias)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 932:  ",
-    "str2": "From basileus; properly, royalty, i.e. rule, or a realm."
+    "str2": "From basileus; properly, royalty, i.e. rule, or a realm.",
+    "num": 932
   },
   {
     "word": "administered",
@@ -45,7 +50,8 @@
     "translit": "(eirgasanto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Plural",
     "str": "Strong's 2038:  ",
-    "str2": "To work, trade, perform, do, practice, commit, acquire by labor. "
+    "str2": "To work, trade, perform, do, practice, commit, acquire by labor. ",
+    "num": 2038
   },
   {
     "word": "justice,",
@@ -53,7 +59,8 @@
     "translit": "(dikaiosynēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1343:  ",
-    "str2": "From dikaios; equity; specially justification."
+    "str2": "From dikaios; equity; specially justification.",
+    "num": 1343
   },
   {
     "word": "[and] obtained",
@@ -61,7 +68,8 @@
     "translit": "(epetychon)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2013:  ",
-    "str2": "To attain, obtain, acquire. From epi and tugchano; to chance upon, i.e. to attain."
+    "str2": "To attain, obtain, acquire. From epi and tugchano; to chance upon, i.e. to attain.",
+    "num": 2013
   },
   {
     "word": "what was promised;",
@@ -69,7 +77,8 @@
     "translit": "(epangeliōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 1860:  ",
-    "str2": "A promise. From epaggello; an announcement."
+    "str2": "A promise. From epaggello; an announcement.",
+    "num": 1860
   },
   {
     "word": "[who] shut",
@@ -77,7 +86,8 @@
     "translit": "(ephraxan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 5420:  ",
-    "str2": "To stop, close up, obstruct. Apparently a strengthening form of the base of phren; to fence or inclose, i.e., to block up."
+    "str2": "To stop, close up, obstruct. Apparently a strengthening form of the base of phren; to fence or inclose, i.e., to block up.",
+    "num": 5420
   },
   {
     "word": "[the] mouths",
@@ -85,7 +95,8 @@
     "translit": "(stomata)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 4750:  ",
-    "str2": "The mouth, speech, eloquence in speech, the point of a sword. "
+    "str2": "The mouth, speech, eloquence in speech, the point of a sword. ",
+    "num": 4750
   },
   {
     "word": "of lions,",
@@ -93,6 +104,7 @@
     "translit": "(leontōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 3023:  ",
-    "str2": "A lion. A primary word; a 'lion'."
+    "str2": "A lion. A primary word; a 'lion'.",
+    "num": 3023
   }
 ]

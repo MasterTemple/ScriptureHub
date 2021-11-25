@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "he loves Me,",
@@ -13,7 +14,8 @@
     "translit": "(ḥā·šaq)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 2836:  ",
-    "str2": "To cling, join, to love, delight in, elliptically, to deliver"
+    "str2": "To cling, join, to love, delight in, elliptically, to deliver",
+    "num": 2836
   },
   {
     "word": "I will deliver him;",
@@ -21,7 +23,8 @@
     "translit": "(wa·’ă·p̄al·lə·ṭê·hū)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive imperfect - first person common singular | third person masculine singular",
     "str": "Strong's 6403:  ",
-    "str2": "To slip out, escape, to deliver"
+    "str2": "To slip out, escape, to deliver",
+    "num": 6403
   },
   {
     "word": "because",
@@ -29,7 +32,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "he knows",
@@ -37,7 +41,8 @@
     "translit": "(yā·ḏa‘)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "My name,",
@@ -45,7 +50,8 @@
     "translit": "(šə·mî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 8034:  ",
-    "str2": "A name"
+    "str2": "A name",
+    "num": 8034
   },
   {
     "word": "I will protect him.",
@@ -53,6 +59,7 @@
     "translit": "(’ă·śag·gə·ḇê·hū)",
     "parse": "Verb - Piel - Imperfect - first person common singular | third person masculine singular",
     "str": "Strong's 7682:  ",
-    "str2": "To be, lofty, inaccessible, safe, strong"
+    "str2": "To be, lofty, inaccessible, safe, strong",
+    "num": 7682
   }
 ]

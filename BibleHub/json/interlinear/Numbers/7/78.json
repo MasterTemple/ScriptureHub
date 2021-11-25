@@ -5,7 +5,8 @@
     "translit": "(šə·nêm)",
     "parse": "Number - md",
     "str": "Strong's 8147:  ",
-    "str2": "Two (a cardinal number)"
+    "str2": "Two (a cardinal number)",
+    "num": 8147
   },
   {
     "word": "day",
@@ -13,7 +14,8 @@
     "translit": "(bə·yō·wm)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "Ahira",
@@ -21,7 +23,8 @@
     "translit": "(’ă·ḥî·ra‘)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 299:  ",
-    "str2": "Ahira -- 'my brother is evil', a leader of Naphtali"
+    "str2": "Ahira -- 'my brother is evil', a leader of Naphtali",
+    "num": 299
   },
   {
     "word": "son",
@@ -29,7 +32,8 @@
     "translit": "(liḇ·nê)",
     "parse": "Preposition-l | Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of Enan,",
@@ -37,7 +41,8 @@
     "translit": "(‘ê·nān)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 5881:  ",
-    "str2": "Enan -- 'having fountains', a man of Naphtali"
+    "str2": "Enan -- 'having fountains', a man of Naphtali",
+    "num": 5881
   },
   {
     "word": "the leader",
@@ -45,7 +50,8 @@
     "translit": "(nā·śî)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5387:  ",
-    "str2": "An exalted one, a king, sheik, a rising mist"
+    "str2": "An exalted one, a king, sheik, a rising mist",
+    "num": 5387
   },
   {
     "word": "of the Naphtalites,",
@@ -53,7 +59,8 @@
     "translit": "(ben-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "[drew near].",
@@ -61,6 +68,7 @@
     "translit": "(nap̄·tā·lî)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 5321:  ",
-    "str2": "Naphtali -- a son of Jacob, also his descendants and the district settled by them"
+    "str2": "Naphtali -- a son of Jacob, also his descendants and the district settled by them",
+    "num": 5321
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "again",
@@ -13,7 +14,8 @@
     "translit": "(palin)",
     "parse": "Adverb",
     "str": "Strong's 3825:  ",
-    "str2": "Probably from the same as pale; anew, i.e. back, once more, or furthermore or on the other hand."
+    "str2": "Probably from the same as pale; anew, i.e. back, once more, or furthermore or on the other hand.",
+    "num": 3825
   },
   {
     "word": "He bent down",
@@ -21,7 +23,8 @@
     "translit": "(katō¦kypsas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2955:  ",
-    "str2": "To bend, stoop down, bow the head. Probably from the base of kuma; to bend forward."
+    "str2": "To bend, stoop down, bow the head. Probably from the base of kuma; to bend forward.",
+    "num": 2955
   },
   {
     "word": "[and] wrote",
@@ -29,7 +32,8 @@
     "translit": "(egraphen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1125:  ",
-    "str2": "A primary verb; to 'grave', especially to write; figuratively, to describe."
+    "str2": "A primary verb; to 'grave', especially to write; figuratively, to describe.",
+    "num": 1125
   },
   {
     "word": "on",
@@ -37,7 +41,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "ground.",
@@ -53,6 +59,7 @@
     "translit": "(gēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1093:  ",
-    "str2": "Contracted from a primary word; soil; by extension a region, or the solid part or the whole of the terrene globe."
+    "str2": "Contracted from a primary word; soil; by extension a region, or the solid part or the whole of the terrene globe.",
+    "num": 1093
   }
 ]

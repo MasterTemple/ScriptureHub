@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "you will be",
@@ -13,7 +14,8 @@
     "translit": "(esē)",
     "parse": "Verb - Future Indicative Middle - 2nd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "blessed.",
@@ -21,7 +23,8 @@
     "translit": "(makarios)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3107:  ",
-    "str2": "Happy, blessed, to be envied. A prolonged form of the poetical makar; supremely blest; by extension, fortunate, well off."
+    "str2": "Happy, blessed, to be envied. A prolonged form of the poetical makar; supremely blest; by extension, fortunate, well off.",
+    "num": 3107
   },
   {
     "word": "Since",
@@ -29,7 +32,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "they cannot",
@@ -37,7 +41,8 @@
     "translit": "(echousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "repay",
@@ -45,7 +50,8 @@
     "translit": "(antapodounai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 467:  ",
-    "str2": "To give in return, recompense. From anti and apodidomi; to requite."
+    "str2": "To give in return, recompense. From anti and apodidomi; to requite.",
+    "num": 467
   },
   {
     "word": "you,",
@@ -53,7 +59,8 @@
     "translit": "(soi)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "you",
@@ -61,7 +68,8 @@
     "translit": "(soi)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "will be repaid",
@@ -69,7 +77,8 @@
     "translit": "(antapodothēsetai)",
     "parse": "Verb - Future Indicative Passive - 3rd Person Singular",
     "str": "Strong's 467:  ",
-    "str2": "To give in return, recompense. From anti and apodidomi; to requite."
+    "str2": "To give in return, recompense. From anti and apodidomi; to requite.",
+    "num": 467
   },
   {
     "word": "at",
@@ -77,7 +86,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -85,7 +95,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "resurrection",
@@ -93,7 +104,8 @@
     "translit": "(anastasei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 386:  ",
-    "str2": "A rising again, resurrection. From anistemi; a standing up again, i.e. a resurrection from death (its author), or a recovery."
+    "str2": "A rising again, resurrection. From anistemi; a standing up again, i.e. a resurrection from death (its author), or a recovery.",
+    "num": 386
   },
   {
     "word": "of the",
@@ -101,7 +113,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "righteous.”",
@@ -109,6 +122,7 @@
     "translit": "(dikaiōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 1342:  ",
-    "str2": "From dike; equitable; by implication, innocent, holy."
+    "str2": "From dike; equitable; by implication, innocent, holy.",
+    "num": 1342
   }
 ]

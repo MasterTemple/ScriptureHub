@@ -5,7 +5,8 @@
     "translit": "(meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "second",
@@ -21,7 +23,8 @@
     "translit": "(deuteron)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 1208:  ",
-    "str2": "Second; with the article: in the second place, for the second time. As the compare of duo; second."
+    "str2": "Second; with the article: in the second place, for the second time. As the compare of duo; second.",
+    "num": 1208
   },
   {
     "word": "curtain",
@@ -29,7 +32,8 @@
     "translit": "(katapetasma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 2665:  ",
-    "str2": "From a compound of kata and a congener of petomai; something spread thoroughly, i.e. the door screen in the Jewish Temple."
+    "str2": "From a compound of kata and a congener of petomai; something spread thoroughly, i.e. the door screen in the Jewish Temple.",
+    "num": 2665
   },
   {
     "word": "[was] a room",
@@ -37,7 +41,8 @@
     "translit": "(skēnē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4633:  ",
-    "str2": "A tent, booth, tabernacle, abode, dwelling, mansion, habitation. Apparently akin to skeuos and skia; a tent or cloth hut."
+    "str2": "A tent, booth, tabernacle, abode, dwelling, mansion, habitation. Apparently akin to skeuos and skia; a tent or cloth hut.",
+    "num": 4633
   },
   {
     "word": "called",
@@ -45,7 +50,8 @@
     "translit": "(legomenē)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Feminine Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "[the] Most Holy Place,",
@@ -53,6 +59,7 @@
     "translit": "(Hagia)",
     "parse": "Adjective - Nominative Neuter Plural",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   }
 ]

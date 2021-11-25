@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "because",
@@ -13,7 +14,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "[there is so much]",
@@ -21,7 +23,8 @@
     "translit": "(tas)",
     "parse": "Article - Accusative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "sexual immorality,",
@@ -29,7 +32,8 @@
     "translit": "(porneias)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 4202:  ",
-    "str2": "Fornication, whoredom; met: idolatry. From porneuo; harlotry; figuratively, idolatry."
+    "str2": "Fornication, whoredom; met: idolatry. From porneuo; harlotry; figuratively, idolatry.",
+    "num": 4202
   },
   {
     "word": "each man",
@@ -37,7 +41,8 @@
     "translit": "(hekastos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1538:  ",
-    "str2": "Each (of more than two), every one. As if a superlative of hekas; each or every."
+    "str2": "Each (of more than two), every one. As if a superlative of hekas; each or every.",
+    "num": 1538
   },
   {
     "word": "should have",
@@ -45,7 +50,8 @@
     "translit": "(echetō)",
     "parse": "Verb - Present Imperative Active - 3rd Person Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "his",
@@ -53,7 +59,8 @@
     "translit": "(heautou)",
     "parse": "Reflexive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   },
   {
     "word": "[own]",
@@ -61,7 +68,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "wife,",
@@ -69,7 +77,8 @@
     "translit": "(gynaika)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1135:  ",
-    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife."
+    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife.",
+    "num": 1135
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "each woman",
@@ -85,7 +95,8 @@
     "translit": "(hekastē)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 1538:  ",
-    "str2": "Each (of more than two), every one. As if a superlative of hekas; each or every."
+    "str2": "Each (of more than two), every one. As if a superlative of hekas; each or every.",
+    "num": 1538
   },
   {
     "word": "[her]",
@@ -93,7 +104,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "own",
@@ -101,7 +113,8 @@
     "translit": "(idion)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 2398:  ",
-    "str2": "Pertaining to self, i.e. One's own; by implication, private or separate."
+    "str2": "Pertaining to self, i.e. One's own; by implication, private or separate.",
+    "num": 2398
   },
   {
     "word": "husband.",
@@ -109,6 +122,7 @@
     "translit": "(andra)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   }
 ]

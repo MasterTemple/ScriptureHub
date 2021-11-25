@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "high priest",
@@ -21,7 +23,8 @@
     "translit": "(archiereus)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 749:  ",
-    "str2": "High priest, chief priest. From arche and hiereus; the high-priest; by extension a chief priest."
+    "str2": "High priest, chief priest. From arche and hiereus; the high-priest; by extension a chief priest.",
+    "num": 749
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "all",
@@ -37,7 +41,8 @@
     "translit": "(pantes)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "his associates",
@@ -45,7 +50,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "(who",
@@ -53,7 +59,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "belonged",
@@ -61,7 +68,8 @@
     "translit": "(ousa)",
     "parse": "Verb - Present Participle Active - Nominative Feminine Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "to the",
@@ -69,7 +77,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "party",
@@ -77,7 +86,8 @@
     "translit": "(hairesis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 139:  ",
-    "str2": "From haireomai; properly, a choice, i.e. a party or disunion."
+    "str2": "From haireomai; properly, a choice, i.e. a party or disunion.",
+    "num": 139
   },
   {
     "word": "of the Sadducees)",
@@ -85,7 +95,8 @@
     "translit": "(Saddoukaiōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 4523:  ",
-    "str2": "Probably from Sadok; a Sadducaean, or follower of a certain heretical Israelite."
+    "str2": "Probably from Sadok; a Sadducaean, or follower of a certain heretical Israelite.",
+    "num": 4523
   },
   {
     "word": "rose up",
@@ -93,7 +104,8 @@
     "translit": "(Anastas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 450:  ",
-    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up."
+    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up.",
+    "num": 450
   },
   {
     "word": "with",
@@ -101,7 +113,8 @@
     "translit": "(eplēsthēsan)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Plural",
     "str": "Strong's 4130:  ",
-    "str2": "To fill, fulfill, complete. A prolonged form of a primary pleo to 'fill' (imbue, influence, supply); specially, to fulfil."
+    "str2": "To fill, fulfill, complete. A prolonged form of a primary pleo to 'fill' (imbue, influence, supply); specially, to fulfil.",
+    "num": 4130
   },
   {
     "word": "jealousy.",
@@ -109,6 +122,7 @@
     "translit": "(zēlou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2205:  ",
-    "str2": "From zeo; properly, heat, i.e. 'zeal' (figuratively, of God), or an enemy, malice)."
+    "str2": "From zeo; properly, heat, i.e. 'zeal' (figuratively, of God), or an enemy, malice).",
+    "num": 2205
   }
 ]

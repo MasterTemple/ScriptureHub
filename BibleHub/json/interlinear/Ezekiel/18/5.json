@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "a man",
@@ -13,7 +14,8 @@
     "translit": "(wə·’îš)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "is",
@@ -21,7 +23,8 @@
     "translit": "(yih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "righteous",
@@ -29,7 +32,8 @@
     "translit": "(ṣad·dîq)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 6662:  ",
-    "str2": "Just, righteous"
+    "str2": "Just, righteous",
+    "num": 6662
   },
   {
     "word": "and does",
@@ -37,7 +41,8 @@
     "translit": "(wə·‘ā·śāh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "what is just",
@@ -45,7 +50,8 @@
     "translit": "(miš·pāṭ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4941:  ",
-    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style"
+    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style",
+    "num": 4941
   },
   {
     "word": "and right:",
@@ -53,6 +59,7 @@
     "translit": "(ū·ṣə·ḏā·qāh)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 6666:  ",
-    "str2": "Rightness, subjectively, objectively"
+    "str2": "Rightness, subjectively, objectively",
+    "num": 6666
   }
 ]

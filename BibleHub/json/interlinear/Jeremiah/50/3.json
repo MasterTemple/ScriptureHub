@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "a nation",
@@ -13,7 +14,8 @@
     "translit": "(gō·w)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1471:  ",
-    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts"
+    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+    "num": 1471
   },
   {
     "word": "from the north",
@@ -21,7 +23,8 @@
     "translit": "(miṣ·ṣā·p̄ō·wn)",
     "parse": "Preposition-m | Noun - feminine singular",
     "str": "Strong's 6828:  ",
-    "str2": "Hidden, dark, the north as a, quarter"
+    "str2": "Hidden, dark, the north as a, quarter",
+    "num": 6828
   },
   {
     "word": "will come",
@@ -29,7 +32,8 @@
     "translit": "(‘ā·lāh)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 5927:  ",
-    "str2": "To ascend, in, actively"
+    "str2": "To ascend, in, actively",
+    "num": 5927
   },
   {
     "word": "against her;",
@@ -37,7 +41,8 @@
     "translit": "(‘ā·le·hā)",
     "parse": "Preposition | third person feminine singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "it",
@@ -45,7 +50,8 @@
     "translit": "(hū-)",
     "parse": "Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "will make",
@@ -53,7 +59,8 @@
     "translit": "(yā·šîṯ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 7896:  ",
-    "str2": "To put, set"
+    "str2": "To put, set",
+    "num": 7896
   },
   {
     "word": "her land",
@@ -61,7 +68,8 @@
     "translit": "(’ar·ṣāh)",
     "parse": "Noun - feminine singular construct | third person feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "an object of horror.",
@@ -69,7 +77,8 @@
     "translit": "(lə·šam·māh)",
     "parse": "Preposition-l | Noun - feminine singular",
     "str": "Strong's 8047:  ",
-    "str2": "Ruin, consternation"
+    "str2": "Ruin, consternation",
+    "num": 8047
   },
   {
     "word": "No one",
@@ -77,7 +86,8 @@
     "translit": "(wə·lō-)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "will live",
@@ -85,7 +95,8 @@
     "translit": "(yō·wō·šêḇ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "in it;",
@@ -93,7 +104,8 @@
     "translit": "(bāh)",
     "parse": "Preposition | third person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "both man",
@@ -101,7 +113,8 @@
     "translit": "(mê·’ā·ḏām)",
     "parse": "Preposition-m | Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   },
   {
     "word": "and",
@@ -109,7 +122,8 @@
     "translit": "(wə·‘aḏ-)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "beast",
@@ -117,7 +131,8 @@
     "translit": "(bə·hê·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 929:  ",
-    "str2": "A dumb beast, any large quadruped, animal"
+    "str2": "A dumb beast, any large quadruped, animal",
+    "num": 929
   },
   {
     "word": "will flee.”",
@@ -125,6 +140,7 @@
     "translit": "(nā·ḏū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 5110:  ",
-    "str2": "To nod, waver, to wander, flee, disappear, to console, deplore, taunt"
+    "str2": "To nod, waver, to wander, flee, disappear, to console, deplore, taunt",
+    "num": 5110
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(Tote)",
     "parse": "Adverb",
     "str": "Strong's 5119:  ",
-    "str2": "Then, at that time. From ho and hote; the when, i.e. At the time that."
+    "str2": "Then, at that time. From ho and hote; the when, i.e. At the time that.",
+    "num": 5119
   },
   {
     "word": "Herod",
@@ -13,7 +14,8 @@
     "translit": "(Hērōdēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2264:  ",
-    "str2": "Compound of heros and eidos; heroic; Herod, the name of four Jewish kings."
+    "str2": "Compound of heros and eidos; heroic; Herod, the name of four Jewish kings.",
+    "num": 2264
   },
   {
     "word": "called",
@@ -21,7 +23,8 @@
     "translit": "(kalesas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2564:  ",
-    "str2": "(a) I call, summon, invite, (b) I call, name. Akin to the base of keleuo; to 'call'."
+    "str2": "(a) I call, summon, invite, (b) I call, name. Akin to the base of keleuo; to 'call'.",
+    "num": 2564
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Magi",
@@ -37,7 +41,8 @@
     "translit": "(magous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 3097:  ",
-    "str2": "A sorcerer, a magician, a wizard. Of foreign origin; a Magian, i.e. Oriental scientist; by implication, a magician."
+    "str2": "A sorcerer, a magician, a wizard. Of foreign origin; a Magian, i.e. Oriental scientist; by implication, a magician.",
+    "num": 3097
   },
   {
     "word": "secretly",
@@ -45,7 +50,8 @@
     "translit": "(lathra)",
     "parse": "Adverb",
     "str": "Strong's 2977:  ",
-    "str2": "Secretly, privately. Adverb from lanthano; privately."
+    "str2": "Secretly, privately. Adverb from lanthano; privately.",
+    "num": 2977
   },
   {
     "word": "[and] learned",
@@ -53,7 +59,8 @@
     "translit": "(ēkribōsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 198:  ",
-    "str2": "To learn carefully, inquire with exactness. From the same as akribestatos; to be exact, i.e. Ascertain."
+    "str2": "To learn carefully, inquire with exactness. From the same as akribestatos; to be exact, i.e. Ascertain.",
+    "num": 198
   },
   {
     "word": "from",
@@ -61,7 +68,8 @@
     "translit": "(par’)",
     "parse": "Preposition",
     "str": "Strong's 3844:  ",
-    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. "
+    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. ",
+    "num": 3844
   },
   {
     "word": "them",
@@ -69,7 +77,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "{exact} time",
@@ -85,7 +95,8 @@
     "translit": "(chronon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 5550:  ",
-    "str2": "A space of time or interval; by extension, an individual opportunity; by implication, delay."
+    "str2": "A space of time or interval; by extension, an individual opportunity; by implication, delay.",
+    "num": 5550
   },
   {
     "word": "the",
@@ -93,7 +104,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "star",
@@ -101,7 +113,8 @@
     "translit": "(asteros)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 792:  ",
-    "str2": "A star. Probably from the base of stronnumi; a star, literally or figuratively."
+    "str2": "A star. Probably from the base of stronnumi; a star, literally or figuratively.",
+    "num": 792
   },
   {
     "word": "had appeared.",
@@ -109,6 +122,7 @@
     "translit": "(phainomenou)",
     "parse": "Verb - Present Participle Middle or Passive - Genitive Masculine Singular",
     "str": "Strong's 5316:  ",
-    "str2": "Prolongation for the base of phos; to lighten, i.e. Show."
+    "str2": "Prolongation for the base of phos; to lighten, i.e. Show.",
+    "num": 5316
   }
 ]

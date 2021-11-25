@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "we know",
@@ -21,7 +23,8 @@
     "translit": "(oidamen)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Plural",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "that",
@@ -29,7 +32,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "He hears",
@@ -37,7 +41,8 @@
     "translit": "(akouei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "us",
@@ -45,7 +50,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "in whatever",
@@ -53,7 +59,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "we ask,",
@@ -61,7 +68,8 @@
     "translit": "(aitōmetha)",
     "parse": "Verb - Present Subjunctive Middle - 1st Person Plural",
     "str": "Strong's 154:  ",
-    "str2": "To ask, request, petition, demand. Of uncertain derivation; to ask."
+    "str2": "To ask, request, petition, demand. Of uncertain derivation; to ask.",
+    "num": 154
   },
   {
     "word": "we know",
@@ -69,7 +77,8 @@
     "translit": "(oidamen)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Plural",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "that",
@@ -77,7 +86,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "we already possess",
@@ -85,7 +95,8 @@
     "translit": "(echomen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "what",
@@ -93,7 +104,8 @@
     "translit": "(ta)",
     "parse": "Article - Accusative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "we have asked",
@@ -101,7 +113,8 @@
     "translit": "(ētēkamen)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Plural",
     "str": "Strong's 154:  ",
-    "str2": "To ask, request, petition, demand. Of uncertain derivation; to ask."
+    "str2": "To ask, request, petition, demand. Of uncertain derivation; to ask.",
+    "num": 154
   },
   {
     "word": "of",
@@ -109,7 +122,8 @@
     "translit": "(ap’)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "Him.",
@@ -117,6 +131,7 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

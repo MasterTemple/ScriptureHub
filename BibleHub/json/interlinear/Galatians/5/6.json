@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "in",
@@ -13,7 +14,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "Christ",
@@ -21,7 +23,8 @@
     "translit": "(Christō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "Jesus",
@@ -29,7 +32,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "neither",
@@ -37,7 +41,8 @@
     "translit": "(oute)",
     "parse": "Conjunction",
     "str": "Strong's 3777:  ",
-    "str2": "And not, neither, nor. From ou and te; not too, i.e. Neither or nor; by analogy, not even."
+    "str2": "And not, neither, nor. From ou and te; not too, i.e. Neither or nor; by analogy, not even.",
+    "num": 3777
   },
   {
     "word": "circumcision",
@@ -45,7 +50,8 @@
     "translit": "(peritomē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4061:  ",
-    "str2": "Circumcision. From peritemno; circumcision."
+    "str2": "Circumcision. From peritemno; circumcision.",
+    "num": 4061
   },
   {
     "word": "nor",
@@ -53,7 +59,8 @@
     "translit": "(oute)",
     "parse": "Conjunction",
     "str": "Strong's 3777:  ",
-    "str2": "And not, neither, nor. From ou and te; not too, i.e. Neither or nor; by analogy, not even."
+    "str2": "And not, neither, nor. From ou and te; not too, i.e. Neither or nor; by analogy, not even.",
+    "num": 3777
   },
   {
     "word": "uncircumcision",
@@ -61,7 +68,8 @@
     "translit": "(akrobystia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 203:  ",
-    "str2": "From akron and probably a modified form of posthe; the prepuce; by implication, an uncircumcised state or person."
+    "str2": "From akron and probably a modified form of posthe; the prepuce; by implication, an uncircumcised state or person.",
+    "num": 203
   },
   {
     "word": "has any value.",
@@ -69,7 +77,8 @@
     "translit": "(ischyei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2480:  ",
-    "str2": "To have strength, be strong, be in full health and vigor, be able; meton: I prevail. From ischus; to have force."
+    "str2": "To have strength, be strong, be in full health and vigor, be able; meton: I prevail. From ischus; to have force.",
+    "num": 2480
   },
   {
     "word": "All that matters is",
@@ -77,7 +86,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "faith,",
@@ -85,7 +95,8 @@
     "translit": "(pistis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4102:  ",
-    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. "
+    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. ",
+    "num": 4102
   },
   {
     "word": "expressed",
@@ -93,7 +104,8 @@
     "translit": "(energoumenē)",
     "parse": "Verb - Present Participle Middle - Nominative Feminine Singular",
     "str": "Strong's 1754:  ",
-    "str2": "From energes; to be active, efficient."
+    "str2": "From energes; to be active, efficient.",
+    "num": 1754
   },
   {
     "word": "through",
@@ -101,7 +113,8 @@
     "translit": "(di’)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "love.",
@@ -109,6 +122,7 @@
     "translit": "(agapēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 26:  ",
-    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast."
+    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast.",
+    "num": 26
   }
 ]

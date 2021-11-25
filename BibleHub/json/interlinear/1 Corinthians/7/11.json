@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "she [does],",
@@ -21,7 +23,8 @@
     "translit": "(chōristhē)",
     "parse": "Verb - Aorist Subjunctive Passive - 3rd Person Singular",
     "str": "Strong's 5563:  ",
-    "str2": "From chora; to place room between, i.e. Part; reflexively, to go away."
+    "str2": "From chora; to place room between, i.e. Part; reflexively, to go away.",
+    "num": 5563
   },
   {
     "word": "she must remain",
@@ -29,7 +32,8 @@
     "translit": "(menetō)",
     "parse": "Verb - Present Imperative Active - 3rd Person Singular",
     "str": "Strong's 3306:  ",
-    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay."
+    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay.",
+    "num": 3306
   },
   {
     "word": "unmarried",
@@ -37,7 +41,8 @@
     "translit": "(agamos)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 22:  ",
-    "str2": "Unmarried, of a person not in a state of wedlock, whether he or she has formerly been married or not. Unmarried."
+    "str2": "Unmarried, of a person not in a state of wedlock, whether he or she has formerly been married or not. Unmarried.",
+    "num": 22
   },
   {
     "word": "or else",
@@ -45,7 +50,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "be reconciled",
@@ -53,7 +59,8 @@
     "translit": "(katallagētō)",
     "parse": "Verb - Aorist Imperative Passive - 3rd Person Singular",
     "str": "Strong's 2644:  ",
-    "str2": "To change, exchange, reconcile. From kata and allasso; to change mutually, i.e. to compound a difference."
+    "str2": "To change, exchange, reconcile. From kata and allasso; to change mutually, i.e. to compound a difference.",
+    "num": 2644
   },
   {
     "word": "to [her]",
@@ -61,7 +68,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "husband.",
@@ -69,7 +77,8 @@
     "translit": "(andri)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "And",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "a husband",
@@ -85,7 +95,8 @@
     "translit": "(andra)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "must not divorce",
@@ -93,7 +104,8 @@
     "translit": "(aphienai)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 863:  ",
-    "str2": "From apo and hiemi; to send forth, in various applications."
+    "str2": "From apo and hiemi; to send forth, in various applications.",
+    "num": 863
   },
   {
     "word": "[his] wife.",
@@ -101,6 +113,7 @@
     "translit": "(gynaika)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1135:  ",
-    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife."
+    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife.",
+    "num": 1135
   }
 ]

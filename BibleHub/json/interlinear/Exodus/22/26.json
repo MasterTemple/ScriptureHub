@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you take your neighbor’s",
@@ -13,7 +14,8 @@
     "translit": "(rê·‘e·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 7453:  ",
-    "str2": "Friend, companion, fellow"
+    "str2": "Friend, companion, fellow",
+    "num": 7453
   },
   {
     "word": "cloak",
@@ -21,7 +23,8 @@
     "translit": "(śal·maṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 8008:  ",
-    "str2": "A wrapper, mantle"
+    "str2": "A wrapper, mantle",
+    "num": 8008
   },
   {
     "word": "as collateral,",
@@ -29,7 +32,8 @@
     "translit": "(ḥā·ḇōl)",
     "parse": "Verb - Qal - Infinitive absolute",
     "str": "Strong's 2254:  ",
-    "str2": "To wind tightly, to bind, a pledge, to pervert, destroy, to writhe in pain"
+    "str2": "To wind tightly, to bind, a pledge, to pervert, destroy, to writhe in pain",
+    "num": 2254
   },
   {
     "word": "return it",
@@ -37,7 +41,8 @@
     "translit": "(tə·šî·ḇen·nū)",
     "parse": "Verb - Hifil - Imperfect - second person masculine singular | third person masculine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "to him",
@@ -45,7 +50,8 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "by",
@@ -53,7 +59,8 @@
     "translit": "(‘aḏ-)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "sunset,",
@@ -61,6 +68,7 @@
     "translit": "(bō)",
     "parse": "Verb - Qal - Infinitive construct",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   }
 ]

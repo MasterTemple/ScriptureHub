@@ -5,7 +5,8 @@
     "translit": "(anthrōpos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "must examine",
@@ -13,7 +14,8 @@
     "translit": "(dokimazetō)",
     "parse": "Verb - Present Imperative Active - 3rd Person Singular",
     "str": "Strong's 1381:  ",
-    "str2": "From dokimos; to test; by implication, to approve."
+    "str2": "From dokimos; to test; by implication, to approve.",
+    "num": 1381
   },
   {
     "word": "himself",
@@ -21,7 +23,8 @@
     "translit": "(heauton)",
     "parse": "Reflexive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   },
   {
     "word": "[before]",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he eats",
@@ -37,7 +41,8 @@
     "translit": "(esthietō)",
     "parse": "Verb - Present Imperative Active - 3rd Person Singular",
     "str": "Strong's 2068:  ",
-    "str2": "Strengthened for a primary edo; used only in certain tenses, the rest being supplied by phago; to eat."
+    "str2": "Strengthened for a primary edo; used only in certain tenses, the rest being supplied by phago; to eat.",
+    "num": 2068
   },
   {
     "word": "of",
@@ -45,7 +50,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "bread",
@@ -61,7 +68,8 @@
     "translit": "(artou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 740:  ",
-    "str2": "Bread, a loaf, food. From airo; bread or a loaf."
+    "str2": "Bread, a loaf, food. From airo; bread or a loaf.",
+    "num": 740
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "drinks",
@@ -77,7 +86,8 @@
     "translit": "(pinetō)",
     "parse": "Verb - Present Imperative Active - 3rd Person Singular",
     "str": "Strong's 4095:  ",
-    "str2": "To drink, imbibe. A prolonged form of pio, which poo occurs only as an alternate in certain tenses; to imbibe."
+    "str2": "To drink, imbibe. A prolonged form of pio, which poo occurs only as an alternate in certain tenses; to imbibe.",
+    "num": 4095
   },
   {
     "word": "of",
@@ -85,7 +95,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "the",
@@ -93,7 +104,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "cup.",
@@ -101,6 +113,7 @@
     "translit": "(potēriou)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 4221:  ",
-    "str2": "A drinking cup, the contents of the cup; fig: the portion which God allots. "
+    "str2": "A drinking cup, the contents of the cup; fig: the portion which God allots. ",
+    "num": 4221
   }
 ]

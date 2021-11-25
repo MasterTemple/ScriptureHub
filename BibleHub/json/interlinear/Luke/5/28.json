@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[Levi] got up,",
@@ -13,7 +14,8 @@
     "translit": "(anastas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 450:  ",
-    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up."
+    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up.",
+    "num": 450
   },
   {
     "word": "left",
@@ -21,7 +23,8 @@
     "translit": "(katalipōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2641:  ",
-    "str2": "From kata and leipo; to leave down, i.e. Behind; by implication, to abandon, have remaining."
+    "str2": "From kata and leipo; to leave down, i.e. Behind; by implication, to abandon, have remaining.",
+    "num": 2641
   },
   {
     "word": "everything,",
@@ -29,7 +32,8 @@
     "translit": "(panta)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "[and] followed",
@@ -37,7 +41,8 @@
     "translit": "(ēkolouthei)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 190:  ",
-    "str2": "To accompany, attend, follow. Properly, to be in the same way with, i.e. To accompany."
+    "str2": "To accompany, attend, follow. Properly, to be in the same way with, i.e. To accompany.",
+    "num": 190
   },
   {
     "word": "Him.",
@@ -45,6 +50,7 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

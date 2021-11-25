@@ -5,7 +5,8 @@
     "translit": "(meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "arrest",
@@ -21,7 +23,8 @@
     "translit": "(paradothēnai)",
     "parse": "Verb - Aorist Infinitive Passive",
     "str": "Strong's 3860:  ",
-    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit."
+    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit.",
+    "num": 3860
   },
   {
     "word": "of John,",
@@ -29,7 +32,8 @@
     "translit": "(Iōannēn)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2491:  ",
-    "str2": "Of Hebrew origin; Joannes, the name of four Israelites."
+    "str2": "Of Hebrew origin; Joannes, the name of four Israelites.",
+    "num": 2491
   },
   {
     "word": "Jesus",
@@ -37,7 +41,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "went",
@@ -45,7 +50,8 @@
     "translit": "(ēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "into",
@@ -53,7 +59,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "Galilee",
@@ -61,7 +68,8 @@
     "translit": "(Galilaian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1056:  ",
-    "str2": "Of Hebrew origin; Galiloea, a region of Palestine."
+    "str2": "Of Hebrew origin; Galiloea, a region of Palestine.",
+    "num": 1056
   },
   {
     "word": "[and] proclaimed",
@@ -69,7 +77,8 @@
     "translit": "(kēryssōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2784:  ",
-    "str2": "To proclaim, herald, preach. Of uncertain affinity; to herald, especially divine truth."
+    "str2": "To proclaim, herald, preach. Of uncertain affinity; to herald, especially divine truth.",
+    "num": 2784
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "gospel",
@@ -85,7 +95,8 @@
     "translit": "(euangelion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 2098:  ",
-    "str2": "From the same as euaggelizo; a good message, i.e. The gospel."
+    "str2": "From the same as euaggelizo; a good message, i.e. The gospel.",
+    "num": 2098
   },
   {
     "word": "of God.",
@@ -93,6 +104,7 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

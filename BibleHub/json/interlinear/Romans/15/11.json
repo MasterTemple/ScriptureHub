@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "again:",
@@ -13,7 +14,8 @@
     "translit": "(palin)",
     "parse": "Adverb",
     "str": "Strong's 3825:  ",
-    "str2": "Probably from the same as pale; anew, i.e. back, once more, or furthermore or on the other hand."
+    "str2": "Probably from the same as pale; anew, i.e. back, once more, or furthermore or on the other hand.",
+    "num": 3825
   },
   {
     "word": "“Praise",
@@ -21,7 +23,8 @@
     "translit": "(Aineite)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 134:  ",
-    "str2": "To praise. From ainos; to praise."
+    "str2": "To praise. From ainos; to praise.",
+    "num": 134
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord,",
@@ -37,7 +41,8 @@
     "translit": "(Kyrion)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "all",
@@ -45,7 +50,8 @@
     "translit": "(panta)",
     "parse": "Adjective - Vocative Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "[you]",
@@ -53,7 +59,8 @@
     "translit": "(ta)",
     "parse": "Article - Vocative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Gentiles,",
@@ -61,7 +68,8 @@
     "translit": "(ethnē)",
     "parse": "Noun - Vocative Neuter Plural",
     "str": "Strong's 1484:  ",
-    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one."
+    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one.",
+    "num": 1484
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "extol",
@@ -77,7 +86,8 @@
     "translit": "(epainesatōsan)",
     "parse": "Verb - Aorist Imperative Active - 3rd Person Plural",
     "str": "Strong's 1867:  ",
-    "str2": "To praise, commend, applaud. From epi and aineo; to applaud."
+    "str2": "To praise, commend, applaud. From epi and aineo; to applaud.",
+    "num": 1867
   },
   {
     "word": "Him,",
@@ -85,7 +95,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "all",
@@ -93,7 +104,8 @@
     "translit": "(pantes)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "[you]",
@@ -101,7 +113,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "peoples.”",
@@ -109,6 +122,7 @@
     "translit": "(laoi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 2992:  ",
-    "str2": "Apparently a primary word; a people."
+    "str2": "Apparently a primary word; a people.",
+    "num": 2992
   }
 ]

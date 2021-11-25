@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "from",
@@ -13,7 +14,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "[the] beginning",
@@ -21,7 +23,8 @@
     "translit": "(archēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 746:  ",
-    "str2": "From archomai; a commencement, or chief."
+    "str2": "From archomai; a commencement, or chief.",
+    "num": 746
   },
   {
     "word": "of creation,",
@@ -29,7 +32,8 @@
     "translit": "(ktiseōs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2937:  ",
-    "str2": "From ktizo; original formation."
+    "str2": "From ktizo; original formation.",
+    "num": 2937
   },
   {
     "word": "‘[God] made",
@@ -37,7 +41,8 @@
     "translit": "(epoiēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "them",
@@ -45,7 +50,8 @@
     "translit": "(autous)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "male",
@@ -53,7 +59,8 @@
     "translit": "(Arsen)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 730:  ",
-    "str2": "Male. Arsen probably from airo; male."
+    "str2": "Male. Arsen probably from airo; male.",
+    "num": 730
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "female.’",
@@ -69,6 +77,7 @@
     "translit": "(thēly)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 2338:  ",
-    "str2": "Female. From the same as thelazo; female."
+    "str2": "Female. From the same as thelazo; female.",
+    "num": 2338
   }
 ]

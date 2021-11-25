@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "you are willing",
@@ -21,7 +23,8 @@
     "translit": "(thelete)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "to accept [it],",
@@ -29,7 +32,8 @@
     "translit": "(dexasthai)",
     "parse": "Verb - Aorist Infinitive Middle",
     "str": "Strong's 1209:  ",
-    "str2": "To take, receive, accept, welcome. Middle voice of a primary verb; to receive."
+    "str2": "To take, receive, accept, welcome. Middle voice of a primary verb; to receive.",
+    "num": 1209
   },
   {
     "word": "he",
@@ -37,7 +41,8 @@
     "translit": "(autos)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "is",
@@ -45,7 +50,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "[the] Elijah",
@@ -53,7 +59,8 @@
     "translit": "(Ēlias)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2243:  ",
-    "str2": "Elijah, the prophet. Of Hebrew origin; Helias, an Israelite."
+    "str2": "Elijah, the prophet. Of Hebrew origin; Helias, an Israelite.",
+    "num": 2243
   },
   {
     "word": "who was",
@@ -61,7 +68,8 @@
     "translit": "(mellōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3195:  ",
-    "str2": "A strengthened form of melo; to intend, i.e. Be about to be, do, or suffer something."
+    "str2": "A strengthened form of melo; to intend, i.e. Be about to be, do, or suffer something.",
+    "num": 3195
   },
   {
     "word": "to come.",
@@ -69,6 +77,7 @@
     "translit": "(erchesthai)",
     "parse": "Verb - Present Infinitive Middle or Passive",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   }
 ]

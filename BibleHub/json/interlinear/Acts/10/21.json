@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Peter",
@@ -13,7 +14,8 @@
     "translit": "(Petros)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4074:  ",
-    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle."
+    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle.",
+    "num": 4074
   },
   {
     "word": "went down",
@@ -21,7 +23,8 @@
     "translit": "(Katabas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2597:  ",
-    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend."
+    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend.",
+    "num": 2597
   },
   {
     "word": "to",
@@ -29,7 +32,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "men",
@@ -45,7 +50,8 @@
     "translit": "(andras)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "[and] said,",
@@ -53,7 +59,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“Here",
@@ -61,7 +68,8 @@
     "translit": "(Idou)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 2400:  ",
-    "str2": "See! Lo! Behold! Look! Second person singular imperative middle voice of eido; used as imperative lo!"
+    "str2": "See! Lo! Behold! Look! Second person singular imperative middle voice of eido; used as imperative lo!",
+    "num": 2400
   },
   {
     "word": "am",
@@ -69,7 +77,8 @@
     "translit": "(eimi)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "I,",
@@ -77,7 +86,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "the one",
@@ -85,7 +95,8 @@
     "translit": "(hon)",
     "parse": "Personal / Relative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "you are looking for.",
@@ -93,7 +104,8 @@
     "translit": "(zēteite)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 2212:  ",
-    "str2": "To seek, search for, desire, require, demand. Of uncertain affinity; to seek; specially, to worship, or to plot."
+    "str2": "To seek, search for, desire, require, demand. Of uncertain affinity; to seek; specially, to worship, or to plot.",
+    "num": 2212
   },
   {
     "word": "Why",
@@ -101,7 +113,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Feminine Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "have you come?”",
@@ -109,6 +122,7 @@
     "translit": "(pareste)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 3918:  ",
-    "str2": "From para and eimi; to be near, i.e. At hand; neuter present participle time being, or property."
+    "str2": "From para and eimi; to be near, i.e. At hand; neuter present participle time being, or property.",
+    "num": 3918
   }
 ]

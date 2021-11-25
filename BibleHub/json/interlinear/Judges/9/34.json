@@ -5,7 +5,8 @@
     "translit": "(’ă·ḇî·me·leḵ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 40:  ",
-    "str2": "Abimelech -- 'father is king', a Philistine name, also an Israelite name"
+    "str2": "Abimelech -- 'father is king', a Philistine name, also an Israelite name",
+    "num": 40
   },
   {
     "word": "and all",
@@ -13,7 +14,8 @@
     "translit": "(wə·ḵāl)",
     "parse": "Conjunctive waw | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "his troops",
@@ -21,7 +23,8 @@
     "translit": "(hā·‘ām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "set out",
@@ -29,7 +32,8 @@
     "translit": "(way·yā·qām)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 6965:  ",
-    "str2": "To arise, stand up, stand"
+    "str2": "To arise, stand up, stand",
+    "num": 6965
   },
   {
     "word": "by night",
@@ -37,7 +41,8 @@
     "translit": "(lā·yə·lāh)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3915:  ",
-    "str2": "A twist, night, adversity"
+    "str2": "A twist, night, adversity",
+    "num": 3915
   },
   {
     "word": "and lay in wait",
@@ -45,7 +50,8 @@
     "translit": "(way·ye·’er·ḇū)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
     "str": "Strong's 693:  ",
-    "str2": "To lie in wait"
+    "str2": "To lie in wait",
+    "num": 693
   },
   {
     "word": "against",
@@ -53,7 +59,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "Shechem",
@@ -61,7 +68,8 @@
     "translit": "(šə·ḵem)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 7927:  ",
-    "str2": "Shechem -- 'ridge', a district in Northern Palestine, also a son of Hamor"
+    "str2": "Shechem -- 'ridge', a district in Northern Palestine, also a son of Hamor",
+    "num": 7927
   },
   {
     "word": "in four",
@@ -69,7 +77,8 @@
     "translit": "(’ar·bā·‘āh)",
     "parse": "Number - masculine singular",
     "str": "Strong's 702:  ",
-    "str2": "Four"
+    "str2": "Four",
+    "num": 702
   },
   {
     "word": "companies.",
@@ -77,6 +86,7 @@
     "translit": "(rā·šîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 7218:  ",
-    "str2": "The head"
+    "str2": "The head",
+    "num": 7218
   }
 ]

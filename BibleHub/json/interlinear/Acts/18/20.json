@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "they",
@@ -13,7 +14,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "asked [him]",
@@ -21,7 +23,8 @@
     "translit": "(erōtōntōn)",
     "parse": "Verb - Present Participle Active - Genitive Masculine Plural",
     "str": "Strong's 2065:  ",
-    "str2": "Apparently from ereo; to interrogate; by implication, to request."
+    "str2": "Apparently from ereo; to interrogate; by implication, to request.",
+    "num": 2065
   },
   {
     "word": "to stay",
@@ -29,7 +32,8 @@
     "translit": "(meinai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 3306:  ",
-    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay."
+    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay.",
+    "num": 3306
   },
   {
     "word": "for",
@@ -37,7 +41,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "a while longer,",
@@ -45,7 +50,8 @@
     "translit": "(pleiona)",
     "parse": "Adjective - Accusative Masculine Singular - Comparative",
     "str": "Strong's 4119:  ",
-    "str2": "Or neuter pleion, or pleon comparative of polus; more in quantity, number, or quality; also the major portion."
+    "str2": "Or neuter pleion, or pleon comparative of polus; more in quantity, number, or quality; also the major portion.",
+    "num": 4119
   },
   {
     "word": "he declined.",
@@ -53,6 +59,7 @@
     "translit": "(epeneusen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1962:  ",
-    "str2": "To nod to, assent to, consent. From epi and neuo; to nod at, i.e. to assent."
+    "str2": "To nod to, assent to, consent. From epi and neuo; to nod at, i.e. to assent.",
+    "num": 1962
   }
 ]

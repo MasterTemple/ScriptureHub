@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "an army",
@@ -13,7 +14,8 @@
     "translit": "(ma·ḥă·neh)",
     "parse": "Noun - common singular",
     "str": "Strong's 4264:  ",
-    "str2": "An encampment, an army"
+    "str2": "An encampment, an army",
+    "num": 4264
   },
   {
     "word": "encamps",
@@ -21,7 +23,8 @@
     "translit": "(ta·ḥă·neh)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 2583:  ",
-    "str2": "To incline, to decline, to pitch a, tent, gen, to encamp"
+    "str2": "To incline, to decline, to pitch a, tent, gen, to encamp",
+    "num": 2583
   },
   {
     "word": "around me,",
@@ -29,7 +32,8 @@
     "translit": "(‘ā·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "my heart",
@@ -37,7 +41,8 @@
     "translit": "(lib·bî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 3820:  ",
-    "str2": "The heart, the feelings, the will, the intellect, centre"
+    "str2": "The heart, the feelings, the will, the intellect, centre",
+    "num": 3820
   },
   {
     "word": "{will} not",
@@ -45,7 +50,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "fear;",
@@ -53,7 +59,8 @@
     "translit": "(yî·rā)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 3372:  ",
-    "str2": "To fear, to revere, caus, to frighten"
+    "str2": "To fear, to revere, caus, to frighten",
+    "num": 3372
   },
   {
     "word": "though",
@@ -61,7 +68,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "a war",
@@ -69,7 +77,8 @@
     "translit": "(mil·ḥā·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 4421:  ",
-    "str2": "A battle, war"
+    "str2": "A battle, war",
+    "num": 4421
   },
   {
     "word": "breaks out",
@@ -77,7 +86,8 @@
     "translit": "(tā·qūm)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 6965:  ",
-    "str2": "To arise, stand up, stand"
+    "str2": "To arise, stand up, stand",
+    "num": 6965
   },
   {
     "word": "against me,",
@@ -85,7 +95,8 @@
     "translit": "(‘ā·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "I",
@@ -93,7 +104,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "will keep my trust.",
@@ -101,6 +113,7 @@
     "translit": "(ḇō·w·ṭê·aḥ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 982:  ",
-    "str2": "To trust, be confident, sure"
+    "str2": "To trust, be confident, sure",
+    "num": 982
   }
 ]

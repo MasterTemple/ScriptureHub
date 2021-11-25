@@ -5,7 +5,8 @@
     "translit": "(elegen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "to",
@@ -13,7 +14,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "herself,",
@@ -21,7 +23,8 @@
     "translit": "(heautē)",
     "parse": "Reflexive Pronoun - Dative Feminine 3rd Person Singular",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   },
   {
     "word": "“If",
@@ -29,7 +32,8 @@
     "translit": "(Ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "only",
@@ -37,7 +41,8 @@
     "translit": "(monon)",
     "parse": "Adverb",
     "str": "Strong's 3440:  ",
-    "str2": "Alone, but, only. Neuter of monos as adverb; merely."
+    "str2": "Alone, but, only. Neuter of monos as adverb; merely.",
+    "num": 3440
   },
   {
     "word": "I touch",
@@ -45,7 +50,8 @@
     "translit": "(hapsōmai)",
     "parse": "Verb - Aorist Subjunctive Middle - 1st Person Singular",
     "str": "Strong's 680:  ",
-    "str2": "Prop: I fasten to; I lay hold of, touch, know carnally. Reflexive of hapto; properly, to attach oneself to, i.e. To touch."
+    "str2": "Prop: I fasten to; I lay hold of, touch, know carnally. Reflexive of hapto; properly, to attach oneself to, i.e. To touch.",
+    "num": 680
   },
   {
     "word": "His",
@@ -53,7 +59,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "cloak,",
@@ -61,7 +68,8 @@
     "translit": "(himatiou)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 2440:  ",
-    "str2": "A long flowing outer garment, tunic. Neuter of a presumed derivative of ennumi; a dress."
+    "str2": "A long flowing outer garment, tunic. Neuter of a presumed derivative of ennumi; a dress.",
+    "num": 2440
   },
   {
     "word": "I will be healed.”",
@@ -69,6 +77,7 @@
     "translit": "(sōthēsomai)",
     "parse": "Verb - Future Indicative Passive - 1st Person Singular",
     "str": "Strong's 4982:  ",
-    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect."
+    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect.",
+    "num": 4982
   }
 ]

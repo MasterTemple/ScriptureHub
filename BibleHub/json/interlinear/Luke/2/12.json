@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "this [will be]",
@@ -13,7 +14,8 @@
     "translit": "(touto)",
     "parse": "Demonstrative Pronoun - Nominative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "a",
@@ -21,7 +23,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "sign",
@@ -29,7 +32,8 @@
     "translit": "(sēmeion)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4592:  ",
-    "str2": "Neuter of a presumed derivative of the base of semaino; an indication, especially ceremonially or supernaturally."
+    "str2": "Neuter of a presumed derivative of the base of semaino; an indication, especially ceremonially or supernaturally.",
+    "num": 4592
   },
   {
     "word": "to you:",
@@ -37,7 +41,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "You will find",
@@ -45,7 +50,8 @@
     "translit": "(heurēsete)",
     "parse": "Verb - Future Indicative Active - 2nd Person Plural",
     "str": "Strong's 2147:  ",
-    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find."
+    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find.",
+    "num": 2147
   },
   {
     "word": "a baby",
@@ -53,7 +59,8 @@
     "translit": "(brephos)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 1025:  ",
-    "str2": "Infant, babe, child in arms. Of uncertain affinity; an infant literally or figuratively."
+    "str2": "Infant, babe, child in arms. Of uncertain affinity; an infant literally or figuratively.",
+    "num": 1025
   },
   {
     "word": "wrapped in swaddling cloths",
@@ -61,7 +68,8 @@
     "translit": "(esparganōmenon)",
     "parse": "Verb - Perfect Participle Middle or Passive - Accusative Neuter Singular",
     "str": "Strong's 4683:  ",
-    "str2": "To swathe, wrap in swaddling clothes. From sparganon; to swathe."
+    "str2": "To swathe, wrap in swaddling clothes. From sparganon; to swathe.",
+    "num": 4683
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "lying",
@@ -77,7 +86,8 @@
     "translit": "(keimenon)",
     "parse": "Verb - Present Participle Middle or Passive - Accusative Neuter Singular",
     "str": "Strong's 2749:  ",
-    "str2": "To lie, recline, be placed, be laid, set, specially appointed, destined. Middle voice of a primary verb; to lie outstretched."
+    "str2": "To lie, recline, be placed, be laid, set, specially appointed, destined. Middle voice of a primary verb; to lie outstretched.",
+    "num": 2749
   },
   {
     "word": "in",
@@ -85,7 +95,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "a manger.”",
@@ -93,6 +104,7 @@
     "translit": "(phatnē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 5336:  ",
-    "str2": "A manger, feeding-trough, stall. From pateomai; a crib."
+    "str2": "A manger, feeding-trough, stall. From pateomai; a crib.",
+    "num": 5336
   }
 ]

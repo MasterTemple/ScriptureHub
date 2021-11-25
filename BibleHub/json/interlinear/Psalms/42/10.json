@@ -5,7 +5,8 @@
     "translit": "(bə·re·ṣaḥ)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 7524:  ",
-    "str2": "A crushing, a murder-cry"
+    "str2": "A crushing, a murder-cry",
+    "num": 7524
   },
   {
     "word": "of my bones,",
@@ -13,7 +14,8 @@
     "translit": "(bə·‘aṣ·mō·w·ṯay)",
     "parse": "Preposition-b | Noun - feminine plural construct | first person common singular",
     "str": "Strong's 6106:  ",
-    "str2": "A bone, the body, the substance, selfsame"
+    "str2": "A bone, the body, the substance, selfsame",
+    "num": 6106
   },
   {
     "word": "my enemies",
@@ -21,7 +23,8 @@
     "translit": "(ṣō·wr·rāy)",
     "parse": "Verb - Qal - Participle - masculine plural construct | first person common singular",
     "str": "Strong's 6887:  ",
-    "str2": "To bind, tie up, be restricted, narrow, scant, or cramped"
+    "str2": "To bind, tie up, be restricted, narrow, scant, or cramped",
+    "num": 6887
   },
   {
     "word": "taunt me,",
@@ -29,7 +32,8 @@
     "translit": "(ḥê·rə·p̄ū·nî)",
     "parse": "Verb - Piel - Perfect - third person common plural | first person common singular",
     "str": "Strong's 2778:  ",
-    "str2": "To pull off, to expose, to betroth, to carp at, defame, to spend the winter"
+    "str2": "To pull off, to expose, to betroth, to carp at, defame, to spend the winter",
+    "num": 2778
   },
   {
     "word": "while they say",
@@ -37,7 +41,8 @@
     "translit": "(bə·’ā·mə·rām)",
     "parse": "Preposition-b | Verb - Qal - Infinitive construct | third person masculine plural",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "to me",
@@ -45,7 +50,8 @@
     "translit": "(’ê·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "all",
@@ -53,7 +59,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "day long,",
@@ -61,7 +68,8 @@
     "translit": "(hay·yō·wm)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "“Where",
@@ -69,7 +77,8 @@
     "translit": "(’ay·yêh)",
     "parse": "Interrogative",
     "str": "Strong's 346:  ",
-    "str2": "Where?"
+    "str2": "Where?",
+    "num": 346
   },
   {
     "word": "is your God?”",
@@ -77,6 +86,7 @@
     "translit": "(’ĕ·lō·he·ḵā)",
     "parse": "Noun - masculine plural construct | second person masculine singular",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   }
 ]

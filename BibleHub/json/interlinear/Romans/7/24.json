@@ -5,7 +5,8 @@
     "translit": "(Talaipōros)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 5005:  ",
-    "str2": "Wretched, afflicted, miserable. From the base of talanton and a derivative of the base of peira; enduring trial, i.e. Miserable."
+    "str2": "Wretched, afflicted, miserable. From the base of talanton and a derivative of the base of peira; enduring trial, i.e. Miserable.",
+    "num": 5005
   },
   {
     "word": "man",
@@ -13,7 +14,8 @@
     "translit": "(anthrōpos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "I am!",
@@ -21,7 +23,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "Who",
@@ -29,7 +32,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "will rescue",
@@ -37,7 +41,8 @@
     "translit": "(rhysetai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Singular",
     "str": "Strong's 4506:  ",
-    "str2": "To rescue, deliver (from danger or destruction). "
+    "str2": "To rescue, deliver (from danger or destruction). ",
+    "num": 4506
   },
   {
     "word": "me",
@@ -45,7 +50,8 @@
     "translit": "(me)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "from",
@@ -53,7 +59,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "this",
@@ -61,7 +68,8 @@
     "translit": "(toutou)",
     "parse": "Demonstrative Pronoun - Genitive Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "body",
@@ -69,7 +77,8 @@
     "translit": "(sōmatos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 4983:  ",
-    "str2": "Body, flesh; the body of the Church. From sozo; the body, used in a very wide application, literally or figuratively."
+    "str2": "Body, flesh; the body of the Church. From sozo; the body, used in a very wide application, literally or figuratively.",
+    "num": 4983
   },
   {
     "word": "of death?",
@@ -77,6 +86,7 @@
     "translit": "(thanatou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2288:  ",
-    "str2": "Death, physical or spiritual. From thnesko; death."
+    "str2": "Death, physical or spiritual. From thnesko; death.",
+    "num": 2288
   }
 ]

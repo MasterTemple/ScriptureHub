@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "this is what",
@@ -13,7 +14,8 @@
     "translit": "(ḵōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "of Hosts",
@@ -29,7 +32,8 @@
     "translit": "(ṣə·ḇā·’ō·wṯ)",
     "parse": "Noun - common plural",
     "str": "Strong's 6635:  ",
-    "str2": "A mass of persons, reg, organized for, war, a campaign"
+    "str2": "A mass of persons, reg, organized for, war, a campaign",
+    "num": 6635
   },
   {
     "word": "says",
@@ -37,7 +41,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "about",
@@ -45,7 +50,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the pillars,",
@@ -53,7 +59,8 @@
     "translit": "(hā·‘am·mu·ḏîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 5982:  ",
-    "str2": "A column, a stand, platform"
+    "str2": "A column, a stand, platform",
+    "num": 5982
   },
   {
     "word": "the sea,",
@@ -61,7 +68,8 @@
     "translit": "(hay·yām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3220:  ",
-    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin"
+    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin",
+    "num": 3220
   },
   {
     "word": "the bases,",
@@ -69,7 +77,8 @@
     "translit": "(ham·mə·ḵō·nō·wṯ)",
     "parse": "Article | Noun - feminine plural",
     "str": "Strong's 4350:  ",
-    "str2": "A fixed resting place, base"
+    "str2": "A fixed resting place, base",
+    "num": 4350
   },
   {
     "word": "and the rest",
@@ -77,7 +86,8 @@
     "translit": "(ye·ṯer)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3499:  ",
-    "str2": "An overhanging, an excess, superiority, remainder, a small rope"
+    "str2": "An overhanging, an excess, superiority, remainder, a small rope",
+    "num": 3499
   },
   {
     "word": "of the articles",
@@ -85,7 +95,8 @@
     "translit": "(hak·kê·lîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 3627:  ",
-    "str2": "Something prepared, any apparatus"
+    "str2": "Something prepared, any apparatus",
+    "num": 3627
   },
   {
     "word": "that still remain",
@@ -93,7 +104,8 @@
     "translit": "(han·nō·w·ṯā·rîm)",
     "parse": "Article | Verb - Nifal - Participle - masculine plural",
     "str": "Strong's 3498:  ",
-    "str2": "To jut over, exceed, to excel, to remain, be left, to leave, cause to abound, preserve"
+    "str2": "To jut over, exceed, to excel, to remain, be left, to leave, cause to abound, preserve",
+    "num": 3498
   },
   {
     "word": "in this",
@@ -101,7 +113,8 @@
     "translit": "(haz·zōṯ)",
     "parse": "Article | Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "city,",
@@ -109,6 +122,7 @@
     "translit": "(bā·‘îr)",
     "parse": "Preposition-b, Article | Noun - feminine singular",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   }
 ]

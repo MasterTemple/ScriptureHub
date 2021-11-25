@@ -5,7 +5,8 @@
     "translit": "(ha·ḥă·miš·šîm)",
     "parse": "Article | Number - common plural",
     "str": "Strong's 2572:  ",
-    "str2": "Fifty"
+    "str2": "Fifty",
+    "num": 2572
   },
   {
     "word": "year",
@@ -13,7 +14,8 @@
     "translit": "(šə·naṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "will be",
@@ -21,7 +23,8 @@
     "translit": "(tih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "a jubilee",
@@ -29,7 +32,8 @@
     "translit": "(yō·w·ḇêl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3104:  ",
-    "str2": "A ram, ram's horn (a wind instrument)"
+    "str2": "A ram, ram's horn (a wind instrument)",
+    "num": 3104
   },
   {
     "word": "for you;",
@@ -37,7 +41,8 @@
     "translit": "(lā·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "you are not",
@@ -45,7 +50,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "to sow",
@@ -53,7 +59,8 @@
     "translit": "(ṯiz·rā·‘ū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 2232:  ",
-    "str2": "To sow, to disseminate, plant, fructify"
+    "str2": "To sow, to disseminate, plant, fructify",
+    "num": 2232
   },
   {
     "word": "or",
@@ -61,7 +68,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "reap",
@@ -69,7 +77,8 @@
     "translit": "(ṯiq·ṣə·rū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 7114:  ",
-    "str2": "To dock off, curtail, to harvest"
+    "str2": "To dock off, curtail, to harvest",
+    "num": 7114
   },
   {
     "word": "what grows by itself",
@@ -77,7 +86,8 @@
     "translit": "(sə·p̄î·ḥe·hā)",
     "parse": "Noun - masculine plural construct | third person feminine singular",
     "str": "Strong's 5599:  ",
-    "str2": "Something, falling off, a self-sown crop, a freshet"
+    "str2": "Something, falling off, a self-sown crop, a freshet",
+    "num": 5599
   },
   {
     "word": "or harvest",
@@ -85,7 +95,8 @@
     "translit": "(ṯiḇ·ṣə·rū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 1219:  ",
-    "str2": "To cut off, make inaccessible, enclose"
+    "str2": "To cut off, make inaccessible, enclose",
+    "num": 1219
   },
   {
     "word": "the untended vines.",
@@ -93,6 +104,7 @@
     "translit": "(nə·zi·re·hā)",
     "parse": "Noun - masculine plural construct | third person feminine singular",
     "str": "Strong's 5139:  ",
-    "str2": "Nazirite -- one consecrated, devoted"
+    "str2": "Nazirite -- one consecrated, devoted",
+    "num": 5139
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "He left",
@@ -13,7 +14,8 @@
     "translit": "(apheis)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 863:  ",
-    "str2": "From apo and hiemi; to send forth, in various applications."
+    "str2": "From apo and hiemi; to send forth, in various applications.",
+    "num": 863
   },
   {
     "word": "them,",
@@ -21,7 +23,8 @@
     "translit": "(autous)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "got back into the boat,",
@@ -29,7 +32,8 @@
     "translit": "(embas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1684:  ",
-    "str2": "To step in; I go onboard a ship, embark. From en and the base of basis; to walk on, i.e. Embark, reach."
+    "str2": "To step in; I go onboard a ship, embark. From en and the base of basis; to walk on, i.e. Embark, reach.",
+    "num": 1684
   },
   {
     "word": "[and] crossed",
@@ -37,7 +41,8 @@
     "translit": "(apēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 565:  ",
-    "str2": "From apo and erchomai; to go off, aside or behind, literally or figuratively."
+    "str2": "From apo and erchomai; to go off, aside or behind, literally or figuratively.",
+    "num": 565
   },
   {
     "word": "to",
@@ -45,7 +50,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "other side.",
@@ -61,6 +68,7 @@
     "translit": "(peran)",
     "parse": "Adverb",
     "str": "Strong's 4008:  ",
-    "str2": "Over, on the other side, beyond. Apparently accusative case of an obsolete derivative of peiro; through, i.e. Across."
+    "str2": "Over, on the other side, beyond. Apparently accusative case of an obsolete derivative of peiro; through, i.e. Across.",
+    "num": 4008
   }
 ]

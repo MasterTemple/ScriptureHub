@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "at the window",
@@ -13,7 +14,8 @@
     "translit": "(bə·ḥal·lō·wn)",
     "parse": "Preposition-b | Noun - common singular construct",
     "str": "Strong's 2474:  ",
-    "str2": "A window"
+    "str2": "A window",
+    "num": 2474
   },
   {
     "word": "of my house",
@@ -21,7 +23,8 @@
     "translit": "(bê·ṯî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "I looked",
@@ -29,7 +32,8 @@
     "translit": "(niš·qā·p̄ə·tî)",
     "parse": "Verb - Nifal - Perfect - first person common singular",
     "str": "Strong's 8259:  ",
-    "str2": "To overhang, look out or down"
+    "str2": "To overhang, look out or down",
+    "num": 8259
   },
   {
     "word": "through",
@@ -37,7 +41,8 @@
     "translit": "(bə·‘aḏ)",
     "parse": "Preposition",
     "str": "Strong's 1157:  ",
-    "str2": "In up to, over against, at, beside, among, behind, for"
+    "str2": "In up to, over against, at, beside, among, behind, for",
+    "num": 1157
   },
   {
     "word": "the lattice.",
@@ -45,6 +50,7 @@
     "translit": "(’eš·nab·bî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 822:  ",
-    "str2": "A latticed window"
+    "str2": "A latticed window",
+    "num": 822
   }
 ]

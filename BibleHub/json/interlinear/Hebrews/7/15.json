@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[ this point ] is",
@@ -13,7 +14,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "even",
@@ -21,7 +23,8 @@
     "translit": "(eti)",
     "parse": "Adverb",
     "str": "Strong's 2089:  ",
-    "str2": "(a) of time: still, yet, even now, (b) of degree: even, further, more, in addition. Perhaps akin to etos; 'yet, ' still."
+    "str2": "(a) of time: still, yet, even now, (b) of degree: even, further, more, in addition. Perhaps akin to etos; 'yet, ' still.",
+    "num": 2089
   },
   {
     "word": "more",
@@ -29,7 +32,8 @@
     "translit": "(perissoteron)",
     "parse": "Adjective - Accusative Neuter Singular - Comparative",
     "str": "Strong's 4053:  ",
-    "str2": "From peri; superabundant or superior; by implication, excessive; adverbially violently; neuter preeminence."
+    "str2": "From peri; superabundant or superior; by implication, excessive; adverbially violently; neuter preeminence.",
+    "num": 4053
   },
   {
     "word": "clear",
@@ -37,7 +41,8 @@
     "translit": "(katadēlon)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 2612:  ",
-    "str2": "Quite clear, evident. From kata intensive and delos; manifest."
+    "str2": "Quite clear, evident. From kata intensive and delos; manifest.",
+    "num": 2612
   },
   {
     "word": "if",
@@ -45,7 +50,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "another",
@@ -53,7 +59,8 @@
     "translit": "(heteros)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 2087:  ",
-    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different."
+    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different.",
+    "num": 2087
   },
   {
     "word": "priest",
@@ -61,7 +68,8 @@
     "translit": "(hiereus)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2409:  ",
-    "str2": "A priest, one who offers sacrifice to a god (in Jewish and pagan religions; of Christians only met.). From hieros; a priest."
+    "str2": "A priest, one who offers sacrifice to a god (in Jewish and pagan religions; of Christians only met.). From hieros; a priest.",
+    "num": 2409
   },
   {
     "word": "like",
@@ -69,7 +77,8 @@
     "translit": "(homoiotēta)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3665:  ",
-    "str2": "Likeness, resemblance. From homoios; resemblance."
+    "str2": "Likeness, resemblance. From homoios; resemblance.",
+    "num": 3665
   },
   {
     "word": "Melchizedek",
@@ -77,7 +86,8 @@
     "translit": "(Melchisedek)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3198:  ",
-    "str2": "Melchizedek, king and priest of Salem. Of Hebrew origin; Melchisedek, a patriarch."
+    "str2": "Melchizedek, king and priest of Salem. Of Hebrew origin; Melchisedek, a patriarch.",
+    "num": 3198
   },
   {
     "word": "appears,",
@@ -85,6 +95,7 @@
     "translit": "(anistatai)",
     "parse": "Verb - Present Indicative Middle - 3rd Person Singular",
     "str": "Strong's 450:  ",
-    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up."
+    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up.",
+    "num": 450
   }
 ]

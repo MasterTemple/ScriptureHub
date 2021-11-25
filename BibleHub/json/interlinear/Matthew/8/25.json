@@ -5,7 +5,8 @@
     "translit": "(proselthontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 4334:  ",
-    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to."
+    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to.",
+    "num": 4334
   },
   {
     "word": "[and] woke",
@@ -13,7 +14,8 @@
     "translit": "(ēgeiran)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1453:  ",
-    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse."
+    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse.",
+    "num": 1453
   },
   {
     "word": "Him,",
@@ -21,7 +23,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "saying,",
@@ -29,7 +32,8 @@
     "translit": "(legontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“Lord,",
@@ -37,7 +41,8 @@
     "translit": "(Kyrie)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "save us!",
@@ -45,7 +50,8 @@
     "translit": "(sōson)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 4982:  ",
-    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect."
+    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect.",
+    "num": 4982
   },
   {
     "word": "We are perishing!”",
@@ -53,6 +59,7 @@
     "translit": "(apollymetha)",
     "parse": "Verb - Present Indicative Middle - 1st Person Plural",
     "str": "Strong's 622:  ",
-    "str2": "From apo and the base of olethros; to destroy fully, literally or figuratively."
+    "str2": "From apo and the base of olethros; to destroy fully, literally or figuratively.",
+    "num": 622
   }
 ]

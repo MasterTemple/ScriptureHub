@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "disciples",
@@ -21,7 +23,8 @@
     "translit": "(mathētai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   },
   {
     "word": "asked",
@@ -29,7 +32,8 @@
     "translit": "(Elegon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "one another,",
@@ -37,7 +41,8 @@
     "translit": "(allēlous)",
     "parse": "Personal / Reciprocal Pronoun - Accusative Masculine Plural",
     "str": "Strong's 240:  ",
-    "str2": "One another, each other. Genitive plural from allos reduplicated; one another."
+    "str2": "One another, each other. Genitive plural from allos reduplicated; one another.",
+    "num": 240
   },
   {
     "word": "“[Could]",
@@ -45,7 +50,8 @@
     "translit": "(Mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "someone",
@@ -53,7 +59,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "have brought",
@@ -61,7 +68,8 @@
     "translit": "(ēnenken)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 5342:  ",
-    "str2": "To carry, bear, bring; I conduct, lead; perhaps: I make publicly known. A primary verb."
+    "str2": "To carry, bear, bring; I conduct, lead; perhaps: I make publicly known. A primary verb.",
+    "num": 5342
   },
   {
     "word": "Him",
@@ -69,7 +77,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "food?”",
@@ -77,6 +86,7 @@
     "translit": "(phagein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 5315:  ",
-    "str2": "A primary verb; to eat."
+    "str2": "A primary verb; to eat.",
+    "num": 5315
   }
 ]

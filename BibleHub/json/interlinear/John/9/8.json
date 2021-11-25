@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "[his]",
@@ -13,7 +14,8 @@
     "translit": "(Hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "neighbors",
@@ -21,7 +23,8 @@
     "translit": "(geitones)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 1069:  ",
-    "str2": "A neighbor. From ge; a neighbour; by implication, a friend."
+    "str2": "A neighbor. From ge; a neighbour; by implication, a friend.",
+    "num": 1069
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "those who",
@@ -37,7 +41,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "had formerly seen",
@@ -45,7 +50,8 @@
     "translit": "(theōrountes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2334:  ",
-    "str2": "From a derivative of theaomai; to be a spectator of, i.e. Discern, (experience) or intensively (acknowledge)."
+    "str2": "From a derivative of theaomai; to be a spectator of, i.e. Discern, (experience) or intensively (acknowledge).",
+    "num": 2334
   },
   {
     "word": "him",
@@ -53,7 +59,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "begging",
@@ -61,7 +68,8 @@
     "translit": "(prosaitēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4319:  ",
-    "str2": "To beg, ask earnestly, ask for in addition. From pros and aiteo; to ask repeatedly, i.e. Solicit."
+    "str2": "To beg, ask earnestly, ask for in addition. From pros and aiteo; to ask repeatedly, i.e. Solicit.",
+    "num": 4319
   },
   {
     "word": "began to ask,",
@@ -69,7 +77,8 @@
     "translit": "(elegon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“Isn’t",
@@ -77,7 +86,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "this",
@@ -85,7 +95,8 @@
     "translit": "(houtos)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "the [man who]",
@@ -93,7 +104,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "used to sit",
@@ -101,7 +113,8 @@
     "translit": "(kathēmenos)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Masculine Singular",
     "str": "Strong's 2521:  ",
-    "str2": "To sit, be seated, enthroned; I dwell, reside. From kata; and hemai; to sit down; figuratively, to remain, reside."
+    "str2": "To sit, be seated, enthroned; I dwell, reside. From kata; and hemai; to sit down; figuratively, to remain, reside.",
+    "num": 2521
   },
   {
     "word": "and",
@@ -109,7 +122,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "beg?”",
@@ -117,6 +131,7 @@
     "translit": "(prosaitōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4319:  ",
-    "str2": "To beg, ask earnestly, ask for in addition. From pros and aiteo; to ask repeatedly, i.e. Solicit."
+    "str2": "To beg, ask earnestly, ask for in addition. From pros and aiteo; to ask repeatedly, i.e. Solicit.",
+    "num": 4319
   }
 ]

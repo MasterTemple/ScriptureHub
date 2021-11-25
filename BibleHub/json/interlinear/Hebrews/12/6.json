@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "[the] Lord",
@@ -13,7 +14,8 @@
     "translit": "(Kyrios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "disciplines",
@@ -21,7 +23,8 @@
     "translit": "(paideuei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3811:  ",
-    "str2": "From pais; to train up a child, i.e. Educate, or, discipline."
+    "str2": "From pais; to train up a child, i.e. Educate, or, discipline.",
+    "num": 3811
   },
   {
     "word": "the one",
@@ -29,7 +32,8 @@
     "translit": "(hon)",
     "parse": "Personal / Relative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "He loves,",
@@ -37,7 +41,8 @@
     "translit": "(agapa)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 25:  ",
-    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love."
+    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love.",
+    "num": 25
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "He chastises",
@@ -53,7 +59,8 @@
     "translit": "(mastigoi)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3146:  ",
-    "str2": "To flog, scourge, the victim being strapped to a pole or frame; met: I chastise. From mastix; to flog."
+    "str2": "To flog, scourge, the victim being strapped to a pole or frame; met: I chastise. From mastix; to flog.",
+    "num": 3146
   },
   {
     "word": "everyone",
@@ -61,7 +68,8 @@
     "translit": "(panta)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "He receives",
@@ -69,7 +77,8 @@
     "translit": "(paradechetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 3858:  ",
-    "str2": "To receive, accept, acknowledge. From para and dechomai; to accept near, i.e. Admit or delight in."
+    "str2": "To receive, accept, acknowledge. From para and dechomai; to accept near, i.e. Admit or delight in.",
+    "num": 3858
   },
   {
     "word": "[as a] son.”",
@@ -77,6 +86,7 @@
     "translit": "(huion)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   }
 ]

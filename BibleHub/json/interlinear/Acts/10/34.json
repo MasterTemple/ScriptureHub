@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Peter",
@@ -13,7 +14,8 @@
     "translit": "(Petros)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4074:  ",
-    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle."
+    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle.",
+    "num": 4074
   },
   {
     "word": "began to speak:",
@@ -21,7 +23,8 @@
     "translit": "(Anoixas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 455:  ",
-    "str2": "To open. From ana and oigo; to open up."
+    "str2": "To open. From ana and oigo; to open up.",
+    "num": 455
   },
   {
     "word": "“I now truly understand",
@@ -29,7 +32,8 @@
     "translit": "(katalambanomai)",
     "parse": "Verb - Present Indicative Middle - 1st Person Singular",
     "str": "Strong's 2638:  ",
-    "str2": "From kata and lambano; to take eagerly, i.e. Seize, possess, etc."
+    "str2": "From kata and lambano; to take eagerly, i.e. Seize, possess, etc.",
+    "num": 2638
   },
   {
     "word": "that",
@@ -37,7 +41,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "God",
@@ -45,7 +50,8 @@
     "translit": "(Theos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "does",
@@ -53,7 +59,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "not",
@@ -61,7 +68,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "show favoritism,",
@@ -69,6 +77,7 @@
     "translit": "(prosōpolēmptēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4381:  ",
-    "str2": "One who shows partiality. From prosopon and lambano; an accepter of a face, i.e., one exhibiting partiality."
+    "str2": "One who shows partiality. From prosopon and lambano; an accepter of a face, i.e., one exhibiting partiality.",
+    "num": 4381
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(də·‘ū)",
     "parse": "Verb - Qal - Imperative - masculine plural",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "that",
@@ -13,7 +14,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "is God.",
@@ -29,7 +32,8 @@
     "translit": "(’ĕ·lō·hîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "[It is] He",
@@ -37,7 +41,8 @@
     "translit": "(hū-)",
     "parse": "Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "[who] made",
@@ -45,7 +50,8 @@
     "translit": "(‘ā·śā·nū)",
     "parse": "Verb - Qal - Perfect - third person masculine singular | first person common plural",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "us,",
@@ -53,7 +59,8 @@
     "translit": "(0)",
     "parse": "0",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "and we are His;",
@@ -61,7 +68,8 @@
     "translit": "(’ă·naḥ·nū)",
     "parse": "Pronoun - first person common plural",
     "str": "Strong's 587:  ",
-    "str2": "We"
+    "str2": "We",
+    "num": 587
   },
   {
     "word": "[we are] His people,",
@@ -69,7 +77,8 @@
     "translit": "(‘am·mōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "and the sheep",
@@ -77,7 +86,8 @@
     "translit": "(wə·ṣōn)",
     "parse": "Conjunctive waw | Noun - common singular construct",
     "str": "Strong's 6629:  ",
-    "str2": "Small cattle, sheep and goats, flock"
+    "str2": "Small cattle, sheep and goats, flock",
+    "num": 6629
   },
   {
     "word": "of His pasture.",
@@ -85,6 +95,7 @@
     "translit": "(mar·‘î·ṯōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 4830:  ",
-    "str2": "A pasturing, shepherding, pasturage"
+    "str2": "A pasturing, shepherding, pasturage",
+    "num": 4830
   }
 ]

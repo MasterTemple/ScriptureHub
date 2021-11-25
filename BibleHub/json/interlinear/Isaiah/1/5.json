@@ -5,7 +5,8 @@
     "translit": "(‘al)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "do you want more",
@@ -13,7 +14,8 @@
     "translit": "(‘ō·wḏ)",
     "parse": "Adverb",
     "str": "Strong's 5750:  ",
-    "str2": "Iteration, continuance, again, repeatedly, still, more"
+    "str2": "Iteration, continuance, again, repeatedly, still, more",
+    "num": 5750
   },
   {
     "word": "beatings?",
@@ -21,7 +23,8 @@
     "translit": "(ṯuk·kū)",
     "parse": "Verb - Hofal - Imperfect - second person masculine plural",
     "str": "Strong's 5221:  ",
-    "str2": "To strike"
+    "str2": "To strike",
+    "num": 5221
   },
   {
     "word": "Why do you keep",
@@ -29,7 +32,8 @@
     "translit": "(tō·w·sî·p̄ū)",
     "parse": "Verb - Hifil - Imperfect - second person masculine plural",
     "str": "Strong's 3254:  ",
-    "str2": "To add, augment"
+    "str2": "To add, augment",
+    "num": 3254
   },
   {
     "word": "rebelling?",
@@ -37,7 +41,8 @@
     "translit": "(sā·rāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 5627:  ",
-    "str2": "Turning aside, defection, apostasy, withdrawal"
+    "str2": "Turning aside, defection, apostasy, withdrawal",
+    "num": 5627
   },
   {
     "word": "Your head",
@@ -45,7 +50,8 @@
     "translit": "(rōš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7218:  ",
-    "str2": "The head"
+    "str2": "The head",
+    "num": 7218
   },
   {
     "word": "has a massive",
@@ -53,7 +59,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "wound,",
@@ -61,7 +68,8 @@
     "translit": "(lā·ḥo·lî)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 2483:  ",
-    "str2": "Malady, anxiety, calamity"
+    "str2": "Malady, anxiety, calamity",
+    "num": 2483
   },
   {
     "word": "and your whole",
@@ -69,7 +77,8 @@
     "translit": "(wə·ḵāl)",
     "parse": "Conjunctive waw | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "heart",
@@ -77,7 +86,8 @@
     "translit": "(lê·ḇāḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3824:  ",
-    "str2": "Inner man, mind, will, heart"
+    "str2": "Inner man, mind, will, heart",
+    "num": 3824
   },
   {
     "word": "is afflicted.",
@@ -85,6 +95,7 @@
     "translit": "(daw·wāy)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 1742:  ",
-    "str2": "Sick, troubled"
+    "str2": "Sick, troubled",
+    "num": 1742
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(andres)",
     "parse": "Noun - Vocative Masculine Plural",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "love",
@@ -13,7 +14,8 @@
     "translit": "(agapate)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 25:  ",
-    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love."
+    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love.",
+    "num": 25
   },
   {
     "word": "[your]",
@@ -21,7 +23,8 @@
     "translit": "(tas)",
     "parse": "Article - Accusative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "wives",
@@ -29,7 +32,8 @@
     "translit": "(gynaikas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 1135:  ",
-    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife."
+    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife.",
+    "num": 1135
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "{do} not",
@@ -45,7 +50,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "be harsh",
@@ -53,7 +59,8 @@
     "translit": "(pikrainesthe)",
     "parse": "Verb - Present Imperative Middle or Passive - 2nd Person Plural",
     "str": "Strong's 4087:  ",
-    "str2": "To make bitter, embitter; pass: I grow angry or harsh. From pikros; to embitter."
+    "str2": "To make bitter, embitter; pass: I grow angry or harsh. From pikros; to embitter.",
+    "num": 4087
   },
   {
     "word": "with",
@@ -61,7 +68,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "them.",
@@ -69,6 +77,7 @@
     "translit": "(autas)",
     "parse": "Personal / Possessive Pronoun - Accusative Feminine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

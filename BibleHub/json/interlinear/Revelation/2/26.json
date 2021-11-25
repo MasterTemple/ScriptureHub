@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "to the [one who]",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "is victorious",
@@ -21,7 +23,8 @@
     "translit": "(nikōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3528:  ",
-    "str2": "To conquer, be victorious, overcome, prevail, subdue. From nike; to subdue."
+    "str2": "To conquer, be victorious, overcome, prevail, subdue. From nike; to subdue.",
+    "num": 3528
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "continues",
@@ -37,7 +41,8 @@
     "translit": "(tērōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 5083:  ",
-    "str2": "From teros; to guard, i.e. To note; by implication, to detain; by extension, to withhold; by extension, to withhold."
+    "str2": "From teros; to guard, i.e. To note; by implication, to detain; by extension, to withhold; by extension, to withhold.",
+    "num": 5083
   },
   {
     "word": "{in} My",
@@ -45,7 +50,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "work",
@@ -53,7 +59,8 @@
     "translit": "(erga)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 2041:  ",
-    "str2": "From a primary ergo; toil; by implication, an act."
+    "str2": "From a primary ergo; toil; by implication, an act.",
+    "num": 2041
   },
   {
     "word": "until",
@@ -61,7 +68,8 @@
     "translit": "(achri)",
     "parse": "Preposition",
     "str": "Strong's 891:  ",
-    "str2": "As far as, up to, until, during. Or achris akh'-rece; akin to akron; until or up to."
+    "str2": "As far as, up to, until, during. Or achris akh'-rece; akin to akron; until or up to.",
+    "num": 891
   },
   {
     "word": "[the] end,",
@@ -69,7 +77,8 @@
     "translit": "(telous)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 5056:  ",
-    "str2": "(a) an end, (b) event or issue, (c) the principal end, aim, purpose, (d) a tax. "
+    "str2": "(a) an end, (b) event or issue, (c) the principal end, aim, purpose, (d) a tax. ",
+    "num": 5056
   },
   {
     "word": "I will give",
@@ -77,7 +86,8 @@
     "translit": "(dōsō)",
     "parse": "Verb - Future Indicative Active - 1st Person Singular",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "authority",
@@ -85,7 +95,8 @@
     "translit": "(exousian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1849:  ",
-    "str2": "From exesti; privilege, i.e. force, capacity, competency, freedom, or mastery, delegated influence."
+    "str2": "From exesti; privilege, i.e. force, capacity, competency, freedom, or mastery, delegated influence.",
+    "num": 1849
   },
   {
     "word": "over",
@@ -93,7 +104,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "nations.",
@@ -109,6 +122,7 @@
     "translit": "(ethnōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 1484:  ",
-    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one."
+    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one.",
+    "num": 1484
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ta)",
     "parse": "Article - Nominative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "nations",
@@ -21,7 +23,8 @@
     "translit": "(ethnē)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 1484:  ",
-    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one."
+    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one.",
+    "num": 1484
   },
   {
     "word": "of the",
@@ -29,7 +32,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "world",
@@ -37,7 +41,8 @@
     "translit": "(kosmou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2889:  ",
-    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally)."
+    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally).",
+    "num": 2889
   },
   {
     "word": "strive after",
@@ -45,7 +50,8 @@
     "translit": "(epizētousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 1934:  ",
-    "str2": "To seek after, desire, search for, make inquiries about. From epi and zeteo; to search for; intensively, to demand, to crave."
+    "str2": "To seek after, desire, search for, make inquiries about. From epi and zeteo; to search for; intensively, to demand, to crave.",
+    "num": 1934
   },
   {
     "word": "all",
@@ -53,7 +59,8 @@
     "translit": "(panta)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "these things,",
@@ -61,7 +68,8 @@
     "translit": "(tauta)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "your",
@@ -77,7 +86,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "Father",
@@ -85,7 +95,8 @@
     "translit": "(Patēr)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "knows",
@@ -93,7 +104,8 @@
     "translit": "(oiden)",
     "parse": "Verb - Perfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "that",
@@ -101,7 +113,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "you need",
@@ -109,7 +122,8 @@
     "translit": "(chrēzete)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 5535:  ",
-    "str2": "To need, have need of, want, desire. From chreia; to make necessity, i.e. Be in want of."
+    "str2": "To need, have need of, want, desire. From chreia; to make necessity, i.e. Be in want of.",
+    "num": 5535
   },
   {
     "word": "them.",
@@ -117,6 +131,7 @@
     "translit": "(toutōn)",
     "parse": "Demonstrative Pronoun - Genitive Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   }
 ]

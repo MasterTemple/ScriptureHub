@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Pharisees",
@@ -21,7 +23,8 @@
     "translit": "(Pharisaioi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 5330:  ",
-    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary."
+    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary.",
+    "num": 5330
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "experts in the law",
@@ -37,7 +41,8 @@
     "translit": "(nomikoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3544:  ",
-    "str2": "From nomos; according to law, i.e. Legal; as noun, an expert in the law."
+    "str2": "From nomos; according to law, i.e. Legal; as noun, an expert in the law.",
+    "num": 3544
   },
   {
     "word": "rejected",
@@ -45,7 +50,8 @@
     "translit": "(ēthetēsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 114:  ",
-    "str2": "From a compound of a and a derivative of tithemi; to set aside, i.e. to disesteem, neutralize or violate."
+    "str2": "From a compound of a and a derivative of tithemi; to set aside, i.e. to disesteem, neutralize or violate.",
+    "num": 114
   },
   {
     "word": "God’s",
@@ -53,7 +59,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "purpose",
@@ -61,7 +68,8 @@
     "translit": "(boulēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1012:  ",
-    "str2": "Counsel, deliberate wisdom, decree. From boulomai; volition, i.e. advice, or purpose."
+    "str2": "Counsel, deliberate wisdom, decree. From boulomai; volition, i.e. advice, or purpose.",
+    "num": 1012
   },
   {
     "word": "for",
@@ -69,7 +77,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "themselves,",
@@ -77,7 +86,8 @@
     "translit": "(heautous)",
     "parse": "Reflexive Pronoun - Accusative Masculine 3rd Person Plural",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   },
   {
     "word": "[because] {they had} not",
@@ -85,7 +95,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "been baptized",
@@ -93,7 +104,8 @@
     "translit": "(baptisthentes)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Plural",
     "str": "Strong's 907:  ",
-    "str2": "Lit: I dip, submerge, but specifically of ceremonial dipping; I baptize. "
+    "str2": "Lit: I dip, submerge, but specifically of ceremonial dipping; I baptize. ",
+    "num": 907
   },
   {
     "word": "by",
@@ -101,7 +113,8 @@
     "translit": "(hyp’)",
     "parse": "Preposition",
     "str": "Strong's 5259:  ",
-    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when)."
+    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when).",
+    "num": 5259
   },
   {
     "word": "[John].",
@@ -109,6 +122,7 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

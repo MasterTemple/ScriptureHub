@@ -5,7 +5,8 @@
     "translit": "(kiḏ·nāh)",
     "parse": "Preposition-k | Pronoun - masculine singular",
     "str": "Strong's 1836:  ",
-    "str2": "This"
+    "str2": "This",
+    "num": 1836
   },
   {
     "word": "you are to tell",
@@ -13,7 +14,8 @@
     "translit": "(tê·mə·rūn)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 560:  ",
-    "str2": "To say, tell, command"
+    "str2": "To say, tell, command",
+    "num": 560
   },
   {
     "word": "them:",
@@ -21,7 +23,8 @@
     "translit": "(lə·hō·wm)",
     "parse": "Preposition | third person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "“The gods",
@@ -29,7 +32,8 @@
     "translit": "(’ĕ·lā·hay·yā)",
     "parse": "Noun - masculine plural determinate",
     "str": "Strong's 426:  ",
-    "str2": "God"
+    "str2": "God",
+    "num": 426
   },
   {
     "word": "that",
@@ -37,7 +41,8 @@
     "translit": "(dî-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 1768:  ",
-    "str2": "Who, which, that, because"
+    "str2": "Who, which, that, because",
+    "num": 1768
   },
   {
     "word": "did not",
@@ -45,7 +50,8 @@
     "translit": "(lā)",
     "parse": "Adverb",
     "str": "Strong's 3809:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3809
   },
   {
     "word": "make",
@@ -53,7 +59,8 @@
     "translit": "(‘ă·ḇa·ḏū)",
     "parse": "Verb - Qal - Perfect - third person masculine plural",
     "str": "Strong's 5648:  ",
-    "str2": "To do, make, prepare, keep"
+    "str2": "To do, make, prepare, keep",
+    "num": 5648
   },
   {
     "word": "heaven",
@@ -61,7 +68,8 @@
     "translit": "(šə·may·yā)",
     "parse": "Noun - masculine plural determinate",
     "str": "Strong's 8065:  ",
-    "str2": "The sky"
+    "str2": "The sky",
+    "num": 8065
   },
   {
     "word": "[or] earth",
@@ -69,7 +77,8 @@
     "translit": "(wə·’ar·qā)",
     "parse": "Conjunctive waw | Noun - feminine singular determinate",
     "str": "Strong's 778:  ",
-    "str2": "The earth"
+    "str2": "The earth",
+    "num": 778
   },
   {
     "word": "will perish",
@@ -77,7 +86,8 @@
     "translit": "(yê·ḇa·ḏū)",
     "parse": "Verb - Qal - Imperfect Jussive - third person masculine plural",
     "str": "Strong's 7:  ",
-    "str2": "To wander away, lose oneself, to perish"
+    "str2": "To wander away, lose oneself, to perish",
+    "num": 7
   },
   {
     "word": "from this earth",
@@ -85,7 +95,8 @@
     "translit": "(mê·’ar·‘ā)",
     "parse": "Preposition-m | Noun - feminine singular determinate",
     "str": "Strong's 772:  ",
-    "str2": "The earth, low"
+    "str2": "The earth, low",
+    "num": 772
   },
   {
     "word": "and from",
@@ -93,7 +104,8 @@
     "translit": "(ū·min-)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 4481:  ",
-    "str2": "From, out of, by, by reason of, at, more than"
+    "str2": "From, out of, by, by reason of, at, more than",
+    "num": 4481
   },
   {
     "word": "under",
@@ -101,7 +113,8 @@
     "translit": "(tə·ḥō·wṯ)",
     "parse": "Preposition",
     "str": "Strong's 8460:  ",
-    "str2": "Beneath"
+    "str2": "Beneath",
+    "num": 8460
   },
   {
     "word": "these",
@@ -109,7 +122,8 @@
     "translit": "(’êl·leh)",
     "parse": "Pronoun - third person common plural",
     "str": "Strong's 429:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 429
   },
   {
     "word": "heavens.”",
@@ -117,6 +131,7 @@
     "translit": "(šə·may·yā)",
     "parse": "Noun - masculine plural determinate",
     "str": "Strong's 8065:  ",
-    "str2": "The sky"
+    "str2": "The sky",
+    "num": 8065
   }
 ]

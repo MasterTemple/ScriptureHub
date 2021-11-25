@@ -5,7 +5,8 @@
     "translit": "(Kyrie)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "official",
@@ -21,7 +23,8 @@
     "translit": "(basilikos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 937:  ",
-    "str2": "From basileus; regal, i.e. belonging to the sovereign, or preeminent."
+    "str2": "From basileus; regal, i.e. belonging to the sovereign, or preeminent.",
+    "num": 937
   },
   {
     "word": "said,",
@@ -29,7 +32,8 @@
     "translit": "(Legei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“come down",
@@ -37,7 +41,8 @@
     "translit": "(katabēthi)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 2597:  ",
-    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend."
+    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend.",
+    "num": 2597
   },
   {
     "word": "before",
@@ -45,7 +50,8 @@
     "translit": "(prin)",
     "parse": "Adverb",
     "str": "Strong's 4250:  ",
-    "str2": "Formerly, before. Adverb from pro; prior, sooner."
+    "str2": "Formerly, before. Adverb from pro; prior, sooner.",
+    "num": 4250
   },
   {
     "word": "my",
@@ -53,7 +59,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "child",
@@ -61,7 +68,8 @@
     "translit": "(paidion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3813:  ",
-    "str2": "Neuter diminutive of pais; a childling, i.e., an infant, or a half-grown boy or girl; figuratively, an immature Christian."
+    "str2": "Neuter diminutive of pais; a childling, i.e., an infant, or a half-grown boy or girl; figuratively, an immature Christian.",
+    "num": 3813
   },
   {
     "word": "dies.”",
@@ -69,6 +77,7 @@
     "translit": "(apothanein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 599:  ",
-    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off."
+    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off.",
+    "num": 599
   }
 ]

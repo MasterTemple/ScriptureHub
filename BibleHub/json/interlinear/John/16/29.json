@@ -5,7 +5,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "disciples",
@@ -13,7 +14,8 @@
     "translit": "(mathētai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   },
   {
     "word": "said,",
@@ -21,7 +23,8 @@
     "translit": "(Legousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“See,",
@@ -29,7 +32,8 @@
     "translit": "(Ide)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 2400:  ",
-    "str2": "See! Lo! Behold! Look! Second person singular imperative middle voice of eido; used as imperative lo!"
+    "str2": "See! Lo! Behold! Look! Second person singular imperative middle voice of eido; used as imperative lo!",
+    "num": 2400
   },
   {
     "word": "now",
@@ -37,7 +41,8 @@
     "translit": "(nyn)",
     "parse": "Adverb",
     "str": "Strong's 3568:  ",
-    "str2": "A primary particle of present time; 'now'; also as noun or adjective present or immediate."
+    "str2": "A primary particle of present time; 'now'; also as noun or adjective present or immediate.",
+    "num": 3568
   },
   {
     "word": "You are speaking",
@@ -45,7 +50,8 @@
     "translit": "(laleis)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "plainly",
@@ -53,7 +59,8 @@
     "translit": "(parrēsia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3954:  ",
-    "str2": "From pas and a derivative of rheo; all out-spokenness, i.e. Frankness, bluntness, publicity; by implication, assurance."
+    "str2": "From pas and a derivative of rheo; all out-spokenness, i.e. Frankness, bluntness, publicity; by implication, assurance.",
+    "num": 3954
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "without",
@@ -69,7 +77,8 @@
     "translit": "(oudemian)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 3762:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3762
   },
   {
     "word": "figures of speech.",
@@ -77,6 +86,7 @@
     "translit": "(paroimian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3942:  ",
-    "str2": "A cryptic saying, an allegory; a proverb, figurative discourse. "
+    "str2": "A cryptic saying, an allegory; a proverb, figurative discourse. ",
+    "num": 3942
   }
 ]

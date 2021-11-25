@@ -5,7 +5,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "conquered",
@@ -21,7 +23,8 @@
     "translit": "(hik·kāh)",
     "parse": "Verb - Hifil - Perfect - third person masculine singular",
     "str": "Strong's 5221:  ",
-    "str2": "To strike"
+    "str2": "To strike",
+    "num": 5221
   },
   {
     "word": "before",
@@ -29,7 +32,8 @@
     "translit": "(lip̄·nê)",
     "parse": "Preposition-l | Noun - common plural construct",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "the congregation",
@@ -37,7 +41,8 @@
     "translit": "(‘ă·ḏaṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 5712:  ",
-    "str2": "A stated assemblage"
+    "str2": "A stated assemblage",
+    "num": 5712
   },
   {
     "word": "of Israel,",
@@ -45,7 +50,8 @@
     "translit": "(yiś·rā·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3478:  ",
-    "str2": "Israel -- 'God strives', another name of Jacob and his desc"
+    "str2": "Israel -- 'God strives', another name of Jacob and his desc",
+    "num": 3478
   },
   {
     "word": "are suitable",
@@ -53,7 +59,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "for livestock—",
@@ -61,7 +68,8 @@
     "translit": "(miq·neh)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4735:  ",
-    "str2": "Something bought, property, livestock, acquisition"
+    "str2": "Something bought, property, livestock, acquisition",
+    "num": 4735
   },
   {
     "word": "and your servants",
@@ -69,7 +77,8 @@
     "translit": "(wə·la·‘ă·ḇā·ḏe·ḵā)",
     "parse": "Conjunctive waw, Preposition-l | Noun - masculine plural construct | second person masculine singular",
     "str": "Strong's 5650:  ",
-    "str2": "Slave, servant"
+    "str2": "Slave, servant",
+    "num": 5650
   },
   {
     "word": "have livestock.”",
@@ -77,6 +86,7 @@
     "translit": "(miq·neh)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4735:  ",
-    "str2": "Something bought, property, livestock, acquisition"
+    "str2": "Something bought, property, livestock, acquisition",
+    "num": 4735
   }
 ]

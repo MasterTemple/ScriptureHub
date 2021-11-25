@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I sinned,",
@@ -13,7 +14,8 @@
     "translit": "(ḥā·ṭā·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 2398:  ",
-    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn"
+    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn",
+    "num": 2398
   },
   {
     "word": "You would take note,",
@@ -21,7 +23,8 @@
     "translit": "(ū·šə·mar·tā·nî)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - second person masculine singular | first person common singular",
     "str": "Strong's 8104:  ",
-    "str2": "To hedge about, guard, to protect, attend to"
+    "str2": "To hedge about, guard, to protect, attend to",
+    "num": 8104
   },
   {
     "word": "and would not",
@@ -29,7 +32,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "acquit me",
@@ -37,7 +41,8 @@
     "translit": "(ṯə·naq·qê·nî)",
     "parse": "Verb - Piel - Imperfect - second person masculine singular | first person common singular",
     "str": "Strong's 5352:  ",
-    "str2": "To be, clean, to be bare, extirpated"
+    "str2": "To be, clean, to be bare, extirpated",
+    "num": 5352
   },
   {
     "word": "of my iniquity.",
@@ -45,6 +50,7 @@
     "translit": "(ū·mê·‘ă·wō·nî)",
     "parse": "Conjunctive waw, Preposition-m | Noun - common singular construct | first person common singular",
     "str": "Strong's 5771:  ",
-    "str2": "Iniquity, guilt, punishment for iniquity"
+    "str2": "Iniquity, guilt, punishment for iniquity",
+    "num": 5771
   }
 ]

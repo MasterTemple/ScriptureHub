@@ -5,7 +5,8 @@
     "translit": "(bê·ḏa·yin)",
     "parse": "Preposition-b | Adverb",
     "str": "Strong's 116:  ",
-    "str2": "Then, thereupon"
+    "str2": "Then, thereupon",
+    "num": 116
   },
   {
     "word": "the king",
@@ -13,7 +14,8 @@
     "translit": "(mal·kā)",
     "parse": "Noun - masculine singular determinate",
     "str": "Strong's 4430:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4430
   },
   {
     "word": "promoted",
@@ -21,7 +23,8 @@
     "translit": "(haṣ·laḥ)",
     "parse": "Verb - Hifil - Perfect - third person masculine singular",
     "str": "Strong's 6744:  ",
-    "str2": "To advance"
+    "str2": "To advance",
+    "num": 6744
   },
   {
     "word": "Shadrach,",
@@ -29,7 +32,8 @@
     "translit": "(lə·šaḏ·raḵ)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 7715:  ",
-    "str2": "Shadrach -- Babylonian name of one of Daniel's companions"
+    "str2": "Shadrach -- Babylonian name of one of Daniel's companions",
+    "num": 7715
   },
   {
     "word": "Meshach,",
@@ -37,7 +41,8 @@
     "translit": "(mê·šaḵ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 4336:  ",
-    "str2": "Meshach -- a Babylonian name"
+    "str2": "Meshach -- a Babylonian name",
+    "num": 4336
   },
   {
     "word": "and Abednego",
@@ -45,7 +50,8 @@
     "translit": "(nə·ḡōw)",
     "parse": "Conjunctive waw | Noun - proper - masculine singular",
     "str": "Strong's 5665:  ",
-    "str2": "Abed-nego -- 'servant of Nebo', Babylonian name of one of Daniel's companions"
+    "str2": "Abed-nego -- 'servant of Nebo', Babylonian name of one of Daniel's companions",
+    "num": 5665
   },
   {
     "word": "in the province",
@@ -53,7 +59,8 @@
     "translit": "(bim·ḏî·naṯ)",
     "parse": "Preposition-b | Noun - feminine singular construct",
     "str": "Strong's 4083:  ",
-    "str2": "A judgeship, jurisdiction, a district, a region"
+    "str2": "A judgeship, jurisdiction, a district, a region",
+    "num": 4083
   },
   {
     "word": "of Babylon.",
@@ -61,6 +68,7 @@
     "translit": "(bā·ḇel)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 895:  ",
-    "str2": "Babylon -- an eastern Mediterranean empire and its capital city"
+    "str2": "Babylon -- an eastern Mediterranean empire and its capital city",
+    "num": 895
   }
 ]

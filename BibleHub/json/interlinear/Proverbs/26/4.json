@@ -5,7 +5,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "answer",
@@ -13,7 +14,8 @@
     "translit": "(ta·‘an)",
     "parse": "Verb - Qal - Imperfect Jussive - second person masculine singular",
     "str": "Strong's 6030:  ",
-    "str2": "To answer, respond"
+    "str2": "To answer, respond",
+    "num": 6030
   },
   {
     "word": "a fool",
@@ -21,7 +23,8 @@
     "translit": "(kə·sîl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3684:  ",
-    "str2": "Stupid fellow, dullard, fool"
+    "str2": "Stupid fellow, dullard, fool",
+    "num": 3684
   },
   {
     "word": "according to his folly,",
@@ -29,7 +32,8 @@
     "translit": "(kə·’iw·wal·tōw)",
     "parse": "Preposition-k | Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 200:  ",
-    "str2": "Silliness"
+    "str2": "Silliness",
+    "num": 200
   },
   {
     "word": "or",
@@ -37,7 +41,8 @@
     "translit": "(pen-)",
     "parse": "Conjunction",
     "str": "Strong's 6435:  ",
-    "str2": "Removal, lest"
+    "str2": "Removal, lest",
+    "num": 6435
   },
   {
     "word": "you yourself",
@@ -45,7 +50,8 @@
     "translit": "(’āt·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "will be like him.",
@@ -53,6 +59,7 @@
     "translit": "(tiš·weh-)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 7737:  ",
-    "str2": "To level, equalize, to resemble, to adjust"
+    "str2": "To level, equalize, to resemble, to adjust",
+    "num": 7737
   }
 ]

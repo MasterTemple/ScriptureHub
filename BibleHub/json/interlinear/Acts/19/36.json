@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "these things",
@@ -13,7 +14,8 @@
     "translit": "(toutōn)",
     "parse": "Demonstrative Pronoun - Genitive Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "are",
@@ -21,7 +23,8 @@
     "translit": "(ontōn)",
     "parse": "Verb - Present Participle Active - Genitive Neuter Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "undeniable,",
@@ -29,7 +32,8 @@
     "translit": "(anantirrētōn)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 368:  ",
-    "str2": "Indisputable, undeniable, not to be contradicted. Indisputable."
+    "str2": "Indisputable, undeniable, not to be contradicted. Indisputable.",
+    "num": 368
   },
   {
     "word": "you",
@@ -37,7 +41,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "ought",
@@ -45,7 +50,8 @@
     "translit": "(deon)",
     "parse": "Verb - Present Participle Active - Nominative Neuter Singular",
     "str": "Strong's 1163:  ",
-    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary."
+    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary.",
+    "num": 1163
   },
   {
     "word": "to be",
@@ -53,7 +59,8 @@
     "translit": "(hyparchein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 5225:  ",
-    "str2": "To begin, am, exist, be in possession. From hupo and archomai; to begin under, i.e. Come into existence; expletively, to exist (verb)."
+    "str2": "To begin, am, exist, be in possession. From hupo and archomai; to begin under, i.e. Come into existence; expletively, to exist (verb).",
+    "num": 5225
   },
   {
     "word": "calm",
@@ -61,7 +68,8 @@
     "translit": "(katestalmenous)",
     "parse": "Verb - Perfect Participle Middle or Passive - Accusative Masculine Plural",
     "str": "Strong's 2687:  ",
-    "str2": "To let down, lower; I keep down, restrain, pacify. From kata and stello; to put down, i.e. Quell."
+    "str2": "To let down, lower; I keep down, restrain, pacify. From kata and stello; to put down, i.e. Quell.",
+    "num": 2687
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "not do anything",
@@ -77,7 +86,8 @@
     "translit": "(prassein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 4238:  ",
-    "str2": "To do, perform, accomplish; be in any condition, i.e. I fare; I exact, require. "
+    "str2": "To do, perform, accomplish; be in any condition, i.e. I fare; I exact, require. ",
+    "num": 4238
   },
   {
     "word": "rash.",
@@ -85,6 +95,7 @@
     "translit": "(propetes)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 4312:  ",
-    "str2": "Impulsive, rash, reckless. From a compound of pro and pipto; falling forward, i.e. Headlong."
+    "str2": "Impulsive, rash, reckless. From a compound of pro and pipto; falling forward, i.e. Headlong.",
+    "num": 4312
   }
 ]

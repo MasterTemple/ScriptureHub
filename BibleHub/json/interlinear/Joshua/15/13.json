@@ -5,7 +5,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "to the LORD’s",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "command",
@@ -21,7 +23,8 @@
     "translit": "(pî)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 6310:  ",
-    "str2": "The mouth, edge, portion, side, according to"
+    "str2": "The mouth, edge, portion, side, according to",
+    "num": 6310
   },
   {
     "word": "to [him],",
@@ -29,7 +32,8 @@
     "translit": "(lî·hō·wō·šu·a‘)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3091:  ",
-    "str2": "Joshua -- 'the LORD is salvation', Moses' successor, also the name of a number of Israelites"
+    "str2": "Joshua -- 'the LORD is salvation', Moses' successor, also the name of a number of Israelites",
+    "num": 3091
   },
   {
     "word": "[Joshua] gave",
@@ -37,7 +41,8 @@
     "translit": "(nā·ṯan)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "Caleb",
@@ -45,7 +50,8 @@
     "translit": "(ū·lə·ḵā·lêḇ)",
     "parse": "Conjunctive waw, Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3612:  ",
-    "str2": "Caleb -- a son of Jephunneh and sent by Moses to spy out the land"
+    "str2": "Caleb -- a son of Jephunneh and sent by Moses to spy out the land",
+    "num": 3612
   },
   {
     "word": "son",
@@ -53,7 +59,8 @@
     "translit": "(ben-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of Jephunneh",
@@ -61,7 +68,8 @@
     "translit": "(yə·p̄un·neh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3312:  ",
-    "str2": "Jephunneh -- father of Caleb, also an Asherite"
+    "str2": "Jephunneh -- father of Caleb, also an Asherite",
+    "num": 3312
   },
   {
     "word": "a portion",
@@ -69,7 +77,8 @@
     "translit": "(ḥê·leq)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2506:  ",
-    "str2": "Portion, tract, territory"
+    "str2": "Portion, tract, territory",
+    "num": 2506
   },
   {
     "word": "among",
@@ -77,7 +86,8 @@
     "translit": "(bə·ṯō·wḵ)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 8432:  ",
-    "str2": "A bisection, the centre"
+    "str2": "A bisection, the centre",
+    "num": 8432
   },
   {
     "word": "the sons",
@@ -85,7 +95,8 @@
     "translit": "(bə·nê-)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of Judah—",
@@ -93,7 +104,8 @@
     "translit": "(yə·hū·ḏāh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3063:  ",
-    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites"
+    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites",
+    "num": 3063
   },
   {
     "word": "Kiriath-arba,",
@@ -101,7 +113,8 @@
     "translit": "(’ar·ba‘)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 7153:  ",
-    "str2": "Kiriath-arba -- 'city of the four', an older name of Hebron"
+    "str2": "Kiriath-arba -- 'city of the four', an older name of Hebron",
+    "num": 7153
   },
   {
     "word": "that [is],",
@@ -109,7 +122,8 @@
     "translit": "(hî)",
     "parse": "Pronoun - third person feminine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "Hebron.",
@@ -117,7 +131,8 @@
     "translit": "(ḥeḇ·rō·wn)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 2275:  ",
-    "str2": "Hebron -- 'association, league', a city in southern Judah"
+    "str2": "Hebron -- 'association, league', a city in southern Judah",
+    "num": 2275
   },
   {
     "word": "(Arba was the forefather",
@@ -125,7 +140,8 @@
     "translit": "(’ă·ḇî)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "of Anak.)",
@@ -133,6 +149,7 @@
     "translit": "(hā·‘ă·nāq)",
     "parse": "Article | Noun - proper - masculine singular",
     "str": "Strong's 6061:  ",
-    "str2": "Anak -- 'neck', a Canaanite"
+    "str2": "Anak -- 'neck', a Canaanite",
+    "num": 6061
   }
 ]

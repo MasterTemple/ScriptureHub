@@ -5,7 +5,8 @@
     "translit": "(mî)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "knows?",
@@ -13,7 +14,8 @@
     "translit": "(yō·w·ḏê·a‘)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "He may turn",
@@ -21,7 +23,8 @@
     "translit": "(yā·šūḇ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "and relent",
@@ -29,7 +32,8 @@
     "translit": "(wə·ni·ḥām)",
     "parse": "Conjunctive waw | Verb - Nifal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 5162:  ",
-    "str2": "To sigh, breathe strongly, to be sorry, to pity, console, rue, to avenge"
+    "str2": "To sigh, breathe strongly, to be sorry, to pity, console, rue, to avenge",
+    "num": 5162
   },
   {
     "word": "and leave",
@@ -37,7 +41,8 @@
     "translit": "(wə·hiš·’îr)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 7604:  ",
-    "str2": "To swell up, be, redundant"
+    "str2": "To swell up, be, redundant",
+    "num": 7604
   },
   {
     "word": "a blessing",
@@ -45,7 +50,8 @@
     "translit": "(bə·rā·ḵāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 1293:  ",
-    "str2": "Benediction, prosperity"
+    "str2": "Benediction, prosperity",
+    "num": 1293
   },
   {
     "word": "behind Him—",
@@ -53,7 +59,8 @@
     "translit": "(’a·ḥă·rāw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's 310:  ",
-    "str2": "The hind or following part"
+    "str2": "The hind or following part",
+    "num": 310
   },
   {
     "word": "grain",
@@ -61,7 +68,8 @@
     "translit": "(min·ḥāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 4503:  ",
-    "str2": "A donation, tribute, a sacrificial offering"
+    "str2": "A donation, tribute, a sacrificial offering",
+    "num": 4503
   },
   {
     "word": "and drink offerings",
@@ -69,7 +77,8 @@
     "translit": "(wā·ne·seḵ)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 5262:  ",
-    "str2": "A libation, a cast idol"
+    "str2": "A libation, a cast idol",
+    "num": 5262
   },
   {
     "word": "to the LORD",
@@ -77,7 +86,8 @@
     "translit": "(Yah·weh)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "your God.",
@@ -85,6 +95,7 @@
     "translit": "(’ĕ·lō·hê·ḵem)",
     "parse": "Noun - masculine plural construct | second person masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   }
 ]

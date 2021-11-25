@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "I trust",
@@ -13,7 +14,8 @@
     "translit": "(pepoitha)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Singular",
     "str": "Strong's 3982:  ",
-    "str2": "A primary verb; to convince; by analogy, to pacify or conciliate; reflexively or passively, to assent, to rely."
+    "str2": "A primary verb; to convince; by analogy, to pacify or conciliate; reflexively or passively, to assent, to rely.",
+    "num": 3982
   },
   {
     "word": "in",
@@ -21,7 +23,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[the] Lord",
@@ -29,7 +32,8 @@
     "translit": "(Kyriō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "that",
@@ -37,7 +41,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "I myself",
@@ -45,7 +50,8 @@
     "translit": "(autos)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "will come",
@@ -53,7 +59,8 @@
     "translit": "(eleusomai)",
     "parse": "Verb - Future Indicative Middle - 1st Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "soon.",
@@ -61,6 +68,7 @@
     "translit": "(tacheōs)",
     "parse": "Adverb",
     "str": "Strong's 5030:  ",
-    "str2": "Soon, quickly, hastily. Adverb from tachus; briefly, i.e. speedily, or rapidly."
+    "str2": "Soon, quickly, hastily. Adverb from tachus; briefly, i.e. speedily, or rapidly.",
+    "num": 5030
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(sy)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "want",
@@ -13,7 +14,8 @@
     "translit": "(theleis)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "to kill me",
@@ -21,7 +23,8 @@
     "translit": "(anelein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 337:  ",
-    "str2": "From ana and haireomai; to take up, i.e. Adopt; by implication, to take away, i.e. Abolish, murder."
+    "str2": "From ana and haireomai; to take up, i.e. Adopt; by implication, to take away, i.e. Abolish, murder.",
+    "num": 337
   },
   {
     "word": "as",
@@ -29,7 +32,8 @@
     "translit": "(hon)",
     "parse": "Personal / Relative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "you killed",
@@ -37,7 +41,8 @@
     "translit": "(aneiles)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Singular",
     "str": "Strong's 337:  ",
-    "str2": "From ana and haireomai; to take up, i.e. Adopt; by implication, to take away, i.e. Abolish, murder."
+    "str2": "From ana and haireomai; to take up, i.e. Adopt; by implication, to take away, i.e. Abolish, murder.",
+    "num": 337
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Egyptian",
@@ -53,7 +59,8 @@
     "translit": "(Aigyption)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 124:  ",
-    "str2": "Egyptian. From Aiguptos; an Eyyptian or inhabitant of Egyptus."
+    "str2": "Egyptian. From Aiguptos; an Eyyptian or inhabitant of Egyptus.",
+    "num": 124
   },
   {
     "word": "yesterday?’",
@@ -61,6 +68,7 @@
     "translit": "(echthes)",
     "parse": "Adverb",
     "str": "Strong's 5504:  ",
-    "str2": "Yesterday. Of uncertain derivation; 'yesterday'; by extension, in time past or hitherto."
+    "str2": "Yesterday. Of uncertain derivation; 'yesterday'; by extension, in time past or hitherto.",
+    "num": 5504
   }
 ]

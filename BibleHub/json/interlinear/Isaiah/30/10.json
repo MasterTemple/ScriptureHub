@@ -5,7 +5,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "say",
@@ -13,7 +14,8 @@
     "translit": "(’ā·mə·rū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "to the seers,",
@@ -21,7 +23,8 @@
     "translit": "(ṯir·’ū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "“No more",
@@ -29,7 +32,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "visions,”",
@@ -37,7 +41,8 @@
     "translit": "(lā·rō·’îm)",
     "parse": "Preposition-l, Article | Noun - masculine plural",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "and to the prophets,",
@@ -45,7 +50,8 @@
     "translit": "(wə·la·ḥō·zîm)",
     "parse": "Conjunctive waw, Preposition-l, Article | Noun - masculine plural",
     "str": "Strong's 2374:  ",
-    "str2": "A beholder in vision, a compact"
+    "str2": "A beholder in vision, a compact",
+    "num": 2374
   },
   {
     "word": "“Do not",
@@ -53,7 +59,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "prophesy",
@@ -61,7 +68,8 @@
     "translit": "(ṯe·ḥĕ·zū-)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 2372:  ",
-    "str2": "To gaze at, to perceive, contemplate, to have a, vision of"
+    "str2": "To gaze at, to perceive, contemplate, to have a, vision of",
+    "num": 2372
   },
   {
     "word": "to us",
@@ -69,7 +77,8 @@
     "translit": "(lā·nū)",
     "parse": "Preposition | first person common plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "the truth.",
@@ -77,7 +86,8 @@
     "translit": "(nə·ḵō·ḥō·wṯ)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 5229:  ",
-    "str2": "Straightforwardness, integrity, a truth"
+    "str2": "Straightforwardness, integrity, a truth",
+    "num": 5229
   },
   {
     "word": "Speak",
@@ -85,7 +95,8 @@
     "translit": "(dab·bə·rū-)",
     "parse": "Verb - Piel - Imperative - masculine plural",
     "str": "Strong's 1696:  ",
-    "str2": "To arrange, to speak, to subdue"
+    "str2": "To arrange, to speak, to subdue",
+    "num": 1696
   },
   {
     "word": "to us",
@@ -93,7 +104,8 @@
     "translit": "(lā·nū)",
     "parse": "Preposition | first person common plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "pleasant words;",
@@ -101,7 +113,8 @@
     "translit": "(ḥă·lā·qō·wṯ)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 2513:  ",
-    "str2": "Smoothness, flattery, an allotment"
+    "str2": "Smoothness, flattery, an allotment",
+    "num": 2513
   },
   {
     "word": "prophesy",
@@ -109,7 +122,8 @@
     "translit": "(ma·hă·ṯal·lō·wṯ)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 2372:  ",
-    "str2": "To gaze at, to perceive, contemplate, to have a, vision of"
+    "str2": "To gaze at, to perceive, contemplate, to have a, vision of",
+    "num": 2372
   },
   {
     "word": "illusions.",
@@ -117,6 +131,7 @@
     "translit": "(ḥă·zū)",
     "parse": "Verb - Qal - Imperative - masculine plural",
     "str": "Strong's 4123:  ",
-    "str2": "A delusion"
+    "str2": "A delusion",
+    "num": 4123
   }
 ]

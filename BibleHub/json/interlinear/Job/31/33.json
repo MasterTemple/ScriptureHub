@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I have covered",
@@ -13,7 +14,8 @@
     "translit": "(kis·sî·ṯî)",
     "parse": "Verb - Piel - Perfect - first person common singular",
     "str": "Strong's 3680:  ",
-    "str2": "To plump, fill up hollows, to cover"
+    "str2": "To plump, fill up hollows, to cover",
+    "num": 3680
   },
   {
     "word": "my transgressions",
@@ -21,7 +23,8 @@
     "translit": "(pə·šā·‘āy)",
     "parse": "Noun - masculine plural construct | first person common singular",
     "str": "Strong's 6588:  ",
-    "str2": "Transgression"
+    "str2": "Transgression",
+    "num": 6588
   },
   {
     "word": "like Adam",
@@ -29,7 +32,8 @@
     "translit": "(ḵə·’ā·ḏām)",
     "parse": "Preposition-k | Noun - masculine singular",
     "str": "Strong's 121:  ",
-    "str2": "Adam -- the first man, also a city in the Jordan Valley"
+    "str2": "Adam -- the first man, also a city in the Jordan Valley",
+    "num": 121
   },
   {
     "word": "by hiding",
@@ -37,7 +41,8 @@
     "translit": "(liṭ·mō·wn)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 2934:  ",
-    "str2": "To hide, conceal"
+    "str2": "To hide, conceal",
+    "num": 2934
   },
   {
     "word": "my guilt",
@@ -45,7 +50,8 @@
     "translit": "(‘ă·wō·nî)",
     "parse": "Noun - common singular construct | first person common singular",
     "str": "Strong's 5771:  ",
-    "str2": "Iniquity, guilt, punishment for iniquity"
+    "str2": "Iniquity, guilt, punishment for iniquity",
+    "num": 5771
   },
   {
     "word": "in my heart,",
@@ -53,6 +59,7 @@
     "translit": "(bə·ḥub·bî)",
     "parse": "Preposition-b | Noun - masculine singular construct | first person common singular",
     "str": "Strong's 2243:  ",
-    "str2": "A cherisher, the bosom"
+    "str2": "A cherisher, the bosom",
+    "num": 2243
   }
 ]

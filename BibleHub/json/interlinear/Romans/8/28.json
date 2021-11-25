@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "we know",
@@ -13,7 +14,8 @@
     "translit": "(Oidamen)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Plural",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "that",
@@ -21,7 +23,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "God",
@@ -29,7 +32,8 @@
     "translit": "(theos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "works all things together",
@@ -37,7 +41,8 @@
     "translit": "(synergei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 4903:  ",
-    "str2": "To cooperate with, work together. From sunergos; to be a fellow-worker, i.e. Co-operate."
+    "str2": "To cooperate with, work together. From sunergos; to be a fellow-worker, i.e. Co-operate.",
+    "num": 4903
   },
   {
     "word": "for",
@@ -45,7 +50,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "[the] good",
@@ -53,7 +59,8 @@
     "translit": "(agathon)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 18:  ",
-    "str2": "A primary word; 'good'."
+    "str2": "A primary word; 'good'.",
+    "num": 18
   },
   {
     "word": "of those who",
@@ -61,7 +68,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "love",
@@ -69,7 +77,8 @@
     "translit": "(agapōsin)",
     "parse": "Verb - Present Participle Active - Dative Masculine Plural",
     "str": "Strong's 25:  ",
-    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love."
+    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love.",
+    "num": 25
   },
   {
     "word": "[Him],",
@@ -77,7 +86,8 @@
     "translit": "(Theon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "who",
@@ -85,7 +95,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "are",
@@ -93,7 +104,8 @@
     "translit": "(ousin)",
     "parse": "Verb - Present Participle Active - Dative Masculine Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "called",
@@ -101,7 +113,8 @@
     "translit": "(klētois)",
     "parse": "Adjective - Dative Masculine Plural",
     "str": "Strong's 2822:  ",
-    "str2": "From the same as klesis; invited, i.e. Appointed, or, a saint."
+    "str2": "From the same as klesis; invited, i.e. Appointed, or, a saint.",
+    "num": 2822
   },
   {
     "word": "according to",
@@ -109,7 +122,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "[His] purpose.",
@@ -117,6 +131,7 @@
     "translit": "(prothesin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4286:  ",
-    "str2": "From protithemai; a setting forth, i.e. proposal; specially, the show-bread as exposed before God."
+    "str2": "From protithemai; a setting forth, i.e. proposal; specially, the show-bread as exposed before God.",
+    "num": 4286
   }
 ]

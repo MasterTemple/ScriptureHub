@@ -5,7 +5,8 @@
     "translit": "(kōl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "that",
@@ -13,7 +14,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "touches",
@@ -21,7 +23,8 @@
     "translit": "(yig·ga‘)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5060:  ",
-    "str2": "To touch, lay the hand upon, to reach, violently, to strike"
+    "str2": "To touch, lay the hand upon, to reach, violently, to strike",
+    "num": 5060
   },
   {
     "word": "its flesh",
@@ -29,7 +32,8 @@
     "translit": "(biḇ·śā·rāh)",
     "parse": "Preposition-b | Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 1320:  ",
-    "str2": "Flesh, body, person, the pudenda of a, man"
+    "str2": "Flesh, body, person, the pudenda of a, man",
+    "num": 1320
   },
   {
     "word": "will become holy,",
@@ -37,7 +41,8 @@
     "translit": "(yiq·dāš)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 6942:  ",
-    "str2": "To be set apart or consecrated"
+    "str2": "To be set apart or consecrated",
+    "num": 6942
   },
   {
     "word": "and if",
@@ -45,7 +50,8 @@
     "translit": "(wa·’ă·šer)",
     "parse": "Conjunctive waw | Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "any of the blood",
@@ -53,7 +59,8 @@
     "translit": "(mid·dā·māh)",
     "parse": "Preposition-m | Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 1818:  ",
-    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed"
+    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed",
+    "num": 1818
   },
   {
     "word": "is spattered",
@@ -61,7 +68,8 @@
     "translit": "(yiz·zeh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5137:  ",
-    "str2": "To spurt, spatter, sprinkle"
+    "str2": "To spurt, spatter, sprinkle",
+    "num": 5137
   },
   {
     "word": "on",
@@ -69,7 +77,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "a garment,",
@@ -77,7 +86,8 @@
     "translit": "(hab·be·ḡeḏ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 899:  ",
-    "str2": "A covering, clothing, treachery, pillage"
+    "str2": "A covering, clothing, treachery, pillage",
+    "num": 899
   },
   {
     "word": "you must wash",
@@ -85,7 +95,8 @@
     "translit": "(tə·ḵab·bês)",
     "parse": "Verb - Piel - Imperfect - second person masculine singular",
     "str": "Strong's 3526:  ",
-    "str2": "To trample, to wash"
+    "str2": "To trample, to wash",
+    "num": 3526
   },
   {
     "word": "it",
@@ -93,7 +104,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "in a holy",
@@ -101,7 +113,8 @@
     "translit": "(qā·ḏōš)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 6918:  ",
-    "str2": "Sacred, God, an angel, a saint, a sanctuary"
+    "str2": "Sacred, God, an angel, a saint, a sanctuary",
+    "num": 6918
   },
   {
     "word": "place.",
@@ -109,6 +122,7 @@
     "translit": "(bə·mā·qō·wm)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 4725:  ",
-    "str2": "A standing, a spot, a condition"
+    "str2": "A standing, a spot, a condition",
+    "num": 4725
   }
 ]

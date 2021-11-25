@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "I",
@@ -21,7 +23,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "do",
@@ -29,7 +32,8 @@
     "translit": "(poiō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "what",
@@ -37,7 +41,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "I do not want,",
@@ -45,7 +50,8 @@
     "translit": "(thelō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "[it is] no longer",
@@ -53,7 +59,8 @@
     "translit": "(ouketi)",
     "parse": "Adverb",
     "str": "Strong's 3765:  ",
-    "str2": "No longer, no more. Also ouk eti from ou and eti; not yet, no longer."
+    "str2": "No longer, no more. Also ouk eti from ou and eti; not yet, no longer.",
+    "num": 3765
   },
   {
     "word": "I",
@@ -61,7 +68,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "who do",
@@ -69,7 +77,8 @@
     "translit": "(katergazomai)",
     "parse": "Verb - Present Indicative Middle or Passive - 1st Person Singular",
     "str": "Strong's 2716:  ",
-    "str2": "From kata and ergazomai; to work fully, i.e. Accomplish; by implication, to finish, fashion."
+    "str2": "From kata and ergazomai; to work fully, i.e. Accomplish; by implication, to finish, fashion.",
+    "num": 2716
   },
   {
     "word": "it,",
@@ -77,7 +86,8 @@
     "translit": "(auto)",
     "parse": "Personal / Possessive Pronoun - Accusative Neuter 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "but [it is]",
@@ -85,7 +95,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "sin",
@@ -93,7 +104,8 @@
     "translit": "(hamartia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 266:  ",
-    "str2": "From hamartano; a sin."
+    "str2": "From hamartano; a sin.",
+    "num": 266
   },
   {
     "word": "living",
@@ -101,7 +113,8 @@
     "translit": "(oikousa)",
     "parse": "Verb - Present Participle Active - Nominative Feminine Singular",
     "str": "Strong's 3611:  ",
-    "str2": "To inhabit, dwell, indwell. From oikos; to occupy a house, i.e. Reside; by implication, to cohabit."
+    "str2": "To inhabit, dwell, indwell. From oikos; to occupy a house, i.e. Reside; by implication, to cohabit.",
+    "num": 3611
   },
   {
     "word": "in",
@@ -109,7 +122,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "me [ that does it ].",
@@ -117,6 +131,7 @@
     "translit": "(emoi)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   }
 ]

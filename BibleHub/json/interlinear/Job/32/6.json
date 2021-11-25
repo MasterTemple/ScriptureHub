@@ -5,7 +5,8 @@
     "translit": "(’ĕ·lî·hū)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 453:  ",
-    "str2": "Elihu -- 'He is (my) God', five Israelites"
+    "str2": "Elihu -- 'He is (my) God', five Israelites",
+    "num": 453
   },
   {
     "word": "son",
@@ -13,7 +14,8 @@
     "translit": "(ḇen-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of Barachel",
@@ -21,7 +23,8 @@
     "translit": "(ba·raḵ·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 1292:  ",
-    "str2": "Barachel -- 'El does bless', the father of one of Job's friends"
+    "str2": "Barachel -- 'El does bless', the father of one of Job's friends",
+    "num": 1292
   },
   {
     "word": "the Buzite",
@@ -29,7 +32,8 @@
     "translit": "(hab·bū·zî)",
     "parse": "Article | Noun - proper - masculine singular",
     "str": "Strong's 940:  ",
-    "str2": "Buzite -- a Buzite"
+    "str2": "Buzite -- a Buzite",
+    "num": 940
   },
   {
     "word": "declared:",
@@ -37,7 +41,8 @@
     "translit": "(way·ya·‘an)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 6030:  ",
-    "str2": "To answer, respond"
+    "str2": "To answer, respond",
+    "num": 6030
   },
   {
     "word": "“I",
@@ -45,7 +50,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "am young",
@@ -53,7 +59,8 @@
     "translit": "(ṣā·‘îr)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 6810:  ",
-    "str2": "Little, insignificant, young"
+    "str2": "Little, insignificant, young",
+    "num": 6810
   },
   {
     "word": "in years,",
@@ -61,7 +68,8 @@
     "translit": "(lə·yā·mîm)",
     "parse": "Preposition-l | Noun - masculine plural",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "while you",
@@ -69,7 +77,8 @@
     "translit": "(wə·’at·tem)",
     "parse": "Conjunctive waw | Pronoun - second person masculine plural",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "are old;",
@@ -77,7 +86,8 @@
     "translit": "(yə·šî·šîm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 3453:  ",
-    "str2": "An old man"
+    "str2": "An old man",
+    "num": 3453
   },
   {
     "word": "that is why",
@@ -85,7 +95,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "I was timid",
@@ -93,7 +104,8 @@
     "translit": "(zā·ḥal·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 2119:  ",
-    "str2": "To shrink back, crawl away"
+    "str2": "To shrink back, crawl away",
+    "num": 2119
   },
   {
     "word": "and afraid",
@@ -101,7 +113,8 @@
     "translit": "(wā·’î·rā)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - first person common singular",
     "str": "Strong's 3372:  ",
-    "str2": "To fear, to revere, caus, to frighten"
+    "str2": "To fear, to revere, caus, to frighten",
+    "num": 3372
   },
   {
     "word": "to tell you",
@@ -109,7 +122,8 @@
     "translit": "(mê·ḥaw·wōṯ)",
     "parse": "Preposition-m | Verb - Piel - Infinitive construct",
     "str": "Strong's 2331:  ",
-    "str2": "To live, to declare, show"
+    "str2": "To live, to declare, show",
+    "num": 2331
   },
   {
     "word": "what I know.",
@@ -117,6 +131,7 @@
     "translit": "(dê·‘î)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 1843:  ",
-    "str2": "Knowledge, opinion"
+    "str2": "Knowledge, opinion",
+    "num": 1843
   }
 ]

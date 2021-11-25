@@ -5,7 +5,8 @@
     "translit": "(eidotes)",
     "parse": "Verb - Perfect Participle Active - Nominative Masculine Plural",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "that [since]",
@@ -13,7 +14,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "Christ",
@@ -21,7 +23,8 @@
     "translit": "(Christos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "was raised",
@@ -29,7 +32,8 @@
     "translit": "(egertheis)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Singular",
     "str": "Strong's 1453:  ",
-    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse."
+    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse.",
+    "num": 1453
   },
   {
     "word": "from",
@@ -37,7 +41,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "[the] dead,",
@@ -45,7 +50,8 @@
     "translit": "(nekrōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 3498:  ",
-    "str2": "(a) adj: dead, lifeless, subject to death, mortal, (b) noun: a dead body, a corpse. From an apparently primary nekus; dead."
+    "str2": "(a) adj: dead, lifeless, subject to death, mortal, (b) noun: a dead body, a corpse. From an apparently primary nekus; dead.",
+    "num": 3498
   },
   {
     "word": "He cannot die again;",
@@ -53,7 +59,8 @@
     "translit": "(apothnēskei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 599:  ",
-    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off."
+    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off.",
+    "num": 599
   },
   {
     "word": "death",
@@ -61,7 +68,8 @@
     "translit": "(thanatos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2288:  ",
-    "str2": "Death, physical or spiritual. From thnesko; death."
+    "str2": "Death, physical or spiritual. From thnesko; death.",
+    "num": 2288
   },
   {
     "word": "no longer",
@@ -69,7 +77,8 @@
     "translit": "(ouketi)",
     "parse": "Adverb",
     "str": "Strong's 3765:  ",
-    "str2": "No longer, no more. Also ouk eti from ou and eti; not yet, no longer."
+    "str2": "No longer, no more. Also ouk eti from ou and eti; not yet, no longer.",
+    "num": 3765
   },
   {
     "word": "has dominion over",
@@ -77,7 +86,8 @@
     "translit": "(kyrieuei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2961:  ",
-    "str2": "To have authority, rule over. From kurios; to rule."
+    "str2": "To have authority, rule over. From kurios; to rule.",
+    "num": 2961
   },
   {
     "word": "Him.",
@@ -85,6 +95,7 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

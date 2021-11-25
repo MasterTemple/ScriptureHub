@@ -5,7 +5,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "I have hewn [them]",
@@ -13,7 +14,8 @@
     "translit": "(ḥā·ṣaḇ·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 2672:  ",
-    "str2": "To cut, carve, to hew, split, square, quarry, engrave"
+    "str2": "To cut, carve, to hew, split, square, quarry, engrave",
+    "num": 2672
   },
   {
     "word": "by the prophets;",
@@ -21,7 +23,8 @@
     "translit": "(ban·nə·ḇî·’îm)",
     "parse": "Preposition-b, Article | Noun - masculine plural",
     "str": "Strong's 5030:  ",
-    "str2": "A spokesman, speaker, prophet"
+    "str2": "A spokesman, speaker, prophet",
+    "num": 5030
   },
   {
     "word": "I have slain them",
@@ -29,7 +32,8 @@
     "translit": "(hă·raḡ·tîm)",
     "parse": "Verb - Qal - Perfect - first person common singular | third person masculine plural",
     "str": "Strong's 2026:  ",
-    "str2": "To smite with deadly intent"
+    "str2": "To smite with deadly intent",
+    "num": 2026
   },
   {
     "word": "by the words",
@@ -37,7 +41,8 @@
     "translit": "(bə·’im·rê-)",
     "parse": "Preposition-b | Noun - masculine plural construct",
     "str": "Strong's 561:  ",
-    "str2": "Something said"
+    "str2": "Something said",
+    "num": 561
   },
   {
     "word": "of My mouth,",
@@ -45,7 +50,8 @@
     "translit": "(p̄î)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 6310:  ",
-    "str2": "The mouth, edge, portion, side, according to"
+    "str2": "The mouth, edge, portion, side, according to",
+    "num": 6310
   },
   {
     "word": "and My judgments",
@@ -53,7 +59,8 @@
     "translit": "(ū·miš·pā·ṭe·ḵā)",
     "parse": "Conjunctive waw | Noun - masculine plural construct | second person masculine singular",
     "str": "Strong's 4941:  ",
-    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style"
+    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style",
+    "num": 4941
   },
   {
     "word": "go forth",
@@ -61,7 +68,8 @@
     "translit": "(yê·ṣê)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "like lightning.",
@@ -69,6 +77,7 @@
     "translit": "(’ō·wr)",
     "parse": "Noun - common singular",
     "str": "Strong's 216:  ",
-    "str2": "Illumination, luminary"
+    "str2": "Illumination, luminary",
+    "num": 216
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "whole",
@@ -21,7 +23,8 @@
     "translit": "(holē)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 3650:  ",
-    "str2": "All, the whole, entire, complete. A primary word; 'whole' or 'all', i.e. Complete, especially as noun or adverb."
+    "str2": "All, the whole, entire, complete. A primary word; 'whole' or 'all', i.e. Complete, especially as noun or adverb.",
+    "num": 3650
   },
   {
     "word": "town",
@@ -29,7 +32,8 @@
     "translit": "(polis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4172:  ",
-    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town."
+    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town.",
+    "num": 4172
   },
   {
     "word": "gathered",
@@ -37,7 +41,8 @@
     "translit": "(episynēgmenē)",
     "parse": "Verb - Perfect Participle Middle or Passive - Nominative Feminine Singular",
     "str": "Strong's 1996:  ",
-    "str2": "To collect, gather together, assemble. From epi and sunago; to collect upon the same place."
+    "str2": "To collect, gather together, assemble. From epi and sunago; to collect upon the same place.",
+    "num": 1996
   },
   {
     "word": "at",
@@ -45,7 +50,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "door.",
@@ -61,6 +68,7 @@
     "translit": "(thyran)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2374:  ",
-    "str2": "(a) a door, (b) met: an opportunity. Apparently a primary word; a portal or entrance."
+    "str2": "(a) a door, (b) met: an opportunity. Apparently a primary word; a portal or entrance.",
+    "num": 2374
   }
 ]

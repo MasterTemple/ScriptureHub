@@ -5,7 +5,8 @@
     "translit": "(’ōw)",
     "parse": "Conjunction",
     "str": "Strong's 176:  ",
-    "str2": "Desire, if"
+    "str2": "Desire, if",
+    "num": 176
   },
   {
     "word": "if I send",
@@ -13,7 +14,8 @@
     "translit": "(’ă·šal·laḥ)",
     "parse": "Verb - Piel - Imperfect - first person common singular",
     "str": "Strong's 7971:  ",
-    "str2": "To send away, for, out"
+    "str2": "To send away, for, out",
+    "num": 7971
   },
   {
     "word": "a plague",
@@ -21,7 +23,8 @@
     "translit": "(de·ḇer)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1698:  ",
-    "str2": "A pestilence"
+    "str2": "A pestilence",
+    "num": 1698
   },
   {
     "word": "into",
@@ -29,7 +32,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "that",
@@ -37,7 +41,8 @@
     "translit": "(ha·hî)",
     "parse": "Article | Pronoun - third person feminine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "land",
@@ -45,7 +50,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "and pour out",
@@ -53,7 +59,8 @@
     "translit": "(wə·šā·p̄aḵ·tî)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - first person common singular",
     "str": "Strong's 8210:  ",
-    "str2": "To spill forth, to expend, to sprawl out"
+    "str2": "To spill forth, to expend, to sprawl out",
+    "num": 8210
   },
   {
     "word": "My wrath",
@@ -61,7 +68,8 @@
     "translit": "(ḥă·mā·ṯî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 2534:  ",
-    "str2": "Heat, anger, poison"
+    "str2": "Heat, anger, poison",
+    "num": 2534
   },
   {
     "word": "upon it",
@@ -69,7 +77,8 @@
     "translit": "(‘ā·le·hā)",
     "parse": "Preposition | third person feminine singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "through bloodshed,",
@@ -77,7 +86,8 @@
     "translit": "(bə·ḏām)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 1818:  ",
-    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed"
+    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed",
+    "num": 1818
   },
   {
     "word": "cutting off",
@@ -85,7 +95,8 @@
     "translit": "(lə·haḵ·rîṯ)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct",
     "str": "Strong's 3772:  ",
-    "str2": "To cut, to destroy, consume, to covenant"
+    "str2": "To cut, to destroy, consume, to covenant",
+    "num": 3772
   },
   {
     "word": "from it",
@@ -93,7 +104,8 @@
     "translit": "(mim·men·nāh)",
     "parse": "Preposition | third person feminine singular",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "both man",
@@ -101,7 +113,8 @@
     "translit": "(’ā·ḏām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   },
   {
     "word": "and beast,",
@@ -109,6 +122,7 @@
     "translit": "(ū·ḇə·hê·māh)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 929:  ",
-    "str2": "A dumb beast, any large quadruped, animal"
+    "str2": "A dumb beast, any large quadruped, animal",
+    "num": 929
   }
 ]

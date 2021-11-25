@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Jesus",
@@ -13,7 +14,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "let out",
@@ -21,7 +23,8 @@
     "translit": "(apheis)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 863:  ",
-    "str2": "From apo and hiemi; to send forth, in various applications."
+    "str2": "From apo and hiemi; to send forth, in various applications.",
+    "num": 863
   },
   {
     "word": "a loud cry",
@@ -29,7 +32,8 @@
     "translit": "(phōnēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5456:  ",
-    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language."
+    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language.",
+    "num": 5456
   },
   {
     "word": "[and] breathed His last.",
@@ -37,6 +41,7 @@
     "translit": "(exepneusen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1606:  ",
-    "str2": "(lit: I breathe out), I breathe my last, expire. From ek and pneo; to expire."
+    "str2": "(lit: I breathe out), I breathe my last, expire. From ek and pneo; to expire.",
+    "num": 1606
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "[God] was pleased [to have]",
@@ -13,7 +14,8 @@
     "translit": "(eudokēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2106:  ",
-    "str2": "To be well-pleased, think it good, be resolved. From eu and dokeo; to think well of, i.e. Approve; specially, to approbate."
+    "str2": "To be well-pleased, think it good, be resolved. From eu and dokeo; to think well of, i.e. Approve; specially, to approbate.",
+    "num": 2106
   },
   {
     "word": "all",
@@ -21,7 +23,8 @@
     "translit": "(pan)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "[His]",
@@ -29,7 +32,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "fullness",
@@ -37,7 +41,8 @@
     "translit": "(plērōma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4138:  ",
-    "str2": "From pleroo; repletion or completion, i.e. what fills, or what is filled."
+    "str2": "From pleroo; repletion or completion, i.e. what fills, or what is filled.",
+    "num": 4138
   },
   {
     "word": "dwell",
@@ -45,7 +50,8 @@
     "translit": "(katoikēsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2730:  ",
-    "str2": "To dwell in, settle in, be established in (permanently), inhabit. From kata and oikeo; to house permanently, i.e. Reside."
+    "str2": "To dwell in, settle in, be established in (permanently), inhabit. From kata and oikeo; to house permanently, i.e. Reside.",
+    "num": 2730
   },
   {
     "word": "in",
@@ -53,7 +59,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "Him,",
@@ -61,6 +68,7 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "worship",
@@ -13,7 +14,8 @@
     "translit": "(tî·rā·’ū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 3372:  ",
-    "str2": "To fear, to revere, caus, to frighten"
+    "str2": "To fear, to revere, caus, to frighten",
+    "num": 3372
   },
   {
     "word": "the LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "your God,",
@@ -29,7 +32,8 @@
     "translit": "(’ĕ·lō·hê·ḵem)",
     "parse": "Noun - masculine plural construct | second person masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "and He",
@@ -37,7 +41,8 @@
     "translit": "(wə·hū)",
     "parse": "Conjunctive waw | Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "will deliver",
@@ -45,7 +50,8 @@
     "translit": "(yaṣ·ṣîl)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular",
     "str": "Strong's 5337:  ",
-    "str2": "To strip, plunder, deliver oneself, be delivered, snatch away, deliver"
+    "str2": "To strip, plunder, deliver oneself, be delivered, snatch away, deliver",
+    "num": 5337
   },
   {
     "word": "you",
@@ -53,7 +59,8 @@
     "translit": "(’eṯ·ḵem)",
     "parse": "Direct object marker | second person masculine plural",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "from the hands",
@@ -61,7 +68,8 @@
     "translit": "(mî·yaḏ)",
     "parse": "Preposition-m | Noun - feminine singular construct",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "of all",
@@ -69,7 +77,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "your enemies.”",
@@ -77,6 +86,7 @@
     "translit": "(’ō·yə·ḇê·ḵem)",
     "parse": "Verb - Qal - Participle - masculine plural construct | second person masculine plural",
     "str": "Strong's 341:  ",
-    "str2": "Hating, an adversary"
+    "str2": "Hating, an adversary",
+    "num": 341
   }
 ]

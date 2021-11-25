@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "My people",
@@ -13,7 +14,8 @@
     "translit": "(‘am·mî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "have forgotten Me.",
@@ -21,7 +23,8 @@
     "translit": "(šə·ḵê·ḥu·nî)",
     "parse": "Verb - Qal - Perfect - third person common plural | first person common singular",
     "str": "Strong's 7911:  ",
-    "str2": "To mislay, to be oblivious of, from want of memory, attention"
+    "str2": "To mislay, to be oblivious of, from want of memory, attention",
+    "num": 7911
   },
   {
     "word": "They burn incense",
@@ -29,7 +32,8 @@
     "translit": "(yə·qaṭ·ṭê·rū)",
     "parse": "Verb - Piel - Imperfect - third person masculine plural",
     "str": "Strong's 6999:  ",
-    "str2": "To smoke, turn into fragrance by fire"
+    "str2": "To smoke, turn into fragrance by fire",
+    "num": 6999
   },
   {
     "word": "to worthless idols",
@@ -37,7 +41,8 @@
     "translit": "(laš·šāw)",
     "parse": "Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 7723:  ",
-    "str2": "Evil, idolatry, uselessness"
+    "str2": "Evil, idolatry, uselessness",
+    "num": 7723
   },
   {
     "word": "that make them stumble",
@@ -45,7 +50,8 @@
     "translit": "(way·yaḵ·ši·lūm)",
     "parse": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine plural | third person masculine plural",
     "str": "Strong's 3782:  ",
-    "str2": "To totter, waver, to falter, stumble, faint, fall"
+    "str2": "To totter, waver, to falter, stumble, faint, fall",
+    "num": 3782
   },
   {
     "word": "in their ways",
@@ -53,7 +59,8 @@
     "translit": "(bə·ḏar·ḵê·hem)",
     "parse": "Preposition-b | Noun - common plural construct | third person masculine plural",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   },
   {
     "word": "on the ancient",
@@ -61,7 +68,8 @@
     "translit": "(‘ō·w·lām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5769:  ",
-    "str2": "Concealed, eternity, frequentatively, always"
+    "str2": "Concealed, eternity, frequentatively, always",
+    "num": 5769
   },
   {
     "word": "roads",
@@ -69,7 +77,8 @@
     "translit": "(šə·ḇî·lê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 7635:  ",
-    "str2": "A track, passage-way"
+    "str2": "A track, passage-way",
+    "num": 7635
   },
   {
     "word": "and walk",
@@ -77,7 +86,8 @@
     "translit": "(lā·le·ḵeṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "on bypaths",
@@ -85,7 +95,8 @@
     "translit": "(nə·ṯî·ḇō·wṯ)",
     "parse": "Noun - feminine plural construct",
     "str": "Strong's 5410:  ",
-    "str2": "Path, pathway"
+    "str2": "Path, pathway",
+    "num": 5410
   },
   {
     "word": "instead of",
@@ -93,7 +104,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "the highway.",
@@ -101,6 +113,7 @@
     "translit": "(sə·lū·lāh)",
     "parse": "Verb - Qal - QalPassParticiple - feminine singular",
     "str": "Strong's 5549:  ",
-    "str2": "To mound up, to exalt, to oppose"
+    "str2": "To mound up, to exalt, to oppose",
+    "num": 5549
   }
 ]

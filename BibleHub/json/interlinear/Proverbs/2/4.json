@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you seek",
@@ -13,7 +14,8 @@
     "translit": "(tə·ḇaq·šen·nāh)",
     "parse": "Verb - Piel - Imperfect - second person masculine singular | third person feminine singular",
     "str": "Strong's 1245:  ",
-    "str2": "To search out, to strive after"
+    "str2": "To search out, to strive after",
+    "num": 1245
   },
   {
     "word": "it like silver",
@@ -21,7 +23,8 @@
     "translit": "(ḵak·kā·sep̄)",
     "parse": "Preposition-k, Article | Noun - masculine singular",
     "str": "Strong's 3701:  ",
-    "str2": "Silver, money"
+    "str2": "Silver, money",
+    "num": 3701
   },
   {
     "word": "and search it out",
@@ -29,7 +32,8 @@
     "translit": "(taḥ·pə·śen·nāh)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular | third person feminine singular",
     "str": "Strong's 2664:  ",
-    "str2": "To seek, to conceal oneself, mask"
+    "str2": "To seek, to conceal oneself, mask",
+    "num": 2664
   },
   {
     "word": "like hidden treasure,",
@@ -37,6 +41,7 @@
     "translit": "(wə·ḵam·maṭ·mō·w·nîm)",
     "parse": "Conjunctive waw, Preposition-k, Article | Noun - masculine plural",
     "str": "Strong's 4301:  ",
-    "str2": "A secret storehouse, a secreted valuable, money"
+    "str2": "A secret storehouse, a secreted valuable, money",
+    "num": 4301
   }
 ]

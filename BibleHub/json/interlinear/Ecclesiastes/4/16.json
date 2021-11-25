@@ -5,7 +5,8 @@
     "translit": "(’ên-)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "limit",
@@ -13,7 +14,8 @@
     "translit": "(qêṣ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7093:  ",
-    "str2": "An extremity, after"
+    "str2": "An extremity, after",
+    "num": 7093
   },
   {
     "word": "to all",
@@ -21,7 +23,8 @@
     "translit": "(lə·ḵāl)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the people",
@@ -29,7 +32,8 @@
     "translit": "(hā·‘ām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "who",
@@ -37,7 +41,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "were",
@@ -45,7 +50,8 @@
     "translit": "(hā·yāh)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "before them,",
@@ -53,7 +59,8 @@
     "translit": "(lip̄·nê·hem)",
     "parse": "Preposition-l | Noun - masculine plural construct | third person masculine plural",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "yet",
@@ -61,7 +68,8 @@
     "translit": "(gam)",
     "parse": "Conjunction",
     "str": "Strong's 1571:  ",
-    "str2": "Assemblage, also, even, yea, though, both, and"
+    "str2": "Assemblage, also, even, yea, though, both, and",
+    "num": 1571
   },
   {
     "word": "those who come later",
@@ -69,7 +77,8 @@
     "translit": "(hā·’a·ḥă·rō·w·nîm)",
     "parse": "Article | Adjective - masculine plural",
     "str": "Strong's 314:  ",
-    "str2": "Hinder, late, last, western"
+    "str2": "Hinder, late, last, western",
+    "num": 314
   },
   {
     "word": "will not",
@@ -77,7 +86,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "rejoice",
@@ -85,7 +95,8 @@
     "translit": "(yiś·mə·ḥū-)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 8055:  ",
-    "str2": "To brighten up, be, blithe, gleesome"
+    "str2": "To brighten up, be, blithe, gleesome",
+    "num": 8055
   },
   {
     "word": "in [the successor].",
@@ -93,7 +104,8 @@
     "translit": "(ḇōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "This",
@@ -101,7 +113,8 @@
     "translit": "(zeh)",
     "parse": "Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "too",
@@ -109,7 +122,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "is futile",
@@ -117,7 +131,8 @@
     "translit": "(he·ḇel)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1892:  ",
-    "str2": "Emptiness, vanity, transitory, unsatisfactory"
+    "str2": "Emptiness, vanity, transitory, unsatisfactory",
+    "num": 1892
   },
   {
     "word": "and a pursuit",
@@ -125,7 +140,8 @@
     "translit": "(wə·ra‘·yō·wn)",
     "parse": "Conjunctive waw | Noun - masculine singular construct",
     "str": "Strong's 7475:  ",
-    "str2": "Longing, striving"
+    "str2": "Longing, striving",
+    "num": 7475
   },
   {
     "word": "of the wind.",
@@ -133,6 +149,7 @@
     "translit": "(rū·aḥ)",
     "parse": "Noun - common singular",
     "str": "Strong's 7307:  ",
-    "str2": "Wind, breath, exhalation, life, anger, unsubstantiality, a region of the sky, spirit"
+    "str2": "Wind, breath, exhalation, life, anger, unsubstantiality, a region of the sky, spirit",
+    "num": 7307
   }
 ]

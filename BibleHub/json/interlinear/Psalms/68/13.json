@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you lie down",
@@ -13,7 +14,8 @@
     "translit": "(tiš·kə·ḇūn)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural | Paragogic nun",
     "str": "Strong's 7901:  ",
-    "str2": "To lie down"
+    "str2": "To lie down",
+    "num": 7901
   },
   {
     "word": "among",
@@ -21,7 +23,8 @@
     "translit": "(bên)",
     "parse": "Preposition",
     "str": "Strong's 996:  ",
-    "str2": "An interval, space between"
+    "str2": "An interval, space between",
+    "num": 996
   },
   {
     "word": "the sheepfolds,",
@@ -29,7 +32,8 @@
     "translit": "(šə·p̄at·tā·yim)",
     "parse": "Noun - md",
     "str": "Strong's 8240:  ",
-    "str2": "Perhaps fireplaces, ash heaps"
+    "str2": "Perhaps fireplaces, ash heaps",
+    "num": 8240
   },
   {
     "word": "the wings",
@@ -37,7 +41,8 @@
     "translit": "(kan·p̄ê)",
     "parse": "Noun - feminine plural construct",
     "str": "Strong's 3671:  ",
-    "str2": "An edge, extremity, a wing, a flap, a quarter, a pinnacle"
+    "str2": "An edge, extremity, a wing, a flap, a quarter, a pinnacle",
+    "num": 3671
   },
   {
     "word": "of the dove",
@@ -45,7 +50,8 @@
     "translit": "(yō·w·nāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 3123:  ",
-    "str2": "A dove"
+    "str2": "A dove",
+    "num": 3123
   },
   {
     "word": "are covered",
@@ -53,7 +59,8 @@
     "translit": "(neḥ·pāh)",
     "parse": "Verb - Nifal - Participle - feminine singular",
     "str": "Strong's 2645:  ",
-    "str2": "To cover, to veil, to encase, protect"
+    "str2": "To cover, to veil, to encase, protect",
+    "num": 2645
   },
   {
     "word": "with silver,",
@@ -61,7 +68,8 @@
     "translit": "(ḇak·ke·sep̄)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 3701:  ",
-    "str2": "Silver, money"
+    "str2": "Silver, money",
+    "num": 3701
   },
   {
     "word": "and her feathers",
@@ -69,7 +77,8 @@
     "translit": "(bî·raq·raq)",
     "parse": "Preposition-b | Adjective - masculine singular construct",
     "str": "Strong's 84:  ",
-    "str2": "A pinion"
+    "str2": "A pinion",
+    "num": 84
   },
   {
     "word": "with shimmering",
@@ -77,7 +86,8 @@
     "translit": "(wə·’eḇ·rō·w·ṯe·hā)",
     "parse": "Conjunctive waw | Noun - feminine plural construct | third person feminine singular",
     "str": "Strong's 3422:  ",
-    "str2": "Greenish, pale green"
+    "str2": "Greenish, pale green",
+    "num": 3422
   },
   {
     "word": "gold.”",
@@ -85,6 +95,7 @@
     "translit": "(ḥā·rūṣ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2742:  ",
-    "str2": "Incised, incisive, a trench, gold, a threshing-sledge, determination, eager"
+    "str2": "Incised, incisive, a trench, gold, a threshing-sledge, determination, eager",
+    "num": 2742
   }
 ]

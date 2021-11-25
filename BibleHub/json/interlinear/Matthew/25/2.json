@@ -5,7 +5,8 @@
     "translit": "(pente)",
     "parse": "Adjective - Nominative Feminine Plural",
     "str": "Strong's 4002:  ",
-    "str2": "Five. A primary number; 'five'."
+    "str2": "Five. A primary number; 'five'.",
+    "num": 4002
   },
   {
     "word": "of",
@@ -13,7 +14,8 @@
     "translit": "(ex)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "them",
@@ -21,7 +23,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Feminine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "were",
@@ -29,7 +32,8 @@
     "translit": "(ēsan)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "foolish,",
@@ -37,7 +41,8 @@
     "translit": "(mōrai)",
     "parse": "Adjective - Nominative Feminine Plural",
     "str": "Strong's 3474:  ",
-    "str2": "Probably from the base of musterion; dull or stupid, i.e. Heedless, blockhead, absurd."
+    "str2": "Probably from the base of musterion; dull or stupid, i.e. Heedless, blockhead, absurd.",
+    "num": 3474
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "five [were]",
@@ -53,7 +59,8 @@
     "translit": "(pente)",
     "parse": "Adjective - Nominative Feminine Plural",
     "str": "Strong's 4002:  ",
-    "str2": "Five. A primary number; 'five'."
+    "str2": "Five. A primary number; 'five'.",
+    "num": 4002
   },
   {
     "word": "wise.",
@@ -61,6 +68,7 @@
     "translit": "(phronimoi)",
     "parse": "Adjective - Nominative Feminine Plural",
     "str": "Strong's 5429:  ",
-    "str2": "Intelligent, prudent, sensible, wise. From phren; thoughtful, i.e. Sagacious or discreet; in a bad sense conceited."
+    "str2": "Intelligent, prudent, sensible, wise. From phren; thoughtful, i.e. Sagacious or discreet; in a bad sense conceited.",
+    "num": 5429
   }
 ]

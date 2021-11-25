@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "he said,",
@@ -13,7 +14,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“a hand",
@@ -21,7 +23,8 @@
     "translit": "(yāḏ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "was lifted up toward",
@@ -29,7 +32,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the throne",
@@ -37,7 +41,8 @@
     "translit": "(kês)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3676:  ",
-    "str2": "A flag, a sail, a flagstaff, a signal, a token"
+    "str2": "A flag, a sail, a flagstaff, a signal, a token",
+    "num": 3676
   },
   {
     "word": "of the LORD.",
@@ -45,7 +50,8 @@
     "translit": "(yāh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3050:  ",
-    "str2": "LORD -- the name of the God of Israel"
+    "str2": "LORD -- the name of the God of Israel",
+    "num": 3050
   },
   {
     "word": "The LORD",
@@ -53,7 +59,8 @@
     "translit": "(Yah·weh)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "will war",
@@ -61,7 +68,8 @@
     "translit": "(mil·ḥā·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 4421:  ",
-    "str2": "A battle, war"
+    "str2": "A battle, war",
+    "num": 4421
   },
   {
     "word": "against Amalek",
@@ -69,7 +77,8 @@
     "translit": "(ba·‘ă·mā·lêq)",
     "parse": "Preposition-b | Noun - proper - masculine singular",
     "str": "Strong's 6002:  ",
-    "str2": "Amalek -- a descendant of Esau, also his posterity"
+    "str2": "Amalek -- a descendant of Esau, also his posterity",
+    "num": 6002
   },
   {
     "word": "from generation",
@@ -77,7 +86,8 @@
     "translit": "(mid·dōr)",
     "parse": "Preposition-m | Noun - masculine singular",
     "str": "Strong's 1755:  ",
-    "str2": "A revolution of time, an age, generation, a dwelling"
+    "str2": "A revolution of time, an age, generation, a dwelling",
+    "num": 1755
   },
   {
     "word": "to generation.”",
@@ -85,6 +95,7 @@
     "translit": "(dōr)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1755:  ",
-    "str2": "A revolution of time, an age, generation, a dwelling"
+    "str2": "A revolution of time, an age, generation, a dwelling",
+    "num": 1755
   }
 ]

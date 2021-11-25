@@ -5,7 +5,8 @@
     "translit": "(all’)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "they will not advance",
@@ -13,7 +14,8 @@
     "translit": "(prokopsousin)",
     "parse": "Verb - Future Indicative Active - 3rd Person Plural",
     "str": "Strong's 4298:  ",
-    "str2": "From pro and kopto; to drive forward, i.e. to advance."
+    "str2": "From pro and kopto; to drive forward, i.e. to advance.",
+    "num": 4298
   },
   {
     "word": "much",
@@ -21,7 +23,8 @@
     "translit": "(pleion)",
     "parse": "Adjective - Accusative Neuter Singular - Comparative",
     "str": "Strong's 4119:  ",
-    "str2": "Or neuter pleion, or pleon comparative of polus; more in quantity, number, or quality; also the major portion."
+    "str2": "Or neuter pleion, or pleon comparative of polus; more in quantity, number, or quality; also the major portion.",
+    "num": 4119
   },
   {
     "word": "further.",
@@ -29,7 +32,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "For",
@@ -37,7 +41,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "just",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "like",
@@ -53,7 +59,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "[Jannes and Jambres],",
@@ -61,7 +68,8 @@
     "translit": "(ekeinōn)",
     "parse": "Demonstrative Pronoun - Genitive Masculine Plural",
     "str": "Strong's 1565:  ",
-    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed."
+    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed.",
+    "num": 1565
   },
   {
     "word": "their",
@@ -69,7 +77,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "folly",
@@ -77,7 +86,8 @@
     "translit": "(anoia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 454:  ",
-    "str2": "Folly, madness, foolishness. From a compound of a and nous; stupidity; by implication, rage."
+    "str2": "Folly, madness, foolishness. From a compound of a and nous; stupidity; by implication, rage.",
+    "num": 454
   },
   {
     "word": "will be",
@@ -85,7 +95,8 @@
     "translit": "(estai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "plain",
@@ -93,7 +104,8 @@
     "translit": "(ekdēlos)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 1552:  ",
-    "str2": "Perfectly evident, manifest. From ek and delos; wholly evident."
+    "str2": "Perfectly evident, manifest. From ek and delos; wholly evident.",
+    "num": 1552
   },
   {
     "word": "to everyone.",
@@ -101,6 +113,7 @@
     "translit": "(pasin)",
     "parse": "Adjective - Dative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   }
 ]

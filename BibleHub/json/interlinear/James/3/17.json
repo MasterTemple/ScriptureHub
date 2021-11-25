@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[the] wisdom",
@@ -13,7 +14,8 @@
     "translit": "(sophia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4678:  ",
-    "str2": "Wisdom, insight, skill (human or divine), intelligence. From sophos; wisdom."
+    "str2": "Wisdom, insight, skill (human or divine), intelligence. From sophos; wisdom.",
+    "num": 4678
   },
   {
     "word": "from above",
@@ -21,7 +23,8 @@
     "translit": "(anōthen)",
     "parse": "Adverb",
     "str": "Strong's 509:  ",
-    "str2": "From ano; from above; by analogy, from the first; by implication, anew."
+    "str2": "From ano; from above; by analogy, from the first; by implication, anew.",
+    "num": 509
   },
   {
     "word": "is",
@@ -29,7 +32,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "first",
@@ -37,7 +41,8 @@
     "translit": "(prōton)",
     "parse": "Adverb - Superlative",
     "str": "Strong's 4412:  ",
-    "str2": "First, in the first place, before, formerly. Neuter of protos as adverb; firstly."
+    "str2": "First, in the first place, before, formerly. Neuter of protos as adverb; firstly.",
+    "num": 4412
   },
   {
     "word": "[of all]",
@@ -45,7 +50,8 @@
     "translit": "(men)",
     "parse": "Conjunction",
     "str": "Strong's 3303:  ",
-    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de."
+    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de.",
+    "num": 3303
   },
   {
     "word": "pure,",
@@ -53,7 +59,8 @@
     "translit": "(hagnē)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 53:  ",
-    "str2": "From the same as hagios; properly, clean, i.e. innocent, modest, perfect."
+    "str2": "From the same as hagios; properly, clean, i.e. innocent, modest, perfect.",
+    "num": 53
   },
   {
     "word": "then",
@@ -61,7 +68,8 @@
     "translit": "(epeita)",
     "parse": "Adverb",
     "str": "Strong's 1899:  ",
-    "str2": "Then, thereafter, afterwards. From epi and eita; thereafter."
+    "str2": "Then, thereafter, afterwards. From epi and eita; thereafter.",
+    "num": 1899
   },
   {
     "word": "peaceable,",
@@ -69,7 +77,8 @@
     "translit": "(eirēnikē)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 1516:  ",
-    "str2": "Peaceable, disposed to peace, profitable. From eirene; pacific; by implication, salutary."
+    "str2": "Peaceable, disposed to peace, profitable. From eirene; pacific; by implication, salutary.",
+    "num": 1516
   },
   {
     "word": "gentle,",
@@ -77,7 +86,8 @@
     "translit": "(epieikēs)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 1933:  ",
-    "str2": "Gentle, mild, forbearing, fair, reasonable, moderate. From epi and eiko; appropriate, i.e. mild."
+    "str2": "Gentle, mild, forbearing, fair, reasonable, moderate. From epi and eiko; appropriate, i.e. mild.",
+    "num": 1933
   },
   {
     "word": "accommodating,",
@@ -85,7 +95,8 @@
     "translit": "(eupeithēs)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 2138:  ",
-    "str2": "Compliant, ready to obey. From eu and peitho; good for persuasion, i.e. complaint."
+    "str2": "Compliant, ready to obey. From eu and peitho; good for persuasion, i.e. complaint.",
+    "num": 2138
   },
   {
     "word": "full",
@@ -93,7 +104,8 @@
     "translit": "(mestē)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 3324:  ",
-    "str2": "Full, filled with. Of uncertain derivation."
+    "str2": "Full, filled with. Of uncertain derivation.",
+    "num": 3324
   },
   {
     "word": "of mercy",
@@ -101,7 +113,8 @@
     "translit": "(eleous)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 1656:  ",
-    "str2": "Pity, mercy, compassion. Of uncertain affinity; compassion."
+    "str2": "Pity, mercy, compassion. Of uncertain affinity; compassion.",
+    "num": 1656
   },
   {
     "word": "and",
@@ -109,7 +122,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "good",
@@ -117,7 +131,8 @@
     "translit": "(agathōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 18:  ",
-    "str2": "A primary word; 'good'."
+    "str2": "A primary word; 'good'.",
+    "num": 18
   },
   {
     "word": "fruit,",
@@ -125,7 +140,8 @@
     "translit": "(karpōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 2590:  ",
-    "str2": "Probably from the base of harpazo; fruit, literally or figuratively."
+    "str2": "Probably from the base of harpazo; fruit, literally or figuratively.",
+    "num": 2590
   },
   {
     "word": "impartial,",
@@ -133,7 +149,8 @@
     "translit": "(adiakritos)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 87:  ",
-    "str2": "Without uncertainty, unambiguous, undivided, whole-hearted. Properly, undistinguished, i.e. impartial."
+    "str2": "Without uncertainty, unambiguous, undivided, whole-hearted. Properly, undistinguished, i.e. impartial.",
+    "num": 87
   },
   {
     "word": "[and] sincere.",
@@ -141,6 +158,7 @@
     "translit": "(anypokritos)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 505:  ",
-    "str2": "Unfeigned, without hypocrisy, sincere. Undissembled, i.e. Sincere."
+    "str2": "Unfeigned, without hypocrisy, sincere. Undissembled, i.e. Sincere.",
+    "num": 505
   }
 ]

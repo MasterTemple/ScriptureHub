@@ -5,7 +5,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "speech",
@@ -13,7 +14,8 @@
     "translit": "(logos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "always [be]",
@@ -21,7 +23,8 @@
     "translit": "(pantote)",
     "parse": "Adverb",
     "str": "Strong's 3842:  ",
-    "str2": "Always, at all times, ever. From pas and hote; every when, i.e. At all times."
+    "str2": "Always, at all times, ever. From pas and hote; every when, i.e. At all times.",
+    "num": 3842
   },
   {
     "word": "gracious,",
@@ -29,7 +32,8 @@
     "translit": "(chariti)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 5485:  ",
-    "str2": "From chairo; graciousness, of manner or act."
+    "str2": "From chairo; graciousness, of manner or act.",
+    "num": 5485
   },
   {
     "word": "seasoned",
@@ -37,7 +41,8 @@
     "translit": "(ērtymenos)",
     "parse": "Verb - Perfect Participle Middle or Passive - Nominative Masculine Singular",
     "str": "Strong's 741:  ",
-    "str2": "Prop: I arrange, make ready; I season, flavor. From a presumed derivative of airo; to prepare, i.e. Spice."
+    "str2": "Prop: I arrange, make ready; I season, flavor. From a presumed derivative of airo; to prepare, i.e. Spice.",
+    "num": 741
   },
   {
     "word": "with salt,",
@@ -45,7 +50,8 @@
     "translit": "(halati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 217:  ",
-    "str2": "Salt. From hals; salt; figuratively, prudence."
+    "str2": "Salt. From hals; salt; figuratively, prudence.",
+    "num": 217
   },
   {
     "word": "so that you may know",
@@ -53,7 +59,8 @@
     "translit": "(eidenai)",
     "parse": "Verb - Perfect Infinitive Active",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "how",
@@ -61,7 +68,8 @@
     "translit": "(pōs)",
     "parse": "Adverb",
     "str": "Strong's 4459:  ",
-    "str2": "Adverb from the base of pou; an interrogative particle of manner; in what way?; also as exclamation, how much!"
+    "str2": "Adverb from the base of pou; an interrogative particle of manner; in what way?; also as exclamation, how much!",
+    "num": 4459
   },
   {
     "word": "to answer",
@@ -69,7 +77,8 @@
     "translit": "(apokrinesthai)",
     "parse": "Verb - Present Infinitive Middle or Passive",
     "str": "Strong's 611:  ",
-    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak."
+    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak.",
+    "num": 611
   },
   {
     "word": "everyone.",
@@ -77,6 +86,7 @@
     "translit": "(hekastō)",
     "parse": "Adjective - Dative Masculine Singular",
     "str": "Strong's 1538:  ",
-    "str2": "Each (of more than two), every one. As if a superlative of hekas; each or every."
+    "str2": "Each (of more than two), every one. As if a superlative of hekas; each or every.",
+    "num": 1538
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Pharisees",
@@ -21,7 +23,8 @@
     "translit": "(Pharisaioi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 5330:  ",
-    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary."
+    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary.",
+    "num": 5330
   },
   {
     "word": "said",
@@ -29,7 +32,8 @@
     "translit": "(elegon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "to Him,",
@@ -37,7 +41,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“Look,",
@@ -45,7 +50,8 @@
     "translit": "(Ide)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 2400:  ",
-    "str2": "See! Lo! Behold! Look! Second person singular imperative middle voice of eido; used as imperative lo!"
+    "str2": "See! Lo! Behold! Look! Second person singular imperative middle voice of eido; used as imperative lo!",
+    "num": 2400
   },
   {
     "word": "why",
@@ -53,7 +59,8 @@
     "translit": "(ti)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Neuter Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "are they doing",
@@ -61,7 +68,8 @@
     "translit": "(poiousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "what",
@@ -69,7 +77,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Nominative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "is unlawful",
@@ -77,7 +86,8 @@
     "translit": "(exestin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1832:  ",
-    "str2": "It is permitted, lawful, possible. "
+    "str2": "It is permitted, lawful, possible. ",
+    "num": 1832
   },
   {
     "word": "on the",
@@ -85,7 +95,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Sabbath?”",
@@ -93,6 +104,7 @@
     "translit": "(sabbasin)",
     "parse": "Noun - Dative Neuter Plural",
     "str": "Strong's 4521:  ",
-    "str2": "The Sabbath, a week. "
+    "str2": "The Sabbath, a week. ",
+    "num": 4521
   }
 ]

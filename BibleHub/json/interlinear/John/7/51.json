@@ -5,7 +5,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "law",
@@ -13,7 +14,8 @@
     "translit": "(nomos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3551:  ",
-    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively."
+    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively.",
+    "num": 3551
   },
   {
     "word": "convict",
@@ -21,7 +23,8 @@
     "translit": "(krinei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2919:  ",
-    "str2": "Properly, to distinguish, i.e. Decide; by implication, to try, condemn, punish."
+    "str2": "Properly, to distinguish, i.e. Decide; by implication, to try, condemn, punish.",
+    "num": 2919
   },
   {
     "word": "a man",
@@ -29,7 +32,8 @@
     "translit": "(anthrōpon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "without",
@@ -37,7 +41,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "first",
@@ -45,7 +50,8 @@
     "translit": "(prōton)",
     "parse": "Adverb - Superlative",
     "str": "Strong's 4412:  ",
-    "str2": "First, in the first place, before, formerly. Neuter of protos as adverb; firstly."
+    "str2": "First, in the first place, before, formerly. Neuter of protos as adverb; firstly.",
+    "num": 4412
   },
   {
     "word": "hearing",
@@ -53,7 +59,8 @@
     "translit": "(akousē)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "from",
@@ -61,7 +68,8 @@
     "translit": "(par’)",
     "parse": "Preposition",
     "str": "Strong's 3844:  ",
-    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. "
+    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. ",
+    "num": 3844
   },
   {
     "word": "him",
@@ -69,7 +77,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "to determine",
@@ -77,7 +86,8 @@
     "translit": "(gnō)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 1097:  ",
-    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications."
+    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications.",
+    "num": 1097
   },
   {
     "word": "what",
@@ -85,7 +95,8 @@
     "translit": "(ti)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Neuter Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "he has done?”",
@@ -93,6 +104,7 @@
     "translit": "(poiei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   }
 ]

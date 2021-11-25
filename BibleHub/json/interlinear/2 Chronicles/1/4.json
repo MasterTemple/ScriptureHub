@@ -5,7 +5,8 @@
     "translit": "(’ă·ḇāl)",
     "parse": "Adverb",
     "str": "Strong's 61:  ",
-    "str2": "Verily, of a truth"
+    "str2": "Verily, of a truth",
+    "num": 61
   },
   {
     "word": "David",
@@ -13,7 +14,8 @@
     "translit": "(ḏā·wîḏ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 1732:  ",
-    "str2": "David -- perhaps 'beloved one', a son of Jesse"
+    "str2": "David -- perhaps 'beloved one', a son of Jesse",
+    "num": 1732
   },
   {
     "word": "had brought",
@@ -21,7 +23,8 @@
     "translit": "(he·‘ĕ·lāh)",
     "parse": "Verb - Hifil - Perfect - third person masculine singular",
     "str": "Strong's 5927:  ",
-    "str2": "To ascend, in, actively"
+    "str2": "To ascend, in, actively",
+    "num": 5927
   },
   {
     "word": "the ark",
@@ -29,7 +32,8 @@
     "translit": "(’ă·rō·wn)",
     "parse": "Noun - common singular construct",
     "str": "Strong's 727:  ",
-    "str2": "A chest, ark"
+    "str2": "A chest, ark",
+    "num": 727
   },
   {
     "word": "of God",
@@ -37,7 +41,8 @@
     "translit": "(hā·’ĕ·lō·hîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "from Kiriath-jearim",
@@ -45,7 +50,8 @@
     "translit": "(yə·‘ā·rîm)",
     "parse": "Preposition | Noun - proper - feminine singular",
     "str": "Strong's 7157:  ",
-    "str2": "Kiriath-jearim -- 'city of forests', a city given to Judah, then to Benjamin"
+    "str2": "Kiriath-jearim -- 'city of forests', a city given to Judah, then to Benjamin",
+    "num": 7157
   },
   {
     "word": "to the place",
@@ -53,7 +59,8 @@
     "translit": "(dā·wîḏ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 1732:  ",
-    "str2": "David -- perhaps 'beloved one', a son of Jesse"
+    "str2": "David -- perhaps 'beloved one', a son of Jesse",
+    "num": 1732
   },
   {
     "word": "he had prepared",
@@ -61,7 +68,8 @@
     "translit": "(ba·hê·ḵîn)",
     "parse": "Preposition-b, Article | Verb - Hifil - Perfect - third person masculine singular",
     "str": "Strong's 3559:  ",
-    "str2": "To be erect"
+    "str2": "To be erect",
+    "num": 3559
   },
   {
     "word": "for it,",
@@ -69,7 +77,8 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "because",
@@ -77,7 +86,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "he had pitched",
@@ -85,7 +95,8 @@
     "translit": "(nā·ṭāh-)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 5186:  ",
-    "str2": "To stretch out, spread out, extend, incline, bend"
+    "str2": "To stretch out, spread out, extend, incline, bend",
+    "num": 5186
   },
   {
     "word": "a tent",
@@ -93,7 +104,8 @@
     "translit": "(’ō·hel)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 168:  ",
-    "str2": "A tent"
+    "str2": "A tent",
+    "num": 168
   },
   {
     "word": "for it",
@@ -101,7 +113,8 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "in Jerusalem.",
@@ -109,6 +122,7 @@
     "translit": "(bî·rū·šā·lim)",
     "parse": "Preposition-b | Noun - proper - feminine singular",
     "str": "Strong's 3389:  ",
-    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel"
+    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel",
+    "num": 3389
   }
 ]

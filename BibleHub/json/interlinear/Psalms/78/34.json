@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "He slew them,",
@@ -13,7 +14,8 @@
     "translit": "(hă·rā·ḡām)",
     "parse": "Verb - Qal - Perfect - third person masculine singular | third person masculine plural",
     "str": "Strong's 2026:  ",
-    "str2": "To smite with deadly intent"
+    "str2": "To smite with deadly intent",
+    "num": 2026
   },
   {
     "word": "they would seek Him;",
@@ -21,7 +23,8 @@
     "translit": "(ū·ḏə·rā·šū·hū)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person common plural | third person masculine singular",
     "str": "Strong's 1875:  ",
-    "str2": "To tread, frequent, to follow, to seek, ask, to worship"
+    "str2": "To tread, frequent, to follow, to seek, ask, to worship",
+    "num": 1875
   },
   {
     "word": "they repented",
@@ -29,7 +32,8 @@
     "translit": "(wə·šā·ḇū)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person common plural",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "and searched for",
@@ -37,7 +41,8 @@
     "translit": "(wə·ši·ḥă·rū-)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive perfect - third person common plural",
     "str": "Strong's 7836:  ",
-    "str2": "To dawn, be, early at any task, to search for"
+    "str2": "To dawn, be, early at any task, to search for",
+    "num": 7836
   },
   {
     "word": "God.",
@@ -45,6 +50,7 @@
     "translit": "(’êl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 410:  ",
-    "str2": "Strength -- as adjective, mighty, the Almighty"
+    "str2": "Strength -- as adjective, mighty, the Almighty",
+    "num": 410
   }
 ]

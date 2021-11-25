@@ -5,7 +5,8 @@
     "translit": "(kə·’ar·bā·‘îm)",
     "parse": "Preposition-k | Number - common plural",
     "str": "Strong's 705:  ",
-    "str2": "Forty"
+    "str2": "Forty",
+    "num": 705
   },
   {
     "word": "troops armed",
@@ -13,7 +14,8 @@
     "translit": "(ḥă·lū·ṣê)",
     "parse": "Verb - Qal - QalPassParticiple - masculine plural construct",
     "str": "Strong's 2502:  ",
-    "str2": "To pull off, to strip, to depart, to deliver, equip, present, strengthen"
+    "str2": "To pull off, to strip, to depart, to deliver, equip, present, strengthen",
+    "num": 2502
   },
   {
     "word": "for battle",
@@ -21,7 +23,8 @@
     "translit": "(lam·mil·ḥā·māh)",
     "parse": "Preposition-l, Article | Noun - feminine singular",
     "str": "Strong's 4421:  ",
-    "str2": "A battle, war"
+    "str2": "A battle, war",
+    "num": 4421
   },
   {
     "word": "crossed over",
@@ -29,7 +32,8 @@
     "translit": "(‘ā·ḇə·rū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 5674:  ",
-    "str2": "To pass over, through, or by, pass on"
+    "str2": "To pass over, through, or by, pass on",
+    "num": 5674
   },
   {
     "word": "before",
@@ -37,7 +41,8 @@
     "translit": "(lip̄·nê)",
     "parse": "Preposition-l | Noun - common plural construct",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "the LORD",
@@ -45,7 +50,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "into",
@@ -53,7 +59,8 @@
     "translit": "(’el)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the plains",
@@ -61,7 +68,8 @@
     "translit": "(‘ar·ḇō·wṯ)",
     "parse": "Noun - feminine plural construct",
     "str": "Strong's 6160:  ",
-    "str2": "Arabah -- a steppe or desert plain, also a desert valley running south from the Sea of Galilee"
+    "str2": "Arabah -- a steppe or desert plain, also a desert valley running south from the Sea of Galilee",
+    "num": 6160
   },
   {
     "word": "of Jericho.",
@@ -69,6 +77,7 @@
     "translit": "(yə·rî·ḥōw)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 3405:  ",
-    "str2": "Jericho -- a city in the Jordan Valley captured by Joshua"
+    "str2": "Jericho -- a city in the Jordan Valley captured by Joshua",
+    "num": 3405
   }
 ]

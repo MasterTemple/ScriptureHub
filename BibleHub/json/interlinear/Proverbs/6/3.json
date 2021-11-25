@@ -5,7 +5,8 @@
     "translit": "(’ê·p̄ō·w)",
     "parse": "Conjunction",
     "str": "Strong's 645:  ",
-    "str2": "Here, now, then"
+    "str2": "Here, now, then",
+    "num": 645
   },
   {
     "word": "do",
@@ -13,7 +14,8 @@
     "translit": "(‘ă·śêh)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "this,",
@@ -21,7 +23,8 @@
     "translit": "(zōṯ)",
     "parse": "Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "my son,",
@@ -29,7 +32,8 @@
     "translit": "(bə·nî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "to free yourself,",
@@ -37,7 +41,8 @@
     "translit": "(wə·hin·nā·ṣêl)",
     "parse": "Conjunctive waw | Verb - Nifal - Imperative - masculine singular",
     "str": "Strong's 5337:  ",
-    "str2": "To strip, plunder, deliver oneself, be delivered, snatch away, deliver"
+    "str2": "To strip, plunder, deliver oneself, be delivered, snatch away, deliver",
+    "num": 5337
   },
   {
     "word": "for",
@@ -45,7 +50,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you have fallen",
@@ -53,7 +59,8 @@
     "translit": "(ḇā·ṯā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "into your neighbor’s",
@@ -61,7 +68,8 @@
     "translit": "(rê·‘e·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 7453:  ",
-    "str2": "Friend, companion, fellow"
+    "str2": "Friend, companion, fellow",
+    "num": 7453
   },
   {
     "word": "hands:",
@@ -69,7 +77,8 @@
     "translit": "(ḇə·ḵap̄-)",
     "parse": "Preposition-b | Noun - feminine singular construct",
     "str": "Strong's 3709:  ",
-    "str2": "Hollow or flat of the hand, palm, sole (of the foot), a pan"
+    "str2": "Hollow or flat of the hand, palm, sole (of the foot), a pan",
+    "num": 3709
   },
   {
     "word": "Go,",
@@ -77,7 +86,8 @@
     "translit": "(lêḵ)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "humble yourself,",
@@ -85,7 +95,8 @@
     "translit": "(hiṯ·rap·pês)",
     "parse": "Verb - Hitpael - Imperative - masculine singular",
     "str": "Strong's 7511:  ",
-    "str2": "To trample, prostrate"
+    "str2": "To trample, prostrate",
+    "num": 7511
   },
   {
     "word": "and press your plea",
@@ -93,7 +104,8 @@
     "translit": "(ū·rə·haḇ)",
     "parse": "Conjunctive waw | Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 7292:  ",
-    "str2": "To urge severely, importune, embolden, capture, act insolently"
+    "str2": "To urge severely, importune, embolden, capture, act insolently",
+    "num": 7292
   },
   {
     "word": "with your neighbor.",
@@ -101,6 +113,7 @@
     "translit": "(rê·‘e·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 7453:  ",
-    "str2": "Friend, companion, fellow"
+    "str2": "Friend, companion, fellow",
+    "num": 7453
   }
 ]

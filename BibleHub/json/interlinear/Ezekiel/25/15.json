@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the Lord",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "says:",
@@ -29,7 +32,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘Because",
@@ -37,7 +41,8 @@
     "translit": "(ya·‘an)",
     "parse": "Adverb",
     "str": "Strong's 3282:  ",
-    "str2": "Heed, purpose, to indicate the reason, cause"
+    "str2": "Heed, purpose, to indicate the reason, cause",
+    "num": 3282
   },
   {
     "word": "the Philistines",
@@ -45,7 +50,8 @@
     "translit": "(pə·liš·tîm)",
     "parse": "Noun - proper - masculine plural",
     "str": "Strong's 6430:  ",
-    "str2": "Philistines -- inhabitants of Philistia"
+    "str2": "Philistines -- inhabitants of Philistia",
+    "num": 6430
   },
   {
     "word": "acted",
@@ -53,7 +59,8 @@
     "translit": "(‘ă·śō·wṯ)",
     "parse": "Verb - Qal - Infinitive construct",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "in vengeance",
@@ -61,7 +68,8 @@
     "translit": "(bin·qā·māh)",
     "parse": "Preposition-b | Noun - feminine singular",
     "str": "Strong's 5360:  ",
-    "str2": "Avengement"
+    "str2": "Avengement",
+    "num": 5360
   },
   {
     "word": "and took revenge",
@@ -69,7 +77,8 @@
     "translit": "(way·yin·nā·qə·mū)",
     "parse": "Conjunctive waw | Verb - Nifal - Consecutive imperfect - third person masculine plural",
     "str": "Strong's 5358:  ",
-    "str2": "To grudge, avenge, punish"
+    "str2": "To grudge, avenge, punish",
+    "num": 5358
   },
   {
     "word": "with contempt",
@@ -77,7 +86,8 @@
     "translit": "(biš·’āṭ)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 7589:  ",
-    "str2": "Despite, contempt"
+    "str2": "Despite, contempt",
+    "num": 7589
   },
   {
     "word": "of heart,",
@@ -85,7 +95,8 @@
     "translit": "(bə·ne·p̄eš)",
     "parse": "Preposition-b | Noun - feminine singular",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   },
   {
     "word": "to destroy [Judah]",
@@ -93,7 +104,8 @@
     "translit": "(lə·maš·ḥîṯ)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 4889:  ",
-    "str2": "Destructive, destruction"
+    "str2": "Destructive, destruction",
+    "num": 4889
   },
   {
     "word": "with ancient",
@@ -101,7 +113,8 @@
     "translit": "(‘ō·w·lām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5769:  ",
-    "str2": "Concealed, eternity, frequentatively, always"
+    "str2": "Concealed, eternity, frequentatively, always",
+    "num": 5769
   },
   {
     "word": "hostility,",
@@ -109,6 +122,7 @@
     "translit": "(’ê·ḇaṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 342:  ",
-    "str2": "Hostility"
+    "str2": "Hostility",
+    "num": 342
   }
 ]

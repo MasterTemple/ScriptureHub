@@ -5,7 +5,8 @@
     "translit": "(dyo)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 1417:  ",
-    "str2": "Two. A primary numeral; 'two'."
+    "str2": "Two. A primary numeral; 'two'.",
+    "num": 1417
   },
   {
     "word": "will be",
@@ -13,7 +14,8 @@
     "translit": "(esontai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "in",
@@ -21,7 +23,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "field:",
@@ -37,7 +41,8 @@
     "translit": "(agrō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 68:  ",
-    "str2": "From ago; a field; genitive case, the country; specially, a farm, i.e. Hamlet."
+    "str2": "From ago; a field; genitive case, the country; specially, a farm, i.e. Hamlet.",
+    "num": 68
   },
   {
     "word": "one",
@@ -45,7 +50,8 @@
     "translit": "(heis)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1520:  ",
-    "str2": "One. (including the neuter Hen); a primary numeral; one."
+    "str2": "One. (including the neuter Hen); a primary numeral; one.",
+    "num": 1520
   },
   {
     "word": "will be taken",
@@ -53,7 +59,8 @@
     "translit": "(paralambanetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 3880:  ",
-    "str2": "From para and lambano; to receive near, i.e. Associate with oneself; by analogy, to assume an office; figuratively, to learn."
+    "str2": "From para and lambano; to receive near, i.e. Associate with oneself; by analogy, to assume an office; figuratively, to learn.",
+    "num": 3880
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[the other]",
@@ -69,7 +77,8 @@
     "translit": "(heis)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1520:  ",
-    "str2": "One. (including the neuter Hen); a primary numeral; one."
+    "str2": "One. (including the neuter Hen); a primary numeral; one.",
+    "num": 1520
   },
   {
     "word": "left.",
@@ -77,6 +86,7 @@
     "translit": "(aphietai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 863:  ",
-    "str2": "From apo and hiemi; to send forth, in various applications."
+    "str2": "From apo and hiemi; to send forth, in various applications.",
+    "num": 863
   }
 ]

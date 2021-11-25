@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Joseph",
@@ -13,7 +14,8 @@
     "translit": "(Iōsēph)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2501:  ",
-    "str2": "Joseph, a proper name. Of Hebrew origin; Joseph, the name of seven Israelites."
+    "str2": "Joseph, a proper name. Of Hebrew origin; Joseph, the name of seven Israelites.",
+    "num": 2501
   },
   {
     "word": "sent for",
@@ -21,7 +23,8 @@
     "translit": "(aposteilas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 649:  ",
-    "str2": "From apo and stello; set apart, i.e. to send out literally or figuratively."
+    "str2": "From apo and stello; set apart, i.e. to send out literally or figuratively.",
+    "num": 649
   },
   {
     "word": "his",
@@ -29,7 +32,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "father",
@@ -37,7 +41,8 @@
     "translit": "(patera)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "Jacob",
@@ -45,7 +50,8 @@
     "translit": "(Iakōb)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2384:  ",
-    "str2": "Of Hebrew origin; Jacob, the progenitor of the Israelites."
+    "str2": "Of Hebrew origin; Jacob, the progenitor of the Israelites.",
+    "num": 2384
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "all",
@@ -61,7 +68,8 @@
     "translit": "(pasan)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "[his]",
@@ -69,7 +77,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "relatives,",
@@ -77,7 +86,8 @@
     "translit": "(syngeneian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4772:  ",
-    "str2": "Kindred, family. From suggenes; relationship, i.e. relatives."
+    "str2": "Kindred, family. From suggenes; relationship, i.e. relatives.",
+    "num": 4772
   },
   {
     "word": "seventy-five",
@@ -85,7 +95,8 @@
     "translit": "(hebdomēkonta)",
     "parse": "Adjective - Dative Feminine Plural",
     "str": "Strong's 1440:  ",
-    "str2": "Seventy. From hebdomos and a modified form of deka; seventy."
+    "str2": "Seventy. From hebdomos and a modified form of deka; seventy.",
+    "num": 1440
   },
   {
     "word": "in all.",
@@ -93,6 +104,7 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   }
 ]

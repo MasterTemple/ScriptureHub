@@ -5,7 +5,8 @@
     "translit": "(pro)",
     "parse": "Preposition",
     "str": "Strong's 4253:  ",
-    "str2": "A primary preposition; 'fore', i.e. In front of, prior to."
+    "str2": "A primary preposition; 'fore', i.e. In front of, prior to.",
+    "num": 4253
   },
   {
     "word": "all,",
@@ -13,7 +14,8 @@
     "translit": "(pantōn)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "love",
@@ -21,7 +23,8 @@
     "translit": "(agapēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 26:  ",
-    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast."
+    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast.",
+    "num": 26
   },
   {
     "word": "one another",
@@ -29,7 +32,8 @@
     "translit": "(heautous)",
     "parse": "Reflexive Pronoun - Accusative Masculine 3rd Person Plural",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   },
   {
     "word": "deeply,",
@@ -37,7 +41,8 @@
     "translit": "(ektenē)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 1618:  ",
-    "str2": "Intent, constant, strenuous, intense; met: earnest, zealous. From ekteino; intent."
+    "str2": "Intent, constant, strenuous, intense; met: earnest, zealous. From ekteino; intent.",
+    "num": 1618
   },
   {
     "word": "because",
@@ -45,7 +50,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "love",
@@ -53,7 +59,8 @@
     "translit": "(agapē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 26:  ",
-    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast."
+    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast.",
+    "num": 26
   },
   {
     "word": "covers over",
@@ -61,7 +68,8 @@
     "translit": "(kalyptei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2572:  ",
-    "str2": "To veil, hide, conceal, envelop. Akin to klepto and krupto; to cover up."
+    "str2": "To veil, hide, conceal, envelop. Akin to klepto and krupto; to cover up.",
+    "num": 2572
   },
   {
     "word": "a multitude",
@@ -69,7 +77,8 @@
     "translit": "(plēthos)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4128:  ",
-    "str2": "A multitude, crowd, great number, assemblage. From pletho; a fulness, i.e. A large number, throng, populace."
+    "str2": "A multitude, crowd, great number, assemblage. From pletho; a fulness, i.e. A large number, throng, populace.",
+    "num": 4128
   },
   {
     "word": "of sins.",
@@ -77,6 +86,7 @@
     "translit": "(hamartiōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 266:  ",
-    "str2": "From hamartano; a sin."
+    "str2": "From hamartano; a sin.",
+    "num": 266
   }
 ]

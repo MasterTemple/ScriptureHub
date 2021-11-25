@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely."
+    "str2": "And, even, also, namely.",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article."
+    "str2": "The, the definite article.",
+    "num": 3588
   },
   {
     "word": "Scripture",
@@ -21,7 +23,8 @@
     "translit": "(graphē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1124:  ",
-    "str2": "(a) a writing, (b) a passage of scripture; plural: the scriptures."
+    "str2": "(a) a writing, (b) a passage of scripture; plural: the scriptures.",
+    "num": 1124
   },
   {
     "word": "was fulfilled",
@@ -29,7 +32,8 @@
     "translit": "(eplērōthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 4137:  ",
-    "str2": "To fill, fulfill, complete."
+    "str2": "To fill, fulfill, complete.",
+    "num": 4137
   },
   {
     "word": "that",
@@ -37,7 +41,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article."
+    "str2": "The, the definite article.",
+    "num": 3588
   },
   {
     "word": "says,",
@@ -45,7 +50,8 @@
     "translit": "(legousa)",
     "parse": "Verb - Present Participle Active - Nominative Feminine Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(denoting speech in progress), (a) to say, speak; to mean, mention, tell, (b) to call, name, especially in the pass., (c) to tell, command."
+    "str2": "(denoting speech in progress), (a) to say, speak; to mean, mention, tell, (b) to call, name, especially in the pass., (c) to tell, command.",
+    "num": 3004
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely."
+    "str2": "And, even, also, namely.",
+    "num": 2532
   },
   {
     "word": "he was reckoned",
@@ -61,7 +68,8 @@
     "translit": "(elogisthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 3049:  ",
-    "str2": "To reckon, count, charge with; reason, decide, conclude; think, suppose."
+    "str2": "To reckon, count, charge with; reason, decide, conclude; think, suppose.",
+    "num": 3049
   },
   {
     "word": "with",
@@ -69,7 +77,8 @@
     "translit": "(meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) genitive: with, in company with, (b) accusative: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives."
+    "str2": "(a) genitive: with, in company with, (b) accusative: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives.",
+    "num": 3326
   },
   {
     "word": "[the] lawless.",
@@ -77,6 +86,7 @@
     "translit": "(anomōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 459:  ",
-    "str2": "Lawless, wicked, without law."
+    "str2": "Lawless, wicked, without law.",
+    "num": 459
   }
 ]

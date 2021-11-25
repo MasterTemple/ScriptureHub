@@ -5,7 +5,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "our God",
@@ -21,7 +23,8 @@
     "translit": "(’ĕ·lō·hê·nū)",
     "parse": "Noun - masculine plural construct | first person common plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "had commanded us,",
@@ -29,7 +32,8 @@
     "translit": "(ṣiw·wāh)",
     "parse": "Verb - Piel - Perfect - third person masculine singular",
     "str": "Strong's 6680:  ",
-    "str2": "To lay charge (upon), give charge (to), command, order"
+    "str2": "To lay charge (upon), give charge (to), command, order",
+    "num": 6680
   },
   {
     "word": "we set out",
@@ -37,7 +41,8 @@
     "translit": "(wan·nis·sa‘)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - first person common plural",
     "str": "Strong's 5265:  ",
-    "str2": "To pull up, the tent-pins, start on a, journey"
+    "str2": "To pull up, the tent-pins, start on a, journey",
+    "num": 5265
   },
   {
     "word": "from Horeb",
@@ -45,7 +50,8 @@
     "translit": "(mê·ḥō·rêḇ)",
     "parse": "Preposition-m | Noun - proper - feminine singular",
     "str": "Strong's 2722:  ",
-    "str2": "Horeb -- 'waste', a mountain in Sinai"
+    "str2": "Horeb -- 'waste', a mountain in Sinai",
+    "num": 2722
   },
   {
     "word": "and went",
@@ -53,7 +59,8 @@
     "translit": "(wan·nê·leḵ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - first person common plural",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "toward",
@@ -61,7 +68,8 @@
     "translit": "(de·reḵ)",
     "parse": "Noun - common singular construct",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   },
   {
     "word": "the hill country",
@@ -69,7 +77,8 @@
     "translit": "(har)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 2022:  ",
-    "str2": "Mountain, hill, hill country"
+    "str2": "Mountain, hill, hill country",
+    "num": 2022
   },
   {
     "word": "of the Amorites,",
@@ -77,7 +86,8 @@
     "translit": "(hā·’ĕ·mō·rî)",
     "parse": "Article | Noun - proper - masculine singular",
     "str": "Strong's 567:  ",
-    "str2": "Amorites -- perhaps 'mountain dwellers', a Canaanite tribe"
+    "str2": "Amorites -- perhaps 'mountain dwellers', a Canaanite tribe",
+    "num": 567
   },
   {
     "word": "through all",
@@ -85,7 +95,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the vast",
@@ -93,7 +104,8 @@
     "translit": "(hag·gā·ḏō·wl)",
     "parse": "Article | Adjective - masculine singular",
     "str": "Strong's 1419:  ",
-    "str2": "Great, older, insolent"
+    "str2": "Great, older, insolent",
+    "num": 1419
   },
   {
     "word": "and terrifying",
@@ -101,7 +113,8 @@
     "translit": "(wə·han·nō·w·rā)",
     "parse": "Conjunctive waw, Article | Verb - Nifal - Participle - masculine singular",
     "str": "Strong's 3372:  ",
-    "str2": "To fear, to revere, caus, to frighten"
+    "str2": "To fear, to revere, caus, to frighten",
+    "num": 3372
   },
   {
     "word": "wilderness",
@@ -109,7 +122,8 @@
     "translit": "(ham·miḏ·bār)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4057:  ",
-    "str2": "A pasture, a desert, speech"
+    "str2": "A pasture, a desert, speech",
+    "num": 4057
   },
   {
     "word": "you have seen.",
@@ -117,7 +131,8 @@
     "translit": "(rə·’î·ṯem)",
     "parse": "Verb - Qal - Perfect - second person masculine plural",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "When we reached",
@@ -125,7 +140,8 @@
     "translit": "(wan·nā·ḇō)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - first person common plural",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "Kadesh-barnea,",
@@ -133,6 +149,7 @@
     "translit": "(bar·nê·a‘)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 6947:  ",
-    "str2": "Kadesh-barnea -- a place in the desert"
+    "str2": "Kadesh-barnea -- a place in the desert",
+    "num": 6947
   }
 ]

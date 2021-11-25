@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the Lord",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "says:",
@@ -29,7 +32,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘This [is]",
@@ -37,7 +41,8 @@
     "translit": "(zōṯ)",
     "parse": "Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "Jerusalem,",
@@ -45,7 +50,8 @@
     "translit": "(yə·rū·šā·lim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 3389:  ",
-    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel"
+    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel",
+    "num": 3389
   },
   {
     "word": "which I have set",
@@ -53,7 +59,8 @@
     "translit": "(śam·tî·hā)",
     "parse": "Verb - Qal - Perfect - first person common singular | third person feminine singular",
     "str": "Strong's 7760:  ",
-    "str2": "Put -- to put, place, set"
+    "str2": "Put -- to put, place, set",
+    "num": 7760
   },
   {
     "word": "in the center",
@@ -61,7 +68,8 @@
     "translit": "(bə·ṯō·wḵ)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 8432:  ",
-    "str2": "A bisection, the centre"
+    "str2": "A bisection, the centre",
+    "num": 8432
   },
   {
     "word": "of the nations,",
@@ -69,7 +77,8 @@
     "translit": "(hag·gō·w·yim)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 1471:  ",
-    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts"
+    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+    "num": 1471
   },
   {
     "word": "with countries",
@@ -77,7 +86,8 @@
     "translit": "(’ă·rā·ṣō·wṯ)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "all around her.",
@@ -85,6 +95,7 @@
     "translit": "(ū·sə·ḇî·ḇō·w·ṯe·hā)",
     "parse": "Conjunctive waw | Adverb | third person feminine singular",
     "str": "Strong's 5439:  ",
-    "str2": "A circle, neighbour, environs, around"
+    "str2": "A circle, neighbour, environs, around",
+    "num": 5439
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "at the",
@@ -13,7 +14,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "hour",
@@ -21,7 +23,8 @@
     "translit": "(hōra)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 5610:  ",
-    "str2": "Apparently a primary word; an 'hour'."
+    "str2": "Apparently a primary word; an 'hour'.",
+    "num": 5610
   },
   {
     "word": "of the",
@@ -29,7 +32,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "incense offering,",
@@ -37,7 +41,8 @@
     "translit": "(thymiamatos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 2368:  ",
-    "str2": "Incense. From thumiao; an aroma, i.e. Fragrant powder burnt in religious service; by implication, the burning itself."
+    "str2": "Incense. From thumiao; an aroma, i.e. Fragrant powder burnt in religious service; by implication, the burning itself.",
+    "num": 2368
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "entire",
@@ -53,7 +59,8 @@
     "translit": "(pan)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "congregation",
@@ -61,7 +68,8 @@
     "translit": "(plēthos)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4128:  ",
-    "str2": "A multitude, crowd, great number, assemblage. From pletho; a fulness, i.e. A large number, throng, populace."
+    "str2": "A multitude, crowd, great number, assemblage. From pletho; a fulness, i.e. A large number, throng, populace.",
+    "num": 4128
   },
   {
     "word": "was",
@@ -69,7 +77,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "praying",
@@ -77,7 +86,8 @@
     "translit": "(proseuchomenon)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Neuter Singular",
     "str": "Strong's 4336:  ",
-    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship."
+    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship.",
+    "num": 4336
   },
   {
     "word": "outside.",
@@ -85,6 +95,7 @@
     "translit": "(exō)",
     "parse": "Adverb",
     "str": "Strong's 1854:  ",
-    "str2": "Without, outside. Adverb from ek; out(-side, of doors), literally or figuratively."
+    "str2": "Without, outside. Adverb from ek; out(-side, of doors), literally or figuratively.",
+    "num": 1854
   }
 ]

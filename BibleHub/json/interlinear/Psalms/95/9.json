@@ -5,7 +5,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "your fathers",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḇō·w·ṯê·ḵem)",
     "parse": "Noun - masculine plural construct | second person masculine plural",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "tested",
@@ -21,7 +23,8 @@
     "translit": "(nis·sū·nî)",
     "parse": "Verb - Piel - Perfect - third person common plural | first person common singular",
     "str": "Strong's 5254:  ",
-    "str2": "To test, to attempt"
+    "str2": "To test, to attempt",
+    "num": 5254
   },
   {
     "word": "and tried Me,",
@@ -29,7 +32,8 @@
     "translit": "(bə·ḥā·nū·nî)",
     "parse": "Verb - Qal - Perfect - third person common plural | first person common singular",
     "str": "Strong's 974:  ",
-    "str2": "To test, to investigate"
+    "str2": "To test, to investigate",
+    "num": 974
   },
   {
     "word": "though",
@@ -37,7 +41,8 @@
     "translit": "(gam-)",
     "parse": "Conjunction",
     "str": "Strong's 1571:  ",
-    "str2": "Assemblage, also, even, yea, though, both, and"
+    "str2": "Assemblage, also, even, yea, though, both, and",
+    "num": 1571
   },
   {
     "word": "they had seen",
@@ -45,7 +50,8 @@
     "translit": "(rā·’ū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "My work.",
@@ -53,6 +59,7 @@
     "translit": "(p̄ā·‘o·lî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 6467:  ",
-    "str2": "Doing, deed, work"
+    "str2": "Doing, deed, work",
+    "num": 6467
   }
 ]

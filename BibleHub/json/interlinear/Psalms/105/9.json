@@ -5,7 +5,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "He made",
@@ -13,7 +14,8 @@
     "translit": "(kā·raṯ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 3772:  ",
-    "str2": "To cut, to destroy, consume, to covenant"
+    "str2": "To cut, to destroy, consume, to covenant",
+    "num": 3772
   },
   {
     "word": "with",
@@ -21,7 +23,8 @@
     "translit": "(’eṯ-)",
     "parse": "Preposition",
     "str": "Strong's 854:  ",
-    "str2": "Nearness, near, with, by, at, among"
+    "str2": "Nearness, near, with, by, at, among",
+    "num": 854
   },
   {
     "word": "Abraham,",
@@ -29,7 +32,8 @@
     "translit": "(’aḇ·rā·hām)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 85:  ",
-    "str2": "Abraham -- 'exalted father', the father of the Jewish nation"
+    "str2": "Abraham -- 'exalted father', the father of the Jewish nation",
+    "num": 85
   },
   {
     "word": "and the oath He swore",
@@ -37,7 +41,8 @@
     "translit": "(ū·šə·ḇū·‘ā·ṯōw)",
     "parse": "Conjunctive waw | Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 7621:  ",
-    "str2": "Something sworn, an oath"
+    "str2": "Something sworn, an oath",
+    "num": 7621
   },
   {
     "word": "to Isaac.",
@@ -45,6 +50,7 @@
     "translit": "(lə·yiś·ḥāq)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3446:  ",
-    "str2": "Isaac "
+    "str2": "Isaac ",
+    "num": 3446
   }
 ]

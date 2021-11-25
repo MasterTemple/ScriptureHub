@@ -5,7 +5,8 @@
     "translit": "(ti)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Neuter Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "[does]",
@@ -13,7 +14,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "“He ascended” [mean],",
@@ -21,7 +23,8 @@
     "translit": "(Anebē)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 305:  ",
-    "str2": "To go up, mount, ascend; of things: I rise, spring up, come up. From ana and the base of basis; to go up."
+    "str2": "To go up, mount, ascend; of things: I rise, spring up, come up. From ana and the base of basis; to go up.",
+    "num": 305
   },
   {
     "word": "except",
@@ -29,7 +32,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "that",
@@ -37,7 +41,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "He also descended",
@@ -45,7 +50,8 @@
     "translit": "(katebē)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2597:  ",
-    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend."
+    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend.",
+    "num": 2597
   },
   {
     "word": "to",
@@ -53,7 +59,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "the",
@@ -61,7 +68,8 @@
     "translit": "(ta)",
     "parse": "Article - Accusative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "lower",
@@ -69,7 +77,8 @@
     "translit": "(katōtera)",
     "parse": "Adjective - Accusative Neuter Plural - Comparative",
     "str": "Strong's 2737:  ",
-    "str2": "Lower. Comparative from kato; inferior."
+    "str2": "Lower. Comparative from kato; inferior.",
+    "num": 2737
   },
   {
     "word": "parts",
@@ -77,7 +86,8 @@
     "translit": "(merē)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 3313:  ",
-    "str2": "A part, portion, share. From an obsolete but more primary form of meiromai; a division or share."
+    "str2": "A part, portion, share. From an obsolete but more primary form of meiromai; a division or share.",
+    "num": 3313
   },
   {
     "word": "of the",
@@ -85,7 +95,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "earth?",
@@ -93,6 +104,7 @@
     "translit": "(gēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1093:  ",
-    "str2": "Contracted from a primary word; soil; by extension a region, or the solid part or the whole of the terrene globe."
+    "str2": "Contracted from a primary word; soil; by extension a region, or the solid part or the whole of the terrene globe.",
+    "num": 1093
   }
 ]

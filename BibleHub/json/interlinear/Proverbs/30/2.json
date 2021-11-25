@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I [am]",
@@ -13,7 +14,8 @@
     "translit": "(’ā·nō·ḵî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "the most ignorant",
@@ -21,7 +23,8 @@
     "translit": "(ḇa·‘ar)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 1198:  ",
-    "str2": "Foot, of cattle brutishness, stupid"
+    "str2": "Foot, of cattle brutishness, stupid",
+    "num": 1198
   },
   {
     "word": "of men,",
@@ -29,7 +32,8 @@
     "translit": "(mê·’îš)",
     "parse": "Preposition-m | Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "and I lack",
@@ -37,7 +41,8 @@
     "translit": "(wə·lō-)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "the understanding",
@@ -45,7 +50,8 @@
     "translit": "(ḇî·naṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 998:  ",
-    "str2": "An understanding"
+    "str2": "An understanding",
+    "num": 998
   },
   {
     "word": "of a man.",
@@ -53,6 +59,7 @@
     "translit": "(’ā·ḏām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   }
 ]

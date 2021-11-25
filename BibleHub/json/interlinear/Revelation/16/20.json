@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "every",
@@ -13,7 +14,8 @@
     "translit": "(pasa)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "island",
@@ -21,7 +23,8 @@
     "translit": "(nēsos)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3520:  ",
-    "str2": "An island. Probably from the base of naus; an island."
+    "str2": "An island. Probably from the base of naus; an island.",
+    "num": 3520
   },
   {
     "word": "fled,",
@@ -29,7 +32,8 @@
     "translit": "(ephygen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 5343:  ",
-    "str2": "To flee, escape, shun. Apparently a primary verb; to run away; by implication, to shun; by analogy, to vanish."
+    "str2": "To flee, escape, shun. Apparently a primary verb; to run away; by implication, to shun; by analogy, to vanish.",
+    "num": 5343
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "no",
@@ -45,7 +50,8 @@
     "translit": "(ouch)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "mountain",
@@ -53,7 +59,8 @@
     "translit": "(orē)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 3735:  ",
-    "str2": "A mountain, hill. Probably from an obsolete oro; a mountain: -hill, mount(-ain)."
+    "str2": "A mountain, hill. Probably from an obsolete oro; a mountain: -hill, mount(-ain).",
+    "num": 3735
   },
   {
     "word": "could be found.",
@@ -61,6 +68,7 @@
     "translit": "(heurethēsan)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Plural",
     "str": "Strong's 2147:  ",
-    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find."
+    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find.",
+    "num": 2147
   }
 ]

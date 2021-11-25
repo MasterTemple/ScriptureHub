@@ -5,7 +5,8 @@
     "translit": "(wə·’ā·nō·ḵî)",
     "parse": "Conjunctive waw | Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "your God",
@@ -21,7 +23,8 @@
     "translit": "(’ĕ·lō·he·ḵā)",
     "parse": "Noun - masculine plural construct | second person masculine singular",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "ever since the land",
@@ -29,7 +32,8 @@
     "translit": "(mê·’e·reṣ)",
     "parse": "Preposition-m | Noun - feminine singular construct",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "of Egypt;",
@@ -37,7 +41,8 @@
     "translit": "(miṣ·rā·yim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 4714:  ",
-    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa"
+    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+    "num": 4714
   },
   {
     "word": "you know",
@@ -45,7 +50,8 @@
     "translit": "(ṯê·ḏā‘)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "no",
@@ -53,7 +59,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "God",
@@ -61,7 +68,8 @@
     "translit": "(wê·lō·hîm)",
     "parse": "Conjunctive waw | Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "but Me,",
@@ -69,7 +77,8 @@
     "translit": "(zū·lā·ṯî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 2108:  ",
-    "str2": "Scattering, removal, except"
+    "str2": "Scattering, removal, except",
+    "num": 2108
   },
   {
     "word": "for [there is] no",
@@ -77,7 +86,8 @@
     "translit": "(’a·yin)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "Savior",
@@ -85,7 +95,8 @@
     "translit": "(ū·mō·wō·šî·a‘)",
     "parse": "Conjunctive waw | Verb - Hifil - Participle - masculine singular",
     "str": "Strong's 3467:  ",
-    "str2": "To be open, wide, free, to be safe, to free, succor"
+    "str2": "To be open, wide, free, to be safe, to free, succor",
+    "num": 3467
   },
   {
     "word": "besides Me.",
@@ -93,6 +104,7 @@
     "translit": "(bil·tî)",
     "parse": "Preposition",
     "str": "Strong's 1115:  ",
-    "str2": "A failure of, not, except, without, unless, besides, because not, until"
+    "str2": "A failure of, not, except, without, unless, besides, because not, until",
+    "num": 1115
   }
 ]

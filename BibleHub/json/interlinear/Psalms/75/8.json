@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "a cup",
@@ -13,7 +14,8 @@
     "translit": "(ḵō·ws)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 3563:  ",
-    "str2": "A cup, a lot, some unclean bird, an owl"
+    "str2": "A cup, a lot, some unclean bird, an owl",
+    "num": 3563
   },
   {
     "word": "is in the hand",
@@ -21,7 +23,8 @@
     "translit": "(bə·yaḏ-)",
     "parse": "Preposition-b | Noun - feminine singular construct",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "of the LORD,",
@@ -29,7 +32,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "full of",
@@ -37,7 +41,8 @@
     "translit": "(mā·lê)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 4392:  ",
-    "str2": "Full, filling, fulness, fully"
+    "str2": "Full, filling, fulness, fully",
+    "num": 4392
   },
   {
     "word": "foaming",
@@ -45,7 +50,8 @@
     "translit": "(ḥā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 2560:  ",
-    "str2": "To boil up, to ferment, to glow, to smear with pitch"
+    "str2": "To boil up, to ferment, to glow, to smear with pitch",
+    "num": 2560
   },
   {
     "word": "wine",
@@ -53,7 +59,8 @@
     "translit": "(wə·ya·yin)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 3196:  ",
-    "str2": "Wine, intoxication"
+    "str2": "Wine, intoxication",
+    "num": 3196
   },
   {
     "word": "mixed with spices,",
@@ -61,7 +68,8 @@
     "translit": "(me·seḵ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4538:  ",
-    "str2": "A mixture, of wine with spices"
+    "str2": "A mixture, of wine with spices",
+    "num": 4538
   },
   {
     "word": "He pours",
@@ -69,7 +77,8 @@
     "translit": "(way·yag·gêr)",
     "parse": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 5064:  ",
-    "str2": "To flow, to stretch out, to pour out, down, to deliver over"
+    "str2": "To flow, to stretch out, to pour out, down, to deliver over",
+    "num": 5064
   },
   {
     "word": "from it,",
@@ -77,7 +86,8 @@
     "translit": "(miz·zeh)",
     "parse": "Preposition-m | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(’a·ḵōš-)",
     "parse": "Adverb",
     "str": "Strong's 389:  ",
-    "str2": "A particle of affirmation, surely"
+    "str2": "A particle of affirmation, surely",
+    "num": 389
   },
   {
     "word": "all",
@@ -93,7 +104,8 @@
     "translit": "(kōl)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the wicked",
@@ -101,7 +113,8 @@
     "translit": "(riš·‘ê-)",
     "parse": "Adjective - masculine plural construct",
     "str": "Strong's 7563:  ",
-    "str2": "Wrong, an, bad person"
+    "str2": "Wrong, an, bad person",
+    "num": 7563
   },
   {
     "word": "of the earth",
@@ -109,7 +122,8 @@
     "translit": "(’ā·reṣ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "drink it down",
@@ -117,7 +131,8 @@
     "translit": "(yiš·tū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 8354:  ",
-    "str2": "To imbibe"
+    "str2": "To imbibe",
+    "num": 8354
   },
   {
     "word": "it to the dregs.",
@@ -125,6 +140,7 @@
     "translit": "(mā·re·hā)",
     "parse": "Noun - masculine plural construct | third person feminine singular",
     "str": "Strong's 8105:  ",
-    "str2": "Something preserved, the settlings, of wine"
+    "str2": "Something preserved, the settlings, of wine",
+    "num": 8105
   }
 ]

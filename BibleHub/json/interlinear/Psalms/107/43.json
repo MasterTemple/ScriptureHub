@@ -5,7 +5,8 @@
     "translit": "(mî-)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "is wise",
@@ -13,7 +14,8 @@
     "translit": "(ḥā·ḵām)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 2450:  ",
-    "str2": "Wise"
+    "str2": "Wise",
+    "num": 2450
   },
   {
     "word": "pay heed",
@@ -21,7 +23,8 @@
     "translit": "(wə·yiš·mār-)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect - third person masculine singular",
     "str": "Strong's 8104:  ",
-    "str2": "To hedge about, guard, to protect, attend to"
+    "str2": "To hedge about, guard, to protect, attend to",
+    "num": 8104
   },
   {
     "word": "to these things",
@@ -29,7 +32,8 @@
     "translit": "(’êl·leh)",
     "parse": "Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   },
   {
     "word": "and consider",
@@ -37,7 +41,8 @@
     "translit": "(wə·yiṯ·bō·wn·nū)",
     "parse": "Conjunctive waw | Verb - Hitpael - Conjunctive imperfect - third person masculine plural",
     "str": "Strong's 995:  ",
-    "str2": "To separate mentally, understand"
+    "str2": "To separate mentally, understand",
+    "num": 995
   },
   {
     "word": "the loving devotion",
@@ -45,7 +50,8 @@
     "translit": "(ḥas·ḏê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 2617:  ",
-    "str2": "Kindness, piety, reproof, beauty"
+    "str2": "Kindness, piety, reproof, beauty",
+    "num": 2617
   },
   {
     "word": "of the LORD.",
@@ -53,6 +59,7 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[the people] {were} greatly",
@@ -13,7 +14,8 @@
     "translit": "(metriōs)",
     "parse": "Adverb",
     "str": "Strong's 3357:  ",
-    "str2": "Moderately, greatly, exceedingly. Adverb from a derivative of metron; moderately, i.e. Slightly."
+    "str2": "Moderately, greatly, exceedingly. Adverb from a derivative of metron; moderately, i.e. Slightly.",
+    "num": 3357
   },
   {
     "word": "relieved",
@@ -21,7 +23,8 @@
     "translit": "(pareklēthēsan)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Plural",
     "str": "Strong's 3870:  ",
-    "str2": "From para and kaleo; to call near, i.e. Invite, invoke."
+    "str2": "From para and kaleo; to call near, i.e. Invite, invoke.",
+    "num": 3870
   },
   {
     "word": "to take",
@@ -29,7 +32,8 @@
     "translit": "(ēgagon)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 71:  ",
-    "str2": "A primary verb; properly, to lead; by implication, to bring, drive, go, pass, or induce."
+    "str2": "A primary verb; properly, to lead; by implication, to bring, drive, go, pass, or induce.",
+    "num": 71
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "boy",
@@ -45,7 +50,8 @@
     "translit": "(paida)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3816:  ",
-    "str2": "Perhaps from paio; a boy, or, a girl, and a child; specially, a slave or servant."
+    "str2": "Perhaps from paio; a boy, or, a girl, and a child; specially, a slave or servant.",
+    "num": 3816
   },
   {
     "word": "[home] alive.",
@@ -53,6 +59,7 @@
     "translit": "(zōnta)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Singular",
     "str": "Strong's 2198:  ",
-    "str2": "To live, be alive. A primary verb; to live."
+    "str2": "To live, be alive. A primary verb; to live.",
+    "num": 2198
   }
 ]

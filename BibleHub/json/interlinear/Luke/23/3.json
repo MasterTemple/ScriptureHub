@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Pilate",
@@ -13,7 +14,8 @@
     "translit": "(Pilatos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4091:  ",
-    "str2": "Pilate. Of Latin origin; close-pressed, i.e. Firm; Pilatus, a Roman."
+    "str2": "Pilate. Of Latin origin; close-pressed, i.e. Firm; Pilatus, a Roman.",
+    "num": 4091
   },
   {
     "word": "asked",
@@ -21,7 +23,8 @@
     "translit": "(ērōtēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2065:  ",
-    "str2": "Apparently from ereo; to interrogate; by implication, to request."
+    "str2": "Apparently from ereo; to interrogate; by implication, to request.",
+    "num": 2065
   },
   {
     "word": "Him,",
@@ -29,7 +32,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“Are",
@@ -37,7 +41,8 @@
     "translit": "(ei)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "You",
@@ -45,7 +50,8 @@
     "translit": "(Sy)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "King",
@@ -61,7 +68,8 @@
     "translit": "(Basileus)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 935:  ",
-    "str2": "A king, ruler, but in some passages clearly to be translated: emperor. Probably from basis; a sovereign."
+    "str2": "A king, ruler, but in some passages clearly to be translated: emperor. Probably from basis; a sovereign.",
+    "num": 935
   },
   {
     "word": "of the",
@@ -69,7 +77,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Jews?”",
@@ -77,7 +86,8 @@
     "translit": "(Ioudaiōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 2453:  ",
-    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah."
+    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah.",
+    "num": 2453
   },
   {
     "word": "“You",
@@ -85,7 +95,8 @@
     "translit": "(Sy)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "have said [so],”",
@@ -93,7 +104,8 @@
     "translit": "(legeis)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "[Jesus] replied.",
@@ -101,6 +113,7 @@
     "translit": "(apokritheis)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Singular",
     "str": "Strong's 611:  ",
-    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak."
+    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak.",
+    "num": 611
   }
 ]

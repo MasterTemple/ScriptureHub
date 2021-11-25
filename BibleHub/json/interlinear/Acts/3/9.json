@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "all",
@@ -13,7 +14,8 @@
     "translit": "(pas)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "people",
@@ -29,7 +32,8 @@
     "translit": "(laos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2992:  ",
-    "str2": "Apparently a primary word; a people."
+    "str2": "Apparently a primary word; a people.",
+    "num": 2992
   },
   {
     "word": "saw",
@@ -37,7 +41,8 @@
     "translit": "(eiden)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "him",
@@ -45,7 +50,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "walking",
@@ -53,7 +59,8 @@
     "translit": "(peripatounta)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Singular",
     "str": "Strong's 4043:  ",
-    "str2": "From peri and pateo; to tread all around, i.e. Walk at large; figuratively, to live, deport oneself, follow."
+    "str2": "From peri and pateo; to tread all around, i.e. Walk at large; figuratively, to live, deport oneself, follow.",
+    "num": 4043
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "praising",
@@ -69,7 +77,8 @@
     "translit": "(ainounta)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Singular",
     "str": "Strong's 134:  ",
-    "str2": "To praise. From ainos; to praise."
+    "str2": "To praise. From ainos; to praise.",
+    "num": 134
   },
   {
     "word": "God,",
@@ -77,6 +86,7 @@
     "translit": "(Theon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’al)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "my sons;",
@@ -13,7 +14,8 @@
     "translit": "(bā·nāy)",
     "parse": "Noun - masculine plural construct | first person common singular",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "[it is] not",
@@ -21,7 +23,8 @@
     "translit": "(lō·w-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "a good",
@@ -29,7 +32,8 @@
     "translit": "(ṭō·w·ḇāh)",
     "parse": "Adjective - feminine singular",
     "str": "Strong's 2896:  ",
-    "str2": "Pleasant, agreeable, good"
+    "str2": "Pleasant, agreeable, good",
+    "num": 2896
   },
   {
     "word": "report",
@@ -37,7 +41,8 @@
     "translit": "(haš·šə·mu·‘āh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 8052:  ",
-    "str2": "Something heard, an announcement"
+    "str2": "Something heard, an announcement",
+    "num": 8052
   },
   {
     "word": "I",
@@ -45,7 +50,8 @@
     "translit": "(’ā·nō·ḵî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "hear",
@@ -53,7 +59,8 @@
     "translit": "(šō·mê·a‘)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "circulating among",
@@ -61,7 +68,8 @@
     "translit": "(ma·‘ă·ḇi·rîm)",
     "parse": "Verb - Hifil - Participle - masculine plural",
     "str": "Strong's 5674:  ",
-    "str2": "To pass over, through, or by, pass on"
+    "str2": "To pass over, through, or by, pass on",
+    "num": 5674
   },
   {
     "word": "the LORD’s",
@@ -69,7 +77,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "people.",
@@ -77,6 +86,7 @@
     "translit": "(‘am-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   }
 ]

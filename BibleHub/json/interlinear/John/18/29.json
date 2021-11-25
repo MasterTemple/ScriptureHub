@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "Pilate",
@@ -13,7 +14,8 @@
     "translit": "(Pilatos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4091:  ",
-    "str2": "Pilate. Of Latin origin; close-pressed, i.e. Firm; Pilatus, a Roman."
+    "str2": "Pilate. Of Latin origin; close-pressed, i.e. Firm; Pilatus, a Roman.",
+    "num": 4091
   },
   {
     "word": "went",
@@ -21,7 +23,8 @@
     "translit": "(Exēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1831:  ",
-    "str2": "To go out, come out. From ek and erchomai; to issue."
+    "str2": "To go out, come out. From ek and erchomai; to issue.",
+    "num": 1831
   },
   {
     "word": "out",
@@ -29,7 +32,8 @@
     "translit": "(exō)",
     "parse": "Adverb",
     "str": "Strong's 1854:  ",
-    "str2": "Without, outside. Adverb from ek; out(-side, of doors), literally or figuratively."
+    "str2": "Without, outside. Adverb from ek; out(-side, of doors), literally or figuratively.",
+    "num": 1854
   },
   {
     "word": "to",
@@ -37,7 +41,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "them",
@@ -45,7 +50,8 @@
     "translit": "(autous)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "asked,",
@@ -61,7 +68,8 @@
     "translit": "(phēsin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 5346:  ",
-    "str2": "To say, declare. Properly, the same as the base of phos and phaino; to show or make known one's thoughts, i.e. Speak or say."
+    "str2": "To say, declare. Properly, the same as the base of phos and phaino; to show or make known one's thoughts, i.e. Speak or say.",
+    "num": 5346
   },
   {
     "word": "“What",
@@ -69,7 +77,8 @@
     "translit": "(Tina)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Feminine Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "accusation",
@@ -77,7 +86,8 @@
     "translit": "(katēgorian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2724:  ",
-    "str2": "An accusation, charge. From kategoros; a complaint, i.e. Criminal charge."
+    "str2": "An accusation, charge. From kategoros; a complaint, i.e. Criminal charge.",
+    "num": 2724
   },
   {
     "word": "are you bringing",
@@ -85,7 +95,8 @@
     "translit": "(pherete)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 5342:  ",
-    "str2": "To carry, bear, bring; I conduct, lead; perhaps: I make publicly known. A primary verb."
+    "str2": "To carry, bear, bring; I conduct, lead; perhaps: I make publicly known. A primary verb.",
+    "num": 5342
   },
   {
     "word": "against",
@@ -93,7 +104,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "this",
@@ -101,7 +113,8 @@
     "translit": "(toutou)",
     "parse": "Demonstrative Pronoun - Genitive Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "man?”",
@@ -109,6 +122,7 @@
     "translit": "(anthrōpou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   }
 ]

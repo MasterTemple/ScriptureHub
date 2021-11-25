@@ -5,7 +5,8 @@
     "translit": "(edoxe)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1380:  ",
-    "str2": "To think, seem, appear, it seems."
+    "str2": "To think, seem, appear, it seems.",
+    "num": 1380
   },
   {
     "word": "however",
@@ -13,7 +14,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A weak adversative particle, generally placed second in its clause; but, on the other hand, and."
+    "str2": "A weak adversative particle, generally placed second in its clause; but, on the other hand, and.",
+    "num": 1161
   },
   {
     "word": "to Silas",
@@ -21,7 +23,8 @@
     "translit": "(Sila)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 4609:  ",
-    "str2": "Silas, a pet-form of the name Silvanus; a Roman citizen and a helper of Paul."
+    "str2": "Silas, a pet-form of the name Silvanus; a Roman citizen and a helper of Paul.",
+    "num": 4609
   },
   {
     "word": "to remain",
@@ -29,7 +32,8 @@
     "translit": "(epimeinai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 1961:  ",
-    "str2": "(a) to remain, tarry, (b) to remain in, persist in."
+    "str2": "(a) to remain, tarry, (b) to remain in, persist in.",
+    "num": 1961
   },
   {
     "word": "there.",
@@ -37,6 +41,7 @@
     "translit": "(autou)",
     "parse": "Adverb",
     "str": "Strong's 847:  ",
-    "str2": "Here, there."
+    "str2": "Here, there.",
+    "num": 847
   }
 ]

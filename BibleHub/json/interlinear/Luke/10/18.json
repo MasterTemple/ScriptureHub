@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "He said",
@@ -13,7 +14,8 @@
     "translit": "(Eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "to them,",
@@ -21,7 +23,8 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“I saw",
@@ -29,7 +32,8 @@
     "translit": "(Etheōroun)",
     "parse": "Verb - Imperfect Indicative Active - 1st Person Singular",
     "str": "Strong's 2334:  ",
-    "str2": "From a derivative of theaomai; to be a spectator of, i.e. Discern, (experience) or intensively (acknowledge)."
+    "str2": "From a derivative of theaomai; to be a spectator of, i.e. Discern, (experience) or intensively (acknowledge).",
+    "num": 2334
   },
   {
     "word": "Satan",
@@ -37,7 +41,8 @@
     "translit": "(Satanan)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 4567:  ",
-    "str2": "An adversary, Satan. Of Chaldee origin corresponding to ma'bad; the accuser, i.e. The devil."
+    "str2": "An adversary, Satan. Of Chaldee origin corresponding to ma'bad; the accuser, i.e. The devil.",
+    "num": 4567
   },
   {
     "word": "fall",
@@ -45,7 +50,8 @@
     "translit": "(pesonta)",
     "parse": "Verb - Aorist Participle Active - Accusative Masculine Singular",
     "str": "Strong's 4098:  ",
-    "str2": "A reduplicated and contracted form of peto; probably akin to petomai through the idea of alighting; to fall."
+    "str2": "A reduplicated and contracted form of peto; probably akin to petomai through the idea of alighting; to fall.",
+    "num": 4098
   },
   {
     "word": "like",
@@ -53,7 +59,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "lightning",
@@ -61,7 +68,8 @@
     "translit": "(astrapēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 796:  ",
-    "str2": "A flash of lightning, brightness, luster. From astrapto; lightning; by analogy, glare."
+    "str2": "A flash of lightning, brightness, luster. From astrapto; lightning; by analogy, glare.",
+    "num": 796
   },
   {
     "word": "from",
@@ -69,7 +77,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "heaven.",
@@ -77,6 +86,7 @@
     "translit": "(ouranou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3772:  ",
-    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel."
+    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel.",
+    "num": 3772
   }
 ]

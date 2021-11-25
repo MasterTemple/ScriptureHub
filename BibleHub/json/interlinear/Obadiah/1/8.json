@@ -5,7 +5,8 @@
     "translit": "(ha·hū)",
     "parse": "Article | Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "day,",
@@ -13,7 +14,8 @@
     "translit": "(bay·yō·wm)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "declares",
@@ -21,7 +23,8 @@
     "translit": "(nə·’um)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 5002:  ",
-    "str2": "An oracle"
+    "str2": "An oracle",
+    "num": 5002
   },
   {
     "word": "the LORD,",
@@ -29,7 +32,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "will I not",
@@ -37,7 +41,8 @@
     "translit": "(hă·lō·w)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "destroy",
@@ -45,7 +50,8 @@
     "translit": "(wə·ha·’ă·ḇaḏ·tî)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - first person common singular",
     "str": "Strong's 6:  ",
-    "str2": "To wander away, lose oneself, to perish"
+    "str2": "To wander away, lose oneself, to perish",
+    "num": 6
   },
   {
     "word": "the wise [men]",
@@ -53,7 +59,8 @@
     "translit": "(ḥă·ḵā·mîm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 2450:  ",
-    "str2": "Wise"
+    "str2": "Wise",
+    "num": 2450
   },
   {
     "word": "of Edom",
@@ -61,7 +68,8 @@
     "translit": "(mê·’ĕ·ḏō·wm)",
     "parse": "Preposition-m | Noun - proper - masculine singular",
     "str": "Strong's 123:  ",
-    "str2": "The name of a condiment"
+    "str2": "The name of a condiment",
+    "num": 123
   },
   {
     "word": "and the men of understanding",
@@ -69,7 +77,8 @@
     "translit": "(ū·ṯə·ḇū·nāh)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 8394:  ",
-    "str2": "Intelligence, an argument, caprice"
+    "str2": "Intelligence, an argument, caprice",
+    "num": 8394
   },
   {
     "word": "in the mountains",
@@ -77,7 +86,8 @@
     "translit": "(mê·har)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 2022:  ",
-    "str2": "Mountain, hill, hill country"
+    "str2": "Mountain, hill, hill country",
+    "num": 2022
   },
   {
     "word": "of Esau?",
@@ -85,6 +95,7 @@
     "translit": "(‘ê·śāw)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 6215:  ",
-    "str2": "Esau -- oldest son of Isaac"
+    "str2": "Esau -- oldest son of Isaac",
+    "num": 6215
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "this is what",
@@ -13,7 +14,8 @@
     "translit": "(ḵōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "of Hosts",
@@ -29,7 +32,8 @@
     "translit": "(ṣə·ḇā·’ō·wṯ)",
     "parse": "Noun - common plural",
     "str": "Strong's 6635:  ",
-    "str2": "A mass of persons, reg, organized for, war, a campaign"
+    "str2": "A mass of persons, reg, organized for, war, a campaign",
+    "num": 6635
   },
   {
     "word": "says:",
@@ -37,7 +41,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“After His glory",
@@ -45,7 +50,8 @@
     "translit": "(kā·ḇō·wḏ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3519:  ",
-    "str2": "Weight, splendor, copiousness"
+    "str2": "Weight, splendor, copiousness",
+    "num": 3519
   },
   {
     "word": "has sent me",
@@ -53,7 +59,8 @@
     "translit": "(šə·lā·ḥa·nî)",
     "parse": "Verb - Qal - Perfect - third person masculine singular | first person common singular",
     "str": "Strong's 7971:  ",
-    "str2": "To send away, for, out"
+    "str2": "To send away, for, out",
+    "num": 7971
   },
   {
     "word": "against",
@@ -61,7 +68,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the nations",
@@ -69,7 +77,8 @@
     "translit": "(hag·gō·w·yim)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 1471:  ",
-    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts"
+    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+    "num": 1471
   },
   {
     "word": "that have plundered you—",
@@ -77,7 +86,8 @@
     "translit": "(haš·šō·lə·lîm)",
     "parse": "Article | Verb - Qal - Participle - masculine plural",
     "str": "Strong's 7997:  ",
-    "str2": "To drop, strip, to plunder"
+    "str2": "To drop, strip, to plunder",
+    "num": 7997
   },
   {
     "word": "for",
@@ -85,7 +95,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "whoever touches",
@@ -93,7 +104,8 @@
     "translit": "(han·nō·ḡê·a‘)",
     "parse": "Article | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 5060:  ",
-    "str2": "To touch, lay the hand upon, to reach, violently, to strike"
+    "str2": "To touch, lay the hand upon, to reach, violently, to strike",
+    "num": 5060
   },
   {
     "word": "you",
@@ -101,7 +113,8 @@
     "translit": "(bā·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "touches",
@@ -109,7 +122,8 @@
     "translit": "(nō·ḡê·a‘)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 5060:  ",
-    "str2": "To touch, lay the hand upon, to reach, violently, to strike"
+    "str2": "To touch, lay the hand upon, to reach, violently, to strike",
+    "num": 5060
   },
   {
     "word": "the apple",
@@ -117,7 +131,8 @@
     "translit": "(bə·ḇā·ḇaṯ)",
     "parse": "Preposition-b | Noun - feminine singular construct",
     "str": "Strong's 892:  ",
-    "str2": "Something hollowed, pupil of the eye"
+    "str2": "Something hollowed, pupil of the eye",
+    "num": 892
   },
   {
     "word": "of His eye—",
@@ -125,6 +140,7 @@
     "translit": "(‘ê·nōw)",
     "parse": "Noun - common singular construct | third person masculine singular",
     "str": "Strong's 5869:  ",
-    "str2": "An eye, a fountain"
+    "str2": "An eye, a fountain",
+    "num": 5869
   }
 ]

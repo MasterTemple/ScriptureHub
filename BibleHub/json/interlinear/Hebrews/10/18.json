@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "where",
@@ -13,7 +14,8 @@
     "translit": "(Hopou)",
     "parse": "Adverb",
     "str": "Strong's 3699:  ",
-    "str2": "Where, whither, in what place. From hos and pou; what(-ever) where, i.e. At whichever spot."
+    "str2": "Where, whither, in what place. From hos and pou; what(-ever) where, i.e. At whichever spot.",
+    "num": 3699
   },
   {
     "word": "these",
@@ -21,7 +23,8 @@
     "translit": "(toutōn)",
     "parse": "Demonstrative Pronoun - Genitive Feminine Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "have been forgiven,",
@@ -29,7 +32,8 @@
     "translit": "(aphesis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 859:  ",
-    "str2": "A sending away, a letting go, a release, pardon, complete forgiveness. From aphiemi; freedom; pardon."
+    "str2": "A sending away, a letting go, a release, pardon, complete forgiveness. From aphiemi; freedom; pardon.",
+    "num": 859
   },
   {
     "word": "an offering",
@@ -37,7 +41,8 @@
     "translit": "(prosphora)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4376:  ",
-    "str2": "An offering, sacrifice. From prosphero; presentation; concretely, an oblation or sacrifice."
+    "str2": "An offering, sacrifice. From prosphero; presentation; concretely, an oblation or sacrifice.",
+    "num": 4376
   },
   {
     "word": "for",
@@ -45,7 +50,8 @@
     "translit": "(peri)",
     "parse": "Preposition",
     "str": "Strong's 4012:  ",
-    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time.",
+    "num": 4012
   },
   {
     "word": "sin",
@@ -53,7 +59,8 @@
     "translit": "(hamartias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 266:  ",
-    "str2": "From hamartano; a sin."
+    "str2": "From hamartano; a sin.",
+    "num": 266
   },
   {
     "word": "[is] no longer [ needed ].",
@@ -61,6 +68,7 @@
     "translit": "(ouketi)",
     "parse": "Adverb",
     "str": "Strong's 3765:  ",
-    "str2": "No longer, no more. Also ouk eti from ou and eti; not yet, no longer."
+    "str2": "No longer, no more. Also ouk eti from ou and eti; not yet, no longer.",
+    "num": 3765
   }
 ]

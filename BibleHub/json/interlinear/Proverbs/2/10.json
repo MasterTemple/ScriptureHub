@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "wisdom",
@@ -13,7 +14,8 @@
     "translit": "(ḥāḵ·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 2451:  ",
-    "str2": "Wisdom"
+    "str2": "Wisdom",
+    "num": 2451
   },
   {
     "word": "will enter",
@@ -21,7 +23,8 @@
     "translit": "(ṯā·ḇō·w)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "your heart,",
@@ -29,7 +32,8 @@
     "translit": "(ḇə·lib·be·ḵā)",
     "parse": "Preposition-b | Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 3820:  ",
-    "str2": "The heart, the feelings, the will, the intellect, centre"
+    "str2": "The heart, the feelings, the will, the intellect, centre",
+    "num": 3820
   },
   {
     "word": "and knowledge",
@@ -37,7 +41,8 @@
     "translit": "(wə·ḏa·‘aṯ)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 1847:  ",
-    "str2": "Knowledge"
+    "str2": "Knowledge",
+    "num": 1847
   },
   {
     "word": "will delight",
@@ -45,7 +50,8 @@
     "translit": "(yin·‘ām)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5276:  ",
-    "str2": "To be pleasant, delightful, or lovely"
+    "str2": "To be pleasant, delightful, or lovely",
+    "num": 5276
   },
   {
     "word": "your soul.",
@@ -53,6 +59,7 @@
     "translit": "(lə·nap̄·šə·ḵā)",
     "parse": "Preposition-l | Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   }
 ]

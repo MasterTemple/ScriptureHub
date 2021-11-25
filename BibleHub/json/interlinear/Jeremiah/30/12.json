@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "this is what",
@@ -13,7 +14,8 @@
     "translit": "(ḵōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "says:",
@@ -29,7 +32,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“Your injury",
@@ -37,7 +41,8 @@
     "translit": "(lə·šiḇ·rêḵ)",
     "parse": "Preposition-l | Noun - masculine singular construct | second person feminine singular",
     "str": "Strong's 7667:  ",
-    "str2": "A breaking, fracture, crushing, breach, crash"
+    "str2": "A breaking, fracture, crushing, breach, crash",
+    "num": 7667
   },
   {
     "word": "is incurable;",
@@ -45,7 +50,8 @@
     "translit": "(’ā·nūš)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 605:  ",
-    "str2": "To be frail, feeble, melancholy"
+    "str2": "To be frail, feeble, melancholy",
+    "num": 605
   },
   {
     "word": "your wound",
@@ -53,7 +59,8 @@
     "translit": "(mak·kā·ṯêḵ)",
     "parse": "Noun - feminine singular construct | second person feminine singular",
     "str": "Strong's 4347:  ",
-    "str2": "A wound, carnage, pestilence"
+    "str2": "A wound, carnage, pestilence",
+    "num": 4347
   },
   {
     "word": "[is] grievous.",
@@ -61,6 +68,7 @@
     "translit": "(naḥ·lāh)",
     "parse": "Verb - Nifal - Participle - feminine singular",
     "str": "Strong's 2470:  ",
-    "str2": "To be weak or sick"
+    "str2": "To be weak or sick",
+    "num": 2470
   }
 ]

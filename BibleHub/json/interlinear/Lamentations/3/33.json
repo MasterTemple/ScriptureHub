@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "He does not",
@@ -13,7 +14,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "willingly",
@@ -21,7 +23,8 @@
     "translit": "(mil·lib·bōw)",
     "parse": "Preposition-m | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 3820:  ",
-    "str2": "The heart, the feelings, the will, the intellect, centre"
+    "str2": "The heart, the feelings, the will, the intellect, centre",
+    "num": 3820
   },
   {
     "word": "afflict",
@@ -29,7 +32,8 @@
     "translit": "(‘in·nāh)",
     "parse": "Verb - Piel - Perfect - third person masculine singular",
     "str": "Strong's 6031:  ",
-    "str2": "To be bowed down or afflicted"
+    "str2": "To be bowed down or afflicted",
+    "num": 6031
   },
   {
     "word": "or grieve",
@@ -37,7 +41,8 @@
     "translit": "(way·yag·geh)",
     "parse": "Conjunctive waw | Verb - Piel - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 3013:  ",
-    "str2": "To grieve"
+    "str2": "To grieve",
+    "num": 3013
   },
   {
     "word": "the sons",
@@ -45,7 +50,8 @@
     "translit": "(bə·nê-)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of men.",
@@ -53,6 +59,7 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   }
 ]

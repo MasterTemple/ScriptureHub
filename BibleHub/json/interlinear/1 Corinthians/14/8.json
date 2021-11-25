@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "[the] trumpet",
@@ -21,7 +23,8 @@
     "translit": "(salpinx)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4536:  ",
-    "str2": "A trumpet, the sound of a trumpet. Perhaps from salos; a trumpet."
+    "str2": "A trumpet, the sound of a trumpet. Perhaps from salos; a trumpet.",
+    "num": 4536
   },
   {
     "word": "sounds",
@@ -29,7 +32,8 @@
     "translit": "(dō)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "a muffled",
@@ -37,7 +41,8 @@
     "translit": "(adēlon)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 82:  ",
-    "str2": "Unseen, not obvious, inconspicuous, indistinct. Hidden, figuratively, indistinct."
+    "str2": "Unseen, not obvious, inconspicuous, indistinct. Hidden, figuratively, indistinct.",
+    "num": 82
   },
   {
     "word": "call,",
@@ -45,7 +50,8 @@
     "translit": "(phōnēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5456:  ",
-    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language."
+    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language.",
+    "num": 5456
   },
   {
     "word": "who",
@@ -53,7 +59,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "will prepare",
@@ -61,7 +68,8 @@
     "translit": "(paraskeuasetai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Singular",
     "str": "Strong's 3903:  ",
-    "str2": "To prepare; mid: I prepare, make preparations. From para and a derivative of skeuos; to furnish aside, i.e. Get ready."
+    "str2": "To prepare; mid: I prepare, make preparations. From para and a derivative of skeuos; to furnish aside, i.e. Get ready.",
+    "num": 3903
   },
   {
     "word": "for",
@@ -69,7 +77,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "battle?",
@@ -77,6 +86,7 @@
     "translit": "(polemon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 4171:  ",
-    "str2": "A war, battle, strife. From pelomai; warfare."
+    "str2": "A war, battle, strife. From pelomai; warfare.",
+    "num": 4171
   }
 ]

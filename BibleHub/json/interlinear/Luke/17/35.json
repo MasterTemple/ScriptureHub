@@ -5,7 +5,8 @@
     "translit": "(dyo)",
     "parse": "Adjective - Nominative Feminine Plural",
     "str": "Strong's 1417:  ",
-    "str2": "Two. A primary numeral; 'two'."
+    "str2": "Two. A primary numeral; 'two'.",
+    "num": 1417
   },
   {
     "word": "will be",
@@ -13,7 +14,8 @@
     "translit": "(esontai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "grinding grain",
@@ -21,7 +23,8 @@
     "translit": "(alēthousai)",
     "parse": "Verb - Present Participle Active - Nominative Feminine Plural",
     "str": "Strong's 229:  ",
-    "str2": "To grind. From the same as aleuron; to grind."
+    "str2": "To grind. From the same as aleuron; to grind.",
+    "num": 229
   },
   {
     "word": "together:",
@@ -29,7 +32,8 @@
     "translit": "(auto)",
     "parse": "Personal / Possessive Pronoun - Accusative Neuter 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "One",
@@ -37,7 +41,8 @@
     "translit": "(mia)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 1520:  ",
-    "str2": "One. (including the neuter Hen); a primary numeral; one."
+    "str2": "One. (including the neuter Hen); a primary numeral; one.",
+    "num": 1520
   },
   {
     "word": "will be taken",
@@ -45,7 +50,8 @@
     "translit": "(paralēmphthēsetai)",
     "parse": "Verb - Future Indicative Passive - 3rd Person Singular",
     "str": "Strong's 3880:  ",
-    "str2": "From para and lambano; to receive near, i.e. Associate with oneself; by analogy, to assume an office; figuratively, to learn."
+    "str2": "From para and lambano; to receive near, i.e. Associate with oneself; by analogy, to assume an office; figuratively, to learn.",
+    "num": 3880
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -61,7 +68,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "other",
@@ -69,7 +77,8 @@
     "translit": "(hetera)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 2087:  ",
-    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different."
+    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different.",
+    "num": 2087
   },
   {
     "word": "left.”",
@@ -77,6 +86,7 @@
     "translit": "(aphethēsetai)",
     "parse": "Verb - Future Indicative Passive - 3rd Person Singular",
     "str": "Strong's 863:  ",
-    "str2": "From apo and hiemi; to send forth, in various applications."
+    "str2": "From apo and hiemi; to send forth, in various applications.",
+    "num": 863
   }
 ]

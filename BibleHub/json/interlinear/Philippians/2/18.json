@@ -5,7 +5,8 @@
     "translit": "(auto)",
     "parse": "Personal / Possessive Pronoun - Accusative Neuter 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "you",
@@ -13,7 +14,8 @@
     "translit": "(hymeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "too",
@@ -21,7 +23,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "should be glad",
@@ -29,7 +32,8 @@
     "translit": "(chairete)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 5463:  ",
-    "str2": "A primary verb; to be 'cheer'ful, i.e. Calmly happy or well-off; impersonally, especially as salutation, be well."
+    "str2": "A primary verb; to be 'cheer'ful, i.e. Calmly happy or well-off; impersonally, especially as salutation, be well.",
+    "num": 5463
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "rejoice with",
@@ -45,7 +50,8 @@
     "translit": "(synchairete)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 4796:  ",
-    "str2": "To rejoice with, congratulate. From sun and chairo; to sympathize in gladness, congratulate."
+    "str2": "To rejoice with, congratulate. From sun and chairo; to sympathize in gladness, congratulate.",
+    "num": 4796
   },
   {
     "word": "me.",
@@ -53,6 +59,7 @@
     "translit": "(moi)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   }
 ]

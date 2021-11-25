@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "by",
@@ -13,7 +14,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "faith",
@@ -21,7 +23,8 @@
     "translit": "(pisteōs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4102:  ",
-    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. "
+    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. ",
+    "num": 4102
   },
   {
     "word": "we",
@@ -29,7 +32,8 @@
     "translit": "(Hēmeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "eagerly await",
@@ -37,7 +41,8 @@
     "translit": "(apekdechometha)",
     "parse": "Verb - Present Indicative Middle or Passive - 1st Person Plural",
     "str": "Strong's 553:  ",
-    "str2": "To expect eagerly, wait for eagerly, look for. From apo and ekdechomai; to expect fully."
+    "str2": "To expect eagerly, wait for eagerly, look for. From apo and ekdechomai; to expect fully.",
+    "num": 553
   },
   {
     "word": "through [the] Spirit",
@@ -45,7 +50,8 @@
     "translit": "(Pneumati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "[the] hope",
@@ -53,7 +59,8 @@
     "translit": "(elpida)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1680:  ",
-    "str2": "Hope, expectation, trust, confidence. From a primary elpo; expectation or confidence."
+    "str2": "Hope, expectation, trust, confidence. From a primary elpo; expectation or confidence.",
+    "num": 1680
   },
   {
     "word": "of righteousness.",
@@ -61,6 +68,7 @@
     "translit": "(dikaiosynēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1343:  ",
-    "str2": "From dikaios; equity; specially justification."
+    "str2": "From dikaios; equity; specially justification.",
+    "num": 1343
   }
 ]

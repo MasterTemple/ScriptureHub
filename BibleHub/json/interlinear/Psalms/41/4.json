@@ -5,7 +5,8 @@
     "translit": "(’ănî-)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "said,",
@@ -13,7 +14,8 @@
     "translit": "(’ā·mar·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“O LORD,",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "be gracious to me;",
@@ -29,7 +32,8 @@
     "translit": "(ḥān·nê·nî)",
     "parse": "Verb - Qal - Imperative - masculine singular | first person common singular",
     "str": "Strong's 2603:  ",
-    "str2": "To bend, stoop in kindness to an inferior, to favor, bestow, to implore"
+    "str2": "To bend, stoop in kindness to an inferior, to favor, bestow, to implore",
+    "num": 2603
   },
   {
     "word": "heal",
@@ -37,7 +41,8 @@
     "translit": "(rə·p̄ā·’āh)",
     "parse": "Verb - Qal - Imperative - masculine singular | third person feminine singular",
     "str": "Strong's 7495:  ",
-    "str2": "To mend, to cure"
+    "str2": "To mend, to cure",
+    "num": 7495
   },
   {
     "word": "me,",
@@ -45,7 +50,8 @@
     "translit": "(nap̄·šî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   },
   {
     "word": "for",
@@ -53,7 +59,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I have sinned against You.”",
@@ -61,6 +68,7 @@
     "translit": "(ḥā·ṭā·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 2398:  ",
-    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn"
+    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn",
+    "num": 2398
   }
 ]

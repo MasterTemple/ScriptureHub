@@ -5,7 +5,8 @@
     "translit": "(houtos)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "is staying",
@@ -13,7 +14,8 @@
     "translit": "(xenizetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 3579:  ",
-    "str2": "(a) I entertain a stranger, (b) I startle, bewilder. From xenos; to be a host; by implication, be strange."
+    "str2": "(a) I entertain a stranger, (b) I startle, bewilder. From xenos; to be a host; by implication, be strange.",
+    "num": 3579
   },
   {
     "word": "with",
@@ -21,7 +23,8 @@
     "translit": "(para)",
     "parse": "Preposition",
     "str": "Strong's 3844:  ",
-    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. "
+    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. ",
+    "num": 3844
   },
   {
     "word": "Simon",
@@ -29,7 +32,8 @@
     "translit": "(Simōni)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 4613:  ",
-    "str2": "Simon. Of Hebrew origin; Simon, the name of nine Israelites."
+    "str2": "Simon. Of Hebrew origin; Simon, the name of nine Israelites.",
+    "num": 4613
   },
   {
     "word": "[the] tanner,",
@@ -37,7 +41,8 @@
     "translit": "(byrsei)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 1038:  ",
-    "str2": "A tanner. From bursa; a tanner."
+    "str2": "A tanner. From bursa; a tanner.",
+    "num": 1038
   },
   {
     "word": "whose",
@@ -45,7 +50,8 @@
     "translit": "(hō)",
     "parse": "Personal / Relative Pronoun - Dative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "house",
@@ -53,7 +59,8 @@
     "translit": "(oikia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3614:  ",
-    "str2": "From oikos; properly, residence, but usually an abode; by implication, a family."
+    "str2": "From oikos; properly, residence, but usually an abode; by implication, a family.",
+    "num": 3614
   },
   {
     "word": "is",
@@ -61,7 +68,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "by",
@@ -69,7 +77,8 @@
     "translit": "(para)",
     "parse": "Preposition",
     "str": "Strong's 3844:  ",
-    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. "
+    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. ",
+    "num": 3844
   },
   {
     "word": "[the] sea.”",
@@ -77,6 +86,7 @@
     "translit": "(thalassan)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2281:  ",
-    "str2": "Probably prolonged from hals; the sea."
+    "str2": "Probably prolonged from hals; the sea.",
+    "num": 2281
   }
 ]

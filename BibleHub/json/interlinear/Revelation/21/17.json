@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he measured",
@@ -13,7 +14,8 @@
     "translit": "(emetrēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3354:  ",
-    "str2": "To measure (out), estimate. From metron; to measure; by implication, to admeasure."
+    "str2": "To measure (out), estimate. From metron; to measure; by implication, to admeasure.",
+    "num": 3354
   },
   {
     "word": "its",
@@ -21,7 +23,8 @@
     "translit": "(autēs)",
     "parse": "Personal / Possessive Pronoun - Genitive Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "wall [to be]",
@@ -29,7 +32,8 @@
     "translit": "(teichos)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 5038:  ",
-    "str2": "A wall, especially of a city. Akin to the base of tikto; a wall."
+    "str2": "A wall, especially of a city. Akin to the base of tikto; a wall.",
+    "num": 5038
   },
   {
     "word": "144 {}",
@@ -37,7 +41,8 @@
     "translit": "(hekaton)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 1540:  ",
-    "str2": "One hundred. Of uncertain affinity; a hundred."
+    "str2": "One hundred. Of uncertain affinity; a hundred.",
+    "num": 1540
   },
   {
     "word": "cubits,",
@@ -45,7 +50,8 @@
     "translit": "(pēchōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 4083:  ",
-    "str2": "A cubit, about a foot and a half. Of uncertain affinity; the fore-arm, i.e. a cubit."
+    "str2": "A cubit, about a foot and a half. Of uncertain affinity; the fore-arm, i.e. a cubit.",
+    "num": 4083
   },
   {
     "word": "by the human",
@@ -53,7 +59,8 @@
     "translit": "(anthrōpou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "measure",
@@ -61,7 +68,8 @@
     "translit": "(metron)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3358:  ",
-    "str2": "An apparently primary word; a measure, literally or figuratively; by implication, a limited portion."
+    "str2": "An apparently primary word; a measure, literally or figuratively; by implication, a limited portion.",
+    "num": 3358
   },
   {
     "word": "the angel",
@@ -69,7 +77,8 @@
     "translit": "(angelou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 32:  ",
-    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor."
+    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor.",
+    "num": 32
   },
   {
     "word": "was [using].",
@@ -77,6 +86,7 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   }
 ]

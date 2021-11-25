@@ -5,7 +5,8 @@
     "translit": "(pantote)",
     "parse": "Adverb",
     "str": "Strong's 3842:  ",
-    "str2": "Always, at all times, ever. From pas and hote; every when, i.e. At all times."
+    "str2": "Always, at all times, ever. From pas and hote; every when, i.e. At all times.",
+    "num": 3842
   },
   {
     "word": "giving thanks",
@@ -13,7 +14,8 @@
     "translit": "(eucharistountes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2168:  ",
-    "str2": "From eucharistos; to be grateful, i.e. to express gratitude; specially, to say grace at a meal."
+    "str2": "From eucharistos; to be grateful, i.e. to express gratitude; specially, to say grace at a meal.",
+    "num": 2168
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "God",
@@ -29,7 +32,8 @@
     "translit": "(Theō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "[the] Father",
@@ -37,7 +41,8 @@
     "translit": "(Patri)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "for",
@@ -45,7 +50,8 @@
     "translit": "(hyper)",
     "parse": "Preposition",
     "str": "Strong's 5228:  ",
-    "str2": "Gen: in behalf of; acc: above. "
+    "str2": "Gen: in behalf of; acc: above. ",
+    "num": 5228
   },
   {
     "word": "everything",
@@ -53,7 +59,8 @@
     "translit": "(pantōn)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "in",
@@ -61,7 +68,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[the] name",
@@ -69,7 +77,8 @@
     "translit": "(onomati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 3686:  ",
-    "str2": "Name, character, fame, reputation. From a presumed derivative of the base of ginosko; a 'name'."
+    "str2": "Name, character, fame, reputation. From a presumed derivative of the base of ginosko; a 'name'.",
+    "num": 3686
   },
   {
     "word": "of our",
@@ -77,7 +86,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "Lord",
@@ -85,7 +95,8 @@
     "translit": "(Kyriou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "Jesus",
@@ -93,7 +104,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "Christ.",
@@ -101,6 +113,7 @@
     "translit": "(Christou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   }
 ]

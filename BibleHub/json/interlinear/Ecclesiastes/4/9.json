@@ -5,7 +5,8 @@
     "translit": "(haš·šə·na·yim)",
     "parse": "Article | Number - md",
     "str": "Strong's 8147:  ",
-    "str2": "Two (a cardinal number)"
+    "str2": "Two (a cardinal number)",
+    "num": 8147
   },
   {
     "word": "are better",
@@ -13,7 +14,8 @@
     "translit": "(ṭō·w·ḇîm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 2896:  ",
-    "str2": "Pleasant, agreeable, good"
+    "str2": "Pleasant, agreeable, good",
+    "num": 2896
   },
   {
     "word": "than",
@@ -21,7 +23,8 @@
     "translit": "(min-)",
     "parse": "Preposition",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "one,",
@@ -29,7 +32,8 @@
     "translit": "(hā·’e·ḥāḏ)",
     "parse": "Article | Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "because",
@@ -37,7 +41,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "they have",
@@ -45,7 +50,8 @@
     "translit": "(yêš-)",
     "parse": "Adverb",
     "str": "Strong's 3426:  ",
-    "str2": "Being, substance, existence, is"
+    "str2": "Being, substance, existence, is",
+    "num": 3426
   },
   {
     "word": "a good",
@@ -53,7 +59,8 @@
     "translit": "(ṭō·wḇ)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 2896:  ",
-    "str2": "Pleasant, agreeable, good"
+    "str2": "Pleasant, agreeable, good",
+    "num": 2896
   },
   {
     "word": "return",
@@ -61,7 +68,8 @@
     "translit": "(śā·ḵār)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7939:  ",
-    "str2": "Payment of contract, salary, fare, maintenance, compensation, benefit"
+    "str2": "Payment of contract, salary, fare, maintenance, compensation, benefit",
+    "num": 7939
   },
   {
     "word": "for their labor.",
@@ -69,6 +77,7 @@
     "translit": "(ba·‘ă·mā·lām)",
     "parse": "Preposition-b | Noun - masculine singular construct | third person masculine plural",
     "str": "Strong's 5999:  ",
-    "str2": "Toil, wearing effort, worry, wheth, of body, mind"
+    "str2": "Toil, wearing effort, worry, wheth, of body, mind",
+    "num": 5999
   }
 ]

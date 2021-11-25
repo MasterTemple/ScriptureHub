@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "My",
@@ -13,7 +14,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "yoke",
@@ -21,7 +23,8 @@
     "translit": "(zygos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2218:  ",
-    "str2": "From the root of zeugnumi; a coupling, i.e. servitude; also the beam of the balance."
+    "str2": "From the root of zeugnumi; a coupling, i.e. servitude; also the beam of the balance.",
+    "num": 2218
   },
   {
     "word": "is easy",
@@ -29,7 +32,8 @@
     "translit": "(chrēstos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 5543:  ",
-    "str2": "Useful, gentle, pleasant, kind. From chraomai; employed, i.e. useful."
+    "str2": "Useful, gentle, pleasant, kind. From chraomai; employed, i.e. useful.",
+    "num": 5543
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "My",
@@ -45,7 +50,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "burden",
@@ -53,7 +59,8 @@
     "translit": "(phortion)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 5413:  ",
-    "str2": "A burden; the freight of a ship. Diminutive of phortos; an invoice, i.e. a task or service."
+    "str2": "A burden; the freight of a ship. Diminutive of phortos; an invoice, i.e. a task or service.",
+    "num": 5413
   },
   {
     "word": "is",
@@ -61,7 +68,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "light.”",
@@ -69,6 +77,7 @@
     "translit": "(elaphron)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 1645:  ",
-    "str2": "Light, not burdensome. Probably akin to elauno and the base of elasson; light, i.e. Easy."
+    "str2": "Light, not burdensome. Probably akin to elauno and the base of elasson; light, i.e. Easy.",
+    "num": 1645
   }
 ]

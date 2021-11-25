@@ -5,7 +5,8 @@
     "translit": "(haš·šê·nî)",
     "parse": "Article | Number - ordinal masculine singular",
     "str": "Strong's 8145:  ",
-    "str2": "Second (an ordinal number)"
+    "str2": "Second (an ordinal number)",
+    "num": 8145
   },
   {
     "word": "day",
@@ -13,7 +14,8 @@
     "translit": "(bay·yō·wm)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "the Israelites",
@@ -21,7 +23,8 @@
     "translit": "(ḇə·nê-)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "advanced",
@@ -29,7 +32,8 @@
     "translit": "(way·yiq·rə·ḇū)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
     "str": "Strong's 7126:  ",
-    "str2": "To come near, approach"
+    "str2": "To come near, approach",
+    "num": 7126
   },
   {
     "word": "against",
@@ -37,7 +41,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the Benjamites.",
@@ -45,6 +50,7 @@
     "translit": "(bə·nê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Stephen,",
@@ -13,7 +14,8 @@
     "translit": "(Stephanos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4736:  ",
-    "str2": "The same as stephanos; Stephanus, a Christian."
+    "str2": "The same as stephanos; Stephanus, a Christian.",
+    "num": 4736
   },
   {
     "word": "full",
@@ -21,7 +23,8 @@
     "translit": "(plērēs)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 4134:  ",
-    "str2": "Full, abounding in, complete, completely occupied with. From pletho; replete, or covered over; by analogy, complete."
+    "str2": "Full, abounding in, complete, completely occupied with. From pletho; replete, or covered over; by analogy, complete.",
+    "num": 4134
   },
   {
     "word": "of grace",
@@ -29,7 +32,8 @@
     "translit": "(charitos)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 5485:  ",
-    "str2": "From chairo; graciousness, of manner or act."
+    "str2": "From chairo; graciousness, of manner or act.",
+    "num": 5485
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "power,",
@@ -45,7 +50,8 @@
     "translit": "(dynameōs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1411:  ",
-    "str2": "From dunamai; force; specially, miraculous power."
+    "str2": "From dunamai; force; specially, miraculous power.",
+    "num": 1411
   },
   {
     "word": "was performing",
@@ -53,7 +59,8 @@
     "translit": "(epoiei)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "great",
@@ -61,7 +68,8 @@
     "translit": "(megala)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 3173:  ",
-    "str2": "Large, great, in the widest sense. "
+    "str2": "Large, great, in the widest sense. ",
+    "num": 3173
   },
   {
     "word": "wonders",
@@ -69,7 +77,8 @@
     "translit": "(terata)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 5059:  ",
-    "str2": "A wonder, portent, marvel. Of uncertain affinity; a prodigy or omen."
+    "str2": "A wonder, portent, marvel. Of uncertain affinity; a prodigy or omen.",
+    "num": 5059
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "signs",
@@ -85,7 +95,8 @@
     "translit": "(sēmeia)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 4592:  ",
-    "str2": "Neuter of a presumed derivative of the base of semaino; an indication, especially ceremonially or supernaturally."
+    "str2": "Neuter of a presumed derivative of the base of semaino; an indication, especially ceremonially or supernaturally.",
+    "num": 4592
   },
   {
     "word": "among",
@@ -93,7 +104,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "people.",
@@ -109,6 +122,7 @@
     "translit": "(laō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2992:  ",
-    "str2": "Apparently a primary word; a people."
+    "str2": "Apparently a primary word; a people.",
+    "num": 2992
   }
 ]

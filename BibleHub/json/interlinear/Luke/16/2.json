@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he called",
@@ -13,7 +14,8 @@
     "translit": "(phōnēsas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 5455:  ",
-    "str2": "From phone; to emit a sound; by implication, to address in words or by name, also in imitation."
+    "str2": "From phone; to emit a sound; by implication, to address in words or by name, also in imitation.",
+    "num": 5455
   },
   {
     "word": "him in",
@@ -21,7 +23,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "to ask,",
@@ -29,7 +32,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "‘What [is]",
@@ -37,7 +41,8 @@
     "translit": "(Ti)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Neuter Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "this",
@@ -45,7 +50,8 @@
     "translit": "(touto)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "I hear",
@@ -53,7 +59,8 @@
     "translit": "(akouō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "about",
@@ -61,7 +68,8 @@
     "translit": "(peri)",
     "parse": "Preposition",
     "str": "Strong's 4012:  ",
-    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time.",
+    "num": 4012
   },
   {
     "word": "you?",
@@ -69,7 +77,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "Turn in",
@@ -77,7 +86,8 @@
     "translit": "(apodos)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 591:  ",
-    "str2": "From apo and didomi; to give away, i.e. Up, over, back, etc."
+    "str2": "From apo and didomi; to give away, i.e. Up, over, back, etc.",
+    "num": 591
   },
   {
     "word": "an",
@@ -85,7 +95,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "account",
@@ -93,7 +104,8 @@
     "translit": "(logon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "of",
@@ -101,7 +113,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "your",
@@ -109,7 +122,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "management,",
@@ -117,7 +131,8 @@
     "translit": "(oikonomias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 3622:  ",
-    "str2": "Management of household affairs, stewardship, administration. From oikonomos; administration; specially, a 'economy'."
+    "str2": "Management of household affairs, stewardship, administration. From oikonomos; administration; specially, a 'economy'.",
+    "num": 3622
   },
   {
     "word": "for",
@@ -125,7 +140,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "you cannot",
@@ -133,7 +149,8 @@
     "translit": "(dynē)",
     "parse": "Verb - Present Indicative Middle or Passive - 2nd Person Singular",
     "str": "Strong's 1410:  ",
-    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible."
+    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible.",
+    "num": 1410
   },
   {
     "word": "be manager",
@@ -141,7 +158,8 @@
     "translit": "(oikonomein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 3621:  ",
-    "str2": "To be a steward, manage a household. From oikonomos; to manage."
+    "str2": "To be a steward, manage a household. From oikonomos; to manage.",
+    "num": 3621
   },
   {
     "word": "any longer.’",
@@ -149,6 +167,7 @@
     "translit": "(eti)",
     "parse": "Adverb",
     "str": "Strong's 2089:  ",
-    "str2": "(a) of time: still, yet, even now, (b) of degree: even, further, more, in addition. Perhaps akin to etos; 'yet, ' still."
+    "str2": "(a) of time: still, yet, even now, (b) of degree: even, further, more, in addition. Perhaps akin to etos; 'yet, ' still.",
+    "num": 2089
   }
 ]

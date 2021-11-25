@@ -5,7 +5,8 @@
     "translit": "(māh-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "is this",
@@ -13,7 +14,8 @@
     "translit": "(haz·zeh)",
     "parse": "Article | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "deed",
@@ -21,7 +23,8 @@
     "translit": "(ham·ma·‘ă·śeh)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4639:  ",
-    "str2": "An action, a transaction, activity, a product, property"
+    "str2": "An action, a transaction, activity, a product, property",
+    "num": 4639
   },
   {
     "word": "you have done?”",
@@ -29,7 +32,8 @@
     "translit": "(‘ă·śî·ṯem)",
     "parse": "Verb - Qal - Perfect - second person masculine plural",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "Joseph",
@@ -37,7 +41,8 @@
     "translit": "(yō·w·sêp̄)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3130:  ",
-    "str2": "Joseph -- 'he increases', a son of Jacob, also the name of several Israelites"
+    "str2": "Joseph -- 'he increases', a son of Jacob, also the name of several Israelites",
+    "num": 3130
   },
   {
     "word": "declared.",
@@ -45,7 +50,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“Did you not",
@@ -53,7 +59,8 @@
     "translit": "(hă·lō·w)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "know",
@@ -61,7 +68,8 @@
     "translit": "(yə·ḏa‘·tem)",
     "parse": "Verb - Qal - Perfect - second person masculine plural",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "that",
@@ -69,7 +77,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "a man",
@@ -77,7 +86,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "like me",
@@ -85,7 +95,8 @@
     "translit": "(kā·mō·nî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 3644:  ",
-    "str2": "Like, as, when"
+    "str2": "Like, as, when",
+    "num": 3644
   },
   {
     "word": "can surely divine the truth?”",
@@ -93,6 +104,7 @@
     "translit": "(na·ḥêš)",
     "parse": "Verb - Piel - Infinitive absolute",
     "str": "Strong's 5172:  ",
-    "str2": "To hiss, whisper a, spell, to prognosticate"
+    "str2": "To hiss, whisper a, spell, to prognosticate",
+    "num": 5172
   }
 ]

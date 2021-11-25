@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "a leper",
@@ -13,7 +14,8 @@
     "translit": "(lepros)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3015:  ",
-    "str2": "A leprous person, a leper. From the same as lepra; scaly, i.e. Leprous."
+    "str2": "A leprous person, a leper. From the same as lepra; scaly, i.e. Leprous.",
+    "num": 3015
   },
   {
     "word": "came",
@@ -21,7 +23,8 @@
     "translit": "(erchetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "to",
@@ -29,7 +32,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "[Jesus],",
@@ -37,7 +41,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "begging",
@@ -45,7 +50,8 @@
     "translit": "(parakalōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3870:  ",
-    "str2": "From para and kaleo; to call near, i.e. Invite, invoke."
+    "str2": "From para and kaleo; to call near, i.e. Invite, invoke.",
+    "num": 3870
   },
   {
     "word": "on his knees:",
@@ -53,7 +59,8 @@
     "translit": "(gonypetōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1120:  ",
-    "str2": "From a compound of gonu and the alternate of pipto; to fall on the knee."
+    "str2": "From a compound of gonu and the alternate of pipto; to fall on the knee.",
+    "num": 1120
   },
   {
     "word": "“If",
@@ -61,7 +68,8 @@
     "translit": "(Ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "You are willing,",
@@ -69,7 +77,8 @@
     "translit": "(thelēs)",
     "parse": "Verb - Present Subjunctive Active - 2nd Person Singular",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "You can",
@@ -77,7 +86,8 @@
     "translit": "(dynasai)",
     "parse": "Verb - Present Indicative Middle or Passive - 2nd Person Singular",
     "str": "Strong's 1410:  ",
-    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible."
+    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible.",
+    "num": 1410
   },
   {
     "word": "make me clean.”",
@@ -85,6 +95,7 @@
     "translit": "(katharisai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2511:  ",
-    "str2": "To cleanse, make clean, literally, ceremonially, or spiritually, according to context. From katharos; to cleanse."
+    "str2": "To cleanse, make clean, literally, ceremonially, or spiritually, according to context. From katharos; to cleanse.",
+    "num": 2511
   }
 ]

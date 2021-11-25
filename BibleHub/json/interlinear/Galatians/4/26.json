@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Jerusalem",
@@ -21,7 +23,8 @@
     "translit": "(Ierousalēm)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2419:  ",
-    "str2": "Of Hebrew origin; Hierusalem, the capitol of Palestine."
+    "str2": "Of Hebrew origin; Hierusalem, the capitol of Palestine.",
+    "num": 2419
   },
   {
     "word": "above",
@@ -29,7 +32,8 @@
     "translit": "(anō)",
     "parse": "Adverb",
     "str": "Strong's 507:  ",
-    "str2": "Up, above, up to the top, up to the brim, things above, heaven, the heavenly region. Adverb from anti; upward or on the top."
+    "str2": "Up, above, up to the top, up to the brim, things above, heaven, the heavenly region. Adverb from anti; upward or on the top.",
+    "num": 507
   },
   {
     "word": "is",
@@ -37,7 +41,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "free,",
@@ -45,7 +50,8 @@
     "translit": "(eleuthera)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 1658:  ",
-    "str2": "Free, delivered from obligation. Probably from the alternate of erchomai; unrestrained, i.e. not a slave, or exempt."
+    "str2": "Free, delivered from obligation. Probably from the alternate of erchomai; unrestrained, i.e. not a slave, or exempt.",
+    "num": 1658
   },
   {
     "word": "[and she]",
@@ -53,7 +59,8 @@
     "translit": "(hētis)",
     "parse": "Personal / Relative Pronoun - Nominative Feminine Singular",
     "str": "Strong's 3748:  ",
-    "str2": "Whosoever, whichsoever, whatsoever. "
+    "str2": "Whosoever, whichsoever, whatsoever. ",
+    "num": 3748
   },
   {
     "word": "is",
@@ -61,7 +68,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "our",
@@ -69,7 +77,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "mother.",
@@ -77,6 +86,7 @@
     "translit": "(mētēr)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3384:  ",
-    "str2": "A mother. Apparently a primary word; a 'mother'."
+    "str2": "A mother. Apparently a primary word; a 'mother'.",
+    "num": 3384
   }
 ]

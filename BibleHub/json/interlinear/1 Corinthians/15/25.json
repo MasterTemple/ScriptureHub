@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "He",
@@ -13,7 +14,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "must",
@@ -21,7 +23,8 @@
     "translit": "(dei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1163:  ",
-    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary."
+    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary.",
+    "num": 1163
   },
   {
     "word": "reign",
@@ -29,7 +32,8 @@
     "translit": "(basileuein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 936:  ",
-    "str2": "(a) I rule, reign, (b) I reign over. From basileus; to rule."
+    "str2": "(a) I rule, reign, (b) I reign over. From basileus; to rule.",
+    "num": 936
   },
   {
     "word": "until",
@@ -37,7 +41,8 @@
     "translit": "(achri)",
     "parse": "Preposition",
     "str": "Strong's 891:  ",
-    "str2": "As far as, up to, until, during. Or achris akh'-rece; akin to akron; until or up to."
+    "str2": "As far as, up to, until, during. Or achris akh'-rece; akin to akron; until or up to.",
+    "num": 891
   },
   {
     "word": "He has put",
@@ -45,7 +50,8 @@
     "translit": "(thē)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 5087:  ",
-    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place."
+    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place.",
+    "num": 5087
   },
   {
     "word": "all",
@@ -53,7 +59,8 @@
     "translit": "(pantas)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "[His]",
@@ -61,7 +68,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "enemies",
@@ -69,7 +77,8 @@
     "translit": "(echthrous)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 2190:  ",
-    "str2": "Hated, hostile; subst: an enemy. From a primary echtho; hateful; usually as a noun, an adversary."
+    "str2": "Hated, hostile; subst: an enemy. From a primary echtho; hateful; usually as a noun, an adversary.",
+    "num": 2190
   },
   {
     "word": "under",
@@ -77,7 +86,8 @@
     "translit": "(hypo)",
     "parse": "Preposition",
     "str": "Strong's 5259:  ",
-    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when)."
+    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when).",
+    "num": 5259
   },
   {
     "word": "His",
@@ -85,7 +95,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "feet.",
@@ -93,6 +104,7 @@
     "translit": "(podas)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 4228:  ",
-    "str2": "The foot. A primary word; a 'foot'."
+    "str2": "The foot. A primary word; a 'foot'.",
+    "num": 4228
   }
 ]

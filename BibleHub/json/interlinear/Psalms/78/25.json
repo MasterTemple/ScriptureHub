@@ -5,7 +5,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "ate",
@@ -13,7 +14,8 @@
     "translit": "(’ā·ḵal)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "the bread",
@@ -21,7 +23,8 @@
     "translit": "(le·ḥem)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3899:  ",
-    "str2": "Food, bread, grain"
+    "str2": "Food, bread, grain",
+    "num": 3899
   },
   {
     "word": "of angels;",
@@ -29,7 +32,8 @@
     "translit": "(’ab·bî·rîm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 47:  ",
-    "str2": "Mighty, valiant"
+    "str2": "Mighty, valiant",
+    "num": 47
   },
   {
     "word": "He sent",
@@ -37,7 +41,8 @@
     "translit": "(šā·laḥ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 7971:  ",
-    "str2": "To send away, for, out"
+    "str2": "To send away, for, out",
+    "num": 7971
   },
   {
     "word": "them",
@@ -45,7 +50,8 @@
     "translit": "(lā·hem)",
     "parse": "Preposition-l | Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "food",
@@ -53,7 +59,8 @@
     "translit": "(ṣê·ḏāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 6720:  ",
-    "str2": "Provision, food"
+    "str2": "Provision, food",
+    "num": 6720
   },
   {
     "word": "in abundance.",
@@ -61,6 +68,7 @@
     "translit": "(lā·śō·ḇa‘)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 7648:  ",
-    "str2": "Satisfaction, joy)"
+    "str2": "Satisfaction, joy)",
+    "num": 7648
   }
 ]

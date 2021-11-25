@@ -5,7 +5,8 @@
     "translit": "(‘ā·ḇîm)",
     "parse": "Noun - common plural",
     "str": "Strong's 5645:  ",
-    "str2": "An envelope, darkness, a, cloud, a copse"
+    "str2": "An envelope, darkness, a, cloud, a copse",
+    "num": 5645
   },
   {
     "word": "veil",
@@ -13,7 +14,8 @@
     "translit": "(sê·ṯer-)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5643:  ",
-    "str2": "A covering, hiding place, secrecy"
+    "str2": "A covering, hiding place, secrecy",
+    "num": 5643
   },
   {
     "word": "Him",
@@ -21,7 +23,8 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "so that He cannot",
@@ -29,7 +32,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "see,",
@@ -37,7 +41,8 @@
     "translit": "(yir·’eh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "as He traverses",
@@ -45,7 +50,8 @@
     "translit": "(yiṯ·hal·lāḵ)",
     "parse": "Verb - Hitpael - Imperfect - third person masculine singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "heaven's",
@@ -53,7 +59,8 @@
     "translit": "(ma·yim)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 8064:  ",
-    "str2": "Heaven, sky"
+    "str2": "Heaven, sky",
+    "num": 8064
   },
   {
     "word": "horizon.’",
@@ -61,6 +68,7 @@
     "translit": "(wə·ḥūḡ)",
     "parse": "Conjunctive waw | Noun - masculine singular construct",
     "str": "Strong's 2329:  ",
-    "str2": "Vault, horizon"
+    "str2": "Vault, horizon",
+    "num": 2329
   }
 ]

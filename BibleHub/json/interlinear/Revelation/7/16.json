@@ -5,7 +5,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "again",
@@ -13,7 +14,8 @@
     "translit": "(eti)",
     "parse": "Adverb",
     "str": "Strong's 2089:  ",
-    "str2": "(a) of time: still, yet, even now, (b) of degree: even, further, more, in addition. Perhaps akin to etos; 'yet, ' still."
+    "str2": "(a) of time: still, yet, even now, (b) of degree: even, further, more, in addition. Perhaps akin to etos; 'yet, ' still.",
+    "num": 2089
   },
   {
     "word": "will they hunger,",
@@ -21,7 +23,8 @@
     "translit": "(peinasousin)",
     "parse": "Verb - Future Indicative Active - 3rd Person Plural",
     "str": "Strong's 3983:  ",
-    "str2": "To be hungry, needy, desire earnestly. From the same as penes; to famish; figuratively, to crave."
+    "str2": "To be hungry, needy, desire earnestly. From the same as penes; to famish; figuratively, to crave.",
+    "num": 3983
   },
   {
     "word": "[and never]",
@@ -29,7 +32,8 @@
     "translit": "(oude)",
     "parse": "Conjunction",
     "str": "Strong's 3761:  ",
-    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even."
+    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even.",
+    "num": 3761
   },
   {
     "word": "will they thirst;",
@@ -37,7 +41,8 @@
     "translit": "(dipsēsousin)",
     "parse": "Verb - Future Indicative Active - 3rd Person Plural",
     "str": "Strong's 1372:  ",
-    "str2": "To thirst for, desire earnestly. From a variation of dipsos; to thirst for."
+    "str2": "To thirst for, desire earnestly. From a variation of dipsos; to thirst for.",
+    "num": 1372
   },
   {
     "word": "nor",
@@ -45,7 +50,8 @@
     "translit": "(oude)",
     "parse": "Conjunction",
     "str": "Strong's 3761:  ",
-    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even."
+    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even.",
+    "num": 3761
   },
   {
     "word": "{will} the",
@@ -53,7 +59,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "sun",
@@ -61,7 +68,8 @@
     "translit": "(hēlios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2246:  ",
-    "str2": "The sun, sunlight. From hele; the sun; by implication, light."
+    "str2": "The sun, sunlight. From hele; the sun; by implication, light.",
+    "num": 2246
   },
   {
     "word": "beat down",
@@ -69,7 +77,8 @@
     "translit": "(pesē)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 4098:  ",
-    "str2": "A reduplicated and contracted form of peto; probably akin to petomai through the idea of alighting; to fall."
+    "str2": "A reduplicated and contracted form of peto; probably akin to petomai through the idea of alighting; to fall.",
+    "num": 4098
   },
   {
     "word": "upon",
@@ -77,7 +86,8 @@
     "translit": "(ep’)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "them,",
@@ -85,7 +95,8 @@
     "translit": "(autous)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "nor",
@@ -93,7 +104,8 @@
     "translit": "(oude)",
     "parse": "Conjunction",
     "str": "Strong's 3761:  ",
-    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even."
+    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even.",
+    "num": 3761
   },
   {
     "word": "any",
@@ -101,7 +113,8 @@
     "translit": "(pan)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "scorching heat.",
@@ -109,6 +122,7 @@
     "translit": "(kauma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 2738:  ",
-    "str2": "Burning heat, heat. From kaio; properly, a burn, but used of a glow."
+    "str2": "Burning heat, heat. From kaio; properly, a burn, but used of a glow.",
+    "num": 2738
   }
 ]

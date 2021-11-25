@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "high priest",
@@ -21,7 +23,8 @@
     "translit": "(archiereus)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 749:  ",
-    "str2": "High priest, chief priest. From arche and hiereus; the high-priest; by extension a chief priest."
+    "str2": "High priest, chief priest. From arche and hiereus; the high-priest; by extension a chief priest.",
+    "num": 749
   },
   {
     "word": "asked [Stephen],",
@@ -29,7 +32,8 @@
     "translit": "(Eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“Are",
@@ -37,7 +41,8 @@
     "translit": "(echei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "these [charges]",
@@ -45,7 +50,8 @@
     "translit": "(tauta)",
     "parse": "Demonstrative Pronoun - Nominative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "true?”",
@@ -53,6 +59,7 @@
     "translit": "(houtōs)",
     "parse": "Adverb",
     "str": "Strong's 3779:  ",
-    "str2": "Thus, so, in this manner. Or (referring to what precedes or follows)."
+    "str2": "Thus, so, in this manner. Or (referring to what precedes or follows).",
+    "num": 3779
   }
 ]

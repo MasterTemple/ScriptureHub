@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you buy",
@@ -13,7 +14,8 @@
     "translit": "(ṯiq·neh)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 7069:  ",
-    "str2": "To erect, create, to procure, by purchase, to own"
+    "str2": "To erect, create, to procure, by purchase, to own",
+    "num": 7069
   },
   {
     "word": "a Hebrew",
@@ -21,7 +23,8 @@
     "translit": "(‘iḇ·rî)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 5680:  ",
-    "str2": "Hebrews -- perhaps descendant of Eber, also another name for an Israelite"
+    "str2": "Hebrews -- perhaps descendant of Eber, also another name for an Israelite",
+    "num": 5680
   },
   {
     "word": "servant,",
@@ -29,7 +32,8 @@
     "translit": "(‘e·ḇeḏ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5650:  ",
-    "str2": "Slave, servant"
+    "str2": "Slave, servant",
+    "num": 5650
   },
   {
     "word": "he is to serve you",
@@ -37,7 +41,8 @@
     "translit": "(ya·‘ă·ḇōḏ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5647:  ",
-    "str2": "To work, to serve, till, enslave"
+    "str2": "To work, to serve, till, enslave",
+    "num": 5647
   },
   {
     "word": "for six",
@@ -45,7 +50,8 @@
     "translit": "(šêš)",
     "parse": "Number - feminine singular",
     "str": "Strong's 8337:  ",
-    "str2": "Six (a cardinal number)"
+    "str2": "Six (a cardinal number)",
+    "num": 8337
   },
   {
     "word": "years.",
@@ -53,7 +59,8 @@
     "translit": "(šā·nîm)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "But in the seventh [year],",
@@ -61,7 +68,8 @@
     "translit": "(ū·ḇaš·šə·ḇi·‘iṯ)",
     "parse": "Conjunctive waw, Preposition-b, Article | Number - ordinal feminine singular",
     "str": "Strong's 7637:  ",
-    "str2": "Seventh (an ordinal number)"
+    "str2": "Seventh (an ordinal number)",
+    "num": 7637
   },
   {
     "word": "he shall go",
@@ -69,7 +77,8 @@
     "translit": "(yê·ṣê)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "free",
@@ -77,7 +86,8 @@
     "translit": "(la·ḥā·p̄ə·šî)",
     "parse": "Preposition-l, Article | Adjective - masculine singular",
     "str": "Strong's 2670:  ",
-    "str2": "Exempt"
+    "str2": "Exempt",
+    "num": 2670
   },
   {
     "word": "without paying anything.",
@@ -85,6 +95,7 @@
     "translit": "(ḥin·nām)",
     "parse": "Adverb",
     "str": "Strong's 2600:  ",
-    "str2": "Gratis, devoid of cost, reason, advantage"
+    "str2": "Gratis, devoid of cost, reason, advantage",
+    "num": 2600
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(šə·nê)",
     "parse": "Number - mdc",
     "str": "Strong's 8147:  ",
-    "str2": "Two (a cardinal number)"
+    "str2": "Two (a cardinal number)",
+    "num": 8147
   },
   {
     "word": "sons.",
@@ -13,7 +14,8 @@
     "translit": "(ḇā·ne·hā)",
     "parse": "Noun - masculine plural construct | third person feminine singular",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "One",
@@ -21,7 +23,8 @@
     "translit": "(hā·’e·ḥāḏ)",
     "parse": "Article | Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "[son]",
@@ -29,7 +32,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "was named",
@@ -37,7 +41,8 @@
     "translit": "(šêm)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 8034:  ",
-    "str2": "A name"
+    "str2": "A name",
+    "num": 8034
   },
   {
     "word": "Gershom,",
@@ -45,7 +50,8 @@
     "translit": "(gê·rə·šōm)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 1647:  ",
-    "str2": "Gershom -- three Israelites"
+    "str2": "Gershom -- three Israelites",
+    "num": 1647
   },
   {
     "word": "for",
@@ -53,7 +59,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "Moses had said,",
@@ -61,7 +68,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“I have been",
@@ -69,7 +77,8 @@
     "translit": "(hā·yî·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "a foreigner",
@@ -77,7 +86,8 @@
     "translit": "(gêr)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1616:  ",
-    "str2": "A guest, a foreigner"
+    "str2": "A guest, a foreigner",
+    "num": 1616
   },
   {
     "word": "in a foreign",
@@ -85,7 +95,8 @@
     "translit": "(nā·ḵə·rî·yāh)",
     "parse": "Adjective - feminine singular",
     "str": "Strong's 5237:  ",
-    "str2": "Foreign, alien"
+    "str2": "Foreign, alien",
+    "num": 5237
   },
   {
     "word": "land.”",
@@ -93,6 +104,7 @@
     "translit": "(bə·’e·reṣ)",
     "parse": "Preposition-b | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   }
 ]

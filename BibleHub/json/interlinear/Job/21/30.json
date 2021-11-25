@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the evil",
@@ -13,7 +14,8 @@
     "translit": "(rā‘)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "man is spared",
@@ -21,7 +23,8 @@
     "translit": "(yê·ḥā·śeḵ)",
     "parse": "Verb - Nifal - Imperfect - third person masculine singular",
     "str": "Strong's 2820:  ",
-    "str2": "To restrain, refrain, to refuse, spare, preserve, to observe"
+    "str2": "To restrain, refrain, to refuse, spare, preserve, to observe",
+    "num": 2820
   },
   {
     "word": "from the day",
@@ -29,7 +32,8 @@
     "translit": "(lə·yō·wm)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "of calamity,",
@@ -37,7 +41,8 @@
     "translit": "(’êḏ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 343:  ",
-    "str2": "Oppression, misfortune, ruin"
+    "str2": "Oppression, misfortune, ruin",
+    "num": 343
   },
   {
     "word": "delivered",
@@ -45,7 +50,8 @@
     "translit": "(yū·ḇā·lū)",
     "parse": "Verb - Hofal - Imperfect - third person masculine plural",
     "str": "Strong's 2986:  ",
-    "str2": "To conduct, bear along"
+    "str2": "To conduct, bear along",
+    "num": 2986
   },
   {
     "word": "from the day",
@@ -53,7 +59,8 @@
     "translit": "(lə·yō·wm)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "of wrath.",
@@ -61,6 +68,7 @@
     "translit": "(‘ă·ḇā·rō·wṯ)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 5678:  ",
-    "str2": "Overflow, arrogance, fury"
+    "str2": "Overflow, arrogance, fury",
+    "num": 5678
   }
 ]

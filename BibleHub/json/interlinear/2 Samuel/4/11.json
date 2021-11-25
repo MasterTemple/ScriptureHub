@@ -5,7 +5,8 @@
     "translit": "(’ap̄)",
     "parse": "Conjunction",
     "str": "Strong's 637:  ",
-    "str2": "Meaning accession, yea, adversatively though"
+    "str2": "Meaning accession, yea, adversatively though",
+    "num": 637
   },
   {
     "word": "when",
@@ -13,7 +14,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "wicked",
@@ -21,7 +23,8 @@
     "translit": "(rə·šā·‘îm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 7563:  ",
-    "str2": "Wrong, an, bad person"
+    "str2": "Wrong, an, bad person",
+    "num": 7563
   },
   {
     "word": "men",
@@ -29,7 +32,8 @@
     "translit": "(’ă·nā·šîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "kill",
@@ -37,7 +41,8 @@
     "translit": "(hā·rə·ḡū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 2026:  ",
-    "str2": "To smite with deadly intent"
+    "str2": "To smite with deadly intent",
+    "num": 2026
   },
   {
     "word": "a righteous",
@@ -45,7 +50,8 @@
     "translit": "(ṣad·dîq)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 6662:  ",
-    "str2": "Just, righteous"
+    "str2": "Just, righteous",
+    "num": 6662
   },
   {
     "word": "man",
@@ -53,7 +59,8 @@
     "translit": "(’îš-)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "in his own house",
@@ -61,7 +68,8 @@
     "translit": "(bə·ḇê·ṯōw)",
     "parse": "Preposition-b | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "[and] on",
@@ -69,7 +77,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "his own bed,",
@@ -77,7 +86,8 @@
     "translit": "(miš·kā·ḇōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 4904:  ",
-    "str2": "Place of lying, a couch, act of lying"
+    "str2": "Place of lying, a couch, act of lying",
+    "num": 4904
   },
   {
     "word": "shall I not now",
@@ -85,7 +95,8 @@
     "translit": "(wə·‘at·tāh)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 6258:  ",
-    "str2": "At this time"
+    "str2": "At this time",
+    "num": 6258
   },
   {
     "word": "require",
@@ -93,7 +104,8 @@
     "translit": "(’ă·ḇaq·qêš)",
     "parse": "Verb - Piel - Imperfect - first person common singular",
     "str": "Strong's 1245:  ",
-    "str2": "To search out, to strive after"
+    "str2": "To search out, to strive after",
+    "num": 1245
   },
   {
     "word": "his blood",
@@ -101,7 +113,8 @@
     "translit": "(dā·mōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 1818:  ",
-    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed"
+    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed",
+    "num": 1818
   },
   {
     "word": "from",
@@ -109,7 +122,8 @@
     "translit": "(min-)",
     "parse": "Preposition",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "your hands",
@@ -117,7 +131,8 @@
     "translit": "(mî·yeḏ·ḵem)",
     "parse": "Preposition-m | Noun - feminine singular construct | second person masculine plural",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "and wipe you off",
@@ -125,7 +140,8 @@
     "translit": "(ū·ḇi·‘ar·tî)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive perfect - first person common singular",
     "str": "Strong's 1197:  ",
-    "str2": "To kindle, consume,   to be, brutish"
+    "str2": "To kindle, consume,   to be, brutish",
+    "num": 1197
   },
   {
     "word": "the earth!”",
@@ -133,6 +149,7 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   }
 ]

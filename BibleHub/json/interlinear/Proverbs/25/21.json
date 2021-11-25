@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "your enemy",
@@ -13,7 +14,8 @@
     "translit": "(na·’ă·ḵā)",
     "parse": "Verb - Qal - Participle - masculine singular construct | second person masculine singular",
     "str": "Strong's 8130:  ",
-    "str2": "To hate"
+    "str2": "To hate",
+    "num": 8130
   },
   {
     "word": "is hungry,",
@@ -21,7 +23,8 @@
     "translit": "(rā·‘êḇ)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 7456:  ",
-    "str2": "To be hungry"
+    "str2": "To be hungry",
+    "num": 7456
   },
   {
     "word": "give him food",
@@ -29,7 +32,8 @@
     "translit": "(lā·ḥem)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3899:  ",
-    "str2": "Food, bread, grain"
+    "str2": "Food, bread, grain",
+    "num": 3899
   },
   {
     "word": "to eat,",
@@ -37,7 +41,8 @@
     "translit": "(ha·’ă·ḵi·lê·hū)",
     "parse": "Verb - Hifil - Imperative - masculine singular | third person masculine singular",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "and if",
@@ -45,7 +50,8 @@
     "translit": "(wə·’im-)",
     "parse": "Conjunctive waw | Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "he is thirsty,",
@@ -53,7 +59,8 @@
     "translit": "(ṣā·mê)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 6771:  ",
-    "str2": "Thirsty"
+    "str2": "Thirsty",
+    "num": 6771
   },
   {
     "word": "give him water",
@@ -61,7 +68,8 @@
     "translit": "(mā·yim)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 4325:  ",
-    "str2": "Water, juice, urine, semen"
+    "str2": "Water, juice, urine, semen",
+    "num": 4325
   },
   {
     "word": "to drink.",
@@ -69,6 +77,7 @@
     "translit": "(haš·qê·hū)",
     "parse": "Verb - Hifil - Imperative - masculine singular | third person masculine singular",
     "str": "Strong's 8248:  ",
-    "str2": "To quaff, to irrigate, furnish a, potion to"
+    "str2": "To quaff, to irrigate, furnish a, potion to",
+    "num": 8248
   }
 ]

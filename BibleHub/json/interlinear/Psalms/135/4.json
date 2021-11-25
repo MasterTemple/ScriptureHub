@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(yāh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3050:  ",
-    "str2": "LORD -- the name of the God of Israel"
+    "str2": "LORD -- the name of the God of Israel",
+    "num": 3050
   },
   {
     "word": "has chosen",
@@ -21,7 +23,8 @@
     "translit": "(bā·ḥar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 977:  ",
-    "str2": "To try, select"
+    "str2": "To try, select",
+    "num": 977
   },
   {
     "word": "Jacob",
@@ -29,7 +32,8 @@
     "translit": "(ya·‘ă·qōḇ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3290:  ",
-    "str2": "Jacob -- a son of Isaac, also his desc"
+    "str2": "Jacob -- a son of Isaac, also his desc",
+    "num": 3290
   },
   {
     "word": "as His own,",
@@ -37,7 +41,8 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "Israel",
@@ -45,7 +50,8 @@
     "translit": "(yiś·rā·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3478:  ",
-    "str2": "Israel -- 'God strives', another name of Jacob and his desc"
+    "str2": "Israel -- 'God strives', another name of Jacob and his desc",
+    "num": 3478
   },
   {
     "word": "as His treasured possession.",
@@ -53,6 +59,7 @@
     "translit": "(lis·ḡul·lā·ṯōw)",
     "parse": "Preposition-l | Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 5459:  ",
-    "str2": "Possession, property"
+    "str2": "Possession, property",
+    "num": 5459
   }
 ]

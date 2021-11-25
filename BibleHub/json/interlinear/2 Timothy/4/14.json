@@ -5,7 +5,8 @@
     "translit": "(Alexandros)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 223:  ",
-    "str2": "From the same as alektor and aner; man-defender; Alexander, the name of three Israelites and one other man."
+    "str2": "From the same as alektor and aner; man-defender; Alexander, the name of three Israelites and one other man.",
+    "num": 223
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "coppersmith",
@@ -21,7 +23,8 @@
     "translit": "(chalkeus)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5471:  ",
-    "str2": "A worker in brass or copper; a smith. From chalkos; a copper-worker or brazier."
+    "str2": "A worker in brass or copper; a smith. From chalkos; a copper-worker or brazier.",
+    "num": 5471
   },
   {
     "word": "did",
@@ -29,7 +32,8 @@
     "translit": "(enedeixato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1731:  ",
-    "str2": "To show forth, prove. From en and deiknuo; to indicate."
+    "str2": "To show forth, prove. From en and deiknuo; to indicate.",
+    "num": 1731
   },
   {
     "word": "great",
@@ -37,7 +41,8 @@
     "translit": "(polla)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "harm",
@@ -45,7 +50,8 @@
     "translit": "(kaka)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 2556:  ",
-    "str2": "Bad, evil, in the widest sense. Apparently a primary word; worthless, i.e. depraved, or injurious."
+    "str2": "Bad, evil, in the widest sense. Apparently a primary word; worthless, i.e. depraved, or injurious.",
+    "num": 2556
   },
   {
     "word": "to me.",
@@ -53,7 +59,8 @@
     "translit": "(moi)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "The",
@@ -61,7 +68,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord",
@@ -69,7 +77,8 @@
     "translit": "(Kyrios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "will repay",
@@ -77,7 +86,8 @@
     "translit": "(apodōsei)",
     "parse": "Verb - Future Indicative Active - 3rd Person Singular",
     "str": "Strong's 591:  ",
-    "str2": "From apo and didomi; to give away, i.e. Up, over, back, etc."
+    "str2": "From apo and didomi; to give away, i.e. Up, over, back, etc.",
+    "num": 591
   },
   {
     "word": "him",
@@ -85,7 +95,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "according to",
@@ -93,7 +104,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "his",
@@ -101,7 +113,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "deeds.",
@@ -109,6 +122,7 @@
     "translit": "(erga)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 2041:  ",
-    "str2": "From a primary ergo; toil; by implication, an act."
+    "str2": "From a primary ergo; toil; by implication, an act.",
+    "num": 2041
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the news",
@@ -13,7 +14,8 @@
     "translit": "(ēchos)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 2279:  ",
-    "str2": "(a) a sound, noise, (b) a rumor, report. Of uncertain affinity; a loud or confused noise, i.e. Roar; figuratively, a rumor."
+    "str2": "(a) a sound, noise, (b) a rumor, report. Of uncertain affinity; a loud or confused noise, i.e. Roar; figuratively, a rumor.",
+    "num": 2279
   },
   {
     "word": "about",
@@ -21,7 +23,8 @@
     "translit": "(peri)",
     "parse": "Preposition",
     "str": "Strong's 4012:  ",
-    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time.",
+    "num": 4012
   },
   {
     "word": "Him",
@@ -29,7 +32,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "spread",
@@ -37,7 +41,8 @@
     "translit": "(exeporeueto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1607:  ",
-    "str2": "From ek and poreuomai; to depart, be discharged, proceed, project."
+    "str2": "From ek and poreuomai; to depart, be discharged, proceed, project.",
+    "num": 1607
   },
   {
     "word": "throughout",
@@ -45,7 +50,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "surrounding region.",
@@ -61,6 +68,7 @@
     "translit": "(perichōrou)",
     "parse": "Adjective - Genitive Feminine Singular",
     "str": "Strong's 4066:  ",
-    "str2": "From peri and chora; around the region, i.e. Circumjacent."
+    "str2": "From peri and chora; around the region, i.e. Circumjacent.",
+    "num": 4066
   }
 ]

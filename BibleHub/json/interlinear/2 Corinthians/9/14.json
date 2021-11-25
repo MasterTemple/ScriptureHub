@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "their",
@@ -13,7 +14,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "prayers",
@@ -21,7 +23,8 @@
     "translit": "(deēsei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 1162:  ",
-    "str2": "Supplication, prayer, entreaty. From deomai; a petition."
+    "str2": "Supplication, prayer, entreaty. From deomai; a petition.",
+    "num": 1162
   },
   {
     "word": "for",
@@ -29,7 +32,8 @@
     "translit": "(hyper)",
     "parse": "Preposition",
     "str": "Strong's 5228:  ",
-    "str2": "Gen: in behalf of; acc: above. "
+    "str2": "Gen: in behalf of; acc: above. ",
+    "num": 5228
   },
   {
     "word": "you",
@@ -37,7 +41,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "will express their affection",
@@ -45,7 +50,8 @@
     "translit": "(epipothountōn)",
     "parse": "Verb - Present Participle Active - Genitive Masculine Plural",
     "str": "Strong's 1971:  ",
-    "str2": "From epi and potheo; to dote upon, i.e. Intensely crave possession."
+    "str2": "From epi and potheo; to dote upon, i.e. Intensely crave possession.",
+    "num": 1971
   },
   {
     "word": "for you,",
@@ -53,7 +59,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "because of",
@@ -61,7 +68,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "surpassing",
@@ -77,7 +86,8 @@
     "translit": "(hyperballousan)",
     "parse": "Verb - Present Participle Active - Accusative Feminine Singular",
     "str": "Strong's 5235:  ",
-    "str2": "To surpass, excel, exceed, transcend. From huper and ballo; to throw beyod the usual mark, i.e. to surpass."
+    "str2": "To surpass, excel, exceed, transcend. From huper and ballo; to throw beyod the usual mark, i.e. to surpass.",
+    "num": 5235
   },
   {
     "word": "grace",
@@ -85,7 +95,8 @@
     "translit": "(charin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5485:  ",
-    "str2": "From chairo; graciousness, of manner or act."
+    "str2": "From chairo; graciousness, of manner or act.",
+    "num": 5485
   },
   {
     "word": "God",
@@ -93,7 +104,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "[has given]",
@@ -101,7 +113,8 @@
     "translit": "(eph’)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "you.",
@@ -109,6 +122,7 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

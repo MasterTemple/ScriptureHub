@@ -5,7 +5,8 @@
     "translit": "(’ā·nō·ḵî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "however,",
@@ -13,7 +14,8 @@
     "translit": "(wə·’ū·lām)",
     "parse": "Conjunctive waw | Conjunction",
     "str": "Strong's 199:  ",
-    "str2": "However, on the contrary"
+    "str2": "However, on the contrary",
+    "num": 199
   },
   {
     "word": "I am filled",
@@ -21,7 +23,8 @@
     "translit": "(mā·lê·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 4390:  ",
-    "str2": "To fill, be full of"
+    "str2": "To fill, be full of",
+    "num": 4390
   },
   {
     "word": "with power",
@@ -29,7 +32,8 @@
     "translit": "(ḵō·aḥ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3581:  ",
-    "str2": "A small reptile (of unknown species)"
+    "str2": "A small reptile (of unknown species)",
+    "num": 3581
   },
   {
     "word": "by",
@@ -37,7 +41,8 @@
     "translit": "(’eṯ-)",
     "parse": "Direct object marker",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "the Spirit",
@@ -45,7 +50,8 @@
     "translit": "(rū·aḥ)",
     "parse": "Noun - common singular construct",
     "str": "Strong's 7307:  ",
-    "str2": "Wind, breath, exhalation, life, anger, unsubstantiality, a region of the sky, spirit"
+    "str2": "Wind, breath, exhalation, life, anger, unsubstantiality, a region of the sky, spirit",
+    "num": 7307
   },
   {
     "word": "of the LORD,",
@@ -53,7 +59,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "with justice",
@@ -61,7 +68,8 @@
     "translit": "(ū·miš·pāṭ)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 4941:  ",
-    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style"
+    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style",
+    "num": 4941
   },
   {
     "word": "and courage,",
@@ -69,7 +77,8 @@
     "translit": "(ū·ḡə·ḇū·rāh)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 1369:  ",
-    "str2": "Force, valor, victory"
+    "str2": "Force, valor, victory",
+    "num": 1369
   },
   {
     "word": "to declare",
@@ -77,7 +86,8 @@
     "translit": "(lə·hag·gîḏ)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct",
     "str": "Strong's 5046:  ",
-    "str2": "To be conspicuous"
+    "str2": "To be conspicuous",
+    "num": 5046
   },
   {
     "word": "to Jacob",
@@ -85,7 +95,8 @@
     "translit": "(lə·ya·‘ă·qōḇ)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3290:  ",
-    "str2": "Jacob -- a son of Isaac, also his desc"
+    "str2": "Jacob -- a son of Isaac, also his desc",
+    "num": 3290
   },
   {
     "word": "his transgression",
@@ -93,7 +104,8 @@
     "translit": "(piš·‘ōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 6588:  ",
-    "str2": "Transgression"
+    "str2": "Transgression",
+    "num": 6588
   },
   {
     "word": "and to Israel",
@@ -101,7 +113,8 @@
     "translit": "(ū·lə·yiś·rā·’êl)",
     "parse": "Conjunctive waw, Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3478:  ",
-    "str2": "Israel -- 'God strives', another name of Jacob and his desc"
+    "str2": "Israel -- 'God strives', another name of Jacob and his desc",
+    "num": 3478
   },
   {
     "word": "his sin.",
@@ -109,6 +122,7 @@
     "translit": "(ḥaṭ·ṭā·ṯōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 2403:  ",
-    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender"
+    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender",
+    "num": 2403
   }
 ]

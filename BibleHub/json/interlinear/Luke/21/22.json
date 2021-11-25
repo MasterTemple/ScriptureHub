@@ -5,7 +5,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "these",
@@ -13,7 +14,8 @@
     "translit": "(hautai)",
     "parse": "Demonstrative Pronoun - Nominative Feminine Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "are",
@@ -21,7 +23,8 @@
     "translit": "(eisin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "[the] days",
@@ -29,7 +32,8 @@
     "translit": "(hēmerai)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "of vengeance,",
@@ -37,7 +41,8 @@
     "translit": "(ekdikēseōs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1557:  ",
-    "str2": "(a) a defense, avenging, vindication, vengeance, (b) full (complete) punishment. From ekdikeo; vindication, retribution."
+    "str2": "(a) a defense, avenging, vindication, vengeance, (b) full (complete) punishment. From ekdikeo; vindication, retribution.",
+    "num": 1557
   },
   {
     "word": "to fulfill",
@@ -45,7 +50,8 @@
     "translit": "(plēsthēnai)",
     "parse": "Verb - Aorist Infinitive Passive",
     "str": "Strong's 4130:  ",
-    "str2": "To fill, fulfill, complete. A prolonged form of a primary pleo to 'fill' (imbue, influence, supply); specially, to fulfil."
+    "str2": "To fill, fulfill, complete. A prolonged form of a primary pleo to 'fill' (imbue, influence, supply); specially, to fulfil.",
+    "num": 4130
   },
   {
     "word": "all",
@@ -53,7 +59,8 @@
     "translit": "(panta)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "that is written.",
@@ -61,6 +68,7 @@
     "translit": "(gegrammena)",
     "parse": "Verb - Perfect Participle Middle or Passive - Accusative Neuter Plural",
     "str": "Strong's 1125:  ",
-    "str2": "A primary verb; to 'grave', especially to write; figuratively, to describe."
+    "str2": "A primary verb; to 'grave', especially to write; figuratively, to describe.",
+    "num": 1125
   }
 ]

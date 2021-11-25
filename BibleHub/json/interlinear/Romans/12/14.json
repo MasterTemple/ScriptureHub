@@ -5,7 +5,8 @@
     "translit": "(Eulogeite)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 2127:  ",
-    "str2": "(lit: I speak well of) I bless; pass: I am blessed. From a compound of eu and logos; to speak well of, i.e. to bless."
+    "str2": "(lit: I speak well of) I bless; pass: I am blessed. From a compound of eu and logos; to speak well of, i.e. to bless.",
+    "num": 2127
   },
   {
     "word": "those who",
@@ -13,7 +14,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "persecute",
@@ -21,7 +23,8 @@
     "translit": "(diōkontas)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Plural",
     "str": "Strong's 1377:  ",
-    "str2": "To pursue, hence: I persecute. A prolonged form of a primary verb dio; to pursue; by implication, to persecute."
+    "str2": "To pursue, hence: I persecute. A prolonged form of a primary verb dio; to pursue; by implication, to persecute.",
+    "num": 1377
   },
   {
     "word": "you.",
@@ -29,7 +32,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "Bless",
@@ -37,7 +41,8 @@
     "translit": "(eulogeite)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 2127:  ",
-    "str2": "(lit: I speak well of) I bless; pass: I am blessed. From a compound of eu and logos; to speak well of, i.e. to bless."
+    "str2": "(lit: I speak well of) I bless; pass: I am blessed. From a compound of eu and logos; to speak well of, i.e. to bless.",
+    "num": 2127
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "{do} not",
@@ -53,7 +59,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "curse.",
@@ -61,6 +68,7 @@
     "translit": "(katarasthe)",
     "parse": "Verb - Present Imperative Middle or Passive - 2nd Person Plural",
     "str": "Strong's 2672:  ",
-    "str2": "To curse. Middle voice from katara; to execrate; by analogy, to doom."
+    "str2": "To curse. Middle voice from katara; to execrate; by analogy, to doom.",
+    "num": 2672
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "they will add",
@@ -13,7 +14,8 @@
     "translit": "(yō·w·sî·p̄ū)",
     "parse": "Verb - Hifil - Imperfect - third person masculine plural",
     "str": "Strong's 3254:  ",
-    "str2": "To add, augment"
+    "str2": "To add, augment",
+    "num": 3254
   },
   {
     "word": "length",
@@ -21,7 +23,8 @@
     "translit": "(’ō·reḵ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 753:  ",
-    "str2": "Length"
+    "str2": "Length",
+    "num": 753
   },
   {
     "word": "to your",
@@ -29,7 +32,8 @@
     "translit": "(lāḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "days,",
@@ -37,7 +41,8 @@
     "translit": "(yā·mîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "years",
@@ -45,7 +50,8 @@
     "translit": "(ū·šə·nō·wṯ)",
     "parse": "Conjunctive waw | Noun - feminine plural construct",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "and peace",
@@ -53,7 +59,8 @@
     "translit": "(wə·šā·lō·wm)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 7965:  ",
-    "str2": "Safe, well, happy, friendly, welfare, health, prosperity, peace"
+    "str2": "Safe, well, happy, friendly, welfare, health, prosperity, peace",
+    "num": 7965
   },
   {
     "word": "to your life.",
@@ -61,6 +68,7 @@
     "translit": "(ḥay·yîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 2416:  ",
-    "str2": "Alive, raw, fresh, strong, life"
+    "str2": "Alive, raw, fresh, strong, life",
+    "num": 2416
   }
 ]

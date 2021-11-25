@@ -5,7 +5,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "Him",
@@ -13,7 +14,8 @@
     "translit": "(hō)",
     "parse": "Personal / Relative Pronoun - Dative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "the whole",
@@ -21,7 +23,8 @@
     "translit": "(pasa)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "building",
@@ -29,7 +32,8 @@
     "translit": "(oikodomē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3619:  ",
-    "str2": "Feminine of a compound of oikos and the base of doma; architecture, i.e. a structure; figuratively, confirmation."
+    "str2": "Feminine of a compound of oikos and the base of doma; architecture, i.e. a structure; figuratively, confirmation.",
+    "num": 3619
   },
   {
     "word": "is fitted together",
@@ -37,7 +41,8 @@
     "translit": "(synarmologoumenē)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Feminine Singular",
     "str": "Strong's 4883:  ",
-    "str2": "From sun and a derivative of a compound of harmos and lego; to render close-jointed together, i.e. Organize compactly."
+    "str2": "From sun and a derivative of a compound of harmos and lego; to render close-jointed together, i.e. Organize compactly.",
+    "num": 4883
   },
   {
     "word": "[and] grows",
@@ -45,7 +50,8 @@
     "translit": "(auxei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 837:  ",
-    "str2": "(a) I cause to increase, become greater (b) I increase, grow. A prolonged form of a primary verb; to grow, i.e. Enlarge."
+    "str2": "(a) I cause to increase, become greater (b) I increase, grow. A prolonged form of a primary verb; to grow, i.e. Enlarge.",
+    "num": 837
   },
   {
     "word": "into",
@@ -53,7 +59,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "a holy",
@@ -61,7 +68,8 @@
     "translit": "(hagion)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   },
   {
     "word": "temple",
@@ -69,7 +77,8 @@
     "translit": "(naon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3485:  ",
-    "str2": "A temple, a shrine, that part of the temple where God himself resides. From a primary naio; a fane, shrine, temple."
+    "str2": "A temple, a shrine, that part of the temple where God himself resides. From a primary naio; a fane, shrine, temple.",
+    "num": 3485
   },
   {
     "word": "in",
@@ -77,7 +86,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[the] Lord.",
@@ -85,6 +95,7 @@
     "translit": "(Kyriō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   }
 ]

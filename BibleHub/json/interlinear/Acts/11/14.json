@@ -5,7 +5,8 @@
     "translit": "(hos)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "will convey",
@@ -13,7 +14,8 @@
     "translit": "(lalēsei)",
     "parse": "Verb - Future Indicative Active - 3rd Person Singular",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "you",
@@ -29,7 +32,8 @@
     "translit": "(se)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "a message",
@@ -37,7 +41,8 @@
     "translit": "(rhēmata)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 4487:  ",
-    "str2": "From rheo; an utterance, ; by implication, a matter or topic; with a negative naught whatever."
+    "str2": "From rheo; an utterance, ; by implication, a matter or topic; with a negative naught whatever.",
+    "num": 4487
   },
   {
     "word": "by",
@@ -45,7 +50,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "which",
@@ -53,7 +59,8 @@
     "translit": "(hois)",
     "parse": "Personal / Relative Pronoun - Dative Neuter Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "you",
@@ -61,7 +68,8 @@
     "translit": "(sy)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "all",
@@ -77,7 +86,8 @@
     "translit": "(pas)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "your",
@@ -85,7 +95,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "household",
@@ -93,7 +104,8 @@
     "translit": "(oikos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3624:  ",
-    "str2": "A dwelling; by implication, a family."
+    "str2": "A dwelling; by implication, a family.",
+    "num": 3624
   },
   {
     "word": "will be saved.’",
@@ -101,6 +113,7 @@
     "translit": "(sōthēsē)",
     "parse": "Verb - Future Indicative Passive - 2nd Person Singular",
     "str": "Strong's 4982:  ",
-    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect."
+    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect.",
+    "num": 4982
   }
 ]

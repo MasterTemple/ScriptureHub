@@ -5,7 +5,8 @@
     "translit": "(’ă·ḇî·me·leḵ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 40:  ",
-    "str2": "Abimelech -- 'father is king', a Philistine name, also an Israelite name"
+    "str2": "Abimelech -- 'father is king', a Philistine name, also an Israelite name",
+    "num": 40
   },
   {
     "word": "had reigned",
@@ -13,7 +14,8 @@
     "translit": "(way·yā·śar)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 7786:  ",
-    "str2": "Make princes, have power, reign "
+    "str2": "Make princes, have power, reign ",
+    "num": 7786
   },
   {
     "word": "over",
@@ -21,7 +23,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "Israel",
@@ -29,7 +32,8 @@
     "translit": "(yiś·rā·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3478:  ",
-    "str2": "Israel -- 'God strives', another name of Jacob and his desc"
+    "str2": "Israel -- 'God strives', another name of Jacob and his desc",
+    "num": 3478
   },
   {
     "word": "for three",
@@ -37,7 +41,8 @@
     "translit": "(šā·lōš)",
     "parse": "Number - feminine singular",
     "str": "Strong's 7969:  ",
-    "str2": "Three, third, thrice"
+    "str2": "Three, third, thrice",
+    "num": 7969
   },
   {
     "word": "years,",
@@ -45,6 +50,7 @@
     "translit": "(šā·nîm)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   }
 ]

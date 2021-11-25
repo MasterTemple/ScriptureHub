@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "a son",
@@ -13,7 +14,8 @@
     "translit": "(ḇên)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "dishonors",
@@ -21,7 +23,8 @@
     "translit": "(mə·nab·bêl)",
     "parse": "Verb - Piel - Participle - masculine singular",
     "str": "Strong's 5034:  ",
-    "str2": "To wilt, to fall away, fail, faint, to be foolish, wicked, to despise, disgrace"
+    "str2": "To wilt, to fall away, fail, faint, to be foolish, wicked, to despise, disgrace",
+    "num": 5034
   },
   {
     "word": "his father,",
@@ -29,7 +32,8 @@
     "translit": "(’āḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "a daughter",
@@ -37,7 +41,8 @@
     "translit": "(baṯ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 1323:  ",
-    "str2": "A daughter"
+    "str2": "A daughter",
+    "num": 1323
   },
   {
     "word": "rises",
@@ -45,7 +50,8 @@
     "translit": "(qā·māh)",
     "parse": "Verb - Qal - Participle - feminine singular",
     "str": "Strong's 6965:  ",
-    "str2": "To arise, stand up, stand"
+    "str2": "To arise, stand up, stand",
+    "num": 6965
   },
   {
     "word": "against her mother,",
@@ -53,7 +59,8 @@
     "translit": "(ḇə·’im·māh)",
     "parse": "Preposition-b | Noun - feminine singular construct | third person feminine singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "and a daughter-in-law",
@@ -61,7 +68,8 @@
     "translit": "(kal·lāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 3618:  ",
-    "str2": "Daughter-in-law, bride"
+    "str2": "Daughter-in-law, bride",
+    "num": 3618
   },
   {
     "word": "against her mother-in-law;",
@@ -69,7 +77,8 @@
     "translit": "(ba·ḥă·mō·ṯāh)",
     "parse": "Preposition-b | Noun - feminine singular construct | third person feminine singular",
     "str": "Strong's 2545:  ",
-    "str2": "Husband's mother"
+    "str2": "Husband's mother",
+    "num": 2545
   },
   {
     "word": "a man’s",
@@ -77,7 +86,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "enemies [are]",
@@ -85,7 +95,8 @@
     "translit": "(’ō·yə·ḇê)",
     "parse": "Verb - Qal - Participle - masculine plural construct",
     "str": "Strong's 341:  ",
-    "str2": "Hating, an adversary"
+    "str2": "Hating, an adversary",
+    "num": 341
   },
   {
     "word": "the members of his own household.",
@@ -93,6 +104,7 @@
     "translit": "(ḇê·ṯōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   }
 ]

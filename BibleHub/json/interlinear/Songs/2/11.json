@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "now",
@@ -13,7 +14,8 @@
     "translit": "(hin·nêh)",
     "parse": "Interjection",
     "str": "Strong's 2009:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2009
   },
   {
     "word": "the winter",
@@ -21,7 +23,8 @@
     "translit": "(has·sə·ṯāw)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5638:  ",
-    "str2": "Winter"
+    "str2": "Winter",
+    "num": 5638
   },
   {
     "word": "is past;",
@@ -29,7 +32,8 @@
     "translit": "(‘ā·ḇār)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 5674:  ",
-    "str2": "To pass over, through, or by, pass on"
+    "str2": "To pass over, through, or by, pass on",
+    "num": 5674
   },
   {
     "word": "the rain",
@@ -37,7 +41,8 @@
     "translit": "(hag·ge·šem)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1653:  ",
-    "str2": "Rain, shower"
+    "str2": "Rain, shower",
+    "num": 1653
   },
   {
     "word": "is over",
@@ -45,7 +50,8 @@
     "translit": "(ḥā·lap̄)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 2498:  ",
-    "str2": "To slide by, to hasten away, pass on, spring up, pierce, change"
+    "str2": "To slide by, to hasten away, pass on, spring up, pierce, change",
+    "num": 2498
   },
   {
     "word": "and gone.",
@@ -53,6 +59,7 @@
     "translit": "(hā·laḵ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   }
 ]

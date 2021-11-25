@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "by these",
@@ -13,7 +14,8 @@
     "translit": "(ḇām)",
     "parse": "Preposition | third person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "He judges",
@@ -21,7 +23,8 @@
     "translit": "(yā·ḏîn)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1777:  ",
-    "str2": "A straight course, sail direct"
+    "str2": "A straight course, sail direct",
+    "num": 1777
   },
   {
     "word": "the nations",
@@ -29,7 +32,8 @@
     "translit": "(‘am·mîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "and provides",
@@ -37,7 +41,8 @@
     "translit": "(yit·ten-)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "food",
@@ -45,7 +50,8 @@
     "translit": "(’ō·ḵel)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 400:  ",
-    "str2": "Food"
+    "str2": "Food",
+    "num": 400
   },
   {
     "word": "in abundance.",
@@ -53,6 +59,7 @@
     "translit": "(lə·maḵ·bîr)",
     "parse": "Preposition-l | Verb - Hifil - Participle - masculine singular",
     "str": "Strong's 4342:  ",
-    "str2": "Abundance "
+    "str2": "Abundance ",
+    "num": 4342
   }
 ]

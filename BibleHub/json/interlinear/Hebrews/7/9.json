@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "so",
@@ -13,7 +14,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "to speak,",
@@ -21,7 +23,8 @@
     "translit": "(eipein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "Levi,",
@@ -29,7 +32,8 @@
     "translit": "(Leui)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3017:  ",
-    "str2": "Of Hebrew origin; Levi, the name of three Israelites."
+    "str2": "Of Hebrew origin; Levi, the name of three Israelites.",
+    "num": 3017
   },
   {
     "word": "who",
@@ -37,7 +41,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "collects",
@@ -45,7 +50,8 @@
     "translit": "(lambanōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "[the] tenth,",
@@ -53,7 +59,8 @@
     "translit": "(dekatas)",
     "parse": "Adjective - Accusative Feminine Plural",
     "str": "Strong's 1181:  ",
-    "str2": "A tenth part, a tithe. Feminine of dekatos; a tenth, i.e. As a percentage or tithe."
+    "str2": "A tenth part, a tithe. Feminine of dekatos; a tenth, i.e. As a percentage or tithe.",
+    "num": 1181
   },
   {
     "word": "paid [the] tenth",
@@ -61,7 +68,8 @@
     "translit": "(dedekatōtai)",
     "parse": "Verb - Perfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1183:  ",
-    "str2": "To tithe, collect tithe from. From dekate; to tithe, i.e. To give or take a tenth."
+    "str2": "To tithe, collect tithe from. From dekate; to tithe, i.e. To give or take a tenth.",
+    "num": 1183
   },
   {
     "word": "through",
@@ -69,7 +77,8 @@
     "translit": "(di’)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "Abraham.",
@@ -77,6 +86,7 @@
     "translit": "(Abraam)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 11:  ",
-    "str2": "Abraham, progenitor of the Hebrew race. Of Hebrew origin; Abraham, the Hebrew patriarch."
+    "str2": "Abraham, progenitor of the Hebrew race. Of Hebrew origin; Abraham, the Hebrew patriarch.",
+    "num": 11
   }
 ]

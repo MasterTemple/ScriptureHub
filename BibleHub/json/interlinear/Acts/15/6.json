@@ -5,7 +5,8 @@
     "translit": "(te)",
     "parse": "Conjunction",
     "str": "Strong's 5037:  ",
-    "str2": "And, both. A primary particle of connection or addition; both or also."
+    "str2": "And, both. A primary particle of connection or addition; both or also.",
+    "num": 5037
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "apostles",
@@ -21,7 +23,8 @@
     "translit": "(apostoloi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 652:  ",
-    "str2": "From apostello; a delegate; specially, an ambassador of the Gospel; officially a commissioner of Christ."
+    "str2": "From apostello; a delegate; specially, an ambassador of the Gospel; officially a commissioner of Christ.",
+    "num": 652
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "elders",
@@ -37,7 +41,8 @@
     "translit": "(presbyteroi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 4245:  ",
-    "str2": "Comparative of presbus; older; as noun, a senior; specially, an Israelite Sanhedrist or Christian 'presbyter'."
+    "str2": "Comparative of presbus; older; as noun, a senior; specially, an Israelite Sanhedrist or Christian 'presbyter'.",
+    "num": 4245
   },
   {
     "word": "met",
@@ -45,7 +50,8 @@
     "translit": "(Synēchthēsan)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Plural",
     "str": "Strong's 4863:  ",
-    "str2": "From sun and ago; to lead together, i.e. Collect or convene; specially, to entertain."
+    "str2": "From sun and ago; to lead together, i.e. Collect or convene; specially, to entertain.",
+    "num": 4863
   },
   {
     "word": "to look into",
@@ -53,7 +59,8 @@
     "translit": "(idein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "this",
@@ -61,7 +68,8 @@
     "translit": "(toutou)",
     "parse": "Demonstrative Pronoun - Genitive Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "matter.",
@@ -69,6 +77,7 @@
     "translit": "(logou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   }
 ]

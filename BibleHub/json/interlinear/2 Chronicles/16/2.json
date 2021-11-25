@@ -5,7 +5,8 @@
     "translit": "(’ā·sā)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 609:  ",
-    "str2": "Asa -- perhaps 'healer', an Israelite name"
+    "str2": "Asa -- perhaps 'healer', an Israelite name",
+    "num": 609
   },
   {
     "word": "withdrew",
@@ -13,7 +14,8 @@
     "translit": "(way·yō·ṣê)",
     "parse": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "the silver",
@@ -21,7 +23,8 @@
     "translit": "(ke·sep̄)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3701:  ",
-    "str2": "Silver, money"
+    "str2": "Silver, money",
+    "num": 3701
   },
   {
     "word": "and gold",
@@ -29,7 +32,8 @@
     "translit": "(wə·zā·hāḇ)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 2091:  ",
-    "str2": "Gold, something gold-colored, as oil, a clear sky"
+    "str2": "Gold, something gold-colored, as oil, a clear sky",
+    "num": 2091
   },
   {
     "word": "from the treasuries",
@@ -37,7 +41,8 @@
     "translit": "(mê·’ō·ṣə·rō·wṯ)",
     "parse": "Preposition-m | Noun - masculine plural construct",
     "str": "Strong's 214:  ",
-    "str2": "Treasure, store, a treasury, storehouse"
+    "str2": "Treasure, store, a treasury, storehouse",
+    "num": 214
   },
   {
     "word": "of the house",
@@ -45,7 +50,8 @@
     "translit": "(bêṯ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "of the LORD",
@@ -53,7 +59,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "and of the royal",
@@ -61,7 +68,8 @@
     "translit": "(ham·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "palace",
@@ -69,7 +77,8 @@
     "translit": "(ū·ḇêṯ)",
     "parse": "Conjunctive waw | Noun - masculine singular construct",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "and sent",
@@ -77,7 +86,8 @@
     "translit": "(way·yiš·laḥ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 7971:  ",
-    "str2": "To send away, for, out"
+    "str2": "To send away, for, out",
+    "num": 7971
   },
   {
     "word": "it to",
@@ -85,7 +95,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "Ben-hadad",
@@ -93,7 +104,8 @@
     "translit": "(hă·ḏaḏ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 1130:  ",
-    "str2": "Ben-hadad -- 'son of Hadad', the name of several Aramean (Syrian) kings"
+    "str2": "Ben-hadad -- 'son of Hadad', the name of several Aramean (Syrian) kings",
+    "num": 1130
   },
   {
     "word": "king",
@@ -101,7 +113,8 @@
     "translit": "(me·leḵ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "of Aram,",
@@ -109,7 +122,8 @@
     "translit": "(’ă·rām)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 758:  ",
-    "str2": "Aram -- Syria"
+    "str2": "Aram -- Syria",
+    "num": 758
   },
   {
     "word": "who lived",
@@ -117,7 +131,8 @@
     "translit": "(hay·yō·wō·šêḇ)",
     "parse": "Article | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "in Damascus,",
@@ -125,7 +140,8 @@
     "translit": "(bə·ḏar·me·śeq)",
     "parse": "Preposition-b | Noun - proper - feminine singular",
     "str": "Strong's 1834:  ",
-    "str2": "Damascus -- a city in Aram (Syria)"
+    "str2": "Damascus -- a city in Aram (Syria)",
+    "num": 1834
   },
   {
     "word": "with this message:",
@@ -133,6 +149,7 @@
     "translit": "(lê·mōr)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   }
 ]

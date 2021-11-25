@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "only",
@@ -13,7 +14,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "one",
@@ -21,7 +23,8 @@
     "translit": "(henos)",
     "parse": "Adjective - Genitive Neuter Singular",
     "str": "Strong's 1520:  ",
-    "str2": "One. (including the neuter Hen); a primary numeral; one."
+    "str2": "One. (including the neuter Hen); a primary numeral; one.",
+    "num": 1520
   },
   {
     "word": "thing",
@@ -29,7 +32,8 @@
     "translit": "(oligōn)",
     "parse": "Adjective - Genitive Neuter Singular",
     "str": "Strong's 3641:  ",
-    "str2": "Puny; especially neuter somewhat."
+    "str2": "Puny; especially neuter somewhat.",
+    "num": 3641
   },
   {
     "word": "is",
@@ -37,7 +41,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "necessary.",
@@ -45,7 +50,8 @@
     "translit": "(chreia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 5532:  ",
-    "str2": "From the base of chraomai or chre; employment, i.e. An affair; also occasion, demand, requirement or destitution."
+    "str2": "From the base of chraomai or chre; employment, i.e. An affair; also occasion, demand, requirement or destitution.",
+    "num": 5532
   },
   {
     "word": "Mary",
@@ -53,7 +59,8 @@
     "translit": "(Mariam)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3137:  ",
-    "str2": "Or Mariam of Hebrew origin; Maria or Mariam, the name of six Christian females."
+    "str2": "Or Mariam of Hebrew origin; Maria or Mariam, the name of six Christian females.",
+    "num": 3137
   },
   {
     "word": "has chosen",
@@ -61,7 +68,8 @@
     "translit": "(exelexato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1586:  ",
-    "str2": "To pick out for myself, choose, elect, select. Middle voice from ek and lego; to select."
+    "str2": "To pick out for myself, choose, elect, select. Middle voice from ek and lego; to select.",
+    "num": 1586
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "good",
@@ -77,7 +86,8 @@
     "translit": "(agathēn)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 18:  ",
-    "str2": "A primary word; 'good'."
+    "str2": "A primary word; 'good'.",
+    "num": 18
   },
   {
     "word": "portion,",
@@ -85,7 +95,8 @@
     "translit": "(merida)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3310:  ",
-    "str2": "Feminine of meros; a portion, i.e. Province, share or participation."
+    "str2": "Feminine of meros; a portion, i.e. Province, share or participation.",
+    "num": 3310
   },
   {
     "word": "[and it]",
@@ -93,7 +104,8 @@
     "translit": "(hētis)",
     "parse": "Personal / Relative Pronoun - Nominative Feminine Singular",
     "str": "Strong's 3748:  ",
-    "str2": "Whosoever, whichsoever, whatsoever. "
+    "str2": "Whosoever, whichsoever, whatsoever. ",
+    "num": 3748
   },
   {
     "word": "will not be taken away from",
@@ -101,7 +113,8 @@
     "translit": "(aphairethēsetai)",
     "parse": "Verb - Future Indicative Passive - 3rd Person Singular",
     "str": "Strong's 851:  ",
-    "str2": "To take away, smite off. From apo and haireomai; to remove."
+    "str2": "To take away, smite off. From apo and haireomai; to remove.",
+    "num": 851
   },
   {
     "word": "her.”",
@@ -109,6 +122,7 @@
     "translit": "(autēs)",
     "parse": "Personal / Possessive Pronoun - Genitive Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

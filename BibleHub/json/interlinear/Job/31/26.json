@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I have regarded",
@@ -13,7 +14,8 @@
     "translit": "(’er·’eh)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "the sun",
@@ -21,7 +23,8 @@
     "translit": "(’ō·wr)",
     "parse": "Noun - common singular",
     "str": "Strong's 216:  ",
-    "str2": "Illumination, luminary"
+    "str2": "Illumination, luminary",
+    "num": 216
   },
   {
     "word": "in its radiance",
@@ -29,7 +32,8 @@
     "translit": "(yā·hêl)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular",
     "str": "Strong's 1984:  ",
-    "str2": "To shine"
+    "str2": "To shine",
+    "num": 1984
   },
   {
     "word": "or at the moon",
@@ -37,7 +41,8 @@
     "translit": "(wə·yā·rê·aḥ)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 3394:  ",
-    "str2": "The moon"
+    "str2": "The moon",
+    "num": 3394
   },
   {
     "word": "moving",
@@ -45,7 +50,8 @@
     "translit": "(hō·lêḵ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "in splendor,",
@@ -53,6 +59,7 @@
     "translit": "(yā·qār)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 3368:  ",
-    "str2": "Precious, rare, splendid, weighty"
+    "str2": "Precious, rare, splendid, weighty",
+    "num": 3368
   }
 ]

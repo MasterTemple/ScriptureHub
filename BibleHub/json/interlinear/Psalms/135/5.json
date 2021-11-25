@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I",
@@ -13,7 +14,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "know",
@@ -21,7 +23,8 @@
     "translit": "(yā·ḏa‘·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "that",
@@ -29,7 +32,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the LORD",
@@ -37,7 +41,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "is great;",
@@ -45,7 +50,8 @@
     "translit": "(ḡā·ḏō·wl)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 1419:  ",
-    "str2": "Great, older, insolent"
+    "str2": "Great, older, insolent",
+    "num": 1419
   },
   {
     "word": "our Lord",
@@ -53,7 +59,8 @@
     "translit": "(wa·’ă·ḏō·nê·nū)",
     "parse": "Conjunctive waw | Noun - masculine plural construct | first person common plural",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "is above all",
@@ -61,7 +68,8 @@
     "translit": "(mik·kāl)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "gods.",
@@ -69,6 +77,7 @@
     "translit": "(’ĕ·lō·hîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   }
 ]

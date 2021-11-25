@@ -5,7 +5,8 @@
     "translit": "(hēmin)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "much",
@@ -13,7 +14,8 @@
     "translit": "(polys)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "to say",
@@ -21,7 +23,8 @@
     "translit": "(logos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "about",
@@ -29,7 +32,8 @@
     "translit": "(Peri)",
     "parse": "Preposition",
     "str": "Strong's 4012:  ",
-    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time.",
+    "num": 4012
   },
   {
     "word": "[this],",
@@ -37,7 +41,8 @@
     "translit": "(hou)",
     "parse": "Personal / Relative Pronoun - Genitive Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "[but it is]",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "hard to explain,",
@@ -53,7 +59,8 @@
     "translit": "(dysermēneutos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1421:  ",
-    "str2": "Difficult to interpret, hard to be understood. From dus- and a presumed derivative of hermeneuo; difficult of explanation."
+    "str2": "Difficult to interpret, hard to be understood. From dus- and a presumed derivative of hermeneuo; difficult of explanation.",
+    "num": 1421
   },
   {
     "word": "because",
@@ -61,7 +68,8 @@
     "translit": "(epei)",
     "parse": "Conjunction",
     "str": "Strong's 1893:  ",
-    "str2": "Of time: when, after; of cause: since, because; otherwise: else. From epi and ei; thereupon, i.e. Since."
+    "str2": "Of time: when, after; of cause: since, because; otherwise: else. From epi and ei; thereupon, i.e. Since.",
+    "num": 1893
   },
   {
     "word": "you are",
@@ -69,7 +77,8 @@
     "translit": "(gegonate)",
     "parse": "Verb - Perfect Indicative Active - 2nd Person Plural",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "dull",
@@ -77,7 +86,8 @@
     "translit": "(nōthroi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3576:  ",
-    "str2": "Blunt, dull, hence spiritually; sluggish, remiss, slack. From a derivative of nothos; sluggish, i.e. lazy, or stupid."
+    "str2": "Blunt, dull, hence spiritually; sluggish, remiss, slack. From a derivative of nothos; sluggish, i.e. lazy, or stupid.",
+    "num": 3576
   },
   {
     "word": "of",
@@ -85,7 +95,8 @@
     "translit": "(tais)",
     "parse": "Article - Dative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "hearing.",
@@ -93,6 +104,7 @@
     "translit": "(akoais)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 189:  ",
-    "str2": "Hearing, faculty of hearing, ear; report, rumor. From akouo; hearing."
+    "str2": "Hearing, faculty of hearing, ear; report, rumor. From akouo; hearing.",
+    "num": 189
   }
 ]

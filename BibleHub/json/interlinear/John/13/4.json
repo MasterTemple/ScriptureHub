@@ -5,7 +5,8 @@
     "translit": "(egeiretai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1453:  ",
-    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse."
+    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse.",
+    "num": 1453
   },
   {
     "word": "from",
@@ -13,7 +14,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "supper,",
@@ -29,7 +32,8 @@
     "translit": "(deipnou)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 1173:  ",
-    "str2": "A dinner, an afternoon or evening meal. From the same as dapane; dinner, i.e. The chief meal."
+    "str2": "A dinner, an afternoon or evening meal. From the same as dapane; dinner, i.e. The chief meal.",
+    "num": 1173
   },
   {
     "word": "laid aside",
@@ -37,7 +41,8 @@
     "translit": "(tithēsin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 5087:  ",
-    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place."
+    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place.",
+    "num": 5087
   },
   {
     "word": "[His]",
@@ -45,7 +50,8 @@
     "translit": "(ta)",
     "parse": "Article - Accusative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "outer garments,",
@@ -53,7 +59,8 @@
     "translit": "(himatia)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 2440:  ",
-    "str2": "A long flowing outer garment, tunic. Neuter of a presumed derivative of ennumi; a dress."
+    "str2": "A long flowing outer garment, tunic. Neuter of a presumed derivative of ennumi; a dress.",
+    "num": 2440
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "wrapped",
@@ -69,7 +77,8 @@
     "translit": "(diezōsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1241:  ",
-    "str2": "To gird, tie around; mid: I gird round myself. From dia and zonnumi; to gird tightly."
+    "str2": "To gird, tie around; mid: I gird round myself. From dia and zonnumi; to gird tightly.",
+    "num": 1241
   },
   {
     "word": "a towel",
@@ -77,7 +86,8 @@
     "translit": "(lention)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3012:  ",
-    "str2": "A towel, apron, coarse cloth. Of Latin origin; a 'linen' cloth, i.e. Apron."
+    "str2": "A towel, apron, coarse cloth. Of Latin origin; a 'linen' cloth, i.e. Apron.",
+    "num": 3012
   },
   {
     "word": "{around} His {waist}.",
@@ -85,6 +95,7 @@
     "translit": "(heauton)",
     "parse": "Reflexive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   }
 ]

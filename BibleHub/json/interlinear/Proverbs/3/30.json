@@ -5,7 +5,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "accuse",
@@ -13,7 +14,8 @@
     "translit": "(tā·rîḇ)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 7378:  ",
-    "str2": "To toss, grapple, to wrangle, controversy, to defend"
+    "str2": "To toss, grapple, to wrangle, controversy, to defend",
+    "num": 7378
   },
   {
     "word": "a man",
@@ -21,7 +23,8 @@
     "translit": "(’ā·ḏām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   },
   {
     "word": "without cause,",
@@ -29,7 +32,8 @@
     "translit": "(ḥin·nām)",
     "parse": "Adverb",
     "str": "Strong's 2600:  ",
-    "str2": "Gratis, devoid of cost, reason, advantage"
+    "str2": "Gratis, devoid of cost, reason, advantage",
+    "num": 2600
   },
   {
     "word": "when",
@@ -37,7 +41,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "he has done",
@@ -45,7 +50,8 @@
     "translit": "(ḡə·mā·lə·ḵā)",
     "parse": "Verb - Qal - Perfect - third person masculine singular | second person masculine singular",
     "str": "Strong's 1580:  ",
-    "str2": "To deal fully or adequately with, deal out to, wean, ripen"
+    "str2": "To deal fully or adequately with, deal out to, wean, ripen",
+    "num": 1580
   },
   {
     "word": "you no",
@@ -53,7 +59,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "harm.",
@@ -61,6 +68,7 @@
     "translit": "(rā·‘āh)",
     "parse": "Adjective - feminine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   }
 ]

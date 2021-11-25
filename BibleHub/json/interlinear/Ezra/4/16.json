@@ -5,7 +5,8 @@
     "translit": "(’ă·naḥ·nāh)",
     "parse": "Pronoun - first person common plural",
     "str": "Strong's 586:  ",
-    "str2": "We"
+    "str2": "We",
+    "num": 586
   },
   {
     "word": "advise",
@@ -13,7 +14,8 @@
     "translit": "(mə·hō·wḏ·‘în)",
     "parse": "Verb - Hifil - Participle - masculine plural",
     "str": "Strong's 3046:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3046
   },
   {
     "word": "the king",
@@ -21,7 +23,8 @@
     "translit": "(lə·mal·kā)",
     "parse": "Preposition-l | Noun - masculine singular determinate",
     "str": "Strong's 4430:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4430
   },
   {
     "word": "that",
@@ -29,7 +32,8 @@
     "translit": "(dî)",
     "parse": "Pronoun - relative",
     "str": "Strong's 1768:  ",
-    "str2": "Who, which, that, because"
+    "str2": "Who, which, that, because",
+    "num": 1768
   },
   {
     "word": "if",
@@ -37,7 +41,8 @@
     "translit": "(hên)",
     "parse": "Conjunction",
     "str": "Strong's 2006:  ",
-    "str2": "Lo!, there, less, whether, but, if"
+    "str2": "Lo!, there, less, whether, but, if",
+    "num": 2006
   },
   {
     "word": "this",
@@ -45,7 +50,8 @@
     "translit": "(ḏāḵ)",
     "parse": "Pronoun - feminine singular",
     "str": "Strong's 1791:  ",
-    "str2": "This"
+    "str2": "This",
+    "num": 1791
   },
   {
     "word": "city",
@@ -53,7 +59,8 @@
     "translit": "(qir·yə·ṯā)",
     "parse": "Noun - feminine singular determinate",
     "str": "Strong's 7149:  ",
-    "str2": "Building"
+    "str2": "Building",
+    "num": 7149
   },
   {
     "word": "is rebuilt",
@@ -61,7 +68,8 @@
     "translit": "(tiṯ·bə·nê)",
     "parse": "Verb - Hitpael - Imperfect - third person feminine singular",
     "str": "Strong's 1124:  ",
-    "str2": "To build"
+    "str2": "To build",
+    "num": 1124
   },
   {
     "word": "and its walls",
@@ -69,7 +77,8 @@
     "translit": "(wə·šū·ray·yāh)",
     "parse": "Conjunctive waw | Noun - masculine plural determinate",
     "str": "Strong's 7792:  ",
-    "str2": "A wall"
+    "str2": "A wall",
+    "num": 7792
   },
   {
     "word": "are restored,",
@@ -77,7 +86,8 @@
     "translit": "(yiš·taḵ·lə·lūn)",
     "parse": "Verb - Hitpael - Imperfect - third person masculine plural",
     "str": "Strong's 3635:  ",
-    "str2": "To complete"
+    "str2": "To complete",
+    "num": 3635
   },
   {
     "word": "you will have",
@@ -85,7 +95,8 @@
     "translit": "(’î·ṯay)",
     "parse": "Adverb",
     "str": "Strong's 383:  ",
-    "str2": "Entity, as a, particle of affirmation, there is"
+    "str2": "Entity, as a, particle of affirmation, there is",
+    "num": 383
   },
   {
     "word": "no",
@@ -93,7 +104,8 @@
     "translit": "(lā)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3809:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3809
   },
   {
     "word": "dominion",
@@ -101,7 +113,8 @@
     "translit": "(ḥă·lāq)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2508:  ",
-    "str2": "Portion, possession"
+    "str2": "Portion, possession",
+    "num": 2508
   },
   {
     "word": "west",
@@ -109,7 +122,8 @@
     "translit": "(ba·‘ă·ḇar)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 5675:  ",
-    "str2": "A region across, on the opposite side"
+    "str2": "A region across, on the opposite side",
+    "num": 5675
   },
   {
     "word": "of the Euphrates.",
@@ -117,6 +131,7 @@
     "translit": "(na·hă·rā)",
     "parse": "Noun - masculine singular determinate",
     "str": "Strong's 5103:  ",
-    "str2": "A river, the Euphrates"
+    "str2": "A river, the Euphrates",
+    "num": 5103
   }
 ]

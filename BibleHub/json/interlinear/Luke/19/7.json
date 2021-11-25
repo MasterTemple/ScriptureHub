@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "all [who]",
@@ -13,7 +14,8 @@
     "translit": "(pantes)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "saw [this]",
@@ -21,7 +23,8 @@
     "translit": "(idontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "began to grumble,",
@@ -29,7 +32,8 @@
     "translit": "(diegongyzon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 1234:  ",
-    "str2": "To murmur greatly, continue murmuring. From dia and gogguzo; to complain throughout a crowd."
+    "str2": "To murmur greatly, continue murmuring. From dia and gogguzo; to complain throughout a crowd.",
+    "num": 1234
   },
   {
     "word": "saying,",
@@ -37,7 +41,8 @@
     "translit": "(legontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“He has gone",
@@ -45,7 +50,8 @@
     "translit": "(eisēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "to be the guest",
@@ -53,7 +59,8 @@
     "translit": "(katalysai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2647:  ",
-    "str2": "From kata and luo; to loosen down, i.e. to demolish; specially to halt for the night."
+    "str2": "From kata and luo; to loosen down, i.e. to demolish; specially to halt for the night.",
+    "num": 2647
   },
   {
     "word": "of",
@@ -61,7 +68,8 @@
     "translit": "(Para)",
     "parse": "Preposition",
     "str": "Strong's 3844:  ",
-    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. "
+    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. ",
+    "num": 3844
   },
   {
     "word": "a sinful",
@@ -69,7 +77,8 @@
     "translit": "(hamartōlō)",
     "parse": "Adjective - Dative Masculine Singular",
     "str": "Strong's 268:  ",
-    "str2": "Sinning, sinful, depraved, detestable. From hamartano; sinful, i.e. A sinner."
+    "str2": "Sinning, sinful, depraved, detestable. From hamartano; sinful, i.e. A sinner.",
+    "num": 268
   },
   {
     "word": "man!”",
@@ -77,6 +86,7 @@
     "translit": "(andri)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   }
 ]

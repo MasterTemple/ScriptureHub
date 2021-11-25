@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you",
@@ -21,7 +23,8 @@
     "translit": "(’at·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "go",
@@ -29,7 +32,8 @@
     "translit": "(bō)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "and fight",
@@ -37,7 +41,8 @@
     "translit": "(‘ă·śêh)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "bravely",
@@ -45,7 +50,8 @@
     "translit": "(ḥă·zaq)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 2388:  ",
-    "str2": "To fasten upon, to seize, be strong, obstinate, to bind, restrain, conquer"
+    "str2": "To fasten upon, to seize, be strong, obstinate, to bind, restrain, conquer",
+    "num": 2388
   },
   {
     "word": "in battle,",
@@ -53,7 +59,8 @@
     "translit": "(lam·mil·ḥā·māh)",
     "parse": "Preposition-l, Article | Noun - feminine singular",
     "str": "Strong's 4421:  ",
-    "str2": "A battle, war"
+    "str2": "A battle, war",
+    "num": 4421
   },
   {
     "word": "God",
@@ -61,7 +68,8 @@
     "translit": "(hā·’ĕ·lō·hîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "will make you stumble",
@@ -69,7 +77,8 @@
     "translit": "(yaḵ·šî·lə·ḵā)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular | second person masculine singular",
     "str": "Strong's 3782:  ",
-    "str2": "To totter, waver, to falter, stumble, faint, fall"
+    "str2": "To totter, waver, to falter, stumble, faint, fall",
+    "num": 3782
   },
   {
     "word": "before",
@@ -77,7 +86,8 @@
     "translit": "(lip̄·nê)",
     "parse": "Preposition-l | Noun - common plural construct",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "the enemy,",
@@ -85,7 +95,8 @@
     "translit": "(’ō·w·yêḇ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 341:  ",
-    "str2": "Hating, an adversary"
+    "str2": "Hating, an adversary",
+    "num": 341
   },
   {
     "word": "for",
@@ -93,7 +104,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "God",
@@ -101,7 +113,8 @@
     "translit": "(bê·lō·hîm)",
     "parse": "Preposition-b | Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "has",
@@ -109,7 +122,8 @@
     "translit": "(yeš-)",
     "parse": "Adverb",
     "str": "Strong's 3426:  ",
-    "str2": "Being, substance, existence, is"
+    "str2": "Being, substance, existence, is",
+    "num": 3426
   },
   {
     "word": "power",
@@ -117,7 +131,8 @@
     "translit": "(kō·aḥ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3581:  ",
-    "str2": "A small reptile (of unknown species)"
+    "str2": "A small reptile (of unknown species)",
+    "num": 3581
   },
   {
     "word": "to help",
@@ -125,7 +140,8 @@
     "translit": "(la‘·zō·wr)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 5826:  ",
-    "str2": "To surround, protect, aid"
+    "str2": "To surround, protect, aid",
+    "num": 5826
   },
   {
     "word": "and [power] to overthrow.”",
@@ -133,6 +149,7 @@
     "translit": "(ū·lə·haḵ·šîl)",
     "parse": "Conjunctive waw, Preposition-l | Verb - Hifil - Infinitive construct",
     "str": "Strong's 3782:  ",
-    "str2": "To totter, waver, to falter, stumble, faint, fall"
+    "str2": "To totter, waver, to falter, stumble, faint, fall",
+    "num": 3782
   }
 ]

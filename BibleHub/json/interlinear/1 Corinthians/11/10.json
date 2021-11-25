@@ -5,7 +5,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "a woman",
@@ -13,7 +14,8 @@
     "translit": "(gynē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1135:  ",
-    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife."
+    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife.",
+    "num": 1135
   },
   {
     "word": "ought",
@@ -21,7 +23,8 @@
     "translit": "(opheilei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3784:  ",
-    "str2": "Or, its prolonged form opheileo probably from the base of ophelos; to owe; figuratively, to be under obligation; morally, to fail in duty."
+    "str2": "Or, its prolonged form opheileo probably from the base of ophelos; to owe; figuratively, to be under obligation; morally, to fail in duty.",
+    "num": 3784
   },
   {
     "word": "to have",
@@ -29,7 +32,8 @@
     "translit": "(echein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "a sign of authority",
@@ -37,7 +41,8 @@
     "translit": "(exousian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1849:  ",
-    "str2": "From exesti; privilege, i.e. force, capacity, competency, freedom, or mastery, delegated influence."
+    "str2": "From exesti; privilege, i.e. force, capacity, competency, freedom, or mastery, delegated influence.",
+    "num": 1849
   },
   {
     "word": "on",
@@ -45,7 +50,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "[her]",
@@ -53,7 +59,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "head,",
@@ -61,7 +68,8 @@
     "translit": "(kephalēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2776:  ",
-    "str2": "From the primary kapto; the head, literally or figuratively."
+    "str2": "From the primary kapto; the head, literally or figuratively.",
+    "num": 2776
   },
   {
     "word": "because of",
@@ -69,7 +77,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "angels.",
@@ -85,6 +95,7 @@
     "translit": "(angelous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 32:  ",
-    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor."
+    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor.",
+    "num": 32
   }
 ]

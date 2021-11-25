@@ -5,7 +5,8 @@
     "translit": "(’a·ḏab·bə·rāh)",
     "parse": "Verb - Piel - Imperfect Cohortative - first person common singular",
     "str": "Strong's 1696:  ",
-    "str2": "To arrange, to speak, to subdue"
+    "str2": "To arrange, to speak, to subdue",
+    "num": 1696
   },
   {
     "word": "without",
@@ -13,7 +14,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "fear of Him.",
@@ -21,7 +23,8 @@
     "translit": "(’î·rā·’en·nū)",
     "parse": "Verb - Qal - Imperfect - first person common singular | third person masculine singular",
     "str": "Strong's 3372:  ",
-    "str2": "To fear, to revere, caus, to frighten"
+    "str2": "To fear, to revere, caus, to frighten",
+    "num": 3372
   },
   {
     "word": "But",
@@ -29,7 +32,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "as it is,",
@@ -37,7 +41,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "I",
@@ -45,7 +50,8 @@
     "translit": "(’ā·nō·ḵî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "am on my own.",
@@ -53,6 +59,7 @@
     "translit": "(‘im·mā·ḏî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 5978:  ",
-    "str2": "Against, by, from, me, mine, of, that I take, unto, "
+    "str2": "Against, by, from, me, mine, of, that I take, unto, ",
+    "num": 5978
   }
 ]

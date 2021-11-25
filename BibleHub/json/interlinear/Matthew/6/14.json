@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(Ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "you forgive",
@@ -21,7 +23,8 @@
     "translit": "(aphēte)",
     "parse": "Verb - Aorist Subjunctive Active - 2nd Person Plural",
     "str": "Strong's 863:  ",
-    "str2": "From apo and hiemi; to send forth, in various applications."
+    "str2": "From apo and hiemi; to send forth, in various applications.",
+    "num": 863
   },
   {
     "word": "men",
@@ -29,7 +32,8 @@
     "translit": "(anthrōpois)",
     "parse": "Noun - Dative Masculine Plural",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "their",
@@ -37,7 +41,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "trespasses,",
@@ -45,7 +50,8 @@
     "translit": "(paraptōmata)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 3900:  ",
-    "str2": "A falling away, lapse, slip, false step, trespass, sin. From parapipto; a side-slip, i.e. error or transgression."
+    "str2": "A falling away, lapse, slip, false step, trespass, sin. From parapipto; a side-slip, i.e. error or transgression.",
+    "num": 3900
   },
   {
     "word": "your",
@@ -53,7 +59,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "Heavenly",
@@ -61,7 +68,8 @@
     "translit": "(ouranios)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3770:  ",
-    "str2": "In heaven, belonging to heaven, heavenly, from heaven. From ouranos; celestial, i.e. Belonging to or coming from the sky."
+    "str2": "In heaven, belonging to heaven, heavenly, from heaven. From ouranos; celestial, i.e. Belonging to or coming from the sky.",
+    "num": 3770
   },
   {
     "word": "Father",
@@ -69,7 +77,8 @@
     "translit": "(Patēr)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "will also forgive",
@@ -77,7 +86,8 @@
     "translit": "(aphēsei)",
     "parse": "Verb - Future Indicative Active - 3rd Person Singular",
     "str": "Strong's 863:  ",
-    "str2": "From apo and hiemi; to send forth, in various applications."
+    "str2": "From apo and hiemi; to send forth, in various applications.",
+    "num": 863
   },
   {
     "word": "you.",
@@ -85,6 +95,7 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

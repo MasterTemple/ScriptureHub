@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[no one]",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "on",
@@ -21,7 +23,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "housetop",
@@ -37,7 +41,8 @@
     "translit": "(dōmatos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 1430:  ",
-    "str2": "The roof (of a house), the top of the house. From demo; properly, an edifice, i.e. a roof."
+    "str2": "The roof (of a house), the top of the house. From demo; properly, an edifice, i.e. a roof.",
+    "num": 1430
   },
   {
     "word": "go back inside",
@@ -45,7 +50,8 @@
     "translit": "(katabatō)",
     "parse": "Verb - Aorist Imperative Active - 3rd Person Singular",
     "str": "Strong's 2597:  ",
-    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend."
+    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend.",
+    "num": 2597
   },
   {
     "word": "to retrieve",
@@ -53,7 +59,8 @@
     "translit": "(arai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 142:  ",
-    "str2": "To raise, lift up, take away, remove. "
+    "str2": "To raise, lift up, take away, remove. ",
+    "num": 142
   },
   {
     "word": "anything",
@@ -61,7 +68,8 @@
     "translit": "(ti)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Neuter Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "from",
@@ -69,7 +77,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "his",
@@ -77,7 +86,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "house.",
@@ -85,6 +95,7 @@
     "translit": "(oikias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 3614:  ",
-    "str2": "From oikos; properly, residence, but usually an abode; by implication, a family."
+    "str2": "From oikos; properly, residence, but usually an abode; by implication, a family.",
+    "num": 3614
   }
 ]

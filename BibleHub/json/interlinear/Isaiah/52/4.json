@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "this is what",
@@ -13,7 +14,8 @@
     "translit": "(ḵōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the Lord",
@@ -21,7 +23,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD",
@@ -29,7 +32,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "says:",
@@ -37,7 +41,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“At first",
@@ -45,7 +50,8 @@
     "translit": "(ḇā·ri·šō·nāh)",
     "parse": "Preposition-b, Article | Adjective - feminine singular",
     "str": "Strong's 7223:  ",
-    "str2": "First, in place, time, rank"
+    "str2": "First, in place, time, rank",
+    "num": 7223
   },
   {
     "word": "My people",
@@ -53,7 +59,8 @@
     "translit": "(‘am·mî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "went down",
@@ -61,7 +68,8 @@
     "translit": "(yā·raḏ-)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 3381:  ",
-    "str2": "To come or go down, descend"
+    "str2": "To come or go down, descend",
+    "num": 3381
   },
   {
     "word": "to Egypt",
@@ -69,7 +77,8 @@
     "translit": "(miṣ·ra·yim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 4714:  ",
-    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa"
+    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+    "num": 4714
   },
   {
     "word": "to live,",
@@ -77,7 +86,8 @@
     "translit": "(lā·ḡūr)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 1481:  ",
-    "str2": "To turn aside from the road, sojourn, to shrink, fear, to gather for, hostility"
+    "str2": "To turn aside from the road, sojourn, to shrink, fear, to gather for, hostility",
+    "num": 1481
   },
   {
     "word": "then Assyria",
@@ -85,7 +95,8 @@
     "translit": "(wə·’aš·šūr)",
     "parse": "Conjunctive waw | Noun - proper - feminine singular",
     "str": "Strong's 804:  ",
-    "str2": "Ashshur"
+    "str2": "Ashshur",
+    "num": 804
   },
   {
     "word": "oppressed them",
@@ -93,7 +104,8 @@
     "translit": "(‘ă·šā·qōw)",
     "parse": "Verb - Qal - Perfect - third person masculine singular | third person masculine singular",
     "str": "Strong's 6231:  ",
-    "str2": "To press upon, oppress, defraud, violate, overflow"
+    "str2": "To press upon, oppress, defraud, violate, overflow",
+    "num": 6231
   },
   {
     "word": "without cause.",
@@ -101,6 +113,7 @@
     "translit": "(bə·’e·p̄es)",
     "parse": "Preposition-b | Adverb",
     "str": "Strong's 657:  ",
-    "str2": "Cessation, an end, no further, the ankle, foot"
+    "str2": "Cessation, an end, no further, the ankle, foot",
+    "num": 657
   }
 ]

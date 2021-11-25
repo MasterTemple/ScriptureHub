@@ -5,7 +5,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "clothe yourselves",
@@ -13,7 +14,8 @@
     "translit": "(endysasthe)",
     "parse": "Verb - Aorist Imperative Middle - 2nd Person Plural",
     "str": "Strong's 1746:  ",
-    "str2": "To put on, clothe (another). From en and duno; to invest with clothing."
+    "str2": "To put on, clothe (another). From en and duno; to invest with clothing.",
+    "num": 1746
   },
   {
     "word": "with the",
@@ -21,7 +23,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord",
@@ -29,7 +32,8 @@
     "translit": "(Kyrion)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "Jesus",
@@ -37,7 +41,8 @@
     "translit": "(Iēsoun)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "Christ,",
@@ -45,7 +50,8 @@
     "translit": "(Christon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "make",
@@ -61,7 +68,8 @@
     "translit": "(poieisthe)",
     "parse": "Verb - Present Imperative Middle - 2nd Person Plural",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "no",
@@ -69,7 +77,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "provision",
@@ -77,7 +86,8 @@
     "translit": "(pronoian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4307:  ",
-    "str2": "Forethought, foresight, provision for, providence. From pronoeo; forethought, i.e. Provident care or supply."
+    "str2": "Forethought, foresight, provision for, providence. From pronoeo; forethought, i.e. Provident care or supply.",
+    "num": 4307
   },
   {
     "word": "for",
@@ -85,7 +95,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "[the] desires",
@@ -93,7 +104,8 @@
     "translit": "(epithymias)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 1939:  ",
-    "str2": "Desire, eagerness for, inordinate desire, lust. From epithumeo; a longing."
+    "str2": "Desire, eagerness for, inordinate desire, lust. From epithumeo; a longing.",
+    "num": 1939
   },
   {
     "word": "of the",
@@ -101,7 +113,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "flesh.",
@@ -109,6 +122,7 @@
     "translit": "(sarkos)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4561:  ",
-    "str2": "Flesh, body, human nature, materiality; kindred. "
+    "str2": "Flesh, body, human nature, materiality; kindred. ",
+    "num": 4561
   }
 ]

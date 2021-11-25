@@ -5,7 +5,8 @@
     "translit": "(lə·ma·‘an)",
     "parse": "Conjunction",
     "str": "Strong's 4616:  ",
-    "str2": "Purpose -- intent"
+    "str2": "Purpose -- intent",
+    "num": 4616
   },
   {
     "word": "all",
@@ -13,7 +14,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the peoples",
@@ -21,7 +23,8 @@
     "translit": "(‘am·mê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "of the earth",
@@ -29,7 +32,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "may know",
@@ -37,7 +41,8 @@
     "translit": "(da·‘aṯ)",
     "parse": "Verb - Qal - Infinitive construct",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "that",
@@ -45,7 +50,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the LORD",
@@ -53,7 +59,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "is God.",
@@ -61,7 +68,8 @@
     "translit": "(hā·’ĕ·lō·hîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "There is no",
@@ -69,7 +77,8 @@
     "translit": "(’ên)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "other!",
@@ -77,6 +86,7 @@
     "translit": "(‘ō·wḏ)",
     "parse": "Adverb",
     "str": "Strong's 5750:  ",
-    "str2": "Iteration, continuance, again, repeatedly, still, more"
+    "str2": "Iteration, continuance, again, repeatedly, still, more",
+    "num": 5750
   }
 ]

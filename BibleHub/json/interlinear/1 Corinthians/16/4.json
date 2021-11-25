@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "it is",
@@ -21,7 +23,8 @@
     "translit": "(ē)",
     "parse": "Verb - Present Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "advisable",
@@ -29,7 +32,8 @@
     "translit": "(axion)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 514:  ",
-    "str2": "Worthy, worthy of, deserving, comparable, suitable. Probably from ago; deserving, comparable or suitable."
+    "str2": "Worthy, worthy of, deserving, comparable, suitable. Probably from ago; deserving, comparable or suitable.",
+    "num": 514
   },
   {
     "word": "for",
@@ -37,7 +41,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "me",
@@ -45,7 +50,8 @@
     "translit": "(kame)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 2504:  ",
-    "str2": "To also, I too, but I. From kai and ego; so also the dative case kamoi, and accusative case kame and I, me."
+    "str2": "To also, I too, but I. From kai and ego; so also the dative case kamoi, and accusative case kame and I, me.",
+    "num": 2504
   },
   {
     "word": "to go {also},",
@@ -53,7 +59,8 @@
     "translit": "(poreuesthai)",
     "parse": "Verb - Present Infinitive Middle or Passive",
     "str": "Strong's 4198:  ",
-    "str2": "To travel, journey, go, die. "
+    "str2": "To travel, journey, go, die. ",
+    "num": 4198
   },
   {
     "word": "they can travel",
@@ -61,7 +68,8 @@
     "translit": "(poreusontai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Plural",
     "str": "Strong's 4198:  ",
-    "str2": "To travel, journey, go, die. "
+    "str2": "To travel, journey, go, die. ",
+    "num": 4198
   },
   {
     "word": "with",
@@ -69,7 +77,8 @@
     "translit": "(syn)",
     "parse": "Preposition",
     "str": "Strong's 4862:  ",
-    "str2": "With. A primary preposition denoting union; with or together."
+    "str2": "With. A primary preposition denoting union; with or together.",
+    "num": 4862
   },
   {
     "word": "me.",
@@ -77,6 +86,7 @@
     "translit": "(emoi)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   }
 ]

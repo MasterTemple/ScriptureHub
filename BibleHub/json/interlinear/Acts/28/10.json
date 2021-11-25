@@ -5,7 +5,8 @@
     "translit": "(hoi)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "honored",
@@ -13,7 +14,8 @@
     "translit": "(etimēsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 5091:  ",
-    "str2": "From timios; to prize, i.e. Fix a valuation upon; by implication, to revere."
+    "str2": "From timios; to prize, i.e. Fix a valuation upon; by implication, to revere.",
+    "num": 5091
   },
   {
     "word": "us",
@@ -21,7 +23,8 @@
     "translit": "(hēmas)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "in many",
@@ -29,7 +32,8 @@
     "translit": "(pollais)",
     "parse": "Adjective - Dative Feminine Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "ways",
@@ -37,7 +41,8 @@
     "translit": "(timais)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 5092:  ",
-    "str2": "A price, honor. From tino; a value, i.e. Money paid, or valuables; by analogy, esteem, or the dignity itself."
+    "str2": "A price, honor. From tino; a value, i.e. Money paid, or valuables; by analogy, esteem, or the dignity itself.",
+    "num": 5092
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "supplied",
@@ -53,7 +59,8 @@
     "translit": "(epethento)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Plural",
     "str": "Strong's 2007:  ",
-    "str2": "To put, place upon, lay on; I add, give in addition. From epi and tithemi; to impose."
+    "str2": "To put, place upon, lay on; I add, give in addition. From epi and tithemi; to impose.",
+    "num": 2007
   },
   {
     "word": "[our]",
@@ -61,7 +68,8 @@
     "translit": "(tas)",
     "parse": "Article - Accusative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "needs",
@@ -69,7 +77,8 @@
     "translit": "(chreias)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 5532:  ",
-    "str2": "From the base of chraomai or chre; employment, i.e. An affair; also occasion, demand, requirement or destitution."
+    "str2": "From the base of chraomai or chre; employment, i.e. An affair; also occasion, demand, requirement or destitution.",
+    "num": 5532
   },
   {
     "word": "[when we were ready] to sail.",
@@ -77,6 +86,7 @@
     "translit": "(anagomenois)",
     "parse": "Verb - Present Participle Middle or Passive - Dative Masculine Plural",
     "str": "Strong's 321:  ",
-    "str2": "From ana and ago; to lead up; by extension to bring out; specially, to sail away."
+    "str2": "From ana and ago; to lead up; by extension to bring out; specially, to sail away.",
+    "num": 321
   }
 ]

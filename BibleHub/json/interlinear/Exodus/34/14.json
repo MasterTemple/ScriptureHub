@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you must not",
@@ -13,7 +14,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "worship",
@@ -21,7 +23,8 @@
     "translit": "(ṯiš·ta·ḥă·weh)",
     "parse": "Verb - Hitpael - Imperfect - second person masculine singular",
     "str": "Strong's 7812:  ",
-    "str2": "To depress, prostrate"
+    "str2": "To depress, prostrate",
+    "num": 7812
   },
   {
     "word": "any other",
@@ -29,7 +32,8 @@
     "translit": "(’a·ḥêr)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 312:  ",
-    "str2": "Hinder, next, other"
+    "str2": "Hinder, next, other",
+    "num": 312
   },
   {
     "word": "god,",
@@ -37,7 +41,8 @@
     "translit": "(lə·’êl)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 410:  ",
-    "str2": "Strength -- as adjective, mighty, the Almighty"
+    "str2": "Strength -- as adjective, mighty, the Almighty",
+    "num": 410
   },
   {
     "word": "for",
@@ -45,7 +50,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the LORD,",
@@ -53,7 +59,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "whose name [is]",
@@ -61,7 +68,8 @@
     "translit": "(šə·mōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 8034:  ",
-    "str2": "A name"
+    "str2": "A name",
+    "num": 8034
   },
   {
     "word": "Jealous,",
@@ -69,7 +77,8 @@
     "translit": "(qan·nā)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 7067:  ",
-    "str2": "Jealous"
+    "str2": "Jealous",
+    "num": 7067
   },
   {
     "word": "[is] a jealous",
@@ -77,7 +86,8 @@
     "translit": "(qan·nā)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 7067:  ",
-    "str2": "Jealous"
+    "str2": "Jealous",
+    "num": 7067
   },
   {
     "word": "God.",
@@ -85,6 +95,7 @@
     "translit": "(’êl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 410:  ",
-    "str2": "Strength -- as adjective, mighty, the Almighty"
+    "str2": "Strength -- as adjective, mighty, the Almighty",
+    "num": 410
   }
 ]

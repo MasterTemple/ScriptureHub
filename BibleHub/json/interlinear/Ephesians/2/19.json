@@ -5,7 +5,8 @@
     "translit": "(Ara)",
     "parse": "Conjunction",
     "str": "Strong's 686:  ",
-    "str2": "Then, therefore, since. Probably from airo; a particle denoting an inference more or less decisive."
+    "str2": "Then, therefore, since. Probably from airo; a particle denoting an inference more or less decisive.",
+    "num": 686
   },
   {
     "word": "you are",
@@ -13,7 +14,8 @@
     "translit": "(este)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "no longer",
@@ -21,7 +23,8 @@
     "translit": "(ouketi)",
     "parse": "Adverb",
     "str": "Strong's 3765:  ",
-    "str2": "No longer, no more. Also ouk eti from ou and eti; not yet, no longer."
+    "str2": "No longer, no more. Also ouk eti from ou and eti; not yet, no longer.",
+    "num": 3765
   },
   {
     "word": "strangers",
@@ -29,7 +32,8 @@
     "translit": "(xenoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3581:  ",
-    "str2": "Apparently a primary word; foreign; by implication, a guest or entertainer."
+    "str2": "Apparently a primary word; foreign; by implication, a guest or entertainer.",
+    "num": 3581
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "foreigners,",
@@ -45,7 +50,8 @@
     "translit": "(paroikoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3941:  ",
-    "str2": "Foreign, alien, subst: a foreigner, sojourner. From para and oikos; having a home near, i.e. a by-dweller."
+    "str2": "Foreign, alien, subst: a foreigner, sojourner. From para and oikos; having a home near, i.e. a by-dweller.",
+    "num": 3941
   },
   {
     "word": "but",
@@ -53,7 +59,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "fellow citizens",
@@ -61,7 +68,8 @@
     "translit": "(sympolitai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 4847:  ",
-    "str2": "A fellow citizen. From sun and polites; a native of the same town, i.e. co-religionist."
+    "str2": "A fellow citizen. From sun and polites; a native of the same town, i.e. co-religionist.",
+    "num": 4847
   },
   {
     "word": "of the",
@@ -69,7 +77,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "saints",
@@ -77,7 +86,8 @@
     "translit": "(hagiōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "members of God’s household,",
@@ -93,6 +104,7 @@
     "translit": "(oikeioi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3609:  ",
-    "str2": "Of one's family, domestic, intimate. From oikos; domestic, i.e., a relative, adherent."
+    "str2": "Of one's family, domestic, intimate. From oikos; domestic, i.e., a relative, adherent.",
+    "num": 3609
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(Akoueis)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "what",
@@ -13,7 +14,8 @@
     "translit": "(ti)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Neuter Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "these [children]",
@@ -21,7 +23,8 @@
     "translit": "(houtoi)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "are saying?”",
@@ -29,7 +32,8 @@
     "translit": "(legousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "they asked.",
@@ -37,7 +41,8 @@
     "translit": "(eipan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“Yes,”",
@@ -45,7 +50,8 @@
     "translit": "(Nai)",
     "parse": "Particle",
     "str": "Strong's 3483:  ",
-    "str2": "Yes, certainly, even so. A primary particle of strong affirmation; yes."
+    "str2": "Yes, certainly, even so. A primary particle of strong affirmation; yes.",
+    "num": 3483
   },
   {
     "word": "Jesus",
@@ -53,7 +59,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "answered,",
@@ -61,7 +68,8 @@
     "translit": "(legei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“have you never read:",
@@ -69,7 +77,8 @@
     "translit": "(anegnōte)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Plural",
     "str": "Strong's 314:  ",
-    "str2": "To read, know again, know certainly, recognize, discern. From ana and ginosko; to know again, i.e. to read."
+    "str2": "To read, know again, know certainly, recognize, discern. From ana and ginosko; to know again, i.e. to read.",
+    "num": 314
   },
   {
     "word": "‘From",
@@ -77,7 +86,8 @@
     "translit": "(Ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "[the] mouths",
@@ -85,7 +95,8 @@
     "translit": "(stomatos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 4750:  ",
-    "str2": "The mouth, speech, eloquence in speech, the point of a sword. "
+    "str2": "The mouth, speech, eloquence in speech, the point of a sword. ",
+    "num": 4750
   },
   {
     "word": "of children",
@@ -93,7 +104,8 @@
     "translit": "(nēpiōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 3516:  ",
-    "str2": "From an obsolete particle ne- and epos; not speaking, i.e. An infant; figuratively, a simple-minded person, an immature Christian."
+    "str2": "From an obsolete particle ne- and epos; not speaking, i.e. An infant; figuratively, a simple-minded person, an immature Christian.",
+    "num": 3516
   },
   {
     "word": "and",
@@ -101,7 +113,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "infants",
@@ -109,7 +122,8 @@
     "translit": "(thēlazontōn)",
     "parse": "Verb - Present Participle Active - Genitive Masculine Plural",
     "str": "Strong's 2337:  ",
-    "str2": "(a) I give suck, (b) I suck. From thele; to suckle, to suck."
+    "str2": "(a) I give suck, (b) I suck. From thele; to suckle, to suck.",
+    "num": 2337
   },
   {
     "word": "You have ordained",
@@ -117,7 +131,8 @@
     "translit": "(Katērtisō)",
     "parse": "Verb - Aorist Indicative Middle - 2nd Person Singular",
     "str": "Strong's 2675:  ",
-    "str2": "From kata and a derivative of artios; to complete thoroughly, i.e. Repair or adjust."
+    "str2": "From kata and a derivative of artios; to complete thoroughly, i.e. Repair or adjust.",
+    "num": 2675
   },
   {
     "word": "praise’?”",
@@ -125,6 +140,7 @@
     "translit": "(ainon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 136:  ",
-    "str2": "Praise. Apparently a prime word; properly, a story, but used in the sense of epainos; praise."
+    "str2": "Praise. Apparently a prime word; properly, a story, but used in the sense of epainos; praise.",
+    "num": 136
   }
 ]

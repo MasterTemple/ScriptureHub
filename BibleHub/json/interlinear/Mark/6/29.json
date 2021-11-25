@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[John’s]",
@@ -13,7 +14,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "disciples",
@@ -21,7 +23,8 @@
     "translit": "(mathētai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   },
   {
     "word": "heard about [this],",
@@ -29,7 +32,8 @@
     "translit": "(akousantes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "they came",
@@ -37,7 +41,8 @@
     "translit": "(ēlthon)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "took",
@@ -53,7 +59,8 @@
     "translit": "(ēran)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 142:  ",
-    "str2": "To raise, lift up, take away, remove. "
+    "str2": "To raise, lift up, take away, remove. ",
+    "num": 142
   },
   {
     "word": "his",
@@ -61,7 +68,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "body",
@@ -69,7 +77,8 @@
     "translit": "(ptōma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4430:  ",
-    "str2": "A fall; a carcass, corpse, dead body. From the alternate of pipto; a ruin, i.e., lifeless body."
+    "str2": "A fall; a carcass, corpse, dead body. From the alternate of pipto; a ruin, i.e., lifeless body.",
+    "num": 4430
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "laid",
@@ -85,7 +95,8 @@
     "translit": "(ethēkan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 5087:  ",
-    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place."
+    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place.",
+    "num": 5087
   },
   {
     "word": "it",
@@ -93,7 +104,8 @@
     "translit": "(auto)",
     "parse": "Personal / Possessive Pronoun - Accusative Neuter 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "in",
@@ -101,7 +113,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[a] tomb.",
@@ -109,6 +122,7 @@
     "translit": "(mnēmeiō)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 3419:  ",
-    "str2": "A tomb, sepulcher, monument. From mneme; a remembrance, i.e. Cenotaph."
+    "str2": "A tomb, sepulcher, monument. From mneme; a remembrance, i.e. Cenotaph.",
+    "num": 3419
   }
 ]

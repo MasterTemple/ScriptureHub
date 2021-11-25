@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "He went up",
@@ -13,7 +14,8 @@
     "translit": "(proselthōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4334:  ",
-    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to."
+    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to.",
+    "num": 4334
   },
   {
     "word": "[and] touched",
@@ -21,7 +23,8 @@
     "translit": "(hēpsato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 680:  ",
-    "str2": "Prop: I fasten to; I lay hold of, touch, know carnally. Reflexive of hapto; properly, to attach oneself to, i.e. To touch."
+    "str2": "Prop: I fasten to; I lay hold of, touch, know carnally. Reflexive of hapto; properly, to attach oneself to, i.e. To touch.",
+    "num": 680
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "coffin,",
@@ -37,7 +41,8 @@
     "translit": "(sorou)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4673:  ",
-    "str2": "A bier, an open coffin. Probably akin to the base of soreuo; a funereal receptacle, i.e. a bier."
+    "str2": "A bier, an open coffin. Probably akin to the base of soreuo; a funereal receptacle, i.e. a bier.",
+    "num": 4673
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "those",
@@ -53,7 +59,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "carrying it",
@@ -61,7 +68,8 @@
     "translit": "(bastazontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 941:  ",
-    "str2": "Perhaps remotely derived from the base of basis; to lift, literally or figuratively."
+    "str2": "Perhaps remotely derived from the base of basis; to lift, literally or figuratively.",
+    "num": 941
   },
   {
     "word": "stood still.",
@@ -69,7 +77,8 @@
     "translit": "(estēsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2476:  ",
-    "str2": "A prolonged form of a primary stao stah'-o; to stand, used in various applications."
+    "str2": "A prolonged form of a primary stao stah'-o; to stand, used in various applications.",
+    "num": 2476
   },
   {
     "word": "“Young man,”",
@@ -77,7 +86,8 @@
     "translit": "(Neaniske)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 3495:  ",
-    "str2": "A young man, youth, an attendant. From the same as neanias; a youth."
+    "str2": "A young man, youth, an attendant. From the same as neanias; a youth.",
+    "num": 3495
   },
   {
     "word": "He said,",
@@ -85,7 +95,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“I tell",
@@ -93,7 +104,8 @@
     "translit": "(legō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "you,",
@@ -101,7 +113,8 @@
     "translit": "(soi)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "get up!”",
@@ -109,6 +122,7 @@
     "translit": "(egerthēti)",
     "parse": "Verb - Aorist Imperative Passive - 2nd Person Singular",
     "str": "Strong's 1453:  ",
-    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse."
+    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse.",
+    "num": 1453
   }
 ]

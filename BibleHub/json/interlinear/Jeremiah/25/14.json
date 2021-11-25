@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "many",
@@ -13,7 +14,8 @@
     "translit": "(rab·bîm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 7227:  ",
-    "str2": "Much, many, great"
+    "str2": "Much, many, great",
+    "num": 7227
   },
   {
     "word": "nations",
@@ -21,7 +23,8 @@
     "translit": "(gō·w·yim)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 1471:  ",
-    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts"
+    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+    "num": 1471
   },
   {
     "word": "and great",
@@ -29,7 +32,8 @@
     "translit": "(gə·ḏō·w·lîm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 1419:  ",
-    "str2": "Great, older, insolent"
+    "str2": "Great, older, insolent",
+    "num": 1419
   },
   {
     "word": "kings",
@@ -37,7 +41,8 @@
     "translit": "(ū·mə·lā·ḵîm)",
     "parse": "Conjunctive waw | Noun - masculine plural",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "will enslave them,",
@@ -45,7 +50,8 @@
     "translit": "(‘ā·ḇə·ḏū-)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 5647:  ",
-    "str2": "To work, to serve, till, enslave"
+    "str2": "To work, to serve, till, enslave",
+    "num": 5647
   },
   {
     "word": "and I will repay",
@@ -53,7 +59,8 @@
     "translit": "(wə·šil·lam·tî)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive perfect - first person common singular",
     "str": "Strong's 7999:  ",
-    "str2": "To be safe, to be, completed, to be friendly, to reciprocate"
+    "str2": "To be safe, to be, completed, to be friendly, to reciprocate",
+    "num": 7999
   },
   {
     "word": "them according to their deeds",
@@ -61,7 +68,8 @@
     "translit": "(kə·p̄ā·‘o·lām)",
     "parse": "Preposition-k | Noun - masculine singular construct | third person masculine plural",
     "str": "Strong's 6467:  ",
-    "str2": "Doing, deed, work"
+    "str2": "Doing, deed, work",
+    "num": 6467
   },
   {
     "word": "and according to the work",
@@ -69,7 +77,8 @@
     "translit": "(ū·ḵə·ma·‘ă·śêh)",
     "parse": "Conjunctive waw, Preposition-k | Noun - masculine singular construct",
     "str": "Strong's 4639:  ",
-    "str2": "An action, a transaction, activity, a product, property"
+    "str2": "An action, a transaction, activity, a product, property",
+    "num": 4639
   },
   {
     "word": "of their hands.’”",
@@ -77,6 +86,7 @@
     "translit": "(yə·ḏê·hem)",
     "parse": "Noun - fdc | third person masculine plural",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   }
 ]

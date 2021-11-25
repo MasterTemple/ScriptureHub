@@ -5,7 +5,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "spoke",
@@ -13,7 +14,8 @@
     "translit": "(dib·ber)",
     "parse": "Verb - Piel - Perfect - third person masculine singular",
     "str": "Strong's 1696:  ",
-    "str2": "To arrange, to speak, to subdue"
+    "str2": "To arrange, to speak, to subdue",
+    "num": 1696
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(‘im·mā·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's 5973:  ",
-    "str2": "With, equally with"
+    "str2": "With, equally with",
+    "num": 5973
   },
   {
     "word": "you face",
@@ -29,7 +32,8 @@
     "translit": "(pā·nîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "to face",
@@ -37,7 +41,8 @@
     "translit": "(bə·p̄ā·nîm)",
     "parse": "Preposition-b | Noun - masculine plural",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "out of",
@@ -45,7 +50,8 @@
     "translit": "(mit·tō·wḵ)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 8432:  ",
-    "str2": "A bisection, the centre"
+    "str2": "A bisection, the centre",
+    "num": 8432
   },
   {
     "word": "the fire",
@@ -53,7 +59,8 @@
     "translit": "(hā·’êš)",
     "parse": "Article | Noun - common singular",
     "str": "Strong's 784:  ",
-    "str2": "A fire"
+    "str2": "A fire",
+    "num": 784
   },
   {
     "word": "on the mountain.",
@@ -61,6 +68,7 @@
     "translit": "(bā·hār)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 2022:  ",
-    "str2": "Mountain, hill, hill country"
+    "str2": "Mountain, hill, hill country",
+    "num": 2022
   }
 ]

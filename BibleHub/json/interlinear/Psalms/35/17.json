@@ -5,7 +5,8 @@
     "translit": "(kam·māh)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "O Lord,",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "will You look on?",
@@ -21,7 +23,8 @@
     "translit": "(tir·’eh)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "Rescue",
@@ -29,7 +32,8 @@
     "translit": "(hā·šî·ḇāh)",
     "parse": "Verb - Hifil - Imperative - masculine singular | third person feminine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "my soul",
@@ -37,7 +41,8 @@
     "translit": "(nap̄·šî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   },
   {
     "word": "from their ravages,",
@@ -45,7 +50,8 @@
     "translit": "(miš·šō·’ê·hem)",
     "parse": "Preposition-m | Noun - feminine plural construct | third person masculine plural",
     "str": "Strong's 7722:  ",
-    "str2": "A tempest, devastation"
+    "str2": "A tempest, devastation",
+    "num": 7722
   },
   {
     "word": "my precious life",
@@ -53,7 +59,8 @@
     "translit": "(yə·ḥî·ḏā·ṯî)",
     "parse": "Adjective - feminine singular construct | first person common singular",
     "str": "Strong's 3173:  ",
-    "str2": "United, sole, beloved, lonely, the life"
+    "str2": "United, sole, beloved, lonely, the life",
+    "num": 3173
   },
   {
     "word": "from these lions.",
@@ -61,6 +68,7 @@
     "translit": "(mik·kə·p̄î·rîm)",
     "parse": "Preposition-m | Noun - masculine plural",
     "str": "Strong's 3715:  ",
-    "str2": "A village, a young lion"
+    "str2": "A village, a young lion",
+    "num": 3715
   }
 ]

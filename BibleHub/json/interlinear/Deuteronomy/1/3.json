@@ -5,7 +5,8 @@
     "translit": "(bə·’ar·bā·‘îm)",
     "parse": "Preposition-b | Number - common plural",
     "str": "Strong's 705:  ",
-    "str2": "Forty"
+    "str2": "Forty",
+    "num": 705
   },
   {
     "word": "year,",
@@ -13,7 +14,8 @@
     "translit": "(šā·nāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "on the first day",
@@ -21,7 +23,8 @@
     "translit": "(bə·’e·ḥāḏ)",
     "parse": "Preposition-b | Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "of the eleventh",
@@ -29,7 +32,8 @@
     "translit": "(bə·‘aš·tê-)",
     "parse": "Preposition-b | Number - common singular construct",
     "str": "Strong's 6249:  ",
-    "str2": "Eleven, eleventh"
+    "str2": "Eleven, eleventh",
+    "num": 6249
   },
   {
     "word": "month,",
@@ -37,7 +41,8 @@
     "translit": "(ḥō·ḏeš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2320:  ",
-    "str2": "The new moon, a month"
+    "str2": "The new moon, a month",
+    "num": 2320
   },
   {
     "word": "Moses",
@@ -45,7 +50,8 @@
     "translit": "(mō·šeh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 4872:  ",
-    "str2": "Moses -- a great Israelite leader, prophet and lawgiver"
+    "str2": "Moses -- a great Israelite leader, prophet and lawgiver",
+    "num": 4872
   },
   {
     "word": "proclaimed",
@@ -53,7 +59,8 @@
     "translit": "(dib·ber)",
     "parse": "Verb - Piel - Perfect - third person masculine singular",
     "str": "Strong's 1696:  ",
-    "str2": "To arrange, to speak, to subdue"
+    "str2": "To arrange, to speak, to subdue",
+    "num": 1696
   },
   {
     "word": "to",
@@ -61,7 +68,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the Israelites",
@@ -69,7 +77,8 @@
     "translit": "(bə·nê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "everything",
@@ -77,7 +86,8 @@
     "translit": "(kə·ḵōl)",
     "parse": "Preposition | Noun - masculine singular",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "that",
@@ -85,7 +95,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "the LORD",
@@ -93,7 +104,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "had commanded",
@@ -101,7 +113,8 @@
     "translit": "(ṣiw·wāh)",
     "parse": "Verb - Piel - Perfect - third person masculine singular",
     "str": "Strong's 6680:  ",
-    "str2": "To lay charge (upon), give charge (to), command, order"
+    "str2": "To lay charge (upon), give charge (to), command, order",
+    "num": 6680
   },
   {
     "word": "him",
@@ -109,7 +122,8 @@
     "translit": "(’ō·ṯōw)",
     "parse": "Direct object marker | third person masculine singular",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "concerning them.",
@@ -117,6 +131,7 @@
     "translit": "(’ă·lê·hem)",
     "parse": "Preposition | third person masculine plural",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   }
 ]

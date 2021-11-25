@@ -5,7 +5,8 @@
     "translit": "(Logizomai)",
     "parse": "Verb - Present Indicative Middle or Passive - 1st Person Singular",
     "str": "Strong's 3049:  ",
-    "str2": "To reckon, count, charge with; reason, decide, conclude; think, suppose. "
+    "str2": "To reckon, count, charge with; reason, decide, conclude; think, suppose. ",
+    "num": 3049
   },
   {
     "word": "that",
@@ -13,7 +14,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "[our]",
@@ -21,7 +23,8 @@
     "translit": "(ta)",
     "parse": "Article - Nominative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "present",
@@ -29,7 +32,8 @@
     "translit": "(nyn)",
     "parse": "Adverb",
     "str": "Strong's 3568:  ",
-    "str2": "A primary particle of present time; 'now'; also as noun or adjective present or immediate."
+    "str2": "A primary particle of present time; 'now'; also as noun or adjective present or immediate.",
+    "num": 3568
   },
   {
     "word": "sufferings",
@@ -37,7 +41,8 @@
     "translit": "(pathēmata)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 3804:  ",
-    "str2": "From a presumed derivative of pathos; something undergone, i.e. Hardship or pain; subjectively, an emotion or influence."
+    "str2": "From a presumed derivative of pathos; something undergone, i.e. Hardship or pain; subjectively, an emotion or influence.",
+    "num": 3804
   },
   {
     "word": "[are] not",
@@ -45,7 +50,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "comparable",
@@ -53,7 +59,8 @@
     "translit": "(axia)",
     "parse": "Adjective - Nominative Neuter Plural",
     "str": "Strong's 514:  ",
-    "str2": "Worthy, worthy of, deserving, comparable, suitable. Probably from ago; deserving, comparable or suitable."
+    "str2": "Worthy, worthy of, deserving, comparable, suitable. Probably from ago; deserving, comparable or suitable.",
+    "num": 514
   },
   {
     "word": "to",
@@ -61,7 +68,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "glory",
@@ -77,7 +86,8 @@
     "translit": "(doxan)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1391:  ",
-    "str2": "From the base of dokeo; glory, in a wide application."
+    "str2": "From the base of dokeo; glory, in a wide application.",
+    "num": 1391
   },
   {
     "word": "that will be",
@@ -85,7 +95,8 @@
     "translit": "(mellousan)",
     "parse": "Verb - Present Participle Active - Accusative Feminine Singular",
     "str": "Strong's 3195:  ",
-    "str2": "A strengthened form of melo; to intend, i.e. Be about to be, do, or suffer something."
+    "str2": "A strengthened form of melo; to intend, i.e. Be about to be, do, or suffer something.",
+    "num": 3195
   },
   {
     "word": "revealed",
@@ -93,7 +104,8 @@
     "translit": "(apokalyphthēnai)",
     "parse": "Verb - Aorist Infinitive Passive",
     "str": "Strong's 601:  ",
-    "str2": "To uncover, bring to light, reveal. From apo and kalupto; to take off the cover, i.e. Disclose."
+    "str2": "To uncover, bring to light, reveal. From apo and kalupto; to take off the cover, i.e. Disclose.",
+    "num": 601
   },
   {
     "word": "in",
@@ -101,7 +113,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "us.",
@@ -109,6 +122,7 @@
     "translit": "(hēmas)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   }
 ]

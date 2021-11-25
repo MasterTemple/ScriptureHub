@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "miserable",
@@ -13,7 +14,8 @@
     "translit": "(Ouai)",
     "parse": "Interjection",
     "str": "Strong's 3759:  ",
-    "str2": "Woe!, alas!, uttered in grief or denunciation. A primary exclamation of grief; 'woe'."
+    "str2": "Woe!, alas!, uttered in grief or denunciation. A primary exclamation of grief; 'woe'.",
+    "num": 3759
   },
   {
     "word": "those",
@@ -21,7 +23,8 @@
     "translit": "(ekeinais)",
     "parse": "Demonstrative Pronoun - Dative Feminine Plural",
     "str": "Strong's 1565:  ",
-    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed."
+    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed.",
+    "num": 1565
   },
   {
     "word": "days [will be]",
@@ -29,7 +32,8 @@
     "translit": "(hēmerais)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "for",
@@ -37,7 +41,8 @@
     "translit": "(tais)",
     "parse": "Article - Dative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "pregnant",
@@ -45,7 +50,8 @@
     "translit": "(echousais)",
     "parse": "Verb - Present Participle Active - Dative Feminine Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "nursing [mothers]!",
@@ -61,6 +68,7 @@
     "translit": "(thēlazousais)",
     "parse": "Verb - Present Participle Active - Dative Feminine Plural",
     "str": "Strong's 2337:  ",
-    "str2": "(a) I give suck, (b) I suck. From thele; to suckle, to suck."
+    "str2": "(a) I give suck, (b) I suck. From thele; to suckle, to suck.",
+    "num": 2337
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "even",
@@ -13,7 +14,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the very",
@@ -21,7 +23,8 @@
     "translit": "(hai)",
     "parse": "Article - Nominative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "hairs",
@@ -29,7 +32,8 @@
     "translit": "(triches)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 2359:  ",
-    "str2": "Hair (of the head or of animals). Genitive case trichos, etc. of uncertain derivation; hair."
+    "str2": "Hair (of the head or of animals). Genitive case trichos, etc. of uncertain derivation; hair.",
+    "num": 2359
   },
   {
     "word": "of",
@@ -37,7 +41,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "your",
@@ -45,7 +50,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "head",
@@ -53,7 +59,8 @@
     "translit": "(kephalēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2776:  ",
-    "str2": "From the primary kapto; the head, literally or figuratively."
+    "str2": "From the primary kapto; the head, literally or figuratively.",
+    "num": 2776
   },
   {
     "word": "are",
@@ -61,7 +68,8 @@
     "translit": "(eisin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "all",
@@ -69,7 +77,8 @@
     "translit": "(pasai)",
     "parse": "Adjective - Nominative Feminine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "numbered.",
@@ -77,6 +86,7 @@
     "translit": "(ērithmēmenai)",
     "parse": "Verb - Perfect Participle Middle or Passive - Nominative Feminine Plural",
     "str": "Strong's 705:  ",
-    "str2": "To number, count. From arithmos; to enumerate or count."
+    "str2": "To number, count. From arithmos; to enumerate or count.",
+    "num": 705
   }
 ]

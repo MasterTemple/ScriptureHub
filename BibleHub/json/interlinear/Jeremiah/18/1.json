@@ -5,7 +5,8 @@
     "translit": "(had·dā·ḇār)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "that",
@@ -13,7 +14,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "came",
@@ -21,7 +23,8 @@
     "translit": "(hā·yāh)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "to",
@@ -29,7 +32,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "Jeremiah",
@@ -37,7 +41,8 @@
     "translit": "(yir·mə·yā·hū)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3414:  ",
-    "str2": "Jeremiah -- 'Yah loosens', the name of a number of Israelites"
+    "str2": "Jeremiah -- 'Yah loosens', the name of a number of Israelites",
+    "num": 3414
   },
   {
     "word": "from the LORD:",
@@ -45,6 +50,7 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   }
 ]

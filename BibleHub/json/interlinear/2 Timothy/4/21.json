@@ -5,7 +5,8 @@
     "translit": "(Spoudason)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 4704:  ",
-    "str2": "To hasten, be eager, be zealous. From spoude; to use speed, i.e. To make effort, be prompt or earnest."
+    "str2": "To hasten, be eager, be zealous. From spoude; to use speed, i.e. To make effort, be prompt or earnest.",
+    "num": 4704
   },
   {
     "word": "to come [ to me ]",
@@ -13,7 +14,8 @@
     "translit": "(elthein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "before",
@@ -21,7 +23,8 @@
     "translit": "(pro)",
     "parse": "Preposition",
     "str": "Strong's 4253:  ",
-    "str2": "A primary preposition; 'fore', i.e. In front of, prior to."
+    "str2": "A primary preposition; 'fore', i.e. In front of, prior to.",
+    "num": 4253
   },
   {
     "word": "winter.",
@@ -29,7 +32,8 @@
     "translit": "(cheimōnos)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 5494:  ",
-    "str2": "From a derivative of cheo, meaning a storm; by implication, the rainy season, i.e. Winter."
+    "str2": "From a derivative of cheo, meaning a storm; by implication, the rainy season, i.e. Winter.",
+    "num": 5494
   },
   {
     "word": "Eubulus",
@@ -37,7 +41,8 @@
     "translit": "(Euboulos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2103:  ",
-    "str2": "Eubulus, a Christian with Paul in Rome. From eu and boulomai; good-willer; Eubulus, a Christian."
+    "str2": "Eubulus, a Christian with Paul in Rome. From eu and boulomai; good-willer; Eubulus, a Christian.",
+    "num": 2103
   },
   {
     "word": "sends you greetings,",
@@ -45,7 +50,8 @@
     "translit": "(Aspazetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 782:  ",
-    "str2": "To greet, salute, pay my respects to, welcome. To enfold in the arms, i.e. to salute, to welcome."
+    "str2": "To greet, salute, pay my respects to, welcome. To enfold in the arms, i.e. to salute, to welcome.",
+    "num": 782
   },
   {
     "word": "as do",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Pudens,",
@@ -61,7 +68,8 @@
     "translit": "(Poudēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4227:  ",
-    "str2": "Pudens, a Christian man in Rome. Of Latin origin; modest; Pudes, a Christian."
+    "str2": "Pudens, a Christian man in Rome. Of Latin origin; modest; Pudes, a Christian.",
+    "num": 4227
   },
   {
     "word": "Linus,",
@@ -69,7 +77,8 @@
     "translit": "(Linos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3044:  ",
-    "str2": "Linus, a Christian in Rome. Perhaps from linon; Linus, a Christian."
+    "str2": "Linus, a Christian in Rome. Perhaps from linon; Linus, a Christian.",
+    "num": 3044
   },
   {
     "word": "Claudia,",
@@ -77,7 +86,8 @@
     "translit": "(Klaudia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2803:  ",
-    "str2": "Feminine of Klaudios; Claudia, a Christian woman."
+    "str2": "Feminine of Klaudios; Claudia, a Christian woman.",
+    "num": 2803
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "all",
@@ -93,7 +104,8 @@
     "translit": "(pantes)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "brothers.",
@@ -109,6 +122,7 @@
     "translit": "(adelphoi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   }
 ]

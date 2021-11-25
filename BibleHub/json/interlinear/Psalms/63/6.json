@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I remember You",
@@ -13,7 +14,8 @@
     "translit": "(zə·ḵar·tî·ḵā)",
     "parse": "Verb - Qal - Perfect - first person common singular | second person masculine singular",
     "str": "Strong's 2142:  ",
-    "str2": "To mark, to remember, to mention,   to be male"
+    "str2": "To mark, to remember, to mention,   to be male",
+    "num": 2142
   },
   {
     "word": "on",
@@ -21,7 +23,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "my bed,",
@@ -29,7 +32,8 @@
     "translit": "(yə·ṣū·‘āy)",
     "parse": "Noun - masculine plural construct | first person common singular",
     "str": "Strong's 3326:  ",
-    "str2": "Spread, a bed, an extension, wing, lean-to"
+    "str2": "Spread, a bed, an extension, wing, lean-to",
+    "num": 3326
   },
   {
     "word": "I think",
@@ -37,7 +41,8 @@
     "translit": "(’eh·geh-)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 1897:  ",
-    "str2": "To moan, growl, utter, speak, muse"
+    "str2": "To moan, growl, utter, speak, muse",
+    "num": 1897
   },
   {
     "word": "of You",
@@ -45,7 +50,8 @@
     "translit": "(bāḵ)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "through the watches of the night.",
@@ -53,6 +59,7 @@
     "translit": "(bə·’aš·mu·rō·wṯ)",
     "parse": "Preposition-b | Noun - feminine plural",
     "str": "Strong's 821:  ",
-    "str2": "A night watch"
+    "str2": "A night watch",
+    "num": 821
   }
 ]

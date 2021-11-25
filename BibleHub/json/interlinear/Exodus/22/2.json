@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "a thief",
@@ -13,7 +14,8 @@
     "translit": "(hag·gan·nāḇ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1590:  ",
-    "str2": "A stealer"
+    "str2": "A stealer",
+    "num": 1590
   },
   {
     "word": "is caught",
@@ -21,7 +23,8 @@
     "translit": "(yim·mā·ṣê)",
     "parse": "Verb - Nifal - Imperfect - third person masculine singular",
     "str": "Strong's 4672:  ",
-    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present"
+    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present",
+    "num": 4672
   },
   {
     "word": "breaking in",
@@ -29,7 +32,8 @@
     "translit": "(bam·maḥ·te·reṯ)",
     "parse": "Preposition-b, Article | Noun - feminine singular",
     "str": "Strong's 4290:  ",
-    "str2": "A burglary, unexpected examination"
+    "str2": "A burglary, unexpected examination",
+    "num": 4290
   },
   {
     "word": "and is beaten",
@@ -37,7 +41,8 @@
     "translit": "(wə·huk·kāh)",
     "parse": "Conjunctive waw | Verb - Hofal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 5221:  ",
-    "str2": "To strike"
+    "str2": "To strike",
+    "num": 5221
   },
   {
     "word": "to death,",
@@ -45,7 +50,8 @@
     "translit": "(wā·mêṯ)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   },
   {
     "word": "no one",
@@ -53,7 +59,8 @@
     "translit": "(’ên)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "shall be guilty of bloodshed.",
@@ -61,6 +68,7 @@
     "translit": "(dā·mîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 1818:  ",
-    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed"
+    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed",
+    "num": 1818
   }
 ]

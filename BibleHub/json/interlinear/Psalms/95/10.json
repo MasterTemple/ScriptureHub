@@ -5,7 +5,8 @@
     "translit": "(’ar·bā·‘îm)",
     "parse": "Number - common plural",
     "str": "Strong's 705:  ",
-    "str2": "Forty"
+    "str2": "Forty",
+    "num": 705
   },
   {
     "word": "years",
@@ -13,7 +14,8 @@
     "translit": "(šā·nāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "I was angry",
@@ -21,7 +23,8 @@
     "translit": "(’ā·qūṭ)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 6962:  ",
-    "str2": "To cut off, detest"
+    "str2": "To cut off, detest",
+    "num": 6962
   },
   {
     "word": "with that generation,",
@@ -29,7 +32,8 @@
     "translit": "(bə·ḏō·wr)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 1755:  ",
-    "str2": "A revolution of time, an age, generation, a dwelling"
+    "str2": "A revolution of time, an age, generation, a dwelling",
+    "num": 1755
   },
   {
     "word": "and I said,",
@@ -37,7 +41,8 @@
     "translit": "(wā·’ō·mar)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - first person common singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“They",
@@ -45,7 +50,8 @@
     "translit": "(hêm)",
     "parse": "Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "are a people",
@@ -53,7 +59,8 @@
     "translit": "(‘am)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "whose hearts",
@@ -61,7 +68,8 @@
     "translit": "(lê·ḇāḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3824:  ",
-    "str2": "Inner man, mind, will, heart"
+    "str2": "Inner man, mind, will, heart",
+    "num": 3824
   },
   {
     "word": "go astray,",
@@ -69,7 +77,8 @@
     "translit": "(tō·‘ê)",
     "parse": "Verb - Qal - Participle - masculine plural construct",
     "str": "Strong's 8582:  ",
-    "str2": "To vacillate, reel, stray"
+    "str2": "To vacillate, reel, stray",
+    "num": 8582
   },
   {
     "word": "and they",
@@ -77,7 +86,8 @@
     "translit": "(wə·hêm)",
     "parse": "Conjunctive waw | Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "have not",
@@ -85,7 +95,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "known",
@@ -93,7 +104,8 @@
     "translit": "(yā·ḏə·‘ū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "My ways.”",
@@ -101,6 +113,7 @@
     "translit": "(ḏə·rā·ḵāy)",
     "parse": "Noun - common plural construct | first person common singular",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   }
 ]

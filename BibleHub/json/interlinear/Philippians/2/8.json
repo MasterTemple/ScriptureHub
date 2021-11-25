@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "being found",
@@ -13,7 +14,8 @@
     "translit": "(heuretheis)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Singular",
     "str": "Strong's 2147:  ",
-    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find."
+    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find.",
+    "num": 2147
   },
   {
     "word": "in appearance",
@@ -21,7 +23,8 @@
     "translit": "(schēmati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 4976:  ",
-    "str2": "Fashion, habit, form, appearance. From the alternate of echo; a figure, i.e. external condition."
+    "str2": "Fashion, habit, form, appearance. From the alternate of echo; a figure, i.e. external condition.",
+    "num": 4976
   },
   {
     "word": "as",
@@ -29,7 +32,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "a man,",
@@ -37,7 +41,8 @@
     "translit": "(anthrōpos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "He humbled",
@@ -45,7 +50,8 @@
     "translit": "(etapeinōsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 5013:  ",
-    "str2": "To make or bring low, humble, humiliate; pass: To be humbled. From tapeinos; to depress; figuratively, to humiliate."
+    "str2": "To make or bring low, humble, humiliate; pass: To be humbled. From tapeinos; to depress; figuratively, to humiliate.",
+    "num": 5013
   },
   {
     "word": "Himself",
@@ -53,7 +59,8 @@
     "translit": "(heauton)",
     "parse": "Reflexive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   },
   {
     "word": "[and] became",
@@ -61,7 +68,8 @@
     "translit": "(genomenos)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "obedient",
@@ -69,7 +77,8 @@
     "translit": "(hypēkoos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 5255:  ",
-    "str2": "Listening to, obedient, submissive. From hupakouo; attentively listening, i.e. submissive."
+    "str2": "Listening to, obedient, submissive. From hupakouo; attentively listening, i.e. submissive.",
+    "num": 5255
   },
   {
     "word": "to",
@@ -77,7 +86,8 @@
     "translit": "(mechri)",
     "parse": "Preposition",
     "str": "Strong's 3360:  ",
-    "str2": "As far as, until, even to. "
+    "str2": "As far as, until, even to. ",
+    "num": 3360
   },
   {
     "word": "death—",
@@ -85,7 +95,8 @@
     "translit": "(thanatou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2288:  ",
-    "str2": "Death, physical or spiritual. From thnesko; death."
+    "str2": "Death, physical or spiritual. From thnesko; death.",
+    "num": 2288
   },
   {
     "word": "even",
@@ -93,7 +104,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "death",
@@ -101,7 +113,8 @@
     "translit": "(thanatou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2288:  ",
-    "str2": "Death, physical or spiritual. From thnesko; death."
+    "str2": "Death, physical or spiritual. From thnesko; death.",
+    "num": 2288
   },
   {
     "word": "on [a] cross.",
@@ -109,6 +122,7 @@
     "translit": "(staurou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 4716:  ",
-    "str2": "A cross. "
+    "str2": "A cross. ",
+    "num": 4716
   }
 ]

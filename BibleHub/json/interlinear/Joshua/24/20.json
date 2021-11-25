@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you forsake",
@@ -13,7 +14,8 @@
     "translit": "(ṯa·‘az·ḇū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 5800:  ",
-    "str2": "To loosen, relinquish, permit"
+    "str2": "To loosen, relinquish, permit",
+    "num": 5800
   },
   {
     "word": "the LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "and serve",
@@ -29,7 +32,8 @@
     "translit": "(wa·‘ă·ḇaḏ·tem)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - second person masculine plural",
     "str": "Strong's 5647:  ",
-    "str2": "To work, to serve, till, enslave"
+    "str2": "To work, to serve, till, enslave",
+    "num": 5647
   },
   {
     "word": "foreign",
@@ -37,7 +41,8 @@
     "translit": "(nê·ḵār)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5236:  ",
-    "str2": "That which is foreign, foreignness"
+    "str2": "That which is foreign, foreignness",
+    "num": 5236
   },
   {
     "word": "gods,",
@@ -45,7 +50,8 @@
     "translit": "(’ĕ·lō·hê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "He will turn",
@@ -53,7 +59,8 @@
     "translit": "(wə·šāḇ)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "and bring disaster",
@@ -61,7 +68,8 @@
     "translit": "(wə·hê·ra‘)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 7489:  ",
-    "str2": "To spoil, to make, good for, nothing, bad"
+    "str2": "To spoil, to make, good for, nothing, bad",
+    "num": 7489
   },
   {
     "word": "on you",
@@ -69,7 +77,8 @@
     "translit": "(lā·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "and consume",
@@ -77,7 +86,8 @@
     "translit": "(wə·ḵil·lāh)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 3615:  ",
-    "str2": "To be complete, at an end, finished, accomplished, or spent"
+    "str2": "To be complete, at an end, finished, accomplished, or spent",
+    "num": 3615
   },
   {
     "word": "you,",
@@ -85,7 +95,8 @@
     "translit": "(’eṯ·ḵem)",
     "parse": "Direct object marker | second person masculine plural",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "even after",
@@ -93,7 +104,8 @@
     "translit": "(’a·ḥă·rê)",
     "parse": "Preposition",
     "str": "Strong's 310:  ",
-    "str2": "The hind or following part"
+    "str2": "The hind or following part",
+    "num": 310
   },
   {
     "word": "He has been good",
@@ -101,7 +113,8 @@
     "translit": "(hê·ṭîḇ)",
     "parse": "Verb - Hifil - Perfect - third person masculine singular",
     "str": "Strong's 3190:  ",
-    "str2": "To be good, well, glad, or pleasing"
+    "str2": "To be good, well, glad, or pleasing",
+    "num": 3190
   },
   {
     "word": "to you.”",
@@ -109,6 +122,7 @@
     "translit": "(lā·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

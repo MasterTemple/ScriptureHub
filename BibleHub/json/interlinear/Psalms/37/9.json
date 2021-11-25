@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the evildoers",
@@ -13,7 +14,8 @@
     "translit": "(mə·rê·‘îm)",
     "parse": "Verb - Hifil - Participle - masculine plural",
     "str": "Strong's 7489:  ",
-    "str2": "To spoil, to make, good for, nothing, bad"
+    "str2": "To spoil, to make, good for, nothing, bad",
+    "num": 7489
   },
   {
     "word": "will be cut off,",
@@ -21,7 +23,8 @@
     "translit": "(yik·kā·rê·ṯūn)",
     "parse": "Verb - Nifal - Imperfect - third person masculine plural | Paragogic nun",
     "str": "Strong's 3772:  ",
-    "str2": "To cut, to destroy, consume, to covenant"
+    "str2": "To cut, to destroy, consume, to covenant",
+    "num": 3772
   },
   {
     "word": "but those who hope",
@@ -29,7 +32,8 @@
     "translit": "(wə·qō·wê)",
     "parse": "Conjunctive waw | Verb - Qal - Participle - masculine plural construct",
     "str": "Strong's 6960:  ",
-    "str2": "To bind together, collect, to expect"
+    "str2": "To bind together, collect, to expect",
+    "num": 6960
   },
   {
     "word": "in the LORD",
@@ -37,7 +41,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "will inherit",
@@ -45,7 +50,8 @@
     "translit": "(yî·rə·šū-)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 3423:  ",
-    "str2": "To occupy, to seize, to rob, to inherit, to expel, to impoverish, to ruin"
+    "str2": "To occupy, to seize, to rob, to inherit, to expel, to impoverish, to ruin",
+    "num": 3423
   },
   {
     "word": "the land.",
@@ -53,6 +59,7 @@
     "translit": "(’ā·reṣ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   }
 ]

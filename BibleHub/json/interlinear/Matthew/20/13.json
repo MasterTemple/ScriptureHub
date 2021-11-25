@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "he answered",
@@ -13,7 +14,8 @@
     "translit": "(apokritheis)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Singular",
     "str": "Strong's 611:  ",
-    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak."
+    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak.",
+    "num": 611
   },
   {
     "word": "one",
@@ -21,7 +23,8 @@
     "translit": "(heni)",
     "parse": "Adjective - Dative Masculine Singular",
     "str": "Strong's 1520:  ",
-    "str2": "One. (including the neuter Hen); a primary numeral; one."
+    "str2": "One. (including the neuter Hen); a primary numeral; one.",
+    "num": 1520
   },
   {
     "word": "of them,",
@@ -29,7 +32,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "‘Friend,",
@@ -37,7 +41,8 @@
     "translit": "(Hetaire)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2083:  ",
-    "str2": "A companion, comrade, friend. From etes; a comrade."
+    "str2": "A companion, comrade, friend. From etes; a comrade.",
+    "num": 2083
   },
   {
     "word": "I am not being unfair",
@@ -45,7 +50,8 @@
     "translit": "(adikō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 91:  ",
-    "str2": "To act unjustly towards, injure, harm. From adikos; to be unjust, i.e. do wrong."
+    "str2": "To act unjustly towards, injure, harm. From adikos; to be unjust, i.e. do wrong.",
+    "num": 91
   },
   {
     "word": "to you.",
@@ -53,7 +59,8 @@
     "translit": "(se)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "Did you not agree",
@@ -61,7 +68,8 @@
     "translit": "(synephōnēsas)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Singular",
     "str": "Strong's 4856:  ",
-    "str2": "To agree with, harmonize with, agree together. From sumphonos; to be harmonious, i.e. to accord or stipulate."
+    "str2": "To agree with, harmonize with, agree together. From sumphonos; to be harmonious, i.e. to accord or stipulate.",
+    "num": 4856
   },
   {
     "word": "with me",
@@ -69,7 +77,8 @@
     "translit": "(moi)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "on one denarius?",
@@ -77,6 +86,7 @@
     "translit": "(dēnariou)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 1220:  ",
-    "str2": "A denarius, a small Roman silver coin. Of Latin origin; a denarius."
+    "str2": "A denarius, a small Roman silver coin. Of Latin origin; a denarius.",
+    "num": 1220
   }
 ]

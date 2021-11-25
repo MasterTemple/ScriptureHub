@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "they heard",
@@ -13,7 +14,8 @@
     "translit": "(ēkouon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "them",
@@ -21,7 +23,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "speaking",
@@ -29,7 +32,8 @@
     "translit": "(lalountōn)",
     "parse": "Verb - Present Participle Active - Genitive Masculine Plural",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "in tongues",
@@ -37,7 +41,8 @@
     "translit": "(glōssais)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 1100:  ",
-    "str2": "The tongue; by implication, a language."
+    "str2": "The tongue; by implication, a language.",
+    "num": 1100
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "exalting",
@@ -53,7 +59,8 @@
     "translit": "(megalynontōn)",
     "parse": "Verb - Present Participle Active - Genitive Masculine Plural",
     "str": "Strong's 3170:  ",
-    "str2": "(a) I enlarge, lengthen, (b) I increase, magnify, extol. From megas; to make great, i.e. Increase or extol."
+    "str2": "(a) I enlarge, lengthen, (b) I increase, magnify, extol. From megas; to make great, i.e. Increase or extol.",
+    "num": 3170
   },
   {
     "word": "God.",
@@ -61,7 +68,8 @@
     "translit": "(Theon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "Then",
@@ -69,7 +77,8 @@
     "translit": "(Tote)",
     "parse": "Adverb",
     "str": "Strong's 5119:  ",
-    "str2": "Then, at that time. From ho and hote; the when, i.e. At the time that."
+    "str2": "Then, at that time. From ho and hote; the when, i.e. At the time that.",
+    "num": 5119
   },
   {
     "word": "Peter",
@@ -77,7 +86,8 @@
     "translit": "(Petros)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4074:  ",
-    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle."
+    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle.",
+    "num": 4074
   },
   {
     "word": "said,",
@@ -85,6 +95,7 @@
     "translit": "(apekrithē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 611:  ",
-    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak."
+    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak.",
+    "num": 611
   }
 ]

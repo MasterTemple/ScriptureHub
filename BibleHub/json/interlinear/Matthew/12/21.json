@@ -5,7 +5,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "His",
@@ -13,7 +14,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "name",
@@ -21,7 +23,8 @@
     "translit": "(onomati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 3686:  ",
-    "str2": "Name, character, fame, reputation. From a presumed derivative of the base of ginosko; a 'name'."
+    "str2": "Name, character, fame, reputation. From a presumed derivative of the base of ginosko; a 'name'.",
+    "num": 3686
   },
   {
     "word": "[the] nations",
@@ -29,7 +32,8 @@
     "translit": "(ethnē)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 1484:  ",
-    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one."
+    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one.",
+    "num": 1484
   },
   {
     "word": "will put their hope.”",
@@ -37,6 +41,7 @@
     "translit": "(elpiousin)",
     "parse": "Verb - Future Indicative Active - 3rd Person Plural",
     "str": "Strong's 1679:  ",
-    "str2": "To hope, hope for, expect, trust. From elpis; to expect or confide."
+    "str2": "To hope, hope for, expect, trust. From elpis; to expect or confide.",
+    "num": 1679
   }
 ]

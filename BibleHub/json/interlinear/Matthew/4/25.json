@@ -5,7 +5,8 @@
     "translit": "(polloi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "crowds",
@@ -13,7 +14,8 @@
     "translit": "(ochloi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3793:  ",
-    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot."
+    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot.",
+    "num": 3793
   },
   {
     "word": "that followed",
@@ -21,7 +23,8 @@
     "translit": "(ēkolouthēsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 190:  ",
-    "str2": "To accompany, attend, follow. Properly, to be in the same way with, i.e. To accompany."
+    "str2": "To accompany, attend, follow. Properly, to be in the same way with, i.e. To accompany.",
+    "num": 190
   },
   {
     "word": "Him",
@@ -29,7 +32,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "came from",
@@ -37,7 +41,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "Galilee,",
@@ -45,7 +50,8 @@
     "translit": "(Galilaias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1056:  ",
-    "str2": "Of Hebrew origin; Galiloea, a region of Palestine."
+    "str2": "Of Hebrew origin; Galiloea, a region of Palestine.",
+    "num": 1056
   },
   {
     "word": "[the] Decapolis,",
@@ -53,7 +59,8 @@
     "translit": "(Dekapoleōs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1179:  ",
-    "str2": "From deka and polis; the ten-city region; the Decapolis, a district in Syria."
+    "str2": "From deka and polis; the ten-city region; the Decapolis, a district in Syria.",
+    "num": 1179
   },
   {
     "word": "Jerusalem,",
@@ -61,7 +68,8 @@
     "translit": "(Hierosolymōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 2414:  ",
-    "str2": "The Greek form of the Hebrew name: Jerusalem. Of Hebrew origin; Hierosolyma"
+    "str2": "The Greek form of the Hebrew name: Jerusalem. Of Hebrew origin; Hierosolyma",
+    "num": 2414
   },
   {
     "word": "Judea,",
@@ -69,7 +77,8 @@
     "translit": "(Ioudaias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2449:  ",
-    "str2": "Judea, a Roman province, capital Jerusalem. Feminine of Ioudaios; the Judaean land, a region of Palestine."
+    "str2": "Judea, a Roman province, capital Jerusalem. Feminine of Ioudaios; the Judaean land, a region of Palestine.",
+    "num": 2449
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "beyond",
@@ -85,7 +95,8 @@
     "translit": "(peran)",
     "parse": "Preposition",
     "str": "Strong's 4008:  ",
-    "str2": "Over, on the other side, beyond. Apparently accusative case of an obsolete derivative of peiro; through, i.e. Across."
+    "str2": "Over, on the other side, beyond. Apparently accusative case of an obsolete derivative of peiro; through, i.e. Across.",
+    "num": 4008
   },
   {
     "word": "the",
@@ -93,7 +104,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Jordan.",
@@ -101,6 +113,7 @@
     "translit": "(Iordanou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2446:  ",
-    "str2": "Of Hebrew origin; the Jordanes, a river of Palestine."
+    "str2": "Of Hebrew origin; the Jordanes, a river of Palestine.",
+    "num": 2446
   }
 ]

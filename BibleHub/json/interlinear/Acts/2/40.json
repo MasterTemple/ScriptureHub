@@ -5,7 +5,8 @@
     "translit": "(te)",
     "parse": "Conjunction",
     "str": "Strong's 5037:  ",
-    "str2": "And, both. A primary particle of connection or addition; both or also."
+    "str2": "And, both. A primary particle of connection or addition; both or also.",
+    "num": 5037
   },
   {
     "word": "many",
@@ -13,7 +14,8 @@
     "translit": "(pleiosin)",
     "parse": "Adjective - Dative Masculine Plural - Comparative",
     "str": "Strong's 4119:  ",
-    "str2": "Or neuter pleion, or pleon comparative of polus; more in quantity, number, or quality; also the major portion."
+    "str2": "Or neuter pleion, or pleon comparative of polus; more in quantity, number, or quality; also the major portion.",
+    "num": 4119
   },
   {
     "word": "other",
@@ -21,7 +23,8 @@
     "translit": "(Heterois)",
     "parse": "Adjective - Dative Masculine Plural",
     "str": "Strong's 2087:  ",
-    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different."
+    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different.",
+    "num": 2087
   },
   {
     "word": "words",
@@ -29,7 +32,8 @@
     "translit": "(logois)",
     "parse": "Noun - Dative Masculine Plural",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "he testified,",
@@ -37,7 +41,8 @@
     "translit": "(diemartyrato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1263:  ",
-    "str2": "To give solemn evidence, testify (declare) solemnly. From dia and martureo; to attest or protest earnestly, or hortatively."
+    "str2": "To give solemn evidence, testify (declare) solemnly. From dia and martureo; to attest or protest earnestly, or hortatively.",
+    "num": 1263
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he urged",
@@ -53,7 +59,8 @@
     "translit": "(parekalei)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 3870:  ",
-    "str2": "From para and kaleo; to call near, i.e. Invite, invoke."
+    "str2": "From para and kaleo; to call near, i.e. Invite, invoke.",
+    "num": 3870
   },
   {
     "word": "them,",
@@ -61,7 +68,8 @@
     "translit": "(autous)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“Be saved",
@@ -69,7 +77,8 @@
     "translit": "(Sōthēte)",
     "parse": "Verb - Aorist Imperative Passive - 2nd Person Plural",
     "str": "Strong's 4982:  ",
-    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect."
+    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect.",
+    "num": 4982
   },
   {
     "word": "from",
@@ -77,7 +86,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "this",
@@ -85,7 +95,8 @@
     "translit": "(tautēs)",
     "parse": "Demonstrative Pronoun - Genitive Feminine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "corrupt",
@@ -93,7 +104,8 @@
     "translit": "(skolias)",
     "parse": "Adjective - Genitive Feminine Singular",
     "str": "Strong's 4646:  ",
-    "str2": "Crooked, perverse, unfair, curved, tortuous. From the base of skelos; warped, i.e. Winding; figuratively, perverse."
+    "str2": "Crooked, perverse, unfair, curved, tortuous. From the base of skelos; warped, i.e. Winding; figuratively, perverse.",
+    "num": 4646
   },
   {
     "word": "generation.”",
@@ -101,6 +113,7 @@
     "translit": "(geneas)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1074:  ",
-    "str2": "From genos; a generation; by implication, an age."
+    "str2": "From genos; a generation; by implication, an age.",
+    "num": 1074
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you have foolishly",
@@ -13,7 +14,8 @@
     "translit": "(nā·ḇal·tā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 5034:  ",
-    "str2": "To wilt, to fall away, fail, faint, to be foolish, wicked, to despise, disgrace"
+    "str2": "To wilt, to fall away, fail, faint, to be foolish, wicked, to despise, disgrace",
+    "num": 5034
   },
   {
     "word": "exalted yourself",
@@ -21,7 +23,8 @@
     "translit": "(ḇə·hiṯ·naś·śê)",
     "parse": "Preposition-b | Verb - Hitpael - Infinitive construct",
     "str": "Strong's 5375:  ",
-    "str2": "To lift, carry, take"
+    "str2": "To lift, carry, take",
+    "num": 5375
   },
   {
     "word": "or if",
@@ -29,7 +32,8 @@
     "translit": "(wə·’im-)",
     "parse": "Conjunctive waw | Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you have plotted evil,",
@@ -37,7 +41,8 @@
     "translit": "(zam·mō·w·ṯā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 2161:  ",
-    "str2": "To consider, purpose, devise"
+    "str2": "To consider, purpose, devise",
+    "num": 2161
   },
   {
     "word": "put your hand",
@@ -45,7 +50,8 @@
     "translit": "(yāḏ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "over your mouth.",
@@ -53,6 +59,7 @@
     "translit": "(lə·p̄eh)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 6310:  ",
-    "str2": "The mouth, edge, portion, side, according to"
+    "str2": "The mouth, edge, portion, side, according to",
+    "num": 6310
   }
 ]

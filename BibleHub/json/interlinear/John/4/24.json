@@ -5,7 +5,8 @@
     "translit": "(Theos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "Spirit,",
@@ -13,7 +14,8 @@
     "translit": "(Pneuma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "and",
@@ -21,7 +23,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[His]",
@@ -29,7 +32,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "worshipers",
@@ -37,7 +41,8 @@
     "translit": "(proskynountas)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Plural",
     "str": "Strong's 4352:  ",
-    "str2": "From pros and a probable derivative of kuon; to fawn or crouch to, i.e. prostrate oneself in homage."
+    "str2": "From pros and a probable derivative of kuon; to fawn or crouch to, i.e. prostrate oneself in homage.",
+    "num": 4352
   },
   {
     "word": "must",
@@ -45,7 +50,8 @@
     "translit": "(dei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1163:  ",
-    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary."
+    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary.",
+    "num": 1163
   },
   {
     "word": "worship",
@@ -53,7 +59,8 @@
     "translit": "(proskynein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 4352:  ",
-    "str2": "From pros and a probable derivative of kuon; to fawn or crouch to, i.e. prostrate oneself in homage."
+    "str2": "From pros and a probable derivative of kuon; to fawn or crouch to, i.e. prostrate oneself in homage.",
+    "num": 4352
   },
   {
     "word": "Him",
@@ -61,7 +68,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "in",
@@ -69,7 +77,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "spirit",
@@ -77,7 +86,8 @@
     "translit": "(pneumati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[in] truth.”",
@@ -93,6 +104,7 @@
     "translit": "(alētheia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 225:  ",
-    "str2": "From alethes; truth."
+    "str2": "From alethes; truth.",
+    "num": 225
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(mik·kōl)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "these",
@@ -13,7 +14,8 @@
     "translit": "(haz·zeh)",
     "parse": "Article | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "soldiers",
@@ -21,7 +23,8 @@
     "translit": "(hā·‘ām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "there were 700",
@@ -29,7 +32,8 @@
     "translit": "(šə·ḇa‘)",
     "parse": "Number - feminine singular construct",
     "str": "Strong's 7651:  ",
-    "str2": "Seven, seven times, a week, an indefinite number"
+    "str2": "Seven, seven times, a week, an indefinite number",
+    "num": 7651
   },
   {
     "word": "select",
@@ -37,7 +41,8 @@
     "translit": "(bā·ḥūr)",
     "parse": "Verb - Qal - QalPassParticiple - masculine singular",
     "str": "Strong's 970:  ",
-    "str2": "Selected, a youth"
+    "str2": "Selected, a youth",
+    "num": 970
   },
   {
     "word": "left-handers,",
@@ -45,7 +50,8 @@
     "translit": "(’iṭ·ṭêr)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 334:  ",
-    "str2": "Shut up, impeded"
+    "str2": "Shut up, impeded",
+    "num": 334
   },
   {
     "word": "each of whom",
@@ -53,7 +59,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "could sling",
@@ -61,7 +68,8 @@
     "translit": "(qō·lê·a‘)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 7049:  ",
-    "str2": "To sling, hurl forth"
+    "str2": "To sling, hurl forth",
+    "num": 7049
   },
   {
     "word": "a stone",
@@ -69,7 +77,8 @@
     "translit": "(bā·’e·ḇen)",
     "parse": "Preposition-b, Article | Noun - feminine singular",
     "str": "Strong's 68:  ",
-    "str2": "A stone"
+    "str2": "A stone",
+    "num": 68
   },
   {
     "word": "at",
@@ -77,7 +86,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "a hair",
@@ -85,7 +95,8 @@
     "translit": "(haś·śa·‘ă·rāh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 8185:  ",
-    "str2": "Hairiness"
+    "str2": "Hairiness",
+    "num": 8185
   },
   {
     "word": "without",
@@ -93,7 +104,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "missing.",
@@ -101,6 +113,7 @@
     "translit": "(ya·ḥă·ṭi)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular",
     "str": "Strong's 2398:  ",
-    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn"
+    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn",
+    "num": 2398
   }
 ]

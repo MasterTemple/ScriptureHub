@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "there was",
@@ -13,7 +14,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "a widow",
@@ -21,7 +23,8 @@
     "translit": "(chēra)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 5503:  ",
-    "str2": "Feminine of a presumed derivative apparently from the base of chasma through the idea of deficiency; a widow, literally or figuratively."
+    "str2": "Feminine of a presumed derivative apparently from the base of chasma through the idea of deficiency; a widow, literally or figuratively.",
+    "num": 5503
   },
   {
     "word": "in",
@@ -29,7 +32,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "that",
@@ -37,7 +41,8 @@
     "translit": "(ekeinē)",
     "parse": "Demonstrative Pronoun - Dative Feminine Singular",
     "str": "Strong's 1565:  ",
-    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed."
+    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed.",
+    "num": 1565
   },
   {
     "word": "town",
@@ -45,7 +50,8 @@
     "translit": "(polei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4172:  ",
-    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town."
+    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town.",
+    "num": 4172
   },
   {
     "word": "who kept appealing",
@@ -53,7 +59,8 @@
     "translit": "(ērcheto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "to",
@@ -61,7 +68,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "him,",
@@ -69,7 +77,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "‘Give me justice",
@@ -77,7 +86,8 @@
     "translit": "(Ekdikēson)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 1556:  ",
-    "str2": "To give justice over, defend, avenge, vindicate. From ekdikos; to vindicate, retaliate, punish."
+    "str2": "To give justice over, defend, avenge, vindicate. From ekdikos; to vindicate, retaliate, punish.",
+    "num": 1556
   },
   {
     "word": "[against]",
@@ -85,7 +95,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "my",
@@ -93,7 +104,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "adversary.’",
@@ -101,6 +113,7 @@
     "translit": "(antidikou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 476:  ",
-    "str2": "An opponent (at law), an adversary. From anti and dike; an opponent; specially, Satan."
+    "str2": "An opponent (at law), an adversary. From anti and dike; an opponent; specially, Satan.",
+    "num": 476
   }
 ]

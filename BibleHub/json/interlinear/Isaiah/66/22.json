@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "just as",
@@ -13,7 +14,8 @@
     "translit": "(ḵa·’ă·šer)",
     "parse": "Preposition-k | Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "the new",
@@ -21,7 +23,8 @@
     "translit": "(ha·ḥo·ḏā·šîm)",
     "parse": "Article | Adjective - masculine plural",
     "str": "Strong's 2319:  ",
-    "str2": "New"
+    "str2": "New",
+    "num": 2319
   },
   {
     "word": "heavens",
@@ -29,7 +32,8 @@
     "translit": "(haš·šā·ma·yim)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 8064:  ",
-    "str2": "Heaven, sky"
+    "str2": "Heaven, sky",
+    "num": 8064
   },
   {
     "word": "and the new",
@@ -37,7 +41,8 @@
     "translit": "(ha·ḥă·ḏā·šāh)",
     "parse": "Article | Adjective - feminine singular",
     "str": "Strong's 2319:  ",
-    "str2": "New"
+    "str2": "New",
+    "num": 2319
   },
   {
     "word": "earth,",
@@ -45,7 +50,8 @@
     "translit": "(wə·hā·’ā·reṣ)",
     "parse": "Conjunctive waw, Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "which",
@@ -53,7 +59,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "I",
@@ -61,7 +68,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "will make,",
@@ -69,7 +77,8 @@
     "translit": "(‘ō·śeh)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "will endure",
@@ -77,7 +86,8 @@
     "translit": "(‘ō·mə·ḏîm)",
     "parse": "Verb - Qal - Participle - masculine plural",
     "str": "Strong's 5975:  ",
-    "str2": "To stand, in various relations"
+    "str2": "To stand, in various relations",
+    "num": 5975
   },
   {
     "word": "before Me,”",
@@ -85,7 +95,8 @@
     "translit": "(lə·p̄ā·nay)",
     "parse": "Preposition-l | Noun - masculine plural construct | first person common singular",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "declares",
@@ -93,7 +104,8 @@
     "translit": "(nə·’um-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 5002:  ",
-    "str2": "An oracle"
+    "str2": "An oracle",
+    "num": 5002
   },
   {
     "word": "the LORD,",
@@ -101,7 +113,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "“so",
@@ -109,7 +122,8 @@
     "translit": "(kên)",
     "parse": "Adverb",
     "str": "Strong's 3651:  ",
-    "str2": "So -- thus"
+    "str2": "So -- thus",
+    "num": 3651
   },
   {
     "word": "your descendants",
@@ -117,7 +131,8 @@
     "translit": "(zar·‘ă·ḵem)",
     "parse": "Noun - masculine singular construct | second person masculine plural",
     "str": "Strong's 2233:  ",
-    "str2": "Seed, fruit, plant, sowing-time, posterity"
+    "str2": "Seed, fruit, plant, sowing-time, posterity",
+    "num": 2233
   },
   {
     "word": "and your name",
@@ -125,7 +140,8 @@
     "translit": "(wə·šim·ḵem)",
     "parse": "Conjunctive waw | Noun - masculine singular construct | second person masculine plural",
     "str": "Strong's 8034:  ",
-    "str2": "A name"
+    "str2": "A name",
+    "num": 8034
   },
   {
     "word": "will endure.",
@@ -133,6 +149,7 @@
     "translit": "(ya·‘ă·mōḏ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5975:  ",
-    "str2": "To stand, in various relations"
+    "str2": "To stand, in various relations",
+    "num": 5975
   }
 ]

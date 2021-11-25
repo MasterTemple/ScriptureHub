@@ -5,7 +5,8 @@
     "translit": "(bə·’ap·pî)",
     "parse": "Preposition-b | Noun - masculine singular construct | first person common singular",
     "str": "Strong's 639:  ",
-    "str2": "The nose, nostril, the face, a person, ire"
+    "str2": "The nose, nostril, the face, a person, ire",
+    "num": 639
   },
   {
     "word": "I gave",
@@ -13,7 +14,8 @@
     "translit": "(’et·ten-)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "you",
@@ -21,7 +23,8 @@
     "translit": "(lə·ḵā)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "a king,",
@@ -29,7 +32,8 @@
     "translit": "(me·leḵ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "and in My wrath",
@@ -37,7 +41,8 @@
     "translit": "(bə·‘eḇ·rā·ṯî)",
     "parse": "Preposition-b | Noun - feminine singular construct | first person common singular",
     "str": "Strong's 5678:  ",
-    "str2": "Overflow, arrogance, fury"
+    "str2": "Overflow, arrogance, fury",
+    "num": 5678
   },
   {
     "word": "I took [him] away.",
@@ -45,6 +50,7 @@
     "translit": "(wə·’eq·qaḥ)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect - first person common singular",
     "str": "Strong's 3947:  ",
-    "str2": "To take"
+    "str2": "To take",
+    "num": 3947
   }
 ]

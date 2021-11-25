@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "these",
@@ -13,7 +14,8 @@
     "translit": "(tauta)",
     "parse": "Demonstrative Pronoun - Nominative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "signs",
@@ -21,7 +23,8 @@
     "translit": "(sēmeia)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 4592:  ",
-    "str2": "Neuter of a presumed derivative of the base of semaino; an indication, especially ceremonially or supernaturally."
+    "str2": "Neuter of a presumed derivative of the base of semaino; an indication, especially ceremonially or supernaturally.",
+    "num": 4592
   },
   {
     "word": "will accompany",
@@ -29,7 +32,8 @@
     "translit": "(parakolouthēsei)",
     "parse": "Verb - Future Indicative Active - 3rd Person Singular",
     "str": "Strong's 5023:  ",
-    "str2": "This; he, she, it. Nominative or accusative case neuter plural of houtos; these things."
+    "str2": "This; he, she, it. Nominative or accusative case neuter plural of houtos; these things.",
+    "num": 5023
   },
   {
     "word": "those",
@@ -37,7 +41,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "who believe:",
@@ -45,7 +50,8 @@
     "translit": "(pisteusasin)",
     "parse": "Verb - Aorist Participle Active - Dative Masculine Plural",
     "str": "Strong's 4100:  ",
-    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust."
+    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust.",
+    "num": 4100
   },
   {
     "word": "In",
@@ -53,7 +59,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "My",
@@ -61,7 +68,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "name",
@@ -69,7 +77,8 @@
     "translit": "(onomati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 3686:  ",
-    "str2": "Name, character, fame, reputation. From a presumed derivative of the base of ginosko; a 'name'."
+    "str2": "Name, character, fame, reputation. From a presumed derivative of the base of ginosko; a 'name'.",
+    "num": 3686
   },
   {
     "word": "they will drive out",
@@ -77,7 +86,8 @@
     "translit": "(ekbalousin)",
     "parse": "Verb - Future Indicative Active - 3rd Person Plural",
     "str": "Strong's 1544:  ",
-    "str2": "To throw (cast, put) out; I banish; I bring forth, produce. From ek and ballo; to eject."
+    "str2": "To throw (cast, put) out; I banish; I bring forth, produce. From ek and ballo; to eject.",
+    "num": 1544
   },
   {
     "word": "demons;",
@@ -85,7 +95,8 @@
     "translit": "(daimonia)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 1140:  ",
-    "str2": "An evil-spirit, demon; a heathen deity. Neuter of a derivative of daimon; a d?Monic being; by extension a deity."
+    "str2": "An evil-spirit, demon; a heathen deity. Neuter of a derivative of daimon; a d?Monic being; by extension a deity.",
+    "num": 1140
   },
   {
     "word": "they will speak",
@@ -93,7 +104,8 @@
     "translit": "(lalēsousin)",
     "parse": "Verb - Future Indicative Active - 3rd Person Plural",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "in new",
@@ -101,7 +113,8 @@
     "translit": "(kainais)",
     "parse": "Adjective - Dative Feminine Plural",
     "str": "Strong's 2537:  ",
-    "str2": "Fresh, new, unused, novel. Of uncertain affinity; new"
+    "str2": "Fresh, new, unused, novel. Of uncertain affinity; new",
+    "num": 2537
   },
   {
     "word": "tongues;",
@@ -109,6 +122,7 @@
     "translit": "(glōssais)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 1100:  ",
-    "str2": "The tongue; by implication, a language."
+    "str2": "The tongue; by implication, a language.",
+    "num": 1100
   }
 ]

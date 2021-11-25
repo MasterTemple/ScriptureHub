@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Paul",
@@ -13,7 +14,8 @@
     "translit": "(Paulos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3972:  ",
-    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle."
+    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle.",
+    "num": 3972
   },
   {
     "word": "chose",
@@ -21,7 +23,8 @@
     "translit": "(epilexamenos)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Singular",
     "str": "Strong's 1951:  ",
-    "str2": "To call; mid: I choose for myself; pass: To be named. Middle voice from epi and lego; to surname, select."
+    "str2": "To call; mid: I choose for myself; pass: To be named. Middle voice from epi and lego; to surname, select.",
+    "num": 1951
   },
   {
     "word": "Silas",
@@ -29,7 +32,8 @@
     "translit": "(Silan)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 4609:  ",
-    "str2": "Silas, a pet-form of the name Silvanus; a Roman citizen and a helper of Paul. Contraction for Silouanos; Silas, a Christian."
+    "str2": "Silas, a pet-form of the name Silvanus; a Roman citizen and a helper of Paul. Contraction for Silouanos; Silas, a Christian.",
+    "num": 4609
   },
   {
     "word": "[and] left,",
@@ -37,7 +41,8 @@
     "translit": "(exēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1831:  ",
-    "str2": "To go out, come out. From ek and erchomai; to issue."
+    "str2": "To go out, come out. From ek and erchomai; to issue.",
+    "num": 1831
   },
   {
     "word": "commended",
@@ -45,7 +50,8 @@
     "translit": "(paradotheis)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Singular",
     "str": "Strong's 3860:  ",
-    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit."
+    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit.",
+    "num": 3860
   },
   {
     "word": "by",
@@ -53,7 +59,8 @@
     "translit": "(hypo)",
     "parse": "Preposition",
     "str": "Strong's 5259:  ",
-    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when)."
+    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when).",
+    "num": 5259
   },
   {
     "word": "the",
@@ -61,7 +68,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "brothers",
@@ -69,7 +77,8 @@
     "translit": "(adelphōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "to the",
@@ -77,7 +86,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "grace",
@@ -85,7 +95,8 @@
     "translit": "(chariti)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 5485:  ",
-    "str2": "From chairo; graciousness, of manner or act."
+    "str2": "From chairo; graciousness, of manner or act.",
+    "num": 5485
   },
   {
     "word": "of the",
@@ -93,7 +104,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord.",
@@ -101,6 +113,7 @@
     "translit": "(Kyriou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   }
 ]

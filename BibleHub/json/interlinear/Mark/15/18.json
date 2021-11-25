@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they began",
@@ -13,7 +14,8 @@
     "translit": "(ērxanto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Plural",
     "str": "Strong's 756:  ",
-    "str2": "To begin. Middle voice of archo; to commence."
+    "str2": "To begin. Middle voice of archo; to commence.",
+    "num": 756
   },
   {
     "word": "to salute",
@@ -21,7 +23,8 @@
     "translit": "(aspazesthai)",
     "parse": "Verb - Present Infinitive Middle or Passive",
     "str": "Strong's 782:  ",
-    "str2": "To greet, salute, pay my respects to, welcome. To enfold in the arms, i.e. to salute, to welcome."
+    "str2": "To greet, salute, pay my respects to, welcome. To enfold in the arms, i.e. to salute, to welcome.",
+    "num": 782
   },
   {
     "word": "Him:",
@@ -29,7 +32,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“Hail,",
@@ -37,7 +41,8 @@
     "translit": "(Chaire)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 5463:  ",
-    "str2": "A primary verb; to be 'cheer'ful, i.e. Calmly happy or well-off; impersonally, especially as salutation, be well."
+    "str2": "A primary verb; to be 'cheer'ful, i.e. Calmly happy or well-off; impersonally, especially as salutation, be well.",
+    "num": 5463
   },
   {
     "word": "King",
@@ -45,7 +50,8 @@
     "translit": "(Basileu)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 935:  ",
-    "str2": "A king, ruler, but in some passages clearly to be translated: emperor. Probably from basis; a sovereign."
+    "str2": "A king, ruler, but in some passages clearly to be translated: emperor. Probably from basis; a sovereign.",
+    "num": 935
   },
   {
     "word": "of the",
@@ -53,7 +59,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Jews!”",
@@ -61,6 +68,7 @@
     "translit": "(Ioudaiōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 2453:  ",
-    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah."
+    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah.",
+    "num": 2453
   }
 ]

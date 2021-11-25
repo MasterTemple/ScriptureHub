@@ -5,7 +5,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "sight",
@@ -13,7 +14,8 @@
     "translit": "(phantazomenon)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Neuter Singular",
     "str": "Strong's 5324:  ",
-    "str2": "To cause to appear, make visible. From a derivative of phaino; to make apparent, i.e. to appear."
+    "str2": "To cause to appear, make visible. From a derivative of phaino; to make apparent, i.e. to appear.",
+    "num": 5324
   },
   {
     "word": "was",
@@ -21,7 +23,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "so",
@@ -29,7 +32,8 @@
     "translit": "(houtō)",
     "parse": "Adverb",
     "str": "Strong's 3779:  ",
-    "str2": "Thus, so, in this manner. Or (referring to what precedes or follows)."
+    "str2": "Thus, so, in this manner. Or (referring to what precedes or follows).",
+    "num": 3779
   },
   {
     "word": "terrifying",
@@ -37,7 +41,8 @@
     "translit": "(phoberon)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 5398:  ",
-    "str2": "Fearful, dreadful, terrible. From phobos; frightful, i.e. formidable."
+    "str2": "Fearful, dreadful, terrible. From phobos; frightful, i.e. formidable.",
+    "num": 5398
   },
   {
     "word": "[that] even",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Moses",
@@ -53,7 +59,8 @@
     "translit": "(Mōusēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3475:  ",
-    "str2": "Or Moses, or Mouses of Hebrew origin; Moseus, Moses, or Mouses, the Hebrew lawgiver."
+    "str2": "Or Moses, or Mouses of Hebrew origin; Moseus, Moses, or Mouses, the Hebrew lawgiver.",
+    "num": 3475
   },
   {
     "word": "said,",
@@ -61,7 +68,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“I am",
@@ -69,7 +77,8 @@
     "translit": "(eimi)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "trembling",
@@ -77,7 +86,8 @@
     "translit": "(entromos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1790:  ",
-    "str2": "Trembling with fear, terrified. From en and tromos; terrified."
+    "str2": "Trembling with fear, terrified. From en and tromos; terrified.",
+    "num": 1790
   },
   {
     "word": "with fear.”",
@@ -85,6 +95,7 @@
     "translit": "(Ekphobos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1630:  ",
-    "str2": "Greatly terrified, horrified. From ek and phobos; frightened out of one's wits: sore afraid, exceedingly fear."
+    "str2": "Greatly terrified, horrified. From ek and phobos; frightened out of one's wits: sore afraid, exceedingly fear.",
+    "num": 1630
   }
 ]

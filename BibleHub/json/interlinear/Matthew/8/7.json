@@ -5,7 +5,8 @@
     "translit": "(Egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "will go",
@@ -13,7 +14,8 @@
     "translit": "(elthōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "[and] heal",
@@ -21,7 +23,8 @@
     "translit": "(therapeusō)",
     "parse": "Verb - Future Indicative Active - 1st Person Singular",
     "str": "Strong's 2323:  ",
-    "str2": "From the same as therapon; to wait upon menially, i.e. to adore, or to relieve."
+    "str2": "From the same as therapon; to wait upon menially, i.e. to adore, or to relieve.",
+    "num": 2323
   },
   {
     "word": "him,”",
@@ -29,7 +32,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "[Jesus] replied.",
@@ -37,6 +41,7 @@
     "translit": "(legei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   }
 ]

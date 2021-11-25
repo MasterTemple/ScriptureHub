@@ -5,7 +5,8 @@
     "translit": "(’ă·ḇāl)",
     "parse": "Adverb",
     "str": "Strong's 61:  ",
-    "str2": "Verily, of a truth"
+    "str2": "Verily, of a truth",
+    "num": 61
   },
   {
     "word": "the people",
@@ -13,7 +14,8 @@
     "translit": "(hā·‘ām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "still",
@@ -21,7 +23,8 @@
     "translit": "(‘ō·wḏ)",
     "parse": "Adverb",
     "str": "Strong's 5750:  ",
-    "str2": "Iteration, continuance, again, repeatedly, still, more"
+    "str2": "Iteration, continuance, again, repeatedly, still, more",
+    "num": 5750
   },
   {
     "word": "sacrificed",
@@ -29,7 +32,8 @@
     "translit": "(zō·ḇə·ḥîm)",
     "parse": "Verb - Qal - Participle - masculine plural",
     "str": "Strong's 2076:  ",
-    "str2": "To slaughter for sacrifice"
+    "str2": "To slaughter for sacrifice",
+    "num": 2076
   },
   {
     "word": "at the high places,",
@@ -37,7 +41,8 @@
     "translit": "(bab·bā·mō·wṯ)",
     "parse": "Preposition-b, Article | Noun - feminine plural",
     "str": "Strong's 1116:  ",
-    "str2": "An elevation"
+    "str2": "An elevation",
+    "num": 1116
   },
   {
     "word": "but only",
@@ -45,7 +50,8 @@
     "translit": "(raq)",
     "parse": "Adverb",
     "str": "Strong's 7535:  ",
-    "str2": "But, even, except, howbeit howsoever, at the least, nevertheless"
+    "str2": "But, even, except, howbeit howsoever, at the least, nevertheless",
+    "num": 7535
   },
   {
     "word": "to the LORD",
@@ -53,7 +59,8 @@
     "translit": "(Yah·weh)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "their God.",
@@ -61,6 +68,7 @@
     "translit": "(’ĕ·lō·hê·hem)",
     "parse": "Noun - masculine plural construct | third person masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   }
 ]

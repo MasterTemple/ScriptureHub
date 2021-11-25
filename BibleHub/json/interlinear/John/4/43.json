@@ -5,7 +5,8 @@
     "translit": "(Meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "two",
@@ -13,7 +14,8 @@
     "translit": "(dyo)",
     "parse": "Adjective - Accusative Feminine Plural",
     "str": "Strong's 1417:  ",
-    "str2": "Two. A primary numeral; 'two'."
+    "str2": "Two. A primary numeral; 'two'.",
+    "num": 1417
   },
   {
     "word": "days,",
@@ -21,7 +23,8 @@
     "translit": "(hēmeras)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "[Jesus] left",
@@ -29,7 +32,8 @@
     "translit": "(exēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1831:  ",
-    "str2": "To go out, come out. From ek and erchomai; to issue."
+    "str2": "To go out, come out. From ek and erchomai; to issue.",
+    "num": 1831
   },
   {
     "word": "for",
@@ -37,7 +41,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "Galilee.",
@@ -45,6 +50,7 @@
     "translit": "(Galilaian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1056:  ",
-    "str2": "Of Hebrew origin; Galiloea, a region of Palestine."
+    "str2": "Of Hebrew origin; Galiloea, a region of Palestine.",
+    "num": 1056
   }
 ]

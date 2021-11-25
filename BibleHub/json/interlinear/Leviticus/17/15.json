@@ -5,7 +5,8 @@
     "translit": "(wə·ḵāl)",
     "parse": "Conjunctive waw | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "person,",
@@ -13,7 +14,8 @@
     "translit": "(ne·p̄eš)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   },
   {
     "word": "whether native",
@@ -21,7 +23,8 @@
     "translit": "(bā·’ez·rāḥ)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 249:  ",
-    "str2": "A spontaneous growth, native"
+    "str2": "A spontaneous growth, native",
+    "num": 249
   },
   {
     "word": "or foreigner,",
@@ -29,7 +32,8 @@
     "translit": "(ū·ḇag·gêr)",
     "parse": "Conjunctive waw, Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 1616:  ",
-    "str2": "A guest, a foreigner"
+    "str2": "A guest, a foreigner",
+    "num": 1616
   },
   {
     "word": "who",
@@ -37,7 +41,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "eats",
@@ -45,7 +50,8 @@
     "translit": "(tō·ḵal)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "anything found dead",
@@ -53,7 +59,8 @@
     "translit": "(nə·ḇê·lāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 5038:  ",
-    "str2": "A flabby thing, a carcase, carrion, an idol"
+    "str2": "A flabby thing, a carcase, carrion, an idol",
+    "num": 5038
   },
   {
     "word": "or mauled by wild beasts",
@@ -61,7 +68,8 @@
     "translit": "(ū·ṭə·rê·p̄āh)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 2966:  ",
-    "str2": "Prey, flocks devoured by animals"
+    "str2": "Prey, flocks devoured by animals",
+    "num": 2966
   },
   {
     "word": "must wash",
@@ -69,7 +77,8 @@
     "translit": "(wə·ḵib·bes)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 3526:  ",
-    "str2": "To trample, to wash"
+    "str2": "To trample, to wash",
+    "num": 3526
   },
   {
     "word": "his clothes",
@@ -77,7 +86,8 @@
     "translit": "(bə·ḡā·ḏāw)",
     "parse": "Noun - masculine plural construct | third person masculine singular",
     "str": "Strong's 899:  ",
-    "str2": "A covering, clothing, treachery, pillage"
+    "str2": "A covering, clothing, treachery, pillage",
+    "num": 899
   },
   {
     "word": "and bathe",
@@ -85,7 +95,8 @@
     "translit": "(wə·rā·ḥaṣ)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 7364:  ",
-    "str2": "To wash, wash off or away, bathe"
+    "str2": "To wash, wash off or away, bathe",
+    "num": 7364
   },
   {
     "word": "with water,",
@@ -93,7 +104,8 @@
     "translit": "(bam·ma·yim)",
     "parse": "Preposition-b, Article | Noun - masculine plural",
     "str": "Strong's 4325:  ",
-    "str2": "Water, juice, urine, semen"
+    "str2": "Water, juice, urine, semen",
+    "num": 4325
   },
   {
     "word": "and he will be unclean",
@@ -101,7 +113,8 @@
     "translit": "(wə·ṭā·mê)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 2930:  ",
-    "str2": "To be or become unclean"
+    "str2": "To be or become unclean",
+    "num": 2930
   },
   {
     "word": "until",
@@ -109,7 +122,8 @@
     "translit": "(‘aḏ-)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "evening;",
@@ -117,7 +131,8 @@
     "translit": "(hā·‘e·reḇ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 6153:  ",
-    "str2": "Evening"
+    "str2": "Evening",
+    "num": 6153
   },
   {
     "word": "then he will be clean.",
@@ -125,6 +140,7 @@
     "translit": "(wə·ṭā·hêr)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 2891:  ",
-    "str2": "To be clean or pure"
+    "str2": "To be clean or pure",
+    "num": 2891
   }
 ]

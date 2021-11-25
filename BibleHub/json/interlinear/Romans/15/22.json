@@ -5,7 +5,8 @@
     "translit": "(Dio)",
     "parse": "Conjunction",
     "str": "Strong's 1352:  ",
-    "str2": "Wherefore, on which account, therefore. From dia and hos; through which thing, i.e. Consequently."
+    "str2": "Wherefore, on which account, therefore. From dia and hos; through which thing, i.e. Consequently.",
+    "num": 1352
   },
   {
     "word": "I have often been hindered",
@@ -13,7 +14,8 @@
     "translit": "(enekoptomēn)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 1st Person Singular",
     "str": "Strong's 1465:  ",
-    "str2": "To interrupt, hinder. From en and kopto; to cut into, i.e. impede, detain."
+    "str2": "To interrupt, hinder. From en and kopto; to cut into, i.e. impede, detain.",
+    "num": 1465
   },
   {
     "word": "from coming",
@@ -21,7 +23,8 @@
     "translit": "(elthein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "to",
@@ -29,7 +32,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "you.",
@@ -37,6 +41,7 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

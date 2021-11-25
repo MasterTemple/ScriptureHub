@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "in those",
@@ -13,7 +14,8 @@
     "translit": "(hā·hêm·māh)",
     "parse": "Article | Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "days",
@@ -21,7 +23,8 @@
     "translit": "(bay·yā·mîm)",
     "parse": "Preposition-b, Article | Noun - masculine plural",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "and at that",
@@ -29,7 +32,8 @@
     "translit": "(ha·hî)",
     "parse": "Article | Pronoun - third person feminine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "time,",
@@ -37,7 +41,8 @@
     "translit": "(ū·ḇā·‘êṯ)",
     "parse": "Conjunctive waw, Preposition-b, Article | Noun - common singular",
     "str": "Strong's 6256:  ",
-    "str2": "Time, now, when"
+    "str2": "Time, now, when",
+    "num": 6256
   },
   {
     "word": "when",
@@ -45,7 +50,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "I restore",
@@ -53,7 +59,8 @@
     "translit": "(’ā·šîḇ)",
     "parse": "Verb - Hifil - Imperfect - first person common singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "from captivity",
@@ -61,7 +68,8 @@
     "translit": "(šə·ḇūṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 7622:  ",
-    "str2": "Exile, prisoners, a former state of prosperity"
+    "str2": "Exile, prisoners, a former state of prosperity",
+    "num": 7622
   },
   {
     "word": "Judah",
@@ -69,7 +77,8 @@
     "translit": "(yə·hū·ḏāh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3063:  ",
-    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites"
+    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites",
+    "num": 3063
   },
   {
     "word": "and Jerusalem,",
@@ -77,6 +86,7 @@
     "translit": "(wî·rū·šā·lim)",
     "parse": "Conjunctive waw | Noun - proper - feminine singular",
     "str": "Strong's 3389:  ",
-    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel"
+    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel",
+    "num": 3389
   }
 ]

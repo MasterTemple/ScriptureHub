@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "You",
@@ -13,7 +14,8 @@
     "translit": "(’at·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "brought me",
@@ -21,7 +23,8 @@
     "translit": "(ḡō·ḥî)",
     "parse": "Verb - Qal - Participle - masculine singular construct | first person common singular",
     "str": "Strong's 1518:  ",
-    "str2": "To gush forth, to issue"
+    "str2": "To gush forth, to issue",
+    "num": 1518
   },
   {
     "word": "out of the womb;",
@@ -29,7 +32,8 @@
     "translit": "(mib·bā·ṭen)",
     "parse": "Preposition-m | Noun - feminine singular",
     "str": "Strong's 990:  ",
-    "str2": "The belly, the womb, the bosom, body of anything"
+    "str2": "The belly, the womb, the bosom, body of anything",
+    "num": 990
   },
   {
     "word": "You secured me",
@@ -37,7 +41,8 @@
     "translit": "(maḇ·ṭî·ḥî)",
     "parse": "Verb - Hifil - Participle - masculine singular construct | first person common singular",
     "str": "Strong's 982:  ",
-    "str2": "To trust, be confident, sure"
+    "str2": "To trust, be confident, sure",
+    "num": 982
   },
   {
     "word": "at",
@@ -45,7 +50,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "my mother’s",
@@ -53,7 +59,8 @@
     "translit": "(’im·mî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "breast.",
@@ -61,6 +68,7 @@
     "translit": "(šə·ḏê)",
     "parse": "Noun - mdc",
     "str": "Strong's 7699:  ",
-    "str2": "The breast of a, woman, animal"
+    "str2": "The breast of a, woman, animal",
+    "num": 7699
   }
 ]

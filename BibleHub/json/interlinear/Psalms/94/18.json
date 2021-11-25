@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I say,",
@@ -13,7 +14,8 @@
     "translit": "(’ā·mar·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“My foot",
@@ -21,7 +23,8 @@
     "translit": "(raḡ·lî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 7272:  ",
-    "str2": "A foot, a step, the pudenda"
+    "str2": "A foot, a step, the pudenda",
+    "num": 7272
   },
   {
     "word": "is slipping,”",
@@ -29,7 +32,8 @@
     "translit": "(mā·ṭāh)",
     "parse": "Verb - Qal - Perfect - third person feminine singular",
     "str": "Strong's 4131:  ",
-    "str2": "To waver, to slip, shake, fall"
+    "str2": "To waver, to slip, shake, fall",
+    "num": 4131
   },
   {
     "word": "Your loving devotion,",
@@ -37,7 +41,8 @@
     "translit": "(ḥas·də·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 2617:  ",
-    "str2": "Kindness, piety, reproof, beauty"
+    "str2": "Kindness, piety, reproof, beauty",
+    "num": 2617
   },
   {
     "word": "O LORD,",
@@ -45,7 +50,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "will support me.",
@@ -53,6 +59,7 @@
     "translit": "(yis·‘ā·ḏê·nî)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular | first person common singular",
     "str": "Strong's 5582:  ",
-    "str2": "To support, sustain, stay"
+    "str2": "To support, sustain, stay",
+    "num": 5582
   }
 ]

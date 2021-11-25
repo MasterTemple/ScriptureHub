@@ -5,7 +5,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "with [the] precious",
@@ -13,7 +14,8 @@
     "translit": "(timiō)",
     "parse": "Adjective - Dative Neuter Singular",
     "str": "Strong's 5093:  ",
-    "str2": "Of great price, precious, honored. "
+    "str2": "Of great price, precious, honored. ",
+    "num": 5093
   },
   {
     "word": "blood",
@@ -21,7 +23,8 @@
     "translit": "(haimati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 129:  ",
-    "str2": "Blood, literally, figuratively or specially; by implication, bloodshed, also kindred."
+    "str2": "Blood, literally, figuratively or specially; by implication, bloodshed, also kindred.",
+    "num": 129
   },
   {
     "word": "of Christ,",
@@ -29,7 +32,8 @@
     "translit": "(Christou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "a lamb",
@@ -37,7 +41,8 @@
     "translit": "(amnou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 286:  ",
-    "str2": "A lamb (as a type of innocence, and with sacrificial connotation). Apparently a primary word; a lamb."
+    "str2": "A lamb (as a type of innocence, and with sacrificial connotation). Apparently a primary word; a lamb.",
+    "num": 286
   },
   {
     "word": "without blemish",
@@ -45,7 +50,8 @@
     "translit": "(amōmou)",
     "parse": "Adjective - Genitive Masculine Singular",
     "str": "Strong's 299:  ",
-    "str2": "Blameless, without blemish, unblemished, faultless. Unblemished."
+    "str2": "Blameless, without blemish, unblemished, faultless. Unblemished.",
+    "num": 299
   },
   {
     "word": "[or]",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "spot.",
@@ -61,6 +68,7 @@
     "translit": "(aspilou)",
     "parse": "Adjective - Genitive Masculine Singular",
     "str": "Strong's 784:  ",
-    "str2": "Unstained, undefiled, spotless, pure. Unblemished."
+    "str2": "Unstained, undefiled, spotless, pure. Unblemished.",
+    "num": 784
   }
 ]

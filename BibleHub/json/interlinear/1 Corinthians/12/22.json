@@ -5,7 +5,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ta)",
     "parse": "Article - Nominative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "parts",
@@ -21,7 +23,8 @@
     "translit": "(melē)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 3196:  ",
-    "str2": "A bodily organ, limb, member. Of uncertain affinity; a limb or part of the body."
+    "str2": "A bodily organ, limb, member. Of uncertain affinity; a limb or part of the body.",
+    "num": 3196
   },
   {
     "word": "of the",
@@ -29,7 +32,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "body",
@@ -37,7 +41,8 @@
     "translit": "(sōmatos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 4983:  ",
-    "str2": "Body, flesh; the body of the Church. From sozo; the body, used in a very wide application, literally or figuratively."
+    "str2": "Body, flesh; the body of the Church. From sozo; the body, used in a very wide application, literally or figuratively.",
+    "num": 4983
   },
   {
     "word": "that seem",
@@ -45,7 +50,8 @@
     "translit": "(dokounta)",
     "parse": "Verb - Present Participle Active - Nominative Neuter Plural",
     "str": "Strong's 1380:  ",
-    "str2": "A prolonged form of a primary verb, doko dok'-o of the same meaning; to think; by implication, to seem."
+    "str2": "A prolonged form of a primary verb, doko dok'-o of the same meaning; to think; by implication, to seem.",
+    "num": 1380
   },
   {
     "word": "to be",
@@ -53,7 +59,8 @@
     "translit": "(hyparchein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 5225:  ",
-    "str2": "To begin, am, exist, be in possession. From hupo and archomai; to begin under, i.e. Come into existence; expletively, to exist (verb)."
+    "str2": "To begin, am, exist, be in possession. From hupo and archomai; to begin under, i.e. Come into existence; expletively, to exist (verb).",
+    "num": 5225
   },
   {
     "word": "weaker",
@@ -61,7 +68,8 @@
     "translit": "(asthenestera)",
     "parse": "Adjective - Nominative Neuter Plural - Comparative",
     "str": "Strong's 772:  ",
-    "str2": "(lit: not strong), (a) weak (physically, or morally), (b) infirm, sick. Strengthless."
+    "str2": "(lit: not strong), (a) weak (physically, or morally), (b) infirm, sick. Strengthless.",
+    "num": 772
   },
   {
     "word": "are",
@@ -69,7 +77,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "indispensable,",
@@ -77,6 +86,7 @@
     "translit": "(anankaia)",
     "parse": "Adjective - Nominative Neuter Plural",
     "str": "Strong's 316:  ",
-    "str2": "Necessary, essential, intimate, right, proper. From anagke; necessary; by implication, close."
+    "str2": "Necessary, essential, intimate, right, proper. From anagke; necessary; by implication, close.",
+    "num": 316
   }
 ]

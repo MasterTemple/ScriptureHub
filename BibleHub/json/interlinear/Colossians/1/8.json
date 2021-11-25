@@ -5,7 +5,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "also",
@@ -13,7 +14,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "informed",
@@ -21,7 +23,8 @@
     "translit": "(dēlōsas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1213:  ",
-    "str2": "To show, make clear, reveal. From delos; to make plain."
+    "str2": "To show, make clear, reveal. From delos; to make plain.",
+    "num": 1213
   },
   {
     "word": "us",
@@ -29,7 +32,8 @@
     "translit": "(hēmin)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "of your",
@@ -37,7 +41,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "love",
@@ -45,7 +50,8 @@
     "translit": "(agapēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 26:  ",
-    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast."
+    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast.",
+    "num": 26
   },
   {
     "word": "in",
@@ -53,7 +59,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[the] Spirit.",
@@ -61,6 +68,7 @@
     "translit": "(Pneumati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   }
 ]

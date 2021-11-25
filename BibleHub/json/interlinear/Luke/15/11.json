@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[Jesus] said,",
@@ -13,7 +14,8 @@
     "translit": "(Eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“[There was] a",
@@ -21,7 +23,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "man",
@@ -29,7 +32,8 @@
     "translit": "(Anthrōpos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "who had",
@@ -37,7 +41,8 @@
     "translit": "(eichen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "two",
@@ -45,7 +50,8 @@
     "translit": "(dyo)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 1417:  ",
-    "str2": "Two. A primary numeral; 'two'."
+    "str2": "Two. A primary numeral; 'two'.",
+    "num": 1417
   },
   {
     "word": "sons.",
@@ -53,6 +59,7 @@
     "translit": "(huious)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   }
 ]

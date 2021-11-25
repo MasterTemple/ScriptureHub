@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "to have",
@@ -13,7 +14,8 @@
     "translit": "(echein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "authority",
@@ -21,7 +23,8 @@
     "translit": "(exousian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1849:  ",
-    "str2": "From exesti; privilege, i.e. force, capacity, competency, freedom, or mastery, delegated influence."
+    "str2": "From exesti; privilege, i.e. force, capacity, competency, freedom, or mastery, delegated influence.",
+    "num": 1849
   },
   {
     "word": "to drive out",
@@ -29,7 +32,8 @@
     "translit": "(ekballein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 1544:  ",
-    "str2": "To throw (cast, put) out; I banish; I bring forth, produce. From ek and ballo; to eject."
+    "str2": "To throw (cast, put) out; I banish; I bring forth, produce. From ek and ballo; to eject.",
+    "num": 1544
   },
   {
     "word": "demons.",
@@ -37,6 +41,7 @@
     "translit": "(daimonia)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 1140:  ",
-    "str2": "An evil-spirit, demon; a heathen deity. Neuter of a derivative of daimon; a d?Monic being; by extension a deity."
+    "str2": "An evil-spirit, demon; a heathen deity. Neuter of a derivative of daimon; a d?Monic being; by extension a deity.",
+    "num": 1140
   }
 ]

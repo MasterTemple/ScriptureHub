@@ -5,7 +5,8 @@
     "translit": "(tines)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Plural",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "of the",
@@ -13,7 +14,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "scribes",
@@ -21,7 +23,8 @@
     "translit": "(grammateōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 1122:  ",
-    "str2": "From gramma. A writer, i.e. scribe or secretary."
+    "str2": "From gramma. A writer, i.e. scribe or secretary.",
+    "num": 1122
   },
   {
     "word": "answered,",
@@ -29,7 +32,8 @@
     "translit": "(Apokrithentes)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Plural",
     "str": "Strong's 611:  ",
-    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak."
+    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak.",
+    "num": 611
   },
   {
     "word": "“Teacher,",
@@ -37,7 +41,8 @@
     "translit": "(Didaskale)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 1320:  ",
-    "str2": "A teacher, master. From didasko; an instructor."
+    "str2": "A teacher, master. From didasko; an instructor.",
+    "num": 1320
   },
   {
     "word": "you have spoken",
@@ -45,7 +50,8 @@
     "translit": "(eipas)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "well!”",
@@ -53,6 +59,7 @@
     "translit": "(kalōs)",
     "parse": "Adverb",
     "str": "Strong's 2573:  ",
-    "str2": "Well, nobly, honorably, rightly. Adverb from kalos; well."
+    "str2": "Well, nobly, honorably, rightly. Adverb from kalos; well.",
+    "num": 2573
   }
 ]

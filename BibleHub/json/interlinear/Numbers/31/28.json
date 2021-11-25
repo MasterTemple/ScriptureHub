@@ -5,7 +5,8 @@
     "translit": "(wa·hă·rê·mō·ṯā)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - second person masculine singular",
     "str": "Strong's 7311:  ",
-    "str2": "To be high actively, to rise, raise"
+    "str2": "To be high actively, to rise, raise",
+    "num": 7311
   },
   {
     "word": "a tribute",
@@ -13,7 +14,8 @@
     "translit": "(me·ḵes)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4371:  ",
-    "str2": "Computation, proportion to be paid, tax"
+    "str2": "Computation, proportion to be paid, tax",
+    "num": 4371
   },
   {
     "word": "for the LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "from what belongs",
@@ -29,7 +32,8 @@
     "translit": "(min-)",
     "parse": "Preposition",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "to the soldiers",
@@ -37,7 +41,8 @@
     "translit": "(ham·mil·ḥā·māh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 4421:  ",
-    "str2": "A battle, war"
+    "str2": "A battle, war",
+    "num": 4421
   },
   {
     "word": "who went",
@@ -45,7 +50,8 @@
     "translit": "(hay·yō·ṣə·’îm)",
     "parse": "Article | Verb - Qal - Participle - masculine plural",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "into battle:",
@@ -53,7 +59,8 @@
     "translit": "(laṣ·ṣā·ḇā)",
     "parse": "Preposition-l, Article | Noun - common singular",
     "str": "Strong's 6635:  ",
-    "str2": "A mass of persons, reg, organized for, war, a campaign"
+    "str2": "A mass of persons, reg, organized for, war, a campaign",
+    "num": 6635
   },
   {
     "word": "one",
@@ -61,7 +68,8 @@
     "translit": "(’e·ḥāḏ)",
     "parse": "Number - masculine singular construct",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "out of",
@@ -69,7 +77,8 @@
     "translit": "(ū·min-)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "every five",
@@ -77,7 +86,8 @@
     "translit": "(mê·ḥă·mêš)",
     "parse": "Preposition-m | Number - feminine singular construct",
     "str": "Strong's 2568:  ",
-    "str2": "Five"
+    "str2": "Five",
+    "num": 2568
   },
   {
     "word": "hundred,",
@@ -85,7 +95,8 @@
     "translit": "(ham·mê·’ō·wṯ)",
     "parse": "Article | Number - feminine plural",
     "str": "Strong's 3967:  ",
-    "str2": "A hundred"
+    "str2": "A hundred",
+    "num": 3967
   },
   {
     "word": "whether persons,",
@@ -93,7 +104,8 @@
     "translit": "(hā·’ā·ḏām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   },
   {
     "word": "cattle,",
@@ -101,7 +113,8 @@
     "translit": "(hab·bā·qār)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1241:  ",
-    "str2": "Beef cattle, ox, a herd"
+    "str2": "Beef cattle, ox, a herd",
+    "num": 1241
   },
   {
     "word": "donkeys,",
@@ -109,7 +122,8 @@
     "translit": "(ha·ḥă·mō·rîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 2543:  ",
-    "str2": "A male ass"
+    "str2": "A male ass",
+    "num": 2543
   },
   {
     "word": "or sheep.",
@@ -117,6 +131,7 @@
     "translit": "(haṣ·ṣōn)",
     "parse": "Article | Noun - common singular",
     "str": "Strong's 6629:  ",
-    "str2": "Small cattle, sheep and goats, flock"
+    "str2": "Small cattle, sheep and goats, flock",
+    "num": 6629
   }
 ]

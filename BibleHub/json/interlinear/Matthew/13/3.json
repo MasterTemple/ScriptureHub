@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "He told",
@@ -13,7 +14,8 @@
     "translit": "(elalēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "them",
@@ -21,7 +23,8 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "many things",
@@ -29,7 +32,8 @@
     "translit": "(polla)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "in",
@@ -37,7 +41,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "parables,",
@@ -45,7 +50,8 @@
     "translit": "(parabolais)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 3850:  ",
-    "str2": "From paraballo; a similitude, i.e. fictitious narrative, apothegm or adage."
+    "str2": "From paraballo; a similitude, i.e. fictitious narrative, apothegm or adage.",
+    "num": 3850
   },
   {
     "word": "saying,",
@@ -53,7 +59,8 @@
     "translit": "(legōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“A farmer",
@@ -61,7 +68,8 @@
     "translit": "(speirōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4687:  ",
-    "str2": "To sow, spread, scatter. Probably strengthened from spao; to scatter, i.e. Sow."
+    "str2": "To sow, spread, scatter. Probably strengthened from spao; to scatter, i.e. Sow.",
+    "num": 4687
   },
   {
     "word": "went out",
@@ -69,7 +77,8 @@
     "translit": "(exēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1831:  ",
-    "str2": "To go out, come out. From ek and erchomai; to issue."
+    "str2": "To go out, come out. From ek and erchomai; to issue.",
+    "num": 1831
   },
   {
     "word": "to sow his seed.",
@@ -77,6 +86,7 @@
     "translit": "(speirein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 4687:  ",
-    "str2": "To sow, spread, scatter. Probably strengthened from spao; to scatter, i.e. Sow."
+    "str2": "To sow, spread, scatter. Probably strengthened from spao; to scatter, i.e. Sow.",
+    "num": 4687
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Pilate",
@@ -13,7 +14,8 @@
     "translit": "(Pilatos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4091:  ",
-    "str2": "Pilate. Of Latin origin; close-pressed, i.e. Firm; Pilatus, a Roman."
+    "str2": "Pilate. Of Latin origin; close-pressed, i.e. Firm; Pilatus, a Roman.",
+    "num": 4091
   },
   {
     "word": "called together",
@@ -21,7 +23,8 @@
     "translit": "(synkalesamenos)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Singular",
     "str": "Strong's 4779:  ",
-    "str2": "To call together. From sun and kaleo; to convoke."
+    "str2": "To call together. From sun and kaleo; to convoke.",
+    "num": 4779
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "chief priests,",
@@ -37,7 +41,8 @@
     "translit": "(archiereis)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 749:  ",
-    "str2": "High priest, chief priest. From arche and hiereus; the high-priest; by extension a chief priest."
+    "str2": "High priest, chief priest. From arche and hiereus; the high-priest; by extension a chief priest.",
+    "num": 749
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "rulers,",
@@ -53,7 +59,8 @@
     "translit": "(archontas)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 758:  ",
-    "str2": "Present participle of archo; a first."
+    "str2": "Present participle of archo; a first.",
+    "num": 758
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "people,",
@@ -77,6 +86,7 @@
     "translit": "(laon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2992:  ",
-    "str2": "Apparently a primary word; a people."
+    "str2": "Apparently a primary word; a people.",
+    "num": 2992
   }
 ]

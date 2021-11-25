@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the Lord",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD,",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "the Holy",
@@ -29,7 +32,8 @@
     "translit": "(qə·ḏō·wōš)",
     "parse": "Adjective - masculine singular construct",
     "str": "Strong's 6918:  ",
-    "str2": "Sacred, God, an angel, a saint, a sanctuary"
+    "str2": "Sacred, God, an angel, a saint, a sanctuary",
+    "num": 6918
   },
   {
     "word": "One of Israel,",
@@ -37,7 +41,8 @@
     "translit": "(yiś·rā·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3478:  ",
-    "str2": "Israel -- 'God strives', another name of Jacob and his desc"
+    "str2": "Israel -- 'God strives', another name of Jacob and his desc",
+    "num": 3478
   },
   {
     "word": "has said:",
@@ -45,7 +50,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“By repentance",
@@ -53,7 +59,8 @@
     "translit": "(bə·šū·ḇāh)",
     "parse": "Preposition-b | Noun - feminine singular",
     "str": "Strong's 7729:  ",
-    "str2": "Retirement, withdrawal"
+    "str2": "Retirement, withdrawal",
+    "num": 7729
   },
   {
     "word": "and rest",
@@ -61,7 +68,8 @@
     "translit": "(wā·na·ḥaṯ)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 5183:  ",
-    "str2": "A descent, imposition, unfavorable, favorable, restfulness"
+    "str2": "A descent, imposition, unfavorable, favorable, restfulness",
+    "num": 5183
   },
   {
     "word": "you would be saved;",
@@ -69,7 +77,8 @@
     "translit": "(tiw·wā·šê·‘ūn)",
     "parse": "Verb - Nifal - Imperfect - second person masculine plural | Paragogic nun",
     "str": "Strong's 3467:  ",
-    "str2": "To be open, wide, free, to be safe, to free, succor"
+    "str2": "To be open, wide, free, to be safe, to free, succor",
+    "num": 3467
   },
   {
     "word": "your strength",
@@ -77,7 +86,8 @@
     "translit": "(gə·ḇū·raṯ·ḵem)",
     "parse": "Noun - feminine singular construct | second person masculine plural",
     "str": "Strong's 1369:  ",
-    "str2": "Force, valor, victory"
+    "str2": "Force, valor, victory",
+    "num": 1369
   },
   {
     "word": "would lie",
@@ -85,7 +95,8 @@
     "translit": "(tih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "in quiet",
@@ -93,7 +104,8 @@
     "translit": "(bə·haš·qêṭ)",
     "parse": "Preposition-b | Verb - Hifil - Infinitive construct",
     "str": "Strong's 8252:  ",
-    "str2": "To be quiet or undisturbed"
+    "str2": "To be quiet or undisturbed",
+    "num": 8252
   },
   {
     "word": "confidence—",
@@ -101,7 +113,8 @@
     "translit": "(ū·ḇə·ḇiṭ·ḥāh)",
     "parse": "Conjunctive waw, Preposition-b | Noun - feminine singular",
     "str": "Strong's 985:  ",
-    "str2": "A trust"
+    "str2": "A trust",
+    "num": 985
   },
   {
     "word": "but you were not",
@@ -109,7 +122,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "willing.”",
@@ -117,6 +131,7 @@
     "translit": "(’ă·ḇî·ṯem)",
     "parse": "Verb - Qal - Perfect - second person masculine plural",
     "str": "Strong's 14:  ",
-    "str2": "To breathe after, to be acquiescent"
+    "str2": "To breathe after, to be acquiescent",
+    "num": 14
   }
 ]

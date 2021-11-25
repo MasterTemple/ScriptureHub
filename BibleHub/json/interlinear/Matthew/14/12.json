@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[John’s]",
@@ -13,7 +14,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "disciples",
@@ -21,7 +23,8 @@
     "translit": "(mathētai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   },
   {
     "word": "came [and]",
@@ -29,7 +32,8 @@
     "translit": "(proselthontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 4334:  ",
-    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to."
+    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to.",
+    "num": 4334
   },
   {
     "word": "took",
@@ -37,7 +41,8 @@
     "translit": "(ēran)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 142:  ",
-    "str2": "To raise, lift up, take away, remove. "
+    "str2": "To raise, lift up, take away, remove. ",
+    "num": 142
   },
   {
     "word": "[his]",
@@ -45,7 +50,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "body",
@@ -53,7 +59,8 @@
     "translit": "(ptōma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4430:  ",
-    "str2": "A fall; a carcass, corpse, dead body. From the alternate of pipto; a ruin, i.e., lifeless body."
+    "str2": "A fall; a carcass, corpse, dead body. From the alternate of pipto; a ruin, i.e., lifeless body.",
+    "num": 4430
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "buried",
@@ -69,7 +77,8 @@
     "translit": "(ethapsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2290:  ",
-    "str2": "To bury. A primary verb; to celebrate funeral rites, i.e. Inter."
+    "str2": "To bury. A primary verb; to celebrate funeral rites, i.e. Inter.",
+    "num": 2290
   },
   {
     "word": "it.",
@@ -77,7 +86,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "And",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they went",
@@ -93,7 +104,8 @@
     "translit": "(elthontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "[and] informed",
@@ -101,7 +113,8 @@
     "translit": "(apēngeilan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 518:  ",
-    "str2": "To report (from one place to another), bring a report, announce, declare. From apo and the base of aggelos; to announce."
+    "str2": "To report (from one place to another), bring a report, announce, declare. From apo and the base of aggelos; to announce.",
+    "num": 518
   },
   {
     "word": "Jesus.",
@@ -109,6 +122,7 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   }
 ]

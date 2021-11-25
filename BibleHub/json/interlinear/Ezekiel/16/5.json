@@ -5,7 +5,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "one cared enough",
@@ -13,7 +14,8 @@
     "translit": "(ḥā·sāh)",
     "parse": "Verb - Qal - Perfect - third person feminine singular",
     "str": "Strong's 2347:  ",
-    "str2": "To pity, look upon with compassion"
+    "str2": "To pity, look upon with compassion",
+    "num": 2347
   },
   {
     "word": "for you",
@@ -21,7 +23,8 @@
     "translit": "(‘ā·la·yiḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "to do",
@@ -29,7 +32,8 @@
     "translit": "(la·‘ă·śō·wṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "even one",
@@ -37,7 +41,8 @@
     "translit": "(’a·ḥaṯ)",
     "parse": "Number - feminine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "of these things",
@@ -45,7 +50,8 @@
     "translit": "(mê·’êl·leh)",
     "parse": "Preposition-m | Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   },
   {
     "word": "out of compassion",
@@ -53,7 +59,8 @@
     "translit": "(lə·ḥum·lāh)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct | third person feminine singular",
     "str": "Strong's 2550:  ",
-    "str2": "To commiserate, to spare"
+    "str2": "To commiserate, to spare",
+    "num": 2550
   },
   {
     "word": "for you.",
@@ -61,7 +68,8 @@
     "translit": "(‘ā·lā·yiḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "Instead, you were thrown out",
@@ -69,7 +77,8 @@
     "translit": "(wat·tuš·lə·ḵî)",
     "parse": "Conjunctive waw | Verb - Hofal - Consecutive imperfect - second person feminine singular",
     "str": "Strong's 7993:  ",
-    "str2": "To throw out, down, away"
+    "str2": "To throw out, down, away",
+    "num": 7993
   },
   {
     "word": "into",
@@ -77,7 +86,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the open",
@@ -85,7 +95,8 @@
     "translit": "(pə·nê)",
     "parse": "Noun - common plural construct",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "field,",
@@ -93,7 +104,8 @@
     "translit": "(haś·śā·ḏeh)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 7704:  ",
-    "str2": "Field, land"
+    "str2": "Field, land",
+    "num": 7704
   },
   {
     "word": "because you",
@@ -101,7 +113,8 @@
     "translit": "(nap̄·šêḵ)",
     "parse": "Noun - feminine singular construct | second person feminine singular",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   },
   {
     "word": "were despised",
@@ -109,7 +122,8 @@
     "translit": "(bə·ḡō·‘al)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 1604:  ",
-    "str2": "Abhorrence"
+    "str2": "Abhorrence",
+    "num": 1604
   },
   {
     "word": "on the day",
@@ -117,7 +131,8 @@
     "translit": "(bə·yō·wm)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "of your birth.",
@@ -125,6 +140,7 @@
     "translit": "(hul·le·ḏeṯ)",
     "parse": "Verb - Hofal - Infinitive construct",
     "str": "Strong's 3205:  ",
-    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage"
+    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage",
+    "num": 3205
   }
 ]

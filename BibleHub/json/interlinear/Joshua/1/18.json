@@ -5,7 +5,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "who",
@@ -13,7 +14,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "rebels",
@@ -21,7 +23,8 @@
     "translit": "(yam·reh)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular",
     "str": "Strong's 4784:  ",
-    "str2": "To be contentious or rebellious"
+    "str2": "To be contentious or rebellious",
+    "num": 4784
   },
   {
     "word": "against your order",
@@ -29,7 +32,8 @@
     "translit": "(pî·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 6310:  ",
-    "str2": "The mouth, edge, portion, side, according to"
+    "str2": "The mouth, edge, portion, side, according to",
+    "num": 6310
   },
   {
     "word": "and does not",
@@ -37,7 +41,8 @@
     "translit": "(wə·lō-)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "obey",
@@ -45,7 +50,8 @@
     "translit": "(yiš·ma‘)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "your words,",
@@ -53,7 +59,8 @@
     "translit": "(də·ḇā·re·ḵā)",
     "parse": "Noun - masculine plural construct | second person masculine singular",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "all",
@@ -61,7 +68,8 @@
     "translit": "(lə·ḵōl)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "that",
@@ -69,7 +77,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "you command him,",
@@ -77,7 +86,8 @@
     "translit": "(tə·ṣaw·wen·nū)",
     "parse": "Verb - Piel - Imperfect - second person masculine singular | third person masculine singular",
     "str": "Strong's 6680:  ",
-    "str2": "To lay charge (upon), give charge (to), command, order"
+    "str2": "To lay charge (upon), give charge (to), command, order",
+    "num": 6680
   },
   {
     "word": "will be put to death.",
@@ -85,7 +95,8 @@
     "translit": "(yū·māṯ)",
     "parse": "Verb - Hofal - Imperfect - third person masculine singular",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   },
   {
     "word": "Above all,",
@@ -93,7 +104,8 @@
     "translit": "(raq)",
     "parse": "Adverb",
     "str": "Strong's 7535:  ",
-    "str2": "But, even, except, howbeit howsoever, at the least, nevertheless"
+    "str2": "But, even, except, howbeit howsoever, at the least, nevertheless",
+    "num": 7535
   },
   {
     "word": "be strong",
@@ -101,7 +113,8 @@
     "translit": "(ḥă·zaq)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 2388:  ",
-    "str2": "To fasten upon, to seize, be strong, obstinate, to bind, restrain, conquer"
+    "str2": "To fasten upon, to seize, be strong, obstinate, to bind, restrain, conquer",
+    "num": 2388
   },
   {
     "word": "and courageous!”",
@@ -109,6 +122,7 @@
     "translit": "(we·’ĕ·māṣ)",
     "parse": "Conjunctive waw | Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 553:  ",
-    "str2": "To be stout, strong, bold, alert"
+    "str2": "To be stout, strong, bold, alert",
+    "num": 553
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Jesus",
@@ -13,7 +14,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "asked",
@@ -21,7 +23,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "him,",
@@ -29,7 +32,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“Judas,",
@@ -37,7 +41,8 @@
     "translit": "(Iouda)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2455:  ",
-    "str2": "Of Hebrew origin; Judas, the name of ten Israelites; also of the posterity of one of them and its region."
+    "str2": "Of Hebrew origin; Judas, the name of ten Israelites; also of the posterity of one of them and its region.",
+    "num": 2455
   },
   {
     "word": "are you betraying",
@@ -45,7 +50,8 @@
     "translit": "(paradidōs)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 3860:  ",
-    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit."
+    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit.",
+    "num": 3860
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Son",
@@ -61,7 +68,8 @@
     "translit": "(Huion)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   },
   {
     "word": "of Man",
@@ -69,7 +77,8 @@
     "translit": "(anthrōpou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "with a kiss?”",
@@ -77,6 +86,7 @@
     "translit": "(philēmati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 5370:  ",
-    "str2": "A kiss. From phileo; a kiss."
+    "str2": "A kiss. From phileo; a kiss.",
+    "num": 5370
   }
 ]

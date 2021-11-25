@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "He replied,",
@@ -13,7 +14,8 @@
     "translit": "(apokritheis)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Singular",
     "str": "Strong's 611:  ",
-    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak."
+    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak.",
+    "num": 611
   },
   {
     "word": "“When evening",
@@ -21,7 +23,8 @@
     "translit": "(Opsias)",
     "parse": "Adjective - Genitive Feminine Singular",
     "str": "Strong's 3798:  ",
-    "str2": "Late, evening. From opse; late; feminine afternoon or nightfall."
+    "str2": "Late, evening. From opse; late; feminine afternoon or nightfall.",
+    "num": 3798
   },
   {
     "word": "comes,",
@@ -29,7 +32,8 @@
     "translit": "(genomenēs)",
     "parse": "Verb - Aorist Participle Middle - Genitive Feminine Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "you say,",
@@ -37,7 +41,8 @@
     "translit": "(legete)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "‘The weather [will be] fair,",
@@ -45,7 +50,8 @@
     "translit": "(Eudia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2105:  ",
-    "str2": "Fair weather, good weather. Feminine from eu and the alternate of Zeus; a clear sky, i.e. Fine weather."
+    "str2": "Fair weather, good weather. Feminine from eu and the alternate of Zeus; a clear sky, i.e. Fine weather.",
+    "num": 2105
   },
   {
     "word": "for",
@@ -53,7 +59,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "the",
@@ -61,7 +68,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "sky",
@@ -69,7 +77,8 @@
     "translit": "(ouranos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3772:  ",
-    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel."
+    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel.",
+    "num": 3772
   },
   {
     "word": "is red;’",
@@ -77,6 +86,7 @@
     "translit": "(pyrrazei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 4449:  ",
-    "str2": "To be red, fire-colored. From purrhos; to redden."
+    "str2": "To be red, fire-colored. From purrhos; to redden.",
+    "num": 4449
   }
 ]

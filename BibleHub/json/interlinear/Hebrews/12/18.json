@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "you have not come to",
@@ -13,7 +14,8 @@
     "translit": "(proselēlythate)",
     "parse": "Verb - Perfect Indicative Active - 2nd Person Plural",
     "str": "Strong's 4334:  ",
-    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to."
+    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to.",
+    "num": 4334
   },
   {
     "word": "[ a mountain that ] can be touched",
@@ -21,7 +23,8 @@
     "translit": "(psēlaphōmenō)",
     "parse": "Verb - Present Participle Middle or Passive - Dative Neuter Singular",
     "str": "Strong's 5584:  ",
-    "str2": "From the base of psallo; to manipulate, i.e. Verify by contact; figuratively, to search for."
+    "str2": "From the base of psallo; to manipulate, i.e. Verify by contact; figuratively, to search for.",
+    "num": 5584
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "that is burning",
@@ -37,7 +41,8 @@
     "translit": "(kekaumenō)",
     "parse": "Verb - Perfect Participle Middle or Passive - Dative Neuter Singular",
     "str": "Strong's 2545:  ",
-    "str2": "To ignite, light, burn, lit. and met; I consume with fire. Apparently a primary verb; to set on fire, i.e. Kindle or consume."
+    "str2": "To ignite, light, burn, lit. and met; I consume with fire. Apparently a primary verb; to set on fire, i.e. Kindle or consume.",
+    "num": 2545
   },
   {
     "word": "with fire;",
@@ -45,7 +50,8 @@
     "translit": "(pyri)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 4442:  ",
-    "str2": "Fire; the heat of the sun, lightning; fig: strife, trials; the eternal fire. A primary word; 'fire'."
+    "str2": "Fire; the heat of the sun, lightning; fig: strife, trials; the eternal fire. A primary word; 'fire'.",
+    "num": 4442
   },
   {
     "word": "to darkness,",
@@ -53,7 +59,8 @@
     "translit": "(gnophō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 1105:  ",
-    "str2": "Darkness, gloom; a thick cloud. Akin to nephos; gloom."
+    "str2": "Darkness, gloom; a thick cloud. Akin to nephos; gloom.",
+    "num": 1105
   },
   {
     "word": "gloom,",
@@ -61,7 +68,8 @@
     "translit": "(zophō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2217:  ",
-    "str2": "Darkness, murkiness, gloom. Akin to the base of nephos; gloom."
+    "str2": "Darkness, murkiness, gloom. Akin to the base of nephos; gloom.",
+    "num": 2217
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "storm;",
@@ -77,6 +86,7 @@
     "translit": "(thyellē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 2366:  ",
-    "str2": "A storm, tempest, whirlwind. From thuo a storm."
+    "str2": "A storm, tempest, whirlwind. From thuo a storm.",
+    "num": 2366
   }
 ]

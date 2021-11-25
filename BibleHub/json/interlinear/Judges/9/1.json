@@ -5,7 +5,8 @@
     "translit": "(’ă·ḇî·me·leḵ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 40:  ",
-    "str2": "Abimelech -- 'father is king', a Philistine name, also an Israelite name"
+    "str2": "Abimelech -- 'father is king', a Philistine name, also an Israelite name",
+    "num": 40
   },
   {
     "word": "son",
@@ -13,7 +14,8 @@
     "translit": "(ben-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of Jerubbaal",
@@ -21,7 +23,8 @@
     "translit": "(yə·rub·ba·‘al)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3378:  ",
-    "str2": "Jerubbaal -- 'let Baal contend', a name of Gideon"
+    "str2": "Jerubbaal -- 'let Baal contend', a name of Gideon",
+    "num": 3378
   },
   {
     "word": "went",
@@ -29,7 +32,8 @@
     "translit": "(way·yê·leḵ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "to",
@@ -37,7 +41,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "his mother’s",
@@ -45,7 +50,8 @@
     "translit": "(’im·mōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "brothers",
@@ -53,7 +59,8 @@
     "translit": "(’ă·ḥê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 251:  ",
-    "str2": "A brother, )"
+    "str2": "A brother, )",
+    "num": 251
   },
   {
     "word": "at Shechem",
@@ -61,7 +68,8 @@
     "translit": "(šə·ḵe·māh)",
     "parse": "Noun - proper - feminine singular | third person feminine singular",
     "str": "Strong's 7927:  ",
-    "str2": "Shechem -- 'ridge', a district in Northern Palestine, also a son of Hamor"
+    "str2": "Shechem -- 'ridge', a district in Northern Palestine, also a son of Hamor",
+    "num": 7927
   },
   {
     "word": "and said",
@@ -69,7 +77,8 @@
     "translit": "(way·ḏab·bêr)",
     "parse": "Conjunctive waw | Verb - Piel - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 1696:  ",
-    "str2": "To arrange, to speak, to subdue"
+    "str2": "To arrange, to speak, to subdue",
+    "num": 1696
   },
   {
     "word": "to",
@@ -77,7 +86,8 @@
     "translit": "(’ă·lê·hem)",
     "parse": "Preposition | third person masculine plural",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "them",
@@ -85,7 +95,8 @@
     "translit": "(wə·’el-)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "and all",
@@ -93,7 +104,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the clan",
@@ -101,7 +113,8 @@
     "translit": "(miš·pa·ḥaṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 4940:  ",
-    "str2": "A family, circle of relatives, a class, a species, sort, a tribe, people"
+    "str2": "A family, circle of relatives, a class, a species, sort, a tribe, people",
+    "num": 4940
   },
   {
     "word": "of his mother,",
@@ -109,6 +122,7 @@
     "translit": "(’im·mōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   }
 ]

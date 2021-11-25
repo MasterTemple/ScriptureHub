@@ -5,7 +5,8 @@
     "translit": "(plēn)",
     "parse": "Conjunction",
     "str": "Strong's 4133:  ",
-    "str2": "However, nevertheless, but, except that, yet. From pleion; moreover, i.e. Albeit, save that, rather, yet."
+    "str2": "However, nevertheless, but, except that, yet. From pleion; moreover, i.e. Albeit, save that, rather, yet.",
+    "num": 4133
   },
   {
     "word": "give",
@@ -13,7 +14,8 @@
     "translit": "(dote)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "[as] alms",
@@ -21,7 +23,8 @@
     "translit": "(eleēmosynēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1654:  ",
-    "str2": "Abstr: alms-giving, charity; concr: alms, charity. From eleos; compassionateness, i.e. beneficence, or a benefaction."
+    "str2": "Abstr: alms-giving, charity; concr: alms, charity. From eleos; compassionateness, i.e. beneficence, or a benefaction.",
+    "num": 1654
   },
   {
     "word": "the things that",
@@ -29,7 +32,8 @@
     "translit": "(ta)",
     "parse": "Article - Accusative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "are within [you],",
@@ -37,7 +41,8 @@
     "translit": "(enonta)",
     "parse": "Verb - Present Participle Active - Accusative Neuter Plural",
     "str": "Strong's 1751:  ",
-    "str2": "To be in, within. From ennomos and eimi; to be within."
+    "str2": "To be in, within. From ennomos and eimi; to be within.",
+    "num": 1751
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "you will see",
@@ -53,7 +59,8 @@
     "translit": "(idou)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 2400:  ",
-    "str2": "See! Lo! Behold! Look! Second person singular imperative middle voice of eido; used as imperative lo!"
+    "str2": "See! Lo! Behold! Look! Second person singular imperative middle voice of eido; used as imperative lo!",
+    "num": 2400
   },
   {
     "word": "[that] everything",
@@ -61,7 +68,8 @@
     "translit": "(panta)",
     "parse": "Adjective - Nominative Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "is",
@@ -69,7 +77,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "clean",
@@ -77,7 +86,8 @@
     "translit": "(kathara)",
     "parse": "Adjective - Nominative Neuter Plural",
     "str": "Strong's 2513:  ",
-    "str2": "Clean."
+    "str2": "Clean.",
+    "num": 2513
   },
   {
     "word": "for you.",
@@ -85,6 +95,7 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

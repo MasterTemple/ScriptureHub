@@ -217,6 +217,10 @@ select:-webkit-autofill:focus {
   align-items: center;
   padding: 2rem;
 }
+.arrow {
+  margin: auto
+
+}
 .arrow > path{
   fill: var(--bg-secondary);
   stroke: var(--bg-secondary);
@@ -224,4 +228,7 @@ select:-webkit-autofill:focus {
 .arrow:hover > path {
   fill: var(--accent-color);
   stroke: var(--accent-color);
+}
+.selected {
+  filter:grayscale(0%) opacity(1) !important;
 }

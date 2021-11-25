@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "[we are] children,",
@@ -21,7 +23,8 @@
     "translit": "(tekna)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 5043:  ",
-    "str2": "A child, descendent, inhabitant. From the base of timoria; a child."
+    "str2": "A child, descendent, inhabitant. From the base of timoria; a child.",
+    "num": 5043
   },
   {
     "word": "then",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[we are] heirs:",
@@ -37,7 +41,8 @@
     "translit": "(klēronomoi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 2818:  ",
-    "str2": "From kleros and the base of nomos (reflexively) getting by apportionment); a sharer by lot, i.e. Inheritor; by implication, a possessor."
+    "str2": "From kleros and the base of nomos (reflexively) getting by apportionment); a sharer by lot, i.e. Inheritor; by implication, a possessor.",
+    "num": 2818
   },
   {
     "word": "heirs",
@@ -45,7 +50,8 @@
     "translit": "(klēronomoi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 2818:  ",
-    "str2": "From kleros and the base of nomos (reflexively) getting by apportionment); a sharer by lot, i.e. Inheritor; by implication, a possessor."
+    "str2": "From kleros and the base of nomos (reflexively) getting by apportionment); a sharer by lot, i.e. Inheritor; by implication, a possessor.",
+    "num": 2818
   },
   {
     "word": "of God",
@@ -53,7 +59,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "co-heirs",
@@ -69,7 +77,8 @@
     "translit": "(synklēronomoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 4789:  ",
-    "str2": "A joint heir, participant. From sun and kleronomos; a co-heir, i.e. participant in common."
+    "str2": "A joint heir, participant. From sun and kleronomos; a co-heir, i.e. participant in common.",
+    "num": 4789
   },
   {
     "word": "with Christ—",
@@ -77,7 +86,8 @@
     "translit": "(Christou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "if indeed",
@@ -85,7 +95,8 @@
     "translit": "(eiper)",
     "parse": "Conjunction",
     "str": "Strong's 1512:  ",
-    "str2": "If indeed, if so. From ei and per; if perhaps."
+    "str2": "If indeed, if so. From ei and per; if perhaps.",
+    "num": 1512
   },
   {
     "word": "we suffer with [Him],",
@@ -93,7 +104,8 @@
     "translit": "(sympaschomen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 4841:  ",
-    "str2": "To suffer together with, sympathize. From sun and pascho; to experience pain jointly or of the same kind."
+    "str2": "To suffer together with, sympathize. From sun and pascho; to experience pain jointly or of the same kind.",
+    "num": 4841
   },
   {
     "word": "so that",
@@ -101,7 +113,8 @@
     "translit": "(hina)",
     "parse": "Conjunction",
     "str": "Strong's 2443:  ",
-    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that."
+    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that.",
+    "num": 2443
   },
   {
     "word": "we may also be glorified with [Him].",
@@ -109,6 +122,7 @@
     "translit": "(syndoxasthōmen)",
     "parse": "Verb - Aorist Subjunctive Passive - 1st Person Plural",
     "str": "Strong's 4888:  ",
-    "str2": "To glorify together with. From sun and doxazo; to exalt to dignity in company with."
+    "str2": "To glorify together with. From sun and doxazo; to exalt to dignity in company with.",
+    "num": 4888
   }
 ]

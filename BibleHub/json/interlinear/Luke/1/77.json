@@ -5,7 +5,8 @@
     "translit": "(dounai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "to",
@@ -13,7 +14,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "His",
@@ -21,7 +23,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "people",
@@ -29,7 +32,8 @@
     "translit": "(laō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2992:  ",
-    "str2": "Apparently a primary word; a people."
+    "str2": "Apparently a primary word; a people.",
+    "num": 2992
   },
   {
     "word": "knowledge",
@@ -37,7 +41,8 @@
     "translit": "(gnōsin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1108:  ",
-    "str2": "Knowledge, doctrine, wisdom. From ginosko; knowing, i.e. knowledge."
+    "str2": "Knowledge, doctrine, wisdom. From ginosko; knowing, i.e. knowledge.",
+    "num": 1108
   },
   {
     "word": "of salvation",
@@ -45,7 +50,8 @@
     "translit": "(sōtērias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4991:  ",
-    "str2": "Feminine of a derivative of soter as noun; rescue or safety."
+    "str2": "Feminine of a derivative of soter as noun; rescue or safety.",
+    "num": 4991
   },
   {
     "word": "through",
@@ -53,7 +59,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[the] forgiveness",
@@ -61,7 +68,8 @@
     "translit": "(aphesei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 859:  ",
-    "str2": "A sending away, a letting go, a release, pardon, complete forgiveness. From aphiemi; freedom; pardon."
+    "str2": "A sending away, a letting go, a release, pardon, complete forgiveness. From aphiemi; freedom; pardon.",
+    "num": 859
   },
   {
     "word": "of their",
@@ -69,7 +77,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "sins,",
@@ -77,6 +86,7 @@
     "translit": "(hamartiōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 266:  ",
-    "str2": "From hamartano; a sin."
+    "str2": "From hamartano; a sin.",
+    "num": 266
   }
 ]

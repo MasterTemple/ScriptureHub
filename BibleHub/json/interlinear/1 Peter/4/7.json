@@ -5,7 +5,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "end",
@@ -13,7 +14,8 @@
     "translit": "(telos)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 5056:  ",
-    "str2": "(a) an end, (b) event or issue, (c) the principal end, aim, purpose, (d) a tax. "
+    "str2": "(a) an end, (b) event or issue, (c) the principal end, aim, purpose, (d) a tax. ",
+    "num": 5056
   },
   {
     "word": "of all [things]",
@@ -21,7 +23,8 @@
     "translit": "(Pantōn)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "is near.",
@@ -29,7 +32,8 @@
     "translit": "(ēngiken)",
     "parse": "Verb - Perfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1448:  ",
-    "str2": "Trans: I bring near; intrans: I come near, approach. From eggus; to make near, i.e. approach."
+    "str2": "Trans: I bring near; intrans: I come near, approach. From eggus; to make near, i.e. approach.",
+    "num": 1448
   },
   {
     "word": "Therefore",
@@ -37,7 +41,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "be clear-minded",
@@ -45,7 +50,8 @@
     "translit": "(sōphronēsate)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 4993:  ",
-    "str2": "To be of sound mind, be sober-minded, exercise self-control. From sophron; to be of sound mind, i.e. Sane, moderate."
+    "str2": "To be of sound mind, be sober-minded, exercise self-control. From sophron; to be of sound mind, i.e. Sane, moderate.",
+    "num": 4993
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "sober,",
@@ -61,7 +68,8 @@
     "translit": "(nēpsate)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 3525:  ",
-    "str2": "(lit: I am sober), I am calm (vigilant), circumspect. Of uncertain affinity: to abstain from wine, i.e. be discreet."
+    "str2": "(lit: I am sober), I am calm (vigilant), circumspect. Of uncertain affinity: to abstain from wine, i.e. be discreet.",
+    "num": 3525
   },
   {
     "word": "so",
@@ -69,7 +77,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "you can pray.",
@@ -77,6 +86,7 @@
     "translit": "(proseuchas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 4335:  ",
-    "str2": "From proseuchomai; prayer; by implication, an oratory."
+    "str2": "From proseuchomai; prayer; by implication, an oratory.",
+    "num": 4335
   }
 ]

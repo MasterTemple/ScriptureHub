@@ -5,7 +5,8 @@
     "translit": "(Alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "what [was]",
@@ -13,7 +14,8 @@
     "translit": "(ti)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Neuter Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "divine reply",
@@ -29,7 +32,8 @@
     "translit": "(chrēmatismos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5538:  ",
-    "str2": "An oracle, divine response. From chrematizo; a divine response or revelation."
+    "str2": "An oracle, divine response. From chrematizo; a divine response or revelation.",
+    "num": 5538
   },
   {
     "word": "to him?",
@@ -37,7 +41,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“I have reserved",
@@ -45,7 +50,8 @@
     "translit": "(Katelipon)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 2641:  ",
-    "str2": "From kata and leipo; to leave down, i.e. Behind; by implication, to abandon, have remaining."
+    "str2": "From kata and leipo; to leave down, i.e. Behind; by implication, to abandon, have remaining.",
+    "num": 2641
   },
   {
     "word": "for Myself",
@@ -53,7 +59,8 @@
     "translit": "(emautō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 1st Person Singular",
     "str": "Strong's 1683:  ",
-    "str2": "Genitive case compound of emou and autos; of myself so likewise the dative case emautoi em-ow-to', and accusative case emauton em-ow-ton'."
+    "str2": "Genitive case compound of emou and autos; of myself so likewise the dative case emautoi em-ow-to', and accusative case emauton em-ow-ton'.",
+    "num": 1683
   },
   {
     "word": "seven thousand",
@@ -61,7 +68,8 @@
     "translit": "(heptakischilious)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 2035:  ",
-    "str2": "Seven thousand. From heptakis and chilioi; seven times a thousand."
+    "str2": "Seven thousand. From heptakis and chilioi; seven times a thousand.",
+    "num": 2035
   },
   {
     "word": "men",
@@ -69,7 +77,8 @@
     "translit": "(andras)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "who",
@@ -77,7 +86,8 @@
     "translit": "(hoitines)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3748:  ",
-    "str2": "Whosoever, whichsoever, whatsoever. "
+    "str2": "Whosoever, whichsoever, whatsoever. ",
+    "num": 3748
   },
   {
     "word": "{have} not",
@@ -85,7 +95,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "bowed",
@@ -93,7 +104,8 @@
     "translit": "(ekampsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2578:  ",
-    "str2": "To bend, bow. Apparently a primary verb; to bend."
+    "str2": "To bend, bow. Apparently a primary verb; to bend.",
+    "num": 2578
   },
   {
     "word": "[the] knee",
@@ -101,7 +113,8 @@
     "translit": "(gony)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 1119:  ",
-    "str2": "The knee. Of uncertain affinity; the 'knee'."
+    "str2": "The knee. Of uncertain affinity; the 'knee'.",
+    "num": 1119
   },
   {
     "word": "to Baal.”",
@@ -109,6 +122,7 @@
     "translit": "(Baal)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 896:  ",
-    "str2": "Baal, chief deity of the Phoenicians and other Semitic nations. Of Hebrew origin; Baal, a Phoenician deity."
+    "str2": "Baal, chief deity of the Phoenicians and other Semitic nations. Of Hebrew origin; Baal, a Phoenician deity.",
+    "num": 896
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "I saw",
@@ -13,7 +14,8 @@
     "translit": "(eidon)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "another",
@@ -21,7 +23,8 @@
     "translit": "(allo)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 243:  ",
-    "str2": "Other, another (of more than two), different. A primary word; 'else, ' i.e. Different."
+    "str2": "Other, another (of more than two), different. A primary word; 'else, ' i.e. Different.",
+    "num": 243
   },
   {
     "word": "great",
@@ -29,7 +32,8 @@
     "translit": "(mega)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 3173:  ",
-    "str2": "Large, great, in the widest sense. "
+    "str2": "Large, great, in the widest sense. ",
+    "num": 3173
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "marvelous",
@@ -45,7 +50,8 @@
     "translit": "(thaumaston)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 2298:  ",
-    "str2": "To be wondered at, wonderful, marvelous. From thaumazo; wondered at, i.e. wonderful."
+    "str2": "To be wondered at, wonderful, marvelous. From thaumazo; wondered at, i.e. wonderful.",
+    "num": 2298
   },
   {
     "word": "sign",
@@ -53,7 +59,8 @@
     "translit": "(sēmeion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4592:  ",
-    "str2": "Neuter of a presumed derivative of the base of semaino; an indication, especially ceremonially or supernaturally."
+    "str2": "Neuter of a presumed derivative of the base of semaino; an indication, especially ceremonially or supernaturally.",
+    "num": 4592
   },
   {
     "word": "in",
@@ -61,7 +68,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "heaven:",
@@ -69,7 +77,8 @@
     "translit": "(ouranō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 3772:  ",
-    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel."
+    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel.",
+    "num": 3772
   },
   {
     "word": "seven",
@@ -77,7 +86,8 @@
     "translit": "(hepta)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 2033:  ",
-    "str2": "Seven. A primary number; seven."
+    "str2": "Seven. A primary number; seven.",
+    "num": 2033
   },
   {
     "word": "angels",
@@ -85,7 +95,8 @@
     "translit": "(angelous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 32:  ",
-    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor."
+    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor.",
+    "num": 32
   },
   {
     "word": "with",
@@ -93,7 +104,8 @@
     "translit": "(echontas)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(tas)",
     "parse": "Article - Accusative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "seven",
@@ -109,7 +122,8 @@
     "translit": "(hepta)",
     "parse": "Adjective - Accusative Feminine Plural",
     "str": "Strong's 2033:  ",
-    "str2": "Seven. A primary number; seven."
+    "str2": "Seven. A primary number; seven.",
+    "num": 2033
   },
   {
     "word": "final",
@@ -117,7 +131,8 @@
     "translit": "(eschatas)",
     "parse": "Adjective - Accusative Feminine Plural",
     "str": "Strong's 2078:  ",
-    "str2": "Last, at the last, finally, till the end. A superlative probably from echo; farthest, final."
+    "str2": "Last, at the last, finally, till the end. A superlative probably from echo; farthest, final.",
+    "num": 2078
   },
   {
     "word": "plagues,",
@@ -125,7 +140,8 @@
     "translit": "(plēgas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 4127:  ",
-    "str2": "A blow, stripe, wound; an affliction, plague. From plesso; a stroke; by implication, a wound; figuratively, a calamity."
+    "str2": "A blow, stripe, wound; an affliction, plague. From plesso; a stroke; by implication, a wound; figuratively, a calamity.",
+    "num": 4127
   },
   {
     "word": "with",
@@ -133,7 +149,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[which]",
@@ -141,7 +158,8 @@
     "translit": "(autais)",
     "parse": "Personal / Possessive Pronoun - Dative Feminine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "the",
@@ -149,7 +167,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "wrath",
@@ -157,7 +176,8 @@
     "translit": "(thymos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2372:  ",
-    "str2": "An outburst of passion, wrath. From thuo; passion."
+    "str2": "An outburst of passion, wrath. From thuo; passion.",
+    "num": 2372
   },
   {
     "word": "of God",
@@ -165,7 +185,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "will be completed.",
@@ -173,6 +194,7 @@
     "translit": "(etelesthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 5055:  ",
-    "str2": "(a) I end, finish, (b) I fulfill, accomplish, (c) I pay. From telos; to end, i.e. Complete, execute, conclude, discharge."
+    "str2": "(a) I end, finish, (b) I fulfill, accomplish, (c) I pay. From telos; to end, i.e. Complete, execute, conclude, discharge.",
+    "num": 5055
   }
 ]

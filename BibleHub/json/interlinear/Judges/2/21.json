@@ -5,7 +5,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "will no",
@@ -13,7 +14,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "longer",
@@ -21,7 +23,8 @@
     "translit": "(’ō·w·sîp̄)",
     "parse": "Verb - Hifil - Imperfect - first person common singular",
     "str": "Strong's 3254:  ",
-    "str2": "To add, augment"
+    "str2": "To add, augment",
+    "num": 3254
   },
   {
     "word": "drive out",
@@ -29,7 +32,8 @@
     "translit": "(lə·hō·w·rîš)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct",
     "str": "Strong's 3423:  ",
-    "str2": "To occupy, to seize, to rob, to inherit, to expel, to impoverish, to ruin"
+    "str2": "To occupy, to seize, to rob, to inherit, to expel, to impoverish, to ruin",
+    "num": 3423
   },
   {
     "word": "before them",
@@ -37,7 +41,8 @@
     "translit": "(min-)",
     "parse": "Preposition",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "any",
@@ -45,7 +50,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "of the nations",
@@ -53,7 +59,8 @@
     "translit": "(hag·gō·w·yim)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 1471:  ",
-    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts"
+    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+    "num": 1471
   },
   {
     "word": "Joshua",
@@ -61,7 +68,8 @@
     "translit": "(yə·hō·wō·šu·a‘)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3091:  ",
-    "str2": "Joshua -- 'the LORD is salvation', Moses' successor, also the name of a number of Israelites"
+    "str2": "Joshua -- 'the LORD is salvation', Moses' successor, also the name of a number of Israelites",
+    "num": 3091
   },
   {
     "word": "left",
@@ -69,7 +77,8 @@
     "translit": "(‘ā·zaḇ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 5800:  ",
-    "str2": "To loosen, relinquish, permit"
+    "str2": "To loosen, relinquish, permit",
+    "num": 5800
   },
   {
     "word": "when he died.",
@@ -77,6 +86,7 @@
     "translit": "(way·yā·mōṯ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   }
 ]

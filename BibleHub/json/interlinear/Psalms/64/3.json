@@ -5,7 +5,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "sharpen",
@@ -13,7 +14,8 @@
     "translit": "(šā·nə·nū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 8150:  ",
-    "str2": "To point, to pierce, to inculcate"
+    "str2": "To point, to pierce, to inculcate",
+    "num": 8150
   },
   {
     "word": "their tongues",
@@ -21,7 +23,8 @@
     "translit": "(lə·šō·w·nām)",
     "parse": "Noun - common singular construct | third person masculine plural",
     "str": "Strong's 3956:  ",
-    "str2": "The tongue"
+    "str2": "The tongue",
+    "num": 3956
   },
   {
     "word": "like swords",
@@ -29,7 +32,8 @@
     "translit": "(ḵa·ḥe·reḇ)",
     "parse": "Preposition-k, Article | Noun - feminine singular",
     "str": "Strong's 2719:  ",
-    "str2": "Drought, a cutting instrument, as a, knife, sword"
+    "str2": "Drought, a cutting instrument, as a, knife, sword",
+    "num": 2719
   },
   {
     "word": "and aim",
@@ -37,7 +41,8 @@
     "translit": "(dā·rə·ḵū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 1869:  ",
-    "str2": "To tread, to walk, to string a, bow"
+    "str2": "To tread, to walk, to string a, bow",
+    "num": 1869
   },
   {
     "word": "their bitter",
@@ -45,7 +50,8 @@
     "translit": "(mār)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 4751:  ",
-    "str2": "Bitter, bitterness, bitterly"
+    "str2": "Bitter, bitterness, bitterly",
+    "num": 4751
   },
   {
     "word": "words",
@@ -53,7 +59,8 @@
     "translit": "(dā·ḇār)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "like arrows,",
@@ -61,6 +68,7 @@
     "translit": "(ḥiṣ·ṣām)",
     "parse": "Noun - masculine singular construct | third person masculine plural",
     "str": "Strong's 2671:  ",
-    "str2": "A piercer, an arrow, a wound, thunderbolt, the shaft of a, spear"
+    "str2": "A piercer, an arrow, a wound, thunderbolt, the shaft of a, spear",
+    "num": 2671
   }
 ]

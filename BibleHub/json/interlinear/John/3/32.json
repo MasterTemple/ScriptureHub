@@ -5,7 +5,8 @@
     "translit": "(martyrei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3140:  ",
-    "str2": "To witness, bear witness, give evidence, testify, give a good report. From martus; to be a witness, i.e. Testify."
+    "str2": "To witness, bear witness, give evidence, testify, give a good report. From martus; to be a witness, i.e. Testify.",
+    "num": 3140
   },
   {
     "word": "to",
@@ -13,7 +14,8 @@
     "translit": "(touto)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "what",
@@ -21,7 +23,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "He has seen",
@@ -29,7 +32,8 @@
     "translit": "(heōraken)",
     "parse": "Verb - Perfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "heard,",
@@ -45,7 +50,8 @@
     "translit": "(ēkousen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "yet",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "no one",
@@ -61,7 +68,8 @@
     "translit": "(oudeis)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3762:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3762
   },
   {
     "word": "accepts",
@@ -69,7 +77,8 @@
     "translit": "(lambanei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "His",
@@ -77,7 +86,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "testimony.",
@@ -85,6 +95,7 @@
     "translit": "(martyrian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3141:  ",
-    "str2": "Witness, evidence, testimony, reputation. From martus; evidence given."
+    "str2": "Witness, evidence, testimony, reputation. From martus; evidence given.",
+    "num": 3141
   }
 ]

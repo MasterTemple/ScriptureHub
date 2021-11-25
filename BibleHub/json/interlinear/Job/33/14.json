@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "God",
@@ -13,7 +14,8 @@
     "translit": "(’êl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 410:  ",
-    "str2": "Strength -- as adjective, mighty, the Almighty"
+    "str2": "Strength -- as adjective, mighty, the Almighty",
+    "num": 410
   },
   {
     "word": "speaks",
@@ -21,7 +23,8 @@
     "translit": "(yə·ḏab·ber-)",
     "parse": "Verb - Piel - Imperfect - third person masculine singular",
     "str": "Strong's 1696:  ",
-    "str2": "To arrange, to speak, to subdue"
+    "str2": "To arrange, to speak, to subdue",
+    "num": 1696
   },
   {
     "word": "in one [way]",
@@ -29,7 +32,8 @@
     "translit": "(ḇə·’a·ḥaṯ)",
     "parse": "Preposition-b | Number - feminine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "and in another,",
@@ -37,7 +41,8 @@
     "translit": "(ū·ḇiš·ta·yim)",
     "parse": "Conjunctive waw, Preposition-b | Number - fd",
     "str": "Strong's 8147:  ",
-    "str2": "Two (a cardinal number)"
+    "str2": "Two (a cardinal number)",
+    "num": 8147
   },
   {
     "word": "[yet] no one",
@@ -45,7 +50,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "notices.",
@@ -53,6 +59,7 @@
     "translit": "(yə·šū·ren·nāh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular | third person feminine singular",
     "str": "Strong's 7789:  ",
-    "str2": "To spy out, survey, lurk for, care for"
+    "str2": "To spy out, survey, lurk for, care for",
+    "num": 7789
   }
 ]

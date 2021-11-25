@@ -5,7 +5,8 @@
     "translit": "(’e·ḥāḏ)",
     "parse": "Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "day",
@@ -13,7 +14,8 @@
     "translit": "(mî·yō·wm)",
     "parse": "Preposition-m | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "of the seventh",
@@ -21,7 +23,8 @@
     "translit": "(haš·šə·ḇî·‘î)",
     "parse": "Article | Number - ordinal masculine singular",
     "str": "Strong's 7637:  ",
-    "str2": "Seventh (an ordinal number)"
+    "str2": "Seventh (an ordinal number)",
+    "num": 7637
   },
   {
     "word": "month,",
@@ -29,7 +32,8 @@
     "translit": "(la·ḥō·ḏeš)",
     "parse": "Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 2320:  ",
-    "str2": "The new moon, a month"
+    "str2": "The new moon, a month",
+    "num": 2320
   },
   {
     "word": "[the Israelites] began",
@@ -37,7 +41,8 @@
     "translit": "(hê·ḥêl·lū)",
     "parse": "Verb - Hifil - Perfect - third person common plural",
     "str": "Strong's 2490:  ",
-    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play"
+    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play",
+    "num": 2490
   },
   {
     "word": "to offer",
@@ -45,7 +50,8 @@
     "translit": "(lə·ha·‘ă·lō·wṯ)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct",
     "str": "Strong's 5927:  ",
-    "str2": "To ascend, in, actively"
+    "str2": "To ascend, in, actively",
+    "num": 5927
   },
   {
     "word": "burnt offerings",
@@ -53,7 +59,8 @@
     "translit": "(‘ō·lō·wṯ)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 5930:  ",
-    "str2": "Whole burnt offering"
+    "str2": "Whole burnt offering",
+    "num": 5930
   },
   {
     "word": "to the LORD,",
@@ -61,7 +68,8 @@
     "translit": "(Yah·weh)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "{although the foundation} of the temple",
@@ -69,7 +77,8 @@
     "translit": "(wə·hê·ḵal)",
     "parse": "Conjunctive waw | Noun - masculine singular construct",
     "str": "Strong's 1964:  ",
-    "str2": "A large public building, palace, temple"
+    "str2": "A large public building, palace, temple",
+    "num": 1964
   },
   {
     "word": "of the LORD",
@@ -77,7 +86,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "had not been laid.",
@@ -85,6 +95,7 @@
     "translit": "(yus·sāḏ)",
     "parse": "Verb - Pual - Perfect - third person masculine singular",
     "str": "Strong's 3245:  ",
-    "str2": "To set, to found, to sit down together, settle, consult"
+    "str2": "To set, to found, to sit down together, settle, consult",
+    "num": 3245
   }
 ]

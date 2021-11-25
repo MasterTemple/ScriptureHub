@@ -5,7 +5,8 @@
     "translit": "(qūm)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 6965:  ",
-    "str2": "To arise, stand up, stand"
+    "str2": "To arise, stand up, stand",
+    "num": 6965
   },
   {
     "word": "go",
@@ -13,7 +14,8 @@
     "translit": "(lêḵ)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "to Zarephath",
@@ -21,7 +23,8 @@
     "translit": "(ṣā·rə·p̄a·ṯāh)",
     "parse": "Noun - proper - feminine singular | third person feminine singular",
     "str": "Strong's 6886:  ",
-    "str2": "Zarephath -- 'smelting place', a city South of Sidon"
+    "str2": "Zarephath -- 'smelting place', a city South of Sidon",
+    "num": 6886
   },
   {
     "word": "of Sidon,",
@@ -29,7 +32,8 @@
     "translit": "(lə·ṣî·ḏō·wn)",
     "parse": "Preposition-l | Noun - proper - feminine singular",
     "str": "Strong's 6721:  ",
-    "str2": "Sidon -- a Phoenician city on the Mediterranean coast, also a son of Canaan"
+    "str2": "Sidon -- a Phoenician city on the Mediterranean coast, also a son of Canaan",
+    "num": 6721
   },
   {
     "word": "and stay",
@@ -37,7 +41,8 @@
     "translit": "(wə·yā·šaḇ·tā)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - second person masculine singular",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "there.",
@@ -45,7 +50,8 @@
     "translit": "(šām)",
     "parse": "Adverb",
     "str": "Strong's 8033:  ",
-    "str2": "There, then, thither"
+    "str2": "There, then, thither",
+    "num": 8033
   },
   {
     "word": "Behold,",
@@ -53,7 +59,8 @@
     "translit": "(hin·nêh)",
     "parse": "Interjection",
     "str": "Strong's 2009:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2009
   },
   {
     "word": "I have commanded",
@@ -61,7 +68,8 @@
     "translit": "(ṣiw·wî·ṯî)",
     "parse": "Verb - Piel - Perfect - first person common singular",
     "str": "Strong's 6680:  ",
-    "str2": "To lay charge (upon), give charge (to), command, order"
+    "str2": "To lay charge (upon), give charge (to), command, order",
+    "num": 6680
   },
   {
     "word": "a widow",
@@ -69,7 +77,8 @@
     "translit": "(’al·mā·nāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 490:  ",
-    "str2": "A widow, a desolate place"
+    "str2": "A widow, a desolate place",
+    "num": 490
   },
   {
     "word": "there",
@@ -77,7 +86,8 @@
     "translit": "(šām)",
     "parse": "Adverb",
     "str": "Strong's 8033:  ",
-    "str2": "There, then, thither"
+    "str2": "There, then, thither",
+    "num": 8033
   },
   {
     "word": "to provide for you.”",
@@ -85,6 +95,7 @@
     "translit": "(lə·ḵal·kə·le·ḵā)",
     "parse": "Preposition-l | Verb - Piel - Infinitive construct | second person masculine singular",
     "str": "Strong's 3557:  ",
-    "str2": "To keep in, to measure, to maintain"
+    "str2": "To keep in, to measure, to maintain",
+    "num": 3557
   }
 ]

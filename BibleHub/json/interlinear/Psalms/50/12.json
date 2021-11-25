@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I were hungry,",
@@ -13,7 +14,8 @@
     "translit": "(’er·‘aḇ)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 7456:  ",
-    "str2": "To be hungry"
+    "str2": "To be hungry",
+    "num": 7456
   },
   {
     "word": "I would not",
@@ -21,7 +23,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "tell you,",
@@ -29,7 +32,8 @@
     "translit": "(’ō·mar)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "for",
@@ -37,7 +41,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the world",
@@ -45,7 +50,8 @@
     "translit": "(ṯê·ḇêl)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 8398:  ",
-    "str2": "The earth, the globe, its inhabitants, a particular land"
+    "str2": "The earth, the globe, its inhabitants, a particular land",
+    "num": 8398
   },
   {
     "word": "is Mine,",
@@ -53,7 +59,8 @@
     "translit": "(lî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "and the fullness thereof.",
@@ -61,6 +68,7 @@
     "translit": "(ū·mə·lō·’āh)",
     "parse": "Conjunctive waw | Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 4393:  ",
-    "str2": "Fullness, that which fills"
+    "str2": "Fullness, that which fills",
+    "num": 4393
   }
 ]

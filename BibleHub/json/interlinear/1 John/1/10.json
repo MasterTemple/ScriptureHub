@@ -5,7 +5,8 @@
     "translit": "(ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "we say",
@@ -13,7 +14,8 @@
     "translit": "(eipōmen)",
     "parse": "Verb - Aorist Subjunctive Active - 1st Person Plural",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "we have not sinned,",
@@ -21,7 +23,8 @@
     "translit": "(hēmartēkamen)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Plural",
     "str": "Strong's 264:  ",
-    "str2": "Perhaps from a and the base of meros; properly, to miss the mark, i.e. to err, especially to sin."
+    "str2": "Perhaps from a and the base of meros; properly, to miss the mark, i.e. to err, especially to sin.",
+    "num": 264
   },
   {
     "word": "we make Him out to be",
@@ -29,7 +32,8 @@
     "translit": "(poioumen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "a liar,",
@@ -37,7 +41,8 @@
     "translit": "(pseustēn)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 5583:  ",
-    "str2": "A liar, deceiver. From pseudomai; a falsifier."
+    "str2": "A liar, deceiver. From pseudomai; a falsifier.",
+    "num": 5583
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "His",
@@ -53,7 +59,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "word",
@@ -61,7 +68,8 @@
     "translit": "(logos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "is",
@@ -69,7 +77,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "not",
@@ -77,7 +86,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "in",
@@ -85,7 +95,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "us.",
@@ -93,6 +104,7 @@
     "translit": "(hēmin)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   }
 ]

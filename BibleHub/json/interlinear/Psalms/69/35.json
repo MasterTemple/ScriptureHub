@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "God",
@@ -13,7 +14,8 @@
     "translit": "(’ĕ·lō·hîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "will save",
@@ -21,7 +23,8 @@
     "translit": "(yō·wō·šî·a‘)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular",
     "str": "Strong's 3467:  ",
-    "str2": "To be open, wide, free, to be safe, to free, succor"
+    "str2": "To be open, wide, free, to be safe, to free, succor",
+    "num": 3467
   },
   {
     "word": "Zion",
@@ -29,7 +32,8 @@
     "translit": "(ṣî·yō·wn)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 6726:  ",
-    "str2": "Zion -- a mountain in Jerusalem, also a name for Jerusalem"
+    "str2": "Zion -- a mountain in Jerusalem, also a name for Jerusalem",
+    "num": 6726
   },
   {
     "word": "and rebuild",
@@ -37,7 +41,8 @@
     "translit": "(wə·yiḇ·neh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect - third person masculine singular",
     "str": "Strong's 1129:  ",
-    "str2": "To build"
+    "str2": "To build",
+    "num": 1129
   },
   {
     "word": "the cities",
@@ -45,7 +50,8 @@
     "translit": "(‘ā·rê)",
     "parse": "Noun - feminine plural construct",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "of Judah,",
@@ -53,7 +59,8 @@
     "translit": "(yə·hū·ḏāh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3063:  ",
-    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites"
+    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites",
+    "num": 3063
   },
   {
     "word": "that they may dwell",
@@ -61,7 +68,8 @@
     "translit": "(wə·yā·šə·ḇū)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person common plural",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "there",
@@ -69,7 +77,8 @@
     "translit": "(m)",
     "parse": "Adverb",
     "str": "Strong's 8033:  ",
-    "str2": "There, then, thither"
+    "str2": "There, then, thither",
+    "num": 8033
   },
   {
     "word": "and possess it.",
@@ -77,6 +86,7 @@
     "translit": "(wî·rê·šū·hā)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person common plural | third person feminine singular",
     "str": "Strong's 3423:  ",
-    "str2": "To occupy, to seize, to rob, to inherit, to expel, to impoverish, to ruin"
+    "str2": "To occupy, to seize, to rob, to inherit, to expel, to impoverish, to ruin",
+    "num": 3423
   }
 ]

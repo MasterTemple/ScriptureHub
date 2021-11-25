@@ -5,7 +5,8 @@
     "translit": "(’aḵ-)",
     "parse": "Adverb",
     "str": "Strong's 389:  ",
-    "str2": "A particle of affirmation, surely"
+    "str2": "A particle of affirmation, surely",
+    "num": 389
   },
   {
     "word": "on this condition",
@@ -13,7 +14,8 @@
     "translit": "(bə·zōṯ)",
     "parse": "Preposition-b | Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "{will} the men",
@@ -21,7 +23,8 @@
     "translit": "(hā·’ă·nā·šîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "agree",
@@ -29,7 +32,8 @@
     "translit": "(yê·’ō·ṯū)",
     "parse": "Verb - Nifal - Imperfect - third person masculine plural",
     "str": "Strong's 225:  ",
-    "str2": "To come, to assent"
+    "str2": "To come, to assent",
+    "num": 225
   },
   {
     "word": "to dwell",
@@ -37,7 +41,8 @@
     "translit": "(lā·še·ḇeṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "with us",
@@ -45,7 +50,8 @@
     "translit": "(’it·tā·nū)",
     "parse": "Preposition | first person common plural",
     "str": "Strong's 854:  ",
-    "str2": "Nearness, near, with, by, at, among"
+    "str2": "Nearness, near, with, by, at, among",
+    "num": 854
   },
   {
     "word": "and be",
@@ -53,7 +59,8 @@
     "translit": "(lih·yō·wṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "one",
@@ -61,7 +68,8 @@
     "translit": "(’e·ḥāḏ)",
     "parse": "Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "people:",
@@ -69,7 +77,8 @@
     "translit": "(lə·‘am)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "if all",
@@ -77,7 +86,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "our men",
@@ -85,7 +95,8 @@
     "translit": "(zā·ḵār)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2145:  ",
-    "str2": "Remembered, a male"
+    "str2": "Remembered, a male",
+    "num": 2145
   },
   {
     "word": "are circumcised",
@@ -93,7 +104,8 @@
     "translit": "(bə·him·mō·wl)",
     "parse": "Preposition-b | Verb - Nifal - Infinitive construct",
     "str": "Strong's 4135:  ",
-    "str2": "To cut short, curtail, to blunt, to destroy"
+    "str2": "To cut short, curtail, to blunt, to destroy",
+    "num": 4135
   },
   {
     "word": "as",
@@ -101,7 +113,8 @@
     "translit": "(ka·’ă·šer)",
     "parse": "Preposition-k | Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "they are.",
@@ -109,6 +122,7 @@
     "translit": "(hêm)",
     "parse": "Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "weep",
@@ -13,7 +14,8 @@
     "translit": "(tiḇ·kū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 1058:  ",
-    "str2": "To weep, to bemoan"
+    "str2": "To weep, to bemoan",
+    "num": 1058
   },
   {
     "word": "for the dead [king];",
@@ -21,7 +23,8 @@
     "translit": "(lə·mêṯ)",
     "parse": "Preposition-l | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   },
   {
     "word": "do not",
@@ -29,7 +32,8 @@
     "translit": "(wə·’al-)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "mourn his loss.",
@@ -37,7 +41,8 @@
     "translit": "(tā·nu·ḏū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 5110:  ",
-    "str2": "To nod, waver, to wander, flee, disappear, to console, deplore, taunt"
+    "str2": "To nod, waver, to wander, flee, disappear, to console, deplore, taunt",
+    "num": 5110
   },
   {
     "word": "Weep",
@@ -45,7 +50,8 @@
     "translit": "(bə·ḵū)",
     "parse": "Verb - Qal - Imperative - masculine plural",
     "str": "Strong's 1058:  ",
-    "str2": "To weep, to bemoan"
+    "str2": "To weep, to bemoan",
+    "num": 1058
   },
   {
     "word": "bitterly",
@@ -53,7 +59,8 @@
     "translit": "(ḇā·ḵōw)",
     "parse": "Verb - Qal - Infinitive absolute",
     "str": "Strong's 1058:  ",
-    "str2": "To weep, to bemoan"
+    "str2": "To weep, to bemoan",
+    "num": 1058
   },
   {
     "word": "for the one who is exiled,",
@@ -61,7 +68,8 @@
     "translit": "(la·hō·lêḵ)",
     "parse": "Preposition-l, Article | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "for",
@@ -69,7 +77,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "he will never",
@@ -77,7 +86,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "return",
@@ -85,7 +95,8 @@
     "translit": "(yā·šūḇ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "to see",
@@ -93,7 +104,8 @@
     "translit": "(wə·rā·’āh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "his native",
@@ -101,7 +113,8 @@
     "translit": "(mō·w·laḏ·tōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 4138:  ",
-    "str2": "Nativity, lineage, native country, offspring, family"
+    "str2": "Nativity, lineage, native country, offspring, family",
+    "num": 4138
   },
   {
     "word": "land.",
@@ -109,6 +122,7 @@
     "translit": "(’e·reṣ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   }
 ]

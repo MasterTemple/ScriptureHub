@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Pharisees",
@@ -21,7 +23,8 @@
     "translit": "(Pharisaioi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 5330:  ",
-    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary."
+    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary.",
+    "num": 5330
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "scribes",
@@ -37,7 +41,8 @@
     "translit": "(grammateis)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 1122:  ",
-    "str2": "From gramma. A writer, i.e. scribe or secretary."
+    "str2": "From gramma. A writer, i.e. scribe or secretary.",
+    "num": 1122
   },
   {
     "word": "began to grumble:",
@@ -45,7 +50,8 @@
     "translit": "(diegongyzon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 1234:  ",
-    "str2": "To murmur greatly, continue murmuring. From dia and gogguzo; to complain throughout a crowd."
+    "str2": "To murmur greatly, continue murmuring. From dia and gogguzo; to complain throughout a crowd.",
+    "num": 1234
   },
   {
     "word": "“This [man]",
@@ -53,7 +59,8 @@
     "translit": "(Houtos)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "welcomes",
@@ -61,7 +68,8 @@
     "translit": "(prosdechetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 4327:  ",
-    "str2": "From pros and dechomai; to admit (figuratively) endurance); by implication, to await."
+    "str2": "From pros and dechomai; to admit (figuratively) endurance); by implication, to await.",
+    "num": 4327
   },
   {
     "word": "sinners",
@@ -69,7 +77,8 @@
     "translit": "(hamartōlous)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 268:  ",
-    "str2": "Sinning, sinful, depraved, detestable. From hamartano; sinful, i.e. A sinner."
+    "str2": "Sinning, sinful, depraved, detestable. From hamartano; sinful, i.e. A sinner.",
+    "num": 268
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "eats with",
@@ -85,7 +95,8 @@
     "translit": "(synesthiei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 4906:  ",
-    "str2": "To eat with. From sun and esthio; to take food in company with."
+    "str2": "To eat with. From sun and esthio; to take food in company with.",
+    "num": 4906
   },
   {
     "word": "them.”",
@@ -93,6 +104,7 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

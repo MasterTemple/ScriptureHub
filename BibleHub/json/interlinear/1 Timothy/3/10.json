@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they",
@@ -13,7 +14,8 @@
     "translit": "(houtoi)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "must first be tested.",
@@ -21,7 +23,8 @@
     "translit": "(dokimazesthōsan)",
     "parse": "Verb - Present Imperative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 1381:  ",
-    "str2": "From dokimos; to test; by implication, to approve."
+    "str2": "From dokimos; to test; by implication, to approve.",
+    "num": 1381
   },
   {
     "word": "Then,",
@@ -29,7 +32,8 @@
     "translit": "(eita)",
     "parse": "Adverb",
     "str": "Strong's 1534:  ",
-    "str2": "A particle of succession, then, moreover."
+    "str2": "A particle of succession, then, moreover.",
+    "num": 1534
   },
   {
     "word": "if they are",
@@ -37,7 +41,8 @@
     "translit": "(ontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "above reproach,",
@@ -45,7 +50,8 @@
     "translit": "(anenklētoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 410:  ",
-    "str2": "Irreproachable, blameless. Unaccused, i.e. irreproachable."
+    "str2": "Irreproachable, blameless. Unaccused, i.e. irreproachable.",
+    "num": 410
   },
   {
     "word": "let them serve as deacons.",
@@ -53,6 +59,7 @@
     "translit": "(diakoneitōsan)",
     "parse": "Verb - Present Imperative Active - 3rd Person Plural",
     "str": "Strong's 1247:  ",
-    "str2": "From diakonos; to be an attendant, i.e. Wait upon (figuratively) teacher; technically, to act as a Christian deacon."
+    "str2": "From diakonos; to be an attendant, i.e. Wait upon (figuratively) teacher; technically, to act as a Christian deacon.",
+    "num": 1247
   }
 ]

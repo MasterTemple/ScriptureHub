@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "crowds",
@@ -21,7 +23,8 @@
     "translit": "(ochloi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3793:  ",
-    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot."
+    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot.",
+    "num": 3793
   },
   {
     "word": "heard [this],",
@@ -29,7 +32,8 @@
     "translit": "(akousantes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "they were astonished",
@@ -37,7 +41,8 @@
     "translit": "(exeplēssonto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 1605:  ",
-    "str2": "To strike with panic or shock; I amaze, astonish. From ek and plesso; to strike with astonishment."
+    "str2": "To strike with panic or shock; I amaze, astonish. From ek and plesso; to strike with astonishment.",
+    "num": 1605
   },
   {
     "word": "at",
@@ -45,7 +50,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "His",
@@ -53,7 +59,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "teaching.",
@@ -61,6 +68,7 @@
     "translit": "(didachē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 1322:  ",
-    "str2": "Teaching, doctrine, what is taught. From didasko; instruction."
+    "str2": "Teaching, doctrine, what is taught. From didasko; instruction.",
+    "num": 1322
   }
 ]

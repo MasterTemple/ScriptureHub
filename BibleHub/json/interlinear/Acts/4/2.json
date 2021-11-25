@@ -5,7 +5,8 @@
     "translit": "(diaponoumenoi)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Masculine Plural",
     "str": "Strong's 1278:  ",
-    "str2": "To be greatly troubled. From dia and a derivative of ponos; to toil through, i.e. be worried."
+    "str2": "To be greatly troubled. From dia and a derivative of ponos; to toil through, i.e. be worried.",
+    "num": 1278
   },
   {
     "word": "that",
@@ -13,7 +14,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "they",
@@ -21,7 +23,8 @@
     "translit": "(autous)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "were teaching",
@@ -29,7 +32,8 @@
     "translit": "(didaskein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 1321:  ",
-    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach."
+    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach.",
+    "num": 1321
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "people",
@@ -45,7 +50,8 @@
     "translit": "(laon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2992:  ",
-    "str2": "Apparently a primary word; a people."
+    "str2": "Apparently a primary word; a people.",
+    "num": 2992
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "proclaiming",
@@ -61,7 +68,8 @@
     "translit": "(katangellein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2605:  ",
-    "str2": "To declare openly, proclaim, preach, laud, celebrate. From kata and the base of aggelos; to proclaim, promulgate."
+    "str2": "To declare openly, proclaim, preach, laud, celebrate. From kata and the base of aggelos; to proclaim, promulgate.",
+    "num": 2605
   },
   {
     "word": "in",
@@ -69,7 +77,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "Jesus",
@@ -77,7 +86,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "the",
@@ -85,7 +95,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "resurrection",
@@ -93,7 +104,8 @@
     "translit": "(anastasin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 386:  ",
-    "str2": "A rising again, resurrection. From anistemi; a standing up again, i.e. a resurrection from death (its author), or a recovery."
+    "str2": "A rising again, resurrection. From anistemi; a standing up again, i.e. a resurrection from death (its author), or a recovery.",
+    "num": 386
   },
   {
     "word": "of",
@@ -101,7 +113,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "[the] dead.",
@@ -109,6 +122,7 @@
     "translit": "(nekrōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 3498:  ",
-    "str2": "(a) adj: dead, lifeless, subject to death, mortal, (b) noun: a dead body, a corpse. From an apparently primary nekus; dead."
+    "str2": "(a) adj: dead, lifeless, subject to death, mortal, (b) noun: a dead body, a corpse. From an apparently primary nekus; dead.",
+    "num": 3498
   }
 ]

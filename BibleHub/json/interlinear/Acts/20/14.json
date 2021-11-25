@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "when",
@@ -13,7 +14,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "he met",
@@ -21,7 +23,8 @@
     "translit": "(syneballen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 4820:  ",
-    "str2": "From sun and ballo; to combine, i.e. to converse, consult, dispute, to consider, to aid, to join, attack."
+    "str2": "From sun and ballo; to combine, i.e. to converse, consult, dispute, to consider, to aid, to join, attack.",
+    "num": 4820
   },
   {
     "word": "us",
@@ -29,7 +32,8 @@
     "translit": "(hēmin)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "at",
@@ -37,7 +41,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "Assos,",
@@ -45,7 +50,8 @@
     "translit": "(Asson)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 789:  ",
-    "str2": "Assos, a port of Mysia, in the Roman province Asia. Probably of foreign origin; Assus, a city of Asia minor."
+    "str2": "Assos, a port of Mysia, in the Roman province Asia. Probably of foreign origin; Assus, a city of Asia minor.",
+    "num": 789
   },
   {
     "word": "we took him aboard",
@@ -53,7 +59,8 @@
     "translit": "(analabontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 353:  ",
-    "str2": "To take up, raise; I pick up, take on board; I carry off, lead away. From ana and lambano; to take up."
+    "str2": "To take up, raise; I pick up, take on board; I carry off, lead away. From ana and lambano; to take up.",
+    "num": 353
   },
   {
     "word": "[and] went on",
@@ -61,7 +68,8 @@
     "translit": "(ēlthomen)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Plural",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "to",
@@ -69,7 +77,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "Mitylene.",
@@ -77,6 +86,7 @@
     "translit": "(Mitylēnēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3412:  ",
-    "str2": "For mutilene; Mitylene, a town on the island of Lesbos."
+    "str2": "For mutilene; Mitylene, a town on the island of Lesbos.",
+    "num": 3412
   }
 ]

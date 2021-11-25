@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "one",
@@ -21,7 +23,8 @@
     "translit": "(hā·’e·ḥāḏ)",
     "parse": "Article | Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "falls down,",
@@ -29,7 +32,8 @@
     "translit": "(yip·pō·lū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 5307:  ",
-    "str2": "To fall, lie"
+    "str2": "To fall, lie",
+    "num": 5307
   },
   {
     "word": "his companion",
@@ -37,7 +41,8 @@
     "translit": "(ḥă·ḇê·rōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 2270:  ",
-    "str2": "United, associate, companion"
+    "str2": "United, associate, companion",
+    "num": 2270
   },
   {
     "word": "can lift him up;",
@@ -45,7 +50,8 @@
     "translit": "(yā·qîm)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular",
     "str": "Strong's 6965:  ",
-    "str2": "To arise, stand up, stand"
+    "str2": "To arise, stand up, stand",
+    "num": 6965
   },
   {
     "word": "but pity",
@@ -53,7 +59,8 @@
     "translit": "(wə·’î·lōw)",
     "parse": "Conjunctive waw, Pi | Interjection | third person masculine singular",
     "str": "Strong's 337:  ",
-    "str2": "Alas!"
+    "str2": "Alas!",
+    "num": 337
   },
   {
     "word": "the one",
@@ -61,7 +68,8 @@
     "translit": "(hā·’e·ḥāḏ)",
     "parse": "Article | Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "who falls",
@@ -69,7 +77,8 @@
     "translit": "(še·yip·pō·wl)",
     "parse": "Pronoun - relative | Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5307:  ",
-    "str2": "To fall, lie"
+    "str2": "To fall, lie",
+    "num": 5307
   },
   {
     "word": "without",
@@ -77,7 +86,8 @@
     "translit": "(wə·’ên)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "another",
@@ -85,7 +95,8 @@
     "translit": "(šê·nî)",
     "parse": "Number - ordinal masculine singular",
     "str": "Strong's 8145:  ",
-    "str2": "Second (an ordinal number)"
+    "str2": "Second (an ordinal number)",
+    "num": 8145
   },
   {
     "word": "to help him up!",
@@ -93,6 +104,7 @@
     "translit": "(la·hă·qî·mōw)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct | third person masculine singular",
     "str": "Strong's 6965:  ",
-    "str2": "To arise, stand up, stand"
+    "str2": "To arise, stand up, stand",
+    "num": 6965
   }
 ]

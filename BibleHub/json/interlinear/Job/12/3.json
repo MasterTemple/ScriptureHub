@@ -5,7 +5,8 @@
     "translit": "(gam-)",
     "parse": "Conjunction",
     "str": "Strong's 1571:  ",
-    "str2": "Assemblage, also, even, yea, though, both, and"
+    "str2": "Assemblage, also, even, yea, though, both, and",
+    "num": 1571
   },
   {
     "word": "have a mind;",
@@ -13,7 +14,8 @@
     "translit": "(lê·ḇāḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3824:  ",
-    "str2": "Inner man, mind, will, heart"
+    "str2": "Inner man, mind, will, heart",
+    "num": 3824
   },
   {
     "word": "I",
@@ -21,7 +23,8 @@
     "translit": "(’ā·nō·ḵî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "am not",
@@ -29,7 +32,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "inferior",
@@ -37,7 +41,8 @@
     "translit": "(nō·p̄êl)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 5307:  ",
-    "str2": "To fall, lie"
+    "str2": "To fall, lie",
+    "num": 5307
   },
   {
     "word": "to you.",
@@ -45,7 +50,8 @@
     "translit": "(mik·kem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "Who",
@@ -53,7 +59,8 @@
     "translit": "(mî-)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "does not [know]",
@@ -61,7 +68,8 @@
     "translit": "(’ên)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "such things",
@@ -69,7 +77,8 @@
     "translit": "(kə·mōw-)",
     "parse": "Preposition",
     "str": "Strong's 3644:  ",
-    "str2": "Like, as, when"
+    "str2": "Like, as, when",
+    "num": 3644
   },
   {
     "word": "as these?",
@@ -77,6 +86,7 @@
     "translit": "(’êl·leh)",
     "parse": "Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[Jesus’]",
@@ -13,7 +14,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "mother",
@@ -21,7 +23,8 @@
     "translit": "(mētēr)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3384:  ",
-    "str2": "A mother. Apparently a primary word; a 'mother'."
+    "str2": "A mother. Apparently a primary word; a 'mother'.",
+    "num": 3384
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "brothers",
@@ -37,7 +41,8 @@
     "translit": "(adelphoi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "came",
@@ -45,7 +50,8 @@
     "translit": "(Paregeneto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 3854:  ",
-    "str2": "From para and ginomai; to become near, i.e. Approach; by implication, to appear publicly."
+    "str2": "From para and ginomai; to become near, i.e. Approach; by implication, to appear publicly.",
+    "num": 3854
   },
   {
     "word": "to [see]",
@@ -53,7 +59,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "Him,",
@@ -61,7 +68,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "but",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they were unable",
@@ -77,7 +86,8 @@
     "translit": "(ēdynanto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 1410:  ",
-    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible."
+    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible.",
+    "num": 1410
   },
   {
     "word": "to reach",
@@ -85,7 +95,8 @@
     "translit": "(syntychein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 4940:  ",
-    "str2": "To meet with, come to, fall in with. From sun and tugchano; to chance together, i.e. Meet with."
+    "str2": "To meet with, come to, fall in with. From sun and tugchano; to chance together, i.e. Meet with.",
+    "num": 4940
   },
   {
     "word": "Him",
@@ -93,7 +104,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "because of",
@@ -101,7 +113,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "the",
@@ -109,7 +122,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "crowd.",
@@ -117,6 +131,7 @@
     "translit": "(ochlon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3793:  ",
-    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot."
+    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot.",
+    "num": 3793
   }
 ]

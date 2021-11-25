@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you turn to the right",
@@ -13,7 +14,8 @@
     "translit": "(ṯa·’ă·mî·nū)",
     "parse": "Verb - Hifil - Imperfect - second person masculine plural",
     "str": "Strong's 541:  ",
-    "str2": "To take the right hand road"
+    "str2": "To take the right hand road",
+    "num": 541
   },
   {
     "word": "or to the left,",
@@ -21,7 +23,8 @@
     "translit": "(ṯaś·mə·’î·lū)",
     "parse": "Verb - Hifil - Imperfect - second person masculine plural",
     "str": "Strong's 8041:  ",
-    "str2": "To use the left hand, pass in that direction)"
+    "str2": "To use the left hand, pass in that direction)",
+    "num": 8041
   },
   {
     "word": "your ears",
@@ -29,7 +32,8 @@
     "translit": "(wə·’ā·zə·ne·ḵā)",
     "parse": "Conjunctive waw | Noun - fdc | second person masculine singular",
     "str": "Strong's 241:  ",
-    "str2": "Broadness, the ear"
+    "str2": "Broadness, the ear",
+    "num": 241
   },
   {
     "word": "will hear",
@@ -37,7 +41,8 @@
     "translit": "(tiš·ma‘·nāh)",
     "parse": "Verb - Qal - Imperfect - third person feminine plural",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "this command",
@@ -45,7 +50,8 @@
     "translit": "(ḏā·ḇār)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "behind you:",
@@ -53,7 +59,8 @@
     "translit": "(mê·’a·ḥă·re·ḵā)",
     "parse": "Preposition-m | second person masculine singular",
     "str": "Strong's 310:  ",
-    "str2": "The hind or following part"
+    "str2": "The hind or following part",
+    "num": 310
   },
   {
     "word": "“This",
@@ -61,7 +68,8 @@
     "translit": "(zeh)",
     "parse": "Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "is the way.",
@@ -69,7 +77,8 @@
     "translit": "(had·de·reḵ)",
     "parse": "Article | Noun - common singular",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   },
   {
     "word": "Walk in it.”",
@@ -77,6 +86,7 @@
     "translit": "(lə·ḵū)",
     "parse": "Verb - Qal - Imperative - masculine plural",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   }
 ]

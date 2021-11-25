@@ -5,7 +5,8 @@
     "translit": "(’a·ḥaṯ)",
     "parse": "Number - feminine singular construct",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "law",
@@ -13,7 +14,8 @@
     "translit": "(tō·w·rāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 8451:  ",
-    "str2": "Direction, instruction, law"
+    "str2": "Direction, instruction, law",
+    "num": 8451
   },
   {
     "word": "and the same",
@@ -21,7 +23,8 @@
     "translit": "(’e·ḥāḏ)",
     "parse": "Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "ordinance",
@@ -29,7 +32,8 @@
     "translit": "(ū·miš·pāṭ)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 4941:  ",
-    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style"
+    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style",
+    "num": 4941
   },
   {
     "word": "will apply",
@@ -37,7 +41,8 @@
     "translit": "(yih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "both to you",
@@ -45,7 +50,8 @@
     "translit": "(lā·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "and the foreigner",
@@ -53,7 +59,8 @@
     "translit": "(wə·lag·gêr)",
     "parse": "Conjunctive waw, Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 1616:  ",
-    "str2": "A guest, a foreigner"
+    "str2": "A guest, a foreigner",
+    "num": 1616
   },
   {
     "word": "residing",
@@ -61,7 +68,8 @@
     "translit": "(hag·gār)",
     "parse": "Article | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 1481:  ",
-    "str2": "To turn aside from the road, sojourn, to shrink, fear, to gather for, hostility"
+    "str2": "To turn aside from the road, sojourn, to shrink, fear, to gather for, hostility",
+    "num": 1481
   },
   {
     "word": "with you.”",
@@ -69,6 +77,7 @@
     "translit": "(’it·tə·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's 854:  ",
-    "str2": "Nearness, near, with, by, at, among"
+    "str2": "Nearness, near, with, by, at, among",
+    "num": 854
   }
 ]

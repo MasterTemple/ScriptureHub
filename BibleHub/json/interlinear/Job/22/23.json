@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you return",
@@ -13,7 +14,8 @@
     "translit": "(tā·šūḇ)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(‘a·ḏō·ša-)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "the Almighty,",
@@ -29,7 +32,8 @@
     "translit": "(day)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 7706:  ",
-    "str2": "The Almighty"
+    "str2": "The Almighty",
+    "num": 7706
   },
   {
     "word": "you will be restored.",
@@ -37,7 +41,8 @@
     "translit": "(tib·bā·neh)",
     "parse": "Verb - Nifal - Imperfect - second person masculine singular",
     "str": "Strong's 1129:  ",
-    "str2": "To build"
+    "str2": "To build",
+    "num": 1129
   },
   {
     "word": "If you remove",
@@ -45,7 +50,8 @@
     "translit": "(tar·ḥîq)",
     "parse": "Verb - Hifil - Imperfect - second person masculine singular",
     "str": "Strong's 7368:  ",
-    "str2": "To be or become far or distant"
+    "str2": "To be or become far or distant",
+    "num": 7368
   },
   {
     "word": "injustice",
@@ -53,7 +59,8 @@
     "translit": "(‘aw·lāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 5766:  ",
-    "str2": "Injustice, unrighteousness"
+    "str2": "Injustice, unrighteousness",
+    "num": 5766
   },
   {
     "word": "from your tents",
@@ -61,6 +68,7 @@
     "translit": "(mê·’ā·ho·le·ḵā)",
     "parse": "Preposition-m | Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 168:  ",
-    "str2": "A tent"
+    "str2": "A tent",
+    "num": 168
   }
 ]

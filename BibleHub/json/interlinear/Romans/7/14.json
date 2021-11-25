@@ -5,7 +5,8 @@
     "translit": "(Oidamen)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Plural",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "that",
@@ -13,7 +14,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "[the] Law",
@@ -21,7 +23,8 @@
     "translit": "(nomos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3551:  ",
-    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively."
+    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively.",
+    "num": 3551
   },
   {
     "word": "is",
@@ -29,7 +32,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "spiritual;",
@@ -37,7 +41,8 @@
     "translit": "(pneumatikos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 4152:  ",
-    "str2": "Spiritual. From pneuma; non-carnal, i.e. ethereal, or a spirit, or supernatural, regenerate, religious."
+    "str2": "Spiritual. From pneuma; non-carnal, i.e. ethereal, or a spirit, or supernatural, regenerate, religious.",
+    "num": 4152
   },
   {
     "word": "but",
@@ -45,7 +50,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "I",
@@ -53,7 +59,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "am",
@@ -61,7 +68,8 @@
     "translit": "(eimi)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "unspiritual,",
@@ -69,7 +77,8 @@
     "translit": "(sarkinos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 4560:  ",
-    "str2": "Fleshly, consisting of flesh, carnal. From sarx; similar to flesh, i.e. soft."
+    "str2": "Fleshly, consisting of flesh, carnal. From sarx; similar to flesh, i.e. soft.",
+    "num": 4560
   },
   {
     "word": "sold as a slave",
@@ -77,7 +86,8 @@
     "translit": "(pepramenos)",
     "parse": "Verb - Perfect Participle Middle or Passive - Nominative Masculine Singular",
     "str": "Strong's 4097:  ",
-    "str2": "A reduplicated and prolonged form of prao; contracted from perao; to traffic, i.e. Dispose of as merchandise or into slavery."
+    "str2": "A reduplicated and prolonged form of prao; contracted from perao; to traffic, i.e. Dispose of as merchandise or into slavery.",
+    "num": 4097
   },
   {
     "word": "to",
@@ -85,7 +95,8 @@
     "translit": "(hypo)",
     "parse": "Preposition",
     "str": "Strong's 5259:  ",
-    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when)."
+    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when).",
+    "num": 5259
   },
   {
     "word": "sin.",
@@ -93,6 +104,7 @@
     "translit": "(hamartian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 266:  ",
-    "str2": "From hamartano; a sin."
+    "str2": "From hamartano; a sin.",
+    "num": 266
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "move",
@@ -13,7 +14,8 @@
     "translit": "(tas·sêḡ)",
     "parse": "Verb - Hifil - Imperfect Jussive - second person masculine singular",
     "str": "Strong's 5253:  ",
-    "str2": "Departing away, remove, take hold, turn away "
+    "str2": "Departing away, remove, take hold, turn away ",
+    "num": 5253
   },
   {
     "word": "an ancient",
@@ -21,7 +23,8 @@
     "translit": "(‘ō·w·lām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5769:  ",
-    "str2": "Concealed, eternity, frequentatively, always"
+    "str2": "Concealed, eternity, frequentatively, always",
+    "num": 5769
   },
   {
     "word": "boundary stone",
@@ -29,7 +32,8 @@
     "translit": "(gə·ḇūl)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1366:  ",
-    "str2": "A cord, a boundary, the territory inclosed"
+    "str2": "A cord, a boundary, the territory inclosed",
+    "num": 1366
   },
   {
     "word": "which",
@@ -37,7 +41,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "your fathers",
@@ -45,7 +50,8 @@
     "translit": "(’ă·ḇō·w·ṯe·ḵā)",
     "parse": "Noun - masculine plural construct | second person masculine singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "have set.",
@@ -53,6 +59,7 @@
     "translit": "(‘ā·śū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   }
 ]

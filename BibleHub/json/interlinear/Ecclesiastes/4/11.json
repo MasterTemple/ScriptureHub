@@ -5,7 +5,8 @@
     "translit": "(gam)",
     "parse": "Conjunction",
     "str": "Strong's 1571:  ",
-    "str2": "Assemblage, also, even, yea, though, both, and"
+    "str2": "Assemblage, also, even, yea, though, both, and",
+    "num": 1571
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "two",
@@ -21,7 +23,8 @@
     "translit": "(šə·na·yim)",
     "parse": "Number - md",
     "str": "Strong's 8147:  ",
-    "str2": "Two (a cardinal number)"
+    "str2": "Two (a cardinal number)",
+    "num": 8147
   },
   {
     "word": "lie down together,",
@@ -29,7 +32,8 @@
     "translit": "(yiš·kə·ḇū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 7901:  ",
-    "str2": "To lie down"
+    "str2": "To lie down",
+    "num": 7901
   },
   {
     "word": "they will keep warm;",
@@ -37,7 +41,8 @@
     "translit": "(wə·ḥam)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 2552:  ",
-    "str2": "To be or become warm"
+    "str2": "To be or become warm",
+    "num": 2552
   },
   {
     "word": "but how",
@@ -45,7 +50,8 @@
     "translit": "(’êḵ)",
     "parse": "Interjection",
     "str": "Strong's 349:  ",
-    "str2": "How?, how!, where"
+    "str2": "How?, how!, where",
+    "num": 349
   },
   {
     "word": "can one",
@@ -53,7 +59,8 @@
     "translit": "(ū·lə·’e·ḥāḏ)",
     "parse": "Conjunctive waw, Preposition-l | Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "keep warm {alone}?",
@@ -61,6 +68,7 @@
     "translit": "(yê·ḥām)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 3179:  ",
-    "str2": "To be hot, to conceive"
+    "str2": "To be hot, to conceive",
+    "num": 3179
   }
 ]

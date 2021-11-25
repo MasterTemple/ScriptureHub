@@ -5,7 +5,8 @@
     "translit": "(Hymeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "have sent",
@@ -13,7 +14,8 @@
     "translit": "(apestalkate)",
     "parse": "Verb - Perfect Indicative Active - 2nd Person Plural",
     "str": "Strong's 649:  ",
-    "str2": "From apo and stello; set apart, i.e. to send out literally or figuratively."
+    "str2": "From apo and stello; set apart, i.e. to send out literally or figuratively.",
+    "num": 649
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "John",
@@ -29,7 +32,8 @@
     "translit": "(Iōannēn)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2491:  ",
-    "str2": "Of Hebrew origin; Joannes, the name of four Israelites."
+    "str2": "Of Hebrew origin; Joannes, the name of four Israelites.",
+    "num": 2491
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he has testified",
@@ -45,7 +50,8 @@
     "translit": "(memartyrēken)",
     "parse": "Verb - Perfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 3140:  ",
-    "str2": "To witness, bear witness, give evidence, testify, give a good report. From martus; to be a witness, i.e. Testify."
+    "str2": "To witness, bear witness, give evidence, testify, give a good report. From martus; to be a witness, i.e. Testify.",
+    "num": 3140
   },
   {
     "word": "to the",
@@ -53,7 +59,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "truth.",
@@ -61,6 +68,7 @@
     "translit": "(alētheia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 225:  ",
-    "str2": "From alethes; truth."
+    "str2": "From alethes; truth.",
+    "num": 225
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "do you know",
@@ -13,7 +14,8 @@
     "translit": "(yā·ḏa‘·tā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "that we do not?",
@@ -21,7 +23,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "What do you understand",
@@ -29,7 +32,8 @@
     "translit": "(tā·ḇîn)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 995:  ",
-    "str2": "To separate mentally, understand"
+    "str2": "To separate mentally, understand",
+    "num": 995
   },
   {
     "word": "that is not",
@@ -37,7 +41,8 @@
     "translit": "(wə·lō-)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "clear to us?",
@@ -45,6 +50,7 @@
     "translit": "(‘im·mā·nū)",
     "parse": "Preposition | first person common plural",
     "str": "Strong's 5973:  ",
-    "str2": "With, equally with"
+    "str2": "With, equally with",
+    "num": 5973
   }
 ]

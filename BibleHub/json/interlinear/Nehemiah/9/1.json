@@ -5,7 +5,8 @@
     "translit": "(‘eś·rîm)",
     "parse": "Number - common plural",
     "str": "Strong's 6242:  ",
-    "str2": "Twenty, twentieth"
+    "str2": "Twenty, twentieth",
+    "num": 6242
   },
   {
     "word": "day",
@@ -13,7 +14,8 @@
     "translit": "(ū·ḇə·yō·wm)",
     "parse": "Conjunctive waw, Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "of the same",
@@ -21,7 +23,8 @@
     "translit": "(haz·zeh)",
     "parse": "Article | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "month,",
@@ -29,7 +32,8 @@
     "translit": "(la·ḥō·ḏeš)",
     "parse": "Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 2320:  ",
-    "str2": "The new moon, a month"
+    "str2": "The new moon, a month",
+    "num": 2320
   },
   {
     "word": "the Israelites",
@@ -37,7 +41,8 @@
     "translit": "(ḇə·nê-)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "gathered together,",
@@ -45,7 +50,8 @@
     "translit": "(ne·’es·p̄ū)",
     "parse": "Verb - Nifal - Perfect - third person common plural",
     "str": "Strong's 622:  ",
-    "str2": "To gather for, any purpose, to receive, take away, remove"
+    "str2": "To gather for, any purpose, to receive, take away, remove",
+    "num": 622
   },
   {
     "word": "fasting",
@@ -53,7 +59,8 @@
     "translit": "(bə·ṣō·wm)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 6685:  ",
-    "str2": "Fasting, a fast"
+    "str2": "Fasting, a fast",
+    "num": 6685
   },
   {
     "word": "and wearing sackcloth,",
@@ -61,7 +68,8 @@
     "translit": "(ū·ḇə·śaq·qîm)",
     "parse": "Conjunctive waw, Preposition-b | Noun - masculine plural",
     "str": "Strong's 8242:  ",
-    "str2": "A mesh, coarse loose cloth, sacking, a bag"
+    "str2": "A mesh, coarse loose cloth, sacking, a bag",
+    "num": 8242
   },
   {
     "word": "with dust",
@@ -69,7 +77,8 @@
     "translit": "(wa·’ă·ḏā·māh)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 127:  ",
-    "str2": "Ground, land"
+    "str2": "Ground, land",
+    "num": 127
   },
   {
     "word": "on their heads.",
@@ -77,6 +86,7 @@
     "translit": "(‘ă·lê·hem)",
     "parse": "Preposition | third person masculine plural",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   }
 ]

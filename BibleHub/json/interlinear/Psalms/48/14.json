@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "this",
@@ -13,7 +14,8 @@
     "translit": "(zeh)",
     "parse": "Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "God",
@@ -21,7 +23,8 @@
     "translit": "(’ĕ·lō·hîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "[is] our God",
@@ -29,7 +32,8 @@
     "translit": "(’ĕ·lō·hê·nū)",
     "parse": "Noun - masculine plural construct | first person common plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "forever",
@@ -37,7 +41,8 @@
     "translit": "(‘ō·w·lām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5769:  ",
-    "str2": "Concealed, eternity, frequentatively, always"
+    "str2": "Concealed, eternity, frequentatively, always",
+    "num": 5769
   },
   {
     "word": "and ever;",
@@ -45,7 +50,8 @@
     "translit": "(wā·‘eḏ)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 5703:  ",
-    "str2": "A, terminus, duration, advance, perpetuity"
+    "str2": "A, terminus, duration, advance, perpetuity",
+    "num": 5703
   },
   {
     "word": "He",
@@ -53,7 +59,8 @@
     "translit": "(hū)",
     "parse": "Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "will be our guide",
@@ -61,7 +68,8 @@
     "translit": "(yə·na·hă·ḡê·nū)",
     "parse": "Verb - Piel - Imperfect - third person masculine singular | first person common plural",
     "str": "Strong's 5090:  ",
-    "str2": "To drive forth, lead, carry away, to proceed, to sigh"
+    "str2": "To drive forth, lead, carry away, to proceed, to sigh",
+    "num": 5090
   },
   {
     "word": "even until",
@@ -69,7 +77,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "death.",
@@ -77,6 +86,7 @@
     "translit": "(mūṯ)",
     "parse": "Verb - Qal - Infinitive construct",
     "str": "Strong's 4192:  ",
-    "str2": "to die for the son', probably a song title"
+    "str2": "to die for the son', probably a song title",
+    "num": 4192
   }
 ]

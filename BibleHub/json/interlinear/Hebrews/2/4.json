@@ -5,7 +5,8 @@
     "translit": "(synepimartyrountos)",
     "parse": "Verb - Present Participle Active - Genitive Masculine Singular",
     "str": "Strong's 4901:  ",
-    "str2": "To unite in bearing witness, sanction. From sun and epimartureo; to testify further jointly, i.e. Unite in adding evidence."
+    "str2": "To unite in bearing witness, sanction. From sun and epimartureo; to testify further jointly, i.e. Unite in adding evidence.",
+    "num": 4901
   },
   {
     "word": "by God",
@@ -13,7 +14,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "through",
@@ -21,7 +23,8 @@
     "translit": "(te)",
     "parse": "Conjunction",
     "str": "Strong's 5037:  ",
-    "str2": "And, both. A primary particle of connection or addition; both or also."
+    "str2": "And, both. A primary particle of connection or addition; both or also.",
+    "num": 5037
   },
   {
     "word": "signs,",
@@ -29,7 +32,8 @@
     "translit": "(sēmeiois)",
     "parse": "Noun - Dative Neuter Plural",
     "str": "Strong's 4592:  ",
-    "str2": "Neuter of a presumed derivative of the base of semaino; an indication, especially ceremonially or supernaturally."
+    "str2": "Neuter of a presumed derivative of the base of semaino; an indication, especially ceremonially or supernaturally.",
+    "num": 4592
   },
   {
     "word": "wonders,",
@@ -37,7 +41,8 @@
     "translit": "(terasin)",
     "parse": "Noun - Dative Neuter Plural",
     "str": "Strong's 5059:  ",
-    "str2": "A wonder, portent, marvel. Of uncertain affinity; a prodigy or omen."
+    "str2": "A wonder, portent, marvel. Of uncertain affinity; a prodigy or omen.",
+    "num": 5059
   },
   {
     "word": "various",
@@ -45,7 +50,8 @@
     "translit": "(poikilais)",
     "parse": "Adjective - Dative Feminine Plural",
     "str": "Strong's 4164:  ",
-    "str2": "Various, of different colors, diverse, various. Of uncertain derivation; motley, i.e. Various in character."
+    "str2": "Various, of different colors, diverse, various. Of uncertain derivation; motley, i.e. Various in character.",
+    "num": 4164
   },
   {
     "word": "miracles,",
@@ -53,7 +59,8 @@
     "translit": "(dynamesin)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 1411:  ",
-    "str2": "From dunamai; force; specially, miraculous power."
+    "str2": "From dunamai; force; specially, miraculous power.",
+    "num": 1411
   },
   {
     "word": "and {gifts}",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "of [the] Holy",
@@ -69,7 +77,8 @@
     "translit": "(Hagiou)",
     "parse": "Adjective - Genitive Neuter Singular",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   },
   {
     "word": "Spirit",
@@ -77,7 +86,8 @@
     "translit": "(Pneumatos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "distributed",
@@ -85,7 +95,8 @@
     "translit": "(merismois)",
     "parse": "Noun - Dative Masculine Plural",
     "str": "Strong's 3311:  ",
-    "str2": "From merizo; a separation or distribution."
+    "str2": "From merizo; a separation or distribution.",
+    "num": 3311
   },
   {
     "word": "according to",
@@ -93,7 +104,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "His",
@@ -101,7 +113,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "will.",
@@ -109,6 +122,7 @@
     "translit": "(thelēsin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2308:  ",
-    "str2": "A willing, will. From ethelo; determination, i.e. Option."
+    "str2": "A willing, will. From ethelo; determination, i.e. Option.",
+    "num": 2308
   }
 ]

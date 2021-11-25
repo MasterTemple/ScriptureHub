@@ -5,7 +5,8 @@
     "translit": "(hên)",
     "parse": "Interjection",
     "str": "Strong's 2005:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2005
   },
   {
     "word": "the arm",
@@ -13,7 +14,8 @@
     "translit": "(yaḏ-)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "of the LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "is not",
@@ -29,7 +32,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "too short",
@@ -37,7 +41,8 @@
     "translit": "(qā·ṣə·rāh)",
     "parse": "Verb - Qal - Perfect - third person feminine singular",
     "str": "Strong's 7114:  ",
-    "str2": "To dock off, curtail, to harvest"
+    "str2": "To dock off, curtail, to harvest",
+    "num": 7114
   },
   {
     "word": "to save,",
@@ -45,7 +50,8 @@
     "translit": "(mê·hō·wō·šî·a‘)",
     "parse": "Preposition-m | Verb - Hifil - Infinitive construct",
     "str": "Strong's 3467:  ",
-    "str2": "To be open, wide, free, to be safe, to free, succor"
+    "str2": "To be open, wide, free, to be safe, to free, succor",
+    "num": 3467
   },
   {
     "word": "nor His ear",
@@ -53,7 +59,8 @@
     "translit": "(’ā·zə·nōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 241:  ",
-    "str2": "Broadness, the ear"
+    "str2": "Broadness, the ear",
+    "num": 241
   },
   {
     "word": "too dull",
@@ -61,7 +68,8 @@
     "translit": "(ḵā·ḇə·ḏāh)",
     "parse": "Verb - Qal - Perfect - third person feminine singular",
     "str": "Strong's 3513:  ",
-    "str2": "To be heavy, weighty, or burdensome"
+    "str2": "To be heavy, weighty, or burdensome",
+    "num": 3513
   },
   {
     "word": "to hear.",
@@ -69,6 +77,7 @@
     "translit": "(miš·šə·mō·w·a‘)",
     "parse": "Preposition-m | Verb - Qal - Infinitive construct",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   }
 ]

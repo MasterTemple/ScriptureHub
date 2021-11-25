@@ -5,7 +5,8 @@
     "translit": "(Hōsper)",
     "parse": "Adverb",
     "str": "Strong's 5618:  ",
-    "str2": "Just as, as, even as. From hos and per; just as, i.e. Exactly like."
+    "str2": "Just as, as, even as. From hos and per; just as, i.e. Exactly like.",
+    "num": 5618
   },
   {
     "word": "you [who]",
@@ -13,7 +14,8 @@
     "translit": "(hymeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "formerly",
@@ -21,7 +23,8 @@
     "translit": "(pote)",
     "parse": "Particle",
     "str": "Strong's 4218:  ",
-    "str2": "At one time or other, at some time, formerly. From the base of pou and te; indefinite adverb, at some time, ever."
+    "str2": "At one time or other, at some time, formerly. From the base of pou and te; indefinite adverb, at some time, ever.",
+    "num": 4218
   },
   {
     "word": "disobeyed",
@@ -29,7 +32,8 @@
     "translit": "(ēpeithēsate)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Plural",
     "str": "Strong's 544:  ",
-    "str2": "To disobey, rebel, be disloyal, refuse conformity. From apeithes; to disbelieve."
+    "str2": "To disobey, rebel, be disloyal, refuse conformity. From apeithes; to disbelieve.",
+    "num": 544
   },
   {
     "word": "God",
@@ -37,7 +41,8 @@
     "translit": "(Theō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "have now received mercy",
@@ -45,7 +50,8 @@
     "translit": "(ēleēthēte)",
     "parse": "Verb - Aorist Indicative Passive - 2nd Person Plural",
     "str": "Strong's 1653:  ",
-    "str2": "To pity, have mercy on. From eleos; to compassionate."
+    "str2": "To pity, have mercy on. From eleos; to compassionate.",
+    "num": 1653
   },
   {
     "word": "through their",
@@ -53,7 +59,8 @@
     "translit": "(toutōn)",
     "parse": "Demonstrative Pronoun - Genitive Masculine Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "disobedience,",
@@ -61,6 +68,7 @@
     "translit": "(apeitheia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 543:  ",
-    "str2": "Willful unbelief, obstinacy, disobedience. From apeithes; disbelief."
+    "str2": "Willful unbelief, obstinacy, disobedience. From apeithes; disbelief.",
+    "num": 543
   }
 ]

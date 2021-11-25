@@ -5,7 +5,8 @@
     "translit": "(wə·lî)",
     "parse": "Conjunctive waw | Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "me",
@@ -13,7 +14,8 @@
     "translit": "(’ă·nî-)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "your servant",
@@ -21,7 +23,8 @@
     "translit": "(‘aḇ·de·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 5650:  ",
-    "str2": "Slave, servant"
+    "str2": "Slave, servant",
+    "num": 5650
   },
   {
     "word": "he did not",
@@ -29,7 +32,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "invite,",
@@ -37,7 +41,8 @@
     "translit": "(qā·rā)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 7121:  ",
-    "str2": "To call, proclaim, read"
+    "str2": "To call, proclaim, read",
+    "num": 7121
   },
   {
     "word": "nor Zadok",
@@ -45,7 +50,8 @@
     "translit": "(ū·lə·ṣā·ḏōq)",
     "parse": "Conjunctive waw, Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 6659:  ",
-    "str2": "Zadok -- the name of several Israelites"
+    "str2": "Zadok -- the name of several Israelites",
+    "num": 6659
   },
   {
     "word": "the priest,",
@@ -53,7 +59,8 @@
     "translit": "(hak·kō·hên)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3548:  ",
-    "str2": "Priest"
+    "str2": "Priest",
+    "num": 3548
   },
   {
     "word": "nor Benaiah",
@@ -61,7 +68,8 @@
     "translit": "(wə·liḇ·nā·yā·hū)",
     "parse": "Conjunctive waw, Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 1141:  ",
-    "str2": "Benaiah -- 'Yah has built up', the name of several Israelites"
+    "str2": "Benaiah -- 'Yah has built up', the name of several Israelites",
+    "num": 1141
   },
   {
     "word": "son",
@@ -69,7 +77,8 @@
     "translit": "(ḇen-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of Jehoiada,",
@@ -77,7 +86,8 @@
     "translit": "(yə·hō·w·yā·ḏā‘)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3077:  ",
-    "str2": "Jehoiada -- 'the LORD knows', the name of several Israelites"
+    "str2": "Jehoiada -- 'the LORD knows', the name of several Israelites",
+    "num": 3077
   },
   {
     "word": "nor your servant",
@@ -85,7 +95,8 @@
     "translit": "(‘aḇ·də·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 5650:  ",
-    "str2": "Slave, servant"
+    "str2": "Slave, servant",
+    "num": 5650
   },
   {
     "word": "Solomon.",
@@ -93,6 +104,7 @@
     "translit": "(wə·liš·lō·mōh)",
     "parse": "Conjunctive waw, Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 8010:  ",
-    "str2": "Solomon -- David's son and successor to his throne"
+    "str2": "Solomon -- David's son and successor to his throne",
+    "num": 8010
   }
 ]

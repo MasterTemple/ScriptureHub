@@ -5,7 +5,8 @@
     "translit": "(yêš)",
     "parse": "Adverb",
     "str": "Strong's 3426:  ",
-    "str2": "Being, substance, existence, is"
+    "str2": "Being, substance, existence, is",
+    "num": 3426
   },
   {
     "word": "another evil",
@@ -13,7 +14,8 @@
     "translit": "(rā·‘āh)",
     "parse": "Adjective - feminine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "I have seen",
@@ -21,7 +23,8 @@
     "translit": "(rā·’î·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "under",
@@ -29,7 +32,8 @@
     "translit": "(ta·ḥaṯ)",
     "parse": "Preposition",
     "str": "Strong's 8478:  ",
-    "str2": "The bottom, below, in lieu of"
+    "str2": "The bottom, below, in lieu of",
+    "num": 8478
   },
   {
     "word": "the sun,",
@@ -37,7 +41,8 @@
     "translit": "(haš·šā·meš)",
     "parse": "Article | Noun - common singular",
     "str": "Strong's 8121:  ",
-    "str2": "The sun, the east, a ray, a notched battlement"
+    "str2": "The sun, the east, a ray, a notched battlement",
+    "num": 8121
   },
   {
     "word": "and it",
@@ -45,7 +50,8 @@
     "translit": "(hî)",
     "parse": "Pronoun - third person feminine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "weighs heavily",
@@ -53,7 +59,8 @@
     "translit": "(wə·rab·bāh)",
     "parse": "Conjunctive waw | Adjective - feminine singular",
     "str": "Strong's 7227:  ",
-    "str2": "Much, many, great"
+    "str2": "Much, many, great",
+    "num": 7227
   },
   {
     "word": "upon",
@@ -61,7 +68,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "mankind:",
@@ -69,6 +77,7 @@
     "translit": "(hā·’ā·ḏām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(holon)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 3650:  ",
-    "str2": "All, the whole, entire, complete. A primary word; 'whole' or 'all', i.e. Complete, especially as noun or adverb."
+    "str2": "All, the whole, entire, complete. A primary word; 'whole' or 'all', i.e. Complete, especially as noun or adverb.",
+    "num": 3650
   },
   {
     "word": "this",
@@ -13,7 +14,8 @@
     "translit": "(Touto)",
     "parse": "Demonstrative Pronoun - Nominative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "took place",
@@ -21,7 +23,8 @@
     "translit": "(gegonen)",
     "parse": "Verb - Perfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "to",
@@ -29,7 +32,8 @@
     "translit": "(hina)",
     "parse": "Conjunction",
     "str": "Strong's 2443:  ",
-    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that."
+    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that.",
+    "num": 2443
   },
   {
     "word": "fulfill",
@@ -37,7 +41,8 @@
     "translit": "(plērōthē)",
     "parse": "Verb - Aorist Subjunctive Passive - 3rd Person Singular",
     "str": "Strong's 4137:  ",
-    "str2": "From pleres; to make replete, i.e. to cram, level up, or to furnish, satisfy, execute, finish, verify, etc."
+    "str2": "From pleres; to make replete, i.e. to cram, level up, or to furnish, satisfy, execute, finish, verify, etc.",
+    "num": 4137
   },
   {
     "word": "what",
@@ -45,7 +50,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "the Lord",
@@ -53,7 +59,8 @@
     "translit": "(Kyriou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "had said",
@@ -61,7 +68,8 @@
     "translit": "(rhēthen)",
     "parse": "Verb - Aorist Participle Passive - Nominative Neuter Singular",
     "str": "Strong's 2046:  ",
-    "str2": "Probably a fuller form of rheo; an alternate for epo in certain tenses; to utter, i.e. Speak or say."
+    "str2": "Probably a fuller form of rheo; an alternate for epo in certain tenses; to utter, i.e. Speak or say.",
+    "num": 2046
   },
   {
     "word": "through",
@@ -69,7 +77,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "prophet:",
@@ -85,6 +95,7 @@
     "translit": "(prophētou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 4396:  ",
-    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet."
+    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet.",
+    "num": 4396
   }
 ]

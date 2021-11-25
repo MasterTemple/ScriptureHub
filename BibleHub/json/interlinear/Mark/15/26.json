@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "charge",
@@ -21,7 +23,8 @@
     "translit": "(aitias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 156:  ",
-    "str2": "From the same as aiteo; a cause, i.e. reason, crime."
+    "str2": "From the same as aiteo; a cause, i.e. reason, crime.",
+    "num": 156
   },
   {
     "word": "inscribed",
@@ -29,7 +32,8 @@
     "translit": "(epigraphē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1923:  ",
-    "str2": "An inscription, title, label. From epigrapho; an inscription."
+    "str2": "An inscription, title, label. From epigrapho; an inscription.",
+    "num": 1923
   },
   {
     "word": "against Him",
@@ -37,7 +41,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "read:",
@@ -45,7 +50,8 @@
     "translit": "(epigegrammenē)",
     "parse": "Verb - Perfect Participle Middle or Passive - Nominative Feminine Singular",
     "str": "Strong's 1924:  ",
-    "str2": "To write upon, inscribe, imprint a mark on. From epi and grapho; to inscribe."
+    "str2": "To write upon, inscribe, imprint a mark on. From epi and grapho; to inscribe.",
+    "num": 1924
   },
   {
     "word": "The",
@@ -53,7 +59,8 @@
     "translit": "(HO)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "King",
@@ -61,7 +68,8 @@
     "translit": "(BASILEUS)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 935:  ",
-    "str2": "A king, ruler, but in some passages clearly to be translated: emperor. Probably from basis; a sovereign."
+    "str2": "A king, ruler, but in some passages clearly to be translated: emperor. Probably from basis; a sovereign.",
+    "num": 935
   },
   {
     "word": "of the",
@@ -69,7 +77,8 @@
     "translit": "(TŌN)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Jews.",
@@ -77,6 +86,7 @@
     "translit": "(IOUDAIŌN)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 2453:  ",
-    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah."
+    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah.",
+    "num": 2453
   }
 ]

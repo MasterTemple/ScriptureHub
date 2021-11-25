@@ -5,7 +5,8 @@
     "translit": "(mentoi)",
     "parse": "Conjunction",
     "str": "Strong's 3305:  ",
-    "str2": "(a) indeed, really, (b) yet, however, nevertheless. From Not Used and toi; indeed though, i.e. However."
+    "str2": "(a) indeed, really, (b) yet, however, nevertheless. From Not Used and toi; indeed though, i.e. However.",
+    "num": 3305
   },
   {
     "word": "in the same way,",
@@ -13,7 +14,8 @@
     "translit": "(Homoiōs)",
     "parse": "Adverb",
     "str": "Strong's 3668:  ",
-    "str2": "In like manner, similarly, in the same way, equally. Adverb from homoios; similarly."
+    "str2": "In like manner, similarly, in the same way, equally. Adverb from homoios; similarly.",
+    "num": 3668
   },
   {
     "word": "these",
@@ -21,7 +23,8 @@
     "translit": "(houtoi)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "dreamers",
@@ -29,7 +32,8 @@
     "translit": "(enypniazomenoi)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Masculine Plural",
     "str": "Strong's 1797:  ",
-    "str2": "To dream (see visions) in my sleep. Middle voice from enupnion; to dream."
+    "str2": "To dream (see visions) in my sleep. Middle voice from enupnion; to dream.",
+    "num": 1797
   },
   {
     "word": "defile",
@@ -37,7 +41,8 @@
     "translit": "(miainousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 3392:  ",
-    "str2": "To stain, pollute, defile, corrupt. Perhaps a primary verb; to sully or taint, i.e. Contaminate."
+    "str2": "To stain, pollute, defile, corrupt. Perhaps a primary verb; to sully or taint, i.e. Contaminate.",
+    "num": 3392
   },
   {
     "word": "[their] bodies,",
@@ -45,7 +50,8 @@
     "translit": "(sarka)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4561:  ",
-    "str2": "Flesh, body, human nature, materiality; kindred. "
+    "str2": "Flesh, body, human nature, materiality; kindred. ",
+    "num": 4561
   },
   {
     "word": "reject",
@@ -53,7 +59,8 @@
     "translit": "(athetousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 114:  ",
-    "str2": "From a compound of a and a derivative of tithemi; to set aside, i.e. to disesteem, neutralize or violate."
+    "str2": "From a compound of a and a derivative of tithemi; to set aside, i.e. to disesteem, neutralize or violate.",
+    "num": 114
   },
   {
     "word": "authority,",
@@ -61,7 +68,8 @@
     "translit": "(kyriotēta)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2963:  ",
-    "str2": "From kurios; mastery, i.e. rulers."
+    "str2": "From kurios; mastery, i.e. rulers.",
+    "num": 2963
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "slander",
@@ -77,7 +86,8 @@
     "translit": "(blasphēmousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 987:  ",
-    "str2": "From blasphemos; to vilify; specially, to speak impiously."
+    "str2": "From blasphemos; to vilify; specially, to speak impiously.",
+    "num": 987
   },
   {
     "word": "glorious [beings].",
@@ -85,6 +95,7 @@
     "translit": "(doxas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 1391:  ",
-    "str2": "From the base of dokeo; glory, in a wide application."
+    "str2": "From the base of dokeo; glory, in a wide application.",
+    "num": 1391
   }
 ]

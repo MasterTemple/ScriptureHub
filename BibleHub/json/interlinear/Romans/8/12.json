@@ -5,7 +5,8 @@
     "translit": "(Ara)",
     "parse": "Conjunction",
     "str": "Strong's 686:  ",
-    "str2": "Then, therefore, since. Probably from airo; a particle denoting an inference more or less decisive."
+    "str2": "Then, therefore, since. Probably from airo; a particle denoting an inference more or less decisive.",
+    "num": 686
   },
   {
     "word": "brothers,",
@@ -13,7 +14,8 @@
     "translit": "(adelphoi)",
     "parse": "Noun - Vocative Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "we have",
@@ -21,7 +23,8 @@
     "translit": "(esmen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "[an] obligation,",
@@ -29,7 +32,8 @@
     "translit": "(opheiletai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3781:  ",
-    "str2": "From opheilo; an ower, i.e. Person indebted; figuratively, a delinquent; morally, a transgressor."
+    "str2": "From opheilo; an ower, i.e. Person indebted; figuratively, a delinquent; morally, a transgressor.",
+    "num": 3781
   },
   {
     "word": "[but it is] not",
@@ -37,7 +41,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "to the",
@@ -45,7 +50,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "flesh,",
@@ -53,7 +59,8 @@
     "translit": "(sarki)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4561:  ",
-    "str2": "Flesh, body, human nature, materiality; kindred. "
+    "str2": "Flesh, body, human nature, materiality; kindred. ",
+    "num": 4561
   },
   {
     "word": "to live",
@@ -61,7 +68,8 @@
     "translit": "(zēn)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2198:  ",
-    "str2": "To live, be alive. A primary verb; to live."
+    "str2": "To live, be alive. A primary verb; to live.",
+    "num": 2198
   },
   {
     "word": "according to",
@@ -69,7 +77,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "[it].",
@@ -77,6 +86,7 @@
     "translit": "(sarka)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4561:  ",
-    "str2": "Flesh, body, human nature, materiality; kindred. "
+    "str2": "Flesh, body, human nature, materiality; kindred. ",
+    "num": 4561
   }
 ]

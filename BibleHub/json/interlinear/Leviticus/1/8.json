@@ -5,7 +5,8 @@
     "translit": "(’a·hă·rōn)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 175:  ",
-    "str2": "Aaron -- an elder brother of Moses"
+    "str2": "Aaron -- an elder brother of Moses",
+    "num": 175
   },
   {
     "word": "sons",
@@ -13,7 +14,8 @@
     "translit": "(bə·nê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "the priests",
@@ -21,7 +23,8 @@
     "translit": "(hak·kō·hă·nîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 3548:  ",
-    "str2": "Priest"
+    "str2": "Priest",
+    "num": 3548
   },
   {
     "word": "are to arrange",
@@ -29,7 +32,8 @@
     "translit": "(wə·‘ā·rə·ḵū)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person common plural",
     "str": "Strong's 6186:  ",
-    "str2": "To set in a, row, arrange, put in order"
+    "str2": "To set in a, row, arrange, put in order",
+    "num": 6186
   },
   {
     "word": "the pieces,",
@@ -37,7 +41,8 @@
     "translit": "(han·nə·ṯā·ḥîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 5409:  ",
-    "str2": "A piece (of a divided carcass)"
+    "str2": "A piece (of a divided carcass)",
+    "num": 5409
   },
   {
     "word": "including the head",
@@ -45,7 +50,8 @@
     "translit": "(hā·rōš)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 7218:  ",
-    "str2": "The head"
+    "str2": "The head",
+    "num": 7218
   },
   {
     "word": "and the fat,",
@@ -53,7 +59,8 @@
     "translit": "(hap·pā·ḏer)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 6309:  ",
-    "str2": "Suet"
+    "str2": "Suet",
+    "num": 6309
   },
   {
     "word": "atop",
@@ -61,7 +68,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the burning",
@@ -69,7 +77,8 @@
     "translit": "(hā·’êš)",
     "parse": "Article | Noun - common singular",
     "str": "Strong's 784:  ",
-    "str2": "A fire"
+    "str2": "A fire",
+    "num": 784
   },
   {
     "word": "wood",
@@ -77,7 +86,8 @@
     "translit": "(hā·‘ê·ṣîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 6086:  ",
-    "str2": "Tree, trees, wood"
+    "str2": "Tree, trees, wood",
+    "num": 6086
   },
   {
     "word": "on",
@@ -85,7 +95,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the altar.",
@@ -93,6 +104,7 @@
     "translit": "(ham·miz·bê·aḥ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4196:  ",
-    "str2": "An altar"
+    "str2": "An altar",
+    "num": 4196
   }
 ]

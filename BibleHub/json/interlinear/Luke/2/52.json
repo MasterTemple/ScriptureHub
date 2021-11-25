@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Jesus",
@@ -13,7 +14,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "grew",
@@ -21,7 +23,8 @@
     "translit": "(proekopten)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 4298:  ",
-    "str2": "From pro and kopto; to drive forward, i.e. to advance."
+    "str2": "From pro and kopto; to drive forward, i.e. to advance.",
+    "num": 4298
   },
   {
     "word": "in",
@@ -29,7 +32,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "wisdom",
@@ -37,7 +41,8 @@
     "translit": "(sophia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4678:  ",
-    "str2": "Wisdom, insight, skill (human or divine), intelligence. From sophos; wisdom."
+    "str2": "Wisdom, insight, skill (human or divine), intelligence. From sophos; wisdom.",
+    "num": 4678
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "stature,",
@@ -53,7 +59,8 @@
     "translit": "(hēlikia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 2244:  ",
-    "str2": "Age, term of life; full age, maturity; stature. From the same as helikos; maturity."
+    "str2": "Age, term of life; full age, maturity; stature. From the same as helikos; maturity.",
+    "num": 2244
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "in favor",
@@ -69,7 +77,8 @@
     "translit": "(chariti)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 5485:  ",
-    "str2": "From chairo; graciousness, of manner or act."
+    "str2": "From chairo; graciousness, of manner or act.",
+    "num": 5485
   },
   {
     "word": "with",
@@ -77,7 +86,8 @@
     "translit": "(para)",
     "parse": "Preposition",
     "str": "Strong's 3844:  ",
-    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. "
+    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. ",
+    "num": 3844
   },
   {
     "word": "God",
@@ -85,7 +95,8 @@
     "translit": "(Theō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "and",
@@ -93,7 +104,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "man.",
@@ -101,6 +113,7 @@
     "translit": "(anthrōpois)",
     "parse": "Noun - Dative Masculine Plural",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "which",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "I",
@@ -21,7 +23,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "was appointed",
@@ -29,7 +32,8 @@
     "translit": "(etethēn)",
     "parse": "Verb - Aorist Indicative Passive - 1st Person Singular",
     "str": "Strong's 5087:  ",
-    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place."
+    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place.",
+    "num": 5087
   },
   {
     "word": "a preacher,",
@@ -37,7 +41,8 @@
     "translit": "(kēryx)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2783:  ",
-    "str2": "A herald, preacher, proclaimer. From kerusso; a herald, i.e. Of divine truth."
+    "str2": "A herald, preacher, proclaimer. From kerusso; a herald, i.e. Of divine truth.",
+    "num": 2783
   },
   {
     "word": "apostle,",
@@ -45,7 +50,8 @@
     "translit": "(apostolos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 652:  ",
-    "str2": "From apostello; a delegate; specially, an ambassador of the Gospel; officially a commissioner of Christ."
+    "str2": "From apostello; a delegate; specially, an ambassador of the Gospel; officially a commissioner of Christ.",
+    "num": 652
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "teacher.",
@@ -61,6 +68,7 @@
     "translit": "(didaskalos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 1320:  ",
-    "str2": "A teacher, master. From didasko; an instructor."
+    "str2": "A teacher, master. From didasko; an instructor.",
+    "num": 1320
   }
 ]

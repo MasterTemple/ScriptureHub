@@ -5,7 +5,8 @@
     "translit": "(wə·’ā·nō·ḵî)",
     "parse": "Conjunctive waw | Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "have not",
@@ -13,7 +14,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "sinned",
@@ -21,7 +23,8 @@
     "translit": "(ḥā·ṭā·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 2398:  ",
-    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn"
+    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn",
+    "num": 2398
   },
   {
     "word": "against you,",
@@ -29,7 +32,8 @@
     "translit": "(lāḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "but you",
@@ -37,7 +41,8 @@
     "translit": "(wə·’at·tāh)",
     "parse": "Conjunctive waw | Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "have done",
@@ -45,7 +50,8 @@
     "translit": "(‘ō·śeh)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "me",
@@ -53,7 +59,8 @@
     "translit": "(’it·tî)",
     "parse": "Direct object marker | first person common singular",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "wrong",
@@ -61,7 +68,8 @@
     "translit": "(rā·‘āh)",
     "parse": "Adjective - feminine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "by waging war",
@@ -69,7 +77,8 @@
     "translit": "(lə·hil·lā·ḥem)",
     "parse": "Preposition-l | Verb - Nifal - Infinitive construct",
     "str": "Strong's 3898:  ",
-    "str2": "To feed on, to consume, to battle"
+    "str2": "To feed on, to consume, to battle",
+    "num": 3898
   },
   {
     "word": "against me.",
@@ -77,7 +86,8 @@
     "translit": "(bî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "May the LORD,",
@@ -85,7 +95,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "the Judge,",
@@ -93,7 +104,8 @@
     "translit": "(yiš·pōṭ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 8199:  ",
-    "str2": "To judge, pronounce sentence, to vindicate, punish, to govern, to litigate"
+    "str2": "To judge, pronounce sentence, to vindicate, punish, to govern, to litigate",
+    "num": 8199
   },
   {
     "word": "decide",
@@ -101,7 +113,8 @@
     "translit": "(haš·šō·p̄êṭ)",
     "parse": "Article | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 8199:  ",
-    "str2": "To judge, pronounce sentence, to vindicate, punish, to govern, to litigate"
+    "str2": "To judge, pronounce sentence, to vindicate, punish, to govern, to litigate",
+    "num": 8199
   },
   {
     "word": "today",
@@ -109,7 +122,8 @@
     "translit": "(hay·yō·wm)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "between",
@@ -117,7 +131,8 @@
     "translit": "(bên)",
     "parse": "Preposition",
     "str": "Strong's 996:  ",
-    "str2": "An interval, space between"
+    "str2": "An interval, space between",
+    "num": 996
   },
   {
     "word": "the Israelites",
@@ -125,7 +140,8 @@
     "translit": "(bə·nê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "and the Ammonites.”",
@@ -133,6 +149,7 @@
     "translit": "(bə·nê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   }
 ]

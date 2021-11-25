@@ -5,7 +5,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Neuter 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "was given",
@@ -13,7 +14,8 @@
     "translit": "(edothē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "a mouth",
@@ -21,7 +23,8 @@
     "translit": "(stoma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4750:  ",
-    "str2": "The mouth, speech, eloquence in speech, the point of a sword. "
+    "str2": "The mouth, speech, eloquence in speech, the point of a sword. ",
+    "num": 4750
   },
   {
     "word": "to speak",
@@ -29,7 +32,8 @@
     "translit": "(laloun)",
     "parse": "Verb - Present Participle Active - Nominative Neuter Singular",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "arrogant",
@@ -37,7 +41,8 @@
     "translit": "(megala)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 3173:  ",
-    "str2": "Large, great, in the widest sense. "
+    "str2": "Large, great, in the widest sense. ",
+    "num": 3173
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "blasphemous [words],",
@@ -53,7 +59,8 @@
     "translit": "(blasphēmias)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 988:  ",
-    "str2": "Abusive or scurrilous language, blasphemy. From blasphemos; vilification."
+    "str2": "Abusive or scurrilous language, blasphemy. From blasphemos; vilification.",
+    "num": 988
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "authority",
@@ -69,7 +77,8 @@
     "translit": "(exousia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1849:  ",
-    "str2": "From exesti; privilege, i.e. force, capacity, competency, freedom, or mastery, delegated influence."
+    "str2": "From exesti; privilege, i.e. force, capacity, competency, freedom, or mastery, delegated influence.",
+    "num": 1849
   },
   {
     "word": "to act",
@@ -77,7 +86,8 @@
     "translit": "(poiēsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "for 42",
@@ -85,7 +95,8 @@
     "translit": "(tesserakonta)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 5062:  ",
-    "str2": "Forty. The decade of tessares; forty."
+    "str2": "Forty. The decade of tessares; forty.",
+    "num": 5062
   },
   {
     "word": "months.",
@@ -93,6 +104,7 @@
     "translit": "(mēnas)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 3376:  ",
-    "str2": "A (lunar) month. A primary word; a month."
+    "str2": "A (lunar) month. A primary word; a month.",
+    "num": 3376
   }
 ]

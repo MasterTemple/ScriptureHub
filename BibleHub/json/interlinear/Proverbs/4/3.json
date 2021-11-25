@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I was",
@@ -13,7 +14,8 @@
     "translit": "(hā·yî·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "a son",
@@ -21,7 +23,8 @@
     "translit": "(ḇên)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "to my father,",
@@ -29,7 +32,8 @@
     "translit": "(lə·’ā·ḇî)",
     "parse": "Preposition-l | Noun - masculine singular construct | first person common singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "tender",
@@ -37,7 +41,8 @@
     "translit": "(raḵ)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 7390:  ",
-    "str2": "Tender, delicate, soft"
+    "str2": "Tender, delicate, soft",
+    "num": 7390
   },
   {
     "word": "and the only child",
@@ -45,7 +50,8 @@
     "translit": "(wə·yā·ḥîḏ)",
     "parse": "Conjunctive waw | Adjective - masculine singular",
     "str": "Strong's 3173:  ",
-    "str2": "United, sole, beloved, lonely, the life"
+    "str2": "United, sole, beloved, lonely, the life",
+    "num": 3173
   },
   {
     "word": "of",
@@ -53,7 +59,8 @@
     "translit": "(lip̄·nê)",
     "parse": "Preposition-l | Noun - common plural construct",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "my mother,",
@@ -61,6 +68,7 @@
     "translit": "(’im·mî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   }
 ]

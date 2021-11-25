@@ -5,7 +5,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "do you cry out",
@@ -13,7 +14,8 @@
     "translit": "(tiz·‘aq)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 2199:  ",
-    "str2": "To shriek, to announce, convene publicly"
+    "str2": "To shriek, to announce, convene publicly",
+    "num": 2199
   },
   {
     "word": "over",
@@ -21,7 +23,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "your wound?",
@@ -29,7 +32,8 @@
     "translit": "(šiḇ·rêḵ)",
     "parse": "Noun - masculine singular construct | second person feminine singular",
     "str": "Strong's 7667:  ",
-    "str2": "A breaking, fracture, crushing, breach, crash"
+    "str2": "A breaking, fracture, crushing, breach, crash",
+    "num": 7667
   },
   {
     "word": "Your pain",
@@ -37,7 +41,8 @@
     "translit": "(maḵ·’ō·ḇêḵ)",
     "parse": "Noun - masculine singular construct | second person feminine singular",
     "str": "Strong's 4341:  ",
-    "str2": "Anguish, affliction"
+    "str2": "Anguish, affliction",
+    "num": 4341
   },
   {
     "word": "has no cure!",
@@ -45,7 +50,8 @@
     "translit": "(’ā·nūš)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 605:  ",
-    "str2": "To be frail, feeble, melancholy"
+    "str2": "To be frail, feeble, melancholy",
+    "num": 605
   },
   {
     "word": "Because of",
@@ -53,7 +59,8 @@
     "translit": "(‘al)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "your great",
@@ -61,7 +68,8 @@
     "translit": "(rōḇ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 7230:  ",
-    "str2": "Multitude, abundance, greatness"
+    "str2": "Multitude, abundance, greatness",
+    "num": 7230
   },
   {
     "word": "iniquity",
@@ -69,7 +77,8 @@
     "translit": "(‘ă·wō·nêḵ)",
     "parse": "Noun - common singular construct | second person feminine singular",
     "str": "Strong's 5771:  ",
-    "str2": "Iniquity, guilt, punishment for iniquity"
+    "str2": "Iniquity, guilt, punishment for iniquity",
+    "num": 5771
   },
   {
     "word": "and numerous",
@@ -77,7 +86,8 @@
     "translit": "(‘ā·ṣə·mū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 6105:  ",
-    "str2": "To bind fast, close, powerful, numerous,  to crunch the bones"
+    "str2": "To bind fast, close, powerful, numerous,  to crunch the bones",
+    "num": 6105
   },
   {
     "word": "sins",
@@ -85,7 +95,8 @@
     "translit": "(ḥaṭ·ṭō·ṯa·yiḵ)",
     "parse": "Noun - feminine plural construct | second person feminine singular",
     "str": "Strong's 2403:  ",
-    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender"
+    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender",
+    "num": 2403
   },
   {
     "word": "I have done",
@@ -93,7 +104,8 @@
     "translit": "(‘ā·śî·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "these things",
@@ -101,7 +113,8 @@
     "translit": "(’êl·leh)",
     "parse": "Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   },
   {
     "word": "to you.",
@@ -109,6 +122,7 @@
     "translit": "(lāḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

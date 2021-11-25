@@ -5,7 +5,8 @@
     "translit": "(lā·hem)",
     "parse": "Preposition | third person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "his dictation,”",
@@ -13,7 +14,8 @@
     "translit": "(mip·pîw)",
     "parse": "Preposition-m | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 6310:  ",
-    "str2": "The mouth, edge, portion, side, according to"
+    "str2": "The mouth, edge, portion, side, according to",
+    "num": 6310
   },
   {
     "word": "Baruch",
@@ -21,7 +23,8 @@
     "translit": "(bā·rūḵ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 1263:  ",
-    "str2": "Baruch -- 'blessed', three Israelites"
+    "str2": "Baruch -- 'blessed', three Israelites",
+    "num": 1263
   },
   {
     "word": "replied.",
@@ -29,7 +32,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“He recited",
@@ -37,7 +41,8 @@
     "translit": "(yiq·rā)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 7121:  ",
-    "str2": "To call, proclaim, read"
+    "str2": "To call, proclaim, read",
+    "num": 7121
   },
   {
     "word": "all",
@@ -45,7 +50,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "these",
@@ -53,7 +59,8 @@
     "translit": "(hā·’êl·leh)",
     "parse": "Article | Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   },
   {
     "word": "words",
@@ -61,7 +68,8 @@
     "translit": "(had·də·ḇā·rîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "to me",
@@ -69,7 +77,8 @@
     "translit": "(’ê·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "and I",
@@ -77,7 +86,8 @@
     "translit": "(wa·’ă·nî)",
     "parse": "Conjunctive waw | Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "wrote [them]",
@@ -85,7 +95,8 @@
     "translit": "(kō·ṯêḇ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 3789:  ",
-    "str2": "To grave, to write"
+    "str2": "To grave, to write",
+    "num": 3789
   },
   {
     "word": "in ink",
@@ -93,7 +104,8 @@
     "translit": "(bad·də·yōw)",
     "parse": "Preposition-b, Article | Noun - feminine singular",
     "str": "Strong's 1773:  ",
-    "str2": "Ink"
+    "str2": "Ink",
+    "num": 1773
   },
   {
     "word": "on",
@@ -101,7 +113,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the scroll.”",
@@ -109,6 +122,7 @@
     "translit": "(has·sê·p̄er)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5612:  ",
-    "str2": "A missive, document, writing, book"
+    "str2": "A missive, document, writing, book",
+    "num": 5612
   }
 ]

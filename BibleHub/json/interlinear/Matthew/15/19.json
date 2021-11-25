@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "out of",
@@ -13,7 +14,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "heart",
@@ -29,7 +32,8 @@
     "translit": "(kardias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2588:  ",
-    "str2": "Prolonged from a primary kar; the heart, i.e. the thoughts or feelings; also the middle."
+    "str2": "Prolonged from a primary kar; the heart, i.e. the thoughts or feelings; also the middle.",
+    "num": 2588
   },
   {
     "word": "come",
@@ -37,7 +41,8 @@
     "translit": "(exerchontai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 1831:  ",
-    "str2": "To go out, come out. From ek and erchomai; to issue."
+    "str2": "To go out, come out. From ek and erchomai; to issue.",
+    "num": 1831
   },
   {
     "word": "evil",
@@ -45,7 +50,8 @@
     "translit": "(ponēroi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 4190:  ",
-    "str2": "Evil, bad, wicked, malicious, slothful. "
+    "str2": "Evil, bad, wicked, malicious, slothful. ",
+    "num": 4190
   },
   {
     "word": "thoughts,",
@@ -53,7 +59,8 @@
     "translit": "(dialogismoi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 1261:  ",
-    "str2": "From dialogizomai; discussion, i.e. consideration, or debate."
+    "str2": "From dialogizomai; discussion, i.e. consideration, or debate.",
+    "num": 1261
   },
   {
     "word": "murder,",
@@ -61,7 +68,8 @@
     "translit": "(phonoi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 5408:  ",
-    "str2": "Murder, slaughter, killing. From an obsolete primary pheno; murder."
+    "str2": "Murder, slaughter, killing. From an obsolete primary pheno; murder.",
+    "num": 5408
   },
   {
     "word": "adultery,",
@@ -69,7 +77,8 @@
     "translit": "(moicheiai)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 3430:  ",
-    "str2": "Adultery. From moicheuo; adultery."
+    "str2": "Adultery. From moicheuo; adultery.",
+    "num": 3430
   },
   {
     "word": "sexual immorality,",
@@ -77,7 +86,8 @@
     "translit": "(porneiai)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 4202:  ",
-    "str2": "Fornication, whoredom; met: idolatry. From porneuo; harlotry; figuratively, idolatry."
+    "str2": "Fornication, whoredom; met: idolatry. From porneuo; harlotry; figuratively, idolatry.",
+    "num": 4202
   },
   {
     "word": "theft,",
@@ -85,7 +95,8 @@
     "translit": "(klopai)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 2829:  ",
-    "str2": "Thieving, theft. From klepto; stealing."
+    "str2": "Thieving, theft. From klepto; stealing.",
+    "num": 2829
   },
   {
     "word": "false testimony,",
@@ -93,7 +104,8 @@
     "translit": "(pseudomartyriai)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 5577:  ",
-    "str2": "False testimony, false witness. From pseudomartur; untrue testimony."
+    "str2": "False testimony, false witness. From pseudomartur; untrue testimony.",
+    "num": 5577
   },
   {
     "word": "[and] slander.",
@@ -101,6 +113,7 @@
     "translit": "(blasphēmiai)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 988:  ",
-    "str2": "Abusive or scurrilous language, blasphemy. From blasphemos; vilification."
+    "str2": "Abusive or scurrilous language, blasphemy. From blasphemos; vilification.",
+    "num": 988
   }
 ]

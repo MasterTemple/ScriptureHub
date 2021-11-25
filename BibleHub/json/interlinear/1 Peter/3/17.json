@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "[it is] better,",
@@ -13,7 +14,8 @@
     "translit": "(kreitton)",
     "parse": "Adjective - Nominative Neuter Singular - Comparative",
     "str": "Strong's 2909:  ",
-    "str2": "Stronger, more excellent. Comparative of a derivative of kratos; stronger, i.e. better, i.e. Nobler."
+    "str2": "Stronger, more excellent. Comparative of a derivative of kratos; stronger, i.e. better, i.e. Nobler.",
+    "num": 2909
   },
   {
     "word": "if",
@@ -21,7 +23,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "[it is]",
@@ -29,7 +32,8 @@
     "translit": "(theloi)",
     "parse": "Verb - Present Optative Active - 3rd Person Singular",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "God’s",
@@ -37,7 +41,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "will,",
@@ -45,7 +50,8 @@
     "translit": "(thelēma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 2307:  ",
-    "str2": "An act of will, will; plur: wishes, desires. From the prolonged form of ethelo; a determination, i.e. choice or inclination."
+    "str2": "An act of will, will; plur: wishes, desires. From the prolonged form of ethelo; a determination, i.e. choice or inclination.",
+    "num": 2307
   },
   {
     "word": "to suffer",
@@ -53,7 +59,8 @@
     "translit": "(paschein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 3958:  ",
-    "str2": "I am acted upon in a certain way, either good or bad; I experience ill treatment, suffer. "
+    "str2": "I am acted upon in a certain way, either good or bad; I experience ill treatment, suffer. ",
+    "num": 3958
   },
   {
     "word": "[for] doing good",
@@ -61,7 +68,8 @@
     "translit": "(agathopoiountas)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Plural",
     "str": "Strong's 15:  ",
-    "str2": "To do that which is good. From agathopoios; to be a well-doer."
+    "str2": "To do that which is good. From agathopoios; to be a well-doer.",
+    "num": 15
   },
   {
     "word": "than",
@@ -69,7 +77,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "for doing evil.",
@@ -77,6 +86,7 @@
     "translit": "(kakopoiountas)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Plural",
     "str": "Strong's 2554:  ",
-    "str2": "To do harm, do wrong, do evil, commit sin. From kakopoios; to be a bad-doer, i.e. to injure, or to sin."
+    "str2": "To do harm, do wrong, do evil, commit sin. From kakopoios; to be a bad-doer, i.e. to injure, or to sin.",
+    "num": 2554
   }
 ]

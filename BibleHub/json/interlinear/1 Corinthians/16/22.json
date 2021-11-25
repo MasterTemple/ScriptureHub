@@ -5,7 +5,8 @@
     "translit": "(Ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "anyone",
@@ -13,7 +14,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "{does} not",
@@ -21,7 +23,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "love",
@@ -29,7 +32,8 @@
     "translit": "(philei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 5368:  ",
-    "str2": "From philos; to be a friend to (an individual or an object), i.e. Have affection for; specially, to kiss."
+    "str2": "From philos; to be a friend to (an individual or an object), i.e. Have affection for; specially, to kiss.",
+    "num": 5368
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord,",
@@ -45,7 +50,8 @@
     "translit": "(Kyrion)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "let him be",
@@ -53,7 +59,8 @@
     "translit": "(ētō)",
     "parse": "Verb - Present Imperative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "under a divine curse.",
@@ -61,7 +68,8 @@
     "translit": "(anathema)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 331:  ",
-    "str2": "A votive offering, a thing devoted to God; a curse, the thing cursed. From anatithemai; a ban or excommunicated."
+    "str2": "A votive offering, a thing devoted to God; a curse, the thing cursed. From anatithemai; a ban or excommunicated.",
+    "num": 331
   },
   {
     "word": "Come,",
@@ -69,7 +77,8 @@
     "translit": "(Marana)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 3134:  ",
-    "str2": "Of Chaldee origin; maranatha, i.e. An exclamation of the approaching divine judgment."
+    "str2": "Of Chaldee origin; maranatha, i.e. An exclamation of the approaching divine judgment.",
+    "num": 3134
   },
   {
     "word": "O Lord!",
@@ -77,6 +86,7 @@
     "translit": "(tha)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 3134:  ",
-    "str2": "Of Chaldee origin; maranatha, i.e. An exclamation of the approaching divine judgment."
+    "str2": "Of Chaldee origin; maranatha, i.e. An exclamation of the approaching divine judgment.",
+    "num": 3134
   }
 ]

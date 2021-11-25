@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Herodias",
@@ -13,7 +14,8 @@
     "translit": "(Hērōdias)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2266:  ",
-    "str2": "From Herodes; Herodias, a woman of the Heodian family."
+    "str2": "From Herodes; Herodias, a woman of the Heodian family.",
+    "num": 2266
   },
   {
     "word": "held a grudge",
@@ -21,7 +23,8 @@
     "translit": "(eneichen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1758:  ",
-    "str2": "From en and echo; to hold in or upon, i.e. Ensnare; by implication, to keep a grudge."
+    "str2": "From en and echo; to hold in or upon, i.e. Ensnare; by implication, to keep a grudge.",
+    "num": 1758
   },
   {
     "word": "against [John]",
@@ -29,7 +32,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "wanted",
@@ -45,7 +50,8 @@
     "translit": "(ēthelen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "to kill",
@@ -53,7 +59,8 @@
     "translit": "(apokteinai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 615:  ",
-    "str2": "To put to death, kill; fig: I abolish. From apo and kteino; to kill outright; figuratively, to destroy."
+    "str2": "To put to death, kill; fig: I abolish. From apo and kteino; to kill outright; figuratively, to destroy.",
+    "num": 615
   },
   {
     "word": "him.",
@@ -61,7 +68,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "But",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "she had been unable,",
@@ -77,6 +86,7 @@
     "translit": "(ēdynato)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1410:  ",
-    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible."
+    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible.",
+    "num": 1410
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(haš·šê·nî)",
     "parse": "Article | Number - ordinal masculine singular",
     "str": "Strong's 8145:  ",
-    "str2": "Second (an ordinal number)"
+    "str2": "Second (an ordinal number)",
+    "num": 8145
   },
   {
     "word": "day",
@@ -13,7 +14,8 @@
     "translit": "(bay·yō·wm)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "they marched around",
@@ -21,7 +23,8 @@
     "translit": "(way·yā·sōb·bū)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
     "str": "Strong's 5437:  ",
-    "str2": "To turn about, go around, surround"
+    "str2": "To turn about, go around, surround",
+    "num": 5437
   },
   {
     "word": "the city",
@@ -29,7 +32,8 @@
     "translit": "(hā·‘îr)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "once",
@@ -37,7 +41,8 @@
     "translit": "(pa·‘am)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 6471:  ",
-    "str2": "A beat, foot, anvil, occurrence"
+    "str2": "A beat, foot, anvil, occurrence",
+    "num": 6471
   },
   {
     "word": "and returned",
@@ -45,7 +50,8 @@
     "translit": "(way·yā·šu·ḇū)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "to the camp.",
@@ -53,7 +59,8 @@
     "translit": "(ham·ma·ḥă·neh)",
     "parse": "Article | Noun - common singular",
     "str": "Strong's 4264:  ",
-    "str2": "An encampment, an army"
+    "str2": "An encampment, an army",
+    "num": 4264
   },
   {
     "word": "They did",
@@ -61,7 +68,8 @@
     "translit": "(‘ā·śū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "this",
@@ -69,7 +77,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "for six",
@@ -77,7 +86,8 @@
     "translit": "(šê·šeṯ)",
     "parse": "Number - masculine singular construct",
     "str": "Strong's 8337:  ",
-    "str2": "Six (a cardinal number)"
+    "str2": "Six (a cardinal number)",
+    "num": 8337
   },
   {
     "word": "days.",
@@ -85,6 +95,7 @@
     "translit": "(yā·mîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   }
 ]

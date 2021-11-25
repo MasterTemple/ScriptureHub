@@ -5,7 +5,8 @@
     "translit": "(’e·ḥāḏ)",
     "parse": "Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "of",
@@ -13,7 +14,8 @@
     "translit": "(min-)",
     "parse": "Preposition",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "the seraphim",
@@ -21,7 +23,8 @@
     "translit": "(haś·śə·rā·p̄îm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 8314:  ",
-    "str2": "Burning, poisonous, a saraph, symbolical creature"
+    "str2": "Burning, poisonous, a saraph, symbolical creature",
+    "num": 8314
   },
   {
     "word": "flew",
@@ -29,7 +32,8 @@
     "translit": "(way·yā·‘āp̄)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 5774:  ",
-    "str2": "To fly, to faint"
+    "str2": "To fly, to faint",
+    "num": 5774
   },
   {
     "word": "to me,",
@@ -37,7 +41,8 @@
     "translit": "(’ê·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "and in his hand",
@@ -45,7 +50,8 @@
     "translit": "(ū·ḇə·yā·ḏōw)",
     "parse": "Conjunctive waw, Preposition-b | Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "was a glowing coal",
@@ -53,7 +59,8 @@
     "translit": "(riṣ·pāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 7531:  ",
-    "str2": "A hot stone, a tessellated pavement"
+    "str2": "A hot stone, a tessellated pavement",
+    "num": 7531
   },
   {
     "word": "that he had taken",
@@ -61,7 +68,8 @@
     "translit": "(lā·qaḥ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 3947:  ",
-    "str2": "To take"
+    "str2": "To take",
+    "num": 3947
   },
   {
     "word": "with tongs",
@@ -69,7 +77,8 @@
     "translit": "(bə·mel·qa·ḥa·yim)",
     "parse": "Preposition-b | Noun - md",
     "str": "Strong's 4457:  ",
-    "str2": "Tongs, snuffers"
+    "str2": "Tongs, snuffers",
+    "num": 4457
   },
   {
     "word": "from",
@@ -77,7 +86,8 @@
     "translit": "(mê·‘al)",
     "parse": "Preposition-m",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the altar.",
@@ -85,6 +95,7 @@
     "translit": "(ham·miz·bê·aḥ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4196:  ",
-    "str2": "An altar"
+    "str2": "An altar",
+    "num": 4196
   }
 ]

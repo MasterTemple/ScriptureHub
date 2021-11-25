@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you",
@@ -13,7 +14,8 @@
     "translit": "(’at·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "would earnestly seek",
@@ -21,7 +23,8 @@
     "translit": "(tə·ša·ḥêr)",
     "parse": "Verb - Piel - Imperfect - second person masculine singular",
     "str": "Strong's 7836:  ",
-    "str2": "To dawn, be, early at any task, to search for"
+    "str2": "To dawn, be, early at any task, to search for",
+    "num": 7836
   },
   {
     "word": "God",
@@ -29,7 +32,8 @@
     "translit": "(’êl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 410:  ",
-    "str2": "Strength -- as adjective, mighty, the Almighty"
+    "str2": "Strength -- as adjective, mighty, the Almighty",
+    "num": 410
   },
   {
     "word": "and ask the Almighty",
@@ -37,7 +41,8 @@
     "translit": "(day)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 7706:  ",
-    "str2": "The Almighty"
+    "str2": "The Almighty",
+    "num": 7706
   },
   {
     "word": "for mercy,",
@@ -45,6 +50,7 @@
     "translit": "(tiṯ·ḥan·nān)",
     "parse": "Verb - Hitpael - Imperfect - second person masculine singular",
     "str": "Strong's 2603:  ",
-    "str2": "To bend, stoop in kindness to an inferior, to favor, bestow, to implore"
+    "str2": "To bend, stoop in kindness to an inferior, to favor, bestow, to implore",
+    "num": 2603
   }
 ]

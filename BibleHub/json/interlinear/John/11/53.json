@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "from",
@@ -13,7 +14,8 @@
     "translit": "(Ap’)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "that",
@@ -21,7 +23,8 @@
     "translit": "(ekeinēs)",
     "parse": "Demonstrative Pronoun - Genitive Feminine Singular",
     "str": "Strong's 1565:  ",
-    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed."
+    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed.",
+    "num": 1565
   },
   {
     "word": "day {on}",
@@ -29,7 +32,8 @@
     "translit": "(hēmeras)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "they plotted",
@@ -37,7 +41,8 @@
     "translit": "(ebouleusanto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Plural",
     "str": "Strong's 1011:  ",
-    "str2": "To deliberate, take counsel, determine. From boule; to advise, i.e. deliberate, or resolve."
+    "str2": "To deliberate, take counsel, determine. From boule; to advise, i.e. deliberate, or resolve.",
+    "num": 1011
   },
   {
     "word": "to",
@@ -45,7 +50,8 @@
     "translit": "(hina)",
     "parse": "Conjunction",
     "str": "Strong's 2443:  ",
-    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that."
+    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that.",
+    "num": 2443
   },
   {
     "word": "kill",
@@ -53,7 +59,8 @@
     "translit": "(apokteinōsin)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Plural",
     "str": "Strong's 615:  ",
-    "str2": "To put to death, kill; fig: I abolish. From apo and kteino; to kill outright; figuratively, to destroy."
+    "str2": "To put to death, kill; fig: I abolish. From apo and kteino; to kill outright; figuratively, to destroy.",
+    "num": 615
   },
   {
     "word": "Him.",
@@ -61,6 +68,7 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

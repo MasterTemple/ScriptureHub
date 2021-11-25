@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "when you eat",
@@ -13,7 +14,8 @@
     "translit": "(ṯō·ḵêl)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "the fruit",
@@ -21,7 +23,8 @@
     "translit": "(kap·pe·ḵā)",
     "parse": "Noun - fdc | second person masculine singular",
     "str": "Strong's 3709:  ",
-    "str2": "Hollow or flat of the hand, palm, sole (of the foot), a pan"
+    "str2": "Hollow or flat of the hand, palm, sole (of the foot), a pan",
+    "num": 3709
   },
   {
     "word": "of your labor,",
@@ -29,7 +32,8 @@
     "translit": "(yə·ḡî·a‘)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3018:  ",
-    "str2": "Toil, a work, produce, property"
+    "str2": "Toil, a work, produce, property",
+    "num": 3018
   },
   {
     "word": "blessings",
@@ -37,7 +41,8 @@
     "translit": "(’aš·re·ḵā)",
     "parse": "Interjection | second person masculine singular",
     "str": "Strong's 835:  ",
-    "str2": "Happiness, interjection, how happy!"
+    "str2": "Happiness, interjection, how happy!",
+    "num": 835
   },
   {
     "word": "and prosperity",
@@ -45,7 +50,8 @@
     "translit": "(wə·ṭō·wḇ)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 2896:  ",
-    "str2": "Pleasant, agreeable, good"
+    "str2": "Pleasant, agreeable, good",
+    "num": 2896
   },
   {
     "word": "will be yours.",
@@ -53,6 +59,7 @@
     "translit": "(lāḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

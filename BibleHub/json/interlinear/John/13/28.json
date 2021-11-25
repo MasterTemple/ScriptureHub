@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "no one",
@@ -13,7 +14,8 @@
     "translit": "(oudeis)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3762:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3762
   },
   {
     "word": "[at the table]",
@@ -21,7 +23,8 @@
     "translit": "(anakeimenōn)",
     "parse": "Verb - Present Participle Middle or Passive - Genitive Masculine Plural",
     "str": "Strong's 345:  ",
-    "str2": "To recline, especially at a dinner-table. From ana and keimai; to recline."
+    "str2": "To recline, especially at a dinner-table. From ana and keimai; to recline.",
+    "num": 345
   },
   {
     "word": "knew",
@@ -29,7 +32,8 @@
     "translit": "(egnō)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1097:  ",
-    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications."
+    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications.",
+    "num": 1097
   },
   {
     "word": "why",
@@ -37,7 +41,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "[Jesus] had said",
@@ -45,7 +50,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "this",
@@ -53,7 +59,8 @@
     "translit": "(touto)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "to him.",
@@ -61,6 +68,7 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

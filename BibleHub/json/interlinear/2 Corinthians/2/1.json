@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "I made up my mind",
@@ -13,7 +14,8 @@
     "translit": "(Ekrina)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 2919:  ",
-    "str2": "Properly, to distinguish, i.e. Decide; by implication, to try, condemn, punish."
+    "str2": "Properly, to distinguish, i.e. Decide; by implication, to try, condemn, punish.",
+    "num": 2919
   },
   {
     "word": "not",
@@ -21,7 +23,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "to make",
@@ -29,7 +32,8 @@
     "translit": "(elthein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "another",
@@ -37,7 +41,8 @@
     "translit": "(palin)",
     "parse": "Adverb",
     "str": "Strong's 3825:  ",
-    "str2": "Probably from the same as pale; anew, i.e. back, once more, or furthermore or on the other hand."
+    "str2": "Probably from the same as pale; anew, i.e. back, once more, or furthermore or on the other hand.",
+    "num": 3825
   },
   {
     "word": "painful {visit}",
@@ -45,7 +50,8 @@
     "translit": "(lypē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3077:  ",
-    "str2": "Pain, grief, sorrow, affliction. Apparently a primary word; sadness."
+    "str2": "Pain, grief, sorrow, affliction. Apparently a primary word; sadness.",
+    "num": 3077
   },
   {
     "word": "to",
@@ -53,7 +59,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "you.",
@@ -61,6 +68,7 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

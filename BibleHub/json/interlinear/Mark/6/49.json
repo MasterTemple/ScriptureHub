@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "when they saw",
@@ -13,7 +14,8 @@
     "translit": "(idontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "Him",
@@ -21,7 +23,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "walking",
@@ -29,7 +32,8 @@
     "translit": "(peripatounta)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Singular",
     "str": "Strong's 4043:  ",
-    "str2": "From peri and pateo; to tread all around, i.e. Walk at large; figuratively, to live, deport oneself, follow."
+    "str2": "From peri and pateo; to tread all around, i.e. Walk at large; figuratively, to live, deport oneself, follow.",
+    "num": 4043
   },
   {
     "word": "on",
@@ -37,7 +41,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "sea,",
@@ -53,7 +59,8 @@
     "translit": "(thalassēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2281:  ",
-    "str2": "Probably prolonged from hals; the sea."
+    "str2": "Probably prolonged from hals; the sea.",
+    "num": 2281
   },
   {
     "word": "they cried out,",
@@ -61,7 +68,8 @@
     "translit": "(anekraxan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 349:  ",
-    "str2": "To shout aloud, cry out. From ana and krazo; to scream up."
+    "str2": "To shout aloud, cry out. From ana and krazo; to scream up.",
+    "num": 349
   },
   {
     "word": "thinking",
@@ -69,7 +77,8 @@
     "translit": "(edoxan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1380:  ",
-    "str2": "A prolonged form of a primary verb, doko dok'-o of the same meaning; to think; by implication, to seem."
+    "str2": "A prolonged form of a primary verb, doko dok'-o of the same meaning; to think; by implication, to seem.",
+    "num": 1380
   },
   {
     "word": "[He] was",
@@ -77,7 +86,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "a ghost—",
@@ -85,6 +95,7 @@
     "translit": "(phantasma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 5326:  ",
-    "str2": "An apparition, ghost, spirit, phantom. From phantazo; a show, i.e. Spectre."
+    "str2": "An apparition, ghost, spirit, phantom. From phantazo; a show, i.e. Spectre.",
+    "num": 5326
   }
 ]

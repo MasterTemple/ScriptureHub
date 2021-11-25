@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "says:",
@@ -21,7 +23,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“Go,",
@@ -29,7 +32,8 @@
     "translit": "(hā·lō·wḵ)",
     "parse": "Verb - Qal - Infinitive absolute",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "buy",
@@ -37,7 +41,8 @@
     "translit": "(wə·qā·nî·ṯā)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - second person masculine singular",
     "str": "Strong's 7069:  ",
-    "str2": "To erect, create, to procure, by purchase, to own"
+    "str2": "To erect, create, to procure, by purchase, to own",
+    "num": 7069
   },
   {
     "word": "a clay",
@@ -45,7 +50,8 @@
     "translit": "(ḥā·reś)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2789:  ",
-    "str2": "Earthenware, earthen vessel, sherd, potsherd"
+    "str2": "Earthenware, earthen vessel, sherd, potsherd",
+    "num": 2789
   },
   {
     "word": "jar",
@@ -53,7 +59,8 @@
     "translit": "(ḇaq·buq)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1228:  ",
-    "str2": "A bottle"
+    "str2": "A bottle",
+    "num": 1228
   },
   {
     "word": "from a potter.",
@@ -61,7 +68,8 @@
     "translit": "(yō·w·ṣêr)",
     "parse": "Verb - Qal - Participle - masculine singular construct",
     "str": "Strong's 3335:  ",
-    "str2": "To mould into a, form, as a, potter, to determine"
+    "str2": "To mould into a, form, as a, potter, to determine",
+    "num": 3335
   },
   {
     "word": "Take some of the elders",
@@ -69,7 +77,8 @@
     "translit": "(ū·miz·ziq·nê)",
     "parse": "Conjunctive waw, Preposition-m | Adjective - masculine plural construct",
     "str": "Strong's 2205:  ",
-    "str2": "Old"
+    "str2": "Old",
+    "num": 2205
   },
   {
     "word": "of the people",
@@ -77,7 +86,8 @@
     "translit": "(hā·‘ām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "and leaders",
@@ -85,7 +95,8 @@
     "translit": "(ū·miz·ziq·nê)",
     "parse": "Conjunctive waw, Preposition-m | Adjective - masculine plural construct",
     "str": "Strong's 2205:  ",
-    "str2": "Old"
+    "str2": "Old",
+    "num": 2205
   },
   {
     "word": "of the priests,",
@@ -93,6 +104,7 @@
     "translit": "(hak·kō·hă·nîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 3548:  ",
-    "str2": "Priest"
+    "str2": "Priest",
+    "num": 3548
   }
 ]

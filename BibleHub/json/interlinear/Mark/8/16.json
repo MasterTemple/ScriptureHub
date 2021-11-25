@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they began to discuss",
@@ -13,7 +14,8 @@
     "translit": "(dielogizonto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 1260:  ",
-    "str2": "To reason (with), debate (with), consider. From dia and logizomai; to reckon thoroughly, i.e. to deliberate."
+    "str2": "To reason (with), debate (with), consider. From dia and logizomai; to reckon thoroughly, i.e. to deliberate.",
+    "num": 1260
   },
   {
     "word": "with",
@@ -21,7 +23,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "one another",
@@ -29,7 +32,8 @@
     "translit": "(allēlous)",
     "parse": "Personal / Reciprocal Pronoun - Accusative Masculine Plural",
     "str": "Strong's 240:  ",
-    "str2": "One another, each other. Genitive plural from allos reduplicated; one another."
+    "str2": "One another, each other. Genitive plural from allos reduplicated; one another.",
+    "num": 240
   },
   {
     "word": "the fact that",
@@ -37,7 +41,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "they had",
@@ -45,7 +50,8 @@
     "translit": "(echousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "no",
@@ -53,7 +59,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "bread.",
@@ -61,6 +68,7 @@
     "translit": "(artous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 740:  ",
-    "str2": "Bread, a loaf, food. From airo; bread or a loaf."
+    "str2": "Bread, a loaf, food. From airo; bread or a loaf.",
+    "num": 740
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(Ainea)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 132:  ",
-    "str2": "Aeneas, a citizen of Lydda. Of uncertain derivation; Aeneas, an Israelite."
+    "str2": "Aeneas, a citizen of Lydda. Of uncertain derivation; Aeneas, an Israelite.",
+    "num": 132
   },
   {
     "word": "Peter",
@@ -13,7 +14,8 @@
     "translit": "(Petros)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4074:  ",
-    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle."
+    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle.",
+    "num": 4074
   },
   {
     "word": "said",
@@ -21,7 +23,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "to him,",
@@ -29,7 +32,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“Jesus",
@@ -37,7 +41,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "Christ",
@@ -45,7 +50,8 @@
     "translit": "(Christos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "heals",
@@ -53,7 +59,8 @@
     "translit": "(iatai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 2390:  ",
-    "str2": "To heal, generally of the physical, sometimes of spiritual, disease. Middle voice of apparently a primary verb; to cure."
+    "str2": "To heal, generally of the physical, sometimes of spiritual, disease. Middle voice of apparently a primary verb; to cure.",
+    "num": 2390
   },
   {
     "word": "you!",
@@ -61,7 +68,8 @@
     "translit": "(se)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "Get up",
@@ -69,7 +77,8 @@
     "translit": "(anastēthi)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 450:  ",
-    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up."
+    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up.",
+    "num": 450
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "put away your mat.”",
@@ -85,7 +95,8 @@
     "translit": "(strōson)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 4766:  ",
-    "str2": "To spread, make a bed. Or simpler stronnuo, prolongation from a still simpler stroo, ; to 'strew, ' i.e. Spread."
+    "str2": "To spread, make a bed. Or simpler stronnuo, prolongation from a still simpler stroo, ; to 'strew, ' i.e. Spread.",
+    "num": 4766
   },
   {
     "word": "Immediately",
@@ -93,7 +104,8 @@
     "translit": "(eutheōs)",
     "parse": "Adverb",
     "str": "Strong's 2112:  ",
-    "str2": "Immediately, soon, at once. Adverb from euthus; directly, i.e. At once or soon."
+    "str2": "Immediately, soon, at once. Adverb from euthus; directly, i.e. At once or soon.",
+    "num": 2112
   },
   {
     "word": "[Aeneas] got up,",
@@ -101,6 +113,7 @@
     "translit": "(anestē)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 450:  ",
-    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up."
+    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up.",
+    "num": 450
   }
 ]

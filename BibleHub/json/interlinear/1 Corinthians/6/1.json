@@ -5,7 +5,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "of you",
@@ -13,7 +14,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "has",
@@ -21,7 +23,8 @@
     "translit": "(echōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "a grievance",
@@ -29,7 +32,8 @@
     "translit": "(pragma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4229:  ",
-    "str2": "A thing done, a deed, action; a matter, an affair. From prasso; a deed; by implication, an affair; by extension, an object."
+    "str2": "A thing done, a deed, action; a matter, an affair. From prasso; a deed; by implication, an affair; by extension, an object.",
+    "num": 4229
   },
   {
     "word": "against",
@@ -37,7 +41,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "another,",
@@ -45,7 +50,8 @@
     "translit": "(heteron)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 2087:  ",
-    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different."
+    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different.",
+    "num": 2087
   },
   {
     "word": "how dare",
@@ -53,7 +59,8 @@
     "translit": "(Tolma)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 5111:  ",
-    "str2": "To dare, endure, be bold, have courage, make up the mind. From tolma; to venture; by implication, to be courageous."
+    "str2": "To dare, endure, be bold, have courage, make up the mind. From tolma; to venture; by implication, to be courageous.",
+    "num": 5111
   },
   {
     "word": "he go to law",
@@ -61,7 +68,8 @@
     "translit": "(krinesthai)",
     "parse": "Verb - Present Infinitive Middle or Passive",
     "str": "Strong's 2919:  ",
-    "str2": "Properly, to distinguish, i.e. Decide; by implication, to try, condemn, punish."
+    "str2": "Properly, to distinguish, i.e. Decide; by implication, to try, condemn, punish.",
+    "num": 2919
   },
   {
     "word": "before",
@@ -69,7 +77,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "unrighteous",
@@ -85,7 +95,8 @@
     "translit": "(adikōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 94:  ",
-    "str2": "Unjust, unrighteous, wicked. Specially, heathen."
+    "str2": "Unjust, unrighteous, wicked. Specially, heathen.",
+    "num": 94
   },
   {
     "word": "[instead of]",
@@ -93,7 +104,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "before",
@@ -101,7 +113,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "the",
@@ -109,7 +122,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "saints!",
@@ -117,6 +131,7 @@
     "translit": "(hagiōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   }
 ]

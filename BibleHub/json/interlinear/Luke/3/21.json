@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "all",
@@ -13,7 +14,8 @@
     "translit": "(hapanta)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 537:  ",
-    "str2": "All, the whole, altogether. Absolutely all or every one."
+    "str2": "All, the whole, altogether. Absolutely all or every one.",
+    "num": 537
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "people",
@@ -29,7 +32,8 @@
     "translit": "(laon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2992:  ",
-    "str2": "Apparently a primary word; a people."
+    "str2": "Apparently a primary word; a people.",
+    "num": 2992
   },
   {
     "word": "were being baptized,",
@@ -37,7 +41,8 @@
     "translit": "(baptisthēnai)",
     "parse": "Verb - Aorist Infinitive Passive",
     "str": "Strong's 907:  ",
-    "str2": "Lit: I dip, submerge, but specifically of ceremonial dipping; I baptize. "
+    "str2": "Lit: I dip, submerge, but specifically of ceremonial dipping; I baptize. ",
+    "num": 907
   },
   {
     "word": "Jesus",
@@ -45,7 +50,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "was baptized",
@@ -53,7 +59,8 @@
     "translit": "(baptisthentos)",
     "parse": "Verb - Aorist Participle Passive - Genitive Masculine Singular",
     "str": "Strong's 907:  ",
-    "str2": "Lit: I dip, submerge, but specifically of ceremonial dipping; I baptize. "
+    "str2": "Lit: I dip, submerge, but specifically of ceremonial dipping; I baptize. ",
+    "num": 907
   },
   {
     "word": "too.",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "And",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "as He was praying,",
@@ -77,7 +86,8 @@
     "translit": "(proseuchomenou)",
     "parse": "Verb - Present Participle Middle or Passive - Genitive Masculine Singular",
     "str": "Strong's 4336:  ",
-    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship."
+    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship.",
+    "num": 4336
   },
   {
     "word": "heaven",
@@ -85,7 +95,8 @@
     "translit": "(ouranon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3772:  ",
-    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel."
+    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel.",
+    "num": 3772
   },
   {
     "word": "was opened,",
@@ -93,6 +104,7 @@
     "translit": "(aneōchthēnai)",
     "parse": "Verb - Aorist Infinitive Passive",
     "str": "Strong's 455:  ",
-    "str2": "To open. From ana and oigo; to open up."
+    "str2": "To open. From ana and oigo; to open up.",
+    "num": 455
   }
 ]

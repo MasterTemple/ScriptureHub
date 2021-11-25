@@ -5,7 +5,8 @@
     "translit": "(šə·na·yim)",
     "parse": "Number - md",
     "str": "Strong's 8147:  ",
-    "str2": "Two (a cardinal number)"
+    "str2": "Two (a cardinal number)",
+    "num": 8147
   },
   {
     "word": "walk",
@@ -13,7 +14,8 @@
     "translit": "(hă·yê·lə·ḵū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "together",
@@ -21,7 +23,8 @@
     "translit": "(yaḥ·dāw)",
     "parse": "Adverb",
     "str": "Strong's 3162:  ",
-    "str2": "A unit, unitedly"
+    "str2": "A unit, unitedly",
+    "num": 3162
   },
   {
     "word": "without",
@@ -29,7 +32,8 @@
     "translit": "(bil·tî)",
     "parse": "Preposition",
     "str": "Strong's 1115:  ",
-    "str2": "A failure of, not, except, without, unless, besides, because not, until"
+    "str2": "A failure of, not, except, without, unless, besides, because not, until",
+    "num": 1115
   },
   {
     "word": "an appointment to meet?",
@@ -37,6 +41,7 @@
     "translit": "(nō·w·‘ā·ḏū)",
     "parse": "Verb - Nifal - Perfect - third person common plural",
     "str": "Strong's 3259:  ",
-    "str2": "To fix upon, to meet, to summon, to direct, to engage"
+    "str2": "To fix upon, to meet, to summon, to direct, to engage",
+    "num": 3259
   }
 ]

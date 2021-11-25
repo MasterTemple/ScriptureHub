@@ -5,7 +5,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "crowds",
@@ -13,7 +14,8 @@
     "translit": "(ochloi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3793:  ",
-    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot."
+    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot.",
+    "num": 3793
   },
   {
     "word": "were all amazed",
@@ -21,7 +23,8 @@
     "translit": "(existanto)",
     "parse": "Verb - Imperfect Indicative Middle - 3rd Person Plural",
     "str": "Strong's 1839:  ",
-    "str2": "From ek and histemi; to put out of wits, i.e. Astound, or become astounded, insane."
+    "str2": "From ek and histemi; to put out of wits, i.e. Astound, or become astounded, insane.",
+    "num": 1839
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "asked,",
@@ -37,7 +41,8 @@
     "translit": "(elegon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“Could this be",
@@ -45,7 +50,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Son",
@@ -61,7 +68,8 @@
     "translit": "(huios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   },
   {
     "word": "of David?”",
@@ -69,6 +77,7 @@
     "translit": "(Dauid)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 1138:  ",
-    "str2": "David, King of Israel. Of Hebrew origin; Dabid, the Israelite king."
+    "str2": "David, King of Israel. Of Hebrew origin; Dabid, the Israelite king.",
+    "num": 1138
   }
 ]

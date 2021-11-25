@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "devil",
@@ -21,7 +23,8 @@
     "translit": "(diabolos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1228:  ",
-    "str2": "From diaballo; a traducer; specially, Satan."
+    "str2": "From diaballo; a traducer; specially, Satan.",
+    "num": 1228
   },
   {
     "word": "had finished",
@@ -29,7 +32,8 @@
     "translit": "(syntelesas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4931:  ",
-    "str2": "To bring to an end, fulfill, accomplish. From sun and teleo; to complete entirely; generally, to execute."
+    "str2": "To bring to an end, fulfill, accomplish. From sun and teleo; to complete entirely; generally, to execute.",
+    "num": 4931
   },
   {
     "word": "every",
@@ -37,7 +41,8 @@
     "translit": "(panta)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "temptation,",
@@ -45,7 +50,8 @@
     "translit": "(peirasmon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3986:  ",
-    "str2": "From peirazo; a putting to proof (of good), experience (of evil), solicitation, discipline or provocation); by implication, adversity."
+    "str2": "From peirazo; a putting to proof (of good), experience (of evil), solicitation, discipline or provocation); by implication, adversity.",
+    "num": 3986
   },
   {
     "word": "he left",
@@ -53,7 +59,8 @@
     "translit": "(apestē)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 868:  ",
-    "str2": "From apo and histemi; to remove, i.e. instigate to revolt; usually to desist, desert, etc."
+    "str2": "From apo and histemi; to remove, i.e. instigate to revolt; usually to desist, desert, etc.",
+    "num": 868
   },
   {
     "word": "Him",
@@ -61,7 +68,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "until",
@@ -69,7 +77,8 @@
     "translit": "(achri)",
     "parse": "Preposition",
     "str": "Strong's 891:  ",
-    "str2": "As far as, up to, until, during. Or achris akh'-rece; akin to akron; until or up to."
+    "str2": "As far as, up to, until, during. Or achris akh'-rece; akin to akron; until or up to.",
+    "num": 891
   },
   {
     "word": "an opportune time.",
@@ -77,6 +86,7 @@
     "translit": "(kairou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2540:  ",
-    "str2": "Fitting season, season, opportunity, occasion, time. Of uncertain affinity; an occasion, i.e. Set or proper time."
+    "str2": "Fitting season, season, opportunity, occasion, time. Of uncertain affinity; an occasion, i.e. Set or proper time.",
+    "num": 2540
   }
 ]

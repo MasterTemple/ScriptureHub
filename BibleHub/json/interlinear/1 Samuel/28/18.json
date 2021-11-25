@@ -5,7 +5,8 @@
     "translit": "(ka·’ă·šer)",
     "parse": "Preposition-k | Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "you did not",
@@ -13,7 +14,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "obey",
@@ -21,7 +23,8 @@
     "translit": "(šā·ma‘·tā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "the LORD",
@@ -29,7 +32,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "[or]",
@@ -37,7 +41,8 @@
     "translit": "(wə·lō-)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "carry out",
@@ -45,7 +50,8 @@
     "translit": "(‘ā·śî·ṯā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "His burning",
@@ -53,7 +59,8 @@
     "translit": "(ḥă·rō·wn-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 2740:  ",
-    "str2": "A burning of anger"
+    "str2": "A burning of anger",
+    "num": 2740
   },
   {
     "word": "anger",
@@ -61,7 +68,8 @@
     "translit": "(’ap·pōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 639:  ",
-    "str2": "The nose, nostril, the face, a person, ire"
+    "str2": "The nose, nostril, the face, a person, ire",
+    "num": 639
   },
   {
     "word": "against Amalek,",
@@ -69,7 +77,8 @@
     "translit": "(ba·‘ă·mā·lêq)",
     "parse": "Preposition-b | Noun - proper - masculine singular",
     "str": "Strong's 6002:  ",
-    "str2": "Amalek -- a descendant of Esau, also his posterity"
+    "str2": "Amalek -- a descendant of Esau, also his posterity",
+    "num": 6002
   },
   {
     "word": "the LORD",
@@ -77,7 +86,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "has done",
@@ -85,7 +95,8 @@
     "translit": "(‘ā·śāh-)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "this to you today.",
@@ -93,6 +104,7 @@
     "translit": "(haz·zeh)",
     "parse": "Article | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   }
 ]

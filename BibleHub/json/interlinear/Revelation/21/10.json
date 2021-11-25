@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he carried me away",
@@ -13,7 +14,8 @@
     "translit": "(apēnenken)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 667:  ",
-    "str2": "To carry, bear away (sometimes with violence). From apo and phero; to bear off."
+    "str2": "To carry, bear away (sometimes with violence). From apo and phero; to bear off.",
+    "num": 667
   },
   {
     "word": "in",
@@ -21,7 +23,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[the] Spirit",
@@ -29,7 +32,8 @@
     "translit": "(Pneumati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "to",
@@ -37,7 +41,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "a mountain",
@@ -45,7 +50,8 @@
     "translit": "(oros)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3735:  ",
-    "str2": "A mountain, hill. Probably from an obsolete oro; a mountain: -hill, mount(-ain)."
+    "str2": "A mountain, hill. Probably from an obsolete oro; a mountain: -hill, mount(-ain).",
+    "num": 3735
   },
   {
     "word": "great",
@@ -53,7 +59,8 @@
     "translit": "(mega)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 3173:  ",
-    "str2": "Large, great, in the widest sense. "
+    "str2": "Large, great, in the widest sense. ",
+    "num": 3173
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "high,",
@@ -69,7 +77,8 @@
     "translit": "(hypsēlon)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 5308:  ",
-    "str2": "High, lofty. From hupsos; lofty."
+    "str2": "High, lofty. From hupsos; lofty.",
+    "num": 5308
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "showed",
@@ -85,7 +95,8 @@
     "translit": "(edeixen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1166:  ",
-    "str2": "A prolonged form of an obsolete primary of the same meaning; to show."
+    "str2": "A prolonged form of an obsolete primary of the same meaning; to show.",
+    "num": 1166
   },
   {
     "word": "me",
@@ -93,7 +104,8 @@
     "translit": "(moi)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "holy",
@@ -109,7 +122,8 @@
     "translit": "(hagian)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   },
   {
     "word": "city",
@@ -117,7 +131,8 @@
     "translit": "(polin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4172:  ",
-    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town."
+    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town.",
+    "num": 4172
   },
   {
     "word": "[of] Jerusalem",
@@ -125,7 +140,8 @@
     "translit": "(Ierousalēm)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2419:  ",
-    "str2": "Of Hebrew origin; Hierusalem, the capitol of Palestine."
+    "str2": "Of Hebrew origin; Hierusalem, the capitol of Palestine.",
+    "num": 2419
   },
   {
     "word": "coming down",
@@ -133,7 +149,8 @@
     "translit": "(katabainousan)",
     "parse": "Verb - Present Participle Active - Accusative Feminine Singular",
     "str": "Strong's 2597:  ",
-    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend."
+    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend.",
+    "num": 2597
   },
   {
     "word": "out of",
@@ -141,7 +158,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "heaven",
@@ -149,7 +167,8 @@
     "translit": "(ouranou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3772:  ",
-    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel."
+    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel.",
+    "num": 3772
   },
   {
     "word": "from",
@@ -157,7 +176,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "God,",
@@ -165,6 +185,7 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

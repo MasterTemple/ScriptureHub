@@ -5,7 +5,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "will go out",
@@ -13,7 +14,8 @@
     "translit": "(yê·ṣê)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "and come in",
@@ -21,7 +23,8 @@
     "translit": "(yā·ḇō)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "before them,",
@@ -29,7 +32,8 @@
     "translit": "(lip̄·nê·hem)",
     "parse": "Preposition-l | Noun - masculine plural construct | third person masculine plural",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "and who",
@@ -37,7 +41,8 @@
     "translit": "(wa·’ă·šer)",
     "parse": "Conjunctive waw | Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "will lead them out",
@@ -45,7 +50,8 @@
     "translit": "(yō·w·ṣî·’êm)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular | third person masculine plural",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "and bring them in,",
@@ -53,7 +59,8 @@
     "translit": "(yə·ḇî·’êm)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular | third person masculine plural",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "so that the congregation",
@@ -61,7 +68,8 @@
     "translit": "(‘ă·ḏaṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 5712:  ",
-    "str2": "A stated assemblage"
+    "str2": "A stated assemblage",
+    "num": 5712
   },
   {
     "word": "of the LORD",
@@ -69,7 +77,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "will not",
@@ -77,7 +86,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "be",
@@ -85,7 +95,8 @@
     "translit": "(ṯih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "like sheep",
@@ -93,7 +104,8 @@
     "translit": "(kaṣ·ṣōn)",
     "parse": "Preposition-k, Article | Noun - common singular",
     "str": "Strong's 6629:  ",
-    "str2": "Small cattle, sheep and goats, flock"
+    "str2": "Small cattle, sheep and goats, flock",
+    "num": 6629
   },
   {
     "word": "without",
@@ -101,7 +113,8 @@
     "translit": "(’ên-)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "a shepherd.”",
@@ -109,6 +122,7 @@
     "translit": "(rō·‘eh)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 7462:  ",
-    "str2": "To tend a, flock, pasture it, in, to graze, to rule, to associate with"
+    "str2": "To tend a, flock, pasture it, in, to graze, to rule, to associate with",
+    "num": 7462
   }
 ]

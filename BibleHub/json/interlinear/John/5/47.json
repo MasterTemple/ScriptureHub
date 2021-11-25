@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "since",
@@ -13,7 +14,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "you do not believe",
@@ -21,7 +23,8 @@
     "translit": "(pisteuete)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 4100:  ",
-    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust."
+    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust.",
+    "num": 4100
   },
   {
     "word": "what",
@@ -29,7 +32,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "he",
@@ -37,7 +41,8 @@
     "translit": "(ekeinou)",
     "parse": "Demonstrative Pronoun - Genitive Masculine Singular",
     "str": "Strong's 1565:  ",
-    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed."
+    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed.",
+    "num": 1565
   },
   {
     "word": "wrote,",
@@ -45,7 +50,8 @@
     "translit": "(grammasin)",
     "parse": "Noun - Dative Neuter Plural",
     "str": "Strong's 1121:  ",
-    "str2": "From grapho; a writing, i.e. A letter, note, epistle, book, etc. plural learning."
+    "str2": "From grapho; a writing, i.e. A letter, note, epistle, book, etc. plural learning.",
+    "num": 1121
   },
   {
     "word": "how",
@@ -53,7 +59,8 @@
     "translit": "(pōs)",
     "parse": "Adverb",
     "str": "Strong's 4459:  ",
-    "str2": "Adverb from the base of pou; an interrogative particle of manner; in what way?; also as exclamation, how much!"
+    "str2": "Adverb from the base of pou; an interrogative particle of manner; in what way?; also as exclamation, how much!",
+    "num": 4459
   },
   {
     "word": "will you believe",
@@ -61,7 +68,8 @@
     "translit": "(pisteusete)",
     "parse": "Verb - Future Indicative Active - 2nd Person Plural",
     "str": "Strong's 4100:  ",
-    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust."
+    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust.",
+    "num": 4100
   },
   {
     "word": "what",
@@ -69,7 +77,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "I",
@@ -77,7 +86,8 @@
     "translit": "(emois)",
     "parse": "Personal / Possessive Pronoun - Dative Neuter 1st Person Plural",
     "str": "Strong's 1699:  ",
-    "str2": "My, mine. From the oblique cases of ego; my."
+    "str2": "My, mine. From the oblique cases of ego; my.",
+    "num": 1699
   },
   {
     "word": "say?”",
@@ -85,6 +95,7 @@
     "translit": "(rhēmasin)",
     "parse": "Noun - Dative Neuter Plural",
     "str": "Strong's 4487:  ",
-    "str2": "From rheo; an utterance, ; by implication, a matter or topic; with a negative naught whatever."
+    "str2": "From rheo; an utterance, ; by implication, a matter or topic; with a negative naught whatever.",
+    "num": 4487
   }
 ]

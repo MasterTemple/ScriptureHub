@@ -5,7 +5,8 @@
     "translit": "(embas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1684:  ",
-    "str2": "To step in; I go onboard a ship, embark. From en and the base of basis; to walk on, i.e. Embark, reach."
+    "str2": "To step in; I go onboard a ship, embark. From en and the base of basis; to walk on, i.e. Embark, reach.",
+    "num": 1684
   },
   {
     "word": "a boat,",
@@ -13,7 +14,8 @@
     "translit": "(ploion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4143:  ",
-    "str2": "A ship, vessel, boat. From pleo; a sailer, i.e. Vessel."
+    "str2": "A ship, vessel, boat. From pleo; a sailer, i.e. Vessel.",
+    "num": 4143
   },
   {
     "word": "crossed over,",
@@ -21,7 +23,8 @@
     "translit": "(dieperasen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1276:  ",
-    "str2": "To cross over, pass over. From dia and a derivative of the base of peran; to cross entirely."
+    "str2": "To cross over, pass over. From dia and a derivative of the base of peran; to cross entirely.",
+    "num": 1276
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "came",
@@ -37,7 +41,8 @@
     "translit": "(ēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "to",
@@ -45,7 +50,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "[His]",
@@ -53,7 +59,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "own",
@@ -61,7 +68,8 @@
     "translit": "(idian)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 2398:  ",
-    "str2": "Pertaining to self, i.e. One's own; by implication, private or separate."
+    "str2": "Pertaining to self, i.e. One's own; by implication, private or separate.",
+    "num": 2398
   },
   {
     "word": "town.",
@@ -69,6 +77,7 @@
     "translit": "(polin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4172:  ",
-    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town."
+    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town.",
+    "num": 4172
   }
 ]

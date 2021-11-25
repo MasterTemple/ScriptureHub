@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I have walked",
@@ -13,7 +14,8 @@
     "translit": "(hā·laḵ·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "in",
@@ -21,7 +23,8 @@
     "translit": "(‘im-)",
     "parse": "Preposition",
     "str": "Strong's 5973:  ",
-    "str2": "With, equally with"
+    "str2": "With, equally with",
+    "num": 5973
   },
   {
     "word": "falsehood",
@@ -29,7 +32,8 @@
     "translit": "(šāw)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7723:  ",
-    "str2": "Evil, idolatry, uselessness"
+    "str2": "Evil, idolatry, uselessness",
+    "num": 7723
   },
   {
     "word": "or my foot",
@@ -37,7 +41,8 @@
     "translit": "(raḡ·lî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 7272:  ",
-    "str2": "A foot, a step, the pudenda"
+    "str2": "A foot, a step, the pudenda",
+    "num": 7272
   },
   {
     "word": "has rushed",
@@ -45,7 +50,8 @@
     "translit": "(wat·ta·ḥaš)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
     "str": "Strong's 2363:  ",
-    "str2": "To hurry, to be eager with excitement, enjoyment"
+    "str2": "To hurry, to be eager with excitement, enjoyment",
+    "num": 2363
   },
   {
     "word": "to",
@@ -53,7 +59,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "deceit,",
@@ -61,6 +68,7 @@
     "translit": "(mir·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 4820:  ",
-    "str2": "Deceit, treachery"
+    "str2": "Deceit, treachery",
+    "num": 4820
   }
 ]

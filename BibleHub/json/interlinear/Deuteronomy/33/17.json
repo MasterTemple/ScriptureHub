@@ -5,7 +5,8 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "majesty [is like]",
@@ -13,7 +14,8 @@
     "translit": "(hā·ḏār)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1926:  ",
-    "str2": "Magnificence, ornament, splendor"
+    "str2": "Magnificence, ornament, splendor",
+    "num": 1926
   },
   {
     "word": "a firstborn",
@@ -21,7 +23,8 @@
     "translit": "(bə·ḵō·wr)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1060:  ",
-    "str2": "Firstborn, chief"
+    "str2": "Firstborn, chief",
+    "num": 1060
   },
   {
     "word": "bull",
@@ -29,7 +32,8 @@
     "translit": "(šō·w·rōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 7794:  ",
-    "str2": "A head of cattle (bullock, ox, etcetera)"
+    "str2": "A head of cattle (bullock, ox, etcetera)",
+    "num": 7794
   },
   {
     "word": "and his horns",
@@ -37,7 +41,8 @@
     "translit": "(wə·qar·nê)",
     "parse": "Conjunctive waw | Noun - fdc",
     "str": "Strong's 7161:  ",
-    "str2": "A horn, a flask, cornet, an elephant's tooth, a corner, a peak, a ray, power"
+    "str2": "A horn, a flask, cornet, an elephant's tooth, a corner, a peak, a ray, power",
+    "num": 7161
   },
   {
     "word": "like those",
@@ -45,7 +50,8 @@
     "translit": "(qar·nāw)",
     "parse": "Noun - fdc | third person masculine singular",
     "str": "Strong's 7161:  ",
-    "str2": "A horn, a flask, cornet, an elephant's tooth, a corner, a peak, a ray, power"
+    "str2": "A horn, a flask, cornet, an elephant's tooth, a corner, a peak, a ray, power",
+    "num": 7161
   },
   {
     "word": "of a wild ox.",
@@ -53,7 +59,8 @@
     "translit": "(rə·’êm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7214:  ",
-    "str2": "A wild bull"
+    "str2": "A wild bull",
+    "num": 7214
   },
   {
     "word": "With them he will gore",
@@ -61,7 +68,8 @@
     "translit": "(yə·nag·gaḥ)",
     "parse": "Verb - Piel - Imperfect - third person masculine singular",
     "str": "Strong's 5055:  ",
-    "str2": "To butt with the horns, to war against"
+    "str2": "To butt with the horns, to war against",
+    "num": 5055
   },
   {
     "word": "the nations,",
@@ -69,7 +77,8 @@
     "translit": "(‘am·mîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "even to the ends",
@@ -77,7 +86,8 @@
     "translit": "(’ap̄·sê-)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 657:  ",
-    "str2": "Cessation, an end, no further, the ankle, foot"
+    "str2": "Cessation, an end, no further, the ankle, foot",
+    "num": 657
   },
   {
     "word": "of the earth.",
@@ -85,7 +95,8 @@
     "translit": "(’ā·reṣ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "Such",
@@ -93,7 +104,8 @@
     "translit": "(wə·hêm)",
     "parse": "Conjunctive waw | Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "are the myriads",
@@ -101,7 +113,8 @@
     "translit": "(riḇ·ḇō·wṯ)",
     "parse": "Number - feminine plural construct",
     "str": "Strong's 7233:  ",
-    "str2": "Multitude, myriad, ten thousand"
+    "str2": "Multitude, myriad, ten thousand",
+    "num": 7233
   },
   {
     "word": "of Ephraim,",
@@ -109,7 +122,8 @@
     "translit": "(’ep̄·ra·yim)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 669:  ",
-    "str2": "Ephraim -- a son of Joseph, also his descendants and their territory"
+    "str2": "Ephraim -- a son of Joseph, also his descendants and their territory",
+    "num": 669
   },
   {
     "word": "and such",
@@ -117,7 +131,8 @@
     "translit": "(wə·hêm)",
     "parse": "Conjunctive waw | Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "are the thousands",
@@ -125,7 +140,8 @@
     "translit": "(’al·p̄ê)",
     "parse": "Number - masculine plural construct",
     "str": "Strong's 505:  ",
-    "str2": "A thousand"
+    "str2": "A thousand",
+    "num": 505
   },
   {
     "word": "of Manasseh.”",
@@ -133,6 +149,7 @@
     "translit": "(mə·naš·šeh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 4519:  ",
-    "str2": "Manasseh -- 'causing to forget', a son of Joseph, also a king of Judah, also two Israelites"
+    "str2": "Manasseh -- 'causing to forget', a son of Joseph, also a king of Judah, also two Israelites",
+    "num": 4519
   }
 ]

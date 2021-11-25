@@ -5,7 +5,8 @@
     "translit": "(’aḇ·šā·lō·wm)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 53:  ",
-    "str2": "Absalom -- 'my father is peace', two Israelites"
+    "str2": "Absalom -- 'my father is peace', two Israelites",
+    "num": 53
   },
   {
     "word": "lived",
@@ -13,7 +14,8 @@
     "translit": "(way·yê·šeḇ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "in Jerusalem",
@@ -21,7 +23,8 @@
     "translit": "(bî·rū·šā·lim)",
     "parse": "Preposition-b | Noun - proper - feminine singular",
     "str": "Strong's 3389:  ",
-    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel"
+    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel",
+    "num": 3389
   },
   {
     "word": "two",
@@ -29,7 +32,8 @@
     "translit": "(šə·nā·ṯa·yim)",
     "parse": "Noun - fd",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "years",
@@ -37,7 +41,8 @@
     "translit": "(yā·mîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "without",
@@ -45,7 +50,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "seeing",
@@ -53,7 +59,8 @@
     "translit": "(rā·’āh)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "the face",
@@ -61,7 +68,8 @@
     "translit": "(ū·p̄ə·nê)",
     "parse": "Conjunctive waw | Noun - common plural construct",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "of the king.",
@@ -69,6 +77,7 @@
     "translit": "(ham·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you",
@@ -13,7 +14,8 @@
     "translit": "(’at·tem)",
     "parse": "Pronoun - second person masculine plural",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "are about to cross",
@@ -21,7 +23,8 @@
     "translit": "(‘ō·ḇə·rîm)",
     "parse": "Verb - Qal - Participle - masculine plural",
     "str": "Strong's 5674:  ",
-    "str2": "To pass over, through, or by, pass on"
+    "str2": "To pass over, through, or by, pass on",
+    "num": 5674
   },
   {
     "word": "the Jordan",
@@ -29,7 +32,8 @@
     "translit": "(hay·yar·dên)",
     "parse": "Article | Noun - proper - feminine singular",
     "str": "Strong's 3383:  ",
-    "str2": "Jordan -- the principal river of Palestine"
+    "str2": "Jordan -- the principal river of Palestine",
+    "num": 3383
   },
   {
     "word": "to enter",
@@ -37,7 +41,8 @@
     "translit": "(lā·ḇō)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "and possess",
@@ -45,7 +50,8 @@
     "translit": "(lā·re·šeṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 3423:  ",
-    "str2": "To occupy, to seize, to rob, to inherit, to expel, to impoverish, to ruin"
+    "str2": "To occupy, to seize, to rob, to inherit, to expel, to impoverish, to ruin",
+    "num": 3423
   },
   {
     "word": "the land",
@@ -53,7 +59,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "the LORD",
@@ -61,7 +68,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "your God",
@@ -69,7 +77,8 @@
     "translit": "(’ĕ·lō·hê·ḵem)",
     "parse": "Noun - masculine plural construct | second person masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "is giving you.",
@@ -77,7 +86,8 @@
     "translit": "(nō·ṯên)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "When you possess",
@@ -85,7 +95,8 @@
     "translit": "(wî·riš·tem)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - second person masculine plural",
     "str": "Strong's 3423:  ",
-    "str2": "To occupy, to seize, to rob, to inherit, to expel, to impoverish, to ruin"
+    "str2": "To occupy, to seize, to rob, to inherit, to expel, to impoverish, to ruin",
+    "num": 3423
   },
   {
     "word": "and settle it,",
@@ -93,6 +104,7 @@
     "translit": "(wî·šaḇ·tem-)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - second person masculine plural",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   }
 ]

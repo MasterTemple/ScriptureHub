@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "this [is]",
@@ -13,7 +14,8 @@
     "translit": "(houtos)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "what",
@@ -21,7 +23,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "[the] promise",
@@ -29,7 +32,8 @@
     "translit": "(epangelias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1860:  ",
-    "str2": "A promise. From epaggello; an announcement."
+    "str2": "A promise. From epaggello; an announcement.",
+    "num": 1860
   },
   {
     "word": "stated:",
@@ -37,7 +41,8 @@
     "translit": "(logos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "“At",
@@ -45,7 +50,8 @@
     "translit": "(Kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "appointed time",
@@ -61,7 +68,8 @@
     "translit": "(kairon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2540:  ",
-    "str2": "Fitting season, season, opportunity, occasion, time. Of uncertain affinity; an occasion, i.e. Set or proper time."
+    "str2": "Fitting season, season, opportunity, occasion, time. Of uncertain affinity; an occasion, i.e. Set or proper time.",
+    "num": 2540
   },
   {
     "word": "I will return,",
@@ -69,7 +77,8 @@
     "translit": "(eleusomai)",
     "parse": "Verb - Future Indicative Middle - 1st Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Sarah",
@@ -85,7 +95,8 @@
     "translit": "(Sarra)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4564:  ",
-    "str2": "Sarah, wife of Abraham. Of Hebrew origin; Sarra, the wife of Abraham."
+    "str2": "Sarah, wife of Abraham. Of Hebrew origin; Sarra, the wife of Abraham.",
+    "num": 4564
   },
   {
     "word": "will have",
@@ -93,7 +104,8 @@
     "translit": "(estai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "a son.”",
@@ -101,6 +113,7 @@
     "translit": "(huios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   }
 ]

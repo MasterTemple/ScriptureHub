@@ -5,7 +5,8 @@
     "translit": "(yə·hō·wō·šu·a‘)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3091:  ",
-    "str2": "Joshua -- 'the LORD is salvation', Moses' successor, also the name of a number of Israelites"
+    "str2": "Joshua -- 'the LORD is salvation', Moses' successor, also the name of a number of Israelites",
+    "num": 3091
   },
   {
     "word": "commanded",
@@ -13,7 +14,8 @@
     "translit": "(way·ṣaw)",
     "parse": "Conjunctive waw | Verb - Piel - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 6680:  ",
-    "str2": "To lay charge (upon), give charge (to), command, order"
+    "str2": "To lay charge (upon), give charge (to), command, order",
+    "num": 6680
   },
   {
     "word": "the priests,",
@@ -21,7 +23,8 @@
     "translit": "(hak·kō·hă·nîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 3548:  ",
-    "str2": "Priest"
+    "str2": "Priest",
+    "num": 3548
   },
   {
     "word": "“Come up",
@@ -29,7 +32,8 @@
     "translit": "(‘ă·lū)",
     "parse": "Verb - Qal - Imperative - masculine plural",
     "str": "Strong's 5927:  ",
-    "str2": "To ascend, in, actively"
+    "str2": "To ascend, in, actively",
+    "num": 5927
   },
   {
     "word": "from",
@@ -37,7 +41,8 @@
     "translit": "(min-)",
     "parse": "Preposition",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "the Jordan.”",
@@ -45,6 +50,7 @@
     "translit": "(hay·yar·dên)",
     "parse": "Article | Noun - proper - feminine singular",
     "str": "Strong's 3383:  ",
-    "str2": "Jordan -- the principal river of Palestine"
+    "str2": "Jordan -- the principal river of Palestine",
+    "num": 3383
   }
 ]

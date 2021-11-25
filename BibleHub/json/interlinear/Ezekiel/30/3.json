@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the day [is]",
@@ -13,7 +14,8 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "near,",
@@ -21,7 +23,8 @@
     "translit": "(qā·rō·wḇ)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 7138:  ",
-    "str2": "Near"
+    "str2": "Near",
+    "num": 7138
   },
   {
     "word": "the Day",
@@ -29,7 +32,8 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "of the LORD",
@@ -37,7 +41,8 @@
     "translit": "(Yah·weh)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "is near.",
@@ -45,7 +50,8 @@
     "translit": "(wə·qā·rō·wḇ)",
     "parse": "Conjunctive waw | Adjective - masculine singular",
     "str": "Strong's 7138:  ",
-    "str2": "Near"
+    "str2": "Near",
+    "num": 7138
   },
   {
     "word": "It will be",
@@ -53,7 +59,8 @@
     "translit": "(yih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "a day",
@@ -61,7 +68,8 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "of clouds,",
@@ -69,7 +77,8 @@
     "translit": "(‘ā·nān)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6051:  ",
-    "str2": "A cloud, the nimbus, thunder-cloud"
+    "str2": "A cloud, the nimbus, thunder-cloud",
+    "num": 6051
   },
   {
     "word": "a time",
@@ -77,7 +86,8 @@
     "translit": "(‘êṯ)",
     "parse": "Noun - common singular construct",
     "str": "Strong's 6256:  ",
-    "str2": "Time, now, when"
+    "str2": "Time, now, when",
+    "num": 6256
   },
   {
     "word": "of doom for the nations.",
@@ -85,6 +95,7 @@
     "translit": "(gō·w·yim)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 1471:  ",
-    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts"
+    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+    "num": 1471
   }
 ]

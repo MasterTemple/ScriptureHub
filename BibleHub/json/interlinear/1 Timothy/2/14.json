@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[it was] not",
@@ -13,7 +14,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "Adam",
@@ -21,7 +23,8 @@
     "translit": "(Adam)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 76:  ",
-    "str2": "Adam, the first man, the first parent of the human race. Of Hebrew origin; Adam, the first man; typically man."
+    "str2": "Adam, the first man, the first parent of the human race. Of Hebrew origin; Adam, the first man; typically man.",
+    "num": 76
   },
   {
     "word": "[who] was deceived,",
@@ -29,7 +32,8 @@
     "translit": "(ēpatēthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 538:  ",
-    "str2": "To deceive, cheat, lead into error. Of uncertain derivation; to cheat, i.e. Delude."
+    "str2": "To deceive, cheat, lead into error. Of uncertain derivation; to cheat, i.e. Delude.",
+    "num": 538
   },
   {
     "word": "but",
@@ -37,7 +41,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "woman",
@@ -53,7 +59,8 @@
     "translit": "(gynē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1135:  ",
-    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife."
+    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife.",
+    "num": 1135
   },
   {
     "word": "[who] was deceived",
@@ -61,7 +68,8 @@
     "translit": "(exapatētheisa)",
     "parse": "Verb - Aorist Participle Passive - Nominative Feminine Singular",
     "str": "Strong's 1818:  ",
-    "str2": "To deceive thoroughly. From ek and apatao; to seduce wholly."
+    "str2": "To deceive thoroughly. From ek and apatao; to seduce wholly.",
+    "num": 1818
   },
   {
     "word": "[and] fell",
@@ -69,7 +77,8 @@
     "translit": "(gegonen)",
     "parse": "Verb - Perfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "into",
@@ -77,7 +86,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "transgression.",
@@ -85,6 +95,7 @@
     "translit": "(parabasei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3847:  ",
-    "str2": "A transgression, overstepping, deviation. From parabaino; violation."
+    "str2": "A transgression, overstepping, deviation. From parabaino; violation.",
+    "num": 3847
   }
 ]

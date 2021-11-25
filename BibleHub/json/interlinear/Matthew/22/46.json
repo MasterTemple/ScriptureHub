@@ -5,7 +5,8 @@
     "translit": "(oudeis)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3762:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3762
   },
   {
     "word": "was able",
@@ -13,7 +14,8 @@
     "translit": "(edynato)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1410:  ",
-    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible."
+    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible.",
+    "num": 1410
   },
   {
     "word": "to answer",
@@ -21,7 +23,8 @@
     "translit": "(apokrithēnai)",
     "parse": "Verb - Aorist Infinitive Passive",
     "str": "Strong's 611:  ",
-    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak."
+    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak.",
+    "num": 611
   },
   {
     "word": "a word,",
@@ -29,7 +32,8 @@
     "translit": "(logon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "[and]",
@@ -37,7 +41,8 @@
     "translit": "(oude)",
     "parse": "Conjunction",
     "str": "Strong's 3761:  ",
-    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even."
+    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even.",
+    "num": 3761
   },
   {
     "word": "from",
@@ -45,7 +50,8 @@
     "translit": "(ap’)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "that",
@@ -53,7 +59,8 @@
     "translit": "(ekeinēs)",
     "parse": "Demonstrative Pronoun - Genitive Feminine Singular",
     "str": "Strong's 1565:  ",
-    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed."
+    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed.",
+    "num": 1565
   },
   {
     "word": "day [on]",
@@ -61,7 +68,8 @@
     "translit": "(hēmeras)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "[no one]",
@@ -69,7 +77,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "dared",
@@ -77,7 +86,8 @@
     "translit": "(etolmēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 5111:  ",
-    "str2": "To dare, endure, be bold, have courage, make up the mind. From tolma; to venture; by implication, to be courageous."
+    "str2": "To dare, endure, be bold, have courage, make up the mind. From tolma; to venture; by implication, to be courageous.",
+    "num": 5111
   },
   {
     "word": "to question",
@@ -85,7 +95,8 @@
     "translit": "(eperōtēsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 1905:  ",
-    "str2": "To interrogate, question, demand of. From epi and erotao; to ask for, i.e. Inquire, seek."
+    "str2": "To interrogate, question, demand of. From epi and erotao; to ask for, i.e. Inquire, seek.",
+    "num": 1905
   },
   {
     "word": "Him",
@@ -93,7 +104,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "[any] further.",
@@ -101,6 +113,7 @@
     "translit": "(ouketi)",
     "parse": "Adverb",
     "str": "Strong's 3765:  ",
-    "str2": "No longer, no more. Also ouk eti from ou and eti; not yet, no longer."
+    "str2": "No longer, no more. Also ouk eti from ou and eti; not yet, no longer.",
+    "num": 3765
   }
 ]

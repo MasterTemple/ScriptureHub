@@ -5,7 +5,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "will harm",
@@ -13,7 +14,8 @@
     "translit": "(kakōsōn)",
     "parse": "Verb - Future Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2559:  ",
-    "str2": "To treat badly, afflict, embitter, make angry. From kakos; to injure; figuratively, to exasperate."
+    "str2": "To treat badly, afflict, embitter, make angry. From kakos; to injure; figuratively, to exasperate.",
+    "num": 2559
   },
   {
     "word": "you",
@@ -21,7 +23,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "if",
@@ -29,7 +32,8 @@
     "translit": "(ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "you are",
@@ -37,7 +41,8 @@
     "translit": "(genēsthe)",
     "parse": "Verb - Aorist Subjunctive Middle - 2nd Person Plural",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "zealous",
@@ -45,7 +50,8 @@
     "translit": "(zēlōtai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 2207:  ",
-    "str2": "One who is eagerly devoted to a person or a thing, a zealot. From zeloo; a 'zealot'."
+    "str2": "One who is eagerly devoted to a person or a thing, a zealot. From zeloo; a 'zealot'.",
+    "num": 2207
   },
   {
     "word": "for what [is]",
@@ -53,7 +59,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "good?",
@@ -61,6 +68,7 @@
     "translit": "(agathou)",
     "parse": "Adjective - Genitive Neuter Singular",
     "str": "Strong's 18:  ",
-    "str2": "A primary word; 'good'."
+    "str2": "A primary word; 'good'.",
+    "num": 18
   }
 ]

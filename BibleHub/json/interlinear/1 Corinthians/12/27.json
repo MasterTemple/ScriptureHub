@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "you",
@@ -13,7 +14,8 @@
     "translit": "(Hymeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "are",
@@ -21,7 +23,8 @@
     "translit": "(este)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "[the] body",
@@ -29,7 +32,8 @@
     "translit": "(sōma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4983:  ",
-    "str2": "Body, flesh; the body of the Church. From sozo; the body, used in a very wide application, literally or figuratively."
+    "str2": "Body, flesh; the body of the Church. From sozo; the body, used in a very wide application, literally or figuratively.",
+    "num": 4983
   },
   {
     "word": "of Christ,",
@@ -37,7 +41,8 @@
     "translit": "(Christou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "each of you [is]",
@@ -53,7 +59,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "a member [of it].",
@@ -61,6 +68,7 @@
     "translit": "(melē)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 3196:  ",
-    "str2": "A bodily organ, limb, member. Of uncertain affinity; a limb or part of the body."
+    "str2": "A bodily organ, limb, member. Of uncertain affinity; a limb or part of the body.",
+    "num": 3196
   }
 ]

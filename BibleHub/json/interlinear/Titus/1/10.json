@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "many",
@@ -13,7 +14,8 @@
     "translit": "(polloi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "are",
@@ -21,7 +23,8 @@
     "translit": "(Eisin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "rebellious",
@@ -29,7 +32,8 @@
     "translit": "(anypotaktoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 506:  ",
-    "str2": "Not subject to rule, unruly. Unsubdued, i.e. Insubordinate."
+    "str2": "Not subject to rule, unruly. Unsubdued, i.e. Insubordinate.",
+    "num": 506
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "full of empty talk",
@@ -45,7 +50,8 @@
     "translit": "(mataiologoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3151:  ",
-    "str2": "A vain, empty talker. From mataios and lego; an idle talker, i.e. A wrangler."
+    "str2": "A vain, empty talker. From mataios and lego; an idle talker, i.e. A wrangler.",
+    "num": 3151
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "deception,",
@@ -61,7 +68,8 @@
     "translit": "(phrenapatai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 5423:  ",
-    "str2": "A deceiver, seducer. From phren and apate; a mind-misleader, i.e. Seducer."
+    "str2": "A deceiver, seducer. From phren and apate; a mind-misleader, i.e. Seducer.",
+    "num": 5423
   },
   {
     "word": "especially",
@@ -69,7 +77,8 @@
     "translit": "(malista)",
     "parse": "Adverb",
     "str": "Strong's 3122:  ",
-    "str2": "Most of all, especially. Neuter plural of the superlative of an apparently primary adverb mala; most or particularly."
+    "str2": "Most of all, especially. Neuter plural of the superlative of an apparently primary adverb mala; most or particularly.",
+    "num": 3122
   },
   {
     "word": "those",
@@ -77,7 +86,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "of",
@@ -85,7 +95,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "the",
@@ -93,7 +104,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "circumcision,",
@@ -101,6 +113,7 @@
     "translit": "(peritomēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4061:  ",
-    "str2": "Circumcision. From peritemno; circumcision."
+    "str2": "Circumcision. From peritemno; circumcision.",
+    "num": 4061
   }
 ]

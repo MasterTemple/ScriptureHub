@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "from",
@@ -13,7 +14,8 @@
     "translit": "(ex)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "your own",
@@ -21,7 +23,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "number,",
@@ -29,7 +32,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "men",
@@ -37,7 +41,8 @@
     "translit": "(andres)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "will rise up",
@@ -45,7 +50,8 @@
     "translit": "(anastēsontai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Plural",
     "str": "Strong's 450:  ",
-    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up."
+    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up.",
+    "num": 450
   },
   {
     "word": "[and] distort",
@@ -53,7 +59,8 @@
     "translit": "(diestrammena)",
     "parse": "Verb - Perfect Participle Middle or Passive - Accusative Neuter Plural",
     "str": "Strong's 1294:  ",
-    "str2": "To pervert, corrupt, oppose, distort. From dia and strepho; to distort, i.e. misinterpret, or corrupt."
+    "str2": "To pervert, corrupt, oppose, distort. From dia and strepho; to distort, i.e. misinterpret, or corrupt.",
+    "num": 1294
   },
   {
     "word": "[the truth]",
@@ -61,7 +68,8 @@
     "translit": "(lalountes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "to draw away",
@@ -69,7 +77,8 @@
     "translit": "(apospan)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 645:  ",
-    "str2": "From apo and spao; to drag forth, i.e. unsheathe, or relatively retire."
+    "str2": "From apo and spao; to drag forth, i.e. unsheathe, or relatively retire.",
+    "num": 645
   },
   {
     "word": "disciples",
@@ -77,7 +86,8 @@
     "translit": "(mathētas)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   },
   {
     "word": "after",
@@ -85,7 +95,8 @@
     "translit": "(opisō)",
     "parse": "Preposition",
     "str": "Strong's 3694:  ",
-    "str2": "Behind, after; back, backwards. From the same as opisthen with enclitic of direction; to the back, i.e. Aback."
+    "str2": "Behind, after; back, backwards. From the same as opisthen with enclitic of direction; to the back, i.e. Aback.",
+    "num": 3694
   },
   {
     "word": "them.",
@@ -93,6 +104,7 @@
     "translit": "(heautōn)",
     "parse": "Reflexive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   }
 ]

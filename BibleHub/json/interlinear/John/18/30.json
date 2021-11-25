@@ -5,7 +5,8 @@
     "translit": "(Ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "He",
@@ -13,7 +14,8 @@
     "translit": "(houtos)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "were",
@@ -21,7 +23,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "not",
@@ -29,7 +32,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "a criminal,”",
@@ -37,7 +41,8 @@
     "translit": "(kakon)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 2556:  ",
-    "str2": "Bad, evil, in the widest sense. Apparently a primary word; worthless, i.e. depraved, or injurious."
+    "str2": "Bad, evil, in the widest sense. Apparently a primary word; worthless, i.e. depraved, or injurious.",
+    "num": 2556
   },
   {
     "word": "they replied,",
@@ -45,7 +50,8 @@
     "translit": "(Apekrithēsan)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Plural",
     "str": "Strong's 611:  ",
-    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak."
+    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak.",
+    "num": 611
   },
   {
     "word": "“we would not have handed Him over",
@@ -53,7 +59,8 @@
     "translit": "(paredōkamen)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Plural",
     "str": "Strong's 3860:  ",
-    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit."
+    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit.",
+    "num": 3860
   },
   {
     "word": "to you.”",
@@ -61,6 +68,7 @@
     "translit": "(soi)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

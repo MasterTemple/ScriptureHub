@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he told",
@@ -13,7 +14,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "those",
@@ -21,7 +23,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "standing by,",
@@ -29,7 +32,8 @@
     "translit": "(parestōsin)",
     "parse": "Verb - Perfect Participle Active - Dative Masculine Plural",
     "str": "Strong's 3936:  ",
-    "str2": "Or prolonged paristano from para and histemi; to stand beside, i.e. to exhibit, proffer, recommend, substantiate; or to be at hand, aid."
+    "str2": "Or prolonged paristano from para and histemi; to stand beside, i.e. to exhibit, proffer, recommend, substantiate; or to be at hand, aid.",
+    "num": 3936
   },
   {
     "word": "‘Take",
@@ -37,7 +41,8 @@
     "translit": "(Arate)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 142:  ",
-    "str2": "To raise, lift up, take away, remove. "
+    "str2": "To raise, lift up, take away, remove. ",
+    "num": 142
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "mina",
@@ -53,7 +59,8 @@
     "translit": "(mnan)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3414:  ",
-    "str2": "A mina, a Greek monetary unit equal to 100 drachma. Of Latin origin; a mna, a certain weight."
+    "str2": "A mina, a Greek monetary unit equal to 100 drachma. Of Latin origin; a mna, a certain weight.",
+    "num": 3414
   },
   {
     "word": "from",
@@ -61,7 +68,8 @@
     "translit": "(ap’)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "him",
@@ -69,7 +77,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "give [it]",
@@ -85,7 +95,8 @@
     "translit": "(dote)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "to the [one who]",
@@ -93,7 +104,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "has",
@@ -101,7 +113,8 @@
     "translit": "(echonti)",
     "parse": "Verb - Present Participle Active - Dative Masculine Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "ten",
@@ -109,7 +122,8 @@
     "translit": "(deka)",
     "parse": "Adjective - Accusative Feminine Plural",
     "str": "Strong's 1176:  ",
-    "str2": "Ten. A primary number; ten."
+    "str2": "Ten. A primary number; ten.",
+    "num": 1176
   },
   {
     "word": "minas.’",
@@ -117,6 +131,7 @@
     "translit": "(mnas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 3414:  ",
-    "str2": "A mina, a Greek monetary unit equal to 100 drachma. Of Latin origin; a mna, a certain weight."
+    "str2": "A mina, a Greek monetary unit equal to 100 drachma. Of Latin origin; a mna, a certain weight.",
+    "num": 3414
   }
 ]

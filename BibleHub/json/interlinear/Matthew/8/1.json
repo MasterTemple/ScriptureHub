@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[Jesus]",
@@ -13,7 +14,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "came down",
@@ -21,7 +23,8 @@
     "translit": "(Katabantos)",
     "parse": "Verb - Aorist Participle Active - Genitive Masculine Singular",
     "str": "Strong's 2597:  ",
-    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend."
+    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend.",
+    "num": 2597
   },
   {
     "word": "from",
@@ -29,7 +32,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "mountain,",
@@ -45,7 +50,8 @@
     "translit": "(orous)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 3735:  ",
-    "str2": "A mountain, hill. Probably from an obsolete oro; a mountain: -hill, mount(-ain)."
+    "str2": "A mountain, hill. Probably from an obsolete oro; a mountain: -hill, mount(-ain).",
+    "num": 3735
   },
   {
     "word": "large",
@@ -53,7 +59,8 @@
     "translit": "(polloi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "crowds",
@@ -61,7 +68,8 @@
     "translit": "(ochloi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3793:  ",
-    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot."
+    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot.",
+    "num": 3793
   },
   {
     "word": "followed",
@@ -69,7 +77,8 @@
     "translit": "(ēkolouthēsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 190:  ",
-    "str2": "To accompany, attend, follow. Properly, to be in the same way with, i.e. To accompany."
+    "str2": "To accompany, attend, follow. Properly, to be in the same way with, i.e. To accompany.",
+    "num": 190
   },
   {
     "word": "Him.",
@@ -77,6 +86,7 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(māh)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "can I",
@@ -13,7 +14,8 @@
     "translit": "(’e·‘ĕ·śeh-)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "help you?”",
@@ -21,7 +23,8 @@
     "translit": "(lāḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "asked",
@@ -29,7 +32,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "Elisha.",
@@ -37,7 +41,8 @@
     "translit": "(’ĕ·lî·šā‘)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 477:  ",
-    "str2": "Elisha -- 'God is salvation', a well-known Israelite prophet"
+    "str2": "Elisha -- 'God is salvation', a well-known Israelite prophet",
+    "num": 477
   },
   {
     "word": "“Tell me,",
@@ -45,7 +50,8 @@
     "translit": "(hag·gî·ḏî)",
     "parse": "Verb - Hifil - Imperative - feminine singular",
     "str": "Strong's 5046:  ",
-    "str2": "To be conspicuous"
+    "str2": "To be conspicuous",
+    "num": 5046
   },
   {
     "word": "what",
@@ -53,7 +59,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "do you have",
@@ -61,7 +68,8 @@
     "translit": "(yeš-)",
     "parse": "Adverb",
     "str": "Strong's 3426:  ",
-    "str2": "Being, substance, existence, is"
+    "str2": "Being, substance, existence, is",
+    "num": 3426
   },
   {
     "word": "in the house?”",
@@ -69,7 +77,8 @@
     "translit": "(bab·bā·yiṯ)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "She answered,",
@@ -77,7 +86,8 @@
     "translit": "(wat·tō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“Your servant",
@@ -85,7 +95,8 @@
     "translit": "(lə·šip̄·ḥā·ṯə·ḵā)",
     "parse": "Preposition-l | Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 8198:  ",
-    "str2": "Maid, maidservant"
+    "str2": "Maid, maidservant",
+    "num": 8198
   },
   {
     "word": "has nothing",
@@ -93,7 +104,8 @@
     "translit": "(’ên)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "in the house",
@@ -101,7 +113,8 @@
     "translit": "(bab·ba·yiṯ)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "but",
@@ -109,7 +122,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "a jar",
@@ -117,7 +131,8 @@
     "translit": "(’ā·sūḵ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 610:  ",
-    "str2": "Anointed, an oil-flask"
+    "str2": "Anointed, an oil-flask",
+    "num": 610
   },
   {
     "word": "of oil.”",
@@ -125,6 +140,7 @@
     "translit": "(šā·men)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 8081:  ",
-    "str2": "Grease, liquid, richness"
+    "str2": "Grease, liquid, richness",
+    "num": 8081
   }
 ]

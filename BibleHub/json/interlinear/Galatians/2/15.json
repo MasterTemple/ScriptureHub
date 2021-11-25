@@ -5,7 +5,8 @@
     "translit": "(Hēmeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "Jews",
@@ -13,7 +14,8 @@
     "translit": "(Ioudaioi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 2453:  ",
-    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah."
+    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah.",
+    "num": 2453
   },
   {
     "word": "by birth",
@@ -21,7 +23,8 @@
     "translit": "(physei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 5449:  ",
-    "str2": "From phuo; growth, i.e. natural production; by extension, a genus or sort; figuratively, native disposition, constitution or usage."
+    "str2": "From phuo; growth, i.e. natural production; by extension, a genus or sort; figuratively, native disposition, constitution or usage.",
+    "num": 5449
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "not",
@@ -37,7 +41,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "Gentile",
@@ -45,7 +50,8 @@
     "translit": "(ethnōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 1484:  ",
-    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one."
+    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one.",
+    "num": 1484
   },
   {
     "word": "‘sinners’",
@@ -53,6 +59,7 @@
     "translit": "(Hamartōloi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 268:  ",
-    "str2": "Sinning, sinful, depraved, detestable. From hamartano; sinful, i.e. A sinner."
+    "str2": "Sinning, sinful, depraved, detestable. From hamartano; sinful, i.e. A sinner.",
+    "num": 268
   }
 ]

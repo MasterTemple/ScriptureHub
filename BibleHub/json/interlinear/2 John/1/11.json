@@ -5,7 +5,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "greets",
@@ -13,7 +14,8 @@
     "translit": "(legōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "[such a person]",
@@ -21,7 +23,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "shares",
@@ -29,7 +32,8 @@
     "translit": "(koinōnei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2841:  ",
-    "str2": "From koinonos; to share with others."
+    "str2": "From koinonos; to share with others.",
+    "num": 2841
   },
   {
     "word": "in",
@@ -37,7 +41,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "his",
@@ -45,7 +50,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "evil",
@@ -53,7 +59,8 @@
     "translit": "(ponērois)",
     "parse": "Adjective - Dative Neuter Plural",
     "str": "Strong's 4190:  ",
-    "str2": "Evil, bad, wicked, malicious, slothful. "
+    "str2": "Evil, bad, wicked, malicious, slothful. ",
+    "num": 4190
   },
   {
     "word": "deeds.",
@@ -61,6 +68,7 @@
     "translit": "(ergois)",
     "parse": "Noun - Dative Neuter Plural",
     "str": "Strong's 2041:  ",
-    "str2": "From a primary ergo; toil; by implication, an act."
+    "str2": "From a primary ergo; toil; by implication, an act.",
+    "num": 2041
   }
 ]

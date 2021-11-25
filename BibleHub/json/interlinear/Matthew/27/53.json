@@ -5,7 +5,8 @@
     "translit": "(meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "[Jesus’]",
@@ -13,7 +14,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "resurrection,",
@@ -21,7 +23,8 @@
     "translit": "(egersin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1454:  ",
-    "str2": "A waking up, resurrection. From egeiro; a resurgence."
+    "str2": "A waking up, resurrection. From egeiro; a resurgence.",
+    "num": 1454
   },
   {
     "word": "when they had come",
@@ -29,7 +32,8 @@
     "translit": "(exelthontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 1831:  ",
-    "str2": "To go out, come out. From ek and erchomai; to issue."
+    "str2": "To go out, come out. From ek and erchomai; to issue.",
+    "num": 1831
   },
   {
     "word": "out of",
@@ -37,7 +41,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "tombs,",
@@ -53,7 +59,8 @@
     "translit": "(mnēmeiōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 3419:  ",
-    "str2": "A tomb, sepulcher, monument. From mneme; a remembrance, i.e. Cenotaph."
+    "str2": "A tomb, sepulcher, monument. From mneme; a remembrance, i.e. Cenotaph.",
+    "num": 3419
   },
   {
     "word": "they entered",
@@ -61,7 +68,8 @@
     "translit": "(eisēlthon)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "holy",
@@ -77,7 +86,8 @@
     "translit": "(hagian)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   },
   {
     "word": "city",
@@ -85,7 +95,8 @@
     "translit": "(polin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4172:  ",
-    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town."
+    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town.",
+    "num": 4172
   },
   {
     "word": "and",
@@ -93,7 +104,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "appeared",
@@ -101,7 +113,8 @@
     "translit": "(enephanisthēsan)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Plural",
     "str": "Strong's 1718:  ",
-    "str2": "To make visible (manifest); hence: I report (inform) against; pass: I appear before. From emphanes; to exhibit or disclose."
+    "str2": "To make visible (manifest); hence: I report (inform) against; pass: I appear before. From emphanes; to exhibit or disclose.",
+    "num": 1718
   },
   {
     "word": "to many [people].",
@@ -109,6 +122,7 @@
     "translit": "(pollois)",
     "parse": "Adjective - Dative Masculine Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   }
 ]

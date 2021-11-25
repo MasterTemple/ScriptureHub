@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "has a day",
@@ -21,7 +23,8 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "of vengeance,",
@@ -29,7 +32,8 @@
     "translit": "(nā·qām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5359:  ",
-    "str2": "Vengeance"
+    "str2": "Vengeance",
+    "num": 5359
   },
   {
     "word": "a time",
@@ -37,7 +41,8 @@
     "translit": "(šə·naṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "of retribution",
@@ -45,7 +50,8 @@
     "translit": "(šil·lū·mîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 7966:  ",
-    "str2": "A requital, retribution, a fee"
+    "str2": "A requital, retribution, a fee",
+    "num": 7966
   },
   {
     "word": "for [Edom’s] hostility",
@@ -53,7 +59,8 @@
     "translit": "(lə·rîḇ)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 7379:  ",
-    "str2": "Strife, dispute"
+    "str2": "Strife, dispute",
+    "num": 7379
   },
   {
     "word": "against Zion.",
@@ -61,6 +68,7 @@
     "translit": "(ṣî·yō·wn)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 6726:  ",
-    "str2": "Zion -- a mountain in Jerusalem, also a name for Jerusalem"
+    "str2": "Zion -- a mountain in Jerusalem, also a name for Jerusalem",
+    "num": 6726
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he drove",
@@ -13,7 +14,8 @@
     "translit": "(apēlasen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 556:  ",
-    "str2": "To drive away. From apo and elauno; to dismiss."
+    "str2": "To drive away. From apo and elauno; to dismiss.",
+    "num": 556
   },
   {
     "word": "them {away}",
@@ -21,7 +23,8 @@
     "translit": "(autous)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "from",
@@ -29,7 +32,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "judgment seat.",
@@ -45,6 +50,7 @@
     "translit": "(bēmatos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 968:  ",
-    "str2": "From the base of basis; a step, i.e. Foot-breath; by implication, a rostrum, i.e. A tribunal."
+    "str2": "From the base of basis; a step, i.e. Foot-breath; by implication, a rostrum, i.e. A tribunal.",
+    "num": 968
   }
 ]

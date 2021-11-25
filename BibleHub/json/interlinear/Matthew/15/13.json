@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[Jesus] replied,",
@@ -13,7 +14,8 @@
     "translit": "(apokritheis)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Singular",
     "str": "Strong's 611:  ",
-    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak."
+    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak.",
+    "num": 611
   },
   {
     "word": "“Every",
@@ -21,7 +23,8 @@
     "translit": "(Pasa)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "plant",
@@ -29,7 +32,8 @@
     "translit": "(phyteia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 5451:  ",
-    "str2": "A plant, that which is planted. From phuteuo; trans-planting, i.e. a shrub or vegetable."
+    "str2": "A plant, that which is planted. From phuteuo; trans-planting, i.e. a shrub or vegetable.",
+    "num": 5451
   },
   {
     "word": "that",
@@ -37,7 +41,8 @@
     "translit": "(hēn)",
     "parse": "Personal / Relative Pronoun - Accusative Feminine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "My",
@@ -45,7 +50,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "Heavenly",
@@ -53,7 +59,8 @@
     "translit": "(ouranios)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3770:  ",
-    "str2": "In heaven, belonging to heaven, heavenly, from heaven. From ouranos; celestial, i.e. Belonging to or coming from the sky."
+    "str2": "In heaven, belonging to heaven, heavenly, from heaven. From ouranos; celestial, i.e. Belonging to or coming from the sky.",
+    "num": 3770
   },
   {
     "word": "Father",
@@ -61,7 +68,8 @@
     "translit": "(Patēr)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "has not planted",
@@ -69,7 +77,8 @@
     "translit": "(ephyteusen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 5452:  ",
-    "str2": "To plant, set. From a derivative of phuo; to set out in the earth, i.e. Implant; figuratively, to instil doctrine."
+    "str2": "To plant, set. From a derivative of phuo; to set out in the earth, i.e. Implant; figuratively, to instil doctrine.",
+    "num": 5452
   },
   {
     "word": "will be pulled up by its roots.",
@@ -77,6 +86,7 @@
     "translit": "(ekrizōthēsetai)",
     "parse": "Verb - Future Indicative Passive - 3rd Person Singular",
     "str": "Strong's 1610:  ",
-    "str2": "To root out, pluck up by the roots. From ek and rhizoo; to uproot."
+    "str2": "To root out, pluck up by the roots. From ek and rhizoo; to uproot.",
+    "num": 1610
   }
 ]

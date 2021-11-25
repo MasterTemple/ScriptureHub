@@ -5,7 +5,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "scribes",
@@ -13,7 +14,8 @@
     "translit": "(grammateis)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 1122:  ",
-    "str2": "From gramma. A writer, i.e. scribe or secretary."
+    "str2": "From gramma. A writer, i.e. scribe or secretary.",
+    "num": 1122
   },
   {
     "word": "and",
@@ -21,7 +23,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Pharisees,",
@@ -29,7 +32,8 @@
     "translit": "(Pharisaioi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 5330:  ",
-    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary."
+    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary.",
+    "num": 5330
   },
   {
     "word": "however,",
@@ -37,7 +41,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "brought",
@@ -45,7 +50,8 @@
     "translit": "(agousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 71:  ",
-    "str2": "A primary verb; properly, to lead; by implication, to bring, drive, go, pass, or induce."
+    "str2": "A primary verb; properly, to lead; by implication, to bring, drive, go, pass, or induce.",
+    "num": 71
   },
   {
     "word": "to",
@@ -53,7 +59,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "Him",
@@ -61,7 +68,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "a woman",
@@ -69,7 +77,8 @@
     "translit": "(gynaika)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1135:  ",
-    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife."
+    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife.",
+    "num": 1135
   },
   {
     "word": "caught",
@@ -77,7 +86,8 @@
     "translit": "(kateilēmmenēn)",
     "parse": "Verb - Perfect Participle Middle or Passive - Accusative Feminine Singular",
     "str": "Strong's 2638:  ",
-    "str2": "From kata and lambano; to take eagerly, i.e. Seize, possess, etc."
+    "str2": "From kata and lambano; to take eagerly, i.e. Seize, possess, etc.",
+    "num": 2638
   },
   {
     "word": "in",
@@ -85,7 +95,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "adultery.",
@@ -93,7 +104,8 @@
     "translit": "(moicheia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3430:  ",
-    "str2": "Adultery. From moicheuo; adultery."
+    "str2": "Adultery. From moicheuo; adultery.",
+    "num": 3430
   },
   {
     "word": "They made her stand",
@@ -101,7 +113,8 @@
     "translit": "(stēsantes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2476:  ",
-    "str2": "A prolonged form of a primary stao stah'-o; to stand, used in various applications."
+    "str2": "A prolonged form of a primary stao stah'-o; to stand, used in various applications.",
+    "num": 2476
   },
   {
     "word": "before them",
@@ -109,6 +122,7 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "{do} not",
@@ -13,7 +14,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "grieve",
@@ -21,7 +23,8 @@
     "translit": "(lypeite)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 3076:  ",
-    "str2": "To pain, grieve, vex. From lupe; to distress; reflexively or passively, to be sad."
+    "str2": "To pain, grieve, vex. From lupe; to distress; reflexively or passively, to be sad.",
+    "num": 3076
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Holy",
@@ -37,7 +41,8 @@
     "translit": "(Hagion)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   },
   {
     "word": "Spirit",
@@ -45,7 +50,8 @@
     "translit": "(Pneuma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "of God,",
@@ -53,7 +59,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "in",
@@ -61,7 +68,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "whom",
@@ -69,7 +77,8 @@
     "translit": "(hō)",
     "parse": "Personal / Relative Pronoun - Dative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "you were sealed",
@@ -77,7 +86,8 @@
     "translit": "(esphragisthēte)",
     "parse": "Verb - Aorist Indicative Passive - 2nd Person Plural",
     "str": "Strong's 4972:  ",
-    "str2": "To seal, set a seal upon. From sphragis; to stamp for security or preservation; by implication, to keep secret, to attest."
+    "str2": "To seal, set a seal upon. From sphragis; to stamp for security or preservation; by implication, to keep secret, to attest.",
+    "num": 4972
   },
   {
     "word": "for",
@@ -85,7 +95,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "[the] day",
@@ -93,7 +104,8 @@
     "translit": "(hēmeran)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "of redemption.",
@@ -101,6 +113,7 @@
     "translit": "(apolytrōseōs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 629:  ",
-    "str2": "From a compound of apo and lutron; ransom in full, i.e. riddance, or Christian salvation."
+    "str2": "From a compound of apo and lutron; ransom in full, i.e. riddance, or Christian salvation.",
+    "num": 629
   }
 ]

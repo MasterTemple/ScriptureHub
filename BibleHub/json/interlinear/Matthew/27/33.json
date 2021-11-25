@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they came",
@@ -13,7 +14,8 @@
     "translit": "(elthontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "a place",
@@ -29,7 +32,8 @@
     "translit": "(topon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 5117:  ",
-    "str2": "Apparently a primary word; a spot, i.e. Location; figuratively, condition, opportunity; specially, a scabbard."
+    "str2": "Apparently a primary word; a spot, i.e. Location; figuratively, condition, opportunity; specially, a scabbard.",
+    "num": 5117
   },
   {
     "word": "called",
@@ -37,7 +41,8 @@
     "translit": "(legomenon)",
     "parse": "Verb - Present Participle Middle or Passive - Accusative Masculine Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "Golgotha,",
@@ -45,7 +50,8 @@
     "translit": "(Golgotha)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1115:  ",
-    "str2": "Golgotha, a knoll outside the wall of Jerusalem. Of Chaldee origin; the skull; Golgotha, a knoll near Jerusalem."
+    "str2": "Golgotha, a knoll outside the wall of Jerusalem. Of Chaldee origin; the skull; Golgotha, a knoll near Jerusalem.",
+    "num": 1115
   },
   {
     "word": "which",
@@ -53,7 +59,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Nominative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "means",
@@ -61,7 +68,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "The Place",
@@ -69,7 +77,8 @@
     "translit": "(topos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5117:  ",
-    "str2": "Apparently a primary word; a spot, i.e. Location; figuratively, condition, opportunity; specially, a scabbard."
+    "str2": "Apparently a primary word; a spot, i.e. Location; figuratively, condition, opportunity; specially, a scabbard.",
+    "num": 5117
   },
   {
     "word": "of the Skull,",
@@ -77,6 +86,7 @@
     "translit": "(kraniou)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 2898:  ",
-    "str2": "A skull. Diminutive of a derivative of the base of keras; a skull."
+    "str2": "A skull. Diminutive of a derivative of the base of keras; a skull.",
+    "num": 2898
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "our sons",
@@ -13,7 +14,8 @@
     "translit": "(bā·nê·nū)",
     "parse": "Noun - masculine plural construct | first person common plural",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "will be like plants",
@@ -21,7 +23,8 @@
     "translit": "(kin·ṭi·‘îm)",
     "parse": "Preposition-k | Noun - masculine plural",
     "str": "Strong's 5195:  ",
-    "str2": "A plant"
+    "str2": "A plant",
+    "num": 5195
   },
   {
     "word": "nurtured",
@@ -29,7 +32,8 @@
     "translit": "(mə·ḡud·dā·lîm)",
     "parse": "Verb - Pual - Participle - masculine plural",
     "str": "Strong's 1431:  ",
-    "str2": "To grow up, become great"
+    "str2": "To grow up, become great",
+    "num": 1431
   },
   {
     "word": "in their youth,",
@@ -37,7 +41,8 @@
     "translit": "(bin·‘ū·rê·hem)",
     "parse": "Preposition-b | Noun - masculine plural construct | third person masculine plural",
     "str": "Strong's 5271:  ",
-    "str2": "Youth, the state, the persons"
+    "str2": "Youth, the state, the persons",
+    "num": 5271
   },
   {
     "word": "our daughters",
@@ -45,7 +50,8 @@
     "translit": "(bə·nō·w·ṯê·nū)",
     "parse": "Noun - feminine plural construct | first person common plural",
     "str": "Strong's 1323:  ",
-    "str2": "A daughter"
+    "str2": "A daughter",
+    "num": 1323
   },
   {
     "word": "like corner pillars",
@@ -53,7 +59,8 @@
     "translit": "(ḵə·zā·wî·yōṯ)",
     "parse": "Preposition-k | Noun - feminine plural construct",
     "str": "Strong's 2106:  ",
-    "str2": "An angle, a corner-column"
+    "str2": "An angle, a corner-column",
+    "num": 2106
   },
   {
     "word": "carved",
@@ -61,7 +68,8 @@
     "translit": "(mə·ḥuṭ·ṭā·ḇō·wṯ)",
     "parse": "Verb - Pual - Participle - feminine plural",
     "str": "Strong's 2404:  ",
-    "str2": "To cut or gather wood"
+    "str2": "To cut or gather wood",
+    "num": 2404
   },
   {
     "word": "to adorn",
@@ -69,7 +77,8 @@
     "translit": "(taḇ·nîṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 8403:  ",
-    "str2": "Structure, a model, resemblance"
+    "str2": "Structure, a model, resemblance",
+    "num": 8403
   },
   {
     "word": "a palace.",
@@ -77,6 +86,7 @@
     "translit": "(hê·ḵāl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1964:  ",
-    "str2": "A large public building, palace, temple"
+    "str2": "A large public building, palace, temple",
+    "num": 1964
   }
 ]

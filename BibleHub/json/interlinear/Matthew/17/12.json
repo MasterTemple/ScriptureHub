@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "I tell",
@@ -13,7 +14,8 @@
     "translit": "(legō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "you",
@@ -21,7 +23,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "that",
@@ -29,7 +32,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "Elijah",
@@ -37,7 +41,8 @@
     "translit": "(Ēlias)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2243:  ",
-    "str2": "Elijah, the prophet. Of Hebrew origin; Helias, an Israelite."
+    "str2": "Elijah, the prophet. Of Hebrew origin; Helias, an Israelite.",
+    "num": 2243
   },
   {
     "word": "{has} already",
@@ -45,7 +50,8 @@
     "translit": "(ēdē)",
     "parse": "Adverb",
     "str": "Strong's 2235:  ",
-    "str2": "Already; now at length, now after all this waiting. Apparently from e and de; even now."
+    "str2": "Already; now at length, now after all this waiting. Apparently from e and de; even now.",
+    "num": 2235
   },
   {
     "word": "come,",
@@ -53,7 +59,8 @@
     "translit": "(ēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they did not recognize",
@@ -69,7 +77,8 @@
     "translit": "(epegnōsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1921:  ",
-    "str2": "From epi and ginosko; to know upon some mark, i.e. Recognize; by implication, to become fully acquainted with, to acknowledge."
+    "str2": "From epi and ginosko; to know upon some mark, i.e. Recognize; by implication, to become fully acquainted with, to acknowledge.",
+    "num": 1921
   },
   {
     "word": "him,",
@@ -77,7 +86,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "but",
@@ -85,7 +95,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "have done",
@@ -93,7 +104,8 @@
     "translit": "(epoiēsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "to",
@@ -101,7 +113,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "him",
@@ -109,7 +122,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "whatever",
@@ -117,7 +131,8 @@
     "translit": "(hosa)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 3745:  ",
-    "str2": "How much, how great, how many, as great as, as much. By reduplication from hos; as As."
+    "str2": "How much, how great, how many, as great as, as much. By reduplication from hos; as As.",
+    "num": 3745
   },
   {
     "word": "they wished.",
@@ -125,7 +140,8 @@
     "translit": "(ēthelēsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "In the same way,",
@@ -133,7 +149,8 @@
     "translit": "(houtōs)",
     "parse": "Adverb",
     "str": "Strong's 3779:  ",
-    "str2": "Thus, so, in this manner. Or (referring to what precedes or follows)."
+    "str2": "Thus, so, in this manner. Or (referring to what precedes or follows).",
+    "num": 3779
   },
   {
     "word": "the",
@@ -141,7 +158,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Son",
@@ -149,7 +167,8 @@
     "translit": "(Huios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   },
   {
     "word": "of Man",
@@ -157,7 +176,8 @@
     "translit": "(anthrōpou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "will",
@@ -165,7 +185,8 @@
     "translit": "(mellei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3195:  ",
-    "str2": "A strengthened form of melo; to intend, i.e. Be about to be, do, or suffer something."
+    "str2": "A strengthened form of melo; to intend, i.e. Be about to be, do, or suffer something.",
+    "num": 3195
   },
   {
     "word": "suffer",
@@ -173,7 +194,8 @@
     "translit": "(paschein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 3958:  ",
-    "str2": "I am acted upon in a certain way, either good or bad; I experience ill treatment, suffer. "
+    "str2": "I am acted upon in a certain way, either good or bad; I experience ill treatment, suffer. ",
+    "num": 3958
   },
   {
     "word": "at their hands.?",
@@ -181,6 +203,7 @@
     "translit": "(hyp’)",
     "parse": "Preposition",
     "str": "Strong's 5259:  ",
-    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when)."
+    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when).",
+    "num": 5259
   }
 ]

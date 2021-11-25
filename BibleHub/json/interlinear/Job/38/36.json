@@ -5,7 +5,8 @@
     "translit": "(mî·šā-)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "has put",
@@ -13,7 +14,8 @@
     "translit": "(ṯ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 7896:  ",
-    "str2": "To put, set"
+    "str2": "To put, set",
+    "num": 7896
   },
   {
     "word": "wisdom",
@@ -21,7 +23,8 @@
     "translit": "(ḥāḵ·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 2451:  ",
-    "str2": "Wisdom"
+    "str2": "Wisdom",
+    "num": 2451
   },
   {
     "word": "in the heart",
@@ -29,7 +32,8 @@
     "translit": "(baṭ·ṭu·ḥō·wṯ)",
     "parse": "Preposition-b, Article | Noun - feminine plural",
     "str": "Strong's 2910:  ",
-    "str2": "The kidneys, the inmost thought"
+    "str2": "The kidneys, the inmost thought",
+    "num": 2910
   },
   {
     "word": "or",
@@ -37,7 +41,8 @@
     "translit": "(’ōw)",
     "parse": "Conjunction",
     "str": "Strong's 176:  ",
-    "str2": "Desire, if"
+    "str2": "Desire, if",
+    "num": 176
   },
   {
     "word": "given",
@@ -45,7 +50,8 @@
     "translit": "(nā·ṯan)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "understanding",
@@ -53,7 +59,8 @@
     "translit": "(ḇî·nāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 998:  ",
-    "str2": "An understanding"
+    "str2": "An understanding",
+    "num": 998
   },
   {
     "word": "to the mind?",
@@ -61,6 +68,7 @@
     "translit": "(laś·śeḵ·wî)",
     "parse": "Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 7907:  ",
-    "str2": "Perhaps appearance, phenomenon"
+    "str2": "Perhaps appearance, phenomenon",
+    "num": 7907
   }
 ]

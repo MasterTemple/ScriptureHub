@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "before",
@@ -13,7 +14,8 @@
     "translit": "(bə·ṭe·rem)",
     "parse": "Preposition-b | Adverb",
     "str": "Strong's 2962:  ",
-    "str2": "Non-occurrence, not yet, before"
+    "str2": "Non-occurrence, not yet, before",
+    "num": 2962
   },
   {
     "word": "the boy",
@@ -21,7 +23,8 @@
     "translit": "(han·na·‘ar)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5288:  ",
-    "str2": "A boy, lad, youth, retainer"
+    "str2": "A boy, lad, youth, retainer",
+    "num": 5288
   },
   {
     "word": "knows",
@@ -29,7 +32,8 @@
     "translit": "(yê·ḏa‘)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "how to cry",
@@ -37,7 +41,8 @@
     "translit": "(qə·rō)",
     "parse": "Verb - Qal - Infinitive construct",
     "str": "Strong's 7121:  ",
-    "str2": "To call, proclaim, read"
+    "str2": "To call, proclaim, read",
+    "num": 7121
   },
   {
     "word": "‘Father’",
@@ -45,7 +50,8 @@
     "translit": "(’ā·ḇî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "or ‘Mother,’",
@@ -53,7 +59,8 @@
     "translit": "(wə·’im·mî)",
     "parse": "Conjunctive waw | Noun - feminine singular construct | first person common singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "the wealth",
@@ -61,7 +68,8 @@
     "translit": "(ḥêl)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 2428:  ",
-    "str2": "A force, an army, wealth, virtue, valor, strength"
+    "str2": "A force, an army, wealth, virtue, valor, strength",
+    "num": 2428
   },
   {
     "word": "of Damascus",
@@ -69,7 +77,8 @@
     "translit": "(dam·me·śeq)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 1834:  ",
-    "str2": "Damascus -- a city in Aram (Syria)"
+    "str2": "Damascus -- a city in Aram (Syria)",
+    "num": 1834
   },
   {
     "word": "and the plunder",
@@ -77,7 +86,8 @@
     "translit": "(šə·lal)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 7998:  ",
-    "str2": "A prey, spoil, plunder, booty"
+    "str2": "A prey, spoil, plunder, booty",
+    "num": 7998
   },
   {
     "word": "of Samaria",
@@ -85,7 +95,8 @@
     "translit": "(šō·mə·rō·wn)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 8111:  ",
-    "str2": "Samaria -- capital of northern kingdom of Israel"
+    "str2": "Samaria -- capital of northern kingdom of Israel",
+    "num": 8111
   },
   {
     "word": "will be carried off",
@@ -93,7 +104,8 @@
     "translit": "(yiś·śā)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5375:  ",
-    "str2": "To lift, carry, take"
+    "str2": "To lift, carry, take",
+    "num": 5375
   },
   {
     "word": "to",
@@ -101,7 +113,8 @@
     "translit": "(lip̄·nê)",
     "parse": "Preposition-l | Noun - common plural construct",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "the king",
@@ -109,7 +122,8 @@
     "translit": "(me·leḵ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "of Assyria.”",
@@ -117,6 +131,7 @@
     "translit": "(’aš·šūr)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 804:  ",
-    "str2": "Ashshur"
+    "str2": "Ashshur",
+    "num": 804
   }
 ]

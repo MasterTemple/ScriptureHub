@@ -5,7 +5,8 @@
     "translit": "(Spoudason)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 4704:  ",
-    "str2": "To hasten, be eager, be zealous. From spoude; to use speed, i.e. To make effort, be prompt or earnest."
+    "str2": "To hasten, be eager, be zealous. From spoude; to use speed, i.e. To make effort, be prompt or earnest.",
+    "num": 4704
   },
   {
     "word": "to present",
@@ -13,7 +14,8 @@
     "translit": "(parastēsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 3936:  ",
-    "str2": "Or prolonged paristano from para and histemi; to stand beside, i.e. to exhibit, proffer, recommend, substantiate; or to be at hand, aid."
+    "str2": "Or prolonged paristano from para and histemi; to stand beside, i.e. to exhibit, proffer, recommend, substantiate; or to be at hand, aid.",
+    "num": 3936
   },
   {
     "word": "yourself",
@@ -21,7 +23,8 @@
     "translit": "(seauton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 2nd Person Singular",
     "str": "Strong's 4572:  ",
-    "str2": "Of yourself. "
+    "str2": "Of yourself. ",
+    "num": 4572
   },
   {
     "word": "approved",
@@ -29,7 +32,8 @@
     "translit": "(dokimon)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 1384:  ",
-    "str2": "Approved, acceptable, tried. From dokeo; properly, acceptable, i.e. Approved."
+    "str2": "Approved, acceptable, tried. From dokeo; properly, acceptable, i.e. Approved.",
+    "num": 1384
   },
   {
     "word": "to God,",
@@ -37,7 +41,8 @@
     "translit": "(Theō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "[an] unashamed",
@@ -45,7 +50,8 @@
     "translit": "(anepaischynton)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 422:  ",
-    "str2": "Having no cause to be ashamed. Not ashamed, i.e. Irreprehensible."
+    "str2": "Having no cause to be ashamed. Not ashamed, i.e. Irreprehensible.",
+    "num": 422
   },
   {
     "word": "workman",
@@ -53,7 +59,8 @@
     "translit": "(ergatēn)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2040:  ",
-    "str2": "A field-laborer; then: a laborer, workman in general. From ergon; a toiler; figuratively, a teacher."
+    "str2": "A field-laborer; then: a laborer, workman in general. From ergon; a toiler; figuratively, a teacher.",
+    "num": 2040
   },
   {
     "word": "who accurately handles",
@@ -61,7 +68,8 @@
     "translit": "(orthotomounta)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Singular",
     "str": "Strong's 3718:  ",
-    "str2": "From a compound of orthos and the base of tomoteros, to make a straight cut, i.e. to dissect correctly."
+    "str2": "From a compound of orthos and the base of tomoteros, to make a straight cut, i.e. to dissect correctly.",
+    "num": 3718
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "word",
@@ -77,7 +86,8 @@
     "translit": "(logon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "of truth.",
@@ -85,6 +95,7 @@
     "translit": "(alētheias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 225:  ",
-    "str2": "From alethes; truth."
+    "str2": "From alethes; truth.",
+    "num": 225
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "evils",
@@ -13,7 +14,8 @@
     "translit": "(rā·‘ō·wṯ)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "without",
@@ -21,7 +23,8 @@
     "translit": "(’ên)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "number",
@@ -29,7 +32,8 @@
     "translit": "(mis·pār)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4557:  ",
-    "str2": "A number, definite, indefinite, narration"
+    "str2": "A number, definite, indefinite, narration",
+    "num": 4557
   },
   {
     "word": "surround me;",
@@ -37,7 +41,8 @@
     "translit": "(’ā·p̄ə·p̄ū-)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 661:  ",
-    "str2": "To surround, encompass"
+    "str2": "To surround, encompass",
+    "num": 661
   },
   {
     "word": "my sins",
@@ -45,7 +50,8 @@
     "translit": "(‘ă·wō·nō·ṯay)",
     "parse": "Noun - common plural construct | first person common singular",
     "str": "Strong's 5771:  ",
-    "str2": "Iniquity, guilt, punishment for iniquity"
+    "str2": "Iniquity, guilt, punishment for iniquity",
+    "num": 5771
   },
   {
     "word": "have overtaken me,",
@@ -53,7 +59,8 @@
     "translit": "(hiś·śî·ḡū·nî)",
     "parse": "Verb - Hifil - Perfect - third person common plural | first person common singular",
     "str": "Strong's 5381:  ",
-    "str2": "To reach, overtake"
+    "str2": "To reach, overtake",
+    "num": 5381
   },
   {
     "word": "so that I cannot",
@@ -61,7 +68,8 @@
     "translit": "(wə·lō-)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "see.",
@@ -69,7 +77,8 @@
     "translit": "(lir·’ō·wṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "They are more",
@@ -77,7 +86,8 @@
     "translit": "(‘ā·ṣə·mū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 6105:  ",
-    "str2": "To bind fast, close, powerful, numerous,  to crunch the bones"
+    "str2": "To bind fast, close, powerful, numerous,  to crunch the bones",
+    "num": 6105
   },
   {
     "word": "than the hairs",
@@ -85,7 +95,8 @@
     "translit": "(miś·śa·‘ă·rō·wṯ)",
     "parse": "Preposition-m | Noun - feminine plural construct",
     "str": "Strong's 8185:  ",
-    "str2": "Hairiness"
+    "str2": "Hairiness",
+    "num": 8185
   },
   {
     "word": "of my head,",
@@ -93,7 +104,8 @@
     "translit": "(rō·šî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 7218:  ",
-    "str2": "The head"
+    "str2": "The head",
+    "num": 7218
   },
   {
     "word": "and my heart",
@@ -101,7 +113,8 @@
     "translit": "(wə·lib·bî)",
     "parse": "Conjunctive waw | Noun - masculine singular construct | first person common singular",
     "str": "Strong's 3820:  ",
-    "str2": "The heart, the feelings, the will, the intellect, centre"
+    "str2": "The heart, the feelings, the will, the intellect, centre",
+    "num": 3820
   },
   {
     "word": "has failed within me.",
@@ -109,6 +122,7 @@
     "translit": "(‘ă·zā·ḇā·nî)",
     "parse": "Verb - Qal - Perfect - third person masculine singular | first person common singular",
     "str": "Strong's 5800:  ",
-    "str2": "To loosen, relinquish, permit"
+    "str2": "To loosen, relinquish, permit",
+    "num": 5800
   }
 ]

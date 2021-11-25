@@ -5,7 +5,8 @@
     "translit": "(euthys)",
     "parse": "Adverb",
     "str": "Strong's 2112:  ",
-    "str2": "Immediately, soon, at once. Adverb from euthus; directly, i.e. At once or soon."
+    "str2": "Immediately, soon, at once. Adverb from euthus; directly, i.e. At once or soon.",
+    "num": 2112
   },
   {
     "word": "all",
@@ -13,7 +14,8 @@
     "translit": "(pas)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "people",
@@ -29,7 +32,8 @@
     "translit": "(ochlos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3793:  ",
-    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot."
+    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot.",
+    "num": 3793
   },
   {
     "word": "saw",
@@ -37,7 +41,8 @@
     "translit": "(idontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "[Jesus],",
@@ -45,7 +50,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "they were filled with awe",
@@ -53,7 +59,8 @@
     "translit": "(exethambēthēsan)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Plural",
     "str": "Strong's 1568:  ",
-    "str2": "To be greatly astonished, be awe-struck. From ekthambos; to astonish utterly."
+    "str2": "To be greatly astonished, be awe-struck. From ekthambos; to astonish utterly.",
+    "num": 1568
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "ran",
@@ -69,7 +77,8 @@
     "translit": "(prostrechontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 4370:  ",
-    "str2": "To run to. From pros and trecho; to run towards, i.e. Hasten to meet or join."
+    "str2": "To run to. From pros and trecho; to run towards, i.e. Hasten to meet or join.",
+    "num": 4370
   },
   {
     "word": "to greet",
@@ -77,7 +86,8 @@
     "translit": "(ēspazonto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 782:  ",
-    "str2": "To greet, salute, pay my respects to, welcome. To enfold in the arms, i.e. to salute, to welcome."
+    "str2": "To greet, salute, pay my respects to, welcome. To enfold in the arms, i.e. to salute, to welcome.",
+    "num": 782
   },
   {
     "word": "Him.",
@@ -85,6 +95,7 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

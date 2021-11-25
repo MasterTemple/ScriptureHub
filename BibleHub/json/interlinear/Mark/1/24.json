@@ -5,7 +5,8 @@
     "translit": "(Ti)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Neuter Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "do You [ want ]",
@@ -13,7 +14,8 @@
     "translit": "(soi)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "with us,",
@@ -21,7 +23,8 @@
     "translit": "(hēmin)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "Jesus",
@@ -29,7 +32,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "of Nazareth?",
@@ -37,7 +41,8 @@
     "translit": "(Nazarēne)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 3479:  ",
-    "str2": "Of Nazareth, a Nazarene. From Nazareth; a Nazarene, i.e. Inhabitant of Nazareth."
+    "str2": "Of Nazareth, a Nazarene. From Nazareth; a Nazarene, i.e. Inhabitant of Nazareth.",
+    "num": 3479
   },
   {
     "word": "Have You come",
@@ -45,7 +50,8 @@
     "translit": "(ēlthes)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "to destroy",
@@ -53,7 +59,8 @@
     "translit": "(apolesai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 622:  ",
-    "str2": "From apo and the base of olethros; to destroy fully, literally or figuratively."
+    "str2": "From apo and the base of olethros; to destroy fully, literally or figuratively.",
+    "num": 622
   },
   {
     "word": "us?",
@@ -61,7 +68,8 @@
     "translit": "(hēmas)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "I know",
@@ -69,7 +77,8 @@
     "translit": "(oida)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Singular",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "who",
@@ -77,7 +86,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "You",
@@ -85,7 +95,8 @@
     "translit": "(se)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "are—",
@@ -93,7 +104,8 @@
     "translit": "(ei)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Holy [One]",
@@ -109,7 +122,8 @@
     "translit": "(Hagios)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   },
   {
     "word": "of God!”",
@@ -117,6 +131,7 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

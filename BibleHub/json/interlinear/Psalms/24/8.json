@@ -5,7 +5,8 @@
     "translit": "(mî)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "is this",
@@ -13,7 +14,8 @@
     "translit": "(zeh)",
     "parse": "Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "King",
@@ -21,7 +23,8 @@
     "translit": "(me·leḵ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "of Glory?",
@@ -29,7 +32,8 @@
     "translit": "(hak·kā·ḇō·wḏ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3519:  ",
-    "str2": "Weight, splendor, copiousness"
+    "str2": "Weight, splendor, copiousness",
+    "num": 3519
   },
   {
     "word": "The LORD",
@@ -37,7 +41,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "strong",
@@ -45,7 +50,8 @@
     "translit": "(‘iz·zūz)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 5808:  ",
-    "str2": "Forcible, an army"
+    "str2": "Forcible, an army",
+    "num": 5808
   },
   {
     "word": "and mighty,",
@@ -53,7 +59,8 @@
     "translit": "(wə·ḡib·bō·wr)",
     "parse": "Conjunctive waw | Adjective - masculine singular",
     "str": "Strong's 1368:  ",
-    "str2": "Powerful, warrior, tyrant"
+    "str2": "Powerful, warrior, tyrant",
+    "num": 1368
   },
   {
     "word": "the LORD",
@@ -61,7 +68,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "mighty",
@@ -69,7 +77,8 @@
     "translit": "(gib·bō·wr)",
     "parse": "Adjective - masculine singular construct",
     "str": "Strong's 1368:  ",
-    "str2": "Powerful, warrior, tyrant"
+    "str2": "Powerful, warrior, tyrant",
+    "num": 1368
   },
   {
     "word": "in battle.",
@@ -77,6 +86,7 @@
     "translit": "(mil·ḥā·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 4421:  ",
-    "str2": "A battle, war"
+    "str2": "A battle, war",
+    "num": 4421
   }
 ]

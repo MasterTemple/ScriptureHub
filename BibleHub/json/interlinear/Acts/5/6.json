@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "young [men]",
@@ -21,7 +23,8 @@
     "translit": "(neōteroi)",
     "parse": "Adjective - Nominative Masculine Plural - Comparative",
     "str": "Strong's 3501:  ",
-    "str2": "(a) young, youthful, (b) new, fresh. "
+    "str2": "(a) young, youthful, (b) new, fresh. ",
+    "num": 3501
   },
   {
     "word": "stepped forward,",
@@ -29,7 +32,8 @@
     "translit": "(anastantes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 450:  ",
-    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up."
+    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up.",
+    "num": 450
   },
   {
     "word": "wrapped up",
@@ -37,7 +41,8 @@
     "translit": "(synesteilan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 4958:  ",
-    "str2": "To contract, shorten, wrap around, swathe. From sun and stello; to send together, i.e. Enwrap, contract."
+    "str2": "To contract, shorten, wrap around, swathe. From sun and stello; to send together, i.e. Enwrap, contract.",
+    "num": 4958
   },
   {
     "word": "his [body],",
@@ -45,7 +50,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "carried [him] out",
@@ -61,7 +68,8 @@
     "translit": "(exenenkantes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 1627:  ",
-    "str2": "To bring out, carry out, sometimes out of the city for burial; I bring forth, bear, produce. From ek and phero; to bear out."
+    "str2": "To bring out, carry out, sometimes out of the city for burial; I bring forth, bear, produce. From ek and phero; to bear out.",
+    "num": 1627
   },
   {
     "word": "[and] buried [him].",
@@ -69,6 +77,7 @@
     "translit": "(ethapsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2290:  ",
-    "str2": "To bury. A primary verb; to celebrate funeral rites, i.e. Inter."
+    "str2": "To bury. A primary verb; to celebrate funeral rites, i.e. Inter.",
+    "num": 2290
   }
 ]

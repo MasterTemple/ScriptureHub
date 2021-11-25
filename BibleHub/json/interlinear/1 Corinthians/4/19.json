@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "I will come",
@@ -13,7 +14,8 @@
     "translit": "(eleusomai)",
     "parse": "Verb - Future Indicative Middle - 1st Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "you",
@@ -29,7 +32,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "shortly,",
@@ -37,7 +41,8 @@
     "translit": "(tacheōs)",
     "parse": "Adverb",
     "str": "Strong's 5030:  ",
-    "str2": "Soon, quickly, hastily. Adverb from tachus; briefly, i.e. speedily, or rapidly."
+    "str2": "Soon, quickly, hastily. Adverb from tachus; briefly, i.e. speedily, or rapidly.",
+    "num": 5030
   },
   {
     "word": "if",
@@ -45,7 +50,8 @@
     "translit": "(ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord",
@@ -61,7 +68,8 @@
     "translit": "(Kyrios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "is willing,",
@@ -69,7 +77,8 @@
     "translit": "(thelēsē)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "and [then]",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "I will find out",
@@ -85,7 +95,8 @@
     "translit": "(gnōsomai)",
     "parse": "Verb - Future Indicative Middle - 1st Person Singular",
     "str": "Strong's 1097:  ",
-    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications."
+    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications.",
+    "num": 1097
   },
   {
     "word": "not [only]",
@@ -93,7 +104,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "what",
@@ -101,7 +113,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "these",
@@ -109,7 +122,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "arrogant [people]",
@@ -117,7 +131,8 @@
     "translit": "(pephysiōmenōn)",
     "parse": "Verb - Perfect Participle Middle or Passive - Genitive Masculine Plural",
     "str": "Strong's 5448:  ",
-    "str2": "From phusis in the primary sense of blowing; to inflate, i.e. make proud."
+    "str2": "From phusis in the primary sense of blowing; to inflate, i.e. make proud.",
+    "num": 5448
   },
   {
     "word": "are saying,",
@@ -125,7 +140,8 @@
     "translit": "(logon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "but",
@@ -133,7 +149,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "what",
@@ -141,7 +158,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "power [they have].",
@@ -149,6 +167,7 @@
     "translit": "(dynamin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1411:  ",
-    "str2": "From dunamai; force; specially, miraculous power."
+    "str2": "From dunamai; force; specially, miraculous power.",
+    "num": 1411
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "they refuse",
@@ -13,7 +14,8 @@
     "translit": "(yə·mā·’ă·nū)",
     "parse": "Verb - Piel - Imperfect - third person masculine plural",
     "str": "Strong's 3985:  ",
-    "str2": "To refuse"
+    "str2": "To refuse",
+    "num": 3985
   },
   {
     "word": "to take",
@@ -21,7 +23,8 @@
     "translit": "(lā·qa·ḥaṯ-)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 3947:  ",
-    "str2": "To take"
+    "str2": "To take",
+    "num": 3947
   },
   {
     "word": "the cup",
@@ -29,7 +32,8 @@
     "translit": "(hak·kō·ws)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 3563:  ",
-    "str2": "A cup, a lot, some unclean bird, an owl"
+    "str2": "A cup, a lot, some unclean bird, an owl",
+    "num": 3563
   },
   {
     "word": "from your hand",
@@ -37,7 +41,8 @@
     "translit": "(mî·yā·ḏə·ḵā)",
     "parse": "Preposition-m | Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "[and] drink it,",
@@ -45,7 +50,8 @@
     "translit": "(liš·tō·wṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 8354:  ",
-    "str2": "To imbibe"
+    "str2": "To imbibe",
+    "num": 8354
   },
   {
     "word": "you are to tell",
@@ -53,7 +59,8 @@
     "translit": "(wə·’ā·mar·tā)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - second person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "them,",
@@ -61,7 +68,8 @@
     "translit": "(’ă·lê·hem)",
     "parse": "Preposition | third person masculine plural",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "‘This is what",
@@ -69,7 +77,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the LORD",
@@ -77,7 +86,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "of Hosts",
@@ -85,7 +95,8 @@
     "translit": "(ṣə·ḇā·’ō·wṯ)",
     "parse": "Noun - common plural",
     "str": "Strong's 6635:  ",
-    "str2": "A mass of persons, reg, organized for, war, a campaign"
+    "str2": "A mass of persons, reg, organized for, war, a campaign",
+    "num": 6635
   },
   {
     "word": "says:",
@@ -93,7 +104,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "You most certainly must",
@@ -101,7 +113,8 @@
     "translit": "(šā·ṯōw)",
     "parse": "Verb - Qal - Infinitive absolute",
     "str": "Strong's 8354:  ",
-    "str2": "To imbibe"
+    "str2": "To imbibe",
+    "num": 8354
   },
   {
     "word": "drink it!",
@@ -109,6 +122,7 @@
     "translit": "(ṯiš·tū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 8354:  ",
-    "str2": "To imbibe"
+    "str2": "To imbibe",
+    "num": 8354
   }
 ]

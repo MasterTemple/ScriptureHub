@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[if] He rescued",
@@ -13,7 +14,8 @@
     "translit": "(errysato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 4506:  ",
-    "str2": "To rescue, deliver (from danger or destruction). "
+    "str2": "To rescue, deliver (from danger or destruction). ",
+    "num": 4506
   },
   {
     "word": "Lot,",
@@ -21,7 +23,8 @@
     "translit": "(Lōt)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3091:  ",
-    "str2": "(Hebrew), Lot, nephew of Abraham. Of Hebrew origin; Lot, a patriarch."
+    "str2": "(Hebrew), Lot, nephew of Abraham. Of Hebrew origin; Lot, a patriarch.",
+    "num": 3091
   },
   {
     "word": "a righteous [man]",
@@ -29,7 +32,8 @@
     "translit": "(dikaion)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 1342:  ",
-    "str2": "From dike; equitable; by implication, innocent, holy."
+    "str2": "From dike; equitable; by implication, innocent, holy.",
+    "num": 1342
   },
   {
     "word": "distressed",
@@ -37,7 +41,8 @@
     "translit": "(kataponoumenon)",
     "parse": "Verb - Present Participle Middle or Passive - Accusative Masculine Singular",
     "str": "Strong's 2669:  ",
-    "str2": "From kata and a derivative of ponos; to labor down, i.e. Wear with toil."
+    "str2": "From kata and a derivative of ponos; to labor down, i.e. Wear with toil.",
+    "num": 2669
   },
   {
     "word": "by",
@@ -45,7 +50,8 @@
     "translit": "(hypo)",
     "parse": "Preposition",
     "str": "Strong's 5259:  ",
-    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when)."
+    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when).",
+    "num": 5259
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "depraved",
@@ -61,7 +68,8 @@
     "translit": "(aselgeia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 766:  ",
-    "str2": "From a compound of a and a presumed selges; licentiousness."
+    "str2": "From a compound of a and a presumed selges; licentiousness.",
+    "num": 766
   },
   {
     "word": "conduct",
@@ -69,7 +77,8 @@
     "translit": "(anastrophēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 391:  ",
-    "str2": "Dealing with other men, conduct, life, behavior, manner of life. From anastrepho; behavior."
+    "str2": "Dealing with other men, conduct, life, behavior, manner of life. From anastrepho; behavior.",
+    "num": 391
   },
   {
     "word": "of the",
@@ -77,7 +86,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "lawless",
@@ -85,6 +95,7 @@
     "translit": "(athesmōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 113:  ",
-    "str2": "Lawless, unrestrained, licentious. Lawless, i.e. criminal."
+    "str2": "Lawless, unrestrained, licentious. Lawless, i.e. criminal.",
+    "num": 113
   }
 ]

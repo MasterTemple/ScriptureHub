@@ -5,7 +5,8 @@
     "translit": "(hēn)",
     "parse": "Personal / Relative Pronoun - Accusative Feminine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "house",
@@ -13,7 +14,8 @@
     "translit": "(oikian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3614:  ",
-    "str2": "From oikos; properly, residence, but usually an abode; by implication, a family."
+    "str2": "From oikos; properly, residence, but usually an abode; by implication, a family.",
+    "num": 3614
   },
   {
     "word": "you enter,",
@@ -21,7 +23,8 @@
     "translit": "(eiselthēte)",
     "parse": "Verb - Aorist Subjunctive Active - 2nd Person Plural",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "begin",
@@ -29,7 +32,8 @@
     "translit": "(prōton)",
     "parse": "Adverb - Superlative",
     "str": "Strong's 4412:  ",
-    "str2": "First, in the first place, before, formerly. Neuter of protos as adverb; firstly."
+    "str2": "First, in the first place, before, formerly. Neuter of protos as adverb; firstly.",
+    "num": 4412
   },
   {
     "word": "by saying,",
@@ -37,7 +41,8 @@
     "translit": "(legete)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "‘Peace",
@@ -45,7 +50,8 @@
     "translit": "(Eirēnē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1515:  ",
-    "str2": "Probably from a primary verb eiro; peace; by implication, prosperity."
+    "str2": "Probably from a primary verb eiro; peace; by implication, prosperity.",
+    "num": 1515
   },
   {
     "word": "to this",
@@ -53,7 +59,8 @@
     "translit": "(toutō)",
     "parse": "Demonstrative Pronoun - Dative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "house.’",
@@ -61,6 +68,7 @@
     "translit": "(oikō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 3624:  ",
-    "str2": "A dwelling; by implication, a family."
+    "str2": "A dwelling; by implication, a family.",
+    "num": 3624
   }
 ]

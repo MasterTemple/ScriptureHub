@@ -5,7 +5,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "His hand",
@@ -13,7 +14,8 @@
     "translit": "(bə·yā·ḏōw)",
     "parse": "Preposition-b | Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "are the depths",
@@ -21,7 +23,8 @@
     "translit": "(meḥ·qə·rê-)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 4278:  ",
-    "str2": "A range (an area to explore)"
+    "str2": "A range (an area to explore)",
+    "num": 4278
   },
   {
     "word": "of the earth,",
@@ -29,7 +32,8 @@
     "translit": "(’ā·reṣ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "and the mountain",
@@ -37,7 +41,8 @@
     "translit": "(hā·rîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 2022:  ",
-    "str2": "Mountain, hill, hill country"
+    "str2": "Mountain, hill, hill country",
+    "num": 2022
   },
   {
     "word": "peaks",
@@ -45,7 +50,8 @@
     "translit": "(wə·ṯō·w·‘ă·p̄ō·wṯ)",
     "parse": "Conjunctive waw | Noun - feminine plural construct",
     "str": "Strong's 8443:  ",
-    "str2": "Weariness, toil, speed"
+    "str2": "Weariness, toil, speed",
+    "num": 8443
   },
   {
     "word": "belong to Him.",
@@ -53,6 +59,7 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

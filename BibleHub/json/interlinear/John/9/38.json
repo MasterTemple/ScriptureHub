@@ -5,7 +5,8 @@
     "translit": "(Kyrie)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "I believe,”",
@@ -13,7 +14,8 @@
     "translit": "(Pisteuō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 4100:  ",
-    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust."
+    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust.",
+    "num": 4100
   },
   {
     "word": "he said.",
@@ -21,7 +23,8 @@
     "translit": "(ephē)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 5346:  ",
-    "str2": "To say, declare. Properly, the same as the base of phos and phaino; to show or make known one's thoughts, i.e. Speak or say."
+    "str2": "To say, declare. Properly, the same as the base of phos and phaino; to show or make known one's thoughts, i.e. Speak or say.",
+    "num": 5346
   },
   {
     "word": "And",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he worshiped",
@@ -37,7 +41,8 @@
     "translit": "(prosekynēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 4352:  ",
-    "str2": "From pros and a probable derivative of kuon; to fawn or crouch to, i.e. prostrate oneself in homage."
+    "str2": "From pros and a probable derivative of kuon; to fawn or crouch to, i.e. prostrate oneself in homage.",
+    "num": 4352
   },
   {
     "word": "[Jesus].",
@@ -45,6 +50,7 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

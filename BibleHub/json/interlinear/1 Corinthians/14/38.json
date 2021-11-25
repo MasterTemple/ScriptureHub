@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "anyone",
@@ -21,7 +23,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "ignores this,",
@@ -29,7 +32,8 @@
     "translit": "(agnoei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 50:  ",
-    "str2": "To do not know, be ignorant of, sometimes with the idea of willful ignorance. "
+    "str2": "To do not know, be ignorant of, sometimes with the idea of willful ignorance. ",
+    "num": 50
   },
   {
     "word": "he himself will be ignored.",
@@ -37,6 +41,7 @@
     "translit": "(agnoeitai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 50:  ",
-    "str2": "To do not know, be ignorant of, sometimes with the idea of willful ignorance. "
+    "str2": "To do not know, be ignorant of, sometimes with the idea of willful ignorance. ",
+    "num": 50
   }
 ]

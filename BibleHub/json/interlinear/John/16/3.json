@@ -5,7 +5,8 @@
     "translit": "(poiēsousin)",
     "parse": "Verb - Future Indicative Active - 3rd Person Plural",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "these things",
@@ -13,7 +14,8 @@
     "translit": "(tauta)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "because",
@@ -21,7 +23,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "they have not known",
@@ -29,7 +32,8 @@
     "translit": "(egnōsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1097:  ",
-    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications."
+    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications.",
+    "num": 1097
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Father",
@@ -45,7 +50,8 @@
     "translit": "(Patera)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "[or]",
@@ -53,7 +59,8 @@
     "translit": "(oude)",
     "parse": "Conjunction",
     "str": "Strong's 3761:  ",
-    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even."
+    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even.",
+    "num": 3761
   },
   {
     "word": "Me.",
@@ -61,6 +68,7 @@
     "translit": "(eme)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   }
 ]

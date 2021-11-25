@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you",
@@ -13,7 +14,8 @@
     "translit": "(’āt·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "are pure",
@@ -21,7 +23,8 @@
     "translit": "(zaḵ)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 2134:  ",
-    "str2": "Pure, clean"
+    "str2": "Pure, clean",
+    "num": 2134
   },
   {
     "word": "and upright,",
@@ -29,7 +32,8 @@
     "translit": "(wə·yā·šār)",
     "parse": "Conjunctive waw | Adjective - masculine singular",
     "str": "Strong's 3477:  ",
-    "str2": "Straight, right"
+    "str2": "Straight, right",
+    "num": 3477
   },
   {
     "word": "even",
@@ -37,7 +41,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "now",
@@ -45,7 +50,8 @@
     "translit": "(‘at·tāh)",
     "parse": "Adverb",
     "str": "Strong's 6258:  ",
-    "str2": "At this time"
+    "str2": "At this time",
+    "num": 6258
   },
   {
     "word": "He will rouse Himself",
@@ -53,7 +59,8 @@
     "translit": "(yā·‘îr)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular",
     "str": "Strong's 5782:  ",
-    "str2": "To rouse oneself, awake"
+    "str2": "To rouse oneself, awake",
+    "num": 5782
   },
   {
     "word": "on your behalf",
@@ -61,7 +68,8 @@
     "translit": "(‘ā·le·ḵā)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "and restore",
@@ -69,7 +77,8 @@
     "translit": "(wə·šil·lam)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 7999:  ",
-    "str2": "To be safe, to be, completed, to be friendly, to reciprocate"
+    "str2": "To be safe, to be, completed, to be friendly, to reciprocate",
+    "num": 7999
   },
   {
     "word": "your righteous",
@@ -77,7 +86,8 @@
     "translit": "(ṣiḏ·qe·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 6664:  ",
-    "str2": "The right, equity, prosperity"
+    "str2": "The right, equity, prosperity",
+    "num": 6664
   },
   {
     "word": "estate.",
@@ -85,6 +95,7 @@
     "translit": "(nə·waṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 5116:  ",
-    "str2": "Abode of shepherd or flocks, habitation"
+    "str2": "Abode of shepherd or flocks, habitation",
+    "num": 5116
   }
 ]

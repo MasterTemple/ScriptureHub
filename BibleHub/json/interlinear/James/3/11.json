@@ -5,7 +5,8 @@
     "translit": "(mēti)",
     "parse": "IntPrtcl",
     "str": "Strong's 3385:  ",
-    "str2": "If not, unless, whether at all. From me and the neuter of tis; whether at all."
+    "str2": "If not, unless, whether at all. From me and the neuter of tis; whether at all.",
+    "num": 3385
   },
   {
     "word": "[both] fresh [water]",
@@ -13,7 +14,8 @@
     "translit": "(glyky)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 1099:  ",
-    "str2": "Sweet. Of uncertain affinity; sweet."
+    "str2": "Sweet. Of uncertain affinity; sweet.",
+    "num": 1099
   },
   {
     "word": "and",
@@ -21,7 +23,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "bitter [water]",
@@ -29,7 +32,8 @@
     "translit": "(pikron)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 4089:  ",
-    "str2": "Bitter, acrid, malignant. Perhaps from pegnumi; sharp, i.e. Acrid."
+    "str2": "Bitter, acrid, malignant. Perhaps from pegnumi; sharp, i.e. Acrid.",
+    "num": 4089
   },
   {
     "word": "flow",
@@ -37,7 +41,8 @@
     "translit": "(bryei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1032:  ",
-    "str2": "To cause to gush forth, send forth. A primary verb; to swell out, i.e. to gush."
+    "str2": "To cause to gush forth, send forth. A primary verb; to swell out, i.e. to gush.",
+    "num": 1032
   },
   {
     "word": "from",
@@ -45,7 +50,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "same",
@@ -61,7 +68,8 @@
     "translit": "(autēs)",
     "parse": "Personal / Possessive Pronoun - Genitive Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "spring?",
@@ -69,6 +77,7 @@
     "translit": "(pēgē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4077:  ",
-    "str2": "A fountain, spring, well, issue, flow. Probably from pegnumi; a fount, i.e. Source or supply."
+    "str2": "A fountain, spring, well, issue, flow. Probably from pegnumi; a fount, i.e. Source or supply.",
+    "num": 4077
   }
 ]

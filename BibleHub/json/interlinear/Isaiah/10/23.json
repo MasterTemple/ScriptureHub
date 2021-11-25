@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the Lord",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "of Hosts",
@@ -29,7 +32,8 @@
     "translit": "(ṣə·ḇā·’ō·wṯ)",
     "parse": "Noun - common plural",
     "str": "Strong's 6635:  ",
-    "str2": "A mass of persons, reg, organized for, war, a campaign"
+    "str2": "A mass of persons, reg, organized for, war, a campaign",
+    "num": 6635
   },
   {
     "word": "will carry out",
@@ -37,7 +41,8 @@
     "translit": "(‘ō·śeh)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "the destruction",
@@ -45,7 +50,8 @@
     "translit": "(ḵā·lāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 3617:  ",
-    "str2": "Completion, complete destruction, consumption, annihilation"
+    "str2": "Completion, complete destruction, consumption, annihilation",
+    "num": 3617
   },
   {
     "word": "decreed",
@@ -53,7 +59,8 @@
     "translit": "(wə·ne·ḥĕ·rā·ṣāh)",
     "parse": "Conjunctive waw | Verb - Nifal - Participle - feminine singular",
     "str": "Strong's 2782:  ",
-    "str2": "To point sharply, to wound, to be alert, to decide"
+    "str2": "To point sharply, to wound, to be alert, to decide",
+    "num": 2782
   },
   {
     "word": "upon",
@@ -61,7 +68,8 @@
     "translit": "(bə·qe·reḇ)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 7130:  ",
-    "str2": "The nearest part, the center"
+    "str2": "The nearest part, the center",
+    "num": 7130
   },
   {
     "word": "the whole",
@@ -69,7 +77,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "land.",
@@ -77,6 +86,7 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   }
 ]

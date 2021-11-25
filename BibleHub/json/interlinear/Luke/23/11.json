@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "even",
@@ -13,7 +14,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Herod",
@@ -21,7 +23,8 @@
     "translit": "(Hērōdēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2264:  ",
-    "str2": "Compound of heros and eidos; heroic; Herod, the name of four Jewish kings."
+    "str2": "Compound of heros and eidos; heroic; Herod, the name of four Jewish kings.",
+    "num": 2264
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(syn)",
     "parse": "Preposition",
     "str": "Strong's 4862:  ",
-    "str2": "With. A primary preposition denoting union; with or together."
+    "str2": "With. A primary preposition denoting union; with or together.",
+    "num": 4862
   },
   {
     "word": "his",
@@ -37,7 +41,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "soldiers",
@@ -45,7 +50,8 @@
     "translit": "(strateumasin)",
     "parse": "Noun - Dative Neuter Plural",
     "str": "Strong's 4753:  ",
-    "str2": "An army, detachment of troops. From strateuomai; an armament, i.e. a body of troops."
+    "str2": "An army, detachment of troops. From strateuomai; an armament, i.e. a body of troops.",
+    "num": 4753
   },
   {
     "word": "ridiculed",
@@ -53,7 +59,8 @@
     "translit": "(exouthenēsas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1848:  ",
-    "str2": "To set at naught, ignore, despise. A variation of exoudenoo and meaning the same."
+    "str2": "To set at naught, ignore, despise. A variation of exoudenoo and meaning the same.",
+    "num": 1848
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "mocked [Him].",
@@ -69,7 +77,8 @@
     "translit": "(empaixas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1702:  ",
-    "str2": "To mock, ridicule. From en and paizo; to jeer at, i.e. Deride."
+    "str2": "To mock, ridicule. From en and paizo; to jeer at, i.e. Deride.",
+    "num": 1702
   },
   {
     "word": "Dressing [Him] in",
@@ -77,7 +86,8 @@
     "translit": "(peribalōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4016:  ",
-    "str2": "From peri and ballo; to throw all around, i.e. Invest."
+    "str2": "From peri and ballo; to throw all around, i.e. Invest.",
+    "num": 4016
   },
   {
     "word": "a fine",
@@ -85,7 +95,8 @@
     "translit": "(lampran)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 2986:  ",
-    "str2": "From the same as lampas; radiant; by analogy, limpid; figuratively, magnificent or sumptuous."
+    "str2": "From the same as lampas; radiant; by analogy, limpid; figuratively, magnificent or sumptuous.",
+    "num": 2986
   },
   {
     "word": "robe,",
@@ -93,7 +104,8 @@
     "translit": "(esthēta)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2066:  ",
-    "str2": "Clothing, raiment, vestment, robe. From hennumi; dress."
+    "str2": "Clothing, raiment, vestment, robe. From hennumi; dress.",
+    "num": 2066
   },
   {
     "word": "they sent Him back",
@@ -101,7 +113,8 @@
     "translit": "(anepempsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 375:  ",
-    "str2": "To send up (to a higher tribunal), send back. From ana and pempo; to send up or back."
+    "str2": "To send up (to a higher tribunal), send back. From ana and pempo; to send up or back.",
+    "num": 375
   },
   {
     "word": "to",
@@ -109,7 +122,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Pilate.",
@@ -117,6 +131,7 @@
     "translit": "(Pilatō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 4091:  ",
-    "str2": "Pilate. Of Latin origin; close-pressed, i.e. Firm; Pilatus, a Roman."
+    "str2": "Pilate. Of Latin origin; close-pressed, i.e. Firm; Pilatus, a Roman.",
+    "num": 4091
   }
 ]

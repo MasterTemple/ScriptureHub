@@ -5,7 +5,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "you are to approach",
@@ -13,7 +14,8 @@
     "translit": "(ṯiq·rə·ḇū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 7126:  ",
-    "str2": "To come near, approach"
+    "str2": "To come near, approach",
+    "num": 7126
   },
   {
     "word": "any",
@@ -21,7 +23,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "close relative",
@@ -29,7 +32,8 @@
     "translit": "(šə·’êr)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 7607:  ",
-    "str2": "Flesh, as living, for, food, food of any kind, kindred by blood"
+    "str2": "Flesh, as living, for, food, food of any kind, kindred by blood",
+    "num": 7607
   },
   {
     "word": "to have sexual relations.",
@@ -37,7 +41,8 @@
     "translit": "(lə·ḡal·lō·wṯ)",
     "parse": "Preposition-l | Verb - Piel - Infinitive construct",
     "str": "Strong's 1540:  ",
-    "str2": "To denude, to exile, to reveal"
+    "str2": "To denude, to exile, to reveal",
+    "num": 1540
   },
   {
     "word": "I",
@@ -45,7 +50,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "am the LORD.",
@@ -53,6 +59,7 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   }
 ]

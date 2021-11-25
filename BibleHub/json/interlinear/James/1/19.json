@@ -5,7 +5,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "beloved",
@@ -13,7 +14,8 @@
     "translit": "(agapētoi)",
     "parse": "Adjective - Vocative Masculine Plural",
     "str": "Strong's 27:  ",
-    "str2": "From agapao; beloved."
+    "str2": "From agapao; beloved.",
+    "num": 27
   },
   {
     "word": "brothers,",
@@ -21,7 +23,8 @@
     "translit": "(adelphoi)",
     "parse": "Noun - Vocative Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "understand this:",
@@ -29,7 +32,8 @@
     "translit": "(Iste)",
     "parse": "Verb - Perfect Imperative Active - 2nd Person Plural",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "Everyone",
@@ -37,7 +41,8 @@
     "translit": "(pas)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "should be",
@@ -45,7 +50,8 @@
     "translit": "(estō)",
     "parse": "Verb - Present Imperative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "quick",
@@ -53,7 +59,8 @@
     "translit": "(tachys)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 5036:  ",
-    "str2": "Quick, swift, speedy, ready, prompt. Of uncertain affinity; fleet, i.e. prompt or ready."
+    "str2": "Quick, swift, speedy, ready, prompt. Of uncertain affinity; fleet, i.e. prompt or ready.",
+    "num": 5036
   },
   {
     "word": "to",
@@ -61,7 +68,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "listen,",
@@ -69,7 +77,8 @@
     "translit": "(akousai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "slow",
@@ -77,7 +86,8 @@
     "translit": "(bradys)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1021:  ",
-    "str2": "Slow, slow of understanding. Of uncertain affinity; slow; figuratively, dull."
+    "str2": "Slow, slow of understanding. Of uncertain affinity; slow; figuratively, dull.",
+    "num": 1021
   },
   {
     "word": "to",
@@ -85,7 +95,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "speak,",
@@ -93,7 +104,8 @@
     "translit": "(lalēsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "[and] slow",
@@ -101,7 +113,8 @@
     "translit": "(bradys)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1021:  ",
-    "str2": "Slow, slow of understanding. Of uncertain affinity; slow; figuratively, dull."
+    "str2": "Slow, slow of understanding. Of uncertain affinity; slow; figuratively, dull.",
+    "num": 1021
   },
   {
     "word": "to",
@@ -109,7 +122,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "anger,",
@@ -117,6 +131,7 @@
     "translit": "(orgēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3709:  ",
-    "str2": "From oregomai; properly, desire, i.e., violent passion (justifiable) abhorrence); by implication punishment."
+    "str2": "From oregomai; properly, desire, i.e., violent passion (justifiable) abhorrence); by implication punishment.",
+    "num": 3709
   }
 ]

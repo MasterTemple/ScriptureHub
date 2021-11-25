@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "we had been there",
@@ -13,7 +14,8 @@
     "translit": "(Epimenontōn)",
     "parse": "Verb - Present Participle Active - Genitive Masculine Plural",
     "str": "Strong's 1961:  ",
-    "str2": "(a) I remain, tarry, (b) I remain in, persist in. From epi and meno; to stay over, i.e. Remain."
+    "str2": "(a) I remain, tarry, (b) I remain in, persist in. From epi and meno; to stay over, i.e. Remain.",
+    "num": 1961
   },
   {
     "word": "several",
@@ -21,7 +23,8 @@
     "translit": "(pleious)",
     "parse": "Adjective - Accusative Feminine Plural - Comparative",
     "str": "Strong's 4119:  ",
-    "str2": "Or neuter pleion, or pleon comparative of polus; more in quantity, number, or quality; also the major portion."
+    "str2": "Or neuter pleion, or pleon comparative of polus; more in quantity, number, or quality; also the major portion.",
+    "num": 4119
   },
   {
     "word": "days,",
@@ -29,7 +32,8 @@
     "translit": "(hēmeras)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "a",
@@ -37,7 +41,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "prophet",
@@ -45,7 +50,8 @@
     "translit": "(prophētēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4396:  ",
-    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet."
+    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet.",
+    "num": 4396
   },
   {
     "word": "named",
@@ -53,7 +59,8 @@
     "translit": "(onomati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 3686:  ",
-    "str2": "Name, character, fame, reputation. From a presumed derivative of the base of ginosko; a 'name'."
+    "str2": "Name, character, fame, reputation. From a presumed derivative of the base of ginosko; a 'name'.",
+    "num": 3686
   },
   {
     "word": "Agabus",
@@ -61,7 +68,8 @@
     "translit": "(Hagabos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 13:  ",
-    "str2": "Agabus, a Christian prophet. Of Hebrew origin; Agabus, an Israelite."
+    "str2": "Agabus, a Christian prophet. Of Hebrew origin; Agabus, an Israelite.",
+    "num": 13
   },
   {
     "word": "came down",
@@ -69,7 +77,8 @@
     "translit": "(katēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2718:  ",
-    "str2": "From kata and erchomai; to come down."
+    "str2": "From kata and erchomai; to come down.",
+    "num": 2718
   },
   {
     "word": "from",
@@ -77,7 +86,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "Judea.",
@@ -85,6 +95,7 @@
     "translit": "(Ioudaias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2449:  ",
-    "str2": "Judea, a Roman province, capital Jerusalem. Feminine of Ioudaios; the Judaean land, a region of Palestine."
+    "str2": "Judea, a Roman province, capital Jerusalem. Feminine of Ioudaios; the Judaean land, a region of Palestine.",
+    "num": 2449
   }
 ]

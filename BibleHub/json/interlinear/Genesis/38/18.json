@@ -5,7 +5,8 @@
     "translit": "(māh)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "pledge",
@@ -13,7 +14,8 @@
     "translit": "(hā·‘ê·rā·ḇō·wn)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 6162:  ",
-    "str2": "A pledge"
+    "str2": "A pledge",
+    "num": 6162
   },
   {
     "word": "should I give you?”",
@@ -21,7 +23,8 @@
     "translit": "(’et·ten-)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "he asked.",
@@ -29,7 +32,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "She answered,",
@@ -37,7 +41,8 @@
     "translit": "(wat·tō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“Your seal",
@@ -45,7 +50,8 @@
     "translit": "(ḥō·ṯā·mə·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 2368:  ",
-    "str2": "A seal, signet ring"
+    "str2": "A seal, signet ring",
+    "num": 2368
   },
   {
     "word": "and your cord,",
@@ -53,7 +59,8 @@
     "translit": "(ū·p̄ə·ṯî·le·ḵā)",
     "parse": "Conjunctive waw | Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 6616:  ",
-    "str2": "Cord, thread"
+    "str2": "Cord, thread",
+    "num": 6616
   },
   {
     "word": "and the staff",
@@ -61,7 +68,8 @@
     "translit": "(ū·maṭ·ṭə·ḵā)",
     "parse": "Conjunctive waw | Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 4294:  ",
-    "str2": "A staff, rod, shaft, branch, a tribe"
+    "str2": "A staff, rod, shaft, branch, a tribe",
+    "num": 4294
   },
   {
     "word": "in your hand.”",
@@ -69,7 +77,8 @@
     "translit": "(bə·yā·ḏe·ḵā)",
     "parse": "Preposition-b | Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "So he gave",
@@ -77,7 +86,8 @@
     "translit": "(way·yit·ten-)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "them to her",
@@ -85,7 +95,8 @@
     "translit": "(lāh)",
     "parse": "Preposition | third person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "and slept with",
@@ -93,7 +104,8 @@
     "translit": "(way·yā·ḇō)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "her,",
@@ -101,7 +113,8 @@
     "translit": "(’ê·le·hā)",
     "parse": "Preposition | third person feminine singular",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "and she became pregnant",
@@ -109,7 +122,8 @@
     "translit": "(wat·ta·har)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
     "str": "Strong's 2029:  ",
-    "str2": "To conceive, become pregnant"
+    "str2": "To conceive, become pregnant",
+    "num": 2029
   },
   {
     "word": "by him.",
@@ -117,6 +131,7 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

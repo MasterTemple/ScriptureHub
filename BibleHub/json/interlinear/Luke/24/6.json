@@ -5,7 +5,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "not",
@@ -13,7 +14,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "here;",
@@ -21,7 +23,8 @@
     "translit": "(hōde)",
     "parse": "Adverb",
     "str": "Strong's 5602:  ",
-    "str2": "From an adverb form of hode; in this same spot, i.e. Here or hither."
+    "str2": "From an adverb form of hode; in this same spot, i.e. Here or hither.",
+    "num": 5602
   },
   {
     "word": "He has risen!",
@@ -29,7 +32,8 @@
     "translit": "(ēgerthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 1453:  ",
-    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse."
+    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse.",
+    "num": 1453
   },
   {
     "word": "Remember",
@@ -37,7 +41,8 @@
     "translit": "(mnēsthēte)",
     "parse": "Verb - Aorist Imperative Passive - 2nd Person Plural",
     "str": "Strong's 3403:  ",
-    "str2": "To remember, call to mind, recall, mention. A prolonged form of mnaomai; to remind, i.e. to recall to mind."
+    "str2": "To remember, call to mind, recall, mention. A prolonged form of mnaomai; to remind, i.e. to recall to mind.",
+    "num": 3403
   },
   {
     "word": "how",
@@ -45,7 +50,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "He told",
@@ -53,7 +59,8 @@
     "translit": "(elalēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "you",
@@ -61,7 +68,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "while He was",
@@ -69,7 +77,8 @@
     "translit": "(ōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "still",
@@ -77,7 +86,8 @@
     "translit": "(eti)",
     "parse": "Adverb",
     "str": "Strong's 2089:  ",
-    "str2": "(a) of time: still, yet, even now, (b) of degree: even, further, more, in addition. Perhaps akin to etos; 'yet, ' still."
+    "str2": "(a) of time: still, yet, even now, (b) of degree: even, further, more, in addition. Perhaps akin to etos; 'yet, ' still.",
+    "num": 2089
   },
   {
     "word": "in",
@@ -85,7 +95,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "Galilee:",
@@ -93,6 +104,7 @@
     "translit": "(Galilaia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 1056:  ",
-    "str2": "Of Hebrew origin; Galiloea, a region of Palestine."
+    "str2": "Of Hebrew origin; Galiloea, a region of Palestine.",
+    "num": 1056
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(šō·w·mêr)",
     "parse": "Verb - Qal - Participle - masculine singular construct",
     "str": "Strong's 8104:  ",
-    "str2": "To hedge about, guard, to protect, attend to"
+    "str2": "To hedge about, guard, to protect, attend to",
+    "num": 8104
   },
   {
     "word": "his command",
@@ -13,7 +14,8 @@
     "translit": "(miṣ·wāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 4687:  ",
-    "str2": "Commandment"
+    "str2": "Commandment",
+    "num": 4687
   },
   {
     "word": "will come to",
@@ -21,7 +23,8 @@
     "translit": "(yê·ḏa‘)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "no",
@@ -29,7 +32,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "harm,",
@@ -37,7 +41,8 @@
     "translit": "(rā‘)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "and a wise",
@@ -45,7 +50,8 @@
     "translit": "(ḥā·ḵām)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 2450:  ",
-    "str2": "Wise"
+    "str2": "Wise",
+    "num": 2450
   },
   {
     "word": "heart",
@@ -53,7 +59,8 @@
     "translit": "(lêḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3820:  ",
-    "str2": "The heart, the feelings, the will, the intellect, centre"
+    "str2": "The heart, the feelings, the will, the intellect, centre",
+    "num": 3820
   },
   {
     "word": "knows",
@@ -61,7 +68,8 @@
     "translit": "(yê·ḏa‘)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "the right time",
@@ -69,7 +77,8 @@
     "translit": "(wə·‘êṯ)",
     "parse": "Conjunctive waw | Noun - common singular",
     "str": "Strong's 6256:  ",
-    "str2": "Time, now, when"
+    "str2": "Time, now, when",
+    "num": 6256
   },
   {
     "word": "and procedure.",
@@ -77,6 +86,7 @@
     "translit": "(ū·miš·pāṭ)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 4941:  ",
-    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style"
+    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style",
+    "num": 4941
   }
 ]

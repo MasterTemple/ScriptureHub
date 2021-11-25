@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "on",
@@ -13,7 +14,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "hearing",
@@ -21,7 +23,8 @@
     "translit": "(ēkousen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "that",
@@ -29,7 +32,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "[Lazarus] was sick,",
@@ -37,7 +41,8 @@
     "translit": "(asthenei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 770:  ",
-    "str2": "To be weak (physically: then morally), To be sick. From asthenes; to be feeble."
+    "str2": "To be weak (physically: then morally), To be sick. From asthenes; to be feeble.",
+    "num": 770
   },
   {
     "word": "He stayed",
@@ -45,7 +50,8 @@
     "translit": "(emeinen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3306:  ",
-    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay."
+    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay.",
+    "num": 3306
   },
   {
     "word": "where",
@@ -53,7 +59,8 @@
     "translit": "(hō)",
     "parse": "Personal / Relative Pronoun - Dative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "He was",
@@ -61,7 +68,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "for two",
@@ -69,7 +77,8 @@
     "translit": "(dyo)",
     "parse": "Adjective - Accusative Feminine Plural",
     "str": "Strong's 1417:  ",
-    "str2": "Two. A primary numeral; 'two'."
+    "str2": "Two. A primary numeral; 'two'.",
+    "num": 1417
   },
   {
     "word": "days,",
@@ -77,6 +86,7 @@
     "translit": "(hēmeras)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   }
 ]

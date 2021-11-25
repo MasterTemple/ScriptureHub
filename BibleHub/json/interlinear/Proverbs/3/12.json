@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "disciplines",
@@ -21,7 +23,8 @@
     "translit": "(yō·w·ḵî·aḥ)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular",
     "str": "Strong's 3198:  ",
-    "str2": "To be right, reciprocal, to argue, to decide, justify, convict"
+    "str2": "To be right, reciprocal, to argue, to decide, justify, convict",
+    "num": 3198
   },
   {
     "word": "those",
@@ -29,7 +32,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "He loves,",
@@ -37,7 +41,8 @@
     "translit": "(ye·’ĕ·haḇ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 157:  ",
-    "str2": "To have affection f"
+    "str2": "To have affection f",
+    "num": 157
   },
   {
     "word": "as a father",
@@ -45,7 +50,8 @@
     "translit": "(ū·ḵə·’āḇ)",
     "parse": "Conjunctive waw, Preposition-k | Noun - masculine singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "the son",
@@ -53,7 +59,8 @@
     "translit": "(bên)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "[in whom] he delights.",
@@ -61,6 +68,7 @@
     "translit": "(yir·ṣeh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 7521:  ",
-    "str2": "To be pleased with, to satisfy a, debt"
+    "str2": "To be pleased with, to satisfy a, debt",
+    "num": 7521
   }
 ]

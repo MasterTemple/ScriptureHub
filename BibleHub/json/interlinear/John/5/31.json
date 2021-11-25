@@ -5,7 +5,8 @@
     "translit": "(Ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "I",
@@ -13,7 +14,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "testify",
@@ -21,7 +23,8 @@
     "translit": "(martyrō)",
     "parse": "Verb - Present Subjunctive Active - 1st Person Singular",
     "str": "Strong's 3140:  ",
-    "str2": "To witness, bear witness, give evidence, testify, give a good report. From martus; to be a witness, i.e. Testify."
+    "str2": "To witness, bear witness, give evidence, testify, give a good report. From martus; to be a witness, i.e. Testify.",
+    "num": 3140
   },
   {
     "word": "about",
@@ -29,7 +32,8 @@
     "translit": "(peri)",
     "parse": "Preposition",
     "str": "Strong's 4012:  ",
-    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time.",
+    "num": 4012
   },
   {
     "word": "Myself,",
@@ -37,7 +41,8 @@
     "translit": "(emautou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 1st Person Singular",
     "str": "Strong's 1683:  ",
-    "str2": "Genitive case compound of emou and autos; of myself so likewise the dative case emautoi em-ow-to', and accusative case emauton em-ow-ton'."
+    "str2": "Genitive case compound of emou and autos; of myself so likewise the dative case emautoi em-ow-to', and accusative case emauton em-ow-ton'.",
+    "num": 1683
   },
   {
     "word": "My",
@@ -45,7 +50,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "testimony",
@@ -53,7 +59,8 @@
     "translit": "(martyria)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3141:  ",
-    "str2": "Witness, evidence, testimony, reputation. From martus; evidence given."
+    "str2": "Witness, evidence, testimony, reputation. From martus; evidence given.",
+    "num": 3141
   },
   {
     "word": "is",
@@ -61,7 +68,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "not",
@@ -69,7 +77,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "valid.",
@@ -77,6 +86,7 @@
     "translit": "(alēthēs)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 227:  ",
-    "str2": "Unconcealed, true, true in fact, worthy of credit, truthful. TRUE."
+    "str2": "Unconcealed, true, true in fact, worthy of credit, truthful. TRUE.",
+    "num": 227
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "the guilty man",
@@ -13,7 +14,8 @@
     "translit": "(hā·rā·šā‘)",
     "parse": "Article | Adjective - masculine singular",
     "str": "Strong's 7563:  ",
-    "str2": "Wrong, an, bad person"
+    "str2": "Wrong, an, bad person",
+    "num": 7563
   },
   {
     "word": "deserves to be beaten,",
@@ -21,7 +23,8 @@
     "translit": "(hak·kō·wṯ)",
     "parse": "Verb - Hifil - Infinitive construct",
     "str": "Strong's 5221:  ",
-    "str2": "To strike"
+    "str2": "To strike",
+    "num": 5221
   },
   {
     "word": "the judge",
@@ -29,7 +32,8 @@
     "translit": "(haš·šō·p̄êṭ)",
     "parse": "Article | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 8199:  ",
-    "str2": "To judge, pronounce sentence, to vindicate, punish, to govern, to litigate"
+    "str2": "To judge, pronounce sentence, to vindicate, punish, to govern, to litigate",
+    "num": 8199
   },
   {
     "word": "shall have him lie down",
@@ -37,7 +41,8 @@
     "translit": "(wə·hip·pî·lōw)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - third person masculine singular | third person masculine singular",
     "str": "Strong's 5307:  ",
-    "str2": "To fall, lie"
+    "str2": "To fall, lie",
+    "num": 5307
   },
   {
     "word": "and be flogged",
@@ -45,7 +50,8 @@
     "translit": "(wə·hik·kā·hū)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - third person masculine singular | third person masculine singular",
     "str": "Strong's 5221:  ",
-    "str2": "To strike"
+    "str2": "To strike",
+    "num": 5221
   },
   {
     "word": "in his presence",
@@ -53,7 +59,8 @@
     "translit": "(lə·p̄ā·nāw)",
     "parse": "Preposition-l | Noun - common plural construct | third person masculine singular",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "with the number",
@@ -61,7 +68,8 @@
     "translit": "(bə·mis·pār)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 4557:  ",
-    "str2": "A number, definite, indefinite, narration"
+    "str2": "A number, definite, indefinite, narration",
+    "num": 4557
   },
   {
     "word": "of lashes",
@@ -69,7 +77,8 @@
     "translit": "(kə·ḏê)",
     "parse": "Preposition-k | Noun - masculine singular construct",
     "str": "Strong's 1767:  ",
-    "str2": "Sufficiency, enough"
+    "str2": "Sufficiency, enough",
+    "num": 1767
   },
   {
     "word": "his crime deserves.",
@@ -77,6 +86,7 @@
     "translit": "(riš·‘ā·ṯōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 7564:  ",
-    "str2": "Wickedness"
+    "str2": "Wickedness",
+    "num": 7564
   }
 ]

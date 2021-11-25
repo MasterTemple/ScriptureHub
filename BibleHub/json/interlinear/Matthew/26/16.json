@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "from",
@@ -13,7 +14,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "that time on",
@@ -21,7 +23,8 @@
     "translit": "(tote)",
     "parse": "Adverb",
     "str": "Strong's 5119:  ",
-    "str2": "Then, at that time. From ho and hote; the when, i.e. At the time that."
+    "str2": "Then, at that time. From ho and hote; the when, i.e. At the time that.",
+    "num": 5119
   },
   {
     "word": "[Judas] looked for",
@@ -29,7 +32,8 @@
     "translit": "(ezētei)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 2212:  ",
-    "str2": "To seek, search for, desire, require, demand. Of uncertain affinity; to seek; specially, to worship, or to plot."
+    "str2": "To seek, search for, desire, require, demand. Of uncertain affinity; to seek; specially, to worship, or to plot.",
+    "num": 2212
   },
   {
     "word": "an opportunity",
@@ -37,7 +41,8 @@
     "translit": "(eukairian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2120:  ",
-    "str2": "A convenient time, opportunity. From eukairos; a favorable occasion."
+    "str2": "A convenient time, opportunity. From eukairos; a favorable occasion.",
+    "num": 2120
   },
   {
     "word": "to",
@@ -45,7 +50,8 @@
     "translit": "(hina)",
     "parse": "Conjunction",
     "str": "Strong's 2443:  ",
-    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that."
+    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that.",
+    "num": 2443
   },
   {
     "word": "betray",
@@ -53,7 +59,8 @@
     "translit": "(paradō)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 3860:  ",
-    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit."
+    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit.",
+    "num": 3860
   },
   {
     "word": "[Jesus].",
@@ -61,6 +68,7 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

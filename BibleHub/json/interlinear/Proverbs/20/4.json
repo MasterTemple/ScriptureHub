@@ -5,7 +5,8 @@
     "translit": "(‘ā·ṣêl)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 6102:  ",
-    "str2": "Sluggish, lazy"
+    "str2": "Sluggish, lazy",
+    "num": 6102
   },
   {
     "word": "does not",
@@ -13,7 +14,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "plow",
@@ -21,7 +23,8 @@
     "translit": "(ya·ḥă·rōš)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 2790:  ",
-    "str2": "To cut in, engrave, plow, devise"
+    "str2": "To cut in, engrave, plow, devise",
+    "num": 2790
   },
   {
     "word": "in season;",
@@ -29,7 +32,8 @@
     "translit": "(mê·ḥō·rep̄)",
     "parse": "Preposition-m | Noun - masculine singular",
     "str": "Strong's 2779:  ",
-    "str2": "The crop gathered, the autumn, season, ripeness of age"
+    "str2": "The crop gathered, the autumn, season, ripeness of age",
+    "num": 2779
   },
   {
     "word": "at harvest time",
@@ -37,7 +41,8 @@
     "translit": "(baq·qā·ṣîr)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 7105:  ",
-    "str2": "Severed, harvest, the crop, the time, the reaper, a limb"
+    "str2": "Severed, harvest, the crop, the time, the reaper, a limb",
+    "num": 7105
   },
   {
     "word": "he looks,",
@@ -45,7 +50,8 @@
     "translit": "(wə·šā·’al)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 7592:  ",
-    "str2": "To inquire, to request, to demand"
+    "str2": "To inquire, to request, to demand",
+    "num": 7592
   },
   {
     "word": "but nothing is there.",
@@ -53,6 +59,7 @@
     "translit": "(wā·’ā·yin)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(legō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "this",
@@ -13,7 +14,8 @@
     "translit": "(Touto)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "so that",
@@ -21,7 +23,8 @@
     "translit": "(hina)",
     "parse": "Conjunction",
     "str": "Strong's 2443:  ",
-    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that."
+    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that.",
+    "num": 2443
   },
   {
     "word": "no one",
@@ -29,7 +32,8 @@
     "translit": "(mēdeis)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3367:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3367
   },
   {
     "word": "will deceive",
@@ -37,7 +41,8 @@
     "translit": "(paralogizētai)",
     "parse": "Verb - Present Subjunctive Middle or Passive - 3rd Person Singular",
     "str": "Strong's 3884:  ",
-    "str2": "To deceive, beguile, reason falsely, mislead. From para and logizomai; to misreckon, i.e. Delude."
+    "str2": "To deceive, beguile, reason falsely, mislead. From para and logizomai; to misreckon, i.e. Delude.",
+    "num": 3884
   },
   {
     "word": "you",
@@ -45,7 +50,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "by",
@@ -53,7 +59,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "smooth rhetoric.",
@@ -61,6 +68,7 @@
     "translit": "(pithanologia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4086:  ",
-    "str2": "Persuasive speech. From a compound of a derivative of peitho and logos; persuasive language."
+    "str2": "Persuasive speech. From a compound of a derivative of peitho and logos; persuasive language.",
+    "num": 4086
   }
 ]

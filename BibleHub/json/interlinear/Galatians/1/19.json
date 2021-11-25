@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "I saw",
@@ -13,7 +14,8 @@
     "translit": "(eidon)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "none",
@@ -21,7 +23,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "of the",
@@ -29,7 +32,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "other",
@@ -37,7 +41,8 @@
     "translit": "(heteron)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 2087:  ",
-    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different."
+    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different.",
+    "num": 2087
   },
   {
     "word": "apostles",
@@ -45,7 +50,8 @@
     "translit": "(apostolōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 652:  ",
-    "str2": "From apostello; a delegate; specially, an ambassador of the Gospel; officially a commissioner of Christ."
+    "str2": "From apostello; a delegate; specially, an ambassador of the Gospel; officially a commissioner of Christ.",
+    "num": 652
   },
   {
     "word": "except",
@@ -53,7 +59,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "James,",
@@ -61,7 +68,8 @@
     "translit": "(Iakōbon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2385:  ",
-    "str2": "The same as Iakob Graecized; Jacobus, the name of three Israelites."
+    "str2": "The same as Iakob Graecized; Jacobus, the name of three Israelites.",
+    "num": 2385
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord’s",
@@ -77,7 +86,8 @@
     "translit": "(Kyriou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "brother.",
@@ -85,6 +95,7 @@
     "translit": "(adelphon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   }
 ]

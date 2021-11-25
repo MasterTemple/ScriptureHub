@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "a paralytic",
@@ -13,7 +14,8 @@
     "translit": "(paralytikon)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 3885:  ",
-    "str2": "Afflicted with paralysis. From a derivative of paraluo; as if dissolved, i.e. 'paralytic'."
+    "str2": "Afflicted with paralysis. From a derivative of paraluo; as if dissolved, i.e. 'paralytic'.",
+    "num": 3885
   },
   {
     "word": "was brought",
@@ -21,7 +23,8 @@
     "translit": "(pherontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 5342:  ",
-    "str2": "To carry, bear, bring; I conduct, lead; perhaps: I make publicly known. A primary verb."
+    "str2": "To carry, bear, bring; I conduct, lead; perhaps: I make publicly known. A primary verb.",
+    "num": 5342
   },
   {
     "word": "to",
@@ -29,7 +32,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "Him,",
@@ -37,7 +41,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "carried",
@@ -45,7 +50,8 @@
     "translit": "(airomenon)",
     "parse": "Verb - Present Participle Middle or Passive - Accusative Masculine Singular",
     "str": "Strong's 142:  ",
-    "str2": "To raise, lift up, take away, remove. "
+    "str2": "To raise, lift up, take away, remove. ",
+    "num": 142
   },
   {
     "word": "by",
@@ -53,7 +59,8 @@
     "translit": "(hypo)",
     "parse": "Preposition",
     "str": "Strong's 5259:  ",
-    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when)."
+    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when).",
+    "num": 5259
   },
   {
     "word": "four [men].",
@@ -61,6 +68,7 @@
     "translit": "(tessarōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 5064:  ",
-    "str2": "Four. Or neuter tessara a plural number; four."
+    "str2": "Four. Or neuter tessara a plural number; four.",
+    "num": 5064
   }
 ]

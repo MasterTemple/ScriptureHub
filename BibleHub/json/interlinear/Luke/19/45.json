@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[Jesus] entered",
@@ -13,7 +14,8 @@
     "translit": "(eiselthōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "temple courts",
@@ -29,7 +32,8 @@
     "translit": "(hieron)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 2411:  ",
-    "str2": "Neuter of hieros; a sacred place, i.e. The entire precincts of the Temple."
+    "str2": "Neuter of hieros; a sacred place, i.e. The entire precincts of the Temple.",
+    "num": 2411
   },
   {
     "word": "[and] began",
@@ -37,7 +41,8 @@
     "translit": "(ērxato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 756:  ",
-    "str2": "To begin. Middle voice of archo; to commence."
+    "str2": "To begin. Middle voice of archo; to commence.",
+    "num": 756
   },
   {
     "word": "to drive out",
@@ -45,7 +50,8 @@
     "translit": "(ekballein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 1544:  ",
-    "str2": "To throw (cast, put) out; I banish; I bring forth, produce. From ek and ballo; to eject."
+    "str2": "To throw (cast, put) out; I banish; I bring forth, produce. From ek and ballo; to eject.",
+    "num": 1544
   },
   {
     "word": "those who",
@@ -53,7 +59,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "were selling [there].",
@@ -61,6 +68,7 @@
     "translit": "(pōlountas)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Plural",
     "str": "Strong's 4453:  ",
-    "str2": "To sell, exchange, barter. Probably ultimately from pelomai; to barter, i.e. To sell."
+    "str2": "To sell, exchange, barter. Probably ultimately from pelomai; to barter, i.e. To sell.",
+    "num": 4453
   }
 ]

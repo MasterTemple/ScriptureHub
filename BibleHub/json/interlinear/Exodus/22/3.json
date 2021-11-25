@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "it happens after sunrise,",
@@ -13,7 +14,8 @@
     "translit": "(zā·rə·ḥāh)",
     "parse": "Verb - Qal - Perfect - third person feminine singular",
     "str": "Strong's 2224:  ",
-    "str2": "To irradiate, to rise, to appear"
+    "str2": "To irradiate, to rise, to appear",
+    "num": 2224
   },
   {
     "word": "there is guilt for his bloodshed.",
@@ -21,7 +23,8 @@
     "translit": "(dā·mîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 1818:  ",
-    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed"
+    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed",
+    "num": 1818
   },
   {
     "word": "A thief must make full restitution;",
@@ -29,7 +32,8 @@
     "translit": "(šal·lêm)",
     "parse": "Verb - Piel - Infinitive absolute",
     "str": "Strong's 7999:  ",
-    "str2": "To be safe, to be, completed, to be friendly, to reciprocate"
+    "str2": "To be safe, to be, completed, to be friendly, to reciprocate",
+    "num": 7999
   },
   {
     "word": "if",
@@ -37,7 +41,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "he has nothing,",
@@ -45,7 +50,8 @@
     "translit": "(’ên)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "he himself shall be sold",
@@ -53,7 +59,8 @@
     "translit": "(wə·nim·kar)",
     "parse": "Conjunctive waw | Verb - Nifal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 4376:  ",
-    "str2": "To sell"
+    "str2": "To sell",
+    "num": 4376
   },
   {
     "word": "for his theft.",
@@ -61,6 +68,7 @@
     "translit": "(biḡ·nê·ḇā·ṯōw)",
     "parse": "Preposition-b | Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 1591:  ",
-    "str2": "Stealing, something stolen"
+    "str2": "Stealing, something stolen",
+    "num": 1591
   }
 ]

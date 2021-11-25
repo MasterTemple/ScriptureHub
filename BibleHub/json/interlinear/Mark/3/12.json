@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "He ordered",
@@ -13,7 +14,8 @@
     "translit": "(epetima)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 2008:  ",
-    "str2": "From epi and timao; to tax upon, i.e. Censure or admonish; by implication, forbid."
+    "str2": "From epi and timao; to tax upon, i.e. Censure or admonish; by implication, forbid.",
+    "num": 2008
   },
   {
     "word": "them",
@@ -21,7 +23,8 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "sternly",
@@ -29,7 +32,8 @@
     "translit": "(polla)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "not",
@@ -37,7 +41,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "to",
@@ -45,7 +50,8 @@
     "translit": "(hina)",
     "parse": "Conjunction",
     "str": "Strong's 2443:  ",
-    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that."
+    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that.",
+    "num": 2443
   },
   {
     "word": "make",
@@ -53,7 +59,8 @@
     "translit": "(poiēsōsin)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Plural",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "Him",
@@ -61,7 +68,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "known.",
@@ -69,6 +77,7 @@
     "translit": "(phaneron)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 5318:  ",
-    "str2": "Apparent, clear, visible, manifest; adv: clearly. From phaino; shining, i.e. Apparent; neuter publicly, externally."
+    "str2": "Apparent, clear, visible, manifest; adv: clearly. From phaino; shining, i.e. Apparent; neuter publicly, externally.",
+    "num": 5318
   }
 ]

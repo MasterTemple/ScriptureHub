@@ -5,7 +5,8 @@
     "translit": "(ephē)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 5346:  ",
-    "str2": "To say, declare. Properly, the same as the base of phos and phaino; to show or make known one's thoughts, i.e. Speak or say."
+    "str2": "To say, declare. Properly, the same as the base of phos and phaino; to show or make known one's thoughts, i.e. Speak or say.",
+    "num": 5346
   },
   {
     "word": "“I will hear your case",
@@ -13,7 +14,8 @@
     "translit": "(Diakousomai)",
     "parse": "Verb - Future Indicative Middle - 1st Person Singular",
     "str": "Strong's 1251:  ",
-    "str2": "To hear throughout, of a judicial hearing. Middle voice from dia and akouo; to hear throughout, i.e. Patiently listen."
+    "str2": "To hear throughout, of a judicial hearing. Middle voice from dia and akouo; to hear throughout, i.e. Patiently listen.",
+    "num": 1251
   },
   {
     "word": "when",
@@ -21,7 +23,8 @@
     "translit": "(Hotan)",
     "parse": "Conjunction",
     "str": "Strong's 3752:  ",
-    "str2": "When, whenever. From hote and an; whenever; also causatively inasmuch as."
+    "str2": "When, whenever. From hote and an; whenever; also causatively inasmuch as.",
+    "num": 3752
   },
   {
     "word": "your",
@@ -29,7 +32,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "accusers",
@@ -37,7 +41,8 @@
     "translit": "(katēgoroi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 2725:  ",
-    "str2": "An accuser, prosecutor. From kata and agora; against one in the assembly, i.e. A complainant at law; specially, Satan."
+    "str2": "An accuser, prosecutor. From kata and agora; against one in the assembly, i.e. A complainant at law; specially, Satan.",
+    "num": 2725
   },
   {
     "word": "arrive.”",
@@ -45,7 +50,8 @@
     "translit": "(paragenōntai)",
     "parse": "Verb - Aorist Subjunctive Middle - 3rd Person Plural",
     "str": "Strong's 3854:  ",
-    "str2": "From para and ginomai; to become near, i.e. Approach; by implication, to appear publicly."
+    "str2": "From para and ginomai; to become near, i.e. Approach; by implication, to appear publicly.",
+    "num": 3854
   },
   {
     "word": "Then he ordered that",
@@ -53,7 +59,8 @@
     "translit": "(keleusas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2753:  ",
-    "str2": "To command, order, direct, bid. From a primary kello; 'hail'; to incite by word, i.e. Order."
+    "str2": "To command, order, direct, bid. From a primary kello; 'hail'; to incite by word, i.e. Order.",
+    "num": 2753
   },
   {
     "word": "[Paul]",
@@ -61,7 +68,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "be kept under guard",
@@ -69,7 +77,8 @@
     "translit": "(phylassesthai)",
     "parse": "Verb - Present Infinitive Passive",
     "str": "Strong's 5442:  ",
-    "str2": "Probably from phule through the idea of isolation; to watch, i.e. Be on guard; by implication, to preserve, obey, avoid."
+    "str2": "Probably from phule through the idea of isolation; to watch, i.e. Be on guard; by implication, to preserve, obey, avoid.",
+    "num": 5442
   },
   {
     "word": "in",
@@ -77,7 +86,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "Herod’s",
@@ -85,7 +95,8 @@
     "translit": "(Hērōdou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2264:  ",
-    "str2": "Compound of heros and eidos; heroic; Herod, the name of four Jewish kings."
+    "str2": "Compound of heros and eidos; heroic; Herod, the name of four Jewish kings.",
+    "num": 2264
   },
   {
     "word": "Praetorium.",
@@ -93,6 +104,7 @@
     "translit": "(praitōriō)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 4232:  ",
-    "str2": "Of Latin origin; the praetorium or governor's courtroom."
+    "str2": "Of Latin origin; the praetorium or governor's courtroom.",
+    "num": 4232
   }
 ]

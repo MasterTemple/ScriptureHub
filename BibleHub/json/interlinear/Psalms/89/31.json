@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "they violate",
@@ -13,7 +14,8 @@
     "translit": "(yə·ḥal·lê·lū)",
     "parse": "Verb - Piel - Imperfect - third person masculine plural",
     "str": "Strong's 2490:  ",
-    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play"
+    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play",
+    "num": 2490
   },
   {
     "word": "My statutes",
@@ -21,7 +23,8 @@
     "translit": "(ḥuq·qō·ṯay)",
     "parse": "Noun - feminine plural construct | first person common singular",
     "str": "Strong's 2708:  ",
-    "str2": "Something prescribed, an enactment, statute"
+    "str2": "Something prescribed, an enactment, statute",
+    "num": 2708
   },
   {
     "word": "and fail",
@@ -29,7 +32,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "to keep",
@@ -37,7 +41,8 @@
     "translit": "(yiš·mō·rū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 8104:  ",
-    "str2": "To hedge about, guard, to protect, attend to"
+    "str2": "To hedge about, guard, to protect, attend to",
+    "num": 8104
   },
   {
     "word": "My commandments,",
@@ -45,6 +50,7 @@
     "translit": "(ū·miṣ·wō·ṯay)",
     "parse": "Conjunctive waw | Noun - feminine plural construct | first person common singular",
     "str": "Strong's 4687:  ",
-    "str2": "Commandment"
+    "str2": "Commandment",
+    "num": 4687
   }
 ]

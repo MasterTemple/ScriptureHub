@@ -5,7 +5,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "Tertius,",
@@ -13,7 +14,8 @@
     "translit": "(Tertios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5060:  ",
-    "str2": "Tertius, who wrote the Epistle to the Romans at Paul's dictation. Of Latin origin; third; Tertius, a Christian."
+    "str2": "Tertius, who wrote the Epistle to the Romans at Paul's dictation. Of Latin origin; third; Tertius, a Christian.",
+    "num": 5060
   },
   {
     "word": "who",
@@ -21,7 +23,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "wrote down",
@@ -29,7 +32,8 @@
     "translit": "(grapsas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1125:  ",
-    "str2": "A primary verb; to 'grave', especially to write; figuratively, to describe."
+    "str2": "A primary verb; to 'grave', especially to write; figuratively, to describe.",
+    "num": 1125
   },
   {
     "word": "this",
@@ -37,7 +41,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "letter,",
@@ -45,7 +50,8 @@
     "translit": "(epistolēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1992:  ",
-    "str2": "A letter, dispatch, epistle, message. From epistello; a written message."
+    "str2": "A letter, dispatch, epistle, message. From epistello; a written message.",
+    "num": 1992
   },
   {
     "word": "greet",
@@ -53,7 +59,8 @@
     "translit": "(Aspazomai)",
     "parse": "Verb - Present Indicative Middle or Passive - 1st Person Singular",
     "str": "Strong's 782:  ",
-    "str2": "To greet, salute, pay my respects to, welcome. To enfold in the arms, i.e. to salute, to welcome."
+    "str2": "To greet, salute, pay my respects to, welcome. To enfold in the arms, i.e. to salute, to welcome.",
+    "num": 782
   },
   {
     "word": "you",
@@ -61,7 +68,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "in",
@@ -69,7 +77,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[the] Lord.",
@@ -77,6 +86,7 @@
     "translit": "(Kyriō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "two",
@@ -13,7 +14,8 @@
     "translit": "(dyo)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 1417:  ",
-    "str2": "Two. A primary numeral; 'two'."
+    "str2": "Two. A primary numeral; 'two'.",
+    "num": 1417
   },
   {
     "word": "were running",
@@ -21,7 +23,8 @@
     "translit": "(etrechon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 5143:  ",
-    "str2": "Apparently a primary verb; which uses dremo drem'-o as alternate in certain tenses; to run or walk hastily."
+    "str2": "Apparently a primary verb; which uses dremo drem'-o as alternate in certain tenses; to run or walk hastily.",
+    "num": 5143
   },
   {
     "word": "together,",
@@ -29,7 +32,8 @@
     "translit": "(homou)",
     "parse": "Adverb",
     "str": "Strong's 3674:  ",
-    "str2": "Together, at the same place and time. Genitive case of homos as adverb; at the same place or time."
+    "str2": "Together, at the same place and time. Genitive case of homos as adverb; at the same place or time.",
+    "num": 3674
   },
   {
     "word": "[but]",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "other",
@@ -53,7 +59,8 @@
     "translit": "(allos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 243:  ",
-    "str2": "Other, another (of more than two), different. A primary word; 'else, ' i.e. Different."
+    "str2": "Other, another (of more than two), different. A primary word; 'else, ' i.e. Different.",
+    "num": 243
   },
   {
     "word": "disciple",
@@ -61,7 +68,8 @@
     "translit": "(mathētēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   },
   {
     "word": "outran",
@@ -69,7 +77,8 @@
     "translit": "(proedramen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 4390:  ",
-    "str2": "To run before, outrun, run in advance. From pro and trecho; to run forward, i.e. Outstrip, precede."
+    "str2": "To run before, outrun, run in advance. From pro and trecho; to run forward, i.e. Outstrip, precede.",
+    "num": 4390
   },
   {
     "word": "Peter",
@@ -77,7 +86,8 @@
     "translit": "(Petrou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 4074:  ",
-    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle."
+    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle.",
+    "num": 4074
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "reached",
@@ -93,7 +104,8 @@
     "translit": "(ēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "tomb",
@@ -109,7 +122,8 @@
     "translit": "(mnēmeion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3419:  ",
-    "str2": "A tomb, sepulcher, monument. From mneme; a remembrance, i.e. Cenotaph."
+    "str2": "A tomb, sepulcher, monument. From mneme; a remembrance, i.e. Cenotaph.",
+    "num": 3419
   },
   {
     "word": "first.",
@@ -117,6 +131,7 @@
     "translit": "(prōtos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 4413:  ",
-    "str2": "First, before, principal, most important. Contracted superlative of pro; foremost."
+    "str2": "First, before, principal, most important. Contracted superlative of pro; foremost.",
+    "num": 4413
   }
 ]

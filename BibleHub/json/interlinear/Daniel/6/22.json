@@ -5,7 +5,8 @@
     "translit": "(’ĕ·lā·hî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 426:  ",
-    "str2": "God"
+    "str2": "God",
+    "num": 426
   },
   {
     "word": "sent",
@@ -13,7 +14,8 @@
     "translit": "(šə·laḥ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 7972:  ",
-    "str2": "To send away, for, out"
+    "str2": "To send away, for, out",
+    "num": 7972
   },
   {
     "word": "His angel",
@@ -21,7 +23,8 @@
     "translit": "(mal·’ă·ḵêh)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 4398:  ",
-    "str2": "An angel"
+    "str2": "An angel",
+    "num": 4398
   },
   {
     "word": "and shut",
@@ -29,7 +32,8 @@
     "translit": "(ū·să·ḡar)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 5463:  ",
-    "str2": "To shut up, to surrender"
+    "str2": "To shut up, to surrender",
+    "num": 5463
   },
   {
     "word": "the mouths",
@@ -37,7 +41,8 @@
     "translit": "(pum)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 6433:  ",
-    "str2": "The mouth"
+    "str2": "The mouth",
+    "num": 6433
   },
   {
     "word": "of the lions.",
@@ -45,7 +50,8 @@
     "translit": "(’ar·yā·wā·ṯā)",
     "parse": "Noun - masculine plural determinate",
     "str": "Strong's 744:  ",
-    "str2": "A lion"
+    "str2": "A lion",
+    "num": 744
   },
   {
     "word": "They have not",
@@ -53,7 +59,8 @@
     "translit": "(wə·lā)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3809:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3809
   },
   {
     "word": "hurt me,",
@@ -61,7 +68,8 @@
     "translit": "(ḥab·bə·lū·nî)",
     "parse": "Verb - Piel - Perfect - third person masculine plural | first person common singular",
     "str": "Strong's 2255:  ",
-    "str2": "To destroy, hurt"
+    "str2": "To destroy, hurt",
+    "num": 2255
   },
   {
     "word": "for",
@@ -69,7 +77,8 @@
     "translit": "(qo·ḇêl)",
     "parse": "Preposition",
     "str": "Strong's 6903:  ",
-    "str2": "In front of, before, because of, because that"
+    "str2": "In front of, before, because of, because that",
+    "num": 6903
   },
   {
     "word": "I was found",
@@ -77,7 +86,8 @@
     "translit": "(hiš·tə·ḵa·ḥaṯ)",
     "parse": "Verb - Hitpael - Perfect - third person feminine singular",
     "str": "Strong's 7912:  ",
-    "str2": "To discover"
+    "str2": "To discover",
+    "num": 7912
   },
   {
     "word": "innocent",
@@ -85,7 +95,8 @@
     "translit": "(zā·ḵū)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 2136:  ",
-    "str2": "Purity, innocence"
+    "str2": "Purity, innocence",
+    "num": 2136
   },
   {
     "word": "in His sight,",
@@ -93,7 +104,8 @@
     "translit": "(qā·ḏā·mō·w·hî)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's 6925:  ",
-    "str2": "Before"
+    "str2": "Before",
+    "num": 6925
   },
   {
     "word": "and",
@@ -101,7 +113,8 @@
     "translit": "(wə·’ap̄)",
     "parse": "Conjunctive waw | Conjunction",
     "str": "Strong's 638:  ",
-    "str2": "Meaning accession, yea, adversatively though"
+    "str2": "Meaning accession, yea, adversatively though",
+    "num": 638
   },
   {
     "word": "I have done",
@@ -109,7 +122,8 @@
     "translit": "(‘aḇ·ḏêṯ)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 5648:  ",
-    "str2": "To do, make, prepare, keep"
+    "str2": "To do, make, prepare, keep",
+    "num": 5648
   },
   {
     "word": "no",
@@ -117,7 +131,8 @@
     "translit": "(lā)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3809:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3809
   },
   {
     "word": "wrong",
@@ -125,7 +140,8 @@
     "translit": "(ḥă·ḇū·lāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 2248:  ",
-    "str2": "A hurtful act, crime"
+    "str2": "A hurtful act, crime",
+    "num": 2248
   },
   {
     "word": "against you,",
@@ -133,7 +149,8 @@
     "translit": "(qā·ḏā·māḵ)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's 6925:  ",
-    "str2": "Before"
+    "str2": "Before",
+    "num": 6925
   },
   {
     "word": "O king.”",
@@ -141,6 +158,7 @@
     "translit": "(mal·kā)",
     "parse": "Noun - masculine singular determinate",
     "str": "Strong's 4430:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4430
   }
 ]

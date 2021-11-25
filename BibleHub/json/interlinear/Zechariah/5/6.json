@@ -5,7 +5,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "is it?”",
@@ -13,7 +14,8 @@
     "translit": "(hî)",
     "parse": "Pronoun - third person feminine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "I asked.",
@@ -21,7 +23,8 @@
     "translit": "(wā·’ō·mar)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - first person common singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "And he replied,",
@@ -29,7 +32,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“It is",
@@ -37,7 +41,8 @@
     "translit": "(zōṯ)",
     "parse": "Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "a measuring basket",
@@ -45,7 +50,8 @@
     "translit": "(hā·’ê·p̄āh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 374:  ",
-    "str2": "Ephah -- an ephah (a measure of grain)"
+    "str2": "Ephah -- an ephah (a measure of grain)",
+    "num": 374
   },
   {
     "word": "that is approaching.”",
@@ -53,7 +59,8 @@
     "translit": "(hay·yō·w·ṣêṯ)",
     "parse": "Article | Verb - Qal - Participle - feminine singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "Then he continued,",
@@ -61,7 +68,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“This",
@@ -69,7 +77,8 @@
     "translit": "(zōṯ)",
     "parse": "Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "is their iniquity",
@@ -77,7 +86,8 @@
     "translit": "(‘ê·nām)",
     "parse": "Noun - common singular construct | third person masculine plural",
     "str": "Strong's 5869:  ",
-    "str2": "An eye, a fountain"
+    "str2": "An eye, a fountain",
+    "num": 5869
   },
   {
     "word": "in all",
@@ -85,7 +95,8 @@
     "translit": "(bə·ḵāl)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the land.”",
@@ -93,6 +104,7 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   }
 ]

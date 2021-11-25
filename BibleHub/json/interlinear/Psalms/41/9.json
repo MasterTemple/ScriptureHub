@@ -5,7 +5,8 @@
     "translit": "(gam-)",
     "parse": "Conjunction",
     "str": "Strong's 1571:  ",
-    "str2": "Assemblage, also, even, yea, though, both, and"
+    "str2": "Assemblage, also, even, yea, though, both, and",
+    "num": 1571
   },
   {
     "word": "my close friend,",
@@ -13,7 +14,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "whom",
@@ -21,7 +23,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "I trusted,",
@@ -29,7 +32,8 @@
     "translit": "(bā·ṭaḥ·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 982:  ",
-    "str2": "To trust, be confident, sure"
+    "str2": "To trust, be confident, sure",
+    "num": 982
   },
   {
     "word": "he who shared",
@@ -37,7 +41,8 @@
     "translit": "(’ō·w·ḵêl)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "my bread,",
@@ -45,7 +50,8 @@
     "translit": "(laḥ·mî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 3899:  ",
-    "str2": "Food, bread, grain"
+    "str2": "Food, bread, grain",
+    "num": 3899
   },
   {
     "word": "has lifted up",
@@ -53,7 +59,8 @@
     "translit": "(hiḡ·dîl)",
     "parse": "Verb - Hifil - Perfect - third person masculine singular",
     "str": "Strong's 1431:  ",
-    "str2": "To grow up, become great"
+    "str2": "To grow up, become great",
+    "num": 1431
   },
   {
     "word": "[his] heel",
@@ -61,7 +68,8 @@
     "translit": "(‘ā·qêḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6119:  ",
-    "str2": "Heel, footprint, hind part"
+    "str2": "Heel, footprint, hind part",
+    "num": 6119
   },
   {
     "word": "against me.",
@@ -69,6 +77,7 @@
     "translit": "(‘ā·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   }
 ]

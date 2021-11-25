@@ -5,7 +5,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "unstable you are,",
@@ -13,7 +14,8 @@
     "translit": "(tê·zə·lî)",
     "parse": "Verb - Qal - Imperfect - second person feminine singular",
     "str": "Strong's 235:  ",
-    "str2": "To go away, to disappear"
+    "str2": "To go away, to disappear",
+    "num": 235
   },
   {
     "word": "constantly",
@@ -21,7 +23,8 @@
     "translit": "(mə·’ōḏ)",
     "parse": "Adverb",
     "str": "Strong's 3966:  ",
-    "str2": "Vehemence, vehemently, wholly, speedily"
+    "str2": "Vehemence, vehemently, wholly, speedily",
+    "num": 3966
   },
   {
     "word": "changing",
@@ -29,7 +32,8 @@
     "translit": "(lə·šan·nō·wṯ)",
     "parse": "Preposition-l | Verb - Piel - Infinitive construct",
     "str": "Strong's 8138:  ",
-    "str2": "To fold, duplicate, to transmute"
+    "str2": "To fold, duplicate, to transmute",
+    "num": 8138
   },
   {
     "word": "your ways!",
@@ -37,7 +41,8 @@
     "translit": "(dar·kêḵ)",
     "parse": "Noun - common singular construct | second person feminine singular",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   },
   {
     "word": "You will be disappointed",
@@ -45,7 +50,8 @@
     "translit": "(tê·ḇō·wō·šî)",
     "parse": "Verb - Qal - Imperfect - second person feminine singular",
     "str": "Strong's 954:  ",
-    "str2": "To pale, to be ashamed, to be disappointed, delayed"
+    "str2": "To pale, to be ashamed, to be disappointed, delayed",
+    "num": 954
   },
   {
     "word": "by Egypt",
@@ -53,7 +59,8 @@
     "translit": "(mim·miṣ·ra·yim)",
     "parse": "Preposition-m | Noun - proper - feminine singular",
     "str": "Strong's 4714:  ",
-    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa"
+    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+    "num": 4714
   },
   {
     "word": "just as",
@@ -61,7 +68,8 @@
     "translit": "(ka·’ă·šer-)",
     "parse": "Preposition-k | Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "you [were]",
@@ -69,7 +77,8 @@
     "translit": "(bō·šət)",
     "parse": "Verb - Qal - Perfect - second person feminine singular",
     "str": "Strong's 954:  ",
-    "str2": "To pale, to be ashamed, to be disappointed, delayed"
+    "str2": "To pale, to be ashamed, to be disappointed, delayed",
+    "num": 954
   },
   {
     "word": "by Assyria.",
@@ -77,6 +86,7 @@
     "translit": "(mê·’aš·šūr)",
     "parse": "Preposition-m | Noun - proper - feminine singular",
     "str": "Strong's 804:  ",
-    "str2": "Ashshur"
+    "str2": "Ashshur",
+    "num": 804
   }
 ]

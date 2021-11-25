@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the vision",
@@ -13,7 +14,8 @@
     "translit": "(ḥā·zō·wn)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2377:  ",
-    "str2": "A sight, a dream, revelation, oracle"
+    "str2": "A sight, a dream, revelation, oracle",
+    "num": 2377
   },
   {
     "word": "awaits",
@@ -21,7 +23,8 @@
     "translit": "(‘ō·wḏ)",
     "parse": "Adverb",
     "str": "Strong's 5750:  ",
-    "str2": "Iteration, continuance, again, repeatedly, still, more"
+    "str2": "Iteration, continuance, again, repeatedly, still, more",
+    "num": 5750
   },
   {
     "word": "an appointed time;",
@@ -29,7 +32,8 @@
     "translit": "(lam·mō·w·‘êḏ)",
     "parse": "Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 4150:  ",
-    "str2": "Appointed time, place, or meeting"
+    "str2": "Appointed time, place, or meeting",
+    "num": 4150
   },
   {
     "word": "it testifies",
@@ -37,7 +41,8 @@
     "translit": "(wə·yā·p̄ê·aḥ)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive imperfect Jussive - third person masculine singular",
     "str": "Strong's 6315:  ",
-    "str2": "To puff, blow with the breath, air, to fan, to utter, to kindle, to scoff"
+    "str2": "To puff, blow with the breath, air, to fan, to utter, to kindle, to scoff",
+    "num": 6315
   },
   {
     "word": "of the end,",
@@ -45,7 +50,8 @@
     "translit": "(laq·qêṣ)",
     "parse": "Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 7093:  ",
-    "str2": "An extremity, after"
+    "str2": "An extremity, after",
+    "num": 7093
   },
   {
     "word": "and will not",
@@ -53,7 +59,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "lie.",
@@ -61,7 +68,8 @@
     "translit": "(yə·ḵaz·zêḇ)",
     "parse": "Verb - Piel - Imperfect - third person masculine singular",
     "str": "Strong's 3576:  ",
-    "str2": "To lie, be a liar"
+    "str2": "To lie, be a liar",
+    "num": 3576
   },
   {
     "word": "Though",
@@ -69,7 +77,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "it lingers,",
@@ -77,7 +86,8 @@
     "translit": "(yiṯ·mah·māh)",
     "parse": "Verb - Hitpael - Imperfect - third person masculine singular",
     "str": "Strong's 4102:  ",
-    "str2": "To question, hesitate, to be reluctant"
+    "str2": "To question, hesitate, to be reluctant",
+    "num": 4102
   },
   {
     "word": "wait",
@@ -85,7 +95,8 @@
     "translit": "(ḥak·kêh-)",
     "parse": "Verb - Piel - Imperative - masculine singular",
     "str": "Strong's 2442:  ",
-    "str2": "To adhere to, to await"
+    "str2": "To adhere to, to await",
+    "num": 2442
   },
   {
     "word": "for it,",
@@ -93,7 +104,8 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "since",
@@ -101,7 +113,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "it will surely come",
@@ -109,7 +122,8 @@
     "translit": "(ḇō)",
     "parse": "Verb - Qal - Infinitive absolute",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "and not",
@@ -117,7 +131,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "delay.",
@@ -125,6 +140,7 @@
     "translit": "(yə·’a·ḥêr)",
     "parse": "Verb - Piel - Imperfect - third person masculine singular",
     "str": "Strong's 309:  ",
-    "str2": "To loiter, to procrastinate"
+    "str2": "To loiter, to procrastinate",
+    "num": 309
   }
 ]

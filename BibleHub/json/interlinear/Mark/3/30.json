@@ -5,7 +5,8 @@
     "translit": "(Hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "they were claiming,",
@@ -13,7 +14,8 @@
     "translit": "(elegon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“He has",
@@ -21,7 +23,8 @@
     "translit": "(echei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "an unclean",
@@ -29,7 +32,8 @@
     "translit": "(akatharton)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 169:  ",
-    "str2": "Unclean, impure. Impure (lewd) or specially, (demonic)."
+    "str2": "Unclean, impure. Impure (lewd) or specially, (demonic).",
+    "num": 169
   },
   {
     "word": "spirit.”",
@@ -37,6 +41,7 @@
     "translit": "(Pneuma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   }
 ]

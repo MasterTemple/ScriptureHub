@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I have rejected",
@@ -13,7 +14,8 @@
     "translit": "(’em·’as)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 3988:  ",
-    "str2": "To spurn, to disappear"
+    "str2": "To spurn, to disappear",
+    "num": 3988
   },
   {
     "word": "the cause",
@@ -21,7 +23,8 @@
     "translit": "(miš·paṭ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4941:  ",
-    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style"
+    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style",
+    "num": 4941
   },
   {
     "word": "of my manservant",
@@ -29,7 +32,8 @@
     "translit": "(‘aḇ·dî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 5650:  ",
-    "str2": "Slave, servant"
+    "str2": "Slave, servant",
+    "num": 5650
   },
   {
     "word": "or maidservant",
@@ -37,7 +41,8 @@
     "translit": "(wa·’ă·mā·ṯî)",
     "parse": "Conjunctive waw | Noun - feminine singular construct | first person common singular",
     "str": "Strong's 519:  ",
-    "str2": "A maidservant, female slave"
+    "str2": "A maidservant, female slave",
+    "num": 519
   },
   {
     "word": "when they made a complaint",
@@ -45,7 +50,8 @@
     "translit": "(bə·ri·ḇām)",
     "parse": "Preposition-b | Noun - masculine singular construct | third person masculine plural",
     "str": "Strong's 7378:  ",
-    "str2": "To toss, grapple, to wrangle, controversy, to defend"
+    "str2": "To toss, grapple, to wrangle, controversy, to defend",
+    "num": 7378
   },
   {
     "word": "against me,",
@@ -53,6 +59,7 @@
     "translit": "(‘im·mā·ḏî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 5978:  ",
-    "str2": "Against, by, from, me, mine, of, that I take, unto, "
+    "str2": "Against, by, from, me, mine, of, that I take, unto, ",
+    "num": 5978
   }
 ]

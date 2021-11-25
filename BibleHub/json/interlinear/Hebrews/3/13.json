@@ -5,7 +5,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "exhort",
@@ -13,7 +14,8 @@
     "translit": "(parakaleite)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 3870:  ",
-    "str2": "From para and kaleo; to call near, i.e. Invite, invoke."
+    "str2": "From para and kaleo; to call near, i.e. Invite, invoke.",
+    "num": 3870
   },
   {
     "word": "one another",
@@ -21,7 +23,8 @@
     "translit": "(heautous)",
     "parse": "Reflexive Pronoun - Accusative Masculine 3rd Person Plural",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   },
   {
     "word": "daily,",
@@ -29,7 +32,8 @@
     "translit": "(hēmeran)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "as long as",
@@ -37,7 +41,8 @@
     "translit": "(achris)",
     "parse": "Preposition",
     "str": "Strong's 891:  ",
-    "str2": "As far as, up to, until, during. Or achris akh'-rece; akin to akron; until or up to."
+    "str2": "As far as, up to, until, during. Or achris akh'-rece; akin to akron; until or up to.",
+    "num": 891
   },
   {
     "word": "it is called",
@@ -45,7 +50,8 @@
     "translit": "(kaleitai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 2564:  ",
-    "str2": "(a) I call, summon, invite, (b) I call, name. Akin to the base of keleuo; to 'call'."
+    "str2": "(a) I call, summon, invite, (b) I call, name. Akin to the base of keleuo; to 'call'.",
+    "num": 2564
   },
   {
     "word": "today,",
@@ -53,7 +59,8 @@
     "translit": "(Sēmeron)",
     "parse": "Adverb",
     "str": "Strong's 4594:  ",
-    "str2": "Today, now. Neuter of a presumed compound of the article ho and hemera; on the day; generally, now."
+    "str2": "Today, now. Neuter of a presumed compound of the article ho and hemera; on the day; generally, now.",
+    "num": 4594
   },
   {
     "word": "so that",
@@ -61,7 +68,8 @@
     "translit": "(hina)",
     "parse": "Conjunction",
     "str": "Strong's 2443:  ",
-    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that."
+    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that.",
+    "num": 2443
   },
   {
     "word": "none",
@@ -69,7 +77,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "of",
@@ -77,7 +86,8 @@
     "translit": "(ex)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "you",
@@ -85,7 +95,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "may be hardened",
@@ -93,7 +104,8 @@
     "translit": "(sklērynthē)",
     "parse": "Verb - Aorist Subjunctive Passive - 3rd Person Singular",
     "str": "Strong's 4645:  ",
-    "str2": "To harden, make hard, make stubborn. From skleros; to indurate, i.e. render stubborn."
+    "str2": "To harden, make hard, make stubborn. From skleros; to indurate, i.e. render stubborn.",
+    "num": 4645
   },
   {
     "word": "by sin’s",
@@ -101,7 +113,8 @@
     "translit": "(hamartias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 266:  ",
-    "str2": "From hamartano; a sin."
+    "str2": "From hamartano; a sin.",
+    "num": 266
   },
   {
     "word": "deceitfulness.",
@@ -109,6 +122,7 @@
     "translit": "(apatē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 539:  ",
-    "str2": "Deceit, deception, deceitfulness, delusion. From apatao; delusion."
+    "str2": "Deceit, deception, deceitfulness, delusion. From apatao; delusion.",
+    "num": 539
   }
 ]

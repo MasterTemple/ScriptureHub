@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "you died,",
@@ -13,7 +14,8 @@
     "translit": "(apethanete)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Plural",
     "str": "Strong's 599:  ",
-    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off."
+    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off.",
+    "num": 599
   },
   {
     "word": "and",
@@ -21,7 +23,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "your",
@@ -29,7 +32,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "life",
@@ -37,7 +41,8 @@
     "translit": "(zōē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2222:  ",
-    "str2": "Life, both of physical (present) and of spiritual (particularly future) existence. From zao; life."
+    "str2": "Life, both of physical (present) and of spiritual (particularly future) existence. From zao; life.",
+    "num": 2222
   },
   {
     "word": "is now hidden",
@@ -45,7 +50,8 @@
     "translit": "(kekryptai)",
     "parse": "Verb - Perfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 2928:  ",
-    "str2": "To hide, conceal, lay up. A primary verb; to conceal."
+    "str2": "To hide, conceal, lay up. A primary verb; to conceal.",
+    "num": 2928
   },
   {
     "word": "with",
@@ -53,7 +59,8 @@
     "translit": "(syn)",
     "parse": "Preposition",
     "str": "Strong's 4862:  ",
-    "str2": "With. A primary preposition denoting union; with or together."
+    "str2": "With. A primary preposition denoting union; with or together.",
+    "num": 4862
   },
   {
     "word": "Christ",
@@ -61,7 +68,8 @@
     "translit": "(Christō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "in",
@@ -69,7 +77,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "God.",
@@ -77,6 +86,7 @@
     "translit": "(Theō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

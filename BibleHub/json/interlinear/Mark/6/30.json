@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "apostles",
@@ -21,7 +23,8 @@
     "translit": "(apostoloi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 652:  ",
-    "str2": "From apostello; a delegate; specially, an ambassador of the Gospel; officially a commissioner of Christ."
+    "str2": "From apostello; a delegate; specially, an ambassador of the Gospel; officially a commissioner of Christ.",
+    "num": 652
   },
   {
     "word": "gathered",
@@ -29,7 +32,8 @@
     "translit": "(synagontai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 4863:  ",
-    "str2": "From sun and ago; to lead together, i.e. Collect or convene; specially, to entertain."
+    "str2": "From sun and ago; to lead together, i.e. Collect or convene; specially, to entertain.",
+    "num": 4863
   },
   {
     "word": "around",
@@ -37,7 +41,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "Jesus",
@@ -45,7 +50,8 @@
     "translit": "(Iēsoun)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "brought Him news",
@@ -61,7 +68,8 @@
     "translit": "(apēngeilan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 518:  ",
-    "str2": "To report (from one place to another), bring a report, announce, declare. From apo and the base of aggelos; to announce."
+    "str2": "To report (from one place to another), bring a report, announce, declare. From apo and the base of aggelos; to announce.",
+    "num": 518
   },
   {
     "word": "of all",
@@ -69,7 +77,8 @@
     "translit": "(panta)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "they had done",
@@ -77,7 +86,8 @@
     "translit": "(epoiēsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "taught.",
@@ -93,6 +104,7 @@
     "translit": "(edidaxan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1321:  ",
-    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach."
+    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach.",
+    "num": 1321
   }
 ]

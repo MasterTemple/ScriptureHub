@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they seized",
@@ -13,7 +14,8 @@
     "translit": "(labontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "[the servant],",
@@ -21,7 +23,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "beat [him],",
@@ -29,7 +32,8 @@
     "translit": "(edeiran)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1194:  ",
-    "str2": "To flay, flog, scourge, beat. A primary verb; properly, to flay, i.e. to scourge, or to thrash."
+    "str2": "To flay, flog, scourge, beat. A primary verb; properly, to flay, i.e. to scourge, or to thrash.",
+    "num": 1194
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "sent [him] away",
@@ -45,7 +50,8 @@
     "translit": "(apesteilan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 649:  ",
-    "str2": "From apo and stello; set apart, i.e. to send out literally or figuratively."
+    "str2": "From apo and stello; set apart, i.e. to send out literally or figuratively.",
+    "num": 649
   },
   {
     "word": "empty-handed.",
@@ -53,6 +59,7 @@
     "translit": "(kenon)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 2756:  ",
-    "str2": "Apparently a primary word; empty."
+    "str2": "Apparently a primary word; empty.",
+    "num": 2756
   }
 ]

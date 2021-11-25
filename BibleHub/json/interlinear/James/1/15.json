@@ -5,7 +5,8 @@
     "translit": "(eita)",
     "parse": "Adverb",
     "str": "Strong's 1534:  ",
-    "str2": "A particle of succession, then, moreover."
+    "str2": "A particle of succession, then, moreover.",
+    "num": 1534
   },
   {
     "word": "[after] desire",
@@ -13,7 +14,8 @@
     "translit": "(epithymia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1939:  ",
-    "str2": "Desire, eagerness for, inordinate desire, lust. From epithumeo; a longing."
+    "str2": "Desire, eagerness for, inordinate desire, lust. From epithumeo; a longing.",
+    "num": 1939
   },
   {
     "word": "has conceived,",
@@ -21,7 +23,8 @@
     "translit": "(syllabousa)",
     "parse": "Verb - Aorist Participle Active - Nominative Feminine Singular",
     "str": "Strong's 4815:  ",
-    "str2": "From sun and lambano; to clasp, i.e. Seize; specially, to conceive; by implication, to aid."
+    "str2": "From sun and lambano; to clasp, i.e. Seize; specially, to conceive; by implication, to aid.",
+    "num": 4815
   },
   {
     "word": "it gives birth to",
@@ -29,7 +32,8 @@
     "translit": "(tiktei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 5088:  ",
-    "str2": "A strengthened form of a primary teko tek'-o; to produce, literally or figuratively."
+    "str2": "A strengthened form of a primary teko tek'-o; to produce, literally or figuratively.",
+    "num": 5088
   },
   {
     "word": "sin;",
@@ -37,7 +41,8 @@
     "translit": "(hamartian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 266:  ",
-    "str2": "From hamartano; a sin."
+    "str2": "From hamartano; a sin.",
+    "num": 266
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "sin,",
@@ -53,7 +59,8 @@
     "translit": "(hamartia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 266:  ",
-    "str2": "From hamartano; a sin."
+    "str2": "From hamartano; a sin.",
+    "num": 266
   },
   {
     "word": "when it is fully grown,",
@@ -61,7 +68,8 @@
     "translit": "(apotelestheisa)",
     "parse": "Verb - Aorist Participle Passive - Nominative Feminine Singular",
     "str": "Strong's 658:  ",
-    "str2": "To complete, accomplish, form fully, perfect, bring to maturity. From apo and teleo; to complete entirely, i.e. Consummate."
+    "str2": "To complete, accomplish, form fully, perfect, bring to maturity. From apo and teleo; to complete entirely, i.e. Consummate.",
+    "num": 658
   },
   {
     "word": "gives birth to",
@@ -69,7 +77,8 @@
     "translit": "(apokyei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 616:  ",
-    "str2": "From apo and the base of kuma; to breed forth, i.e. to generate."
+    "str2": "From apo and the base of kuma; to breed forth, i.e. to generate.",
+    "num": 616
   },
   {
     "word": "death.",
@@ -77,6 +86,7 @@
     "translit": "(thanaton)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2288:  ",
-    "str2": "Death, physical or spiritual. From thnesko; death."
+    "str2": "Death, physical or spiritual. From thnesko; death.",
+    "num": 2288
   }
 ]

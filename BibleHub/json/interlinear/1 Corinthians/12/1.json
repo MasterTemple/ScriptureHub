@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "about",
@@ -13,7 +14,8 @@
     "translit": "(Peri)",
     "parse": "Preposition",
     "str": "Strong's 4012:  ",
-    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time.",
+    "num": 4012
   },
   {
     "word": "spiritual [gifts],",
@@ -21,7 +23,8 @@
     "translit": "(pneumatikōn)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 4152:  ",
-    "str2": "Spiritual. From pneuma; non-carnal, i.e. ethereal, or a spirit, or supernatural, regenerate, religious."
+    "str2": "Spiritual. From pneuma; non-carnal, i.e. ethereal, or a spirit, or supernatural, regenerate, religious.",
+    "num": 4152
   },
   {
     "word": "brothers,",
@@ -29,7 +32,8 @@
     "translit": "(adelphoi)",
     "parse": "Noun - Vocative Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "I do not want",
@@ -37,7 +41,8 @@
     "translit": "(thelō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "you",
@@ -45,7 +50,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "to be uninformed.",
@@ -53,6 +59,7 @@
     "translit": "(agnoein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 50:  ",
-    "str2": "To do not know, be ignorant of, sometimes with the idea of willful ignorance. "
+    "str2": "To do not know, be ignorant of, sometimes with the idea of willful ignorance. ",
+    "num": 50
   }
 ]

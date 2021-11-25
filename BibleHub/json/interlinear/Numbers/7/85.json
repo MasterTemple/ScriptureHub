@@ -5,7 +5,8 @@
     "translit": "(hā·’a·ḥaṯ)",
     "parse": "Article | Number - feminine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "silver",
@@ -13,7 +14,8 @@
     "translit": "(ke·sep̄)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3701:  ",
-    "str2": "Silver, money"
+    "str2": "Silver, money",
+    "num": 3701
   },
   {
     "word": "platter",
@@ -21,7 +23,8 @@
     "translit": "(haq·qə·‘ā·rāh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 7086:  ",
-    "str2": "A dish, platter"
+    "str2": "A dish, platter",
+    "num": 7086
   },
   {
     "word": "weighed a hundred and thirty shekels,",
@@ -29,7 +32,8 @@
     "translit": "(šə·lō·šîm)",
     "parse": "Number - common plural",
     "str": "Strong's 7970:  ",
-    "str2": "Thirty, thirtieth"
+    "str2": "Thirty, thirtieth",
+    "num": 7970
   },
   {
     "word": "and each",
@@ -37,7 +41,8 @@
     "translit": "(hā·’e·ḥāḏ)",
     "parse": "Article | Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "basin",
@@ -45,7 +50,8 @@
     "translit": "(ham·miz·rāq)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4219:  ",
-    "str2": "Bowl, basin"
+    "str2": "Bowl, basin",
+    "num": 4219
   },
   {
     "word": "seventy shekels.",
@@ -53,7 +59,8 @@
     "translit": "(wə·šiḇ·‘îm)",
     "parse": "Conjunctive waw | Number - common plural",
     "str": "Strong's 7657:  ",
-    "str2": "Seventy (a cardinal number)"
+    "str2": "Seventy (a cardinal number)",
+    "num": 7657
   },
   {
     "word": "The total weight",
@@ -61,7 +68,8 @@
     "translit": "(kōl)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "of the silver",
@@ -69,7 +77,8 @@
     "translit": "(ke·sep̄)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3701:  ",
-    "str2": "Silver, money"
+    "str2": "Silver, money",
+    "num": 3701
   },
   {
     "word": "articles",
@@ -77,7 +86,8 @@
     "translit": "(hak·kê·lîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 3627:  ",
-    "str2": "Something prepared, any apparatus"
+    "str2": "Something prepared, any apparatus",
+    "num": 3627
   },
   {
     "word": "[was] two thousand",
@@ -85,7 +95,8 @@
     "translit": "(’al·pa·yim)",
     "parse": "Number - md",
     "str": "Strong's 505:  ",
-    "str2": "A thousand"
+    "str2": "A thousand",
+    "num": 505
   },
   {
     "word": "four",
@@ -93,7 +104,8 @@
     "translit": "(wə·’ar·ba‘-)",
     "parse": "Conjunctive waw | Number - feminine singular",
     "str": "Strong's 702:  ",
-    "str2": "Four"
+    "str2": "Four",
+    "num": 702
   },
   {
     "word": "hundred [shekels],",
@@ -101,7 +113,8 @@
     "translit": "(mê·’ō·wṯ)",
     "parse": "Number - feminine plural",
     "str": "Strong's 3967:  ",
-    "str2": "A hundred"
+    "str2": "A hundred",
+    "num": 3967
   },
   {
     "word": "according to the sanctuary",
@@ -109,7 +122,8 @@
     "translit": "(haq·qō·ḏeš)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 6944:  ",
-    "str2": "A sacred place, thing, sanctity"
+    "str2": "A sacred place, thing, sanctity",
+    "num": 6944
   },
   {
     "word": "shekel.",
@@ -117,6 +131,7 @@
     "translit": "(bə·še·qel)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 8255:  ",
-    "str2": "A weight, a commercial standard"
+    "str2": "A weight, a commercial standard",
+    "num": 8255
   }
 ]

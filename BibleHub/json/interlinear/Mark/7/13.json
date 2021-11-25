@@ -5,7 +5,8 @@
     "translit": "(akyrountes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 208:  ",
-    "str2": "To annul, make of no effect, cancel. To invalidate."
+    "str2": "To annul, make of no effect, cancel. To invalidate.",
+    "num": 208
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "word",
@@ -21,7 +23,8 @@
     "translit": "(logon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "of God",
@@ -29,7 +32,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "by",
@@ -37,7 +41,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "[the]",
@@ -45,7 +50,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "tradition",
@@ -53,7 +59,8 @@
     "translit": "(paradosei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3862:  ",
-    "str2": "An instruction, tradition. From paradidomi; transmission, i.e. a precept; specially, the Jewish traditionary law."
+    "str2": "An instruction, tradition. From paradidomi; transmission, i.e. a precept; specially, the Jewish traditionary law.",
+    "num": 3862
   },
   {
     "word": "you have handed down.",
@@ -61,7 +68,8 @@
     "translit": "(paredōkate)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Plural",
     "str": "Strong's 3860:  ",
-    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit."
+    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit.",
+    "num": 3860
   },
   {
     "word": "And",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "you do",
@@ -77,7 +86,8 @@
     "translit": "(poieite)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "so",
@@ -85,7 +95,8 @@
     "translit": "(toiauta)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 5108:  ",
-    "str2": "(including the other inflections); from toi and houtos; truly this, i.e. Of this sort (to denote character or individuality)."
+    "str2": "(including the other inflections); from toi and houtos; truly this, i.e. Of this sort (to denote character or individuality).",
+    "num": 5108
   },
   {
     "word": "in many",
@@ -93,7 +104,8 @@
     "translit": "(polla)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "such [matters].”",
@@ -101,6 +113,7 @@
     "translit": "(paromoia)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 3946:  ",
-    "str2": "Like, similar. From para and homoios; alike nearly, i.e. Similar."
+    "str2": "Like, similar. From para and homoios; alike nearly, i.e. Similar.",
+    "num": 3946
   }
 ]

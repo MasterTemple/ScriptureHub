@@ -5,7 +5,8 @@
     "translit": "(gam)",
     "parse": "Conjunction",
     "str": "Strong's 1571:  ",
-    "str2": "Assemblage, also, even, yea, though, both, and"
+    "str2": "Assemblage, also, even, yea, though, both, and",
+    "num": 1571
   },
   {
     "word": "the power",
@@ -13,7 +14,8 @@
     "translit": "(yaḏ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "of God",
@@ -21,7 +23,8 @@
     "translit": "(hā·’ĕ·lō·hîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "was",
@@ -29,7 +32,8 @@
     "translit": "(hā·yə·ṯāh)",
     "parse": "Verb - Qal - Perfect - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "on the people",
@@ -37,7 +41,8 @@
     "translit": "(lā·hem)",
     "parse": "Preposition | third person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "in Judah",
@@ -45,7 +50,8 @@
     "translit": "(bî·hū·ḏāh)",
     "parse": "Preposition-b | Noun - proper - masculine singular",
     "str": "Strong's 3063:  ",
-    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites"
+    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites",
+    "num": 3063
   },
   {
     "word": "to give them",
@@ -53,7 +59,8 @@
     "translit": "(lā·ṯêṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "one",
@@ -61,7 +68,8 @@
     "translit": "(’e·ḥāḏ)",
     "parse": "Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "heart",
@@ -69,7 +77,8 @@
     "translit": "(lêḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3820:  ",
-    "str2": "The heart, the feelings, the will, the intellect, centre"
+    "str2": "The heart, the feelings, the will, the intellect, centre",
+    "num": 3820
   },
   {
     "word": "to obey",
@@ -77,7 +86,8 @@
     "translit": "(la·‘ă·śō·wṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "the command",
@@ -85,7 +95,8 @@
     "translit": "(miṣ·waṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 4687:  ",
-    "str2": "Commandment"
+    "str2": "Commandment",
+    "num": 4687
   },
   {
     "word": "of the king",
@@ -93,7 +104,8 @@
     "translit": "(ham·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "and his officials",
@@ -101,7 +113,8 @@
     "translit": "(wə·haś·śā·rîm)",
     "parse": "Conjunctive waw, Article | Noun - masculine plural",
     "str": "Strong's 8269:  ",
-    "str2": "Chieftain, chief, ruler, official, captain, prince"
+    "str2": "Chieftain, chief, ruler, official, captain, prince",
+    "num": 8269
   },
   {
     "word": "according to the word",
@@ -109,7 +122,8 @@
     "translit": "(biḏ·ḇar)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "of the LORD.",
@@ -117,6 +131,7 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   }
 ]

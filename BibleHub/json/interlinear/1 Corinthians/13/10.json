@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "when",
@@ -13,7 +14,8 @@
     "translit": "(hotan)",
     "parse": "Conjunction",
     "str": "Strong's 3752:  ",
-    "str2": "When, whenever. From hote and an; whenever; also causatively inasmuch as."
+    "str2": "When, whenever. From hote and an; whenever; also causatively inasmuch as.",
+    "num": 3752
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "perfect",
@@ -29,7 +32,8 @@
     "translit": "(teleion)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 5046:  ",
-    "str2": "From telos; complete; neuter completeness."
+    "str2": "From telos; complete; neuter completeness.",
+    "num": 5046
   },
   {
     "word": "comes,",
@@ -37,7 +41,8 @@
     "translit": "(elthē)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "partial",
@@ -53,7 +59,8 @@
     "translit": "(merous)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 3313:  ",
-    "str2": "A part, portion, share. From an obsolete but more primary form of meiromai; a division or share."
+    "str2": "A part, portion, share. From an obsolete but more primary form of meiromai; a division or share.",
+    "num": 3313
   },
   {
     "word": "passes away.",
@@ -61,6 +68,7 @@
     "translit": "(katargēthēsetai)",
     "parse": "Verb - Future Indicative Passive - 3rd Person Singular",
     "str": "Strong's 2673:  ",
-    "str2": "From kata and argeo; to be entirely idle, literally or figuratively."
+    "str2": "From kata and argeo; to be entirely idle, literally or figuratively.",
+    "num": 2673
   }
 ]

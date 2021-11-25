@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you",
@@ -21,7 +23,8 @@
     "translit": "(’at·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "refuse",
@@ -29,7 +32,8 @@
     "translit": "(mā·’ên)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 3986:  ",
-    "str2": "Unwilling"
+    "str2": "Unwilling",
+    "num": 3986
   },
   {
     "word": "to let My people",
@@ -37,7 +41,8 @@
     "translit": "(‘am·mî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "go,",
@@ -45,7 +50,8 @@
     "translit": "(lə·šal·lê·aḥ)",
     "parse": "Preposition-l | Verb - Piel - Infinitive construct",
     "str": "Strong's 7971:  ",
-    "str2": "To send away, for, out"
+    "str2": "To send away, for, out",
+    "num": 7971
   },
   {
     "word": "I will bring",
@@ -53,7 +59,8 @@
     "translit": "(mê·ḇî)",
     "parse": "Verb - Hifil - Participle - masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "locusts",
@@ -61,7 +68,8 @@
     "translit": "(’ar·beh)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 697:  ",
-    "str2": "(a kind of) locust"
+    "str2": "(a kind of) locust",
+    "num": 697
   },
   {
     "word": "into your territory",
@@ -69,7 +77,8 @@
     "translit": "(biḡ·ḇu·le·ḵā)",
     "parse": "Preposition-b | Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 1366:  ",
-    "str2": "A cord, a boundary, the territory inclosed"
+    "str2": "A cord, a boundary, the territory inclosed",
+    "num": 1366
   },
   {
     "word": "tomorrow.",
@@ -77,6 +86,7 @@
     "translit": "(mā·ḥār)",
     "parse": "Adverb",
     "str": "Strong's 4279:  ",
-    "str2": "Deferred, the morrow, tomorrow, hereafter"
+    "str2": "Deferred, the morrow, tomorrow, hereafter",
+    "num": 4279
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "the land",
@@ -13,7 +14,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "quake",
@@ -21,7 +23,8 @@
     "translit": "(ṯir·gaz)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 7264:  ",
-    "str2": "To be agitated, quiver, quake, be excited, perturbed"
+    "str2": "To be agitated, quiver, quake, be excited, perturbed",
+    "num": 7264
   },
   {
     "word": "for",
@@ -29,7 +32,8 @@
     "translit": "(ha·‘al)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "this",
@@ -37,7 +41,8 @@
     "translit": "(zōṯ)",
     "parse": "Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "and all",
@@ -45,7 +50,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "its dwellers",
@@ -53,7 +59,8 @@
     "translit": "(yō·wō·šêḇ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "mourn?",
@@ -61,7 +68,8 @@
     "translit": "(wə·’ā·ḇal)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 56:  ",
-    "str2": "To bewail"
+    "str2": "To bewail",
+    "num": 56
   },
   {
     "word": "All of it",
@@ -69,7 +77,8 @@
     "translit": "(kul·lāh)",
     "parse": "Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "will swell",
@@ -77,7 +86,8 @@
     "translit": "(wə·‘ā·lə·ṯāh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person feminine singular",
     "str": "Strong's 5927:  ",
-    "str2": "To ascend, in, actively"
+    "str2": "To ascend, in, actively",
+    "num": 5927
   },
   {
     "word": "like the Nile;",
@@ -85,7 +95,8 @@
     "translit": "(ḵā·’ōr)",
     "parse": "Preposition-k, Article | Noun - proper - feminine singular",
     "str": "Strong's 2975:  ",
-    "str2": "Nile -- a channel, a fosse, canal, shaft, the Nile, the Tigris"
+    "str2": "Nile -- a channel, a fosse, canal, shaft, the Nile, the Tigris",
+    "num": 2975
   },
   {
     "word": "it will surge",
@@ -93,7 +104,8 @@
     "translit": "(wə·niḡ·rə·šāh)",
     "parse": "Conjunctive waw | Verb - Nifal - Conjunctive perfect - third person feminine singular",
     "str": "Strong's 1644:  ",
-    "str2": "To drive out from a, possession, to expatriate, divorce"
+    "str2": "To drive out from a, possession, to expatriate, divorce",
+    "num": 1644
   },
   {
     "word": "and then subside",
@@ -101,7 +113,8 @@
     "translit": "(wə·niš·qə·‘āh)",
     "parse": "Conjunctive waw | Verb - Nifal - Conjunctive perfect - third person feminine singular",
     "str": "Strong's 8257:  ",
-    "str2": "To subside, to be overflowed, cease, to abate, subdue"
+    "str2": "To subside, to be overflowed, cease, to abate, subdue",
+    "num": 8257
   },
   {
     "word": "like the Nile",
@@ -109,7 +122,8 @@
     "translit": "(kî·’ō·wr)",
     "parse": "Preposition-k | Noun - proper - feminine singular",
     "str": "Strong's 2975:  ",
-    "str2": "Nile -- a channel, a fosse, canal, shaft, the Nile, the Tigris"
+    "str2": "Nile -- a channel, a fosse, canal, shaft, the Nile, the Tigris",
+    "num": 2975
   },
   {
     "word": "in Egypt.”",
@@ -117,6 +131,7 @@
     "translit": "(miṣ·rā·yim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 4714:  ",
-    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa"
+    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+    "num": 4714
   }
 ]

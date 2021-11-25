@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "their",
@@ -21,7 +23,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "rejection",
@@ -29,7 +32,8 @@
     "translit": "(apobolē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 580:  ",
-    "str2": "A casting away, rejection, a loss. From apoballo; rejection; figuratively, loss."
+    "str2": "A casting away, rejection, a loss. From apoballo; rejection; figuratively, loss.",
+    "num": 580
   },
   {
     "word": "[is the] reconciliation",
@@ -37,7 +41,8 @@
     "translit": "(katallagē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2643:  ",
-    "str2": "Reconciliation, restoration to favor. From katallasso; exchange, i.e. Restoration to favor."
+    "str2": "Reconciliation, restoration to favor. From katallasso; exchange, i.e. Restoration to favor.",
+    "num": 2643
   },
   {
     "word": "of [the] world,",
@@ -45,7 +50,8 @@
     "translit": "(kosmou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2889:  ",
-    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally)."
+    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally).",
+    "num": 2889
   },
   {
     "word": "what",
@@ -53,7 +59,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Feminine Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "[will their]",
@@ -61,7 +68,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "acceptance [be]",
@@ -69,7 +77,8 @@
     "translit": "(proslēmpsis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4356:  ",
-    "str2": "A receiving, a taking to one's self, acceptance. From proslambano; admission."
+    "str2": "A receiving, a taking to one's self, acceptance. From proslambano; admission.",
+    "num": 4356
   },
   {
     "word": "but",
@@ -77,7 +86,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "life",
@@ -85,7 +95,8 @@
     "translit": "(zōē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2222:  ",
-    "str2": "Life, both of physical (present) and of spiritual (particularly future) existence. From zao; life."
+    "str2": "Life, both of physical (present) and of spiritual (particularly future) existence. From zao; life.",
+    "num": 2222
   },
   {
     "word": "from",
@@ -93,7 +104,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "[the] dead?",
@@ -101,6 +113,7 @@
     "translit": "(nekrōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 3498:  ",
-    "str2": "(a) adj: dead, lifeless, subject to death, mortal, (b) noun: a dead body, a corpse. From an apparently primary nekus; dead."
+    "str2": "(a) adj: dead, lifeless, subject to death, mortal, (b) noun: a dead body, a corpse. From an apparently primary nekus; dead.",
+    "num": 3498
   }
 ]

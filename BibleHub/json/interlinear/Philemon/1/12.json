@@ -5,7 +5,8 @@
     "translit": "(anepempsa)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 375:  ",
-    "str2": "To send up (to a higher tribunal), send back. From ana and pempo; to send up or back."
+    "str2": "To send up (to a higher tribunal), send back. From ana and pempo; to send up or back.",
+    "num": 375
   },
   {
     "word": "to you",
@@ -13,7 +14,8 @@
     "translit": "(soi)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "him",
@@ -21,7 +23,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "who",
@@ -29,7 +32,8 @@
     "translit": "(tout’)",
     "parse": "Demonstrative Pronoun - Nominative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "is",
@@ -37,7 +41,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "my",
@@ -45,7 +50,8 @@
     "translit": "(ema)",
     "parse": "Personal / Possessive Pronoun - Nominative Neuter 1st Person Plural",
     "str": "Strong's 1699:  ",
-    "str2": "My, mine. From the oblique cases of ego; my."
+    "str2": "My, mine. From the oblique cases of ego; my.",
+    "num": 1699
   },
   {
     "word": "very heart.",
@@ -53,6 +59,7 @@
     "translit": "(splanchna)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 4698:  ",
-    "str2": "Probably strengthened from splen; an intestine; figuratively, pity or sympathy."
+    "str2": "Probably strengthened from splen; an intestine; figuratively, pity or sympathy.",
+    "num": 4698
   }
 ]

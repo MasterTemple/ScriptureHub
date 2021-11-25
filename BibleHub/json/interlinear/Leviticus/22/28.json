@@ -5,7 +5,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "slaughter",
@@ -13,7 +14,8 @@
     "translit": "(ṯiš·ḥă·ṭū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 7819:  ",
-    "str2": "To slaughter, beat"
+    "str2": "To slaughter, beat",
+    "num": 7819
   },
   {
     "word": "an ox",
@@ -21,7 +23,8 @@
     "translit": "(wə·šō·wr)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 7794:  ",
-    "str2": "A head of cattle (bullock, ox, etcetera)"
+    "str2": "A head of cattle (bullock, ox, etcetera)",
+    "num": 7794
   },
   {
     "word": "or",
@@ -29,7 +32,8 @@
     "translit": "(’ōw-)",
     "parse": "Conjunction",
     "str": "Strong's 176:  ",
-    "str2": "Desire, if"
+    "str2": "Desire, if",
+    "num": 176
   },
   {
     "word": "sheep",
@@ -37,7 +41,8 @@
     "translit": "(śeh)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7716:  ",
-    "str2": "A member of a, flock, a sheep, goat"
+    "str2": "A member of a, flock, a sheep, goat",
+    "num": 7716
   },
   {
     "word": "on the same",
@@ -45,7 +50,8 @@
     "translit": "(’e·ḥāḏ)",
     "parse": "Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "day",
@@ -53,7 +59,8 @@
     "translit": "(bə·yō·wm)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "as its young.",
@@ -61,6 +68,7 @@
     "translit": "(bə·nōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   }
 ]

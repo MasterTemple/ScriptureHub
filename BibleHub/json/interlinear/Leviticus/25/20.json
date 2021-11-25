@@ -5,7 +5,8 @@
     "translit": "(wə·ḵî)",
     "parse": "Conjunctive waw | Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you may wonder,",
@@ -13,7 +14,8 @@
     "translit": "(ṯō·mə·rū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘What",
@@ -21,7 +23,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "will we eat",
@@ -29,7 +32,8 @@
     "translit": "(nō·ḵal)",
     "parse": "Verb - Qal - Imperfect - first person common plural",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "in the seventh",
@@ -37,7 +41,8 @@
     "translit": "(haš·šə·ḇî·‘iṯ)",
     "parse": "Article | Number - ordinal feminine singular",
     "str": "Strong's 7637:  ",
-    "str2": "Seventh (an ordinal number)"
+    "str2": "Seventh (an ordinal number)",
+    "num": 7637
   },
   {
     "word": "year",
@@ -45,7 +50,8 @@
     "translit": "(baš·šā·nāh)",
     "parse": "Preposition-b, Article | Noun - feminine singular",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "if",
@@ -53,7 +59,8 @@
     "translit": "(hên)",
     "parse": "Interjection",
     "str": "Strong's 2005:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2005
   },
   {
     "word": "we do not",
@@ -61,7 +68,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "sow",
@@ -69,7 +77,8 @@
     "translit": "(niz·rā‘)",
     "parse": "Verb - Qal - Imperfect - first person common plural",
     "str": "Strong's 2232:  ",
-    "str2": "To sow, to disseminate, plant, fructify"
+    "str2": "To sow, to disseminate, plant, fructify",
+    "num": 2232
   },
   {
     "word": "or gather",
@@ -77,7 +86,8 @@
     "translit": "(ne·’ĕ·sōp̄)",
     "parse": "Verb - Qal - Imperfect - first person common plural",
     "str": "Strong's 622:  ",
-    "str2": "To gather for, any purpose, to receive, take away, remove"
+    "str2": "To gather for, any purpose, to receive, take away, remove",
+    "num": 622
   },
   {
     "word": "our produce?’",
@@ -85,6 +95,7 @@
     "translit": "(tə·ḇū·’ā·ṯê·nū)",
     "parse": "Noun - feminine singular construct | first person common plural",
     "str": "Strong's 8393:  ",
-    "str2": "Product, revenue"
+    "str2": "Product, revenue",
+    "num": 8393
   }
 ]

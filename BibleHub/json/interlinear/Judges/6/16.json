@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I will be",
@@ -13,7 +14,8 @@
     "translit": "(’eh·yeh)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "with you,”",
@@ -21,7 +23,8 @@
     "translit": "(‘im·māḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's 5973:  ",
-    "str2": "With, equally with"
+    "str2": "With, equally with",
+    "num": 5973
   },
   {
     "word": "the LORD",
@@ -29,7 +32,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "replied,",
@@ -37,7 +41,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“and you will strike down",
@@ -45,7 +50,8 @@
     "translit": "(wə·hik·kî·ṯā)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - second person masculine singular",
     "str": "Strong's 5221:  ",
-    "str2": "To strike"
+    "str2": "To strike",
+    "num": 5221
   },
   {
     "word": "[all] the Midianites",
@@ -53,7 +59,8 @@
     "translit": "(miḏ·yān)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 4080:  ",
-    "str2": "Midian -- a son of Abraham and Keturah, also his descendants and the region where they settled "
+    "str2": "Midian -- a son of Abraham and Keturah, also his descendants and the region where they settled ",
+    "num": 4080
   },
   {
     "word": "as one",
@@ -61,7 +68,8 @@
     "translit": "(’e·ḥāḏ)",
     "parse": "Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "man.”",
@@ -69,6 +77,7 @@
     "translit": "(kə·’îš)",
     "parse": "Preposition-k | Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   }
 ]

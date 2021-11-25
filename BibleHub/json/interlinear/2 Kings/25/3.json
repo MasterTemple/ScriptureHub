@@ -5,7 +5,8 @@
     "translit": "(bə·ṯiš·‘āh)",
     "parse": "Preposition-b | Number - masculine singular",
     "str": "Strong's 8672:  ",
-    "str2": "Nine, ninth"
+    "str2": "Nine, ninth",
+    "num": 8672
   },
   {
     "word": "of the [fourth] month,",
@@ -13,7 +14,8 @@
     "translit": "(la·ḥō·ḏeš)",
     "parse": "Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 2320:  ",
-    "str2": "The new moon, a month"
+    "str2": "The new moon, a month",
+    "num": 2320
   },
   {
     "word": "the famine",
@@ -21,7 +23,8 @@
     "translit": "(hā·rā·‘āḇ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 7458:  ",
-    "str2": "Famine, hunger"
+    "str2": "Famine, hunger",
+    "num": 7458
   },
   {
     "word": "in the city",
@@ -29,7 +32,8 @@
     "translit": "(bā·‘îr)",
     "parse": "Preposition-b, Article | Noun - feminine singular",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "was so severe",
@@ -37,7 +41,8 @@
     "translit": "(way·ye·ḥĕ·zaq)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 2388:  ",
-    "str2": "To fasten upon, to seize, be strong, obstinate, to bind, restrain, conquer"
+    "str2": "To fasten upon, to seize, be strong, obstinate, to bind, restrain, conquer",
+    "num": 2388
   },
   {
     "word": "that the people",
@@ -45,7 +50,8 @@
     "translit": "(lə·‘am)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "of the land",
@@ -53,7 +59,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "had",
@@ -61,7 +68,8 @@
     "translit": "(hā·yāh)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "no",
@@ -69,7 +77,8 @@
     "translit": "(wə·lō-)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "food.",
@@ -77,6 +86,7 @@
     "translit": "(le·ḥem)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3899:  ",
-    "str2": "Food, bread, grain"
+    "str2": "Food, bread, grain",
+    "num": 3899
   }
 ]

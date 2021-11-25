@@ -5,7 +5,8 @@
     "translit": "(moi)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "have",
@@ -13,7 +14,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "deep",
@@ -21,7 +23,8 @@
     "translit": "(megalē)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 3173:  ",
-    "str2": "Large, great, in the widest sense. "
+    "str2": "Large, great, in the widest sense. ",
+    "num": 3173
   },
   {
     "word": "sorrow",
@@ -29,7 +32,8 @@
     "translit": "(lypē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3077:  ",
-    "str2": "Pain, grief, sorrow, affliction. Apparently a primary word; sadness."
+    "str2": "Pain, grief, sorrow, affliction. Apparently a primary word; sadness.",
+    "num": 3077
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "unceasing",
@@ -45,7 +50,8 @@
     "translit": "(adialeiptos)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 88:  ",
-    "str2": "Unceasing, unremitting. Unintermitted, i.e. Permanent."
+    "str2": "Unceasing, unremitting. Unintermitted, i.e. Permanent.",
+    "num": 88
   },
   {
     "word": "anguish",
@@ -53,7 +59,8 @@
     "translit": "(odynē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3601:  ",
-    "str2": "Pain, sorrow, distress, of body or mind. From duno; grief."
+    "str2": "Pain, sorrow, distress, of body or mind. From duno; grief.",
+    "num": 3601
   },
   {
     "word": "in",
@@ -61,7 +68,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "my",
@@ -69,7 +77,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "heart.",
@@ -77,6 +86,7 @@
     "translit": "(kardia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 2588:  ",
-    "str2": "Prolonged from a primary kar; the heart, i.e. the thoughts or feelings; also the middle."
+    "str2": "Prolonged from a primary kar; the heart, i.e. the thoughts or feelings; also the middle.",
+    "num": 2588
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "as",
@@ -13,7 +14,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "we have",
@@ -21,7 +23,8 @@
     "translit": "(echomen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "opportunity,",
@@ -29,7 +32,8 @@
     "translit": "(kairon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2540:  ",
-    "str2": "Fitting season, season, opportunity, occasion, time. Of uncertain affinity; an occasion, i.e. Set or proper time."
+    "str2": "Fitting season, season, opportunity, occasion, time. Of uncertain affinity; an occasion, i.e. Set or proper time.",
+    "num": 2540
   },
   {
     "word": "let us do",
@@ -37,7 +41,8 @@
     "translit": "(ergazōmetha)",
     "parse": "Verb - Present Subjunctive Middle or Passive - 1st Person Plural",
     "str": "Strong's 2038:  ",
-    "str2": "To work, trade, perform, do, practice, commit, acquire by labor. "
+    "str2": "To work, trade, perform, do, practice, commit, acquire by labor. ",
+    "num": 2038
   },
   {
     "word": "good",
@@ -45,7 +50,8 @@
     "translit": "(agathon)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 18:  ",
-    "str2": "A primary word; 'good'."
+    "str2": "A primary word; 'good'.",
+    "num": 18
   },
   {
     "word": "to",
@@ -53,7 +59,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "everyone,",
@@ -61,7 +68,8 @@
     "translit": "(pantas)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "especially",
@@ -77,7 +86,8 @@
     "translit": "(malista)",
     "parse": "Adverb",
     "str": "Strong's 3122:  ",
-    "str2": "Most of all, especially. Neuter plural of the superlative of an apparently primary adverb mala; most or particularly."
+    "str2": "Most of all, especially. Neuter plural of the superlative of an apparently primary adverb mala; most or particularly.",
+    "num": 3122
   },
   {
     "word": "to",
@@ -85,7 +95,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "the",
@@ -93,7 +104,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "family",
@@ -101,7 +113,8 @@
     "translit": "(oikeious)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 3609:  ",
-    "str2": "Of one's family, domestic, intimate. From oikos; domestic, i.e., a relative, adherent."
+    "str2": "Of one's family, domestic, intimate. From oikos; domestic, i.e., a relative, adherent.",
+    "num": 3609
   },
   {
     "word": "of",
@@ -109,7 +122,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "faith.",
@@ -117,6 +131,7 @@
     "translit": "(pisteōs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4102:  ",
-    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. "
+    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. ",
+    "num": 4102
   }
 ]

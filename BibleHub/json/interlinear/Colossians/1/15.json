@@ -5,7 +5,8 @@
     "translit": "(Hos)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "is",
@@ -13,7 +14,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "[the] image",
@@ -21,7 +23,8 @@
     "translit": "(eikōn)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1504:  ",
-    "str2": "An image, likeness, bust. From eiko; a likeness, i.e. statue, profile, or representation, resemblance."
+    "str2": "An image, likeness, bust. From eiko; a likeness, i.e. statue, profile, or representation, resemblance.",
+    "num": 1504
   },
   {
     "word": "of the",
@@ -29,7 +32,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "invisible",
@@ -37,7 +41,8 @@
     "translit": "(aoratou)",
     "parse": "Adjective - Genitive Masculine Singular",
     "str": "Strong's 517:  ",
-    "str2": "Unseen, invisible. Invisible."
+    "str2": "Unseen, invisible. Invisible.",
+    "num": 517
   },
   {
     "word": "God,",
@@ -45,7 +50,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "[the] firstborn",
@@ -53,7 +59,8 @@
     "translit": "(prōtotokos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 4416:  ",
-    "str2": "First-born, eldest. From protos and the alternate of tikto; first-born."
+    "str2": "First-born, eldest. From protos and the alternate of tikto; first-born.",
+    "num": 4416
   },
   {
     "word": "over all",
@@ -61,7 +68,8 @@
     "translit": "(pasēs)",
     "parse": "Adjective - Genitive Feminine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "creation.",
@@ -69,6 +77,7 @@
     "translit": "(ktiseōs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2937:  ",
-    "str2": "From ktizo; original formation."
+    "str2": "From ktizo; original formation.",
+    "num": 2937
   }
 ]

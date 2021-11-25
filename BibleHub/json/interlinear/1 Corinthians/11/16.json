@@ -5,7 +5,8 @@
     "translit": "(Ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "anyone",
@@ -13,7 +14,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "is inclined to dispute [this],",
@@ -21,7 +23,8 @@
     "translit": "(dokei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1380:  ",
-    "str2": "A prolonged form of a primary verb, doko dok'-o of the same meaning; to think; by implication, to seem."
+    "str2": "A prolonged form of a primary verb, doko dok'-o of the same meaning; to think; by implication, to seem.",
+    "num": 1380
   },
   {
     "word": "we",
@@ -29,7 +32,8 @@
     "translit": "(hēmeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "have",
@@ -37,7 +41,8 @@
     "translit": "(echomen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "no",
@@ -45,7 +50,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "[other]",
@@ -53,7 +59,8 @@
     "translit": "(toiautēn)",
     "parse": "Demonstrative Pronoun - Accusative Feminine Singular",
     "str": "Strong's 5108:  ",
-    "str2": "(including the other inflections); from toi and houtos; truly this, i.e. Of this sort (to denote character or individuality)."
+    "str2": "(including the other inflections); from toi and houtos; truly this, i.e. Of this sort (to denote character or individuality).",
+    "num": 5108
   },
   {
     "word": "practice,",
@@ -61,7 +68,8 @@
     "translit": "(synētheian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4914:  ",
-    "str2": "A custom, habit, practice. From a compound of sun and ethos; mutual habituation, i.e. Usage."
+    "str2": "A custom, habit, practice. From a compound of sun and ethos; mutual habituation, i.e. Usage.",
+    "num": 4914
   },
   {
     "word": "nor",
@@ -69,7 +77,8 @@
     "translit": "(oude)",
     "parse": "Conjunction",
     "str": "Strong's 3761:  ",
-    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even."
+    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even.",
+    "num": 3761
   },
   {
     "word": "[do] the",
@@ -77,7 +86,8 @@
     "translit": "(hai)",
     "parse": "Article - Nominative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "churches",
@@ -85,7 +95,8 @@
     "translit": "(ekklēsiai)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 1577:  ",
-    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation."
+    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation.",
+    "num": 1577
   },
   {
     "word": "of God.",
@@ -93,6 +104,7 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

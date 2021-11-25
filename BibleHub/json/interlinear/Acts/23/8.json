@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "[the] Sadducees",
@@ -13,7 +14,8 @@
     "translit": "(Saddoukaioi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 4523:  ",
-    "str2": "Probably from Sadok; a Sadducaean, or follower of a certain heretical Israelite."
+    "str2": "Probably from Sadok; a Sadducaean, or follower of a certain heretical Israelite.",
+    "num": 4523
   },
   {
     "word": "say",
@@ -21,7 +23,8 @@
     "translit": "(legousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "there is",
@@ -29,7 +32,8 @@
     "translit": "(einai)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "neither",
@@ -37,7 +41,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "a resurrection,",
@@ -45,7 +50,8 @@
     "translit": "(anastasin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 386:  ",
-    "str2": "A rising again, resurrection. From anistemi; a standing up again, i.e. a resurrection from death (its author), or a recovery."
+    "str2": "A rising again, resurrection. From anistemi; a standing up again, i.e. a resurrection from death (its author), or a recovery.",
+    "num": 386
   },
   {
     "word": "nor",
@@ -53,7 +59,8 @@
     "translit": "(mēte)",
     "parse": "Conjunction",
     "str": "Strong's 3383:  ",
-    "str2": "Nor, neither, not even, neither?nor. From me and te; not too, i.e. neither or nor; also, not even."
+    "str2": "Nor, neither, not even, neither?nor. From me and te; not too, i.e. neither or nor; also, not even.",
+    "num": 3383
   },
   {
     "word": "angels,",
@@ -61,7 +68,8 @@
     "translit": "(angelon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 32:  ",
-    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor."
+    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor.",
+    "num": 32
   },
   {
     "word": "nor",
@@ -69,7 +77,8 @@
     "translit": "(mēte)",
     "parse": "Conjunction",
     "str": "Strong's 3383:  ",
-    "str2": "Nor, neither, not even, neither?nor. From me and te; not too, i.e. neither or nor; also, not even."
+    "str2": "Nor, neither, not even, neither?nor. From me and te; not too, i.e. neither or nor; also, not even.",
+    "num": 3383
   },
   {
     "word": "spirits,",
@@ -77,7 +86,8 @@
     "translit": "(pneuma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "but",
@@ -85,7 +95,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[the] Pharisees",
@@ -93,7 +104,8 @@
     "translit": "(Pharisaioi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 5330:  ",
-    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary."
+    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary.",
+    "num": 5330
   },
   {
     "word": "acknowledge",
@@ -101,7 +113,8 @@
     "translit": "(homologousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 3670:  ",
-    "str2": "From a compound of the base of homou and logos; to assent, i.e. Covenant, acknowledge."
+    "str2": "From a compound of the base of homou and logos; to assent, i.e. Covenant, acknowledge.",
+    "num": 3670
   },
   {
     "word": "them all.",
@@ -109,6 +122,7 @@
     "translit": "(amphotera)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 297:  ",
-    "str2": "Both (of two). Comparative of amphi; both."
+    "str2": "Both (of two). Comparative of amphi; both.",
+    "num": 297
   }
 ]

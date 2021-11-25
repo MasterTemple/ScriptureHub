@@ -5,7 +5,8 @@
     "translit": "(tê·lê·ḵū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "your God",
@@ -21,7 +23,8 @@
     "translit": "(’ĕ·lō·hê·ḵem)",
     "parse": "Noun - masculine plural construct | second person masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(wə·’ō·ṯōw)",
     "parse": "Conjunctive waw | Direct object marker | third person masculine singular",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "fear Him.",
@@ -37,7 +41,8 @@
     "translit": "(ṯî·rā·’ū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 3372:  ",
-    "str2": "To fear, to revere, caus, to frighten"
+    "str2": "To fear, to revere, caus, to frighten",
+    "num": 3372
   },
   {
     "word": "Keep",
@@ -45,7 +50,8 @@
     "translit": "(tiš·mō·rū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 8104:  ",
-    "str2": "To hedge about, guard, to protect, attend to"
+    "str2": "To hedge about, guard, to protect, attend to",
+    "num": 8104
   },
   {
     "word": "His commandments",
@@ -53,7 +59,8 @@
     "translit": "(miṣ·wō·ṯāw)",
     "parse": "Noun - feminine plural construct | third person masculine singular",
     "str": "Strong's 4687:  ",
-    "str2": "Commandment"
+    "str2": "Commandment",
+    "num": 4687
   },
   {
     "word": "and listen",
@@ -61,7 +68,8 @@
     "translit": "(ṯiš·mā·‘ū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "to His voice;",
@@ -69,7 +77,8 @@
     "translit": "(ū·ḇə·qō·lōw)",
     "parse": "Conjunctive waw, Preposition-b | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 6963:  ",
-    "str2": "A voice, sound"
+    "str2": "A voice, sound",
+    "num": 6963
   },
   {
     "word": "serve",
@@ -77,7 +86,8 @@
     "translit": "(ṯa·‘ă·ḇō·ḏū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 5647:  ",
-    "str2": "To work, to serve, till, enslave"
+    "str2": "To work, to serve, till, enslave",
+    "num": 5647
   },
   {
     "word": "Him",
@@ -85,7 +95,8 @@
     "translit": "(ū·ḇōw)",
     "parse": "Conjunctive waw | Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "and hold Him fast.",
@@ -93,6 +104,7 @@
     "translit": "(ṯiḏ·bā·qūn)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural | Paragogic nun",
     "str": "Strong's 1692:  ",
-    "str2": "To impinge, cling, adhere, to catch by pursuit"
+    "str2": "To impinge, cling, adhere, to catch by pursuit",
+    "num": 1692
   }
 ]

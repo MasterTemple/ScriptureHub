@@ -5,7 +5,8 @@
     "translit": "(katabantes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2597:  ",
-    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend."
+    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend.",
+    "num": 2597
   },
   {
     "word": "they prayed",
@@ -13,7 +14,8 @@
     "translit": "(prosēuxanto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Plural",
     "str": "Strong's 4336:  ",
-    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship."
+    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship.",
+    "num": 4336
   },
   {
     "word": "for",
@@ -21,7 +23,8 @@
     "translit": "(peri)",
     "parse": "Preposition",
     "str": "Strong's 4012:  ",
-    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time.",
+    "num": 4012
   },
   {
     "word": "them",
@@ -29,7 +32,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "to",
@@ -37,7 +41,8 @@
     "translit": "(hopōs)",
     "parse": "Conjunction",
     "str": "Strong's 3704:  ",
-    "str2": "From hos and pos; what(-ever) how, i.e. In the manner that (as adverb or conjunction of coincidence, intentional or actual)."
+    "str2": "From hos and pos; what(-ever) how, i.e. In the manner that (as adverb or conjunction of coincidence, intentional or actual).",
+    "num": 3704
   },
   {
     "word": "receive",
@@ -45,7 +50,8 @@
     "translit": "(labōsin)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Plural",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "[the] Holy",
@@ -53,7 +59,8 @@
     "translit": "(Hagion)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   },
   {
     "word": "Spirit.",
@@ -61,6 +68,7 @@
     "translit": "(Pneuma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "it is",
@@ -13,7 +14,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "God",
@@ -21,7 +23,8 @@
     "translit": "(Theos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "who",
@@ -29,7 +32,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "works",
@@ -37,7 +41,8 @@
     "translit": "(energōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1754:  ",
-    "str2": "From energes; to be active, efficient."
+    "str2": "From energes; to be active, efficient.",
+    "num": 1754
   },
   {
     "word": "in",
@@ -45,7 +50,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "you",
@@ -53,7 +59,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "to will",
@@ -61,7 +68,8 @@
     "translit": "(thelein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "to act",
@@ -77,7 +86,8 @@
     "translit": "(energein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 1754:  ",
-    "str2": "From energes; to be active, efficient."
+    "str2": "From energes; to be active, efficient.",
+    "num": 1754
   },
   {
     "word": "on behalf of",
@@ -85,7 +95,8 @@
     "translit": "(hyper)",
     "parse": "Preposition",
     "str": "Strong's 5228:  ",
-    "str2": "Gen: in behalf of; acc: above. "
+    "str2": "Gen: in behalf of; acc: above. ",
+    "num": 5228
   },
   {
     "word": "[His]",
@@ -93,7 +104,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "good pleasure.",
@@ -101,6 +113,7 @@
     "translit": "(eudokias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2107:  ",
-    "str2": "From a presumed compound of eu and the base of dokeo; satisfaction, i.e. delight, or kindness, wish, purpose."
+    "str2": "From a presumed compound of eu and the base of dokeo; satisfaction, i.e. delight, or kindness, wish, purpose.",
+    "num": 2107
   }
 ]

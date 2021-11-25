@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "says:",
@@ -21,7 +23,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“Though",
@@ -29,7 +32,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "they are allied",
@@ -37,7 +41,8 @@
     "translit": "(šə·lê·mîm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 8003:  ",
-    "str2": "Complete, safe, at peace"
+    "str2": "Complete, safe, at peace",
+    "num": 8003
   },
   {
     "word": "and numerous,",
@@ -45,7 +50,8 @@
     "translit": "(rab·bîm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 7227:  ",
-    "str2": "Much, many, great"
+    "str2": "Much, many, great",
+    "num": 7227
   },
   {
     "word": "yet",
@@ -53,7 +59,8 @@
     "translit": "(wə·ḵên)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 3651:  ",
-    "str2": "So -- thus"
+    "str2": "So -- thus",
+    "num": 3651
   },
   {
     "word": "they will be cut down",
@@ -61,7 +68,8 @@
     "translit": "(nā·ḡōz·zū)",
     "parse": "Verb - Nifal - Perfect - third person common plural",
     "str": "Strong's 1494:  ",
-    "str2": "To cut off, to shear a, flock, shave the hair, to destroy an enemy"
+    "str2": "To cut off, to shear a, flock, shave the hair, to destroy an enemy",
+    "num": 1494
   },
   {
     "word": "and pass away.",
@@ -69,7 +77,8 @@
     "translit": "(wə·‘ā·ḇār)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 5674:  ",
-    "str2": "To pass over, through, or by, pass on"
+    "str2": "To pass over, through, or by, pass on",
+    "num": 5674
   },
   {
     "word": "Though I have afflicted you, [O Judah],",
@@ -77,7 +86,8 @@
     "translit": "(wə·‘in·ni·ṯiḵ)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive perfect - first person common singular | second person feminine singular",
     "str": "Strong's 6031:  ",
-    "str2": "To be bowed down or afflicted"
+    "str2": "To be bowed down or afflicted",
+    "num": 6031
   },
   {
     "word": "I will afflict",
@@ -85,7 +95,8 @@
     "translit": "(’ă·‘an·nêḵ)",
     "parse": "Verb - Piel - Imperfect - first person common singular | second person feminine singular",
     "str": "Strong's 6031:  ",
-    "str2": "To be bowed down or afflicted"
+    "str2": "To be bowed down or afflicted",
+    "num": 6031
   },
   {
     "word": "you no",
@@ -93,7 +104,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "longer.",
@@ -101,6 +113,7 @@
     "translit": "(‘ō·wḏ)",
     "parse": "Adverb",
     "str": "Strong's 5750:  ",
-    "str2": "Iteration, continuance, again, repeatedly, still, more"
+    "str2": "Iteration, continuance, again, repeatedly, still, more",
+    "num": 5750
   }
 ]

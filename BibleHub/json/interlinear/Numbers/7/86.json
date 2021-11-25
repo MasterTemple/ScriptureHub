@@ -5,7 +5,8 @@
     "translit": "(šə·têm-)",
     "parse": "Number - fd",
     "str": "Strong's 8147:  ",
-    "str2": "Two (a cardinal number)"
+    "str2": "Two (a cardinal number)",
+    "num": 8147
   },
   {
     "word": "gold",
@@ -13,7 +14,8 @@
     "translit": "(zā·hāḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2091:  ",
-    "str2": "Gold, something gold-colored, as oil, a clear sky"
+    "str2": "Gold, something gold-colored, as oil, a clear sky",
+    "num": 2091
   },
   {
     "word": "dishes",
@@ -21,7 +23,8 @@
     "translit": "(kap·pō·wṯ)",
     "parse": "Noun - feminine plural construct",
     "str": "Strong's 3709:  ",
-    "str2": "Hollow or flat of the hand, palm, sole (of the foot), a pan"
+    "str2": "Hollow or flat of the hand, palm, sole (of the foot), a pan",
+    "num": 3709
   },
   {
     "word": "filled with",
@@ -29,7 +32,8 @@
     "translit": "(mə·lê·’ōṯ)",
     "parse": "Adjective - feminine plural",
     "str": "Strong's 4392:  ",
-    "str2": "Full, filling, fulness, fully"
+    "str2": "Full, filling, fulness, fully",
+    "num": 4392
   },
   {
     "word": "incense",
@@ -37,7 +41,8 @@
     "translit": "(qə·ṭō·reṯ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 7004:  ",
-    "str2": "Smoke, odor of (burning) sacrifice, incense"
+    "str2": "Smoke, odor of (burning) sacrifice, incense",
+    "num": 7004
   },
   {
     "word": "[weighed] ten [shekels]",
@@ -45,7 +50,8 @@
     "translit": "(‘ă·śā·rāh)",
     "parse": "Number - masculine singular",
     "str": "Strong's 6235:  ",
-    "str2": "Ten"
+    "str2": "Ten",
+    "num": 6235
   },
   {
     "word": "each,",
@@ -53,7 +59,8 @@
     "translit": "(‘ă·śā·rāh)",
     "parse": "Number - masculine singular",
     "str": "Strong's 6235:  ",
-    "str2": "Ten"
+    "str2": "Ten",
+    "num": 6235
   },
   {
     "word": "according to the sanctuary",
@@ -61,7 +68,8 @@
     "translit": "(haq·qō·ḏeš)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 6944:  ",
-    "str2": "A sacred place, thing, sanctity"
+    "str2": "A sacred place, thing, sanctity",
+    "num": 6944
   },
   {
     "word": "shekel.",
@@ -69,7 +77,8 @@
     "translit": "(bə·še·qel)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 8255:  ",
-    "str2": "A weight, a commercial standard"
+    "str2": "A weight, a commercial standard",
+    "num": 8255
   },
   {
     "word": "The total",
@@ -77,7 +86,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "weight of the gold",
@@ -85,7 +95,8 @@
     "translit": "(zə·haḇ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 2091:  ",
-    "str2": "Gold, something gold-colored, as oil, a clear sky"
+    "str2": "Gold, something gold-colored, as oil, a clear sky",
+    "num": 2091
   },
   {
     "word": "dishes",
@@ -93,7 +104,8 @@
     "translit": "(hak·kap̄)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 3709:  ",
-    "str2": "Hollow or flat of the hand, palm, sole (of the foot), a pan"
+    "str2": "Hollow or flat of the hand, palm, sole (of the foot), a pan",
+    "num": 3709
   },
   {
     "word": "[was] a hundred",
@@ -101,7 +113,8 @@
     "translit": "(ū·mê·’āh)",
     "parse": "Conjunctive waw | Number - feminine singular",
     "str": "Strong's 3967:  ",
-    "str2": "A hundred"
+    "str2": "A hundred",
+    "num": 3967
   },
   {
     "word": "and twenty [shekels].",
@@ -109,6 +122,7 @@
     "translit": "(‘eś·rîm)",
     "parse": "Number - common plural",
     "str": "Strong's 6242:  ",
-    "str2": "Twenty, twentieth"
+    "str2": "Twenty, twentieth",
+    "num": 6242
   }
 ]

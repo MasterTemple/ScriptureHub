@@ -5,7 +5,8 @@
     "translit": "(hên)",
     "parse": "Interjection",
     "str": "Strong's 2005:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2005
   },
   {
     "word": "I go",
@@ -13,7 +14,8 @@
     "translit": "(’e·hĕ·lōḵ)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "east,",
@@ -21,7 +23,8 @@
     "translit": "(qe·ḏem)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6924:  ",
-    "str2": "The front, of place, time"
+    "str2": "The front, of place, time",
+    "num": 6924
   },
   {
     "word": "He is not there,",
@@ -29,7 +32,8 @@
     "translit": "(wə·’ê·nen·nū)",
     "parse": "Conjunctive waw | Adverb | third person masculine singular",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "and if I go west,",
@@ -37,7 +41,8 @@
     "translit": "(wə·’ā·ḥō·wr)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 268:  ",
-    "str2": "The hinder part, behind, backward, the West"
+    "str2": "The hinder part, behind, backward, the West",
+    "num": 268
   },
   {
     "word": "I cannot",
@@ -45,7 +50,8 @@
     "translit": "(wə·lō-)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "find",
@@ -53,7 +59,8 @@
     "translit": "(’ā·ḇîn)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 995:  ",
-    "str2": "To separate mentally, understand"
+    "str2": "To separate mentally, understand",
+    "num": 995
   },
   {
     "word": "Him.",
@@ -61,6 +68,7 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

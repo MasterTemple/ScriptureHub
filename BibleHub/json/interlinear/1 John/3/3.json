@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "everyone",
@@ -13,7 +14,8 @@
     "translit": "(pas)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "who",
@@ -21,7 +23,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "has",
@@ -29,7 +32,8 @@
     "translit": "(echōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "this",
@@ -37,7 +41,8 @@
     "translit": "(tautēn)",
     "parse": "Demonstrative Pronoun - Accusative Feminine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "hope",
@@ -45,7 +50,8 @@
     "translit": "(elpida)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1680:  ",
-    "str2": "Hope, expectation, trust, confidence. From a primary elpo; expectation or confidence."
+    "str2": "Hope, expectation, trust, confidence. From a primary elpo; expectation or confidence.",
+    "num": 1680
   },
   {
     "word": "in",
@@ -53,7 +59,8 @@
     "translit": "(ep’)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "Him",
@@ -61,7 +68,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "purifies",
@@ -69,7 +77,8 @@
     "translit": "(hagnizei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 48:  ",
-    "str2": "To cleanse, purify, either ceremonially, actually, or morally. From hagnos; to make clean, i.e. sanctify."
+    "str2": "To cleanse, purify, either ceremonially, actually, or morally. From hagnos; to make clean, i.e. sanctify.",
+    "num": 48
   },
   {
     "word": "himself,",
@@ -77,7 +86,8 @@
     "translit": "(heauton)",
     "parse": "Reflexive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   },
   {
     "word": "just as",
@@ -85,7 +95,8 @@
     "translit": "(kathōs)",
     "parse": "Adverb",
     "str": "Strong's 2531:  ",
-    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that."
+    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that.",
+    "num": 2531
   },
   {
     "word": "He",
@@ -93,7 +104,8 @@
     "translit": "(ekeinos)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 1565:  ",
-    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed."
+    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed.",
+    "num": 1565
   },
   {
     "word": "is",
@@ -101,7 +113,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "pure.",
@@ -109,6 +122,7 @@
     "translit": "(hagnos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 53:  ",
-    "str2": "From the same as hagios; properly, clean, i.e. innocent, modest, perfect."
+    "str2": "From the same as hagios; properly, clean, i.e. innocent, modest, perfect.",
+    "num": 53
   }
 ]

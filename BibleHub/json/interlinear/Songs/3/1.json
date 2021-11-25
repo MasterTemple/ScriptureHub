@@ -5,7 +5,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "my bed",
@@ -13,7 +14,8 @@
     "translit": "(miš·kā·ḇî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 4904:  ",
-    "str2": "Place of lying, a couch, act of lying"
+    "str2": "Place of lying, a couch, act of lying",
+    "num": 4904
   },
   {
     "word": "at night",
@@ -21,7 +23,8 @@
     "translit": "(bal·lê·lō·wṯ)",
     "parse": "Preposition-b, Article | Noun - masculine plural",
     "str": "Strong's 3915:  ",
-    "str2": "A twist, night, adversity"
+    "str2": "A twist, night, adversity",
+    "num": 3915
   },
   {
     "word": "I sought",
@@ -29,7 +32,8 @@
     "translit": "(biq·qaš·tî)",
     "parse": "Verb - Piel - Perfect - first person common singular",
     "str": "Strong's 1245:  ",
-    "str2": "To search out, to strive after"
+    "str2": "To search out, to strive after",
+    "num": 1245
   },
   {
     "word": "the one",
@@ -37,7 +41,8 @@
     "translit": "(’êṯ)",
     "parse": "Direct object marker",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "I",
@@ -45,7 +50,8 @@
     "translit": "(nap̄·šî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   },
   {
     "word": "love;",
@@ -53,7 +59,8 @@
     "translit": "(še·’ā·hă·ḇāh)",
     "parse": "Pronoun - relative | Verb - Qal - Perfect - third person feminine singular",
     "str": "Strong's 157:  ",
-    "str2": "To have affection f"
+    "str2": "To have affection f",
+    "num": 157
   },
   {
     "word": "I sought him",
@@ -61,7 +68,8 @@
     "translit": "(biq·qaš·tîw)",
     "parse": "Verb - Piel - Perfect - first person common singular | third person masculine singular",
     "str": "Strong's 1245:  ",
-    "str2": "To search out, to strive after"
+    "str2": "To search out, to strive after",
+    "num": 1245
   },
   {
     "word": "but did not",
@@ -69,7 +77,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "find him.",
@@ -77,6 +86,7 @@
     "translit": "(mə·ṣā·ṯîw)",
     "parse": "Verb - Qal - Perfect - first person common singular | third person masculine singular",
     "str": "Strong's 4672:  ",
-    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present"
+    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present",
+    "num": 4672
   }
 ]

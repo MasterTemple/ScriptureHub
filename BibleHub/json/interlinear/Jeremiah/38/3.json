@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "says:",
@@ -21,7 +23,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "This",
@@ -29,7 +32,8 @@
     "translit": "(haz·zōṯ)",
     "parse": "Article | Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "city",
@@ -37,7 +41,8 @@
     "translit": "(hā·‘îr)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "will surely be handed over",
@@ -45,7 +50,8 @@
     "translit": "(hin·nā·ṯōn)",
     "parse": "Verb - Nifal - Infinitive absolute",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "to the army",
@@ -53,7 +59,8 @@
     "translit": "(ḥêl)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 2428:  ",
-    "str2": "A force, an army, wealth, virtue, valor, strength"
+    "str2": "A force, an army, wealth, virtue, valor, strength",
+    "num": 2428
   },
   {
     "word": "of the king",
@@ -61,7 +68,8 @@
     "translit": "(me·leḵ-)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "of Babylon,",
@@ -69,7 +77,8 @@
     "translit": "(bā·ḇel)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 894:  ",
-    "str2": "Babylon -- an eastern Mediterranean empire and its capital city"
+    "str2": "Babylon -- an eastern Mediterranean empire and its capital city",
+    "num": 894
   },
   {
     "word": "and he will capture it.”",
@@ -77,6 +86,7 @@
     "translit": "(ū·lə·ḵā·ḏāh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular | third person feminine singular",
     "str": "Strong's 3920:  ",
-    "str2": "To catch, to capture, occupy, to choose, to cohere"
+    "str2": "To catch, to capture, occupy, to choose, to cohere",
+    "num": 3920
   }
 ]

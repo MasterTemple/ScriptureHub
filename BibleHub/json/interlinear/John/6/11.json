@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "Jesus",
@@ -13,7 +14,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "took",
@@ -21,7 +23,8 @@
     "translit": "(Elaben)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "loaves",
@@ -37,7 +41,8 @@
     "translit": "(artous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 740:  ",
-    "str2": "Bread, a loaf, food. From airo; bread or a loaf."
+    "str2": "Bread, a loaf, food. From airo; bread or a loaf.",
+    "num": 740
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(homoiōs)",
     "parse": "Adverb",
     "str": "Strong's 3668:  ",
-    "str2": "In like manner, similarly, in the same way, equally. Adverb from homoios; similarly."
+    "str2": "In like manner, similarly, in the same way, equally. Adverb from homoios; similarly.",
+    "num": 3668
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "fish,",
@@ -61,7 +68,8 @@
     "translit": "(opsariōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 3795:  ",
-    "str2": "A little fish. Neuter of a presumed derivative of the base of optos; a relish to other food, i.e., fish."
+    "str2": "A little fish. Neuter of a presumed derivative of the base of optos; a relish to other food, i.e., fish.",
+    "num": 3795
   },
   {
     "word": "gave thanks,",
@@ -69,7 +77,8 @@
     "translit": "(eucharistēsas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2168:  ",
-    "str2": "From eucharistos; to be grateful, i.e. to express gratitude; specially, to say grace at a meal."
+    "str2": "From eucharistos; to be grateful, i.e. to express gratitude; specially, to say grace at a meal.",
+    "num": 2168
   },
   {
     "word": "[and] distributed",
@@ -77,7 +86,8 @@
     "translit": "(diedōken)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1239:  ",
-    "str2": "From dia and didomi; to give throughout a crowd, i.e. Deal out; also to deliver over."
+    "str2": "From dia and didomi; to give throughout a crowd, i.e. Deal out; also to deliver over.",
+    "num": 1239
   },
   {
     "word": "to those",
@@ -85,7 +95,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "who were seated",
@@ -93,7 +104,8 @@
     "translit": "(anakeimenois)",
     "parse": "Verb - Present Participle Middle or Passive - Dative Masculine Plural",
     "str": "Strong's 345:  ",
-    "str2": "To recline, especially at a dinner-table. From ana and keimai; to recline."
+    "str2": "To recline, especially at a dinner-table. From ana and keimai; to recline.",
+    "num": 345
   },
   {
     "word": "as much as",
@@ -101,7 +113,8 @@
     "translit": "(hoson)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3745:  ",
-    "str2": "How much, how great, how many, as great as, as much. By reduplication from hos; as As."
+    "str2": "How much, how great, how many, as great as, as much. By reduplication from hos; as As.",
+    "num": 3745
   },
   {
     "word": "they wanted.",
@@ -109,6 +122,7 @@
     "translit": "(ēthelon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   }
 ]

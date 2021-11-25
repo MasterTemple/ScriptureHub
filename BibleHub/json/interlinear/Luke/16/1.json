@@ -5,7 +5,8 @@
     "translit": "(Elegen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "to",
@@ -13,7 +14,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "[His]",
@@ -21,7 +23,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "disciples,",
@@ -29,7 +32,8 @@
     "translit": "(mathētas)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   },
   {
     "word": "“There was",
@@ -37,7 +41,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "a",
@@ -45,7 +50,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "rich",
@@ -53,7 +59,8 @@
     "translit": "(plousios)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 4145:  ",
-    "str2": "Rich, abounding in, wealthy; subst: a rich man. From ploutos; wealthy; figuratively, abounding with."
+    "str2": "Rich, abounding in, wealthy; subst: a rich man. From ploutos; wealthy; figuratively, abounding with.",
+    "num": 4145
   },
   {
     "word": "man",
@@ -61,7 +68,8 @@
     "translit": "(Anthrōpos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "whose",
@@ -69,7 +77,8 @@
     "translit": "(hos)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "manager",
@@ -77,7 +86,8 @@
     "translit": "(oikonomon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3623:  ",
-    "str2": "A household manager, a steward, guardian. "
+    "str2": "A household manager, a steward, guardian. ",
+    "num": 3623
   },
   {
     "word": "was accused of",
@@ -85,7 +95,8 @@
     "translit": "(dieblēthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 1225:  ",
-    "str2": "To thrust through, slander, complain of, accuse. From dia and ballo; to traduce."
+    "str2": "To thrust through, slander, complain of, accuse. From dia and ballo; to traduce.",
+    "num": 1225
   },
   {
     "word": "wasting",
@@ -93,7 +104,8 @@
     "translit": "(diaskorpizōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1287:  ",
-    "str2": "From dia and skorpizo; to dissipate, i.e. to rout or separate; specially, to winnow; figuratively, to squander."
+    "str2": "From dia and skorpizo; to dissipate, i.e. to rout or separate; specially, to winnow; figuratively, to squander.",
+    "num": 1287
   },
   {
     "word": "his",
@@ -101,7 +113,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "possessions.",
@@ -109,6 +122,7 @@
     "translit": "(hyparchonta)",
     "parse": "Verb - Present Participle Active - Accusative Neuter Plural",
     "str": "Strong's 5225:  ",
-    "str2": "To begin, am, exist, be in possession. From hupo and archomai; to begin under, i.e. Come into existence; expletively, to exist (verb)."
+    "str2": "To begin, am, exist, be in possession. From hupo and archomai; to begin under, i.e. Come into existence; expletively, to exist (verb).",
+    "num": 5225
   }
 ]

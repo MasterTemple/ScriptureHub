@@ -5,7 +5,8 @@
     "translit": "(ḇə·’ā·zə·nay)",
     "parse": "Preposition-b | Noun - fdc | first person common singular",
     "str": "Strong's 241:  ",
-    "str2": "Broadness, the ear"
+    "str2": "Broadness, the ear",
+    "num": 241
   },
   {
     "word": "call out",
@@ -13,7 +14,8 @@
     "translit": "(way·yiq·rā)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 7121:  ",
-    "str2": "To call, proclaim, read"
+    "str2": "To call, proclaim, read",
+    "num": 7121
   },
   {
     "word": "in a loud",
@@ -21,7 +23,8 @@
     "translit": "(gā·ḏō·wl)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 1419:  ",
-    "str2": "Great, older, insolent"
+    "str2": "Great, older, insolent",
+    "num": 1419
   },
   {
     "word": "voice,",
@@ -29,7 +32,8 @@
     "translit": "(qō·wl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6963:  ",
-    "str2": "A voice, sound"
+    "str2": "A voice, sound",
+    "num": 6963
   },
   {
     "word": "saying,",
@@ -37,7 +41,8 @@
     "translit": "(lê·mōr)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“Draw near,",
@@ -45,7 +50,8 @@
     "translit": "(qā·rə·ḇū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 7126:  ",
-    "str2": "To come near, approach"
+    "str2": "To come near, approach",
+    "num": 7126
   },
   {
     "word": "O executioners",
@@ -53,7 +59,8 @@
     "translit": "(pə·qud·dō·wṯ)",
     "parse": "Noun - feminine plural construct",
     "str": "Strong's 6486:  ",
-    "str2": "Oversight, mustering, visitation, store"
+    "str2": "Oversight, mustering, visitation, store",
+    "num": 6486
   },
   {
     "word": "of the city,",
@@ -61,7 +68,8 @@
     "translit": "(hā·‘îr)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "each",
@@ -69,7 +77,8 @@
     "translit": "(wə·’îš)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "[with] a weapon",
@@ -77,7 +86,8 @@
     "translit": "(kə·lî)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3627:  ",
-    "str2": "Something prepared, any apparatus"
+    "str2": "Something prepared, any apparatus",
+    "num": 3627
   },
   {
     "word": "of destruction",
@@ -85,7 +95,8 @@
     "translit": "(maš·ḥê·ṯōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 4892:  ",
-    "str2": "Ruin, destruction"
+    "str2": "Ruin, destruction",
+    "num": 4892
   },
   {
     "word": "in his hand.”",
@@ -93,6 +104,7 @@
     "translit": "(bə·yā·ḏōw)",
     "parse": "Preposition-b | Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   }
 ]

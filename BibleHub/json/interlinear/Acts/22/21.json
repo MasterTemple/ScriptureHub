@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "He said",
@@ -13,7 +14,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "me,",
@@ -29,7 +32,8 @@
     "translit": "(me)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "‘Go!",
@@ -37,7 +41,8 @@
     "translit": "(Poreuou)",
     "parse": "Verb - Present Imperative Middle or Passive - 2nd Person Singular",
     "str": "Strong's 4198:  ",
-    "str2": "To travel, journey, go, die. "
+    "str2": "To travel, journey, go, die. ",
+    "num": 4198
   },
   {
     "word": "I",
@@ -45,7 +50,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "will send",
@@ -53,7 +59,8 @@
     "translit": "(exapostelō)",
     "parse": "Verb - Future Indicative Active - 1st Person Singular",
     "str": "Strong's 1821:  ",
-    "str2": "From ek and apostello; to send away forth, i.e. to despatch, or to dismiss."
+    "str2": "From ek and apostello; to send away forth, i.e. to despatch, or to dismiss.",
+    "num": 1821
   },
   {
     "word": "you",
@@ -61,7 +68,8 @@
     "translit": "(se)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "far away",
@@ -69,7 +77,8 @@
     "translit": "(makran)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 3112:  ",
-    "str2": "At a distance, far away, remote, alien. Feminine accusative case singular of makros; at a distance."
+    "str2": "At a distance, far away, remote, alien. Feminine accusative case singular of makros; at a distance.",
+    "num": 3112
   },
   {
     "word": "to",
@@ -77,7 +86,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "[the] Gentiles.’”",
@@ -85,6 +95,7 @@
     "translit": "(ethnē)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 1484:  ",
-    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one."
+    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one.",
+    "num": 1484
   }
 ]

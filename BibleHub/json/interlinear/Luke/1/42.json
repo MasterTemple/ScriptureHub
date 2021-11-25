@@ -5,7 +5,8 @@
     "translit": "(megalē)",
     "parse": "Adjective - Dative Feminine Singular",
     "str": "Strong's 3173:  ",
-    "str2": "Large, great, in the widest sense. "
+    "str2": "Large, great, in the widest sense. ",
+    "num": 3173
   },
   {
     "word": "voice",
@@ -13,7 +14,8 @@
     "translit": "(kraugē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 2906:  ",
-    "str2": "(a) a shout, cry, clamor, (b) outcry, clamoring against another. From krazo; an outcry."
+    "str2": "(a) a shout, cry, clamor, (b) outcry, clamoring against another. From krazo; an outcry.",
+    "num": 2906
   },
   {
     "word": "she exclaimed,",
@@ -21,7 +23,8 @@
     "translit": "(anephōnēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 400:  ",
-    "str2": "To call out, shout, exclaim. From ana and phoneo; to exclaim."
+    "str2": "To call out, shout, exclaim. From ana and phoneo; to exclaim.",
+    "num": 400
   },
   {
     "word": "“Blessed are",
@@ -29,7 +32,8 @@
     "translit": "(Eulogēmenē)",
     "parse": "Verb - Perfect Participle Middle or Passive - Nominative Feminine Singular",
     "str": "Strong's 2127:  ",
-    "str2": "(lit: I speak well of) I bless; pass: I am blessed. From a compound of eu and logos; to speak well of, i.e. to bless."
+    "str2": "(lit: I speak well of) I bless; pass: I am blessed. From a compound of eu and logos; to speak well of, i.e. to bless.",
+    "num": 2127
   },
   {
     "word": "you",
@@ -37,7 +41,8 @@
     "translit": "(sy)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "among",
@@ -45,7 +50,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "women,",
@@ -53,7 +59,8 @@
     "translit": "(gynaixin)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 1135:  ",
-    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife."
+    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife.",
+    "num": 1135
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "blessed is",
@@ -69,7 +77,8 @@
     "translit": "(eulogēmenos)",
     "parse": "Verb - Perfect Participle Middle or Passive - Nominative Masculine Singular",
     "str": "Strong's 2127:  ",
-    "str2": "(lit: I speak well of) I bless; pass: I am blessed. From a compound of eu and logos; to speak well of, i.e. to bless."
+    "str2": "(lit: I speak well of) I bless; pass: I am blessed. From a compound of eu and logos; to speak well of, i.e. to bless.",
+    "num": 2127
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "fruit",
@@ -85,7 +95,8 @@
     "translit": "(karpos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2590:  ",
-    "str2": "Probably from the base of harpazo; fruit, literally or figuratively."
+    "str2": "Probably from the base of harpazo; fruit, literally or figuratively.",
+    "num": 2590
   },
   {
     "word": "of",
@@ -93,7 +104,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "your",
@@ -101,7 +113,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "womb!",
@@ -109,6 +122,7 @@
     "translit": "(koilias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2836:  ",
-    "str2": "From koilos; a cavity, i.e. the abdomen; by implication, the matrix; figuratively, the heart."
+    "str2": "From koilos; a cavity, i.e. the abdomen; by implication, the matrix; figuratively, the heart.",
+    "num": 2836
   }
 ]

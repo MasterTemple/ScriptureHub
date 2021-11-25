@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "at",
@@ -13,7 +14,8 @@
     "translit": "(Kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "[the] feast",
@@ -21,7 +23,8 @@
     "translit": "(heortēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1859:  ",
-    "str2": "A festival, feast, periodically recurring. Of uncertain affinity; a festival."
+    "str2": "A festival, feast, periodically recurring. Of uncertain affinity; a festival.",
+    "num": 1859
   },
   {
     "word": "to release",
@@ -29,7 +32,8 @@
     "translit": "(apelyen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 630:  ",
-    "str2": "From apo and luo; to free fully, i.e. relieve, release, dismiss, or let die, pardon or divorce."
+    "str2": "From apo and luo; to free fully, i.e. relieve, release, dismiss, or let die, pardon or divorce.",
+    "num": 630
   },
   {
     "word": "to [the people]",
@@ -37,7 +41,8 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "a",
@@ -45,7 +50,8 @@
     "translit": "(hena)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 1520:  ",
-    "str2": "One. (including the neuter Hen); a primary numeral; one."
+    "str2": "One. (including the neuter Hen); a primary numeral; one.",
+    "num": 1520
   },
   {
     "word": "prisoner",
@@ -53,7 +59,8 @@
     "translit": "(desmion)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 1198:  ",
-    "str2": "One bound, a prisoner. From desmon; a captive."
+    "str2": "One bound, a prisoner. From desmon; a captive.",
+    "num": 1198
   },
   {
     "word": "of their choosing.",
@@ -61,6 +68,7 @@
     "translit": "(parētounto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 3868:  ",
-    "str2": "From para and the middle voice of aiteo; to beg off, i.e. Deprecate, decline, shun."
+    "str2": "From para and the middle voice of aiteo; to beg off, i.e. Deprecate, decline, shun.",
+    "num": 3868
   }
 ]

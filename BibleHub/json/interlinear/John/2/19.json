@@ -5,7 +5,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "answered,",
@@ -13,7 +14,8 @@
     "translit": "(Apekrithē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 611:  ",
-    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak."
+    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak.",
+    "num": 611
   },
   {
     "word": "“Destroy",
@@ -21,7 +23,8 @@
     "translit": "(Lysate)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 3089:  ",
-    "str2": "A primary verb; to 'loosen'."
+    "str2": "A primary verb; to 'loosen'.",
+    "num": 3089
   },
   {
     "word": "this",
@@ -29,7 +32,8 @@
     "translit": "(touton)",
     "parse": "Demonstrative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "temple,",
@@ -37,7 +41,8 @@
     "translit": "(naon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3485:  ",
-    "str2": "A temple, a shrine, that part of the temple where God himself resides. From a primary naio; a fane, shrine, temple."
+    "str2": "A temple, a shrine, that part of the temple where God himself resides. From a primary naio; a fane, shrine, temple.",
+    "num": 3485
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "in",
@@ -53,7 +59,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "three",
@@ -61,7 +68,8 @@
     "translit": "(trisin)",
     "parse": "Adjective - Dative Feminine Plural",
     "str": "Strong's 5140:  ",
-    "str2": "Three. Or neuter tria a primary number; 'three'."
+    "str2": "Three. Or neuter tria a primary number; 'three'.",
+    "num": 5140
   },
   {
     "word": "days",
@@ -69,7 +77,8 @@
     "translit": "(hēmerais)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "I will raise it up again.”",
@@ -77,6 +86,7 @@
     "translit": "(egerō)",
     "parse": "Verb - Future Indicative Active - 1st Person Singular",
     "str": "Strong's 1453:  ",
-    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse."
+    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse.",
+    "num": 1453
   }
 ]

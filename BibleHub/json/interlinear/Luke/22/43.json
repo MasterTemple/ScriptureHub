@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "an angel",
@@ -13,7 +14,8 @@
     "translit": "(angelos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 32:  ",
-    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor."
+    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor.",
+    "num": 32
   },
   {
     "word": "from",
@@ -21,7 +23,8 @@
     "translit": "(ap’)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "heaven",
@@ -29,7 +32,8 @@
     "translit": "(ouranou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3772:  ",
-    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel."
+    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel.",
+    "num": 3772
   },
   {
     "word": "appeared",
@@ -37,7 +41,8 @@
     "translit": "(Ōphthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "to Him",
@@ -45,7 +50,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "[and] strengthened",
@@ -53,7 +59,8 @@
     "translit": "(enischyōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1765:  ",
-    "str2": "To invigorate, strengthen. From en and ischuo; to invigorate."
+    "str2": "To invigorate, strengthen. From en and ischuo; to invigorate.",
+    "num": 1765
   },
   {
     "word": "Him.",
@@ -61,6 +68,7 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

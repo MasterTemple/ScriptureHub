@@ -5,7 +5,8 @@
     "translit": "(’aš·rê)",
     "parse": "Interjection",
     "str": "Strong's 835:  ",
-    "str2": "Happiness, interjection, how happy!"
+    "str2": "Happiness, interjection, how happy!",
+    "num": 835
   },
   {
     "word": "is the man",
@@ -13,7 +14,8 @@
     "translit": "(’ā·ḏām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   },
   {
     "word": "whose sin",
@@ -21,7 +23,8 @@
     "translit": "(‘ā·wōn)",
     "parse": "Noun - common singular",
     "str": "Strong's 5771:  ",
-    "str2": "Iniquity, guilt, punishment for iniquity"
+    "str2": "Iniquity, guilt, punishment for iniquity",
+    "num": 5771
   },
   {
     "word": "the LORD",
@@ -29,7 +32,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "does not",
@@ -37,7 +41,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "count",
@@ -45,7 +50,8 @@
     "translit": "(yaḥ·šōḇ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 2803:  ",
-    "str2": "To think, account"
+    "str2": "To think, account",
+    "num": 2803
   },
   {
     "word": "against him,",
@@ -53,7 +59,8 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "in whose spirit",
@@ -61,7 +68,8 @@
     "translit": "(bə·rū·ḥōw)",
     "parse": "Preposition-b | Noun - common singular construct | third person masculine singular",
     "str": "Strong's 7307:  ",
-    "str2": "Wind, breath, exhalation, life, anger, unsubstantiality, a region of the sky, spirit"
+    "str2": "Wind, breath, exhalation, life, anger, unsubstantiality, a region of the sky, spirit",
+    "num": 7307
   },
   {
     "word": "there is no",
@@ -69,7 +77,8 @@
     "translit": "(wə·’ên)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "deceit.",
@@ -77,6 +86,7 @@
     "translit": "(rə·mî·yāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 7423:  ",
-    "str2": "Remissness, treachery"
+    "str2": "Remissness, treachery",
+    "num": 7423
   }
 ]

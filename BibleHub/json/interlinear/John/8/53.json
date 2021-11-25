@@ -5,7 +5,8 @@
     "translit": "(ei)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "You",
@@ -13,7 +14,8 @@
     "translit": "(sy)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "greater than",
@@ -21,7 +23,8 @@
     "translit": "(meizōn)",
     "parse": "Adjective - Nominative Masculine Singular - Comparative",
     "str": "Strong's 3173:  ",
-    "str2": "Large, great, in the widest sense. "
+    "str2": "Large, great, in the widest sense. ",
+    "num": 3173
   },
   {
     "word": "our",
@@ -29,7 +32,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "father",
@@ -37,7 +41,8 @@
     "translit": "(patros)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "Abraham?",
@@ -45,7 +50,8 @@
     "translit": "(Abraam)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 11:  ",
-    "str2": "Abraham, progenitor of the Hebrew race. Of Hebrew origin; Abraham, the Hebrew patriarch."
+    "str2": "Abraham, progenitor of the Hebrew race. Of Hebrew origin; Abraham, the Hebrew patriarch.",
+    "num": 11
   },
   {
     "word": "[He]",
@@ -53,7 +59,8 @@
     "translit": "(hostis)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3748:  ",
-    "str2": "Whosoever, whichsoever, whatsoever. "
+    "str2": "Whosoever, whichsoever, whatsoever. ",
+    "num": 3748
   },
   {
     "word": "died,",
@@ -61,7 +68,8 @@
     "translit": "(apethanen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 599:  ",
-    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off."
+    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off.",
+    "num": 599
   },
   {
     "word": "[as did]",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "prophets.",
@@ -85,7 +95,8 @@
     "translit": "(prophētai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 4396:  ",
-    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet."
+    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet.",
+    "num": 4396
   },
   {
     "word": "Who",
@@ -93,7 +104,8 @@
     "translit": "(tina)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Masculine Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "do You claim to be?”",
@@ -101,6 +113,7 @@
     "translit": "(poieis)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   }
 ]

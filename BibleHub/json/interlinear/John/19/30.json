@@ -5,7 +5,8 @@
     "translit": "(hote)",
     "parse": "Adverb",
     "str": "Strong's 3753:  ",
-    "str2": "When, at which time. From hos and te; at which too, i.e. When."
+    "str2": "When, at which time. From hos and te; at which too, i.e. When.",
+    "num": 3753
   },
   {
     "word": "Jesus",
@@ -13,7 +14,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "had received",
@@ -21,7 +23,8 @@
     "translit": "(elaben)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "sour wine,",
@@ -37,7 +41,8 @@
     "translit": "(oxos)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3690:  ",
-    "str2": "Vinegar, sour wine mixed with water, a common drink of Roman soldiers. From oxus; vinegar, i.e. Sour wine."
+    "str2": "Vinegar, sour wine mixed with water, a common drink of Roman soldiers. From oxus; vinegar, i.e. Sour wine.",
+    "num": 3690
   },
   {
     "word": "He said,",
@@ -45,7 +50,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“It is finished.”",
@@ -53,7 +59,8 @@
     "translit": "(Tetelestai)",
     "parse": "Verb - Perfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 5055:  ",
-    "str2": "(a) I end, finish, (b) I fulfill, accomplish, (c) I pay. From telos; to end, i.e. Complete, execute, conclude, discharge."
+    "str2": "(a) I end, finish, (b) I fulfill, accomplish, (c) I pay. From telos; to end, i.e. Complete, execute, conclude, discharge.",
+    "num": 5055
   },
   {
     "word": "And",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "bowing",
@@ -69,7 +77,8 @@
     "translit": "(klinas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2827:  ",
-    "str2": "A primary verb; to slant or slope, i.e. Incline or recline."
+    "str2": "A primary verb; to slant or slope, i.e. Incline or recline.",
+    "num": 2827
   },
   {
     "word": "[His]",
@@ -77,7 +86,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "head,",
@@ -85,7 +95,8 @@
     "translit": "(kephalēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2776:  ",
-    "str2": "From the primary kapto; the head, literally or figuratively."
+    "str2": "From the primary kapto; the head, literally or figuratively.",
+    "num": 2776
   },
   {
     "word": "He yielded up",
@@ -93,7 +104,8 @@
     "translit": "(paredōken)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3860:  ",
-    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit."
+    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit.",
+    "num": 3860
   },
   {
     "word": "[His]",
@@ -101,7 +113,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "spirit.",
@@ -109,6 +122,7 @@
     "translit": "(pneuma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   }
 ]

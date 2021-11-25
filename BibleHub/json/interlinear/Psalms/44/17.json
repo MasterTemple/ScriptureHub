@@ -5,7 +5,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "this",
@@ -13,7 +14,8 @@
     "translit": "(zōṯ)",
     "parse": "Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "has come upon us,",
@@ -21,7 +23,8 @@
     "translit": "(bā·’aṯ·nū)",
     "parse": "Verb - Qal - Perfect - third person feminine singular | first person common plural",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "though we have not",
@@ -29,7 +32,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "forgotten You",
@@ -37,7 +41,8 @@
     "translit": "(šə·ḵa·ḥă·nū·ḵā)",
     "parse": "Verb - Qal - Perfect - first person common plural | second person masculine singular",
     "str": "Strong's 7911:  ",
-    "str2": "To mislay, to be oblivious of, from want of memory, attention"
+    "str2": "To mislay, to be oblivious of, from want of memory, attention",
+    "num": 7911
   },
   {
     "word": "or betrayed",
@@ -45,7 +50,8 @@
     "translit": "(qar·nū)",
     "parse": "Verb - Piel - Perfect - first person common plural",
     "str": "Strong's 8266:  ",
-    "str2": "To do or deal falsely"
+    "str2": "To do or deal falsely",
+    "num": 8266
   },
   {
     "word": "Your covenant.",
@@ -53,6 +59,7 @@
     "translit": "(biḇ·rî·ṯe·ḵā)",
     "parse": "Preposition-b | Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 1285:  ",
-    "str2": "A covenant"
+    "str2": "A covenant",
+    "num": 1285
   }
 ]

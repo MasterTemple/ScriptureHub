@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "those who",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "use",
@@ -21,7 +23,8 @@
     "translit": "(chrōmenoi)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Masculine Plural",
     "str": "Strong's 5530:  ",
-    "str2": "To use, make use of, deal with, take advantage of. "
+    "str2": "To use, make use of, deal with, take advantage of. ",
+    "num": 5530
   },
   {
     "word": "the things of",
@@ -29,7 +32,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "[this] world,",
@@ -37,7 +41,8 @@
     "translit": "(kosmon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2889:  ",
-    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally)."
+    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally).",
+    "num": 2889
   },
   {
     "word": "as if",
@@ -45,7 +50,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "not dependent on them.",
@@ -53,7 +59,8 @@
     "translit": "(katachrōmenoi)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Masculine Plural",
     "str": "Strong's 2710:  ",
-    "str2": "To use to the full, use up. From kata and chraomai; to overuse, i.e. Misuse."
+    "str2": "To use to the full, use up. From kata and chraomai; to overuse, i.e. Misuse.",
+    "num": 2710
   },
   {
     "word": "For",
@@ -61,7 +68,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "this",
@@ -69,7 +77,8 @@
     "translit": "(toutou)",
     "parse": "Demonstrative Pronoun - Genitive Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "world",
@@ -77,7 +86,8 @@
     "translit": "(kosmou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2889:  ",
-    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally)."
+    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally).",
+    "num": 2889
   },
   {
     "word": "[in its]",
@@ -85,7 +95,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "present form",
@@ -93,7 +104,8 @@
     "translit": "(schēma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4976:  ",
-    "str2": "Fashion, habit, form, appearance. From the alternate of echo; a figure, i.e. external condition."
+    "str2": "Fashion, habit, form, appearance. From the alternate of echo; a figure, i.e. external condition.",
+    "num": 4976
   },
   {
     "word": "is passing away.",
@@ -101,6 +113,7 @@
     "translit": "(paragei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3855:  ",
-    "str2": "To pass by, depart, pass away. From para and ago; to lead near, i.e. to go along or away."
+    "str2": "To pass by, depart, pass away. From para and ago; to lead near, i.e. to go along or away.",
+    "num": 3855
   }
 ]

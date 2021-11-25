@@ -5,7 +5,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "present",
@@ -21,7 +23,8 @@
     "translit": "(enestōsan)",
     "parse": "Verb - Perfect Participle Active - Accusative Feminine Singular",
     "str": "Strong's 1764:  ",
-    "str2": "From en and histemi; to place on hand, i.e. impend, be instant."
+    "str2": "From en and histemi; to place on hand, i.e. impend, be instant.",
+    "num": 1764
   },
   {
     "word": "crisis,",
@@ -29,7 +32,8 @@
     "translit": "(anankēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 318:  ",
-    "str2": "From ana and the base of agkale; constraint; by implication, distress."
+    "str2": "From ana and the base of agkale; constraint; by implication, distress.",
+    "num": 318
   },
   {
     "word": "I think",
@@ -37,7 +41,8 @@
     "translit": "(Nomizō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 3543:  ",
-    "str2": "From nomos; properly, to do by law, i.e. To accustom; by extension, to deem or regard."
+    "str2": "From nomos; properly, to do by law, i.e. To accustom; by extension, to deem or regard.",
+    "num": 3543
   },
   {
     "word": "[it]",
@@ -45,7 +50,8 @@
     "translit": "(touto)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "is",
@@ -53,7 +59,8 @@
     "translit": "(hyparchein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 5225:  ",
-    "str2": "To begin, am, exist, be in possession. From hupo and archomai; to begin under, i.e. Come into existence; expletively, to exist (verb)."
+    "str2": "To begin, am, exist, be in possession. From hupo and archomai; to begin under, i.e. Come into existence; expletively, to exist (verb).",
+    "num": 5225
   },
   {
     "word": "good",
@@ -61,7 +68,8 @@
     "translit": "(kalon)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 2570:  ",
-    "str2": "Properly, beautiful, but chiefly good, i.e. Valuable or virtuous."
+    "str2": "Properly, beautiful, but chiefly good, i.e. Valuable or virtuous.",
+    "num": 2570
   },
   {
     "word": "for a man",
@@ -69,7 +77,8 @@
     "translit": "(anthrōpō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "to remain",
@@ -77,7 +86,8 @@
     "translit": "(einai)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "as [he is].",
@@ -85,6 +95,7 @@
     "translit": "(houtōs)",
     "parse": "Adverb",
     "str": "Strong's 3779:  ",
-    "str2": "Thus, so, in this manner. Or (referring to what precedes or follows)."
+    "str2": "Thus, so, in this manner. Or (referring to what precedes or follows).",
+    "num": 3779
   }
 ]

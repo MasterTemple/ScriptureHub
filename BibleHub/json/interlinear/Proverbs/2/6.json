@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "gives",
@@ -21,7 +23,8 @@
     "translit": "(yit·tên)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "wisdom;",
@@ -29,7 +32,8 @@
     "translit": "(ḥāḵ·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 2451:  ",
-    "str2": "Wisdom"
+    "str2": "Wisdom",
+    "num": 2451
   },
   {
     "word": "from His mouth",
@@ -37,7 +41,8 @@
     "translit": "(mip·pîw)",
     "parse": "Preposition-m | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 6310:  ",
-    "str2": "The mouth, edge, portion, side, according to"
+    "str2": "The mouth, edge, portion, side, according to",
+    "num": 6310
   },
   {
     "word": "come knowledge",
@@ -45,7 +50,8 @@
     "translit": "(da·‘aṯ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 1847:  ",
-    "str2": "Knowledge"
+    "str2": "Knowledge",
+    "num": 1847
   },
   {
     "word": "and understanding.",
@@ -53,6 +59,7 @@
     "translit": "(ū·ṯə·ḇū·nāh)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 8394:  ",
-    "str2": "Intelligence, an argument, caprice"
+    "str2": "Intelligence, an argument, caprice",
+    "num": 8394
   }
 ]

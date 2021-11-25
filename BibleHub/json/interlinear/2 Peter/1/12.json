@@ -5,7 +5,8 @@
     "translit": "(Dio)",
     "parse": "Conjunction",
     "str": "Strong's 1352:  ",
-    "str2": "Wherefore, on which account, therefore. From dia and hos; through which thing, i.e. Consequently."
+    "str2": "Wherefore, on which account, therefore. From dia and hos; through which thing, i.e. Consequently.",
+    "num": 1352
   },
   {
     "word": "I will",
@@ -13,7 +14,8 @@
     "translit": "(mellēsō)",
     "parse": "Verb - Future Indicative Active - 1st Person Singular",
     "str": "Strong's 3195:  ",
-    "str2": "A strengthened form of melo; to intend, i.e. Be about to be, do, or suffer something."
+    "str2": "A strengthened form of melo; to intend, i.e. Be about to be, do, or suffer something.",
+    "num": 3195
   },
   {
     "word": "always",
@@ -21,7 +23,8 @@
     "translit": "(aei)",
     "parse": "Adverb",
     "str": "Strong's 104:  ",
-    "str2": "From an obsolete primary noun; 'ever, 'by qualification regularly; by implication, earnestly."
+    "str2": "From an obsolete primary noun; 'ever, 'by qualification regularly; by implication, earnestly.",
+    "num": 104
   },
   {
     "word": "remind",
@@ -29,7 +32,8 @@
     "translit": "(hypomimnēskein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 5279:  ",
-    "str2": "To remind, remember, call to mind. From hupo and mimnesko; to remind quietly, i.e. Suggest to the memory."
+    "str2": "To remind, remember, call to mind. From hupo and mimnesko; to remind quietly, i.e. Suggest to the memory.",
+    "num": 5279
   },
   {
     "word": "you",
@@ -37,7 +41,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "of",
@@ -45,7 +50,8 @@
     "translit": "(peri)",
     "parse": "Preposition",
     "str": "Strong's 4012:  ",
-    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time.",
+    "num": 4012
   },
   {
     "word": "these things,",
@@ -53,7 +59,8 @@
     "translit": "(toutōn)",
     "parse": "Demonstrative Pronoun - Genitive Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "even though",
@@ -61,7 +68,8 @@
     "translit": "(kaiper)",
     "parse": "Conjunction",
     "str": "Strong's 2539:  ",
-    "str2": "Although, though. From kai and per; and indeed, i.e. Nevertheless or notwithstanding."
+    "str2": "Although, though. From kai and per; and indeed, i.e. Nevertheless or notwithstanding.",
+    "num": 2539
   },
   {
     "word": "you know [them]",
@@ -69,7 +77,8 @@
     "translit": "(eidotas)",
     "parse": "Verb - Perfect Participle Active - Accusative Masculine Plural",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "are established",
@@ -85,7 +95,8 @@
     "translit": "(estērigmenous)",
     "parse": "Verb - Perfect Participle Middle or Passive - Accusative Masculine Plural",
     "str": "Strong's 4741:  ",
-    "str2": "From a presumed derivative of histemi; to set fast, i.e. to turn resolutely in a certain direction, or to confirm."
+    "str2": "From a presumed derivative of histemi; to set fast, i.e. to turn resolutely in a certain direction, or to confirm.",
+    "num": 4741
   },
   {
     "word": "in",
@@ -93,7 +104,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "truth",
@@ -109,7 +122,8 @@
     "translit": "(alētheia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 225:  ",
-    "str2": "From alethes; truth."
+    "str2": "From alethes; truth.",
+    "num": 225
   },
   {
     "word": "you now have.",
@@ -117,6 +131,7 @@
     "translit": "(parousē)",
     "parse": "Verb - Present Participle Active - Dative Feminine Singular",
     "str": "Strong's 3918:  ",
-    "str2": "From para and eimi; to be near, i.e. At hand; neuter present participle time being, or property."
+    "str2": "From para and eimi; to be near, i.e. At hand; neuter present participle time being, or property.",
+    "num": 3918
   }
 ]

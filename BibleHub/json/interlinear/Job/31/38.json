@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "my land",
@@ -13,7 +14,8 @@
     "translit": "(’aḏ·mā·ṯî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 127:  ",
-    "str2": "Ground, land"
+    "str2": "Ground, land",
+    "num": 127
   },
   {
     "word": "cries out",
@@ -21,7 +23,8 @@
     "translit": "(ṯiz·‘āq)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 2199:  ",
-    "str2": "To shriek, to announce, convene publicly"
+    "str2": "To shriek, to announce, convene publicly",
+    "num": 2199
   },
   {
     "word": "against me",
@@ -29,7 +32,8 @@
     "translit": "(‘ā·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "and its furrows",
@@ -37,7 +41,8 @@
     "translit": "(tə·lā·me·hā)",
     "parse": "Noun - masculine plural construct | third person feminine singular",
     "str": "Strong's 8525:  ",
-    "str2": "A bank, terrace"
+    "str2": "A bank, terrace",
+    "num": 8525
   },
   {
     "word": "weep",
@@ -45,7 +50,8 @@
     "translit": "(yiḇ·kā·yūn)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural | Paragogic nun",
     "str": "Strong's 1058:  ",
-    "str2": "To weep, to bemoan"
+    "str2": "To weep, to bemoan",
+    "num": 1058
   },
   {
     "word": "together,",
@@ -53,6 +59,7 @@
     "translit": "(wə·ya·ḥaḏ)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 3162:  ",
-    "str2": "A unit, unitedly"
+    "str2": "A unit, unitedly",
+    "num": 3162
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’êl·leh)",
     "parse": "Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   },
   {
     "word": "are",
@@ -13,7 +14,8 @@
     "translit": "(hêm)",
     "parse": "Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "the ones who",
@@ -21,7 +23,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "crossed",
@@ -29,7 +32,8 @@
     "translit": "(‘ā·ḇə·rū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 5674:  ",
-    "str2": "To pass over, through, or by, pass on"
+    "str2": "To pass over, through, or by, pass on",
+    "num": 5674
   },
   {
     "word": "the Jordan",
@@ -37,7 +41,8 @@
     "translit": "(hay·yar·dên)",
     "parse": "Article | Noun - proper - feminine singular",
     "str": "Strong's 3383:  ",
-    "str2": "Jordan -- the principal river of Palestine"
+    "str2": "Jordan -- the principal river of Palestine",
+    "num": 3383
   },
   {
     "word": "in the first",
@@ -45,7 +50,8 @@
     "translit": "(hā·ri·šō·wn)",
     "parse": "Article | Adjective - masculine singular",
     "str": "Strong's 7223:  ",
-    "str2": "First, in place, time, rank"
+    "str2": "First, in place, time, rank",
+    "num": 7223
   },
   {
     "word": "month",
@@ -53,7 +59,8 @@
     "translit": "(ba·ḥō·ḏeš)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 2320:  ",
-    "str2": "The new moon, a month"
+    "str2": "The new moon, a month",
+    "num": 2320
   },
   {
     "word": "when it had overflowed",
@@ -61,7 +68,8 @@
     "translit": "(mə·mal·lê)",
     "parse": "Verb - Piel - Participle - masculine singular",
     "str": "Strong's 4390:  ",
-    "str2": "To fill, be full of"
+    "str2": "To fill, be full of",
+    "num": 4390
   },
   {
     "word": "all",
@@ -69,7 +77,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "its banks,",
@@ -77,7 +86,8 @@
     "translit": "(gə·ḏō·w·ṯāw)",
     "parse": "Noun - feminine plural construct | third person masculine singular",
     "str": "Strong's 1415:  ",
-    "str2": "A border of a, river"
+    "str2": "A border of a, river",
+    "num": 1415
   },
   {
     "word": "and they put to flight",
@@ -85,7 +95,8 @@
     "translit": "(way·yaḇ·rî·ḥū)",
     "parse": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine plural",
     "str": "Strong's 1272:  ",
-    "str2": "To bolt, to flee suddenly"
+    "str2": "To bolt, to flee suddenly",
+    "num": 1272
   },
   {
     "word": "all [those]",
@@ -93,7 +104,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "in the valleys,",
@@ -101,7 +113,8 @@
     "translit": "(hā·‘ă·mā·qîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 6010:  ",
-    "str2": "A vale"
+    "str2": "A vale",
+    "num": 6010
   },
   {
     "word": "to the east",
@@ -109,7 +122,8 @@
     "translit": "(lam·miz·rāḥ)",
     "parse": "Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 4217:  ",
-    "str2": "Place of sunrise, the east"
+    "str2": "Place of sunrise, the east",
+    "num": 4217
   },
   {
     "word": "and to the west.",
@@ -117,6 +131,7 @@
     "translit": "(wə·lam·ma·‘ă·rāḇ)",
     "parse": "Conjunctive waw, Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 4628:  ",
-    "str2": "The west"
+    "str2": "The west",
+    "num": 4628
   }
 ]

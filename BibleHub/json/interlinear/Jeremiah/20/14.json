@@ -5,7 +5,8 @@
     "translit": "(’ā·rūr)",
     "parse": "Verb - Qal - QalPassParticiple - masculine singular",
     "str": "Strong's 779:  ",
-    "str2": "To execrate"
+    "str2": "To execrate",
+    "num": 779
   },
   {
     "word": "the day",
@@ -13,7 +14,8 @@
     "translit": "(hay·yō·wm)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "I was born!",
@@ -21,7 +23,8 @@
     "translit": "(yul·laḏ·tî)",
     "parse": "Verb - QalPass - Perfect - first person common singular",
     "str": "Strong's 3205:  ",
-    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage"
+    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage",
+    "num": 3205
   },
   {
     "word": "May the day",
@@ -29,7 +32,8 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "my mother",
@@ -37,7 +41,8 @@
     "translit": "(’im·mî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "bore me",
@@ -45,7 +50,8 @@
     "translit": "(yə·lā·ḏaṯ·nî)",
     "parse": "Verb - Qal - Perfect - third person feminine singular | first person common singular",
     "str": "Strong's 3205:  ",
-    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage"
+    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage",
+    "num": 3205
   },
   {
     "word": "never",
@@ -53,7 +59,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "be blessed.",
@@ -61,6 +68,7 @@
     "translit": "(ḇā·rūḵ)",
     "parse": "Verb - Qal - QalPassParticiple - masculine singular",
     "str": "Strong's 1288:  ",
-    "str2": "To kneel, to bless God, man, to curse"
+    "str2": "To kneel, to bless God, man, to curse",
+    "num": 1288
   }
 ]

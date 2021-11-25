@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "a revelation comes",
@@ -21,7 +23,8 @@
     "translit": "(apokalyphthē)",
     "parse": "Verb - Aorist Subjunctive Passive - 3rd Person Singular",
     "str": "Strong's 601:  ",
-    "str2": "To uncover, bring to light, reveal. From apo and kalupto; to take off the cover, i.e. Disclose."
+    "str2": "To uncover, bring to light, reveal. From apo and kalupto; to take off the cover, i.e. Disclose.",
+    "num": 601
   },
   {
     "word": "to someone who",
@@ -29,7 +32,8 @@
     "translit": "(allō)",
     "parse": "Adjective - Dative Masculine Singular",
     "str": "Strong's 243:  ",
-    "str2": "Other, another (of more than two), different. A primary word; 'else, ' i.e. Different."
+    "str2": "Other, another (of more than two), different. A primary word; 'else, ' i.e. Different.",
+    "num": 243
   },
   {
     "word": "is seated,",
@@ -37,7 +41,8 @@
     "translit": "(kathēmenō)",
     "parse": "Verb - Present Participle Middle or Passive - Dative Masculine Singular",
     "str": "Strong's 2521:  ",
-    "str2": "To sit, be seated, enthroned; I dwell, reside. From kata; and hemai; to sit down; figuratively, to remain, reside."
+    "str2": "To sit, be seated, enthroned; I dwell, reside. From kata; and hemai; to sit down; figuratively, to remain, reside.",
+    "num": 2521
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "first [speaker]",
@@ -53,7 +59,8 @@
     "translit": "(prōtos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 4413:  ",
-    "str2": "First, before, principal, most important. Contracted superlative of pro; foremost."
+    "str2": "First, before, principal, most important. Contracted superlative of pro; foremost.",
+    "num": 4413
   },
   {
     "word": "should hold his peace.",
@@ -61,6 +68,7 @@
     "translit": "(sigatō)",
     "parse": "Verb - Present Imperative Active - 3rd Person Singular",
     "str": "Strong's 4601:  ",
-    "str2": "Intrans: I am silent, keep silence; trans: I keep secret; pass: I am kept secret. From sige; to keep silent."
+    "str2": "Intrans: I am silent, keep silence; trans: I keep secret; pass: I am kept secret. From sige; to keep silent.",
+    "num": 4601
   }
 ]

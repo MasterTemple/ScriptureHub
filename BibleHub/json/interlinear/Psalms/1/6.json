@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "guards",
@@ -21,7 +23,8 @@
     "translit": "(yō·w·ḏê·a‘)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "the path",
@@ -29,7 +32,8 @@
     "translit": "(de·reḵ)",
     "parse": "Noun - common singular construct",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   },
   {
     "word": "of the righteous,",
@@ -37,7 +41,8 @@
     "translit": "(ṣad·dî·qîm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 6662:  ",
-    "str2": "Just, righteous"
+    "str2": "Just, righteous",
+    "num": 6662
   },
   {
     "word": "but the way",
@@ -45,7 +50,8 @@
     "translit": "(wə·ḏe·reḵ)",
     "parse": "Conjunctive waw | Noun - common singular construct",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   },
   {
     "word": "of the wicked",
@@ -53,7 +59,8 @@
     "translit": "(rə·šā·‘îm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 7563:  ",
-    "str2": "Wrong, an, bad person"
+    "str2": "Wrong, an, bad person",
+    "num": 7563
   },
   {
     "word": "will perish.",
@@ -61,6 +68,7 @@
     "translit": "(tō·ḇêḏ)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 6:  ",
-    "str2": "To wander away, lose oneself, to perish"
+    "str2": "To wander away, lose oneself, to perish",
+    "num": 6
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A weak adversative particle, generally placed second in its clause; but, on the other hand, and."
+    "str2": "A weak adversative particle, generally placed second in its clause; but, on the other hand, and.",
+    "num": 1161
   },
   {
     "word": "of necessity",
@@ -13,7 +14,8 @@
     "translit": "(Anankēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 318:  ",
-    "str2": "Necessity, constraint, compulsion; there is need to; force, violence."
+    "str2": "Necessity, constraint, compulsion; there is need to; force, violence.",
+    "num": 318
   },
   {
     "word": "he had",
@@ -21,7 +23,8 @@
     "translit": "(eichen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess."
+    "str2": "To have, hold, possess.",
+    "num": 2192
   },
   {
     "word": "to release",
@@ -29,7 +32,8 @@
     "translit": "(apolyein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 630:  ",
-    "str2": "To release, let go, send away, divorce, to be rid; to depart."
+    "str2": "To release, let go, send away, divorce, to be rid; to depart.",
+    "num": 630
   },
   {
     "word": "to them",
@@ -37,7 +41,8 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same."
+    "str2": "He, she, it, they, them, same.",
+    "num": 846
   },
   {
     "word": "one",
@@ -45,7 +50,8 @@
     "translit": "(hena)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 1520:  ",
-    "str2": "One."
+    "str2": "One.",
+    "num": 1520
   },
   {
     "word": "at",
@@ -53,7 +59,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "Genitive: against, down from, throughout, by; accusative: over against, among, daily, day-by-day, each day, according to, by way of."
+    "str2": "Genitive: against, down from, throughout, by; accusative: over against, among, daily, day-by-day, each day, according to, by way of.",
+    "num": 2596
   },
   {
     "word": "[the] feast.",
@@ -61,6 +68,7 @@
     "translit": "(heortēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1859:  ",
-    "str2": "A festival, feast, periodically recurring."
+    "str2": "A festival, feast, periodically recurring.",
+    "num": 1859
   }
 ]

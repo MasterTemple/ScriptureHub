@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I have rejoiced",
@@ -13,7 +14,8 @@
     "translit": "(’eś·maḥ)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 8055:  ",
-    "str2": "To brighten up, be, blithe, gleesome"
+    "str2": "To brighten up, be, blithe, gleesome",
+    "num": 8055
   },
   {
     "word": "at my enemy’s",
@@ -21,7 +23,8 @@
     "translit": "(mə·śan·’î)",
     "parse": "Verb - Piel - Participle - masculine singular construct | first person common singular",
     "str": "Strong's 8130:  ",
-    "str2": "To hate"
+    "str2": "To hate",
+    "num": 8130
   },
   {
     "word": "ruin,",
@@ -29,7 +32,8 @@
     "translit": "(bə·p̄îḏ)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 6365:  ",
-    "str2": "Ruin, disaster"
+    "str2": "Ruin, disaster",
+    "num": 6365
   },
   {
     "word": "or exulted",
@@ -37,7 +41,8 @@
     "translit": "(wə·hiṯ·‘ō·rar·tî)",
     "parse": "Conjunctive waw | Verb - Hitpael - Conjunctive perfect - first person common singular",
     "str": "Strong's 5782:  ",
-    "str2": "To rouse oneself, awake"
+    "str2": "To rouse oneself, awake",
+    "num": 5782
   },
   {
     "word": "when",
@@ -45,7 +50,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "evil",
@@ -53,7 +59,8 @@
     "translit": "(rā‘)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "befell him—",
@@ -61,6 +68,7 @@
     "translit": "(mə·ṣā·’ōw)",
     "parse": "Verb - Qal - Perfect - third person masculine singular | third person masculine singular",
     "str": "Strong's 4672:  ",
-    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present"
+    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present",
+    "num": 4672
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(didachēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1322:  ",
-    "str2": "Teaching, doctrine, what is taught. From didasko; instruction."
+    "str2": "Teaching, doctrine, what is taught. From didasko; instruction.",
+    "num": 1322
   },
   {
     "word": "about baptisms,",
@@ -13,7 +14,8 @@
     "translit": "(baptismōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 909:  ",
-    "str2": "Dipping, washing (of a ceremonial character). From baptizo; ablution."
+    "str2": "Dipping, washing (of a ceremonial character). From baptizo; ablution.",
+    "num": 909
   },
   {
     "word": "[the] laying on",
@@ -21,7 +23,8 @@
     "translit": "(epitheseōs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1936:  ",
-    "str2": "A laying on; an attack, assault. From epitithemi; an imposition."
+    "str2": "A laying on; an attack, assault. From epitithemi; an imposition.",
+    "num": 1936
   },
   {
     "word": "of hands,",
@@ -29,7 +32,8 @@
     "translit": "(cheirōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 5495:  ",
-    "str2": "A hand. "
+    "str2": "A hand. ",
+    "num": 5495
   },
   {
     "word": "[the] resurrection",
@@ -37,7 +41,8 @@
     "translit": "(anastaseōs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 386:  ",
-    "str2": "A rising again, resurrection. From anistemi; a standing up again, i.e. a resurrection from death (its author), or a recovery."
+    "str2": "A rising again, resurrection. From anistemi; a standing up again, i.e. a resurrection from death (its author), or a recovery.",
+    "num": 386
   },
   {
     "word": "of [the] dead,",
@@ -45,7 +50,8 @@
     "translit": "(nekrōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 3498:  ",
-    "str2": "(a) adj: dead, lifeless, subject to death, mortal, (b) noun: a dead body, a corpse. From an apparently primary nekus; dead."
+    "str2": "(a) adj: dead, lifeless, subject to death, mortal, (b) noun: a dead body, a corpse. From an apparently primary nekus; dead.",
+    "num": 3498
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "eternal",
@@ -61,7 +68,8 @@
     "translit": "(aiōniou)",
     "parse": "Adjective - Genitive Neuter Singular",
     "str": "Strong's 166:  ",
-    "str2": "From aion; perpetual."
+    "str2": "From aion; perpetual.",
+    "num": 166
   },
   {
     "word": "judgment.",
@@ -69,6 +77,7 @@
     "translit": "(krimatos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 2917:  ",
-    "str2": "From krino; a decision ('crime')."
+    "str2": "From krino; a decision ('crime').",
+    "num": 2917
   }
 ]

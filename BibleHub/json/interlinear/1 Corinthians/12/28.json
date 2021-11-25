@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "in",
@@ -13,7 +14,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "church",
@@ -29,7 +32,8 @@
     "translit": "(ekklēsia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 1577:  ",
-    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation."
+    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation.",
+    "num": 1577
   },
   {
     "word": "God",
@@ -37,7 +41,8 @@
     "translit": "(Theos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "has appointed",
@@ -45,7 +50,8 @@
     "translit": "(etheto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 5087:  ",
-    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place."
+    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place.",
+    "num": 5087
   },
   {
     "word": "first of all",
@@ -53,7 +59,8 @@
     "translit": "(prōton)",
     "parse": "Adverb - Superlative",
     "str": "Strong's 4412:  ",
-    "str2": "First, in the first place, before, formerly. Neuter of protos as adverb; firstly."
+    "str2": "First, in the first place, before, formerly. Neuter of protos as adverb; firstly.",
+    "num": 4412
   },
   {
     "word": "apostles,",
@@ -61,7 +68,8 @@
     "translit": "(apostolous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 652:  ",
-    "str2": "From apostello; a delegate; specially, an ambassador of the Gospel; officially a commissioner of Christ."
+    "str2": "From apostello; a delegate; specially, an ambassador of the Gospel; officially a commissioner of Christ.",
+    "num": 652
   },
   {
     "word": "second",
@@ -69,7 +77,8 @@
     "translit": "(deuteron)",
     "parse": "Adverb",
     "str": "Strong's 1208:  ",
-    "str2": "Second; with the article: in the second place, for the second time. As the compare of duo; second."
+    "str2": "Second; with the article: in the second place, for the second time. As the compare of duo; second.",
+    "num": 1208
   },
   {
     "word": "prophets,",
@@ -77,7 +86,8 @@
     "translit": "(prophētas)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 4396:  ",
-    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet."
+    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet.",
+    "num": 4396
   },
   {
     "word": "third",
@@ -85,7 +95,8 @@
     "translit": "(triton)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 5154:  ",
-    "str2": "Third. Ordinal from treis; third; neuter a third part, or a third time, thirdly."
+    "str2": "Third. Ordinal from treis; third; neuter a third part, or a third time, thirdly.",
+    "num": 5154
   },
   {
     "word": "teachers,",
@@ -93,7 +104,8 @@
     "translit": "(didaskalous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 1320:  ",
-    "str2": "A teacher, master. From didasko; an instructor."
+    "str2": "A teacher, master. From didasko; an instructor.",
+    "num": 1320
   },
   {
     "word": "then",
@@ -101,7 +113,8 @@
     "translit": "(epeita)",
     "parse": "Adverb",
     "str": "Strong's 1899:  ",
-    "str2": "Then, thereafter, afterwards. From epi and eita; thereafter."
+    "str2": "Then, thereafter, afterwards. From epi and eita; thereafter.",
+    "num": 1899
   },
   {
     "word": "[workers of] miracles,",
@@ -109,7 +122,8 @@
     "translit": "(dynameis)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 1411:  ",
-    "str2": "From dunamai; force; specially, miraculous power."
+    "str2": "From dunamai; force; specially, miraculous power.",
+    "num": 1411
   },
   {
     "word": "[and]",
@@ -117,7 +131,8 @@
     "translit": "(epeita)",
     "parse": "Adverb",
     "str": "Strong's 1899:  ",
-    "str2": "Then, thereafter, afterwards. From epi and eita; thereafter."
+    "str2": "Then, thereafter, afterwards. From epi and eita; thereafter.",
+    "num": 1899
   },
   {
     "word": "[those with] gifts",
@@ -125,7 +140,8 @@
     "translit": "(charismata)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 5486:  ",
-    "str2": "From charizomai; a gratuity, i.e. Deliverance;, a endowment, i.e. religious qualification, or miraculous faculty."
+    "str2": "From charizomai; a gratuity, i.e. Deliverance;, a endowment, i.e. religious qualification, or miraculous faculty.",
+    "num": 5486
   },
   {
     "word": "of healing,",
@@ -133,7 +149,8 @@
     "translit": "(iamatōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 2386:  ",
-    "str2": "Healing, curing, remedy. From iaomai; a cure."
+    "str2": "Healing, curing, remedy. From iaomai; a cure.",
+    "num": 2386
   },
   {
     "word": "helping,",
@@ -141,7 +158,8 @@
     "translit": "(antilēmpseis)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 484:  ",
-    "str2": "Help, ministration; one who aids. From antilambanomai; relief."
+    "str2": "Help, ministration; one who aids. From antilambanomai; relief.",
+    "num": 484
   },
   {
     "word": "administration,",
@@ -149,7 +167,8 @@
     "translit": "(kybernēseis)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 2941:  ",
-    "str2": "(lit: steering, piloting), governing, government. From kubernao; pilotage, i.e. directorship."
+    "str2": "(lit: steering, piloting), governing, government. From kubernao; pilotage, i.e. directorship.",
+    "num": 2941
   },
   {
     "word": "[and] various",
@@ -157,7 +176,8 @@
     "translit": "(genē)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 1085:  ",
-    "str2": "Offspring, family, race, nation, kind. From ginomai; 'kin'."
+    "str2": "Offspring, family, race, nation, kind. From ginomai; 'kin'.",
+    "num": 1085
   },
   {
     "word": "tongues.",
@@ -165,6 +185,7 @@
     "translit": "(glōssōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 1100:  ",
-    "str2": "The tongue; by implication, a language."
+    "str2": "The tongue; by implication, a language.",
+    "num": 1100
   }
 ]

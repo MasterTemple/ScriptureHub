@@ -5,7 +5,8 @@
     "translit": "(’ar·bā·‘îm)",
     "parse": "Number - common plural",
     "str": "Strong's 705:  ",
-    "str2": "Forty"
+    "str2": "Forty",
+    "num": 705
   },
   {
     "word": "years",
@@ -13,7 +14,8 @@
     "translit": "(šā·nāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "I led",
@@ -21,7 +23,8 @@
     "translit": "(wā·’ō·w·lêḵ)",
     "parse": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - first person common singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "you",
@@ -29,7 +32,8 @@
     "translit": "(’eṯ·ḵem)",
     "parse": "Direct object marker | second person masculine plural",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "in the wilderness,",
@@ -37,7 +41,8 @@
     "translit": "(bam·miḏ·bār)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 4057:  ",
-    "str2": "A pasture, a desert, speech"
+    "str2": "A pasture, a desert, speech",
+    "num": 4057
   },
   {
     "word": "neither your clothes",
@@ -45,7 +50,8 @@
     "translit": "(śal·mō·ṯê·ḵem)",
     "parse": "Noun - feminine plural construct | second person masculine plural",
     "str": "Strong's 8008:  ",
-    "str2": "A wrapper, mantle"
+    "str2": "A wrapper, mantle",
+    "num": 8008
   },
   {
     "word": "nor the sandals",
@@ -53,7 +59,8 @@
     "translit": "(wə·na·‘al·ḵā)",
     "parse": "Conjunctive waw | Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 5275:  ",
-    "str2": "A sandal tongue, a sandal, slipper"
+    "str2": "A sandal tongue, a sandal, slipper",
+    "num": 5275
   },
   {
     "word": "on",
@@ -61,7 +68,8 @@
     "translit": "(mê·‘al)",
     "parse": "Preposition-m",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "your feet",
@@ -69,7 +77,8 @@
     "translit": "(raḡ·le·ḵā)",
     "parse": "Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 7272:  ",
-    "str2": "A foot, a step, the pudenda"
+    "str2": "A foot, a step, the pudenda",
+    "num": 7272
   },
   {
     "word": "wore out;",
@@ -77,6 +86,7 @@
     "translit": "(ḇā·lū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 1086:  ",
-    "str2": "To fail, to wear out, decay"
+    "str2": "To fail, to wear out, decay",
+    "num": 1086
   }
 ]

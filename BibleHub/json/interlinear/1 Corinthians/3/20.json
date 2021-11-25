@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "again,",
@@ -13,7 +14,8 @@
     "translit": "(palin)",
     "parse": "Adverb",
     "str": "Strong's 3825:  ",
-    "str2": "Probably from the same as pale; anew, i.e. back, once more, or furthermore or on the other hand."
+    "str2": "Probably from the same as pale; anew, i.e. back, once more, or furthermore or on the other hand.",
+    "num": 3825
   },
   {
     "word": "“[The] Lord",
@@ -21,7 +23,8 @@
     "translit": "(Kyrios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "knows",
@@ -29,7 +32,8 @@
     "translit": "(ginōskei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1097:  ",
-    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications."
+    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications.",
+    "num": 1097
   },
   {
     "word": "that",
@@ -37,7 +41,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "thoughts",
@@ -53,7 +59,8 @@
     "translit": "(dialogismous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 1261:  ",
-    "str2": "From dialogizomai; discussion, i.e. consideration, or debate."
+    "str2": "From dialogizomai; discussion, i.e. consideration, or debate.",
+    "num": 1261
   },
   {
     "word": "of the",
@@ -61,7 +68,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "wise",
@@ -69,7 +77,8 @@
     "translit": "(sophōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 4680:  ",
-    "str2": "Wise, learned, cultivated, skilled, clever. Akin to saphes; wise."
+    "str2": "Wise, learned, cultivated, skilled, clever. Akin to saphes; wise.",
+    "num": 4680
   },
   {
     "word": "are",
@@ -77,7 +86,8 @@
     "translit": "(eisin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "futile.”",
@@ -85,6 +95,7 @@
     "translit": "(mataioi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3152:  ",
-    "str2": "Vain, unreal, ineffectual, unproductive; practically: godless. From the base of maten; empty, i.e. profitless, or, an idol."
+    "str2": "Vain, unreal, ineffectual, unproductive; practically: godless. From the base of maten; empty, i.e. profitless, or, an idol.",
+    "num": 3152
   }
 ]

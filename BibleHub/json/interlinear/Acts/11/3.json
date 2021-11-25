@@ -5,7 +5,8 @@
     "translit": "(legontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“You visited",
@@ -13,7 +14,8 @@
     "translit": "(Eisēlthes)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Singular",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "uncircumcised",
@@ -21,7 +23,8 @@
     "translit": "(akrobystian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 203:  ",
-    "str2": "From akron and probably a modified form of posthe; the prepuce; by implication, an uncircumcised state or person."
+    "str2": "From akron and probably a modified form of posthe; the prepuce; by implication, an uncircumcised state or person.",
+    "num": 203
   },
   {
     "word": "men",
@@ -29,7 +32,8 @@
     "translit": "(andras)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "ate with",
@@ -45,7 +50,8 @@
     "translit": "(synephages)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Singular",
     "str": "Strong's 4906:  ",
-    "str2": "To eat with. From sun and esthio; to take food in company with."
+    "str2": "To eat with. From sun and esthio; to take food in company with.",
+    "num": 4906
   },
   {
     "word": "them.”",
@@ -53,6 +59,7 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "you yourselves",
@@ -13,7 +14,8 @@
     "translit": "(hymeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "cheat",
@@ -21,7 +23,8 @@
     "translit": "(apostereite)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 650:  ",
-    "str2": "To defraud, deprive of, despoil; mid: I endure deprivation; pass: To be bereft of. From apo and stereo; to despoil."
+    "str2": "To defraud, deprive of, despoil; mid: I endure deprivation; pass: To be bereft of. From apo and stereo; to despoil.",
+    "num": 650
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "do wrong,",
@@ -37,7 +41,8 @@
     "translit": "(adikeite)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 91:  ",
-    "str2": "To act unjustly towards, injure, harm. From adikos; to be unjust, i.e. do wrong."
+    "str2": "To act unjustly towards, injure, harm. From adikos; to be unjust, i.e. do wrong.",
+    "num": 91
   },
   {
     "word": "even",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[against your own]",
@@ -53,7 +59,8 @@
     "translit": "(touto)",
     "parse": "Demonstrative Pronoun - Nominative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "brothers!",
@@ -61,6 +68,7 @@
     "translit": "(adelphous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   }
 ]

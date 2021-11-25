@@ -5,7 +5,8 @@
     "translit": "(’ā·nō·ḵî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "am a stranger",
@@ -13,7 +14,8 @@
     "translit": "(gêr)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1616:  ",
-    "str2": "A guest, a foreigner"
+    "str2": "A guest, a foreigner",
+    "num": 1616
   },
   {
     "word": "on the earth;",
@@ -21,7 +23,8 @@
     "translit": "(ḇā·’ā·reṣ)",
     "parse": "Preposition-b, Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "do not",
@@ -29,7 +32,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "hide",
@@ -37,7 +41,8 @@
     "translit": "(tas·têr)",
     "parse": "Verb - Hifil - Imperfect Jussive - second person masculine singular",
     "str": "Strong's 5641:  ",
-    "str2": "To hide, conceal"
+    "str2": "To hide, conceal",
+    "num": 5641
   },
   {
     "word": "Your commandments",
@@ -45,7 +50,8 @@
     "translit": "(miṣ·wō·ṯe·ḵā)",
     "parse": "Noun - feminine plural construct | second person masculine singular",
     "str": "Strong's 4687:  ",
-    "str2": "Commandment"
+    "str2": "Commandment",
+    "num": 4687
   },
   {
     "word": "from me.",
@@ -53,6 +59,7 @@
     "translit": "(mim·men·nî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   }
 ]

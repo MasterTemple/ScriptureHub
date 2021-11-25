@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "this is what",
@@ -13,7 +14,8 @@
     "translit": "(ḵōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "of Hosts",
@@ -29,7 +32,8 @@
     "translit": "(ṣə·ḇā·’ō·wṯ)",
     "parse": "Noun - common plural",
     "str": "Strong's 6635:  ",
-    "str2": "A mass of persons, reg, organized for, war, a campaign"
+    "str2": "A mass of persons, reg, organized for, war, a campaign",
+    "num": 6635
   },
   {
     "word": "says:",
@@ -37,7 +41,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“Cut down",
@@ -45,7 +50,8 @@
     "translit": "(kir·ṯū)",
     "parse": "Verb - Qal - Imperative - masculine plural",
     "str": "Strong's 3772:  ",
-    "str2": "To cut, to destroy, consume, to covenant"
+    "str2": "To cut, to destroy, consume, to covenant",
+    "num": 3772
   },
   {
     "word": "the trees",
@@ -53,7 +59,8 @@
     "translit": "(‘ê·ṣāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 6097:  ",
-    "str2": "Timber"
+    "str2": "Timber",
+    "num": 6097
   },
   {
     "word": "and raise",
@@ -61,7 +68,8 @@
     "translit": "(wə·šip̄·ḵū)",
     "parse": "Conjunctive waw | Verb - Qal - Imperative - masculine plural",
     "str": "Strong's 8210:  ",
-    "str2": "To spill forth, to expend, to sprawl out"
+    "str2": "To spill forth, to expend, to sprawl out",
+    "num": 8210
   },
   {
     "word": "a siege ramp",
@@ -69,7 +77,8 @@
     "translit": "(sō·lə·lāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 5550:  ",
-    "str2": "A military mound, rampart of besiegers"
+    "str2": "A military mound, rampart of besiegers",
+    "num": 5550
   },
   {
     "word": "against",
@@ -77,7 +86,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "Jerusalem.",
@@ -85,7 +95,8 @@
     "translit": "(yə·rū·šā·lim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 3389:  ",
-    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel"
+    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel",
+    "num": 3389
   },
   {
     "word": "This",
@@ -93,7 +104,8 @@
     "translit": "(hî)",
     "parse": "Pronoun - third person feminine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "city",
@@ -101,7 +113,8 @@
     "translit": "(hā·‘îr)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "must be punished;",
@@ -109,7 +122,8 @@
     "translit": "(hā·p̄ə·qaḏ)",
     "parse": "Verb - Hofal - Perfect - third person masculine singular",
     "str": "Strong's 6485:  ",
-    "str2": "To visit, to oversee, muster, charge, care for, miss, deposit"
+    "str2": "To visit, to oversee, muster, charge, care for, miss, deposit",
+    "num": 6485
   },
   {
     "word": "there is nothing but",
@@ -117,7 +131,8 @@
     "translit": "(kul·lāh)",
     "parse": "Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "oppression",
@@ -125,7 +140,8 @@
     "translit": "(‘ō·šeq)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6233:  ",
-    "str2": "Injury, fraud, distress, unjust gain"
+    "str2": "Injury, fraud, distress, unjust gain",
+    "num": 6233
   },
   {
     "word": "in her midst.",
@@ -133,6 +149,7 @@
     "translit": "(bə·qir·bāh)",
     "parse": "Preposition-b | Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 7130:  ",
-    "str2": "The nearest part, the center"
+    "str2": "The nearest part, the center",
+    "num": 7130
   }
 ]

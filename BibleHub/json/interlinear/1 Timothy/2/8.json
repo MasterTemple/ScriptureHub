@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "I want",
@@ -13,7 +14,8 @@
     "translit": "(Boulomai)",
     "parse": "Verb - Present Indicative Middle or Passive - 1st Person Singular",
     "str": "Strong's 1014:  ",
-    "str2": "To will, intend, desire, wish. Middle voice of a primary verb; to 'will, ' i.e. be willing."
+    "str2": "To will, intend, desire, wish. Middle voice of a primary verb; to 'will, ' i.e. be willing.",
+    "num": 1014
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "men",
@@ -29,7 +32,8 @@
     "translit": "(andras)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "everywhere",
@@ -37,7 +41,8 @@
     "translit": "(topō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 5117:  ",
-    "str2": "Apparently a primary word; a spot, i.e. Location; figuratively, condition, opportunity; specially, a scabbard."
+    "str2": "Apparently a primary word; a spot, i.e. Location; figuratively, condition, opportunity; specially, a scabbard.",
+    "num": 5117
   },
   {
     "word": "to pray,",
@@ -45,7 +50,8 @@
     "translit": "(proseuchesthai)",
     "parse": "Verb - Present Infinitive Middle or Passive",
     "str": "Strong's 4336:  ",
-    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship."
+    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship.",
+    "num": 4336
   },
   {
     "word": "lifting up",
@@ -53,7 +59,8 @@
     "translit": "(epairontas)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Plural",
     "str": "Strong's 1869:  ",
-    "str2": "To raise, lift up. From epi and airo; to raise up."
+    "str2": "To raise, lift up. From epi and airo; to raise up.",
+    "num": 1869
   },
   {
     "word": "holy",
@@ -61,7 +68,8 @@
     "translit": "(hosious)",
     "parse": "Adjective - Accusative Feminine Plural",
     "str": "Strong's 3741:  ",
-    "str2": "Holy, pious, godly, beloved of God. Of uncertain affinity; properly, right, i.e. Hallowed."
+    "str2": "Holy, pious, godly, beloved of God. Of uncertain affinity; properly, right, i.e. Hallowed.",
+    "num": 3741
   },
   {
     "word": "hands,",
@@ -69,7 +77,8 @@
     "translit": "(cheiras)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 5495:  ",
-    "str2": "A hand. "
+    "str2": "A hand. ",
+    "num": 5495
   },
   {
     "word": "without",
@@ -77,7 +86,8 @@
     "translit": "(chōris)",
     "parse": "Preposition",
     "str": "Strong's 5565:  ",
-    "str2": "Apart from, separately from; without. Adverb from chora; at a space, i.e. Separately or apart from."
+    "str2": "Apart from, separately from; without. Adverb from chora; at a space, i.e. Separately or apart from.",
+    "num": 5565
   },
   {
     "word": "anger",
@@ -85,7 +95,8 @@
     "translit": "(orgēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 3709:  ",
-    "str2": "From oregomai; properly, desire, i.e., violent passion (justifiable) abhorrence); by implication punishment."
+    "str2": "From oregomai; properly, desire, i.e., violent passion (justifiable) abhorrence); by implication punishment.",
+    "num": 3709
   },
   {
     "word": "[or]",
@@ -93,7 +104,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "dissension.",
@@ -101,6 +113,7 @@
     "translit": "(dialogismou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 1261:  ",
-    "str2": "From dialogizomai; discussion, i.e. consideration, or debate."
+    "str2": "From dialogizomai; discussion, i.e. consideration, or debate.",
+    "num": 1261
   }
 ]

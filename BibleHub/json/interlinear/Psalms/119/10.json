@@ -5,7 +5,8 @@
     "translit": "(bə·ḵāl)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "my heart",
@@ -13,7 +14,8 @@
     "translit": "(lib·bî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 3820:  ",
-    "str2": "The heart, the feelings, the will, the intellect, centre"
+    "str2": "The heart, the feelings, the will, the intellect, centre",
+    "num": 3820
   },
   {
     "word": "I have sought You;",
@@ -21,7 +23,8 @@
     "translit": "(ḏə·raš·tî·ḵā)",
     "parse": "Verb - Qal - Perfect - first person common singular | second person masculine singular",
     "str": "Strong's 1875:  ",
-    "str2": "To tread, frequent, to follow, to seek, ask, to worship"
+    "str2": "To tread, frequent, to follow, to seek, ask, to worship",
+    "num": 1875
   },
   {
     "word": "do not",
@@ -29,7 +32,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "let me stray",
@@ -37,7 +41,8 @@
     "translit": "(taš·gê·nî)",
     "parse": "Verb - Hifil - Imperfect - second person masculine singular | first person common singular",
     "str": "Strong's 7686:  ",
-    "str2": "To stray, to mistake, to transgress, to reel, be enraptured"
+    "str2": "To stray, to mistake, to transgress, to reel, be enraptured",
+    "num": 7686
   },
   {
     "word": "from Your commandments.",
@@ -45,6 +50,7 @@
     "translit": "(mim·miṣ·wō·ṯe·ḵā)",
     "parse": "Preposition-m | Noun - feminine plural construct | second person masculine singular",
     "str": "Strong's 4687:  ",
-    "str2": "Commandment"
+    "str2": "Commandment",
+    "num": 4687
   }
 ]

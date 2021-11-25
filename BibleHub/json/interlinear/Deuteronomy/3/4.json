@@ -5,7 +5,8 @@
     "translit": "(ha·hi·w)",
     "parse": "Article | Pronoun - third person feminine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "time",
@@ -13,7 +14,8 @@
     "translit": "(bā·‘êṯ)",
     "parse": "Preposition-b, Article | Noun - common singular",
     "str": "Strong's 6256:  ",
-    "str2": "Time, now, when"
+    "str2": "Time, now, when",
+    "num": 6256
   },
   {
     "word": "we captured",
@@ -21,7 +23,8 @@
     "translit": "(wan·nil·kōḏ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - first person common plural",
     "str": "Strong's 3920:  ",
-    "str2": "To catch, to capture, occupy, to choose, to cohere"
+    "str2": "To catch, to capture, occupy, to choose, to cohere",
+    "num": 3920
   },
   {
     "word": "all",
@@ -29,7 +32,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "sixty",
@@ -37,7 +41,8 @@
     "translit": "(šiš·šîm)",
     "parse": "Number - common plural",
     "str": "Strong's 8346:  ",
-    "str2": "Sixty"
+    "str2": "Sixty",
+    "num": 8346
   },
   {
     "word": "of his cities.",
@@ -45,7 +50,8 @@
     "translit": "(‘ā·rāw)",
     "parse": "Noun - feminine plural construct | third person masculine singular",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "There was not",
@@ -53,7 +59,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "a single city",
@@ -61,7 +68,8 @@
     "translit": "(qir·yāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 7151:  ",
-    "str2": "A town, city"
+    "str2": "A town, city",
+    "num": 7151
   },
   {
     "word": "we failed to",
@@ -69,7 +77,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "take—",
@@ -77,7 +86,8 @@
     "translit": "(lā·qaḥ·nū)",
     "parse": "Verb - Qal - Perfect - first person common plural",
     "str": "Strong's 3947:  ",
-    "str2": "To take"
+    "str2": "To take",
+    "num": 3947
   },
   {
     "word": "the entire",
@@ -85,7 +95,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "region",
@@ -93,7 +104,8 @@
     "translit": "(ḥe·ḇel)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 2256:  ",
-    "str2": "A rope, a measuring line, a district, inheritance, a noose, a company, a throe, ruin"
+    "str2": "A rope, a measuring line, a district, inheritance, a noose, a company, a throe, ruin",
+    "num": 2256
   },
   {
     "word": "of Argob,",
@@ -101,7 +113,8 @@
     "translit": "(’ar·gōḇ)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 709:  ",
-    "str2": "Argob"
+    "str2": "Argob",
+    "num": 709
   },
   {
     "word": "the kingdom",
@@ -109,7 +122,8 @@
     "translit": "(mam·le·ḵeṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 4467:  ",
-    "str2": "Kingdom, sovereignty, dominion, reign"
+    "str2": "Kingdom, sovereignty, dominion, reign",
+    "num": 4467
   },
   {
     "word": "of Og",
@@ -117,7 +131,8 @@
     "translit": "(‘ō·wḡ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 5747:  ",
-    "str2": "Og -- king of Bashan"
+    "str2": "Og -- king of Bashan",
+    "num": 5747
   },
   {
     "word": "in Bashan.",
@@ -125,6 +140,7 @@
     "translit": "(bab·bā·šān)",
     "parse": "Preposition-b, Article | Noun - proper - feminine singular",
     "str": "Strong's 1316:  ",
-    "str2": "Bashan -- 'smooth', a region East of the Jordan"
+    "str2": "Bashan -- 'smooth', a region East of the Jordan",
+    "num": 1316
   }
 ]

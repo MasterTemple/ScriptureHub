@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "at [that] time,",
@@ -13,7 +14,8 @@
     "translit": "(lə·‘eṯ-)",
     "parse": "Preposition-l | Noun - common singular construct",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "men came",
@@ -21,7 +23,8 @@
     "translit": "(yā·ḇō·’ū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "to",
@@ -29,7 +32,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "David",
@@ -37,7 +41,8 @@
     "translit": "(dā·wîḏ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 1732:  ",
-    "str2": "David -- perhaps 'beloved one', a son of Jesse"
+    "str2": "David -- perhaps 'beloved one', a son of Jesse",
+    "num": 1732
   },
   {
     "word": "day",
@@ -45,7 +50,8 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "after day",
@@ -53,7 +59,8 @@
     "translit": "(bə·yō·wm)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "to help him,",
@@ -61,7 +68,8 @@
     "translit": "(lə·‘ā·zə·rōw)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct | third person masculine singular",
     "str": "Strong's 5826:  ",
-    "str2": "To surround, protect, aid"
+    "str2": "To surround, protect, aid",
+    "num": 5826
   },
   {
     "word": "until",
@@ -69,7 +77,8 @@
     "translit": "(‘aḏ-)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "he had a great",
@@ -77,7 +86,8 @@
     "translit": "(ḡā·ḏō·wl)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 1419:  ",
-    "str2": "Great, older, insolent"
+    "str2": "Great, older, insolent",
+    "num": 1419
   },
   {
     "word": "army,",
@@ -85,7 +95,8 @@
     "translit": "(lə·ma·ḥă·neh)",
     "parse": "Preposition-l | Noun - common singular",
     "str": "Strong's 4264:  ",
-    "str2": "An encampment, an army"
+    "str2": "An encampment, an army",
+    "num": 4264
   },
   {
     "word": "like the army",
@@ -93,7 +104,8 @@
     "translit": "(kə·ma·ḥă·nêh)",
     "parse": "Preposition-k | Noun - common singular construct",
     "str": "Strong's 4264:  ",
-    "str2": "An encampment, an army"
+    "str2": "An encampment, an army",
+    "num": 4264
   },
   {
     "word": "of God.",
@@ -101,6 +113,7 @@
     "translit": "(’ĕ·lō·hîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   }
 ]

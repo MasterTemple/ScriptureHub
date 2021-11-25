@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "these things",
@@ -13,7 +14,8 @@
     "translit": "(toutōn)",
     "parse": "Demonstrative Pronoun - Genitive Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "begin",
@@ -21,7 +23,8 @@
     "translit": "(archomenōn)",
     "parse": "Verb - Present Participle Middle - Genitive Neuter Plural",
     "str": "Strong's 756:  ",
-    "str2": "To begin. Middle voice of archo; to commence."
+    "str2": "To begin. Middle voice of archo; to commence.",
+    "num": 756
   },
   {
     "word": "to happen,",
@@ -29,7 +32,8 @@
     "translit": "(ginesthai)",
     "parse": "Verb - Present Infinitive Middle or Passive",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "stand up",
@@ -37,7 +41,8 @@
     "translit": "(anakypsate)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 352:  ",
-    "str2": "To raise myself, look up, be elated. From ana and kupto; to unbend, i.e. Rise; figuratively, be elated."
+    "str2": "To raise myself, look up, be elated. From ana and kupto; to unbend, i.e. Rise; figuratively, be elated.",
+    "num": 352
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "lift up",
@@ -53,7 +59,8 @@
     "translit": "(eparate)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 1869:  ",
-    "str2": "To raise, lift up. From epi and airo; to raise up."
+    "str2": "To raise, lift up. From epi and airo; to raise up.",
+    "num": 1869
   },
   {
     "word": "your",
@@ -61,7 +68,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "heads,",
@@ -69,7 +77,8 @@
     "translit": "(kephalas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 2776:  ",
-    "str2": "From the primary kapto; the head, literally or figuratively."
+    "str2": "From the primary kapto; the head, literally or figuratively.",
+    "num": 2776
   },
   {
     "word": "because",
@@ -77,7 +86,8 @@
     "translit": "(dioti)",
     "parse": "Conjunction",
     "str": "Strong's 1360:  ",
-    "str2": "On this account, because, for. From dia and hoti; on the very account that, or inasmuch as."
+    "str2": "On this account, because, for. From dia and hoti; on the very account that, or inasmuch as.",
+    "num": 1360
   },
   {
     "word": "your",
@@ -85,7 +95,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "redemption",
@@ -93,7 +104,8 @@
     "translit": "(apolytrōsis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 629:  ",
-    "str2": "From a compound of apo and lutron; ransom in full, i.e. riddance, or Christian salvation."
+    "str2": "From a compound of apo and lutron; ransom in full, i.e. riddance, or Christian salvation.",
+    "num": 629
   },
   {
     "word": "is drawing near.”",
@@ -101,6 +113,7 @@
     "translit": "(engizei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1448:  ",
-    "str2": "Trans: I bring near; intrans: I come near, approach. From eggus; to make near, i.e. approach."
+    "str2": "Trans: I bring near; intrans: I come near, approach. From eggus; to make near, i.e. approach.",
+    "num": 1448
   }
 ]

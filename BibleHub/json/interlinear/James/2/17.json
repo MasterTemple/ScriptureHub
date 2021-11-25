@@ -5,7 +5,8 @@
     "translit": "(houtōs)",
     "parse": "Adverb",
     "str": "Strong's 3779:  ",
-    "str2": "Thus, so, in this manner. Or (referring to what precedes or follows)."
+    "str2": "Thus, so, in this manner. Or (referring to what precedes or follows).",
+    "num": 3779
   },
   {
     "word": "too,",
@@ -13,7 +14,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "faith",
@@ -21,7 +23,8 @@
     "translit": "(pistis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4102:  ",
-    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. "
+    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. ",
+    "num": 4102
   },
   {
     "word": "by",
@@ -29,7 +32,8 @@
     "translit": "(kath’)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "itself,",
@@ -37,7 +41,8 @@
     "translit": "(heautēn)",
     "parse": "Reflexive Pronoun - Accusative Feminine 3rd Person Singular",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   },
   {
     "word": "if",
@@ -45,7 +50,8 @@
     "translit": "(ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "it is not complemented",
@@ -53,7 +59,8 @@
     "translit": "(echē)",
     "parse": "Verb - Present Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "by action,",
@@ -61,7 +68,8 @@
     "translit": "(erga)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 2041:  ",
-    "str2": "From a primary ergo; toil; by implication, an act."
+    "str2": "From a primary ergo; toil; by implication, an act.",
+    "num": 2041
   },
   {
     "word": "is",
@@ -69,7 +77,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "dead.",
@@ -77,6 +86,7 @@
     "translit": "(nekra)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 3498:  ",
-    "str2": "(a) adj: dead, lifeless, subject to death, mortal, (b) noun: a dead body, a corpse. From an apparently primary nekus; dead."
+    "str2": "(a) adj: dead, lifeless, subject to death, mortal, (b) noun: a dead body, a corpse. From an apparently primary nekus; dead.",
+    "num": 3498
   }
 ]

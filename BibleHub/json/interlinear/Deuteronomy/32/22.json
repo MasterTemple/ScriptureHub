@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "a fire",
@@ -13,7 +14,8 @@
     "translit": "(’êš)",
     "parse": "Noun - common singular",
     "str": "Strong's 784:  ",
-    "str2": "A fire"
+    "str2": "A fire",
+    "num": 784
   },
   {
     "word": "has been kindled",
@@ -21,7 +23,8 @@
     "translit": "(qā·ḏə·ḥāh)",
     "parse": "Verb - Qal - Perfect - third person feminine singular",
     "str": "Strong's 6919:  ",
-    "str2": "To be kindled, kindle"
+    "str2": "To be kindled, kindle",
+    "num": 6919
   },
   {
     "word": "by My anger,",
@@ -29,7 +32,8 @@
     "translit": "(ḇə·’ap·pî)",
     "parse": "Preposition-b | Noun - masculine singular construct | first person common singular",
     "str": "Strong's 639:  ",
-    "str2": "The nose, nostril, the face, a person, ire"
+    "str2": "The nose, nostril, the face, a person, ire",
+    "num": 639
   },
   {
     "word": "and it burns",
@@ -37,7 +41,8 @@
     "translit": "(wat·tî·qaḏ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
     "str": "Strong's 3344:  ",
-    "str2": "To be kindled, to burn"
+    "str2": "To be kindled, to burn",
+    "num": 3344
   },
   {
     "word": "to",
@@ -45,7 +50,8 @@
     "translit": "(‘aḏ-)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "the depths",
@@ -53,7 +59,8 @@
     "translit": "(taḥ·tîṯ)",
     "parse": "Adjective - feminine singular",
     "str": "Strong's 8482:  ",
-    "str2": "Lowermost, the depths"
+    "str2": "Lowermost, the depths",
+    "num": 8482
   },
   {
     "word": "of Sheol;",
@@ -61,7 +68,8 @@
     "translit": "(šə·’ō·wl)",
     "parse": "Noun - common singular",
     "str": "Strong's 7585:  ",
-    "str2": "Underworld (place to which people descend at death)"
+    "str2": "Underworld (place to which people descend at death)",
+    "num": 7585
   },
   {
     "word": "it consumes",
@@ -69,7 +77,8 @@
     "translit": "(wat·tō·ḵal)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "the earth",
@@ -77,7 +86,8 @@
     "translit": "(’e·reṣ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "and its produce,",
@@ -85,7 +95,8 @@
     "translit": "(wî·ḇu·lāh)",
     "parse": "Conjunctive waw | Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 2981:  ",
-    "str2": "Produce, a crop, wealth"
+    "str2": "Produce, a crop, wealth",
+    "num": 2981
   },
   {
     "word": "and scorches",
@@ -93,7 +104,8 @@
     "translit": "(wat·tə·la·hêṭ)",
     "parse": "Conjunctive waw | Verb - Piel - Consecutive imperfect - third person feminine singular",
     "str": "Strong's 3857:  ",
-    "str2": "To blaze up, flame"
+    "str2": "To blaze up, flame",
+    "num": 3857
   },
   {
     "word": "the foundations",
@@ -101,7 +113,8 @@
     "translit": "(mō·ws·ḏê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 4146:  ",
-    "str2": "A foundation"
+    "str2": "A foundation",
+    "num": 4146
   },
   {
     "word": "of the mountains.",
@@ -109,6 +122,7 @@
     "translit": "(hā·rîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 2022:  ",
-    "str2": "Mountain, hill, hill country"
+    "str2": "Mountain, hill, hill country",
+    "num": 2022
   }
 ]

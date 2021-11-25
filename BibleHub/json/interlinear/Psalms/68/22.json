@@ -5,7 +5,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "said,",
@@ -13,7 +14,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“I will retrieve [them]",
@@ -21,7 +23,8 @@
     "translit": "(’ā·šîḇ)",
     "parse": "Verb - Hifil - Imperfect - first person common singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "from Bashan,",
@@ -29,7 +32,8 @@
     "translit": "(mib·bā·šān)",
     "parse": "Preposition-m | Noun - proper - feminine singular",
     "str": "Strong's 1316:  ",
-    "str2": "Bashan -- 'smooth', a region East of the Jordan"
+    "str2": "Bashan -- 'smooth', a region East of the Jordan",
+    "num": 1316
   },
   {
     "word": "I will bring [them] up",
@@ -37,7 +41,8 @@
     "translit": "(’ā·šîḇ)",
     "parse": "Verb - Hifil - Imperfect - first person common singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "from the depths",
@@ -45,7 +50,8 @@
     "translit": "(mim·mə·ṣu·lō·wṯ)",
     "parse": "Preposition-m | Noun - feminine plural construct",
     "str": "Strong's 4688:  ",
-    "str2": "A deep place"
+    "str2": "A deep place",
+    "num": 4688
   },
   {
     "word": "of the sea,",
@@ -53,6 +59,7 @@
     "translit": "(yām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3220:  ",
-    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin"
+    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin",
+    "num": 3220
   }
 ]

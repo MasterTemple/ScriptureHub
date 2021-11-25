@@ -5,7 +5,8 @@
     "translit": "(’a·ḥaṯ)",
     "parse": "Number - feminine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "gold",
@@ -13,7 +14,8 @@
     "translit": "(zā·hāḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2091:  ",
-    "str2": "Gold, something gold-colored, as oil, a clear sky"
+    "str2": "Gold, something gold-colored, as oil, a clear sky",
+    "num": 2091
   },
   {
     "word": "dish",
@@ -21,7 +23,8 @@
     "translit": "(kap̄)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 3709:  ",
-    "str2": "Hollow or flat of the hand, palm, sole (of the foot), a pan"
+    "str2": "Hollow or flat of the hand, palm, sole (of the foot), a pan",
+    "num": 3709
   },
   {
     "word": "weighing ten [shekels],",
@@ -29,7 +32,8 @@
     "translit": "(‘ă·śā·rāh)",
     "parse": "Number - masculine singular",
     "str": "Strong's 6235:  ",
-    "str2": "Ten"
+    "str2": "Ten",
+    "num": 6235
   },
   {
     "word": "filled with",
@@ -37,7 +41,8 @@
     "translit": "(mə·lê·’āh)",
     "parse": "Adjective - feminine singular",
     "str": "Strong's 4392:  ",
-    "str2": "Full, filling, fulness, fully"
+    "str2": "Full, filling, fulness, fully",
+    "num": 4392
   },
   {
     "word": "incense;",
@@ -45,6 +50,7 @@
     "translit": "(qə·ṭō·reṯ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 7004:  ",
-    "str2": "Smoke, odor of (burning) sacrifice, incense"
+    "str2": "Smoke, odor of (burning) sacrifice, incense",
+    "num": 7004
   }
 ]

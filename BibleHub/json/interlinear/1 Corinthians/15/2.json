@@ -5,7 +5,8 @@
     "translit": "(di’)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "[this gospel]",
@@ -13,7 +14,8 @@
     "translit": "(hou)",
     "parse": "Personal / Relative Pronoun - Genitive Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "you are saved,",
@@ -21,7 +23,8 @@
     "translit": "(sōzesthe)",
     "parse": "Verb - Present Indicative Middle or Passive - 2nd Person Plural",
     "str": "Strong's 4982:  ",
-    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect."
+    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect.",
+    "num": 4982
   },
   {
     "word": "if",
@@ -29,7 +32,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "you hold firmly",
@@ -37,7 +41,8 @@
     "translit": "(katechete)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 2722:  ",
-    "str2": "From kata and echo; to hold down, in various applications."
+    "str2": "From kata and echo; to hold down, in various applications.",
+    "num": 2722
   },
   {
     "word": "to the",
@@ -45,7 +50,8 @@
     "translit": "(tini)",
     "parse": "Interrogative / Indefinite Pronoun - Dative Masculine Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "word",
@@ -53,7 +59,8 @@
     "translit": "(logō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "I preached",
@@ -61,7 +68,8 @@
     "translit": "(euēngelisamēn)",
     "parse": "Verb - Aorist Indicative Middle - 1st Person Singular",
     "str": "Strong's 2097:  ",
-    "str2": "From eu and aggelos; to announce good news especially the gospel."
+    "str2": "From eu and aggelos; to announce good news especially the gospel.",
+    "num": 2097
   },
   {
     "word": "to you.",
@@ -69,7 +77,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "Otherwise,",
@@ -77,7 +86,8 @@
     "translit": "(ektos)",
     "parse": "Adverb",
     "str": "Strong's 1622:  ",
-    "str2": "From ek; the exterior; figuratively aside from, besides."
+    "str2": "From ek; the exterior; figuratively aside from, besides.",
+    "num": 1622
   },
   {
     "word": "you have believed",
@@ -85,7 +95,8 @@
     "translit": "(episteusate)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Plural",
     "str": "Strong's 4100:  ",
-    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust."
+    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust.",
+    "num": 4100
   },
   {
     "word": "in vain.",
@@ -93,6 +104,7 @@
     "translit": "(eikē)",
     "parse": "Adverb",
     "str": "Strong's 1500:  ",
-    "str2": "Without a cause, purpose; purposelessly, in vain, for nothing. Probably from eiko; idly, i.e. Without reason."
+    "str2": "Without a cause, purpose; purposelessly, in vain, for nothing. Probably from eiko; idly, i.e. Without reason.",
+    "num": 1500
   }
 ]

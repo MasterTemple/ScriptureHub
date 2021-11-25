@@ -5,7 +5,8 @@
     "translit": "(Age)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 71:  ",
-    "str2": "A primary verb; properly, to lead; by implication, to bring, drive, go, pass, or induce."
+    "str2": "A primary verb; properly, to lead; by implication, to bring, drive, go, pass, or induce.",
+    "num": 71
   },
   {
     "word": "now,",
@@ -13,7 +14,8 @@
     "translit": "(nyn)",
     "parse": "Adverb",
     "str": "Strong's 3568:  ",
-    "str2": "A primary particle of present time; 'now'; also as noun or adjective present or immediate."
+    "str2": "A primary particle of present time; 'now'; also as noun or adjective present or immediate.",
+    "num": 3568
   },
   {
     "word": "[you who are]",
@@ -21,7 +23,8 @@
     "translit": "(hoi)",
     "parse": "Article - Vocative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "rich,",
@@ -29,7 +32,8 @@
     "translit": "(plousioi)",
     "parse": "Adjective - Vocative Masculine Plural",
     "str": "Strong's 4145:  ",
-    "str2": "Rich, abounding in, wealthy; subst: a rich man. From ploutos; wealthy; figuratively, abounding with."
+    "str2": "Rich, abounding in, wealthy; subst: a rich man. From ploutos; wealthy; figuratively, abounding with.",
+    "num": 4145
   },
   {
     "word": "weep",
@@ -37,7 +41,8 @@
     "translit": "(klausate)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 2799:  ",
-    "str2": "To weep, weep for, mourn, lament. Of uncertain affinity; to sob, i.e. Wail aloud."
+    "str2": "To weep, weep for, mourn, lament. Of uncertain affinity; to sob, i.e. Wail aloud.",
+    "num": 2799
   },
   {
     "word": "[and] wail",
@@ -45,7 +50,8 @@
     "translit": "(ololyzontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 3649:  ",
-    "str2": "To howl, lament loudly, cry aloud, bewail. A reduplicated primary verb; to 'howl' or 'halloo', i.e. Shriek."
+    "str2": "To howl, lament loudly, cry aloud, bewail. A reduplicated primary verb; to 'howl' or 'halloo', i.e. Shriek.",
+    "num": 3649
   },
   {
     "word": "for",
@@ -53,7 +59,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "the",
@@ -61,7 +68,8 @@
     "translit": "(tais)",
     "parse": "Article - Dative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "misery",
@@ -69,7 +77,8 @@
     "translit": "(talaipōriais)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 5004:  ",
-    "str2": "Hardship, misery, distress, toil. From talaiporos; wretchedness, i.e. Calamity."
+    "str2": "Hardship, misery, distress, toil. From talaiporos; wretchedness, i.e. Calamity.",
+    "num": 5004
   },
   {
     "word": "to come",
@@ -77,7 +86,8 @@
     "translit": "(eperchomenais)",
     "parse": "Verb - Present Participle Middle or Passive - Dative Feminine Plural",
     "str": "Strong's 1904:  ",
-    "str2": "From epi and erchomai; to supervene, i.e. Arrive, occur, impend, attack, influence."
+    "str2": "From epi and erchomai; to supervene, i.e. Arrive, occur, impend, attack, influence.",
+    "num": 1904
   },
   {
     "word": "upon you.",
@@ -85,6 +95,7 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

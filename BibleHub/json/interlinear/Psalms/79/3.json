@@ -5,7 +5,8 @@
     "translit": "(šā·p̄ə·ḵū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 8210:  ",
-    "str2": "To spill forth, to expend, to sprawl out"
+    "str2": "To spill forth, to expend, to sprawl out",
+    "num": 8210
   },
   {
     "word": "their blood",
@@ -13,7 +14,8 @@
     "translit": "(ḏā·mām)",
     "parse": "Noun - masculine singular construct | third person masculine plural",
     "str": "Strong's 1818:  ",
-    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed"
+    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed",
+    "num": 1818
   },
   {
     "word": "like water",
@@ -21,7 +23,8 @@
     "translit": "(kam·ma·yim)",
     "parse": "Preposition-k, Article | Noun - masculine plural",
     "str": "Strong's 4325:  ",
-    "str2": "Water, juice, urine, semen"
+    "str2": "Water, juice, urine, semen",
+    "num": 4325
   },
   {
     "word": "all around",
@@ -29,7 +32,8 @@
     "translit": "(sə·ḇî·ḇō·wṯ)",
     "parse": "Adverb",
     "str": "Strong's 5439:  ",
-    "str2": "A circle, neighbour, environs, around"
+    "str2": "A circle, neighbour, environs, around",
+    "num": 5439
   },
   {
     "word": "Jerusalem,",
@@ -37,7 +41,8 @@
     "translit": "(yə·rū·šā·lim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 3389:  ",
-    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel"
+    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel",
+    "num": 3389
   },
   {
     "word": "and [there is] no one",
@@ -45,7 +50,8 @@
     "translit": "(wə·’ên)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "to bury [the dead].",
@@ -53,6 +59,7 @@
     "translit": "(qō·w·ḇêr)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 6912:  ",
-    "str2": "To inter"
+    "str2": "To inter",
+    "num": 6912
   }
 ]

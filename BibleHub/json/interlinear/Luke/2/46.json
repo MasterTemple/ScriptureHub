@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "after",
@@ -13,7 +14,8 @@
     "translit": "(meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "three",
@@ -21,7 +23,8 @@
     "translit": "(treis)",
     "parse": "Adjective - Accusative Feminine Plural",
     "str": "Strong's 5140:  ",
-    "str2": "Three. Or neuter tria a primary number; 'three'."
+    "str2": "Three. Or neuter tria a primary number; 'three'.",
+    "num": 5140
   },
   {
     "word": "days",
@@ -29,7 +32,8 @@
     "translit": "(hēmeras)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "they found",
@@ -37,7 +41,8 @@
     "translit": "(heuron)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2147:  ",
-    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find."
+    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find.",
+    "num": 2147
   },
   {
     "word": "Him",
@@ -45,7 +50,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "in",
@@ -53,7 +59,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -61,7 +68,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "temple courts,",
@@ -69,7 +77,8 @@
     "translit": "(hierō)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 2411:  ",
-    "str2": "Neuter of hieros; a sacred place, i.e. The entire precincts of the Temple."
+    "str2": "Neuter of hieros; a sacred place, i.e. The entire precincts of the Temple.",
+    "num": 2411
   },
   {
     "word": "sitting",
@@ -77,7 +86,8 @@
     "translit": "(kathezomenon)",
     "parse": "Verb - Present Participle Middle or Passive - Accusative Masculine Singular",
     "str": "Strong's 2516:  ",
-    "str2": "To be sitting, sit down, be seated. From kata and the base of hedraios; to sit down."
+    "str2": "To be sitting, sit down, be seated. From kata and the base of hedraios; to sit down.",
+    "num": 2516
   },
   {
     "word": "among",
@@ -85,7 +95,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -93,7 +104,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "teachers,",
@@ -101,7 +113,8 @@
     "translit": "(didaskalōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 1320:  ",
-    "str2": "A teacher, master. From didasko; an instructor."
+    "str2": "A teacher, master. From didasko; an instructor.",
+    "num": 1320
   },
   {
     "word": "listening to",
@@ -109,7 +122,8 @@
     "translit": "(akouonta)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Singular",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "them",
@@ -117,7 +131,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "and",
@@ -125,7 +140,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "asking them questions.",
@@ -133,6 +149,7 @@
     "translit": "(eperōtōnta)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Singular",
     "str": "Strong's 1905:  ",
-    "str2": "To interrogate, question, demand of. From epi and erotao; to ask for, i.e. Inquire, seek."
+    "str2": "To interrogate, question, demand of. From epi and erotao; to ask for, i.e. Inquire, seek.",
+    "num": 1905
   }
 ]

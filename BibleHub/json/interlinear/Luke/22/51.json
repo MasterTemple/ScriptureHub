@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Jesus",
@@ -13,7 +14,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "answered,",
@@ -21,7 +23,8 @@
     "translit": "(Apokritheis)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Singular",
     "str": "Strong's 611:  ",
-    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak."
+    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak.",
+    "num": 611
   },
   {
     "word": "“No more",
@@ -29,7 +32,8 @@
     "translit": "(Eate)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 1439:  ",
-    "str2": "To allow, permit, let alone, leave. Of uncertain affinity; to let be, i.e. Permit or leave alone."
+    "str2": "To allow, permit, let alone, leave. Of uncertain affinity; to let be, i.e. Permit or leave alone.",
+    "num": 1439
   },
   {
     "word": "of this!”",
@@ -37,7 +41,8 @@
     "translit": "(toutou)",
     "parse": "Demonstrative Pronoun - Genitive Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "And",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[He] touched",
@@ -53,7 +59,8 @@
     "translit": "(hapsamenos)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Singular",
     "str": "Strong's 680:  ",
-    "str2": "Prop: I fasten to; I lay hold of, touch, know carnally. Reflexive of hapto; properly, to attach oneself to, i.e. To touch."
+    "str2": "Prop: I fasten to; I lay hold of, touch, know carnally. Reflexive of hapto; properly, to attach oneself to, i.e. To touch.",
+    "num": 680
   },
   {
     "word": "the [man’s]",
@@ -61,7 +68,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "ear",
@@ -69,7 +77,8 @@
     "translit": "(ōtiou)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 5621:  ",
-    "str2": "An ear. Diminutive of ous; an earlet, i.e. One of the ears, or perhaps the lobe of the ear."
+    "str2": "An ear. Diminutive of ous; an earlet, i.e. One of the ears, or perhaps the lobe of the ear.",
+    "num": 5621
   },
   {
     "word": "[and] healed",
@@ -77,7 +86,8 @@
     "translit": "(iasato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 2390:  ",
-    "str2": "To heal, generally of the physical, sometimes of spiritual, disease. Middle voice of apparently a primary verb; to cure."
+    "str2": "To heal, generally of the physical, sometimes of spiritual, disease. Middle voice of apparently a primary verb; to cure.",
+    "num": 2390
   },
   {
     "word": "him.",
@@ -85,6 +95,7 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

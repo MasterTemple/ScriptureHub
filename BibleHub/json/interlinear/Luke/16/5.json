@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he called in",
@@ -13,7 +14,8 @@
     "translit": "(proskalesamenos)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Singular",
     "str": "Strong's 4341:  ",
-    "str2": "To call to myself, summon. Middle voice from pros and kaleo; to call toward oneself, i.e. Summon, invite."
+    "str2": "To call to myself, summon. Middle voice from pros and kaleo; to call toward oneself, i.e. Summon, invite.",
+    "num": 4341
   },
   {
     "word": "each",
@@ -21,7 +23,8 @@
     "translit": "(hekaston)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 1538:  ",
-    "str2": "Each (of more than two), every one. As if a superlative of hekas; each or every."
+    "str2": "Each (of more than two), every one. As if a superlative of hekas; each or every.",
+    "num": 1538
   },
   {
     "word": "one",
@@ -29,7 +32,8 @@
     "translit": "(hena)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 1520:  ",
-    "str2": "One. (including the neuter Hen); a primary numeral; one."
+    "str2": "One. (including the neuter Hen); a primary numeral; one.",
+    "num": 1520
   },
   {
     "word": "of his",
@@ -37,7 +41,8 @@
     "translit": "(heautou)",
     "parse": "Reflexive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   },
   {
     "word": "master’s",
@@ -45,7 +50,8 @@
     "translit": "(kyriou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "debtors.",
@@ -53,7 +59,8 @@
     "translit": "(chreopheiletōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 5533:  ",
-    "str2": "A debtor. From a derivative of chrao and opheiletes; a loan-ower, i.e. Indebted person."
+    "str2": "A debtor. From a derivative of chrao and opheiletes; a loan-ower, i.e. Indebted person.",
+    "num": 5533
   },
   {
     "word": "‘How much",
@@ -61,7 +68,8 @@
     "translit": "(Poson)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Neuter Singular",
     "str": "Strong's 4214:  ",
-    "str2": "How much, how great, how many. From an absolute pos and hos; interrogative pronoun how much (plural) many)."
+    "str2": "How much, how great, how many. From an absolute pos and hos; interrogative pronoun how much (plural) many).",
+    "num": 4214
   },
   {
     "word": "do you owe",
@@ -69,7 +77,8 @@
     "translit": "(opheileis)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 3784:  ",
-    "str2": "Or, its prolonged form opheileo probably from the base of ophelos; to owe; figuratively, to be under obligation; morally, to fail in duty."
+    "str2": "Or, its prolonged form opheileo probably from the base of ophelos; to owe; figuratively, to be under obligation; morally, to fail in duty.",
+    "num": 3784
   },
   {
     "word": "my",
@@ -77,7 +86,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "master?’",
@@ -85,7 +95,8 @@
     "translit": "(kyriō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "he asked",
@@ -93,7 +104,8 @@
     "translit": "(elegen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "first.",
@@ -109,6 +122,7 @@
     "translit": "(prōtō)",
     "parse": "Adjective - Dative Masculine Singular",
     "str": "Strong's 4413:  ",
-    "str2": "First, before, principal, most important. Contracted superlative of pro; foremost."
+    "str2": "First, before, principal, most important. Contracted superlative of pro; foremost.",
+    "num": 4413
   }
 ]

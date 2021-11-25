@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "about",
@@ -13,7 +14,8 @@
     "translit": "(Peri)",
     "parse": "Preposition",
     "str": "Strong's 4012:  ",
-    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time.",
+    "num": 4012
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "service",
@@ -29,7 +32,8 @@
     "translit": "(diakonias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1248:  ",
-    "str2": "Waiting at table; in a wider sense: service, ministration. From diakonos; attendance; figuratively aid, service."
+    "str2": "Waiting at table; in a wider sense: service, ministration. From diakonos; attendance; figuratively aid, service.",
+    "num": 1248
   },
   {
     "word": "to",
@@ -37,7 +41,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "saints,",
@@ -53,7 +59,8 @@
     "translit": "(hagious)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   },
   {
     "word": "there is",
@@ -61,7 +68,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "no need",
@@ -69,7 +77,8 @@
     "translit": "(perisson)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 4053:  ",
-    "str2": "From peri; superabundant or superior; by implication, excessive; adverbially violently; neuter preeminence."
+    "str2": "From peri; superabundant or superior; by implication, excessive; adverbially violently; neuter preeminence.",
+    "num": 4053
   },
   {
     "word": "for me",
@@ -77,7 +86,8 @@
     "translit": "(moi)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "to write",
@@ -85,7 +95,8 @@
     "translit": "(graphein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 1125:  ",
-    "str2": "A primary verb; to 'grave', especially to write; figuratively, to describe."
+    "str2": "A primary verb; to 'grave', especially to write; figuratively, to describe.",
+    "num": 1125
   },
   {
     "word": "to you.",
@@ -93,6 +104,7 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

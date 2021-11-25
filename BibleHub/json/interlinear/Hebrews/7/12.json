@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "priesthood",
@@ -21,7 +23,8 @@
     "translit": "(hierōsynēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2420:  ",
-    "str2": "The abstract notion of the priestly office. From hieros; sacredness, i.e. the priestly office."
+    "str2": "The abstract notion of the priestly office. From hieros; sacredness, i.e. the priestly office.",
+    "num": 2420
   },
   {
     "word": "is changed,",
@@ -29,7 +32,8 @@
     "translit": "(metatithemenēs)",
     "parse": "Verb - Present Participle Middle or Passive - Genitive Feminine Singular",
     "str": "Strong's 3346:  ",
-    "str2": "From meta and tithemi; to transfer, i.e. transport, exchange, change sides, or pervert."
+    "str2": "From meta and tithemi; to transfer, i.e. transport, exchange, change sides, or pervert.",
+    "num": 3346
   },
   {
     "word": "[the] Law",
@@ -37,7 +41,8 @@
     "translit": "(nomou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3551:  ",
-    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively."
+    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively.",
+    "num": 3551
   },
   {
     "word": "must",
@@ -45,7 +50,8 @@
     "translit": "(anankēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 318:  ",
-    "str2": "From ana and the base of agkale; constraint; by implication, distress."
+    "str2": "From ana and the base of agkale; constraint; by implication, distress.",
+    "num": 318
   },
   {
     "word": "be changed",
@@ -53,7 +59,8 @@
     "translit": "(metathesis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3331:  ",
-    "str2": "(a) change, transformation, (b) removal. From metatithemi; transposition, i.e. Transferral, disestablishment."
+    "str2": "(a) change, transformation, (b) removal. From metatithemi; transposition, i.e. Transferral, disestablishment.",
+    "num": 3331
   },
   {
     "word": "as well.",
@@ -61,6 +68,7 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   }
 ]

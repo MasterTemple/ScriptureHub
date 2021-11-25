@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "not",
@@ -13,7 +14,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "our",
@@ -21,7 +23,8 @@
     "translit": "(hēmin)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "affection,",
@@ -29,7 +32,8 @@
     "translit": "(splanchnois)",
     "parse": "Noun - Dative Neuter Plural",
     "str": "Strong's 4698:  ",
-    "str2": "Probably strengthened from splen; an intestine; figuratively, pity or sympathy."
+    "str2": "Probably strengthened from splen; an intestine; figuratively, pity or sympathy.",
+    "num": 4698
   },
   {
     "word": "[but]",
@@ -37,7 +41,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "yours",
@@ -45,7 +50,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "that is restrained.",
@@ -53,6 +59,7 @@
     "translit": "(stenochōreisthe)",
     "parse": "Verb - Present Indicative Middle or Passive - 2nd Person Plural",
     "str": "Strong's 4729:  ",
-    "str2": "From the same as stenochoria; to hem in closely, i.e. cramp."
+    "str2": "From the same as stenochoria; to hem in closely, i.e. cramp.",
+    "num": 4729
   }
 ]

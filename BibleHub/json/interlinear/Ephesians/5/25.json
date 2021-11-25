@@ -5,7 +5,8 @@
     "translit": "(andres)",
     "parse": "Noun - Vocative Masculine Plural",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "love",
@@ -13,7 +14,8 @@
     "translit": "(agapate)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 25:  ",
-    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love."
+    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love.",
+    "num": 25
   },
   {
     "word": "[your]",
@@ -21,7 +23,8 @@
     "translit": "(tas)",
     "parse": "Article - Accusative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "wives,",
@@ -29,7 +32,8 @@
     "translit": "(gynaikas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 1135:  ",
-    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife."
+    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife.",
+    "num": 1135
   },
   {
     "word": "just",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "as",
@@ -45,7 +50,8 @@
     "translit": "(kathōs)",
     "parse": "Adverb",
     "str": "Strong's 2531:  ",
-    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that."
+    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that.",
+    "num": 2531
   },
   {
     "word": "Christ",
@@ -53,7 +59,8 @@
     "translit": "(Christos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "loved",
@@ -61,7 +68,8 @@
     "translit": "(ēgapēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 25:  ",
-    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love."
+    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love.",
+    "num": 25
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "church",
@@ -77,7 +86,8 @@
     "translit": "(ekklēsian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1577:  ",
-    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation."
+    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation.",
+    "num": 1577
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "gave Himself up",
@@ -93,7 +104,8 @@
     "translit": "(paredōken)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3860:  ",
-    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit."
+    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit.",
+    "num": 3860
   },
   {
     "word": "for",
@@ -101,7 +113,8 @@
     "translit": "(hyper)",
     "parse": "Preposition",
     "str": "Strong's 5228:  ",
-    "str2": "Gen: in behalf of; acc: above. "
+    "str2": "Gen: in behalf of; acc: above. ",
+    "num": 5228
   },
   {
     "word": "her",
@@ -109,6 +122,7 @@
     "translit": "(autēs)",
     "parse": "Personal / Possessive Pronoun - Genitive Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

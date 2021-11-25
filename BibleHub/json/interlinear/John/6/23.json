@@ -5,7 +5,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "[some] boats",
@@ -13,7 +14,8 @@
     "translit": "(ploiaria)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 4142:  ",
-    "str2": "(a little boat, hence) a boat. Neuter of a presumed derivative of ploion; a boat."
+    "str2": "(a little boat, hence) a boat. Neuter of a presumed derivative of ploion; a boat.",
+    "num": 4142
   },
   {
     "word": "from",
@@ -21,7 +23,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "Tiberias",
@@ -29,7 +32,8 @@
     "translit": "(Tiberiados)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 5085:  ",
-    "str2": "From Tiberios; Tiberias, the name of a town and a lake in Palestine."
+    "str2": "From Tiberios; Tiberias, the name of a town and a lake in Palestine.",
+    "num": 5085
   },
   {
     "word": "arrived",
@@ -37,7 +41,8 @@
     "translit": "(ēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "near",
@@ -45,7 +50,8 @@
     "translit": "(engys)",
     "parse": "Preposition",
     "str": "Strong's 1451:  ",
-    "str2": "Near. From a primary verb agcho; near."
+    "str2": "Near. From a primary verb agcho; near.",
+    "num": 1451
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "place",
@@ -61,7 +68,8 @@
     "translit": "(topou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 5117:  ",
-    "str2": "Apparently a primary word; a spot, i.e. Location; figuratively, condition, opportunity; specially, a scabbard."
+    "str2": "Apparently a primary word; a spot, i.e. Location; figuratively, condition, opportunity; specially, a scabbard.",
+    "num": 5117
   },
   {
     "word": "they had eaten",
@@ -69,7 +77,8 @@
     "translit": "(ephagon)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 5315:  ",
-    "str2": "A primary verb; to eat."
+    "str2": "A primary verb; to eat.",
+    "num": 5315
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "bread",
@@ -85,7 +95,8 @@
     "translit": "(arton)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 740:  ",
-    "str2": "Bread, a loaf, food. From airo; bread or a loaf."
+    "str2": "Bread, a loaf, food. From airo; bread or a loaf.",
+    "num": 740
   },
   {
     "word": "[after] the",
@@ -93,7 +104,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord",
@@ -101,7 +113,8 @@
     "translit": "(Kyriou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "had given thanks.",
@@ -109,6 +122,7 @@
     "translit": "(eucharistēsantos)",
     "parse": "Verb - Aorist Participle Active - Genitive Masculine Singular",
     "str": "Strong's 2168:  ",
-    "str2": "From eucharistos; to be grateful, i.e. to express gratitude; specially, to say grace at a meal."
+    "str2": "From eucharistos; to be grateful, i.e. to express gratitude; specially, to say grace at a meal.",
+    "num": 2168
   }
 ]

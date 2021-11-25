@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "Christ",
@@ -21,7 +23,8 @@
     "translit": "(Christos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "has not been raised,",
@@ -29,7 +32,8 @@
     "translit": "(egēgertai)",
     "parse": "Verb - Perfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1453:  ",
-    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse."
+    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse.",
+    "num": 1453
   },
   {
     "word": "our",
@@ -37,7 +41,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "preaching",
@@ -45,7 +50,8 @@
     "translit": "(kērygma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 2782:  ",
-    "str2": "A proclamation, preaching. From kerusso; a proclamation."
+    "str2": "A proclamation, preaching. From kerusso; a proclamation.",
+    "num": 2782
   },
   {
     "word": "[is] worthless,",
@@ -53,7 +59,8 @@
     "translit": "(kenon)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 2756:  ",
-    "str2": "Apparently a primary word; empty."
+    "str2": "Apparently a primary word; empty.",
+    "num": 2756
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[so is]",
@@ -69,7 +77,8 @@
     "translit": "(kenē)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 2756:  ",
-    "str2": "Apparently a primary word; empty."
+    "str2": "Apparently a primary word; empty.",
+    "num": 2756
   },
   {
     "word": "your",
@@ -77,7 +86,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "faith.",
@@ -85,6 +95,7 @@
     "translit": "(pistis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4102:  ",
-    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. "
+    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. ",
+    "num": 4102
   }
 ]

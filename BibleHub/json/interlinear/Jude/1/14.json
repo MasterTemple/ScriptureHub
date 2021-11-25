@@ -5,7 +5,8 @@
     "translit": "(Henōch)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 1802:  ",
-    "str2": "Enoch, son of Jared and father of Methuselah. Of Hebrew origin; Enoch, an antediluvian."
+    "str2": "Enoch, son of Jared and father of Methuselah. Of Hebrew origin; Enoch, an antediluvian.",
+    "num": 1802
   },
   {
     "word": "[the] seventh",
@@ -13,7 +14,8 @@
     "translit": "(hebdomos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1442:  ",
-    "str2": "Seventh. Ordinal from hepta; seventh."
+    "str2": "Seventh. Ordinal from hepta; seventh.",
+    "num": 1442
   },
   {
     "word": "from",
@@ -21,7 +23,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "Adam,",
@@ -29,7 +32,8 @@
     "translit": "(Adam)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 76:  ",
-    "str2": "Adam, the first man, the first parent of the human race. Of Hebrew origin; Adam, the first man; typically man."
+    "str2": "Adam, the first man, the first parent of the human race. Of Hebrew origin; Adam, the first man; typically man.",
+    "num": 76
   },
   {
     "word": "also",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "prophesied",
@@ -45,7 +50,8 @@
     "translit": "(Proephēteusen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 4395:  ",
-    "str2": "From prophetes; to foretell events, divine, speak under inspiration, exercise the prophetic office."
+    "str2": "From prophetes; to foretell events, divine, speak under inspiration, exercise the prophetic office.",
+    "num": 4395
   },
   {
     "word": "about them:",
@@ -53,7 +59,8 @@
     "translit": "(toutois)",
     "parse": "Demonstrative Pronoun - Dative Masculine Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "“Behold,",
@@ -61,7 +68,8 @@
     "translit": "(Idou)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 2400:  ",
-    "str2": "See! Lo! Behold! Look! Second person singular imperative middle voice of eido; used as imperative lo!"
+    "str2": "See! Lo! Behold! Look! Second person singular imperative middle voice of eido; used as imperative lo!",
+    "num": 2400
   },
   {
     "word": "[the] Lord",
@@ -69,7 +77,8 @@
     "translit": "(Kyrios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "is coming",
@@ -77,7 +86,8 @@
     "translit": "(ēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "with",
@@ -85,7 +95,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "myriads",
@@ -93,7 +104,8 @@
     "translit": "(myriasin)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 3461:  ",
-    "str2": "A myriad, group of ten thousand, a ten thousand. From murioi; a ten-thousand; by extension, a 'myriad' or indefinite number."
+    "str2": "A myriad, group of ten thousand, a ten thousand. From murioi; a ten-thousand; by extension, a 'myriad' or indefinite number.",
+    "num": 3461
   },
   {
     "word": "of His",
@@ -101,7 +113,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "holy [ones]",
@@ -109,6 +122,7 @@
     "translit": "(hagiais)",
     "parse": "Adjective - Dative Feminine Plural",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   }
 ]

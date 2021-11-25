@@ -5,7 +5,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "add",
@@ -13,7 +14,8 @@
     "translit": "(tō·wsp)",
     "parse": "Verb - Hifil - Imperfect Jussive - second person masculine singular",
     "str": "Strong's 3254:  ",
-    "str2": "To add, augment"
+    "str2": "To add, augment",
+    "num": 3254
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "His words,",
@@ -29,7 +32,8 @@
     "translit": "(də·ḇā·rāw)",
     "parse": "Noun - masculine plural construct | third person masculine singular",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "lest",
@@ -37,7 +41,8 @@
     "translit": "(pen-)",
     "parse": "Conjunction",
     "str": "Strong's 6435:  ",
-    "str2": "Removal, lest"
+    "str2": "Removal, lest",
+    "num": 6435
   },
   {
     "word": "He rebuke",
@@ -45,7 +50,8 @@
     "translit": "(yō·w·ḵî·aḥ)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular",
     "str": "Strong's 3198:  ",
-    "str2": "To be right, reciprocal, to argue, to decide, justify, convict"
+    "str2": "To be right, reciprocal, to argue, to decide, justify, convict",
+    "num": 3198
   },
   {
     "word": "you",
@@ -53,7 +59,8 @@
     "translit": "(bə·ḵā)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "and prove you a liar.",
@@ -61,6 +68,7 @@
     "translit": "(wə·niḵ·zā·ḇə·tā)",
     "parse": "Conjunctive waw | Verb - Nifal - Conjunctive perfect - second person masculine singular",
     "str": "Strong's 3576:  ",
-    "str2": "To lie, be a liar"
+    "str2": "To lie, be a liar",
+    "num": 3576
   }
 ]

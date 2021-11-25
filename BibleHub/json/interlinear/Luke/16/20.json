@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "a",
@@ -13,7 +14,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "beggar",
@@ -21,7 +23,8 @@
     "translit": "(ptōchos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 4434:  ",
-    "str2": "Poor, destitute, spiritually poor, either in a good sense (humble devout persons) or bad. "
+    "str2": "Poor, destitute, spiritually poor, either in a good sense (humble devout persons) or bad. ",
+    "num": 4434
   },
   {
     "word": "named",
@@ -29,7 +32,8 @@
     "translit": "(onomati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 3686:  ",
-    "str2": "Name, character, fame, reputation. From a presumed derivative of the base of ginosko; a 'name'."
+    "str2": "Name, character, fame, reputation. From a presumed derivative of the base of ginosko; a 'name'.",
+    "num": 3686
   },
   {
     "word": "Lazarus",
@@ -37,7 +41,8 @@
     "translit": "(Lazaros)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2976:  ",
-    "str2": "Probably of Hebrew origin; Lazarus, the name of two Israelites."
+    "str2": "Probably of Hebrew origin; Lazarus, the name of two Israelites.",
+    "num": 2976
   },
   {
     "word": "lay",
@@ -45,7 +50,8 @@
     "translit": "(ebeblēto)",
     "parse": "Verb - Pluperfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 906:  ",
-    "str2": "(a) I cast, throw, rush, (b) often, in the weaker sense: I place, put, drop. A primary verb; to throw."
+    "str2": "(a) I cast, throw, rush, (b) often, in the weaker sense: I place, put, drop. A primary verb; to throw.",
+    "num": 906
   },
   {
     "word": "at",
@@ -53,7 +59,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "his",
@@ -61,7 +68,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "gate,",
@@ -69,7 +77,8 @@
     "translit": "(pylōna)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 4440:  ",
-    "str2": "From pule; a gate-way, door-way of a building or city; by implication, a portal or vestibule."
+    "str2": "From pule; a gate-way, door-way of a building or city; by implication, a portal or vestibule.",
+    "num": 4440
   },
   {
     "word": "covered with sores",
@@ -77,6 +86,7 @@
     "translit": "(heilkōmenos)",
     "parse": "Verb - Perfect Participle Middle or Passive - Nominative Masculine Singular",
     "str": "Strong's 1669:  ",
-    "str2": "To afflict with sores; pass: To be afflicted with sores. From helkos; to cause to ulcerate, i.e. be ulcerous."
+    "str2": "To afflict with sores; pass: To be afflicted with sores. From helkos; to cause to ulcerate, i.e. be ulcerous.",
+    "num": 1669
   }
 ]

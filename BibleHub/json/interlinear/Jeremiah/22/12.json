@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "he will die",
@@ -13,7 +14,8 @@
     "translit": "(yā·mūṯ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   },
   {
     "word": "in the place",
@@ -21,7 +23,8 @@
     "translit": "(bim·qō·wm)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 4725:  ",
-    "str2": "A standing, a spot, a condition"
+    "str2": "A standing, a spot, a condition",
+    "num": 4725
   },
   {
     "word": "to which",
@@ -29,7 +32,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "he was exiled;",
@@ -37,7 +41,8 @@
     "translit": "(hiḡ·lū)",
     "parse": "Verb - Hifil - Perfect - third person common plural",
     "str": "Strong's 1540:  ",
-    "str2": "To denude, to exile, to reveal"
+    "str2": "To denude, to exile, to reveal",
+    "num": 1540
   },
   {
     "word": "he will never",
@@ -45,7 +50,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "see",
@@ -53,7 +59,8 @@
     "translit": "(yir·’eh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "this",
@@ -61,7 +68,8 @@
     "translit": "(haz·zōṯ)",
     "parse": "Article | Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "land",
@@ -69,7 +77,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "again.’”",
@@ -77,6 +86,7 @@
     "translit": "(‘ō·wḏ)",
     "parse": "Adverb",
     "str": "Strong's 5750:  ",
-    "str2": "Iteration, continuance, again, repeatedly, still, more"
+    "str2": "Iteration, continuance, again, repeatedly, still, more",
+    "num": 5750
   }
 ]

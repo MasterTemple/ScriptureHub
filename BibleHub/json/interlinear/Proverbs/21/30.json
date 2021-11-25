@@ -5,7 +5,8 @@
     "translit": "(’ên)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "wisdom,",
@@ -13,7 +14,8 @@
     "translit": "(ḥāḵ·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 2451:  ",
-    "str2": "Wisdom"
+    "str2": "Wisdom",
+    "num": 2451
   },
   {
     "word": "no",
@@ -21,7 +23,8 @@
     "translit": "(wə·’ên)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "understanding,",
@@ -29,7 +32,8 @@
     "translit": "(tə·ḇū·nāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 8394:  ",
-    "str2": "Intelligence, an argument, caprice"
+    "str2": "Intelligence, an argument, caprice",
+    "num": 8394
   },
   {
     "word": "and no",
@@ -37,7 +41,8 @@
     "translit": "(wə·’ên)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "counsel",
@@ -45,7 +50,8 @@
     "translit": "(‘ê·ṣāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 6098:  ",
-    "str2": "Advice, plan, prudence"
+    "str2": "Advice, plan, prudence",
+    "num": 6098
   },
   {
     "word": "can prevail against",
@@ -53,7 +59,8 @@
     "translit": "(lə·ne·ḡeḏ)",
     "parse": "Preposition-l",
     "str": "Strong's 5048:  ",
-    "str2": "A front, part opposite, a counterpart, mate, over against, before"
+    "str2": "A front, part opposite, a counterpart, mate, over against, before",
+    "num": 5048
   },
   {
     "word": "the LORD.",
@@ -61,6 +68,7 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   }
 ]

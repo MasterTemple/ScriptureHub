@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "this is what",
@@ -13,7 +14,8 @@
     "translit": "(ḵōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "of Hosts",
@@ -29,7 +32,8 @@
     "translit": "(ṣə·ḇā·’ō·wṯ)",
     "parse": "Noun - common plural",
     "str": "Strong's 6635:  ",
-    "str2": "A mass of persons, reg, organized for, war, a campaign"
+    "str2": "A mass of persons, reg, organized for, war, a campaign",
+    "num": 6635
   },
   {
     "word": "says:",
@@ -37,7 +41,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“Once",
@@ -45,7 +50,8 @@
     "translit": "(’a·ḥaṯ)",
     "parse": "Number - feminine singular construct",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "more,",
@@ -53,7 +59,8 @@
     "translit": "(‘ō·wḏ)",
     "parse": "Adverb",
     "str": "Strong's 5750:  ",
-    "str2": "Iteration, continuance, again, repeatedly, still, more"
+    "str2": "Iteration, continuance, again, repeatedly, still, more",
+    "num": 5750
   },
   {
     "word": "in a little while,",
@@ -61,7 +68,8 @@
     "translit": "(mə·‘aṭ)",
     "parse": "Adverb",
     "str": "Strong's 4592:  ",
-    "str2": "A little, fewness, a few"
+    "str2": "A little, fewness, a few",
+    "num": 4592
   },
   {
     "word": "I",
@@ -69,7 +77,8 @@
     "translit": "(wa·’ă·nî)",
     "parse": "Conjunctive waw | Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "will shake",
@@ -77,7 +86,8 @@
     "translit": "(mar·‘îš)",
     "parse": "Verb - Hifil - Participle - masculine singular",
     "str": "Strong's 7493:  ",
-    "str2": "To undulate, through fear, to spring"
+    "str2": "To undulate, through fear, to spring",
+    "num": 7493
   },
   {
     "word": "the heavens",
@@ -85,7 +95,8 @@
     "translit": "(haš·šā·ma·yim)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 8064:  ",
-    "str2": "Heaven, sky"
+    "str2": "Heaven, sky",
+    "num": 8064
   },
   {
     "word": "and the earth,",
@@ -93,7 +104,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "the sea",
@@ -101,7 +113,8 @@
     "translit": "(hay·yām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3220:  ",
-    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin"
+    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin",
+    "num": 3220
   },
   {
     "word": "and the dry land.",
@@ -109,6 +122,7 @@
     "translit": "(he·ḥā·rā·ḇāh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 2724:  ",
-    "str2": "Dry ground"
+    "str2": "Dry ground",
+    "num": 2724
   }
 ]

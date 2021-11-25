@@ -5,7 +5,8 @@
     "translit": "(Hote)",
     "parse": "Adverb",
     "str": "Strong's 3753:  ",
-    "str2": "When, at which time. From hos and te; at which too, i.e. When."
+    "str2": "When, at which time. From hos and te; at which too, i.e. When.",
+    "num": 3753
   },
   {
     "word": "we arrived",
@@ -13,7 +14,8 @@
     "translit": "(eisēlthomen)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Plural",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "in",
@@ -21,7 +23,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "Rome,",
@@ -29,7 +32,8 @@
     "translit": "(Rhōmēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4516:  ",
-    "str2": "From the base of rhonnumi; strength; Roma, the capital of Italy."
+    "str2": "From the base of rhonnumi; strength; Roma, the capital of Italy.",
+    "num": 4516
   },
   {
     "word": "Paul",
@@ -37,7 +41,8 @@
     "translit": "(Paulō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 3972:  ",
-    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle."
+    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle.",
+    "num": 3972
   },
   {
     "word": "was permitted",
@@ -45,7 +50,8 @@
     "translit": "(epetrapē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 2010:  ",
-    "str2": "To turn to, commit, entrust; I allow, yield, permit. From epi and the base of trope; to turn over, i.e. Allow."
+    "str2": "To turn to, commit, entrust; I allow, yield, permit. From epi and the base of trope; to turn over, i.e. Allow.",
+    "num": 2010
   },
   {
     "word": "to stay",
@@ -53,7 +59,8 @@
     "translit": "(menein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 3306:  ",
-    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay."
+    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay.",
+    "num": 3306
   },
   {
     "word": "by",
@@ -61,7 +68,8 @@
     "translit": "(kath’)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "himself,",
@@ -69,7 +77,8 @@
     "translit": "(heauton)",
     "parse": "Reflexive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   },
   {
     "word": "with",
@@ -77,7 +86,8 @@
     "translit": "(syn)",
     "parse": "Preposition",
     "str": "Strong's 4862:  ",
-    "str2": "With. A primary preposition denoting union; with or together."
+    "str2": "With. A primary preposition denoting union; with or together.",
+    "num": 4862
   },
   {
     "word": "a soldier",
@@ -85,7 +95,8 @@
     "translit": "(stratiōtē)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 4757:  ",
-    "str2": "A soldier. From a presumed derivative of the same as stratia; a camper-out, i.e. A warrior."
+    "str2": "A soldier. From a presumed derivative of the same as stratia; a camper-out, i.e. A warrior.",
+    "num": 4757
   },
   {
     "word": "to guard",
@@ -93,7 +104,8 @@
     "translit": "(phylassonti)",
     "parse": "Verb - Present Participle Active - Dative Masculine Singular",
     "str": "Strong's 5442:  ",
-    "str2": "Probably from phule through the idea of isolation; to watch, i.e. Be on guard; by implication, to preserve, obey, avoid."
+    "str2": "Probably from phule through the idea of isolation; to watch, i.e. Be on guard; by implication, to preserve, obey, avoid.",
+    "num": 5442
   },
   {
     "word": "him.",
@@ -101,6 +113,7 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

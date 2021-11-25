@@ -5,7 +5,8 @@
     "translit": "(Martha)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3136:  ",
-    "str2": "Martha, sister of Mary and Lazarus of Bethany. Probably of Chaldee origin; Martha, a Christian woman."
+    "str2": "Martha, sister of Mary and Lazarus of Bethany. Probably of Chaldee origin; Martha, a Christian woman.",
+    "num": 3136
   },
   {
     "word": "replied,",
@@ -13,7 +14,8 @@
     "translit": "(Legei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“I know",
@@ -21,7 +23,8 @@
     "translit": "(Oida)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Singular",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "that",
@@ -29,7 +32,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "he will rise again",
@@ -37,7 +41,8 @@
     "translit": "(anastēsetai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Singular",
     "str": "Strong's 450:  ",
-    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up."
+    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up.",
+    "num": 450
   },
   {
     "word": "in",
@@ -45,7 +50,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "resurrection",
@@ -61,7 +68,8 @@
     "translit": "(anastasei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 386:  ",
-    "str2": "A rising again, resurrection. From anistemi; a standing up again, i.e. a resurrection from death (its author), or a recovery."
+    "str2": "A rising again, resurrection. From anistemi; a standing up again, i.e. a resurrection from death (its author), or a recovery.",
+    "num": 386
   },
   {
     "word": "at",
@@ -69,7 +77,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "last",
@@ -85,7 +95,8 @@
     "translit": "(eschatē)",
     "parse": "Adjective - Dative Feminine Singular",
     "str": "Strong's 2078:  ",
-    "str2": "Last, at the last, finally, till the end. A superlative probably from echo; farthest, final."
+    "str2": "Last, at the last, finally, till the end. A superlative probably from echo; farthest, final.",
+    "num": 2078
   },
   {
     "word": "day.”",
@@ -93,6 +104,7 @@
     "translit": "(hēmera)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   }
 ]

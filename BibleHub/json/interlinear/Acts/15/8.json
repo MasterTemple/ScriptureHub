@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "God,",
@@ -13,7 +14,8 @@
     "translit": "(Theos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "who",
@@ -21,7 +23,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "knows the heart,",
@@ -29,7 +32,8 @@
     "translit": "(kardiognōstēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2589:  ",
-    "str2": "A knower of the inner life (character, hearts). From kardia and ginosko; a heart-knower."
+    "str2": "A knower of the inner life (character, hearts). From kardia and ginosko; a heart-knower.",
+    "num": 2589
   },
   {
     "word": "showed His approval",
@@ -37,7 +41,8 @@
     "translit": "(emartyrēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3140:  ",
-    "str2": "To witness, bear witness, give evidence, testify, give a good report. From martus; to be a witness, i.e. Testify."
+    "str2": "To witness, bear witness, give evidence, testify, give a good report. From martus; to be a witness, i.e. Testify.",
+    "num": 3140
   },
   {
     "word": "by giving",
@@ -45,7 +50,8 @@
     "translit": "(dous)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Holy",
@@ -61,7 +68,8 @@
     "translit": "(Hagion)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   },
   {
     "word": "Spirit",
@@ -69,7 +77,8 @@
     "translit": "(Pneuma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "to them,",
@@ -77,7 +86,8 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Neuter 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "just",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "as",
@@ -93,7 +104,8 @@
     "translit": "(kathōs)",
     "parse": "Adverb",
     "str": "Strong's 2531:  ",
-    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that."
+    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that.",
+    "num": 2531
   },
   {
     "word": "[He did] to us.",
@@ -101,6 +113,7 @@
     "translit": "(hēmin)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   }
 ]

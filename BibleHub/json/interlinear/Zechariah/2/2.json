@@ -5,7 +5,8 @@
     "translit": "(’ā·nāh)",
     "parse": "Interrogative",
     "str": "Strong's 575:  ",
-    "str2": "Where?, whither?, when?, hither and thither"
+    "str2": "Where?, whither?, when?, hither and thither",
+    "num": 575
   },
   {
     "word": "are you",
@@ -13,7 +14,8 @@
     "translit": "(’at·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "going?”",
@@ -21,7 +23,8 @@
     "translit": "(hō·lêḵ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "I asked.",
@@ -29,7 +32,8 @@
     "translit": "(wā·’ō·mar)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - first person common singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“To measure",
@@ -37,7 +41,8 @@
     "translit": "(lā·mōḏ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 4058:  ",
-    "str2": "To stretch, to measure, to be extended"
+    "str2": "To stretch, to measure, to be extended",
+    "num": 4058
   },
   {
     "word": "Jerusalem,”",
@@ -45,7 +50,8 @@
     "translit": "(yə·rū·šā·lim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 3389:  ",
-    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel"
+    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel",
+    "num": 3389
   },
   {
     "word": "he replied,",
@@ -53,7 +59,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“and to determine",
@@ -61,7 +68,8 @@
     "translit": "(lir·’ō·wṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "its width",
@@ -69,7 +77,8 @@
     "translit": "(rā·ḥə·bāh)",
     "parse": "Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 7341:  ",
-    "str2": "Breadth, width"
+    "str2": "Breadth, width",
+    "num": 7341
   },
   {
     "word": "and length.”",
@@ -77,6 +86,7 @@
     "translit": "(’ā·rə·kāh)",
     "parse": "Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 753:  ",
-    "str2": "Length"
+    "str2": "Length",
+    "num": 753
   }
 ]

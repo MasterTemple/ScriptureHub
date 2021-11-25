@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "some",
@@ -13,7 +14,8 @@
     "translit": "(tines)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Plural",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "of",
@@ -21,7 +23,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "the [people]",
@@ -29,7 +32,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "of Jerusalem",
@@ -37,7 +41,8 @@
     "translit": "(Hierosolymitōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 2415:  ",
-    "str2": "An inhabitant of Jerusalem. From Hierosoluma; a Hierosolymite, i.e. Inhabitant of Hierosolyma."
+    "str2": "An inhabitant of Jerusalem. From Hierosoluma; a Hierosolymite, i.e. Inhabitant of Hierosolyma.",
+    "num": 2415
   },
   {
     "word": "began to say,",
@@ -45,7 +50,8 @@
     "translit": "(Elegon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“Isn’t",
@@ -53,7 +59,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "this",
@@ -61,7 +68,8 @@
     "translit": "(houtos)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "[the man]",
@@ -69,7 +77,8 @@
     "translit": "(hon)",
     "parse": "Personal / Relative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "they are trying",
@@ -77,7 +86,8 @@
     "translit": "(zētousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 2212:  ",
-    "str2": "To seek, search for, desire, require, demand. Of uncertain affinity; to seek; specially, to worship, or to plot."
+    "str2": "To seek, search for, desire, require, demand. Of uncertain affinity; to seek; specially, to worship, or to plot.",
+    "num": 2212
   },
   {
     "word": "to kill?",
@@ -85,6 +95,7 @@
     "translit": "(apokteinai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 615:  ",
-    "str2": "To put to death, kill; fig: I abolish. From apo and kteino; to kill outright; figuratively, to destroy."
+    "str2": "To put to death, kill; fig: I abolish. From apo and kteino; to kill outright; figuratively, to destroy.",
+    "num": 615
   }
 ]

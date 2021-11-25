@@ -5,7 +5,8 @@
     "translit": "(mê·šîḇ)",
     "parse": "Verb - Hifil - Participle - masculine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "evil",
@@ -13,7 +14,8 @@
     "translit": "(rā·‘āh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "for",
@@ -21,7 +23,8 @@
     "translit": "(ta·ḥaṯ)",
     "parse": "Preposition",
     "str": "Strong's 8478:  ",
-    "str2": "The bottom, below, in lieu of"
+    "str2": "The bottom, below, in lieu of",
+    "num": 8478
   },
   {
     "word": "good,",
@@ -29,7 +32,8 @@
     "translit": "(ṭō·w·ḇāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 2896:  ",
-    "str2": "Pleasant, agreeable, good"
+    "str2": "Pleasant, agreeable, good",
+    "num": 2896
   },
   {
     "word": "evil",
@@ -37,7 +41,8 @@
     "translit": "(rā·‘āh)",
     "parse": "Adjective - feminine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "will never",
@@ -45,7 +50,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "leave",
@@ -53,7 +59,8 @@
     "translit": "(ṯā·mūš)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 4185:  ",
-    "str2": "To depart, remove"
+    "str2": "To depart, remove",
+    "num": 4185
   },
   {
     "word": "his house.",
@@ -61,6 +68,7 @@
     "translit": "(mib·bê·ṯōw)",
     "parse": "Preposition-m | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   }
 ]

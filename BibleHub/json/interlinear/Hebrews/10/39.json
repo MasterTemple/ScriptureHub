@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "we",
@@ -13,7 +14,8 @@
     "translit": "(Hēmeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "are",
@@ -21,7 +23,8 @@
     "translit": "(esmen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "not",
@@ -29,7 +32,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "of [those who] shrink back",
@@ -37,7 +41,8 @@
     "translit": "(hypostolēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 5289:  ",
-    "str2": "A shrinking, drawing back. From hupostello; shrinkage, i.e. apostasy."
+    "str2": "A shrinking, drawing back. From hupostello; shrinkage, i.e. apostasy.",
+    "num": 5289
   },
   {
     "word": "[and]",
@@ -45,7 +50,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "are destroyed,",
@@ -53,7 +59,8 @@
     "translit": "(apōleian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 684:  ",
-    "str2": "Destruction, ruin, loss, perishing; eternal ruin. From a presumed derivative of apollumi; ruin or loss."
+    "str2": "Destruction, ruin, loss, perishing; eternal ruin. From a presumed derivative of apollumi; ruin or loss.",
+    "num": 684
   },
   {
     "word": "but",
@@ -61,7 +68,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "of [those who have] faith",
@@ -69,7 +77,8 @@
     "translit": "(pisteōs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4102:  ",
-    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. "
+    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. ",
+    "num": 4102
   },
   {
     "word": "[and]",
@@ -77,7 +86,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "preserve",
@@ -85,7 +95,8 @@
     "translit": "(peripoiēsin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4047:  ",
-    "str2": "Acquiring, obtaining, possessing, possession, ownership. From peripoieomai; acquisition; by extension, preservation."
+    "str2": "Acquiring, obtaining, possessing, possession, ownership. From peripoieomai; acquisition; by extension, preservation.",
+    "num": 4047
   },
   {
     "word": "[their] souls.",
@@ -93,6 +104,7 @@
     "translit": "(psychēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 5590:  ",
-    "str2": "From psucho; breath, i.e. spirit, abstractly or concretely."
+    "str2": "From psucho; breath, i.e. spirit, abstractly or concretely.",
+    "num": 5590
   }
 ]

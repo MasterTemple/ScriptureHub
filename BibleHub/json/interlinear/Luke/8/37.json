@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "all",
@@ -13,7 +14,8 @@
     "translit": "(hapan)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 537:  ",
-    "str2": "All, the whole, altogether. Absolutely all or every one."
+    "str2": "All, the whole, altogether. Absolutely all or every one.",
+    "num": 537
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "people",
@@ -29,7 +32,8 @@
     "translit": "(plēthos)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4128:  ",
-    "str2": "A multitude, crowd, great number, assemblage. From pletho; a fulness, i.e. A large number, throng, populace."
+    "str2": "A multitude, crowd, great number, assemblage. From pletho; a fulness, i.e. A large number, throng, populace.",
+    "num": 4128
   },
   {
     "word": "of the",
@@ -37,7 +41,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "region",
@@ -45,7 +50,8 @@
     "translit": "(perichōrou)",
     "parse": "Adjective - Genitive Feminine Singular",
     "str": "Strong's 4066:  ",
-    "str2": "From peri and chora; around the region, i.e. Circumjacent."
+    "str2": "From peri and chora; around the region, i.e. Circumjacent.",
+    "num": 4066
   },
   {
     "word": "of the",
@@ -53,7 +59,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Gerasenes",
@@ -61,7 +68,8 @@
     "translit": "(Gerasēnōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 1086:  ",
-    "str2": "From Gerasene. Of Hebrew origin; a Gergesene or one of the aborigines of Palestine."
+    "str2": "From Gerasene. Of Hebrew origin; a Gergesene or one of the aborigines of Palestine.",
+    "num": 1086
   },
   {
     "word": "asked",
@@ -69,7 +77,8 @@
     "translit": "(ērōtēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2065:  ",
-    "str2": "Apparently from ereo; to interrogate; by implication, to request."
+    "str2": "Apparently from ereo; to interrogate; by implication, to request.",
+    "num": 2065
   },
   {
     "word": "[Jesus]",
@@ -77,7 +86,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "to depart",
@@ -85,7 +95,8 @@
     "translit": "(apelthein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 565:  ",
-    "str2": "From apo and erchomai; to go off, aside or behind, literally or figuratively."
+    "str2": "From apo and erchomai; to go off, aside or behind, literally or figuratively.",
+    "num": 565
   },
   {
     "word": "from",
@@ -93,7 +104,8 @@
     "translit": "(ap’)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "them,",
@@ -101,7 +113,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "because",
@@ -109,7 +122,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "great",
@@ -117,7 +131,8 @@
     "translit": "(megalō)",
     "parse": "Adjective - Dative Masculine Singular",
     "str": "Strong's 3173:  ",
-    "str2": "Large, great, in the widest sense. "
+    "str2": "Large, great, in the widest sense. ",
+    "num": 3173
   },
   {
     "word": "fear",
@@ -125,7 +140,8 @@
     "translit": "(phobō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 5401:  ",
-    "str2": "(a) fear, terror, alarm, (b) the object or cause of fear, (c) reverence, respect. From a primary phebomai; alarm or fright."
+    "str2": "(a) fear, terror, alarm, (b) the object or cause of fear, (c) reverence, respect. From a primary phebomai; alarm or fright.",
+    "num": 5401
   },
   {
     "word": "had swept over them.",
@@ -133,7 +149,8 @@
     "translit": "(syneichonto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 4912:  ",
-    "str2": "From sun and echo; to hold together, i.e. To compress or arrest; figuratively, to compel, perplex, afflict, preoccupy."
+    "str2": "From sun and echo; to hold together, i.e. To compress or arrest; figuratively, to compel, perplex, afflict, preoccupy.",
+    "num": 4912
   },
   {
     "word": "So",
@@ -141,7 +158,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "He",
@@ -149,7 +167,8 @@
     "translit": "(autos)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "got",
@@ -157,7 +176,8 @@
     "translit": "(embas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1684:  ",
-    "str2": "To step in; I go onboard a ship, embark. From en and the base of basis; to walk on, i.e. Embark, reach."
+    "str2": "To step in; I go onboard a ship, embark. From en and the base of basis; to walk on, i.e. Embark, reach.",
+    "num": 1684
   },
   {
     "word": "into",
@@ -165,7 +185,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "the boat",
@@ -173,7 +194,8 @@
     "translit": "(ploion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4143:  ",
-    "str2": "A ship, vessel, boat. From pleo; a sailer, i.e. Vessel."
+    "str2": "A ship, vessel, boat. From pleo; a sailer, i.e. Vessel.",
+    "num": 4143
   },
   {
     "word": "[and] started back.",
@@ -181,6 +203,7 @@
     "translit": "(hypestrepsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 5290:  ",
-    "str2": "To turn back, return. From hupo and strepho; to turn under, i.e. To return."
+    "str2": "To turn back, return. From hupo and strepho; to turn under, i.e. To return.",
+    "num": 5290
   }
 ]

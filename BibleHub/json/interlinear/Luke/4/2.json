@@ -5,7 +5,8 @@
     "translit": "(tesserakonta)",
     "parse": "Adjective - Accusative Feminine Plural",
     "str": "Strong's 5062:  ",
-    "str2": "Forty. The decade of tessares; forty."
+    "str2": "Forty. The decade of tessares; forty.",
+    "num": 5062
   },
   {
     "word": "days",
@@ -13,7 +14,8 @@
     "translit": "(hēmeras)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "He was tempted",
@@ -21,7 +23,8 @@
     "translit": "(peirazomenos)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Masculine Singular",
     "str": "Strong's 3985:  ",
-    "str2": "To try, tempt, test. From peira; to test, i.e. Endeavor, scrutinize, entice, discipline."
+    "str2": "To try, tempt, test. From peira; to test, i.e. Endeavor, scrutinize, entice, discipline.",
+    "num": 3985
   },
   {
     "word": "by",
@@ -29,7 +32,8 @@
     "translit": "(hypo)",
     "parse": "Preposition",
     "str": "Strong's 5259:  ",
-    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when)."
+    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when).",
+    "num": 5259
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "devil.",
@@ -45,7 +50,8 @@
     "translit": "(diabolou)",
     "parse": "Adjective - Genitive Masculine Singular",
     "str": "Strong's 1228:  ",
-    "str2": "From diaballo; a traducer; specially, Satan."
+    "str2": "From diaballo; a traducer; specially, Satan.",
+    "num": 1228
   },
   {
     "word": "He ate",
@@ -53,7 +59,8 @@
     "translit": "(ephagen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 5315:  ",
-    "str2": "A primary verb; to eat."
+    "str2": "A primary verb; to eat.",
+    "num": 5315
   },
   {
     "word": "nothing",
@@ -61,7 +68,8 @@
     "translit": "(ouden)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 3762:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3762
   },
   {
     "word": "during",
@@ -69,7 +77,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "those",
@@ -77,7 +86,8 @@
     "translit": "(ekeinais)",
     "parse": "Demonstrative Pronoun - Dative Feminine Plural",
     "str": "Strong's 1565:  ",
-    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed."
+    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed.",
+    "num": 1565
   },
   {
     "word": "days,",
@@ -85,7 +95,8 @@
     "translit": "(hēmerais)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "and",
@@ -93,7 +104,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[when] they",
@@ -101,7 +113,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Feminine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "had ended,",
@@ -109,7 +122,8 @@
     "translit": "(syntelestheisōn)",
     "parse": "Verb - Aorist Participle Passive - Genitive Feminine Plural",
     "str": "Strong's 4931:  ",
-    "str2": "To bring to an end, fulfill, accomplish. From sun and teleo; to complete entirely; generally, to execute."
+    "str2": "To bring to an end, fulfill, accomplish. From sun and teleo; to complete entirely; generally, to execute.",
+    "num": 4931
   },
   {
     "word": "He was hungry.",
@@ -117,6 +131,7 @@
     "translit": "(epeinasen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3983:  ",
-    "str2": "To be hungry, needy, desire earnestly. From the same as penes; to famish; figuratively, to crave."
+    "str2": "To be hungry, needy, desire earnestly. From the same as penes; to famish; figuratively, to crave.",
+    "num": 3983
   }
 ]

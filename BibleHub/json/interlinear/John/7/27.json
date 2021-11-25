@@ -5,7 +5,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "we know",
@@ -13,7 +14,8 @@
     "translit": "(oidamen)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Plural",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "where",
@@ -21,7 +23,8 @@
     "translit": "(pothen)",
     "parse": "Adverb",
     "str": "Strong's 4159:  ",
-    "str2": "From the base of posis with enclitic adverb of origin; from which or what place, state, source or cause."
+    "str2": "From the base of posis with enclitic adverb of origin; from which or what place, state, source or cause.",
+    "num": 4159
   },
   {
     "word": "this [man]",
@@ -29,7 +32,8 @@
     "translit": "(touton)",
     "parse": "Demonstrative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "is {from}.",
@@ -37,7 +41,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "When",
@@ -45,7 +50,8 @@
     "translit": "(hotan)",
     "parse": "Conjunction",
     "str": "Strong's 3752:  ",
-    "str2": "When, whenever. From hote and an; whenever; also causatively inasmuch as."
+    "str2": "When, whenever. From hote and an; whenever; also causatively inasmuch as.",
+    "num": 3752
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Christ",
@@ -61,7 +68,8 @@
     "translit": "(Christos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "comes,",
@@ -69,7 +77,8 @@
     "translit": "(erchētai)",
     "parse": "Verb - Present Subjunctive Middle or Passive - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "no one",
@@ -77,7 +86,8 @@
     "translit": "(oudeis)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3762:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3762
   },
   {
     "word": "will know",
@@ -85,7 +95,8 @@
     "translit": "(ginōskei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1097:  ",
-    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications."
+    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications.",
+    "num": 1097
   },
   {
     "word": "where",
@@ -93,7 +104,8 @@
     "translit": "(pothen)",
     "parse": "Adverb",
     "str": "Strong's 4159:  ",
-    "str2": "From the base of posis with enclitic adverb of origin; from which or what place, state, source or cause."
+    "str2": "From the base of posis with enclitic adverb of origin; from which or what place, state, source or cause.",
+    "num": 4159
   },
   {
     "word": "He is {from}.”",
@@ -101,6 +113,7 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(hou)",
     "parse": "Personal / Relative Pronoun - Genitive Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "He poured out",
@@ -13,7 +14,8 @@
     "translit": "(execheen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1632:  ",
-    "str2": "Or ekchuno ek-khoo'-no from ek and cheo; to pour forth; figuratively, to bestow."
+    "str2": "Or ekchuno ek-khoo'-no from ek and cheo; to pour forth; figuratively, to bestow.",
+    "num": 1632
   },
   {
     "word": "on",
@@ -21,7 +23,8 @@
     "translit": "(eph’)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "us",
@@ -29,7 +32,8 @@
     "translit": "(hēmas)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "abundantly",
@@ -37,7 +41,8 @@
     "translit": "(plousiōs)",
     "parse": "Adverb",
     "str": "Strong's 4146:  ",
-    "str2": "Richly, abundantly. Adverb from plousios; copiously."
+    "str2": "Richly, abundantly. Adverb from plousios; copiously.",
+    "num": 4146
   },
   {
     "word": "through",
@@ -45,7 +50,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "Jesus",
@@ -53,7 +59,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "Christ",
@@ -61,7 +68,8 @@
     "translit": "(Christou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "our",
@@ -69,7 +77,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "Savior,",
@@ -77,6 +86,7 @@
     "translit": "(Sōtēros)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 4990:  ",
-    "str2": "A savior, deliverer, preserver. From sozo; a deliverer, i.e. God or Christ."
+    "str2": "A savior, deliverer, preserver. From sozo; a deliverer, i.e. God or Christ.",
+    "num": 4990
   }
 ]

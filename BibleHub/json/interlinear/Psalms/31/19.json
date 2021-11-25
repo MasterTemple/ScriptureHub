@@ -5,7 +5,8 @@
     "translit": "(māh)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "great",
@@ -13,7 +14,8 @@
     "translit": "(raḇ-)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 7227:  ",
-    "str2": "Much, many, great"
+    "str2": "Much, many, great",
+    "num": 7227
   },
   {
     "word": "is Your goodness",
@@ -21,7 +23,8 @@
     "translit": "(ṭū·ḇə·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 2898:  ",
-    "str2": "Good, goodness, beauty, gladness, welfare"
+    "str2": "Good, goodness, beauty, gladness, welfare",
+    "num": 2898
   },
   {
     "word": "which",
@@ -29,7 +32,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "You have laid up",
@@ -37,7 +41,8 @@
     "translit": "(ṣā·p̄an·tā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 6845:  ",
-    "str2": "To hide, to hoard, reserve, to deny, to protect, to lurk"
+    "str2": "To hide, to hoard, reserve, to deny, to protect, to lurk",
+    "num": 6845
   },
   {
     "word": "for those who fear You,",
@@ -45,7 +50,8 @@
     "translit": "(lî·rê·’e·ḵā)",
     "parse": "Preposition-l | Adjective - masculine plural construct | second person masculine singular",
     "str": "Strong's 3373:  ",
-    "str2": "Fearing, reverent"
+    "str2": "Fearing, reverent",
+    "num": 3373
   },
   {
     "word": "and bestowed",
@@ -53,7 +59,8 @@
     "translit": "(pā·‘al·tā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 6466:  ",
-    "str2": "To do, make, to practise"
+    "str2": "To do, make, to practise",
+    "num": 6466
   },
   {
     "word": "on those who take refuge",
@@ -61,7 +68,8 @@
     "translit": "(la·ḥō·sîm)",
     "parse": "Preposition-l, Article | Verb - Qal - Participle - masculine plural",
     "str": "Strong's 2620:  ",
-    "str2": "To flee for, protection, to confide in"
+    "str2": "To flee for, protection, to confide in",
+    "num": 2620
   },
   {
     "word": "in You",
@@ -69,7 +77,8 @@
     "translit": "(bāḵ)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "in the sight of",
@@ -77,7 +86,8 @@
     "translit": "(ne·ḡeḏ)",
     "parse": "Preposition",
     "str": "Strong's 5048:  ",
-    "str2": "A front, part opposite, a counterpart, mate, over against, before"
+    "str2": "A front, part opposite, a counterpart, mate, over against, before",
+    "num": 5048
   },
   {
     "word": "the sons",
@@ -85,7 +95,8 @@
     "translit": "(bə·nê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of men.",
@@ -93,6 +104,7 @@
     "translit": "(’ā·ḏām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   }
 ]

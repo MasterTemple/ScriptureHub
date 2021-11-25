@@ -5,7 +5,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "were saying,",
@@ -13,7 +14,8 @@
     "translit": "(’ō·mə·rîm)",
     "parse": "Verb - Qal - Participle - masculine plural",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“We",
@@ -21,7 +23,8 @@
     "translit": "(’ă·naḥ·nū)",
     "parse": "Pronoun - first person common plural",
     "str": "Strong's 587:  ",
-    "str2": "We"
+    "str2": "We",
+    "num": 587
   },
   {
     "word": "[and] our sons",
@@ -29,7 +32,8 @@
     "translit": "(bā·nê·nū)",
     "parse": "Noun - masculine plural construct | first person common plural",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "and daughters",
@@ -37,7 +41,8 @@
     "translit": "(ū·ḇə·nō·ṯê·nū)",
     "parse": "Conjunctive waw | Noun - feminine plural construct | first person common plural",
     "str": "Strong's 1323:  ",
-    "str2": "A daughter"
+    "str2": "A daughter",
+    "num": 1323
   },
   {
     "word": "are numerous.",
@@ -45,7 +50,8 @@
     "translit": "(rab·bîm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 7227:  ",
-    "str2": "Much, many, great"
+    "str2": "Much, many, great",
+    "num": 7227
   },
   {
     "word": "We must get",
@@ -53,7 +59,8 @@
     "translit": "(wə·niq·ḥāh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect Cohortative - first person common plural",
     "str": "Strong's 3947:  ",
-    "str2": "To take"
+    "str2": "To take",
+    "num": 3947
   },
   {
     "word": "grain",
@@ -61,7 +68,8 @@
     "translit": "(ḏā·ḡān)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1715:  ",
-    "str2": "Corn, grain (of cereals)"
+    "str2": "Corn, grain (of cereals)",
+    "num": 1715
   },
   {
     "word": "to eat",
@@ -69,7 +77,8 @@
     "translit": "(wə·nō·ḵə·lāh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect Cohortative - first person common plural",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "and live.”",
@@ -77,6 +86,7 @@
     "translit": "(wə·niḥ·yeh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect Cohortative if contextual - first person common plural",
     "str": "Strong's 2421:  ",
-    "str2": "To live, to revive"
+    "str2": "To live, to revive",
+    "num": 2421
   }
 ]

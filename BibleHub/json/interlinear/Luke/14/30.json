@@ -5,7 +5,8 @@
     "translit": "(legontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "‘This",
@@ -13,7 +14,8 @@
     "translit": "(Houtos)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "man",
@@ -21,7 +23,8 @@
     "translit": "(anthrōpos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "could",
@@ -29,7 +32,8 @@
     "translit": "(ischysen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2480:  ",
-    "str2": "To have strength, be strong, be in full health and vigor, be able; meton: I prevail. From ischus; to have force."
+    "str2": "To have strength, be strong, be in full health and vigor, be able; meton: I prevail. From ischus; to have force.",
+    "num": 2480
   },
   {
     "word": "not",
@@ -37,7 +41,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "finish",
@@ -45,7 +50,8 @@
     "translit": "(ektelesai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 1615:  ",
-    "str2": "To complete, bring to completion, carry out, perform. From ek and teleo; to complete fully."
+    "str2": "To complete, bring to completion, carry out, perform. From ek and teleo; to complete fully.",
+    "num": 1615
   },
   {
     "word": "what he started",
@@ -53,7 +59,8 @@
     "translit": "(ērxato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 756:  ",
-    "str2": "To begin. Middle voice of archo; to commence."
+    "str2": "To begin. Middle voice of archo; to commence.",
+    "num": 756
   },
   {
     "word": "to build.’",
@@ -61,6 +68,7 @@
     "translit": "(oikodomein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 3618:  ",
-    "str2": "From the same as oikodome; to be a house-builder, i.e. Construct or confirm."
+    "str2": "From the same as oikodome; to be a house-builder, i.e. Construct or confirm.",
+    "num": 3618
   }
 ]

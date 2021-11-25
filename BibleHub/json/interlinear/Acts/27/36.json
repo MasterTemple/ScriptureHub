@@ -5,7 +5,8 @@
     "translit": "(genomenoi)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Plural",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "all",
@@ -13,7 +14,8 @@
     "translit": "(pantes)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "encouraged",
@@ -21,7 +23,8 @@
     "translit": "(euthymoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 2115:  ",
-    "str2": "Cheerful, having good courage. From eu and thumos; in fine spirits, i.e. Cheerful."
+    "str2": "Cheerful, having good courage. From eu and thumos; in fine spirits, i.e. Cheerful.",
+    "num": 2115
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "took",
@@ -37,7 +41,8 @@
     "translit": "(proselabonto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Plural",
     "str": "Strong's 4355:  ",
-    "str2": "(a) I take to myself, (b) I take aside, (c) I welcome. From pros and lambano; to take to oneself, i.e. Use, lead, admit."
+    "str2": "(a) I take to myself, (b) I take aside, (c) I welcome. From pros and lambano; to take to oneself, i.e. Use, lead, admit.",
+    "num": 4355
   },
   {
     "word": "[some] food",
@@ -45,7 +50,8 @@
     "translit": "(trophēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 5160:  ",
-    "str2": "Food, nourishment, maintenance. From trepho; nourishment; by implication, rations."
+    "str2": "Food, nourishment, maintenance. From trepho; nourishment; by implication, rations.",
+    "num": 5160
   },
   {
     "word": "themselves.",
@@ -53,6 +59,7 @@
     "translit": "(autoi)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

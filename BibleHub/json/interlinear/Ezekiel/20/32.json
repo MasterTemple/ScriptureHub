@@ -5,7 +5,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "you",
@@ -13,7 +14,8 @@
     "translit": "(’at·tem)",
     "parse": "Pronoun - second person masculine plural",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "say:",
@@ -21,7 +23,8 @@
     "translit": "(’ō·mə·rîm)",
     "parse": "Verb - Qal - Participle - masculine plural",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“Let us be",
@@ -29,7 +32,8 @@
     "translit": "(nih·yeh)",
     "parse": "Verb - Qal - Imperfect - first person common plural",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "like the nations,",
@@ -37,7 +41,8 @@
     "translit": "(ḵag·gō·w·yim)",
     "parse": "Preposition-k, Article | Noun - masculine plural",
     "str": "Strong's 1471:  ",
-    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts"
+    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+    "num": 1471
   },
   {
     "word": "like the peoples",
@@ -45,7 +50,8 @@
     "translit": "(kə·miš·pə·ḥō·wṯ)",
     "parse": "Preposition-k | Noun - feminine plural construct",
     "str": "Strong's 4940:  ",
-    "str2": "A family, circle of relatives, a class, a species, sort, a tribe, people"
+    "str2": "A family, circle of relatives, a class, a species, sort, a tribe, people",
+    "num": 4940
   },
   {
     "word": "of the lands,",
@@ -53,7 +59,8 @@
     "translit": "(hā·’ă·rā·ṣō·wṯ)",
     "parse": "Article | Noun - feminine plural",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "serving",
@@ -61,7 +68,8 @@
     "translit": "(lə·šā·rêṯ)",
     "parse": "Preposition-l | Verb - Piel - Infinitive construct",
     "str": "Strong's 8334:  ",
-    "str2": "To attend as a, menial, worshipper, to contribute to"
+    "str2": "To attend as a, menial, worshipper, to contribute to",
+    "num": 8334
   },
   {
     "word": "wood",
@@ -69,7 +77,8 @@
     "translit": "(‘êṣ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6086:  ",
-    "str2": "Tree, trees, wood"
+    "str2": "Tree, trees, wood",
+    "num": 6086
   },
   {
     "word": "and stone,”",
@@ -77,7 +86,8 @@
     "translit": "(wā·’ā·ḇen)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 68:  ",
-    "str2": "A stone"
+    "str2": "A stone",
+    "num": 68
   },
   {
     "word": "what you have in",
@@ -85,7 +95,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "mind",
@@ -93,7 +104,8 @@
     "translit": "(rū·ḥă·ḵem)",
     "parse": "Noun - masculine singular construct | second person masculine plural",
     "str": "Strong's 7307:  ",
-    "str2": "Wind, breath, exhalation, life, anger, unsubstantiality, a region of the sky, spirit"
+    "str2": "Wind, breath, exhalation, life, anger, unsubstantiality, a region of the sky, spirit",
+    "num": 7307
   },
   {
     "word": "will never",
@@ -101,7 +113,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "happen.",
@@ -109,6 +122,7 @@
     "translit": "(ṯih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   }
 ]

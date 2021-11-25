@@ -5,7 +5,8 @@
     "translit": "(Ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "you were",
@@ -13,7 +14,8 @@
     "translit": "(ēte)",
     "parse": "Verb - Imperfect Indicative Active - 2nd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "blind,”",
@@ -21,7 +23,8 @@
     "translit": "(typhloi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 5185:  ",
-    "str2": "Blind, physically or mentally. From, tuphoo; opaque, i.e. blind."
+    "str2": "Blind, physically or mentally. From, tuphoo; opaque, i.e. blind.",
+    "num": 5185
   },
   {
     "word": "Jesus",
@@ -29,7 +32,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "replied,",
@@ -37,7 +41,8 @@
     "translit": "(Eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“you would not be",
@@ -45,7 +50,8 @@
     "translit": "(eichete)",
     "parse": "Verb - Imperfect Indicative Active - 2nd Person Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "guilty of sin.",
@@ -53,7 +59,8 @@
     "translit": "(hamartian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 266:  ",
-    "str2": "From hamartano; a sin."
+    "str2": "From hamartano; a sin.",
+    "num": 266
   },
   {
     "word": "But",
@@ -61,7 +68,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "since",
@@ -69,7 +77,8 @@
     "translit": "(nyn)",
     "parse": "Adverb",
     "str": "Strong's 3568:  ",
-    "str2": "A primary particle of present time; 'now'; also as noun or adjective present or immediate."
+    "str2": "A primary particle of present time; 'now'; also as noun or adjective present or immediate.",
+    "num": 3568
   },
   {
     "word": "you claim",
@@ -77,7 +86,8 @@
     "translit": "(legete)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "[you] can see,",
@@ -85,7 +95,8 @@
     "translit": "(Blepomen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 991:  ",
-    "str2": "(primarily physical), I look, see, perceive, discern. A primary verb; to look at."
+    "str2": "(primarily physical), I look, see, perceive, discern. A primary verb; to look at.",
+    "num": 991
   },
   {
     "word": "your",
@@ -93,7 +104,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "guilt",
@@ -101,7 +113,8 @@
     "translit": "(hamartia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 266:  ",
-    "str2": "From hamartano; a sin."
+    "str2": "From hamartano; a sin.",
+    "num": 266
   },
   {
     "word": "remains.”",
@@ -109,6 +122,7 @@
     "translit": "(menei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3306:  ",
-    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay."
+    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay.",
+    "num": 3306
   }
 ]

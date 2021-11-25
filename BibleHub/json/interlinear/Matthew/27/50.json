@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Jesus",
@@ -13,7 +14,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "had cried out",
@@ -21,7 +23,8 @@
     "translit": "(kraxas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2896:  ",
-    "str2": "To cry aloud, shriek. A primary verb; properly, to 'croak' or scream, i.e. to call aloud."
+    "str2": "To cry aloud, shriek. A primary verb; properly, to 'croak' or scream, i.e. to call aloud.",
+    "num": 2896
   },
   {
     "word": "again",
@@ -29,7 +32,8 @@
     "translit": "(palin)",
     "parse": "Adverb",
     "str": "Strong's 3825:  ",
-    "str2": "Probably from the same as pale; anew, i.e. back, once more, or furthermore or on the other hand."
+    "str2": "Probably from the same as pale; anew, i.e. back, once more, or furthermore or on the other hand.",
+    "num": 3825
   },
   {
     "word": "in a loud voice,",
@@ -37,7 +41,8 @@
     "translit": "(phōnē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 5456:  ",
-    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language."
+    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language.",
+    "num": 5456
   },
   {
     "word": "He yielded up",
@@ -45,7 +50,8 @@
     "translit": "(aphēken)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 863:  ",
-    "str2": "From apo and hiemi; to send forth, in various applications."
+    "str2": "From apo and hiemi; to send forth, in various applications.",
+    "num": 863
   },
   {
     "word": "[His]",
@@ -53,7 +59,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "spirit.",
@@ -61,6 +68,7 @@
     "translit": "(pneuma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   }
 ]

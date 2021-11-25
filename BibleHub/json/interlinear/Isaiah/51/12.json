@@ -5,7 +5,8 @@
     "translit": "(’ā·nō·ḵî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "even I,",
@@ -13,7 +14,8 @@
     "translit": "(’ā·nō·ḵî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "am He",
@@ -21,7 +23,8 @@
     "translit": "(hū)",
     "parse": "Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "who comforts you.",
@@ -29,7 +32,8 @@
     "translit": "(mə·na·ḥem·ḵem)",
     "parse": "Verb - Piel - Participle - masculine singular construct | second person masculine plural",
     "str": "Strong's 5162:  ",
-    "str2": "To sigh, breathe strongly, to be sorry, to pity, console, rue, to avenge"
+    "str2": "To sigh, breathe strongly, to be sorry, to pity, console, rue, to avenge",
+    "num": 5162
   },
   {
     "word": "Who",
@@ -37,7 +41,8 @@
     "translit": "(mî-)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "are you",
@@ -45,7 +50,8 @@
     "translit": "(’at)",
     "parse": "Pronoun - second person feminine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "that you fear",
@@ -53,7 +59,8 @@
     "translit": "(wat·tî·rə·’î)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - second person feminine singular",
     "str": "Strong's 3372:  ",
-    "str2": "To fear, to revere, caus, to frighten"
+    "str2": "To fear, to revere, caus, to frighten",
+    "num": 3372
   },
   {
     "word": "mortal",
@@ -61,7 +68,8 @@
     "translit": "(yā·mūṯ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   },
   {
     "word": "man,",
@@ -69,7 +77,8 @@
     "translit": "(mê·’ĕ·nō·wōš)",
     "parse": "Preposition-m | Noun - masculine singular",
     "str": "Strong's 582:  ",
-    "str2": "Man, mankind"
+    "str2": "Man, mankind",
+    "num": 582
   },
   {
     "word": "or a son",
@@ -77,7 +86,8 @@
     "translit": "(ū·mib·ben-)",
     "parse": "Conjunctive waw, Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of man",
@@ -85,7 +95,8 @@
     "translit": "(’ā·ḏām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   },
   {
     "word": "who withers",
@@ -93,7 +104,8 @@
     "translit": "(yin·nā·ṯên)",
     "parse": "Verb - Nifal - Imperfect - third person masculine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "like grass?",
@@ -101,6 +113,7 @@
     "translit": "(ḥā·ṣîr)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2682:  ",
-    "str2": "Green grass, herbage"
+    "str2": "Green grass, herbage",
+    "num": 2682
   }
 ]

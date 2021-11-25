@@ -5,7 +5,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "be afraid,",
@@ -13,7 +14,8 @@
     "translit": "(tî·rā)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 3372:  ",
-    "str2": "To fear, to revere, caus, to frighten"
+    "str2": "To fear, to revere, caus, to frighten",
+    "num": 3372
   },
   {
     "word": "for",
@@ -21,7 +23,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I",
@@ -29,7 +32,8 @@
     "translit": "(’ā·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "am with you;",
@@ -37,7 +41,8 @@
     "translit": "(’it·tə·ḵā-)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's 854:  ",
-    "str2": "Nearness, near, with, by, at, among"
+    "str2": "Nearness, near, with, by, at, among",
+    "num": 854
   },
   {
     "word": "I will bring",
@@ -45,7 +50,8 @@
     "translit": "(’ā·ḇî)",
     "parse": "Verb - Hifil - Imperfect - first person common singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "your offspring",
@@ -53,7 +59,8 @@
     "translit": "(zar·‘e·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 2233:  ",
-    "str2": "Seed, fruit, plant, sowing-time, posterity"
+    "str2": "Seed, fruit, plant, sowing-time, posterity",
+    "num": 2233
   },
   {
     "word": "from the east,",
@@ -61,7 +68,8 @@
     "translit": "(mim·miz·rāḥ)",
     "parse": "Preposition-m | Noun - masculine singular",
     "str": "Strong's 4217:  ",
-    "str2": "Place of sunrise, the east"
+    "str2": "Place of sunrise, the east",
+    "num": 4217
   },
   {
     "word": "and gather you",
@@ -69,7 +77,8 @@
     "translit": "(’ă·qab·bə·ṣe·kā)",
     "parse": "Verb - Piel - Imperfect - first person common singular | second person masculine singular",
     "str": "Strong's 6908:  ",
-    "str2": "To gather, collect"
+    "str2": "To gather, collect",
+    "num": 6908
   },
   {
     "word": "from the west.",
@@ -77,6 +86,7 @@
     "translit": "(ū·mim·ma·‘ă·rāḇ)",
     "parse": "Conjunctive waw, Preposition-m | Noun - masculine singular",
     "str": "Strong's 4628:  ",
-    "str2": "The west"
+    "str2": "The west",
+    "num": 4628
   }
 ]

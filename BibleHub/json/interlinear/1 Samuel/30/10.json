@@ -5,7 +5,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "two hundred",
@@ -13,7 +14,8 @@
     "translit": "(mā·ṯa·yim)",
     "parse": "Number - fd",
     "str": "Strong's 3967:  ",
-    "str2": "A hundred"
+    "str2": "A hundred",
+    "num": 3967
   },
   {
     "word": "men",
@@ -21,7 +23,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "were too exhausted",
@@ -29,7 +32,8 @@
     "translit": "(pig·gə·rū)",
     "parse": "Verb - Piel - Perfect - third person common plural",
     "str": "Strong's 6296:  ",
-    "str2": "To relax, become exhausted"
+    "str2": "To relax, become exhausted",
+    "num": 6296
   },
   {
     "word": "to cross",
@@ -37,7 +41,8 @@
     "translit": "(mê·‘ă·ḇōr)",
     "parse": "Preposition-m | Verb - Qal - Infinitive construct",
     "str": "Strong's 5674:  ",
-    "str2": "To pass over, through, or by, pass on"
+    "str2": "To pass over, through, or by, pass on",
+    "num": 5674
   },
   {
     "word": "the brook.",
@@ -45,7 +50,8 @@
     "translit": "(na·ḥal)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 5158:  ",
-    "str2": "A stream, a winter torrent, a, valley, a shaft"
+    "str2": "A stream, a winter torrent, a, valley, a shaft",
+    "num": 5158
   },
   {
     "word": "But David",
@@ -53,7 +59,8 @@
     "translit": "(dā·wiḏ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 1732:  ",
-    "str2": "David -- perhaps 'beloved one', a son of Jesse"
+    "str2": "David -- perhaps 'beloved one', a son of Jesse",
+    "num": 1732
   },
   {
     "word": "and four",
@@ -61,7 +68,8 @@
     "translit": "(wə·’ar·ba‘-)",
     "parse": "Conjunctive waw | Number - feminine singular",
     "str": "Strong's 702:  ",
-    "str2": "Four"
+    "str2": "Four",
+    "num": 702
   },
   {
     "word": "hundred",
@@ -69,7 +77,8 @@
     "translit": "(mê·’ō·wṯ)",
     "parse": "Number - feminine plural",
     "str": "Strong's 3967:  ",
-    "str2": "A hundred"
+    "str2": "A hundred",
+    "num": 3967
   },
   {
     "word": "men",
@@ -77,7 +86,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "continued in pursuit.",
@@ -85,6 +95,7 @@
     "translit": "(way·yir·dōp̄)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 7291:  ",
-    "str2": "To pursue, chase, persecute"
+    "str2": "To pursue, chase, persecute",
+    "num": 7291
   }
 ]

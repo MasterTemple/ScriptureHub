@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "all",
@@ -13,7 +14,8 @@
     "translit": "(pantes)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "who",
@@ -21,7 +23,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "desire",
@@ -29,7 +32,8 @@
     "translit": "(thelontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "to live",
@@ -37,7 +41,8 @@
     "translit": "(zēn)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2198:  ",
-    "str2": "To live, be alive. A primary verb; to live."
+    "str2": "To live, be alive. A primary verb; to live.",
+    "num": 2198
   },
   {
     "word": "godly [lives]",
@@ -45,7 +50,8 @@
     "translit": "(eusebōs)",
     "parse": "Adverb",
     "str": "Strong's 2153:  ",
-    "str2": "Piously, religiously. Adverb from eusebes; piously."
+    "str2": "Piously, religiously. Adverb from eusebes; piously.",
+    "num": 2153
   },
   {
     "word": "in",
@@ -53,7 +59,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "Christ",
@@ -61,7 +68,8 @@
     "translit": "(Christō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "Jesus",
@@ -69,7 +77,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "will be persecuted,",
@@ -77,6 +86,7 @@
     "translit": "(diōchthēsontai)",
     "parse": "Verb - Future Indicative Passive - 3rd Person Plural",
     "str": "Strong's 1377:  ",
-    "str2": "To pursue, hence: I persecute. A prolonged form of a primary verb dio; to pursue; by implication, to persecute."
+    "str2": "To pursue, hence: I persecute. A prolonged form of a primary verb dio; to pursue; by implication, to persecute.",
+    "num": 1377
   }
 ]

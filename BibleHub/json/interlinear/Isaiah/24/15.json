@@ -5,7 +5,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "glorify",
@@ -13,7 +14,8 @@
     "translit": "(kab·bə·ḏū)",
     "parse": "Verb - Piel - Imperative - masculine plural",
     "str": "Strong's 3513:  ",
-    "str2": "To be heavy, weighty, or burdensome"
+    "str2": "To be heavy, weighty, or burdensome",
+    "num": 3513
   },
   {
     "word": "the LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "in the east.",
@@ -29,7 +32,8 @@
     "translit": "(bā·’u·rîm)",
     "parse": "Preposition-b, Article | Noun - masculine plural",
     "str": "Strong's 217:  ",
-    "str2": "Flame, the East"
+    "str2": "Flame, the East",
+    "num": 217
   },
   {
     "word": "Extol the name",
@@ -37,7 +41,8 @@
     "translit": "(šêm)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 8034:  ",
-    "str2": "A name"
+    "str2": "A name",
+    "num": 8034
   },
   {
     "word": "of the LORD,",
@@ -45,7 +50,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "the God",
@@ -53,7 +59,8 @@
     "translit": "(’ĕ·lō·hê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "of Israel",
@@ -61,7 +68,8 @@
     "translit": "(yiś·rā·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3478:  ",
-    "str2": "Israel -- 'God strives', another name of Jacob and his desc"
+    "str2": "Israel -- 'God strives', another name of Jacob and his desc",
+    "num": 3478
   },
   {
     "word": "in the islands",
@@ -69,7 +77,8 @@
     "translit": "(bə·’î·yê)",
     "parse": "Preposition-b | Noun - masculine plural construct",
     "str": "Strong's 339:  ",
-    "str2": "A habitable spot, dry land, a coast, an island"
+    "str2": "A habitable spot, dry land, a coast, an island",
+    "num": 339
   },
   {
     "word": "of the sea.",
@@ -77,6 +86,7 @@
     "translit": "(hay·yām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3220:  ",
-    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin"
+    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin",
+    "num": 3220
   }
 ]

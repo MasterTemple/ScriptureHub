@@ -5,7 +5,8 @@
     "translit": "(pote)",
     "parse": "Particle",
     "str": "Strong's 4218:  ",
-    "str2": "At one time or other, at some time, formerly. From the base of pou and te; indefinite adverb, at some time, ever."
+    "str2": "At one time or other, at some time, formerly. From the base of pou and te; indefinite adverb, at some time, ever.",
+    "num": 4218
   },
   {
     "word": "you",
@@ -13,7 +14,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "were",
@@ -21,7 +23,8 @@
     "translit": "(ontas)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "alienated [ from God ]",
@@ -29,7 +32,8 @@
     "translit": "(apēllotriōmenous)",
     "parse": "Verb - Perfect Participle Middle or Passive - Accusative Masculine Plural",
     "str": "Strong's 526:  ",
-    "str2": "From apo and a derivative of allotrios; to estrange away, i.e. to be non-participant."
+    "str2": "From apo and a derivative of allotrios; to estrange away, i.e. to be non-participant.",
+    "num": 526
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "were hostile",
@@ -45,7 +50,8 @@
     "translit": "(echthrous)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 2190:  ",
-    "str2": "Hated, hostile; subst: an enemy. From a primary echtho; hateful; usually as a noun, an adversary."
+    "str2": "Hated, hostile; subst: an enemy. From a primary echtho; hateful; usually as a noun, an adversary.",
+    "num": 2190
   },
   {
     "word": "in",
@@ -53,7 +59,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "your minds",
@@ -61,7 +68,8 @@
     "translit": "(dianoia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 1271:  ",
-    "str2": "From dia and nous; deep thought, properly, the faculty, by implication, its exercise."
+    "str2": "From dia and nous; deep thought, properly, the faculty, by implication, its exercise.",
+    "num": 1271
   },
   {
     "word": "because of",
@@ -69,7 +77,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[your]",
@@ -77,7 +86,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "evil",
@@ -85,7 +95,8 @@
     "translit": "(ponērois)",
     "parse": "Adjective - Dative Neuter Plural",
     "str": "Strong's 4190:  ",
-    "str2": "Evil, bad, wicked, malicious, slothful. "
+    "str2": "Evil, bad, wicked, malicious, slothful. ",
+    "num": 4190
   },
   {
     "word": "deeds.",
@@ -93,6 +104,7 @@
     "translit": "(ergois)",
     "parse": "Noun - Dative Neuter Plural",
     "str": "Strong's 2041:  ",
-    "str2": "From a primary ergo; toil; by implication, an act."
+    "str2": "From a primary ergo; toil; by implication, an act.",
+    "num": 2041
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "though",
@@ -13,7 +14,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "we speak",
@@ -21,7 +23,8 @@
     "translit": "(laloumen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "like this,",
@@ -29,7 +32,8 @@
     "translit": "(houtōs)",
     "parse": "Adverb",
     "str": "Strong's 3779:  ",
-    "str2": "Thus, so, in this manner. Or (referring to what precedes or follows)."
+    "str2": "Thus, so, in this manner. Or (referring to what precedes or follows).",
+    "num": 3779
   },
   {
     "word": "beloved,",
@@ -37,7 +41,8 @@
     "translit": "(agapētoi)",
     "parse": "Adjective - Vocative Masculine Plural",
     "str": "Strong's 27:  ",
-    "str2": "From agapao; beloved."
+    "str2": "From agapao; beloved.",
+    "num": 27
   },
   {
     "word": "we are convinced",
@@ -45,7 +50,8 @@
     "translit": "(Pepeismetha)",
     "parse": "Verb - Perfect Indicative Middle or Passive - 1st Person Plural",
     "str": "Strong's 3982:  ",
-    "str2": "A primary verb; to convince; by analogy, to pacify or conciliate; reflexively or passively, to assent, to rely."
+    "str2": "A primary verb; to convince; by analogy, to pacify or conciliate; reflexively or passively, to assent, to rely.",
+    "num": 3982
   },
   {
     "word": "of",
@@ -53,7 +59,8 @@
     "translit": "(ta)",
     "parse": "Article - Accusative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "better [things]",
@@ -61,7 +68,8 @@
     "translit": "(kreissona)",
     "parse": "Adjective - Accusative Neuter Plural - Comparative",
     "str": "Strong's 2908:  ",
-    "str2": "Stronger, more excellent. Neuter of an alternate form of kreitton; better, i.e. Greater advantage."
+    "str2": "Stronger, more excellent. Neuter of an alternate form of kreitton; better, i.e. Greater advantage.",
+    "num": 2908
   },
   {
     "word": "in",
@@ -69,7 +77,8 @@
     "translit": "(peri)",
     "parse": "Preposition",
     "str": "Strong's 4012:  ",
-    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time.",
+    "num": 4012
   },
   {
     "word": "your [case]—",
@@ -77,7 +86,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "[things that] accompany",
@@ -85,7 +95,8 @@
     "translit": "(echomena)",
     "parse": "Verb - Present Participle Middle or Passive - Accusative Neuter Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "salvation.",
@@ -93,6 +104,7 @@
     "translit": "(sōtērias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4991:  ",
-    "str2": "Feminine of a derivative of soter as noun; rescue or safety."
+    "str2": "Feminine of a derivative of soter as noun; rescue or safety.",
+    "num": 4991
   }
 ]

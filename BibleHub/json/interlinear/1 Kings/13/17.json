@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I",
@@ -13,7 +14,8 @@
     "translit": "(’ê·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "have been told",
@@ -21,7 +23,8 @@
     "translit": "(ḏā·ḇār)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "by the word",
@@ -29,7 +32,8 @@
     "translit": "(biḏ·ḇar)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "of the LORD:",
@@ -37,7 +41,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "‘You must not",
@@ -45,7 +50,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "eat",
@@ -53,7 +59,8 @@
     "translit": "(ṯō·ḵal)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "bread",
@@ -61,7 +68,8 @@
     "translit": "(le·ḥem)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3899:  ",
-    "str2": "Food, bread, grain"
+    "str2": "Food, bread, grain",
+    "num": 3899
   },
   {
     "word": "or drink",
@@ -69,7 +77,8 @@
     "translit": "(ṯiš·teh)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 8354:  ",
-    "str2": "To imbibe"
+    "str2": "To imbibe",
+    "num": 8354
   },
   {
     "word": "water",
@@ -77,7 +86,8 @@
     "translit": "(mā·yim)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 4325:  ",
-    "str2": "Water, juice, urine, semen"
+    "str2": "Water, juice, urine, semen",
+    "num": 4325
   },
   {
     "word": "there",
@@ -85,7 +95,8 @@
     "translit": "(šām)",
     "parse": "Adverb",
     "str": "Strong's 8033:  ",
-    "str2": "There, then, thither"
+    "str2": "There, then, thither",
+    "num": 8033
   },
   {
     "word": "or return",
@@ -93,7 +104,8 @@
     "translit": "(ṯā·šūḇ)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "by the way",
@@ -101,7 +113,8 @@
     "translit": "(bad·de·reḵ)",
     "parse": "Preposition-b, Article | Noun - common singular",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   },
   {
     "word": "you came.’”",
@@ -109,6 +122,7 @@
     "translit": "(lā·le·ḵeṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   }
 ]

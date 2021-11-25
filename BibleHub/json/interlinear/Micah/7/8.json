@@ -5,7 +5,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "gloat",
@@ -13,7 +14,8 @@
     "translit": "(tiś·mə·ḥî)",
     "parse": "Verb - Qal - Imperfect - second person feminine singular",
     "str": "Strong's 8056:  ",
-    "str2": "Glad, joyful, merry"
+    "str2": "Glad, joyful, merry",
+    "num": 8056
   },
   {
     "word": "over me,",
@@ -21,7 +23,8 @@
     "translit": "(lî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "my enemy!",
@@ -29,7 +32,8 @@
     "translit": "(’ō·yaḇ·tî)",
     "parse": "Verb - Qal - Participle - feminine singular construct | first person common singular",
     "str": "Strong's 341:  ",
-    "str2": "Hating, an adversary"
+    "str2": "Hating, an adversary",
+    "num": 341
   },
   {
     "word": "Though",
@@ -37,7 +41,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I have fallen,",
@@ -45,7 +50,8 @@
     "translit": "(nā·p̄al·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 5307:  ",
-    "str2": "To fall, lie"
+    "str2": "To fall, lie",
+    "num": 5307
   },
   {
     "word": "I will arise;",
@@ -53,7 +59,8 @@
     "translit": "(qā·mə·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 6965:  ",
-    "str2": "To arise, stand up, stand"
+    "str2": "To arise, stand up, stand",
+    "num": 6965
   },
   {
     "word": "though",
@@ -61,7 +68,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I sit",
@@ -69,7 +77,8 @@
     "translit": "(’ê·šêḇ)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "in darkness,",
@@ -77,7 +86,8 @@
     "translit": "(ba·ḥō·šeḵ)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 2822:  ",
-    "str2": "The dark, darkness, misery, destruction, death, ignorance, sorrow, wickedness"
+    "str2": "The dark, darkness, misery, destruction, death, ignorance, sorrow, wickedness",
+    "num": 2822
   },
   {
     "word": "the LORD",
@@ -85,7 +95,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "will be my light.",
@@ -93,6 +104,7 @@
     "translit": "(’ō·wr)",
     "parse": "Noun - common singular",
     "str": "Strong's 216:  ",
-    "str2": "Illumination, luminary"
+    "str2": "Illumination, luminary",
+    "num": 216
   }
 ]

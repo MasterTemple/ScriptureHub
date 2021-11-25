@@ -5,7 +5,8 @@
     "translit": "(ha·ḥă·mî·šiṯ)",
     "parse": "Article | Number - ordinal feminine singular",
     "str": "Strong's 2549:  ",
-    "str2": "Fifth, a fifth"
+    "str2": "Fifth, a fifth",
+    "num": 2549
   },
   {
     "word": "year",
@@ -13,7 +14,8 @@
     "translit": "(ū·ḇaš·šā·nāh)",
     "parse": "Conjunctive waw, Preposition-b, Article | Noun - feminine singular",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "you may eat",
@@ -21,7 +23,8 @@
     "translit": "(tō·ḵə·lū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "its fruit;",
@@ -29,7 +32,8 @@
     "translit": "(pir·yōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 6529:  ",
-    "str2": "Fruit"
+    "str2": "Fruit",
+    "num": 6529
   },
   {
     "word": "thus your",
@@ -37,7 +41,8 @@
     "translit": "(lā·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "harvest",
@@ -45,7 +50,8 @@
     "translit": "(tə·ḇū·’ā·ṯōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 8393:  ",
-    "str2": "Product, revenue"
+    "str2": "Product, revenue",
+    "num": 8393
   },
   {
     "word": "will be increased.",
@@ -53,7 +59,8 @@
     "translit": "(lə·hō·w·sîp̄)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct",
     "str": "Strong's 3254:  ",
-    "str2": "To add, augment"
+    "str2": "To add, augment",
+    "num": 3254
   },
   {
     "word": "I",
@@ -61,7 +68,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "am the LORD",
@@ -69,7 +77,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "your God.",
@@ -77,6 +86,7 @@
     "translit": "(’ĕ·lō·hê·ḵem)",
     "parse": "Noun - masculine plural construct | second person masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   }
 ]

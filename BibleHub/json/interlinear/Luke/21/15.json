@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "I",
@@ -13,7 +14,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "will give",
@@ -21,7 +23,8 @@
     "translit": "(dōsō)",
     "parse": "Verb - Future Indicative Active - 1st Person Singular",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "you",
@@ -29,7 +32,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "speech",
@@ -37,7 +41,8 @@
     "translit": "(stoma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4750:  ",
-    "str2": "The mouth, speech, eloquence in speech, the point of a sword. "
+    "str2": "The mouth, speech, eloquence in speech, the point of a sword. ",
+    "num": 4750
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "wisdom",
@@ -53,7 +59,8 @@
     "translit": "(sophian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4678:  ",
-    "str2": "Wisdom, insight, skill (human or divine), intelligence. From sophos; wisdom."
+    "str2": "Wisdom, insight, skill (human or divine), intelligence. From sophos; wisdom.",
+    "num": 4678
   },
   {
     "word": "that",
@@ -61,7 +68,8 @@
     "translit": "(hē)",
     "parse": "Personal / Relative Pronoun - Dative Feminine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "none of",
@@ -69,7 +77,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "your adversaries",
@@ -77,7 +86,8 @@
     "translit": "(antikeimenoi)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Masculine Plural",
     "str": "Strong's 480:  ",
-    "str2": "To resist, oppose, withstand, lie opposite to. From anti and keimai; to lie opposite, i.e. Be adverse to."
+    "str2": "To resist, oppose, withstand, lie opposite to. From anti and keimai; to lie opposite, i.e. Be adverse to.",
+    "num": 480
   },
   {
     "word": "will be able to",
@@ -85,7 +95,8 @@
     "translit": "(dynēsontai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Plural",
     "str": "Strong's 1410:  ",
-    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible."
+    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible.",
+    "num": 1410
   },
   {
     "word": "resist",
@@ -93,7 +104,8 @@
     "translit": "(antistēnai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 436:  ",
-    "str2": "To set against; I withstand, resist, oppose. From anti and histemi; to stand against, i.e. Oppose."
+    "str2": "To set against; I withstand, resist, oppose. From anti and histemi; to stand against, i.e. Oppose.",
+    "num": 436
   },
   {
     "word": "[or]",
@@ -101,7 +113,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "contradict.",
@@ -109,6 +122,7 @@
     "translit": "(anteipein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 483:  ",
-    "str2": "To speak or say in opposition, contradict (oppose, resist). From anti and lego; to dispute, refuse."
+    "str2": "To speak or say in opposition, contradict (oppose, resist). From anti and lego; to dispute, refuse.",
+    "num": 483
   }
 ]

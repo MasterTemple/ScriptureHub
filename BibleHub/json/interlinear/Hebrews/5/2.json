@@ -5,7 +5,8 @@
     "translit": "(dynamenos)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Masculine Singular",
     "str": "Strong's 1410:  ",
-    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible."
+    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible.",
+    "num": 1410
   },
   {
     "word": "to deal gently",
@@ -13,7 +14,8 @@
     "translit": "(metriopathein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 3356:  ",
-    "str2": "To bear gently with, have compassion. From a compound of the base of metrios and pathos; to be moderate in passion, i.e. Gentle."
+    "str2": "To bear gently with, have compassion. From a compound of the base of metrios and pathos; to be moderate in passion, i.e. Gentle.",
+    "num": 3356
   },
   {
     "word": "with those who",
@@ -21,7 +23,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "are ignorant",
@@ -29,7 +32,8 @@
     "translit": "(agnoousin)",
     "parse": "Verb - Present Participle Active - Dative Masculine Plural",
     "str": "Strong's 50:  ",
-    "str2": "To do not know, be ignorant of, sometimes with the idea of willful ignorance. "
+    "str2": "To do not know, be ignorant of, sometimes with the idea of willful ignorance. ",
+    "num": 50
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "misguided,",
@@ -45,7 +50,8 @@
     "translit": "(planōmenois)",
     "parse": "Verb - Present Participle Middle or Passive - Dative Masculine Plural",
     "str": "Strong's 4105:  ",
-    "str2": "To lead astray, deceive, cause to wander. From plane; to roam."
+    "str2": "To lead astray, deceive, cause to wander. From plane; to roam.",
+    "num": 4105
   },
   {
     "word": "since",
@@ -53,7 +59,8 @@
     "translit": "(epei)",
     "parse": "Conjunction",
     "str": "Strong's 1893:  ",
-    "str2": "Of time: when, after; of cause: since, because; otherwise: else. From epi and ei; thereupon, i.e. Since."
+    "str2": "Of time: when, after; of cause: since, because; otherwise: else. From epi and ei; thereupon, i.e. Since.",
+    "num": 1893
   },
   {
     "word": "he himself",
@@ -61,7 +68,8 @@
     "translit": "(autos)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "is beset by",
@@ -69,7 +77,8 @@
     "translit": "(perikeitai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 4029:  ",
-    "str2": "From peri and keimai; to lie all around, i.e. Inclose, encircle, hamper."
+    "str2": "From peri and keimai; to lie all around, i.e. Inclose, encircle, hamper.",
+    "num": 4029
   },
   {
     "word": "weakness.",
@@ -77,6 +86,7 @@
     "translit": "(astheneian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 769:  ",
-    "str2": "From asthenes; feebleness; by implication, malady; morally, frailty."
+    "str2": "From asthenes; feebleness; by implication, malady; morally, frailty.",
+    "num": 769
   }
 ]

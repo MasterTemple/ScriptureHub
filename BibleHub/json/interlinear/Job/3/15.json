@@ -5,7 +5,8 @@
     "translit": "(’ōw)",
     "parse": "Conjunction",
     "str": "Strong's 176:  ",
-    "str2": "Desire, if"
+    "str2": "Desire, if",
+    "num": 176
   },
   {
     "word": "with",
@@ -13,7 +14,8 @@
     "translit": "(‘i·m·śā-)",
     "parse": "Preposition",
     "str": "Strong's 5973:  ",
-    "str2": "With, equally with"
+    "str2": "With, equally with",
+    "num": 5973
   },
   {
     "word": "princes",
@@ -21,7 +23,8 @@
     "translit": "(rîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 8269:  ",
-    "str2": "Chieftain, chief, ruler, official, captain, prince"
+    "str2": "Chieftain, chief, ruler, official, captain, prince",
+    "num": 8269
   },
   {
     "word": "who had gold,",
@@ -29,7 +32,8 @@
     "translit": "(zā·hāḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2091:  ",
-    "str2": "Gold, something gold-colored, as oil, a clear sky"
+    "str2": "Gold, something gold-colored, as oil, a clear sky",
+    "num": 2091
   },
   {
     "word": "who filled",
@@ -37,7 +41,8 @@
     "translit": "(ham·mal·’îm)",
     "parse": "Article | Verb - Piel - Participle - masculine plural",
     "str": "Strong's 4390:  ",
-    "str2": "To fill, be full of"
+    "str2": "To fill, be full of",
+    "num": 4390
   },
   {
     "word": "their houses",
@@ -45,7 +50,8 @@
     "translit": "(bāt·tê·hem)",
     "parse": "Noun - masculine plural construct | third person masculine plural",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "with silver.",
@@ -53,6 +59,7 @@
     "translit": "(kā·sep̄)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3701:  ",
-    "str2": "Silver, money"
+    "str2": "Silver, money",
+    "num": 3701
   }
 ]

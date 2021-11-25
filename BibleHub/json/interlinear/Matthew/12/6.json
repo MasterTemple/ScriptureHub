@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "I tell",
@@ -13,7 +14,8 @@
     "translit": "(legō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "you,",
@@ -21,7 +23,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "something greater than",
@@ -29,7 +32,8 @@
     "translit": "(meizon)",
     "parse": "Adjective - Nominative Neuter Singular - Comparative",
     "str": "Strong's 3173:  ",
-    "str2": "Large, great, in the widest sense. "
+    "str2": "Large, great, in the widest sense. ",
+    "num": 3173
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "temple",
@@ -45,7 +50,8 @@
     "translit": "(hierou)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 2411:  ",
-    "str2": "Neuter of hieros; a sacred place, i.e. The entire precincts of the Temple."
+    "str2": "Neuter of hieros; a sacred place, i.e. The entire precincts of the Temple.",
+    "num": 2411
   },
   {
     "word": "is",
@@ -53,7 +59,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "here.",
@@ -61,6 +68,7 @@
     "translit": "(hōde)",
     "parse": "Adverb",
     "str": "Strong's 5602:  ",
-    "str2": "From an adverb form of hode; in this same spot, i.e. Here or hither."
+    "str2": "From an adverb form of hode; in this same spot, i.e. Here or hither.",
+    "num": 5602
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[Jesus] went",
@@ -13,7 +14,8 @@
     "translit": "(erchetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "home,",
@@ -21,7 +23,8 @@
     "translit": "(oikon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3624:  ",
-    "str2": "A dwelling; by implication, a family."
+    "str2": "A dwelling; by implication, a family.",
+    "num": 3624
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "once again",
@@ -37,7 +41,8 @@
     "translit": "(palin)",
     "parse": "Adverb",
     "str": "Strong's 3825:  ",
-    "str2": "Probably from the same as pale; anew, i.e. back, once more, or furthermore or on the other hand."
+    "str2": "Probably from the same as pale; anew, i.e. back, once more, or furthermore or on the other hand.",
+    "num": 3825
   },
   {
     "word": "a",
@@ -45,7 +50,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "crowd",
@@ -53,7 +59,8 @@
     "translit": "(ochlos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3793:  ",
-    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot."
+    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot.",
+    "num": 3793
   },
   {
     "word": "gathered,",
@@ -61,7 +68,8 @@
     "translit": "(synerchetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 4905:  ",
-    "str2": "From sun and erchomai; to convene, depart in company with, associate with, or, cohabit."
+    "str2": "From sun and erchomai; to convene, depart in company with, associate with, or, cohabit.",
+    "num": 4905
   },
   {
     "word": "so that",
@@ -69,7 +77,8 @@
     "translit": "(hōste)",
     "parse": "Conjunction",
     "str": "Strong's 5620:  ",
-    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore."
+    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore.",
+    "num": 5620
   },
   {
     "word": "[He and His disciples] could",
@@ -77,7 +86,8 @@
     "translit": "(dynasthai)",
     "parse": "Verb - Present Infinitive Middle or Passive",
     "str": "Strong's 1410:  ",
-    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible."
+    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible.",
+    "num": 1410
   },
   {
     "word": "not",
@@ -85,7 +95,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "even",
@@ -93,7 +104,8 @@
     "translit": "(mēde)",
     "parse": "Conjunction",
     "str": "Strong's 3366:  ",
-    "str2": "And not, not even, neither?nor. From me and de; but not, not even; in a continued negation, nor."
+    "str2": "And not, not even, neither?nor. From me and de; but not, not even; in a continued negation, nor.",
+    "num": 3366
   },
   {
     "word": "eat.",
@@ -101,6 +113,7 @@
     "translit": "(phagein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 5315:  ",
-    "str2": "A primary verb; to eat."
+    "str2": "A primary verb; to eat.",
+    "num": 5315
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(adelphoi)",
     "parse": "Noun - Vocative Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "Paul",
@@ -13,7 +14,8 @@
     "translit": "(Paulos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3972:  ",
-    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle."
+    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle.",
+    "num": 3972
   },
   {
     "word": "replied,",
@@ -21,7 +23,8 @@
     "translit": "(Ephē)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 5346:  ",
-    "str2": "To say, declare. Properly, the same as the base of phos and phaino; to show or make known one's thoughts, i.e. Speak or say."
+    "str2": "To say, declare. Properly, the same as the base of phos and phaino; to show or make known one's thoughts, i.e. Speak or say.",
+    "num": 5346
   },
   {
     "word": "“I was not aware",
@@ -29,7 +32,8 @@
     "translit": "(ēdein)",
     "parse": "Verb - Pluperfect Indicative Active - 1st Person Singular",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "that",
@@ -37,7 +41,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "he was",
@@ -45,7 +50,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "[the] high priest,",
@@ -53,7 +59,8 @@
     "translit": "(archiereus)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 749:  ",
-    "str2": "High priest, chief priest. From arche and hiereus; the high-priest; by extension a chief priest."
+    "str2": "High priest, chief priest. From arche and hiereus; the high-priest; by extension a chief priest.",
+    "num": 749
   },
   {
     "word": "for",
@@ -61,7 +68,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "it is written:",
@@ -69,7 +77,8 @@
     "translit": "(gegraptai)",
     "parse": "Verb - Perfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1125:  ",
-    "str2": "A primary verb; to 'grave', especially to write; figuratively, to describe."
+    "str2": "A primary verb; to 'grave', especially to write; figuratively, to describe.",
+    "num": 1125
   },
   {
     "word": "‘Do not speak",
@@ -77,7 +86,8 @@
     "translit": "(ereis)",
     "parse": "Verb - Future Indicative Active - 2nd Person Singular",
     "str": "Strong's 2046:  ",
-    "str2": "Probably a fuller form of rheo; an alternate for epo in certain tenses; to utter, i.e. Speak or say."
+    "str2": "Probably a fuller form of rheo; an alternate for epo in certain tenses; to utter, i.e. Speak or say.",
+    "num": 2046
   },
   {
     "word": "evil",
@@ -85,7 +95,8 @@
     "translit": "(kakōs)",
     "parse": "Adverb",
     "str": "Strong's 2560:  ",
-    "str2": "Badly, evilly, wrongly. From kakos; badly."
+    "str2": "Badly, evilly, wrongly. From kakos; badly.",
+    "num": 2560
   },
   {
     "word": "[about the] ruler",
@@ -93,7 +104,8 @@
     "translit": "(Archonta)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 758:  ",
-    "str2": "Present participle of archo; a first."
+    "str2": "Present participle of archo; a first.",
+    "num": 758
   },
   {
     "word": "of",
@@ -101,7 +113,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "your",
@@ -109,7 +122,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "people.’”",
@@ -117,6 +131,7 @@
     "translit": "(laou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2992:  ",
-    "str2": "Apparently a primary word; a people."
+    "str2": "Apparently a primary word; a people.",
+    "num": 2992
   }
 ]

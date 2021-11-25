@@ -5,7 +5,8 @@
     "translit": "(lām·māh)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "do You withdraw",
@@ -13,7 +14,8 @@
     "translit": "(ṯā·šîḇ)",
     "parse": "Verb - Hifil - Imperfect - second person masculine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "Your hand?",
@@ -21,7 +23,8 @@
     "translit": "(yā·ḏə·ḵā)",
     "parse": "Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "Stretch out",
@@ -29,7 +32,8 @@
     "translit": "(miq·qe·reḇ)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 7130:  ",
-    "str2": "The nearest part, the center"
+    "str2": "The nearest part, the center",
+    "num": 7130
   },
   {
     "word": "Your right hand",
@@ -37,7 +41,8 @@
     "translit": "(wî·mî·ne·ḵā)",
     "parse": "Conjunctive waw | Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 3225:  ",
-    "str2": "The right hand, side, the south"
+    "str2": "The right hand, side, the south",
+    "num": 3225
   },
   {
     "word": "and destroy them!",
@@ -45,6 +50,7 @@
     "translit": "(ḵal·lêh)",
     "parse": "Verb - Piel - Imperative - masculine singular",
     "str": "Strong's 3615:  ",
-    "str2": "To be complete, at an end, finished, accomplished, or spent"
+    "str2": "To be complete, at an end, finished, accomplished, or spent",
+    "num": 3615
   }
 ]

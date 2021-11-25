@@ -5,7 +5,8 @@
     "translit": "(wə·’im-)",
     "parse": "Conjunctive waw | Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "after",
@@ -13,7 +14,8 @@
     "translit": "(‘aḏ-)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "all this",
@@ -21,7 +23,8 @@
     "translit": "(’êl·leh)",
     "parse": "Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   },
   {
     "word": "you will not",
@@ -29,7 +32,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "obey",
@@ -37,7 +41,8 @@
     "translit": "(ṯiš·mə·‘ū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "Me,",
@@ -45,7 +50,8 @@
     "translit": "(lî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "I will proceed",
@@ -53,7 +59,8 @@
     "translit": "(wə·yā·sap̄·tî)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - first person common singular",
     "str": "Strong's 3254:  ",
-    "str2": "To add, augment"
+    "str2": "To add, augment",
+    "num": 3254
   },
   {
     "word": "to punish",
@@ -61,7 +68,8 @@
     "translit": "(lə·yas·sə·rāh)",
     "parse": "Preposition-l | Verb - Piel - Infinitive construct | third person feminine singular",
     "str": "Strong's 3256:  ",
-    "str2": "To discipline, chasten, admonish"
+    "str2": "To discipline, chasten, admonish",
+    "num": 3256
   },
   {
     "word": "you",
@@ -69,7 +77,8 @@
     "translit": "(’eṯ·ḵem)",
     "parse": "Direct object marker | second person masculine plural",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "sevenfold",
@@ -77,7 +86,8 @@
     "translit": "(še·ḇa‘)",
     "parse": "Number - feminine singular",
     "str": "Strong's 7651:  ",
-    "str2": "Seven, seven times, a week, an indefinite number"
+    "str2": "Seven, seven times, a week, an indefinite number",
+    "num": 7651
   },
   {
     "word": "for",
@@ -85,7 +95,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "your sins.",
@@ -93,6 +104,7 @@
     "translit": "(ḥaṭ·ṭō·ṯê·ḵem)",
     "parse": "Noun - feminine plural construct | second person masculine plural",
     "str": "Strong's 2403:  ",
-    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender"
+    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender",
+    "num": 2403
   }
 ]

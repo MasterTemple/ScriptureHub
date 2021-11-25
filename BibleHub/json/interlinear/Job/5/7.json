@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "man",
@@ -13,7 +14,8 @@
     "translit": "(’ā·ḏām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   },
   {
     "word": "is born",
@@ -21,7 +23,8 @@
     "translit": "(yūl·lāḏ)",
     "parse": "Verb - QalPass - Perfect - third person masculine singular",
     "str": "Strong's 3205:  ",
-    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage"
+    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage",
+    "num": 3205
   },
   {
     "word": "to trouble",
@@ -29,7 +32,8 @@
     "translit": "(lə·‘ā·māl)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 5999:  ",
-    "str2": "Toil, wearing effort, worry, wheth, of body, mind"
+    "str2": "Toil, wearing effort, worry, wheth, of body, mind",
+    "num": 5999
   },
   {
     "word": "as surely as sparks",
@@ -37,7 +41,8 @@
     "translit": "(ū·ḇə·nê-)",
     "parse": "Conjunctive waw | Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "fly",
@@ -45,7 +50,8 @@
     "translit": "(‘ūp̄)",
     "parse": "Verb - Qal - Infinitive construct",
     "str": "Strong's 5774:  ",
-    "str2": "To fly, to faint"
+    "str2": "To fly, to faint",
+    "num": 5774
   },
   {
     "word": "upward.",
@@ -53,6 +59,7 @@
     "translit": "(yaḡ·bî·hū)",
     "parse": "Verb - Hifil - Imperfect - third person masculine plural",
     "str": "Strong's 1361:  ",
-    "str2": "To soar, be lofty, to be haughty"
+    "str2": "To soar, be lofty, to be haughty",
+    "num": 1361
   }
 ]

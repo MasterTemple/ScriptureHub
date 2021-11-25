@@ -5,7 +5,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "when he arrived",
@@ -13,7 +14,8 @@
     "translit": "(genomenos)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "in",
@@ -21,7 +23,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "Rome,",
@@ -29,7 +32,8 @@
     "translit": "(Rhōmē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4516:  ",
-    "str2": "From the base of rhonnumi; strength; Roma, the capital of Italy."
+    "str2": "From the base of rhonnumi; strength; Roma, the capital of Italy.",
+    "num": 4516
   },
   {
     "word": "he searched diligently",
@@ -37,7 +41,8 @@
     "translit": "(ezētēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2212:  ",
-    "str2": "To seek, search for, desire, require, demand. Of uncertain affinity; to seek; specially, to worship, or to plot."
+    "str2": "To seek, search for, desire, require, demand. Of uncertain affinity; to seek; specially, to worship, or to plot.",
+    "num": 2212
   },
   {
     "word": "[until]",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he found",
@@ -53,7 +59,8 @@
     "translit": "(heuren)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2147:  ",
-    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find."
+    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find.",
+    "num": 2147
   },
   {
     "word": "me.",
@@ -61,6 +68,7 @@
     "translit": "(me)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   }
 ]

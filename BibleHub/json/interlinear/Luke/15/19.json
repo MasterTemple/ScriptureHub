@@ -5,7 +5,8 @@
     "translit": "(eimi)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "no longer",
@@ -13,7 +14,8 @@
     "translit": "(ouketi)",
     "parse": "Adverb",
     "str": "Strong's 3765:  ",
-    "str2": "No longer, no more. Also ouk eti from ou and eti; not yet, no longer."
+    "str2": "No longer, no more. Also ouk eti from ou and eti; not yet, no longer.",
+    "num": 3765
   },
   {
     "word": "worthy",
@@ -21,7 +23,8 @@
     "translit": "(axios)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 514:  ",
-    "str2": "Worthy, worthy of, deserving, comparable, suitable. Probably from ago; deserving, comparable or suitable."
+    "str2": "Worthy, worthy of, deserving, comparable, suitable. Probably from ago; deserving, comparable or suitable.",
+    "num": 514
   },
   {
     "word": "to be called",
@@ -29,7 +32,8 @@
     "translit": "(klēthēnai)",
     "parse": "Verb - Aorist Infinitive Passive",
     "str": "Strong's 2564:  ",
-    "str2": "(a) I call, summon, invite, (b) I call, name. Akin to the base of keleuo; to 'call'."
+    "str2": "(a) I call, summon, invite, (b) I call, name. Akin to the base of keleuo; to 'call'.",
+    "num": 2564
   },
   {
     "word": "your",
@@ -37,7 +41,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "son.",
@@ -45,7 +50,8 @@
     "translit": "(huios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   },
   {
     "word": "Make",
@@ -53,7 +59,8 @@
     "translit": "(poiēson)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "me",
@@ -61,7 +68,8 @@
     "translit": "(me)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "like",
@@ -69,7 +77,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "one",
@@ -77,7 +86,8 @@
     "translit": "(hena)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 1520:  ",
-    "str2": "One. (including the neuter Hen); a primary numeral; one."
+    "str2": "One. (including the neuter Hen); a primary numeral; one.",
+    "num": 1520
   },
   {
     "word": "of",
@@ -85,7 +95,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "your",
@@ -93,7 +104,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "hired servants.”’",
@@ -101,6 +113,7 @@
     "translit": "(misthiōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 3407:  ",
-    "str2": "A paid worker, hired servant, hireling (contrasted with a slave). From misthos; a wage-earner."
+    "str2": "A paid worker, hired servant, hireling (contrasted with a slave). From misthos; a wage-earner.",
+    "num": 3407
   }
 ]

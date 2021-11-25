@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "we hope for",
@@ -21,7 +23,8 @@
     "translit": "(elpizomen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 1679:  ",
-    "str2": "To hope, hope for, expect, trust. From elpis; to expect or confide."
+    "str2": "To hope, hope for, expect, trust. From elpis; to expect or confide.",
+    "num": 1679
   },
   {
     "word": "what",
@@ -29,7 +32,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "we do not yet see,",
@@ -37,7 +41,8 @@
     "translit": "(blepomen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 991:  ",
-    "str2": "(primarily physical), I look, see, perceive, discern. A primary verb; to look at."
+    "str2": "(primarily physical), I look, see, perceive, discern. A primary verb; to look at.",
+    "num": 991
   },
   {
     "word": "we wait for [it]",
@@ -45,7 +50,8 @@
     "translit": "(apekdechometha)",
     "parse": "Verb - Present Indicative Middle or Passive - 1st Person Plural",
     "str": "Strong's 553:  ",
-    "str2": "To expect eagerly, wait for eagerly, look for. From apo and ekdechomai; to expect fully."
+    "str2": "To expect eagerly, wait for eagerly, look for. From apo and ekdechomai; to expect fully.",
+    "num": 553
   },
   {
     "word": "patiently.",
@@ -53,6 +59,7 @@
     "translit": "(hypomonēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 5281:  ",
-    "str2": "Endurance, steadfastness, patient waiting for. From hupomeno; cheerful endurance, constancy."
+    "str2": "Endurance, steadfastness, patient waiting for. From hupomeno; cheerful endurance, constancy.",
+    "num": 5281
   }
 ]

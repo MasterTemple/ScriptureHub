@@ -5,7 +5,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "alone",
@@ -13,7 +14,8 @@
     "translit": "(monos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3441:  ",
-    "str2": "Only, solitary, desolate. Probably from meno; remaining, i.e. Sole or single; by implication, mere."
+    "str2": "Only, solitary, desolate. Probably from meno; remaining, i.e. Sole or single; by implication, mere.",
+    "num": 3441
   },
   {
     "word": "is",
@@ -21,7 +23,8 @@
     "translit": "(echōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "immortal",
@@ -29,7 +32,8 @@
     "translit": "(athanasian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 110:  ",
-    "str2": "Immortality, imperishability, freedom from death. From a compound of a and thanatos; deathlessness."
+    "str2": "Immortality, imperishability, freedom from death. From a compound of a and thanatos; deathlessness.",
+    "num": 110
   },
   {
     "word": "[and] dwells",
@@ -37,7 +41,8 @@
     "translit": "(oikōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3611:  ",
-    "str2": "To inhabit, dwell, indwell. From oikos; to occupy a house, i.e. Reside; by implication, to cohabit."
+    "str2": "To inhabit, dwell, indwell. From oikos; to occupy a house, i.e. Reside; by implication, to cohabit.",
+    "num": 3611
   },
   {
     "word": "in unapproachable",
@@ -45,7 +50,8 @@
     "translit": "(aprositon)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 676:  ",
-    "str2": "Unapproachable. Inaccessible."
+    "str2": "Unapproachable. Inaccessible.",
+    "num": 676
   },
   {
     "word": "light.",
@@ -53,7 +59,8 @@
     "translit": "(phōs)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 5457:  ",
-    "str2": "Light, a source of light, radiance. From an obsolete phao; luminousness."
+    "str2": "Light, a source of light, radiance. From an obsolete phao; luminousness.",
+    "num": 5457
   },
   {
     "word": "No one",
@@ -61,7 +68,8 @@
     "translit": "(oudeis)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3762:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3762
   },
   {
     "word": "has ever seen",
@@ -69,7 +77,8 @@
     "translit": "(eiden)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "[Him],",
@@ -77,7 +86,8 @@
     "translit": "(hon)",
     "parse": "Personal / Relative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "nor",
@@ -85,7 +95,8 @@
     "translit": "(oude)",
     "parse": "Conjunction",
     "str": "Strong's 3761:  ",
-    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even."
+    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even.",
+    "num": 3761
   },
   {
     "word": "can [anyone]",
@@ -93,7 +104,8 @@
     "translit": "(dynatai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1410:  ",
-    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible."
+    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible.",
+    "num": 1410
   },
   {
     "word": "see [Him].",
@@ -101,7 +113,8 @@
     "translit": "(idein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "To [Him be]",
@@ -109,7 +122,8 @@
     "translit": "(hō)",
     "parse": "Personal / Relative Pronoun - Dative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "honor",
@@ -117,7 +131,8 @@
     "translit": "(timē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 5092:  ",
-    "str2": "A price, honor. From tino; a value, i.e. Money paid, or valuables; by analogy, esteem, or the dignity itself."
+    "str2": "A price, honor. From tino; a value, i.e. Money paid, or valuables; by analogy, esteem, or the dignity itself.",
+    "num": 5092
   },
   {
     "word": "and",
@@ -125,7 +140,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "eternal",
@@ -133,7 +149,8 @@
     "translit": "(aiōnion)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 166:  ",
-    "str2": "From aion; perpetual."
+    "str2": "From aion; perpetual.",
+    "num": 166
   },
   {
     "word": "dominion!",
@@ -141,7 +158,8 @@
     "translit": "(kratos)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 2904:  ",
-    "str2": "Dominion, strength, power; a mighty deed. Perhaps a primary word; vigor."
+    "str2": "Dominion, strength, power; a mighty deed. Perhaps a primary word; vigor.",
+    "num": 2904
   },
   {
     "word": "Amen.",
@@ -149,6 +167,7 @@
     "translit": "(amēn)",
     "parse": "Hebrew Word ",
     "str": "Strong's 281:  ",
-    "str2": "Of Hebrew origin; properly, firm, i.e. trustworthy; adverbially, surely."
+    "str2": "Of Hebrew origin; properly, firm, i.e. trustworthy; adverbially, surely.",
+    "num": 281
   }
 ]

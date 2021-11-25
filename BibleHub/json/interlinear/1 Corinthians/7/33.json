@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "married man",
@@ -21,7 +23,8 @@
     "translit": "(gamēsas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1060:  ",
-    "str2": "To marry, used of either sex. From gamos; to wed."
+    "str2": "To marry, used of either sex. From gamos; to wed.",
+    "num": 1060
   },
   {
     "word": "is concerned about",
@@ -29,7 +32,8 @@
     "translit": "(merimna)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3309:  ",
-    "str2": "To be over-anxious; with acc: To be anxious about, distracted; I care for. From merimna; to be anxious about."
+    "str2": "To be over-anxious; with acc: To be anxious about, distracted; I care for. From merimna; to be anxious about.",
+    "num": 3309
   },
   {
     "word": "the [affairs]",
@@ -37,7 +41,8 @@
     "translit": "(ta)",
     "parse": "Article - Accusative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "of this",
@@ -45,7 +50,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "world,",
@@ -53,7 +59,8 @@
     "translit": "(kosmou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2889:  ",
-    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally)."
+    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally).",
+    "num": 2889
   },
   {
     "word": "how",
@@ -61,7 +68,8 @@
     "translit": "(pōs)",
     "parse": "Adverb",
     "str": "Strong's 4459:  ",
-    "str2": "Adverb from the base of pou; an interrogative particle of manner; in what way?; also as exclamation, how much!"
+    "str2": "Adverb from the base of pou; an interrogative particle of manner; in what way?; also as exclamation, how much!",
+    "num": 4459
   },
   {
     "word": "he can please",
@@ -69,7 +77,8 @@
     "translit": "(aresē)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 700:  ",
-    "str2": "To please, with the idea of willing service rendered to others; hence almost: I serve. Probably from airo; to be agreeable."
+    "str2": "To please, with the idea of willing service rendered to others; hence almost: I serve. Probably from airo; to be agreeable.",
+    "num": 700
   },
   {
     "word": "[his]",
@@ -77,7 +86,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "wife,",
@@ -85,6 +95,7 @@
     "translit": "(gynaiki)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 1135:  ",
-    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife."
+    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife.",
+    "num": 1135
   }
 ]

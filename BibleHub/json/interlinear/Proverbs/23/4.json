@@ -5,7 +5,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "wear yourself out",
@@ -13,7 +14,8 @@
     "translit": "(tî·ḡa‘)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 3021:  ",
-    "str2": "To gasp, to be exhausted, to tire, to toil"
+    "str2": "To gasp, to be exhausted, to tire, to toil",
+    "num": 3021
   },
   {
     "word": "to get rich;",
@@ -21,7 +23,8 @@
     "translit": "(lə·ha·‘ă·šîr)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct",
     "str": "Strong's 6238:  ",
-    "str2": "To accumulate, chiefly, to grow, rich"
+    "str2": "To accumulate, chiefly, to grow, rich",
+    "num": 6238
   },
   {
     "word": "be wise enough",
@@ -29,7 +32,8 @@
     "translit": "(mib·bî·nā·ṯə·ḵā)",
     "parse": "Preposition-m | Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 998:  ",
-    "str2": "An understanding"
+    "str2": "An understanding",
+    "num": 998
   },
   {
     "word": "to restrain yourself.",
@@ -37,6 +41,7 @@
     "translit": "(ḥă·ḏāl)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 2308:  ",
-    "str2": "To be flabby, desist, be lacking, idle"
+    "str2": "To be flabby, desist, be lacking, idle",
+    "num": 2308
   }
 ]

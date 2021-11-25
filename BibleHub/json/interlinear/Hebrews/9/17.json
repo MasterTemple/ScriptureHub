@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "a will",
@@ -13,7 +14,8 @@
     "translit": "(diathēkē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1242:  ",
-    "str2": "From diatithemai; properly, a disposition, i.e. a contract."
+    "str2": "From diatithemai; properly, a disposition, i.e. a contract.",
+    "num": 1242
   },
   {
     "word": "[does not] take effect",
@@ -21,7 +23,8 @@
     "translit": "(bebaia)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 949:  ",
-    "str2": "Firm, steadfast, enduring, sure, certain. From the base of basis; stable."
+    "str2": "Firm, steadfast, enduring, sure, certain. From the base of basis; stable.",
+    "num": 949
   },
   {
     "word": "until",
@@ -29,7 +32,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "the [one who]",
@@ -37,7 +41,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "made [it]",
@@ -45,7 +50,8 @@
     "translit": "(diathemenos)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Singular",
     "str": "Strong's 1303:  ",
-    "str2": "(a) I appoint, make (of a covenant), (b) I make (a will). Middle voice from dia and tithemi; to put apart, i.e. dispose."
+    "str2": "(a) I appoint, make (of a covenant), (b) I make (a will). Middle voice from dia and tithemi; to put apart, i.e. dispose.",
+    "num": 1303
   },
   {
     "word": "has died;",
@@ -53,7 +59,8 @@
     "translit": "(nekrois)",
     "parse": "Adjective - Dative Masculine Plural",
     "str": "Strong's 3498:  ",
-    "str2": "(a) adj: dead, lifeless, subject to death, mortal, (b) noun: a dead body, a corpse. From an apparently primary nekus; dead."
+    "str2": "(a) adj: dead, lifeless, subject to death, mortal, (b) noun: a dead body, a corpse. From an apparently primary nekus; dead.",
+    "num": 3498
   },
   {
     "word": "it cannot be executed",
@@ -61,7 +68,8 @@
     "translit": "(ischyei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2480:  ",
-    "str2": "To have strength, be strong, be in full health and vigor, be able; meton: I prevail. From ischus; to have force."
+    "str2": "To have strength, be strong, be in full health and vigor, be able; meton: I prevail. From ischus; to have force.",
+    "num": 2480
   },
   {
     "word": "while",
@@ -69,7 +77,8 @@
     "translit": "(hote)",
     "parse": "Adverb",
     "str": "Strong's 3753:  ",
-    "str2": "When, at which time. From hos and te; at which too, i.e. When."
+    "str2": "When, at which time. From hos and te; at which too, i.e. When.",
+    "num": 3753
   },
   {
     "word": "he is still alive.",
@@ -77,6 +86,7 @@
     "translit": "(zē)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2198:  ",
-    "str2": "To live, be alive. A primary verb; to live."
+    "str2": "To live, be alive. A primary verb; to live.",
+    "num": 2198
   }
 ]

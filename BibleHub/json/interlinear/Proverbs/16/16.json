@@ -5,7 +5,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "better",
@@ -13,7 +14,8 @@
     "translit": "(ṭō·wḇ)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 2896:  ",
-    "str2": "Pleasant, agreeable, good"
+    "str2": "Pleasant, agreeable, good",
+    "num": 2896
   },
   {
     "word": "to acquire",
@@ -21,7 +23,8 @@
     "translit": "(qə·nōh-)",
     "parse": "Verb - Qal - Infinitive construct",
     "str": "Strong's 7069:  ",
-    "str2": "To erect, create, to procure, by purchase, to own"
+    "str2": "To erect, create, to procure, by purchase, to own",
+    "num": 7069
   },
   {
     "word": "wisdom",
@@ -29,7 +32,8 @@
     "translit": "(ḥāḵ·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 2451:  ",
-    "str2": "Wisdom"
+    "str2": "Wisdom",
+    "num": 2451
   },
   {
     "word": "than gold;",
@@ -37,7 +41,8 @@
     "translit": "(mê·ḥā·rūṣ)",
     "parse": "Preposition-m | Noun - masculine singular",
     "str": "Strong's 2742:  ",
-    "str2": "Incised, incisive, a trench, gold, a threshing-sledge, determination, eager"
+    "str2": "Incised, incisive, a trench, gold, a threshing-sledge, determination, eager",
+    "num": 2742
   },
   {
     "word": "to gain",
@@ -45,7 +50,8 @@
     "translit": "(ū·qə·nō·wṯ)",
     "parse": "Conjunctive waw | Verb - Qal - Infinitive construct",
     "str": "Strong's 7069:  ",
-    "str2": "To erect, create, to procure, by purchase, to own"
+    "str2": "To erect, create, to procure, by purchase, to own",
+    "num": 7069
   },
   {
     "word": "understanding",
@@ -53,7 +59,8 @@
     "translit": "(bî·nāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 998:  ",
-    "str2": "An understanding"
+    "str2": "An understanding",
+    "num": 998
   },
   {
     "word": "is more desirable",
@@ -61,7 +68,8 @@
     "translit": "(niḇ·ḥār)",
     "parse": "Verb - Nifal - Participle - masculine singular",
     "str": "Strong's 977:  ",
-    "str2": "To try, select"
+    "str2": "To try, select",
+    "num": 977
   },
   {
     "word": "than silver.",
@@ -69,6 +77,7 @@
     "translit": "(mik·kā·sep̄)",
     "parse": "Preposition-m | Noun - masculine singular",
     "str": "Strong's 3701:  ",
-    "str2": "Silver, money"
+    "str2": "Silver, money",
+    "num": 3701
   }
 ]

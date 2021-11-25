@@ -5,7 +5,8 @@
     "translit": "(’ā·nāh)",
     "parse": "Interrogative",
     "str": "Strong's 575:  ",
-    "str2": "Where?, whither?, when?, hither and thither"
+    "str2": "Where?, whither?, when?, hither and thither",
+    "num": 575
   },
   {
     "word": "are they",
@@ -13,7 +14,8 @@
     "translit": "(hêm·māh)",
     "parse": "Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "taking",
@@ -21,7 +23,8 @@
     "translit": "(mō·w·li·ḵō·wṯ)",
     "parse": "Verb - Hifil - Participle - feminine plural",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "the basket?”",
@@ -29,7 +32,8 @@
     "translit": "(hā·’ê·p̄āh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 374:  ",
-    "str2": "Ephah -- an ephah (a measure of grain)"
+    "str2": "Ephah -- an ephah (a measure of grain)",
+    "num": 374
   },
   {
     "word": "I asked",
@@ -37,7 +41,8 @@
     "translit": "(wā·’ō·mar)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - first person common singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "the angel",
@@ -45,7 +50,8 @@
     "translit": "(ham·mal·’āḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4397:  ",
-    "str2": "A messenger, of God, an angel"
+    "str2": "A messenger, of God, an angel",
+    "num": 4397
   },
   {
     "word": "who was speaking",
@@ -53,7 +59,8 @@
     "translit": "(had·dō·ḇêr)",
     "parse": "Article | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 1696:  ",
-    "str2": "To arrange, to speak, to subdue"
+    "str2": "To arrange, to speak, to subdue",
+    "num": 1696
   },
   {
     "word": "with me.",
@@ -61,6 +68,7 @@
     "translit": "(bî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

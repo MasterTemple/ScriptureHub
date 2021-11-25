@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "when [the ruler] heard",
@@ -13,7 +14,8 @@
     "translit": "(akousas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "this,",
@@ -21,7 +23,8 @@
     "translit": "(tauta)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "he became",
@@ -29,7 +32,8 @@
     "translit": "(egenēthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "very sad,",
@@ -37,7 +41,8 @@
     "translit": "(perilypos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 4036:  ",
-    "str2": "Very sorrowful, greatly grieved. From peri and lupe; grieved all around, i.e. Intensely sad."
+    "str2": "Very sorrowful, greatly grieved. From peri and lupe; grieved all around, i.e. Intensely sad.",
+    "num": 4036
   },
   {
     "word": "because",
@@ -45,7 +50,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "he was",
@@ -53,7 +59,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "extremely",
@@ -61,7 +68,8 @@
     "translit": "(sphodra)",
     "parse": "Adverb",
     "str": "Strong's 4970:  ",
-    "str2": "Exceedingly, greatly, very much. Neuter plural of sphodros as adverb; vehemently, i.e. In a high degree, much."
+    "str2": "Exceedingly, greatly, very much. Neuter plural of sphodros as adverb; vehemently, i.e. In a high degree, much.",
+    "num": 4970
   },
   {
     "word": "wealthy.",
@@ -69,6 +77,7 @@
     "translit": "(plousios)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 4145:  ",
-    "str2": "Rich, abounding in, wealthy; subst: a rich man. From ploutos; wealthy; figuratively, abounding with."
+    "str2": "Rich, abounding in, wealthy; subst: a rich man. From ploutos; wealthy; figuratively, abounding with.",
+    "num": 4145
   }
 ]

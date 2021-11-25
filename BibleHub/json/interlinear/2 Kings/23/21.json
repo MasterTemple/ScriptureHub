@@ -5,7 +5,8 @@
     "translit": "(ham·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "commanded",
@@ -13,7 +14,8 @@
     "translit": "(way·ṣaw)",
     "parse": "Conjunctive waw | Verb - Piel - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 6680:  ",
-    "str2": "To lay charge (upon), give charge (to), command, order"
+    "str2": "To lay charge (upon), give charge (to), command, order",
+    "num": 6680
   },
   {
     "word": "all",
@@ -21,7 +23,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the people,",
@@ -29,7 +32,8 @@
     "translit": "(hā·‘ām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "“Keep",
@@ -37,7 +41,8 @@
     "translit": "(‘ă·śū)",
     "parse": "Verb - Qal - Imperative - masculine plural",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "the Passover",
@@ -45,7 +50,8 @@
     "translit": "(p̄e·saḥ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6453:  ",
-    "str2": "A pretermission, exemption, Passover"
+    "str2": "A pretermission, exemption, Passover",
+    "num": 6453
   },
   {
     "word": "of the LORD",
@@ -53,7 +59,8 @@
     "translit": "(Yah·weh)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "your God,",
@@ -61,7 +68,8 @@
     "translit": "(’ĕ·lō·hê·ḵem)",
     "parse": "Noun - masculine plural construct | second person masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "as [it is] written",
@@ -69,7 +77,8 @@
     "translit": "(kak·kā·ṯūḇ)",
     "parse": "Preposition-k, Article | Verb - Qal - QalPassParticiple - masculine singular",
     "str": "Strong's 3789:  ",
-    "str2": "To grave, to write"
+    "str2": "To grave, to write",
+    "num": 3789
   },
   {
     "word": "in",
@@ -77,7 +86,8 @@
     "translit": "(‘al)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "this",
@@ -85,7 +95,8 @@
     "translit": "(haz·zeh)",
     "parse": "Article | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "Book",
@@ -93,7 +104,8 @@
     "translit": "(sê·p̄er)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 5612:  ",
-    "str2": "A missive, document, writing, book"
+    "str2": "A missive, document, writing, book",
+    "num": 5612
   },
   {
     "word": "of the Covenant.”",
@@ -101,6 +113,7 @@
     "translit": "(hab·bə·rîṯ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 1285:  ",
-    "str2": "A covenant"
+    "str2": "A covenant",
+    "num": 1285
   }
 ]

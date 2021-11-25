@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "they cannot",
@@ -13,7 +14,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "sleep",
@@ -21,7 +23,8 @@
     "translit": "(yiš·nū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 3462:  ",
-    "str2": "To be slack, languid, sleep, to grow old, stale, inveterate"
+    "str2": "To be slack, languid, sleep, to grow old, stale, inveterate",
+    "num": 3462
   },
   {
     "word": "unless",
@@ -29,7 +32,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "they do evil,",
@@ -37,7 +41,8 @@
     "translit": "(yā·rê·‘ū)",
     "parse": "Verb - Hifil - Imperfect - third person masculine plural",
     "str": "Strong's 7489:  ",
-    "str2": "To spoil, to make, good for, nothing, bad"
+    "str2": "To spoil, to make, good for, nothing, bad",
+    "num": 7489
   },
   {
     "word": "they are deprived",
@@ -45,7 +50,8 @@
     "translit": "(wə·niḡ·zə·lāh)",
     "parse": "Conjunctive waw | Verb - Nifal - Conjunctive perfect - third person feminine singular",
     "str": "Strong's 1497:  ",
-    "str2": "To pluck off, to flay, strip, rob"
+    "str2": "To pluck off, to flay, strip, rob",
+    "num": 1497
   },
   {
     "word": "of slumber",
@@ -53,7 +59,8 @@
     "translit": "(nā·ṯām)",
     "parse": "Noun - feminine singular construct | third person masculine plural",
     "str": "Strong's 8142:  ",
-    "str2": "Sleep"
+    "str2": "Sleep",
+    "num": 8142
   },
   {
     "word": "until",
@@ -61,7 +68,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "they make someone fall,",
@@ -69,6 +77,7 @@
     "translit": "(yaḵ·šî·lū)",
     "parse": "Verb - Hifil - Imperfect - third person masculine plural",
     "str": "Strong's 3782:  ",
-    "str2": "To totter, waver, to falter, stumble, faint, fall"
+    "str2": "To totter, waver, to falter, stumble, faint, fall",
+    "num": 3782
   }
 ]

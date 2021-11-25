@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[Jesus] heard",
@@ -13,7 +14,8 @@
     "translit": "(Akousas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "that",
@@ -21,7 +23,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "John",
@@ -29,7 +32,8 @@
     "translit": "(Iōannēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2491:  ",
-    "str2": "Of Hebrew origin; Joannes, the name of four Israelites."
+    "str2": "Of Hebrew origin; Joannes, the name of four Israelites.",
+    "num": 2491
   },
   {
     "word": "had been imprisoned,",
@@ -37,7 +41,8 @@
     "translit": "(paredothē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 3860:  ",
-    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit."
+    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit.",
+    "num": 3860
   },
   {
     "word": "He withdrew",
@@ -45,7 +50,8 @@
     "translit": "(anechōrēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 402:  ",
-    "str2": "From ana and choreo; to retire."
+    "str2": "From ana and choreo; to retire.",
+    "num": 402
   },
   {
     "word": "to",
@@ -53,7 +59,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "Galilee.",
@@ -61,6 +68,7 @@
     "translit": "(Galilaian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1056:  ",
-    "str2": "Of Hebrew origin; Galiloea, a region of Palestine."
+    "str2": "Of Hebrew origin; Galiloea, a region of Palestine.",
+    "num": 1056
   }
 ]

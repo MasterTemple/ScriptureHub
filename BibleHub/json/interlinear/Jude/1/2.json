@@ -5,7 +5,8 @@
     "translit": "(Eleos)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 1656:  ",
-    "str2": "Pity, mercy, compassion. Of uncertain affinity; compassion."
+    "str2": "Pity, mercy, compassion. Of uncertain affinity; compassion.",
+    "num": 1656
   },
   {
     "word": "peace,",
@@ -13,7 +14,8 @@
     "translit": "(eirēnē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1515:  ",
-    "str2": "Probably from a primary verb eiro; peace; by implication, prosperity."
+    "str2": "Probably from a primary verb eiro; peace; by implication, prosperity.",
+    "num": 1515
   },
   {
     "word": "and",
@@ -21,7 +23,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "love",
@@ -29,7 +32,8 @@
     "translit": "(agapē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 26:  ",
-    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast."
+    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast.",
+    "num": 26
   },
   {
     "word": "be multiplied",
@@ -37,7 +41,8 @@
     "translit": "(plēthyntheiē)",
     "parse": "Verb - Aorist Optative Passive - 3rd Person Singular",
     "str": "Strong's 4129:  ",
-    "str2": "To increase, multiply. From another form of plethos; to increase."
+    "str2": "To increase, multiply. From another form of plethos; to increase.",
+    "num": 4129
   },
   {
     "word": "to you.",
@@ -45,6 +50,7 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

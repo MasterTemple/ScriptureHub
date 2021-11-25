@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(Ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "commander",
@@ -21,7 +23,8 @@
     "translit": "(chiliarchos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5506:  ",
-    "str2": "A commander of a thousand men, a military tribune. From chilioi and archo; the commander of a thousand soldiers"
+    "str2": "A commander of a thousand men, a military tribune. From chilioi and archo; the commander of a thousand soldiers",
+    "num": 5506
   },
   {
     "word": "dismissed",
@@ -29,7 +32,8 @@
     "translit": "(apelyse)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 630:  ",
-    "str2": "From apo and luo; to free fully, i.e. relieve, release, dismiss, or let die, pardon or divorce."
+    "str2": "From apo and luo; to free fully, i.e. relieve, release, dismiss, or let die, pardon or divorce.",
+    "num": 630
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "young man",
@@ -45,7 +50,8 @@
     "translit": "(neaniskon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3495:  ",
-    "str2": "A young man, youth, an attendant. From the same as neanias; a youth."
+    "str2": "A young man, youth, an attendant. From the same as neanias; a youth.",
+    "num": 3495
   },
   {
     "word": "and instructed [him],",
@@ -53,7 +59,8 @@
     "translit": "(parangeilas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3853:  ",
-    "str2": "To notify, command, charge, entreat solemnly. From para and the base of aggelos; to transmit a message, i.e. to enjoin."
+    "str2": "To notify, command, charge, entreat solemnly. From para and the base of aggelos; to transmit a message, i.e. to enjoin.",
+    "num": 3853
   },
   {
     "word": "“Do not tell",
@@ -61,7 +68,8 @@
     "translit": "(eklalēsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 1583:  ",
-    "str2": "To speak out, disclose, divulge. From ek and laleo; to divulge."
+    "str2": "To speak out, disclose, divulge. From ek and laleo; to divulge.",
+    "num": 1583
   },
   {
     "word": "[anyone]",
@@ -69,7 +77,8 @@
     "translit": "(Mēdeni)",
     "parse": "Adjective - Dative Masculine Singular",
     "str": "Strong's 3367:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3367
   },
   {
     "word": "that",
@@ -77,7 +86,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "you have reported",
@@ -85,7 +95,8 @@
     "translit": "(enephanisas)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Singular",
     "str": "Strong's 1718:  ",
-    "str2": "To make visible (manifest); hence: I report (inform) against; pass: I appear before. From emphanes; to exhibit or disclose."
+    "str2": "To make visible (manifest); hence: I report (inform) against; pass: I appear before. From emphanes; to exhibit or disclose.",
+    "num": 1718
   },
   {
     "word": "this",
@@ -93,7 +104,8 @@
     "translit": "(tauta)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "to",
@@ -101,7 +113,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "me.”",
@@ -109,6 +122,7 @@
     "translit": "(eme)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   }
 ]

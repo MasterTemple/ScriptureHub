@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the Lord",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "says:",
@@ -29,7 +32,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“The city",
@@ -37,7 +41,8 @@
     "translit": "(hā·‘îr)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "that marches out",
@@ -45,7 +50,8 @@
     "translit": "(hay·yō·ṣêṯ)",
     "parse": "Article | Verb - Qal - Participle - feminine singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "a thousand strong",
@@ -53,7 +59,8 @@
     "translit": "(’e·lep̄)",
     "parse": "Number - masculine singular",
     "str": "Strong's 505:  ",
-    "str2": "A thousand"
+    "str2": "A thousand",
+    "num": 505
   },
   {
     "word": "will only see a hundred",
@@ -61,7 +68,8 @@
     "translit": "(mê·’āh)",
     "parse": "Number - feminine singular",
     "str": "Strong's 3967:  ",
-    "str2": "A hundred"
+    "str2": "A hundred",
+    "num": 3967
   },
   {
     "word": "return,",
@@ -69,7 +77,8 @@
     "translit": "(taš·’îr)",
     "parse": "Verb - Hifil - Imperfect - third person feminine singular",
     "str": "Strong's 7604:  ",
-    "str2": "To swell up, be, redundant"
+    "str2": "To swell up, be, redundant",
+    "num": 7604
   },
   {
     "word": "and the one that marches out",
@@ -77,7 +86,8 @@
     "translit": "(wə·hay·yō·w·ṣêṯ)",
     "parse": "Conjunctive waw, Article | Verb - Qal - Participle - feminine singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "a hundred strong",
@@ -85,7 +95,8 @@
     "translit": "(mê·’āh)",
     "parse": "Number - feminine singular",
     "str": "Strong's 3967:  ",
-    "str2": "A hundred"
+    "str2": "A hundred",
+    "num": 3967
   },
   {
     "word": "will have but ten",
@@ -93,7 +104,8 @@
     "translit": "(‘ă·śā·rāh)",
     "parse": "Number - masculine singular",
     "str": "Strong's 6235:  ",
-    "str2": "Ten"
+    "str2": "Ten",
+    "num": 6235
   },
   {
     "word": "left",
@@ -101,7 +113,8 @@
     "translit": "(taš·’îr)",
     "parse": "Verb - Hifil - Imperfect - third person feminine singular",
     "str": "Strong's 7604:  ",
-    "str2": "To swell up, be, redundant"
+    "str2": "To swell up, be, redundant",
+    "num": 7604
   },
   {
     "word": "in the house",
@@ -109,7 +122,8 @@
     "translit": "(lə·ḇêṯ)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "of Israel.”",
@@ -117,6 +131,7 @@
     "translit": "(yiś·rā·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3478:  ",
-    "str2": "Israel -- 'God strives', another name of Jacob and his desc"
+    "str2": "Israel -- 'God strives', another name of Jacob and his desc",
+    "num": 3478
   }
 ]

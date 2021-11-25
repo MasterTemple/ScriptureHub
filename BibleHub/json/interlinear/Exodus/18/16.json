@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "they have",
@@ -13,7 +14,8 @@
     "translit": "(yih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "a dispute,",
@@ -21,7 +23,8 @@
     "translit": "(dā·ḇār)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "it is brought",
@@ -29,7 +32,8 @@
     "translit": "(bā)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "to me",
@@ -37,7 +41,8 @@
     "translit": "(’ê·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "to judge",
@@ -45,7 +50,8 @@
     "translit": "(wə·šā·p̄aṭ·tî)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - first person common singular",
     "str": "Strong's 8199:  ",
-    "str2": "To judge, pronounce sentence, to vindicate, punish, to govern, to litigate"
+    "str2": "To judge, pronounce sentence, to vindicate, punish, to govern, to litigate",
+    "num": 8199
   },
   {
     "word": "between",
@@ -53,7 +59,8 @@
     "translit": "(bên)",
     "parse": "Preposition",
     "str": "Strong's 996:  ",
-    "str2": "An interval, space between"
+    "str2": "An interval, space between",
+    "num": 996
   },
   {
     "word": "one man",
@@ -61,7 +68,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "and another,",
@@ -69,7 +77,8 @@
     "translit": "(rê·‘ê·hū)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 7453:  ",
-    "str2": "Friend, companion, fellow"
+    "str2": "Friend, companion, fellow",
+    "num": 7453
   },
   {
     "word": "and I make known",
@@ -77,7 +86,8 @@
     "translit": "(wə·hō·w·ḏa‘·tî)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - first person common singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "to them",
@@ -85,7 +95,8 @@
     "translit": "(’eṯ-)",
     "parse": "Direct object marker",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "the statutes",
@@ -93,7 +104,8 @@
     "translit": "(ḥuq·qê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 2706:  ",
-    "str2": "Something prescribed or owed, a statute"
+    "str2": "Something prescribed or owed, a statute",
+    "num": 2706
   },
   {
     "word": "and",
@@ -101,7 +113,8 @@
     "translit": "(wə·’eṯ-)",
     "parse": "Conjunctive waw | Direct object marker",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "laws",
@@ -109,7 +122,8 @@
     "translit": "(tō·w·rō·ṯāw)",
     "parse": "Noun - feminine plural construct | third person masculine singular",
     "str": "Strong's 8451:  ",
-    "str2": "Direction, instruction, law"
+    "str2": "Direction, instruction, law",
+    "num": 8451
   },
   {
     "word": "of God.”",
@@ -117,6 +131,7 @@
     "translit": "(hā·’ĕ·lō·hîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   }
 ]

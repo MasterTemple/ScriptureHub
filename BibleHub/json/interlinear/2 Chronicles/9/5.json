@@ -5,7 +5,8 @@
     "translit": "(wat·tō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "to",
@@ -13,7 +14,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the king,",
@@ -21,7 +23,8 @@
     "translit": "(ham·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "“The report",
@@ -29,7 +32,8 @@
     "translit": "(had·dā·ḇār)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "I heard",
@@ -37,7 +41,8 @@
     "translit": "(šā·ma‘·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "in my own country",
@@ -45,7 +50,8 @@
     "translit": "(bə·’ar·ṣî)",
     "parse": "Preposition-b | Noun - feminine singular construct | first person common singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "about",
@@ -53,7 +59,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "your words",
@@ -61,7 +68,8 @@
     "translit": "(də·ḇā·re·ḵā)",
     "parse": "Noun - masculine plural construct | second person masculine singular",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "[and]",
@@ -69,7 +77,8 @@
     "translit": "(wə·‘al-)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "wisdom",
@@ -77,7 +86,8 @@
     "translit": "(ḥā·ḵə·mā·ṯe·ḵā)",
     "parse": "Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 2451:  ",
-    "str2": "Wisdom"
+    "str2": "Wisdom",
+    "num": 2451
   },
   {
     "word": "is true.",
@@ -85,6 +95,7 @@
     "translit": "(’ĕ·meṯ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 571:  ",
-    "str2": "Stability, certainty, truth, trustworthiness"
+    "str2": "Stability, certainty, truth, trustworthiness",
+    "num": 571
   }
 ]

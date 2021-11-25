@@ -5,7 +5,8 @@
     "translit": "(Teknia)",
     "parse": "Noun - Vocative Neuter Plural",
     "str": "Strong's 5040:  ",
-    "str2": "A little child. Diminutive of teknon; an infant, i.e. darlings."
+    "str2": "A little child. Diminutive of teknon; an infant, i.e. darlings.",
+    "num": 5040
   },
   {
     "word": "let us love",
@@ -13,7 +14,8 @@
     "translit": "(agapōmen)",
     "parse": "Verb - Present Subjunctive Active - 1st Person Plural",
     "str": "Strong's 25:  ",
-    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love."
+    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love.",
+    "num": 25
   },
   {
     "word": "not",
@@ -21,7 +23,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "in word",
@@ -29,7 +32,8 @@
     "translit": "(logō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "[and]",
@@ -37,7 +41,8 @@
     "translit": "(mēde)",
     "parse": "Conjunction",
     "str": "Strong's 3366:  ",
-    "str2": "And not, not even, neither?nor. From me and de; but not, not even; in a continued negation, nor."
+    "str2": "And not, not even, neither?nor. From me and de; but not, not even; in a continued negation, nor.",
+    "num": 3366
   },
   {
     "word": "speech,",
@@ -45,7 +50,8 @@
     "translit": "(glōssē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 1100:  ",
-    "str2": "The tongue; by implication, a language."
+    "str2": "The tongue; by implication, a language.",
+    "num": 1100
   },
   {
     "word": "but",
@@ -53,7 +59,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "in",
@@ -61,7 +68,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "action",
@@ -69,7 +77,8 @@
     "translit": "(ergō)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 2041:  ",
-    "str2": "From a primary ergo; toil; by implication, an act."
+    "str2": "From a primary ergo; toil; by implication, an act.",
+    "num": 2041
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "truth.",
@@ -85,6 +95,7 @@
     "translit": "(alētheia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 225:  ",
-    "str2": "From alethes; truth."
+    "str2": "From alethes; truth.",
+    "num": 225
   }
 ]

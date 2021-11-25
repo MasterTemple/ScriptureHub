@@ -5,7 +5,8 @@
     "translit": "(nā)",
     "parse": "Interjection",
     "str": "Strong's 4994:  ",
-    "str2": "I pray', 'now', 'then'"
+    "str2": "I pray', 'now', 'then'",
+    "num": 4994
   },
   {
     "word": "do not",
@@ -13,7 +14,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "let her be",
@@ -21,7 +23,8 @@
     "translit": "(ṯə·hî)",
     "parse": "Verb - Qal - Imperfect Jussive - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "like a stillborn infant",
@@ -29,7 +32,8 @@
     "translit": "(kam·mêṯ)",
     "parse": "Preposition-k, Article | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   },
   {
     "word": "whose",
@@ -37,7 +41,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "flesh",
@@ -45,7 +50,8 @@
     "translit": "(ḇə·śā·rōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 1320:  ",
-    "str2": "Flesh, body, person, the pudenda of a, man"
+    "str2": "Flesh, body, person, the pudenda of a, man",
+    "num": 1320
   },
   {
     "word": "is half",
@@ -53,7 +59,8 @@
     "translit": "(ḥă·ṣî)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 2677:  ",
-    "str2": "The half, middle"
+    "str2": "The half, middle",
+    "num": 2677
   },
   {
     "word": "consumed",
@@ -61,7 +68,8 @@
     "translit": "(way·yê·’ā·ḵêl)",
     "parse": "Conjunctive waw | Verb - Nifal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "when he comes out",
@@ -69,7 +77,8 @@
     "translit": "(bə·ṣê·ṯōw)",
     "parse": "Preposition-b | Verb - Qal - Infinitive construct | third person masculine singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "of his mother’s",
@@ -77,7 +86,8 @@
     "translit": "(’im·mōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "womb.”",
@@ -85,6 +95,7 @@
     "translit": "(mê·re·ḥem)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 7358:  ",
-    "str2": "The womb "
+    "str2": "The womb ",
+    "num": 7358
   }
 ]

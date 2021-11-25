@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "He is not",
@@ -13,7 +14,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "a man",
@@ -21,7 +23,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "like me,",
@@ -29,7 +32,8 @@
     "translit": "(kā·mō·nî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 3644:  ",
-    "str2": "Like, as, when"
+    "str2": "Like, as, when",
+    "num": 3644
   },
   {
     "word": "that I can answer Him,",
@@ -37,7 +41,8 @@
     "translit": "(’e·‘ĕ·nen·nū)",
     "parse": "Verb - Qal - Imperfect - first person common singular | third person masculine singular",
     "str": "Strong's 6030:  ",
-    "str2": "To answer, respond"
+    "str2": "To answer, respond",
+    "num": 6030
   },
   {
     "word": "that we can take",
@@ -45,7 +50,8 @@
     "translit": "(nā·ḇō·w)",
     "parse": "Adverb",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "each other",
@@ -53,7 +59,8 @@
     "translit": "(yaḥ·dāw)",
     "parse": "Verb - Qal - Imperfect - first person common plural",
     "str": "Strong's 3162:  ",
-    "str2": "A unit, unitedly"
+    "str2": "A unit, unitedly",
+    "num": 3162
   },
   {
     "word": "to court.",
@@ -61,6 +68,7 @@
     "translit": "(bam·miš·pāṭ)",
     "parse": "Preposition, Article | Noun - masculine singular",
     "str": "Strong's 4941:  ",
-    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style"
+    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style",
+    "num": 4941
   }
 ]

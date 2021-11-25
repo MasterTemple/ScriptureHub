@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "not",
@@ -13,7 +14,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "only",
@@ -21,7 +23,8 @@
     "translit": "(monon)",
     "parse": "Adverb",
     "str": "Strong's 3440:  ",
-    "str2": "Alone, but, only. Neuter of monos as adverb; merely."
+    "str2": "Alone, but, only. Neuter of monos as adverb; merely.",
+    "num": 3440
   },
   {
     "word": "by",
@@ -29,7 +32,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "his",
@@ -37,7 +41,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "arrival,",
@@ -45,7 +50,8 @@
     "translit": "(parousia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3952:  ",
-    "str2": "From the present participle of pareimi; a being near, i.e. Advent; physically, aspect."
+    "str2": "From the present participle of pareimi; a being near, i.e. Advent; physically, aspect.",
+    "num": 3952
   },
   {
     "word": "but",
@@ -53,7 +59,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "also",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "by",
@@ -69,7 +77,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "comfort",
@@ -85,7 +95,8 @@
     "translit": "(paraklēsei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3874:  ",
-    "str2": "From parakaleo; imploration, hortation, solace."
+    "str2": "From parakaleo; imploration, hortation, solace.",
+    "num": 3874
   },
   {
     "word": "[he had received]",
@@ -93,7 +104,8 @@
     "translit": "(pareklēthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 3870:  ",
-    "str2": "From para and kaleo; to call near, i.e. Invite, invoke."
+    "str2": "From para and kaleo; to call near, i.e. Invite, invoke.",
+    "num": 3870
   },
   {
     "word": "from",
@@ -101,7 +113,8 @@
     "translit": "(eph’)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "you.",
@@ -109,7 +122,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "He told us about",
@@ -117,7 +131,8 @@
     "translit": "(anangellōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 312:  ",
-    "str2": "To bring back word, report; I announce, declare. From ana and the base of aggelos; to announce."
+    "str2": "To bring back word, report; I announce, declare. From ana and the base of aggelos; to announce.",
+    "num": 312
   },
   {
     "word": "your",
@@ -125,7 +140,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "longing,",
@@ -133,7 +149,8 @@
     "translit": "(epipothēsin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1972:  ",
-    "str2": "Eager longing (desire), strong affection. From epipotheo; a longing for."
+    "str2": "Eager longing (desire), strong affection. From epipotheo; a longing for.",
+    "num": 1972
   },
   {
     "word": "your",
@@ -141,7 +158,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "mourning,",
@@ -149,7 +167,8 @@
     "translit": "(odyrmon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3602:  ",
-    "str2": "Lamentation, wailing, mourning, sorrow. From a derivative of the base of duno; moaning, i.e. Lamentation."
+    "str2": "Lamentation, wailing, mourning, sorrow. From a derivative of the base of duno; moaning, i.e. Lamentation.",
+    "num": 3602
   },
   {
     "word": "[and] your",
@@ -157,7 +176,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "zeal",
@@ -165,7 +185,8 @@
     "translit": "(zēlon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2205:  ",
-    "str2": "From zeo; properly, heat, i.e. 'zeal' (figuratively, of God), or an enemy, malice)."
+    "str2": "From zeo; properly, heat, i.e. 'zeal' (figuratively, of God), or an enemy, malice).",
+    "num": 2205
   },
   {
     "word": "for",
@@ -173,7 +194,8 @@
     "translit": "(hyper)",
     "parse": "Preposition",
     "str": "Strong's 5228:  ",
-    "str2": "Gen: in behalf of; acc: above. "
+    "str2": "Gen: in behalf of; acc: above. ",
+    "num": 5228
   },
   {
     "word": "me,",
@@ -181,7 +203,8 @@
     "translit": "(emou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "so that",
@@ -189,7 +212,8 @@
     "translit": "(hōste)",
     "parse": "Conjunction",
     "str": "Strong's 5620:  ",
-    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore."
+    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore.",
+    "num": 5620
   },
   {
     "word": "I",
@@ -197,7 +221,8 @@
     "translit": "(me)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "rejoiced",
@@ -205,7 +230,8 @@
     "translit": "(charēnai)",
     "parse": "Verb - Aorist Infinitive Passive",
     "str": "Strong's 5463:  ",
-    "str2": "A primary verb; to be 'cheer'ful, i.e. Calmly happy or well-off; impersonally, especially as salutation, be well."
+    "str2": "A primary verb; to be 'cheer'ful, i.e. Calmly happy or well-off; impersonally, especially as salutation, be well.",
+    "num": 5463
   },
   {
     "word": "all the more.",
@@ -213,6 +239,7 @@
     "translit": "(mallon)",
     "parse": "Adverb",
     "str": "Strong's 3123:  ",
-    "str2": "More, rather. Neuter of the comparative of the same as malista; more) or rather."
+    "str2": "More, rather. Neuter of the comparative of the same as malista; more) or rather.",
+    "num": 3123
   }
 ]

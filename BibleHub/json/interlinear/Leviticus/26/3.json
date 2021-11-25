@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you follow",
@@ -13,7 +14,8 @@
     "translit": "(tê·lê·ḵū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "My statutes",
@@ -21,7 +23,8 @@
     "translit": "(bə·ḥuq·qō·ṯay)",
     "parse": "Preposition-b | Noun - feminine plural construct | first person common singular",
     "str": "Strong's 2708:  ",
-    "str2": "Something prescribed, an enactment, statute"
+    "str2": "Something prescribed, an enactment, statute",
+    "num": 2708
   },
   {
     "word": "and carefully observe",
@@ -29,7 +32,8 @@
     "translit": "(tiš·mə·rū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 8104:  ",
-    "str2": "To hedge about, guard, to protect, attend to"
+    "str2": "To hedge about, guard, to protect, attend to",
+    "num": 8104
   },
   {
     "word": "My commandments,",
@@ -37,6 +41,7 @@
     "translit": "(miṣ·wō·ṯay)",
     "parse": "Noun - feminine plural construct | first person common singular",
     "str": "Strong's 4687:  ",
-    "str2": "Commandment"
+    "str2": "Commandment",
+    "num": 4687
   }
 ]

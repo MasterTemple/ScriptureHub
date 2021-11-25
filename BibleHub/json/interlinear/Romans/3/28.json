@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "we maintain that",
@@ -13,7 +14,8 @@
     "translit": "(logizometha)",
     "parse": "Verb - Present Indicative Middle or Passive - 1st Person Plural",
     "str": "Strong's 3049:  ",
-    "str2": "To reckon, count, charge with; reason, decide, conclude; think, suppose. "
+    "str2": "To reckon, count, charge with; reason, decide, conclude; think, suppose. ",
+    "num": 3049
   },
   {
     "word": "a man",
@@ -21,7 +23,8 @@
     "translit": "(anthrōpon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "is justified",
@@ -29,7 +32,8 @@
     "translit": "(dikaiousthai)",
     "parse": "Verb - Present Infinitive Middle or Passive",
     "str": "Strong's 1344:  ",
-    "str2": "From dikaios; to render just or innocent."
+    "str2": "From dikaios; to render just or innocent.",
+    "num": 1344
   },
   {
     "word": "by faith",
@@ -37,7 +41,8 @@
     "translit": "(pistei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4102:  ",
-    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. "
+    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. ",
+    "num": 4102
   },
   {
     "word": "apart from",
@@ -45,7 +50,8 @@
     "translit": "(chōris)",
     "parse": "Preposition",
     "str": "Strong's 5565:  ",
-    "str2": "Apart from, separately from; without. Adverb from chora; at a space, i.e. Separately or apart from."
+    "str2": "Apart from, separately from; without. Adverb from chora; at a space, i.e. Separately or apart from.",
+    "num": 5565
   },
   {
     "word": "works",
@@ -53,7 +59,8 @@
     "translit": "(ergōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 2041:  ",
-    "str2": "From a primary ergo; toil; by implication, an act."
+    "str2": "From a primary ergo; toil; by implication, an act.",
+    "num": 2041
   },
   {
     "word": "of the Law.",
@@ -61,6 +68,7 @@
     "translit": "(nomou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3551:  ",
-    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively."
+    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively.",
+    "num": 3551
   }
 ]

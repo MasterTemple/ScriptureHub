@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Jesus",
@@ -13,7 +14,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "rebuked",
@@ -21,7 +23,8 @@
     "translit": "(epetimēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2008:  ",
-    "str2": "From epi and timao; to tax upon, i.e. Censure or admonish; by implication, forbid."
+    "str2": "From epi and timao; to tax upon, i.e. Censure or admonish; by implication, forbid.",
+    "num": 2008
   },
   {
     "word": "[the demon],",
@@ -29,7 +32,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[it]",
@@ -45,7 +50,8 @@
     "translit": "(daimonion)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 1140:  ",
-    "str2": "An evil-spirit, demon; a heathen deity. Neuter of a derivative of daimon; a d?Monic being; by extension a deity."
+    "str2": "An evil-spirit, demon; a heathen deity. Neuter of a derivative of daimon; a d?Monic being; by extension a deity.",
+    "num": 1140
   },
   {
     "word": "came out",
@@ -53,7 +59,8 @@
     "translit": "(exēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1831:  ",
-    "str2": "To go out, come out. From ek and erchomai; to issue."
+    "str2": "To go out, come out. From ek and erchomai; to issue.",
+    "num": 1831
   },
   {
     "word": "of",
@@ -61,7 +68,8 @@
     "translit": "(ap’)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "[the boy],",
@@ -69,7 +77,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[he]",
@@ -85,7 +95,8 @@
     "translit": "(pais)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3816:  ",
-    "str2": "Perhaps from paio; a boy, or, a girl, and a child; specially, a slave or servant."
+    "str2": "Perhaps from paio; a boy, or, a girl, and a child; specially, a slave or servant.",
+    "num": 3816
   },
   {
     "word": "was healed",
@@ -93,7 +104,8 @@
     "translit": "(etherapeuthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 2323:  ",
-    "str2": "From the same as therapon; to wait upon menially, i.e. to adore, or to relieve."
+    "str2": "From the same as therapon; to wait upon menially, i.e. to adore, or to relieve.",
+    "num": 2323
   },
   {
     "word": "from",
@@ -101,7 +113,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "that",
@@ -109,7 +122,8 @@
     "translit": "(ekeinēs)",
     "parse": "Demonstrative Pronoun - Genitive Feminine Singular",
     "str": "Strong's 1565:  ",
-    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed."
+    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed.",
+    "num": 1565
   },
   {
     "word": "moment.",
@@ -117,6 +131,7 @@
     "translit": "(hōras)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 5610:  ",
-    "str2": "Apparently a primary word; an 'hour'."
+    "str2": "Apparently a primary word; an 'hour'.",
+    "num": 5610
   }
 ]

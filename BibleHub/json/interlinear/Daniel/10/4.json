@@ -5,7 +5,8 @@
     "translit": "(‘eś·rîm)",
     "parse": "Number - common plural",
     "str": "Strong's 6242:  ",
-    "str2": "Twenty, twentieth"
+    "str2": "Twenty, twentieth",
+    "num": 6242
   },
   {
     "word": "day",
@@ -13,7 +14,8 @@
     "translit": "(ū·ḇə·yō·wm)",
     "parse": "Conjunctive waw, Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "of the first",
@@ -21,7 +23,8 @@
     "translit": "(hā·ri·šō·wn)",
     "parse": "Article | Adjective - masculine singular",
     "str": "Strong's 7223:  ",
-    "str2": "First, in place, time, rank"
+    "str2": "First, in place, time, rank",
+    "num": 7223
   },
   {
     "word": "month,",
@@ -29,7 +32,8 @@
     "translit": "(la·ḥō·ḏeš)",
     "parse": "Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 2320:  ",
-    "str2": "The new moon, a month"
+    "str2": "The new moon, a month",
+    "num": 2320
   },
   {
     "word": "as I",
@@ -37,7 +41,8 @@
     "translit": "(wa·’ă·nî)",
     "parse": "Conjunctive waw | Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "was",
@@ -45,7 +50,8 @@
     "translit": "(hā·yî·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "standing on",
@@ -53,7 +59,8 @@
     "translit": "(‘al)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the bank",
@@ -61,7 +68,8 @@
     "translit": "(yaḏ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "of the great",
@@ -69,7 +77,8 @@
     "translit": "(hag·gā·ḏō·wl)",
     "parse": "Article | Adjective - masculine singular",
     "str": "Strong's 1419:  ",
-    "str2": "Great, older, insolent"
+    "str2": "Great, older, insolent",
+    "num": 1419
   },
   {
     "word": "river,",
@@ -77,7 +86,8 @@
     "translit": "(han·nā·hār)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5104:  ",
-    "str2": "A stream, prosperity"
+    "str2": "A stream, prosperity",
+    "num": 5104
   },
   {
     "word": "the Tigris,",
@@ -85,6 +95,7 @@
     "translit": "(ḥid·dā·qel)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 2313:  ",
-    "str2": "Hiddekel -- ancient name of a Mesopotamian river"
+    "str2": "Hiddekel -- ancient name of a Mesopotamian river",
+    "num": 2313
   }
 ]

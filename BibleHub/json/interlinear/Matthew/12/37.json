@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "by",
@@ -13,7 +14,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "your",
@@ -21,7 +23,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "words",
@@ -29,7 +32,8 @@
     "translit": "(logōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "you will be acquitted,",
@@ -37,7 +41,8 @@
     "translit": "(dikaiōthēsē)",
     "parse": "Verb - Future Indicative Passive - 2nd Person Singular",
     "str": "Strong's 1344:  ",
-    "str2": "From dikaios; to render just or innocent."
+    "str2": "From dikaios; to render just or innocent.",
+    "num": 1344
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "by",
@@ -53,7 +59,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "your",
@@ -61,7 +68,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "words",
@@ -69,7 +77,8 @@
     "translit": "(logōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "you will be condemned.”",
@@ -77,6 +86,7 @@
     "translit": "(katadikasthēsē)",
     "parse": "Verb - Future Indicative Passive - 2nd Person Singular",
     "str": "Strong's 2613:  ",
-    "str2": "To condemn, pass sentence upon. From kata and a derivative of dike; to adjudge against, i.e. Pronounce guilty."
+    "str2": "To condemn, pass sentence upon. From kata and a derivative of dike; to adjudge against, i.e. Pronounce guilty.",
+    "num": 2613
   }
 ]

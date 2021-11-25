@@ -5,7 +5,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "whom",
@@ -13,7 +14,8 @@
     "translit": "(hō)",
     "parse": "Personal / Relative Pronoun - Dative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "are",
@@ -21,7 +23,8 @@
     "translit": "(eisin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "hidden",
@@ -29,7 +32,8 @@
     "translit": "(apokryphoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 614:  ",
-    "str2": "Hidden away, secret, stored up. From apokrupto; secret; by implication, treasured."
+    "str2": "Hidden away, secret, stored up. From apokrupto; secret; by implication, treasured.",
+    "num": 614
   },
   {
     "word": "all",
@@ -37,7 +41,8 @@
     "translit": "(pantes)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "treasures",
@@ -53,7 +59,8 @@
     "translit": "(thēsauroi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 2344:  ",
-    "str2": "A store-house for precious things; hence: a treasure, a store. From tithemi; a deposit, i.e. Wealth."
+    "str2": "A store-house for precious things; hence: a treasure, a store. From tithemi; a deposit, i.e. Wealth.",
+    "num": 2344
   },
   {
     "word": "of wisdom",
@@ -61,7 +68,8 @@
     "translit": "(sophias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4678:  ",
-    "str2": "Wisdom, insight, skill (human or divine), intelligence. From sophos; wisdom."
+    "str2": "Wisdom, insight, skill (human or divine), intelligence. From sophos; wisdom.",
+    "num": 4678
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "knowledge.",
@@ -77,6 +86,7 @@
     "translit": "(gnōseōs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1108:  ",
-    "str2": "Knowledge, doctrine, wisdom. From ginosko; knowing, i.e. knowledge."
+    "str2": "Knowledge, doctrine, wisdom. From ginosko; knowing, i.e. knowledge.",
+    "num": 1108
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "obscenity,",
@@ -13,7 +14,8 @@
     "translit": "(aischrotēs)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 151:  ",
-    "str2": "Obscenity, indecency, baseness. From aischros; shamefulness, i.e. Obscenity."
+    "str2": "Obscenity, indecency, baseness. From aischros; shamefulness, i.e. Obscenity.",
+    "num": 151
   },
   {
     "word": "foolish talk,",
@@ -21,7 +23,8 @@
     "translit": "(mōrologia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3473:  ",
-    "str2": "Foolish talking. From a compound of moros and lego; silly talk, i.e. Buffoonery."
+    "str2": "Foolish talking. From a compound of moros and lego; silly talk, i.e. Buffoonery.",
+    "num": 3473
   },
   {
     "word": "or",
@@ -29,7 +32,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "crude joking,",
@@ -37,7 +41,8 @@
     "translit": "(eutrapelia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2160:  ",
-    "str2": "Low jesting, ribaldry. From a compound of eu and a derivative of the base of trope; witticism, i.e. ribaldry."
+    "str2": "Low jesting, ribaldry. From a compound of eu and a derivative of the base of trope; witticism, i.e. ribaldry.",
+    "num": 2160
   },
   {
     "word": "which",
@@ -45,7 +50,8 @@
     "translit": "(ha)",
     "parse": "Personal / Relative Pronoun - Nominative Neuter Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "are out of character,",
@@ -53,7 +59,8 @@
     "translit": "(anēken)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 433:  ",
-    "str2": "Is due, becoming, suitable, proper. From ana and heko; to attain to, i.e. be proper."
+    "str2": "Is due, becoming, suitable, proper. From ana and heko; to attain to, i.e. be proper.",
+    "num": 433
   },
   {
     "word": "but",
@@ -61,7 +68,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "rather",
@@ -69,7 +77,8 @@
     "translit": "(mallon)",
     "parse": "Adverb",
     "str": "Strong's 3123:  ",
-    "str2": "More, rather. Neuter of the comparative of the same as malista; more) or rather."
+    "str2": "More, rather. Neuter of the comparative of the same as malista; more) or rather.",
+    "num": 3123
   },
   {
     "word": "thanksgiving.",
@@ -77,6 +86,7 @@
     "translit": "(eucharistia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2169:  ",
-    "str2": "Thankfulness, gratitude; giving of thanks, thanksgiving. From eucharistos; gratitude; actively, grateful language."
+    "str2": "Thankfulness, gratitude; giving of thanks, thanksgiving. From eucharistos; gratitude; actively, grateful language.",
+    "num": 2169
   }
 ]

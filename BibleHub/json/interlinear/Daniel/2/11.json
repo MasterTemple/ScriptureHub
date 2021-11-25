@@ -5,7 +5,8 @@
     "translit": "(ḏî-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 1768:  ",
-    "str2": "Who, which, that, because"
+    "str2": "Who, which, that, because",
+    "num": 1768
   },
   {
     "word": "the king",
@@ -13,7 +14,8 @@
     "translit": "(mal·kāh)",
     "parse": "Noun - masculine singular determinate",
     "str": "Strong's 4430:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4430
   },
   {
     "word": "requests",
@@ -21,7 +23,8 @@
     "translit": "(šā·’êl)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 7593:  ",
-    "str2": "To inquire, to request, to demand"
+    "str2": "To inquire, to request, to demand",
+    "num": 7593
   },
   {
     "word": "is so difficult",
@@ -29,7 +32,8 @@
     "translit": "(yaq·qî·rāh)",
     "parse": "Adjective - feminine singular",
     "str": "Strong's 3358:  ",
-    "str2": "Honorable, difficult"
+    "str2": "Honorable, difficult",
+    "num": 3358
   },
   {
     "word": "that no",
@@ -37,7 +41,8 @@
     "translit": "(lā)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3809:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3809
   },
   {
     "word": "one",
@@ -45,7 +50,8 @@
     "translit": "(wə·’ā·ḥo·rān)",
     "parse": "Conjunctive waw | Adjective - masculine singular",
     "str": "Strong's 321:  ",
-    "str2": "Another"
+    "str2": "Another",
+    "num": 321
   },
   {
     "word": "can tell it",
@@ -53,7 +59,8 @@
     "translit": "(yə·ḥaw·win·nah)",
     "parse": "Verb - Piel - Imperfect - third person masculine singular | third person feminine singular",
     "str": "Strong's 2324:  ",
-    "str2": "To show"
+    "str2": "To show",
+    "num": 2324
   },
   {
     "word": "to",
@@ -61,7 +68,8 @@
     "translit": "(qo·ḏām)",
     "parse": "Preposition",
     "str": "Strong's 6925:  ",
-    "str2": "Before"
+    "str2": "Before",
+    "num": 6925
   },
   {
     "word": "him",
@@ -69,7 +77,8 @@
     "translit": "(mal·kā)",
     "parse": "Noun - masculine singular determinate",
     "str": "Strong's 4430:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4430
   },
   {
     "word": "except",
@@ -77,7 +86,8 @@
     "translit": "(lā·hên)",
     "parse": "Conjunction",
     "str": "Strong's 3861:  ",
-    "str2": "Therefore, except"
+    "str2": "Therefore, except",
+    "num": 3861
   },
   {
     "word": "the gods,",
@@ -85,7 +95,8 @@
     "translit": "(’ĕ·lā·hîn)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 426:  ",
-    "str2": "God"
+    "str2": "God",
+    "num": 426
   },
   {
     "word": "whose",
@@ -93,7 +104,8 @@
     "translit": "(dî)",
     "parse": "Pronoun - relative",
     "str": "Strong's 1768:  ",
-    "str2": "Who, which, that, because"
+    "str2": "Who, which, that, because",
+    "num": 1768
   },
   {
     "word": "dwelling",
@@ -101,7 +113,8 @@
     "translit": "(mə·ḏā·rə·hō·wn)",
     "parse": "Noun - masculine singular construct | third person masculine plural",
     "str": "Strong's 4070:  ",
-    "str2": "A dwelling place"
+    "str2": "A dwelling place",
+    "num": 4070
   },
   {
     "word": "is",
@@ -109,7 +122,8 @@
     "translit": "(’î·ṯay)",
     "parse": "Adverb",
     "str": "Strong's 383:  ",
-    "str2": "Entity, as a, particle of affirmation, there is"
+    "str2": "Entity, as a, particle of affirmation, there is",
+    "num": 383
   },
   {
     "word": "not",
@@ -117,7 +131,8 @@
     "translit": "(lā)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3809:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3809
   },
   {
     "word": "with",
@@ -125,7 +140,8 @@
     "translit": "(‘im-)",
     "parse": "Preposition",
     "str": "Strong's 5974:  ",
-    "str2": "With, equally with"
+    "str2": "With, equally with",
+    "num": 5974
   },
   {
     "word": "mortals.”",
@@ -133,6 +149,7 @@
     "translit": "(biś·rā)",
     "parse": "Noun - masculine singular determinate",
     "str": "Strong's 1321:  ",
-    "str2": "Flesh, body, person, the pudenda of a, man"
+    "str2": "Flesh, body, person, the pudenda of a, man",
+    "num": 1321
   }
 ]

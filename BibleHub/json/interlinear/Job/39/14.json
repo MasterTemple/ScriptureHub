@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "she leaves",
@@ -13,7 +14,8 @@
     "translit": "(ṯa·‘ă·zōḇ)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 5800:  ",
-    "str2": "To loosen, relinquish, permit"
+    "str2": "To loosen, relinquish, permit",
+    "num": 5800
   },
   {
     "word": "her eggs",
@@ -21,7 +23,8 @@
     "translit": "(bê·ṣe·hā)",
     "parse": "Noun - feminine plural construct | third person feminine singular",
     "str": "Strong's 1000:  ",
-    "str2": "An egg"
+    "str2": "An egg",
+    "num": 1000
   },
   {
     "word": "on the ground",
@@ -29,7 +32,8 @@
     "translit": "(lā·’ā·reṣ)",
     "parse": "Preposition-l, Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "and lets them warm",
@@ -37,7 +41,8 @@
     "translit": "(tə·ḥam·mêm)",
     "parse": "Verb - Piel - Imperfect - third person feminine singular",
     "str": "Strong's 2552:  ",
-    "str2": "To be or become warm"
+    "str2": "To be or become warm",
+    "num": 2552
   },
   {
     "word": "in",
@@ -45,7 +50,8 @@
     "translit": "(wə·‘al-)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the sand.",
@@ -53,6 +59,7 @@
     "translit": "(‘ā·p̄ār)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6083:  ",
-    "str2": "Dust, clay, earth, mud"
+    "str2": "Dust, clay, earth, mud",
+    "num": 6083
   }
 ]

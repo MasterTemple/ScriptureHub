@@ -5,7 +5,8 @@
     "translit": "(Petros)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4074:  ",
-    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle."
+    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle.",
+    "num": 4074
   },
   {
     "word": "replied,",
@@ -13,7 +14,8 @@
     "translit": "(Legei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“Even if",
@@ -21,7 +23,8 @@
     "translit": "(Kan)",
     "parse": "Adverb",
     "str": "Strong's 2579:  ",
-    "str2": "And if, even if, even, at least. From kai and ean; and if."
+    "str2": "And if, even if, even, at least. From kai and ean; and if.",
+    "num": 2579
   },
   {
     "word": "I must",
@@ -29,7 +32,8 @@
     "translit": "(deē)",
     "parse": "Verb - Present Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 1163:  ",
-    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary."
+    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary.",
+    "num": 1163
   },
   {
     "word": "die",
@@ -37,7 +41,8 @@
     "translit": "(apothanein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 599:  ",
-    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off."
+    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off.",
+    "num": 599
   },
   {
     "word": "with",
@@ -45,7 +50,8 @@
     "translit": "(syn)",
     "parse": "Preposition",
     "str": "Strong's 4862:  ",
-    "str2": "With. A primary preposition denoting union; with or together."
+    "str2": "With. A primary preposition denoting union; with or together.",
+    "num": 4862
   },
   {
     "word": "You,",
@@ -53,7 +59,8 @@
     "translit": "(soi)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "I will never deny",
@@ -61,7 +68,8 @@
     "translit": "(aparnēsomai)",
     "parse": "Verb - Future Indicative Middle - 1st Person Singular",
     "str": "Strong's 533:  ",
-    "str2": "From apo and arneomai; to deny utterly, i.e. Disown, abstain."
+    "str2": "From apo and arneomai; to deny utterly, i.e. Disown, abstain.",
+    "num": 533
   },
   {
     "word": "You.”",
@@ -69,7 +77,8 @@
     "translit": "(se)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "And",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the rest of",
@@ -85,7 +95,8 @@
     "translit": "(pantes)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "the",
@@ -93,7 +104,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "disciples",
@@ -101,7 +113,8 @@
     "translit": "(mathētai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   },
   {
     "word": "said",
@@ -109,7 +122,8 @@
     "translit": "(eipan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "the same.",
@@ -117,6 +131,7 @@
     "translit": "(homoiōs)",
     "parse": "Adverb",
     "str": "Strong's 3668:  ",
-    "str2": "In like manner, similarly, in the same way, equally. Adverb from homoios; similarly."
+    "str2": "In like manner, similarly, in the same way, equally. Adverb from homoios; similarly.",
+    "num": 3668
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "it does not enter",
@@ -13,7 +14,8 @@
     "translit": "(eisporeuetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1531:  ",
-    "str2": "To journey in(to), I go in(to), enter, intervene. From eis and poreuomai; to enter."
+    "str2": "To journey in(to), I go in(to), enter, intervene. From eis and poreuomai; to enter.",
+    "num": 1531
   },
   {
     "word": "his",
@@ -21,7 +23,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "heart,",
@@ -29,7 +32,8 @@
     "translit": "(kardian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2588:  ",
-    "str2": "Prolonged from a primary kar; the heart, i.e. the thoughts or feelings; also the middle."
+    "str2": "Prolonged from a primary kar; the heart, i.e. the thoughts or feelings; also the middle.",
+    "num": 2588
   },
   {
     "word": "but",
@@ -37,7 +41,8 @@
     "translit": "(all’)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "[it goes] into",
@@ -45,7 +50,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "stomach",
@@ -61,7 +68,8 @@
     "translit": "(koilian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2836:  ",
-    "str2": "From koilos; a cavity, i.e. the abdomen; by implication, the matrix; figuratively, the heart."
+    "str2": "From koilos; a cavity, i.e. the abdomen; by implication, the matrix; figuratively, the heart.",
+    "num": 2836
   },
   {
     "word": "and then",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "is eliminated.”",
@@ -77,7 +86,8 @@
     "translit": "(ekporeuetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1607:  ",
-    "str2": "From ek and poreuomai; to depart, be discharged, proceed, project."
+    "str2": "From ek and poreuomai; to depart, be discharged, proceed, project.",
+    "num": 1607
   },
   {
     "word": "([Thus] all",
@@ -85,7 +95,8 @@
     "translit": "(panta)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "foods",
@@ -93,7 +104,8 @@
     "translit": "(brōmata)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 1033:  ",
-    "str2": "Food of any kind. From the base of bibrosko; food, especially articles allowed or forbidden by the Jewish law."
+    "str2": "Food of any kind. From the base of bibrosko; food, especially articles allowed or forbidden by the Jewish law.",
+    "num": 1033
   },
   {
     "word": "are clean.)",
@@ -101,6 +113,7 @@
     "translit": "(katharizōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2511:  ",
-    "str2": "To cleanse, make clean, literally, ceremonially, or spiritually, according to context. From katharos; to cleanse."
+    "str2": "To cleanse, make clean, literally, ceremonially, or spiritually, according to context. From katharos; to cleanse.",
+    "num": 2511
   }
 ]

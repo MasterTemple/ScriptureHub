@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Jacob",
@@ -13,7 +14,8 @@
     "translit": "(Iakōb)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2384:  ",
-    "str2": "Of Hebrew origin; Jacob, the progenitor of the Israelites."
+    "str2": "Of Hebrew origin; Jacob, the progenitor of the Israelites.",
+    "num": 2384
   },
   {
     "word": "the father of",
@@ -21,7 +23,8 @@
     "translit": "(egennēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1080:  ",
-    "str2": "From a variation of genos; to procreate; figuratively, to regenerate."
+    "str2": "From a variation of genos; to procreate; figuratively, to regenerate.",
+    "num": 1080
   },
   {
     "word": "Joseph,",
@@ -29,7 +32,8 @@
     "translit": "(Iōsēph)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2501:  ",
-    "str2": "Joseph, a proper name. Of Hebrew origin; Joseph, the name of seven Israelites."
+    "str2": "Joseph, a proper name. Of Hebrew origin; Joseph, the name of seven Israelites.",
+    "num": 2501
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "husband",
@@ -45,7 +50,8 @@
     "translit": "(andra)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "of Mary,",
@@ -53,7 +59,8 @@
     "translit": "(Marias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 3137:  ",
-    "str2": "Or Mariam of Hebrew origin; Maria or Mariam, the name of six Christian females."
+    "str2": "Or Mariam of Hebrew origin; Maria or Mariam, the name of six Christian females.",
+    "num": 3137
   },
   {
     "word": "of",
@@ -61,7 +68,8 @@
     "translit": "(ex)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "whom",
@@ -69,7 +77,8 @@
     "translit": "(hēs)",
     "parse": "Personal / Relative Pronoun - Genitive Feminine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "was born",
@@ -77,7 +86,8 @@
     "translit": "(egennēthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 1080:  ",
-    "str2": "From a variation of genos; to procreate; figuratively, to regenerate."
+    "str2": "From a variation of genos; to procreate; figuratively, to regenerate.",
+    "num": 1080
   },
   {
     "word": "Jesus,",
@@ -85,7 +95,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "who",
@@ -93,7 +104,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "is called",
@@ -101,7 +113,8 @@
     "translit": "(legomenos)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Masculine Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "Christ.",
@@ -109,6 +122,7 @@
     "translit": "(Christos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   }
 ]

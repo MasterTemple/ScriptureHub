@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "to Me",
@@ -13,7 +14,8 @@
     "translit": "(lî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "this is like",
@@ -21,7 +23,8 @@
     "translit": "(zōṯ)",
     "parse": "Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "the days of Noah,",
@@ -29,7 +32,8 @@
     "translit": "(nō·aḥ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 5146:  ",
-    "str2": "Noah -- 'rest', patriarch who survived the flood"
+    "str2": "Noah -- 'rest', patriarch who survived the flood",
+    "num": 5146
   },
   {
     "word": "when",
@@ -37,7 +41,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "I swore",
@@ -45,7 +50,8 @@
     "translit": "(niš·ba‘·tî)",
     "parse": "Verb - Nifal - Perfect - first person common singular",
     "str": "Strong's 7650:  ",
-    "str2": "To seven oneself, swear"
+    "str2": "To seven oneself, swear",
+    "num": 7650
   },
   {
     "word": "that the waters",
@@ -53,7 +59,8 @@
     "translit": "(mê-)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 4325:  ",
-    "str2": "Water, juice, urine, semen"
+    "str2": "Water, juice, urine, semen",
+    "num": 4325
   },
   {
     "word": "of Noah",
@@ -61,7 +68,8 @@
     "translit": "(nō·aḥ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 5146:  ",
-    "str2": "Noah -- 'rest', patriarch who survived the flood"
+    "str2": "Noah -- 'rest', patriarch who survived the flood",
+    "num": 5146
   },
   {
     "word": "would never again",
@@ -69,7 +77,8 @@
     "translit": "(‘ō·wḏ)",
     "parse": "Adverb",
     "str": "Strong's 5750:  ",
-    "str2": "Iteration, continuance, again, repeatedly, still, more"
+    "str2": "Iteration, continuance, again, repeatedly, still, more",
+    "num": 5750
   },
   {
     "word": "cover",
@@ -77,7 +86,8 @@
     "translit": "(mê·‘ă·ḇōr)",
     "parse": "Preposition-m | Verb - Qal - Infinitive construct",
     "str": "Strong's 5674:  ",
-    "str2": "To pass over, through, or by, pass on"
+    "str2": "To pass over, through, or by, pass on",
+    "num": 5674
   },
   {
     "word": "the earth.",
@@ -85,7 +95,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "So",
@@ -93,7 +104,8 @@
     "translit": "(kên)",
     "parse": "Adverb",
     "str": "Strong's 3651:  ",
-    "str2": "So -- thus"
+    "str2": "So -- thus",
+    "num": 3651
   },
   {
     "word": "I have sworn",
@@ -101,7 +113,8 @@
     "translit": "(niš·ba‘·tî)",
     "parse": "Verb - Nifal - Perfect - first person common singular",
     "str": "Strong's 7650:  ",
-    "str2": "To seven oneself, swear"
+    "str2": "To seven oneself, swear",
+    "num": 7650
   },
   {
     "word": "that I will not be angry",
@@ -109,7 +122,8 @@
     "translit": "(miq·qə·ṣōp̄)",
     "parse": "Preposition-m | Verb - Qal - Infinitive construct",
     "str": "Strong's 7107:  ",
-    "str2": "To crack off, burst out in rage"
+    "str2": "To crack off, burst out in rage",
+    "num": 7107
   },
   {
     "word": "with you",
@@ -117,7 +131,8 @@
     "translit": "(‘ā·la·yiḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "or rebuke",
@@ -125,7 +140,8 @@
     "translit": "(ū·mig·gə·‘ār-)",
     "parse": "Conjunctive waw, Preposition-m | Verb - Qal - Infinitive construct",
     "str": "Strong's 1605:  ",
-    "str2": "To rebuke"
+    "str2": "To rebuke",
+    "num": 1605
   },
   {
     "word": "you.",
@@ -133,6 +149,7 @@
     "translit": "(bāḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

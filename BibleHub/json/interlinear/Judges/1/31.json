@@ -5,7 +5,8 @@
     "translit": "(’ā·šêr)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 836:  ",
-    "str2": "Asher -- 'happy one', a son of Jacob, also the tribe descended from him, also perhaps a city in Palestine"
+    "str2": "Asher -- 'happy one', a son of Jacob, also the tribe descended from him, also perhaps a city in Palestine",
+    "num": 836
   },
   {
     "word": "failed",
@@ -13,7 +14,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "to drive out",
@@ -21,7 +23,8 @@
     "translit": "(hō·w·rîš)",
     "parse": "Verb - Hifil - Perfect - third person masculine singular",
     "str": "Strong's 3423:  ",
-    "str2": "To occupy, to seize, to rob, to inherit, to expel, to impoverish, to ruin"
+    "str2": "To occupy, to seize, to rob, to inherit, to expel, to impoverish, to ruin",
+    "num": 3423
   },
   {
     "word": "the inhabitants",
@@ -29,7 +32,8 @@
     "translit": "(yō·šə·ḇê)",
     "parse": "Verb - Qal - Participle - masculine plural construct",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "of Acco,",
@@ -37,7 +41,8 @@
     "translit": "(‘ak·kōw)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 5910:  ",
-    "str2": "Acco -- a city in Asher"
+    "str2": "Acco -- a city in Asher",
+    "num": 5910
   },
   {
     "word": "Sidon,",
@@ -45,7 +50,8 @@
     "translit": "(ṣî·ḏō·wn)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 6721:  ",
-    "str2": "Sidon -- a Phoenician city on the Mediterranean coast, also a son of Canaan"
+    "str2": "Sidon -- a Phoenician city on the Mediterranean coast, also a son of Canaan",
+    "num": 6721
   },
   {
     "word": "Ahlab,",
@@ -53,7 +59,8 @@
     "translit": "(’aḥ·lāḇ)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 303:  ",
-    "str2": "Ahlab -- a city assigned to Asher"
+    "str2": "Ahlab -- a city assigned to Asher",
+    "num": 303
   },
   {
     "word": "Achzib,",
@@ -61,7 +68,8 @@
     "translit": "(’aḵ·zîḇ)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 392:  ",
-    "str2": "Achzib -- 'deceptive', two places in Palestine"
+    "str2": "Achzib -- 'deceptive', two places in Palestine",
+    "num": 392
   },
   {
     "word": "Helbah,",
@@ -69,7 +77,8 @@
     "translit": "(ḥel·bāh)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 2462:  ",
-    "str2": "Helbah -- a city in Asher"
+    "str2": "Helbah -- a city in Asher",
+    "num": 2462
   },
   {
     "word": "Aphik,",
@@ -77,7 +86,8 @@
     "translit": "(’ă·p̄îq)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 663:  ",
-    "str2": "Aphek -- perhaps 'fortress', the name of several places in Palestine"
+    "str2": "Aphek -- perhaps 'fortress', the name of several places in Palestine",
+    "num": 663
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(wə·’eṯ-)",
     "parse": "Conjunctive waw | Direct object marker",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "Rehob.",
@@ -93,6 +104,7 @@
     "translit": "(rə·ḥōḇ)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 7340:  ",
-    "str2": "Rechob"
+    "str2": "Rechob",
+    "num": 7340
   }
 ]

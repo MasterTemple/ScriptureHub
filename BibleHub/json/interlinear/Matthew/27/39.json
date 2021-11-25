@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "those who",
@@ -13,7 +14,8 @@
     "translit": "(Hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "passed by",
@@ -21,7 +23,8 @@
     "translit": "(paraporeuomenoi)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Masculine Plural",
     "str": "Strong's 3899:  ",
-    "str2": "To go past, pass by, pass along by. From para and poreuomai; to travel near."
+    "str2": "To go past, pass by, pass along by. From para and poreuomai; to travel near.",
+    "num": 3899
   },
   {
     "word": "heaped abuse on",
@@ -29,7 +32,8 @@
     "translit": "(eblasphēmoun)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 987:  ",
-    "str2": "From blasphemos; to vilify; specially, to speak impiously."
+    "str2": "From blasphemos; to vilify; specially, to speak impiously.",
+    "num": 987
   },
   {
     "word": "Him,",
@@ -37,7 +41,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "shaking",
@@ -45,7 +50,8 @@
     "translit": "(kinountes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2795:  ",
-    "str2": "To set in motion, move, remove, excite, stir up. From kio; to stir, literally or figuratively."
+    "str2": "To set in motion, move, remove, excite, stir up. From kio; to stir, literally or figuratively.",
+    "num": 2795
   },
   {
     "word": "their",
@@ -53,7 +59,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "heads,",
@@ -61,6 +68,7 @@
     "translit": "(kephalas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 2776:  ",
-    "str2": "From the primary kapto; the head, literally or figuratively."
+    "str2": "From the primary kapto; the head, literally or figuratively.",
+    "num": 2776
   }
 ]

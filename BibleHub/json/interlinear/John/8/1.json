@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Jesus",
@@ -13,7 +14,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "went",
@@ -21,7 +23,8 @@
     "translit": "(eporeuthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 4198:  ",
-    "str2": "To travel, journey, go, die. "
+    "str2": "To travel, journey, go, die. ",
+    "num": 4198
   },
   {
     "word": "to",
@@ -29,7 +32,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Mount",
@@ -45,7 +50,8 @@
     "translit": "(oros)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3735:  ",
-    "str2": "A mountain, hill. Probably from an obsolete oro; a mountain: -hill, mount(-ain)."
+    "str2": "A mountain, hill. Probably from an obsolete oro; a mountain: -hill, mount(-ain).",
+    "num": 3735
   },
   {
     "word": "of Olives.",
@@ -53,6 +59,7 @@
     "translit": "(elaiōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 1636:  ",
-    "str2": "An olive tree; the Mount of Olives. Feminine of a presumed derivative from an obsolete primary; an olive."
+    "str2": "An olive tree; the Mount of Olives. Feminine of a presumed derivative from an obsolete primary; an olive.",
+    "num": 1636
   }
 ]

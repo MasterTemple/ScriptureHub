@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "they returned",
@@ -13,7 +14,8 @@
     "translit": "(hypostrepsasai)",
     "parse": "Verb - Aorist Participle Active - Nominative Feminine Plural",
     "str": "Strong's 5290:  ",
-    "str2": "To turn back, return. From hupo and strepho; to turn under, i.e. To return."
+    "str2": "To turn back, return. From hupo and strepho; to turn under, i.e. To return.",
+    "num": 5290
   },
   {
     "word": "to prepare",
@@ -21,7 +23,8 @@
     "translit": "(hētoimasan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2090:  ",
-    "str2": "To make ready, prepare. From hetoimos; to prepare."
+    "str2": "To make ready, prepare. From hetoimos; to prepare.",
+    "num": 2090
   },
   {
     "word": "spices",
@@ -29,7 +32,8 @@
     "translit": "(arōmata)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 759:  ",
-    "str2": "Spice, perfume. From airo; an aromatic."
+    "str2": "Spice, perfume. From airo; an aromatic.",
+    "num": 759
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "perfumes.",
@@ -45,7 +50,8 @@
     "translit": "(myra)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 3464:  ",
-    "str2": "Anointing-oil, ointment. Probably of foreign origin; 'myrrh', i.e. perfumed oil."
+    "str2": "Anointing-oil, ointment. Probably of foreign origin; 'myrrh', i.e. perfumed oil.",
+    "num": 3464
   },
   {
     "word": "And",
@@ -53,7 +59,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they rested",
@@ -61,7 +68,8 @@
     "translit": "(hēsychasan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2270:  ",
-    "str2": "From the same as hesuchios; to keep still, i.e. Refrain from labor, meddlesomeness or speech."
+    "str2": "From the same as hesuchios; to keep still, i.e. Refrain from labor, meddlesomeness or speech.",
+    "num": 2270
   },
   {
     "word": "on the",
@@ -69,7 +77,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Sabbath",
@@ -77,7 +86,8 @@
     "translit": "(sabbaton)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4521:  ",
-    "str2": "The Sabbath, a week. "
+    "str2": "The Sabbath, a week. ",
+    "num": 4521
   },
   {
     "word": "according to",
@@ -85,7 +95,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "the",
@@ -93,7 +104,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "commandment.",
@@ -101,6 +113,7 @@
     "translit": "(entolēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1785:  ",
-    "str2": "An ordinance, injunction, command, law. From entellomai; injunction, i.e. An authoritative prescription."
+    "str2": "An ordinance, injunction, command, law. From entellomai; injunction, i.e. An authoritative prescription.",
+    "num": 1785
   }
 ]

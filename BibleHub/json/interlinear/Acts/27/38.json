@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[the men] had eaten their fill,",
@@ -13,7 +14,8 @@
     "translit": "(koresthentes)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Plural",
     "str": "Strong's 2880:  ",
-    "str2": "To fill, sate, glut, feed full, satisfy. A primary verb; to cram, i.e. Glut or sate."
+    "str2": "To fill, sate, glut, feed full, satisfy. A primary verb; to cram, i.e. Glut or sate.",
+    "num": 2880
   },
   {
     "word": "they lightened",
@@ -21,7 +23,8 @@
     "translit": "(ekouphizon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2893:  ",
-    "str2": "To lighten, make light. From kouphos; to unload."
+    "str2": "To lighten, make light. From kouphos; to unload.",
+    "num": 2893
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "ship",
@@ -37,7 +41,8 @@
     "translit": "(ploion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4143:  ",
-    "str2": "A ship, vessel, boat. From pleo; a sailer, i.e. Vessel."
+    "str2": "A ship, vessel, boat. From pleo; a sailer, i.e. Vessel.",
+    "num": 4143
   },
   {
     "word": "by throwing",
@@ -45,7 +50,8 @@
     "translit": "(ekballomenoi)",
     "parse": "Verb - Present Participle Middle - Nominative Masculine Plural",
     "str": "Strong's 1544:  ",
-    "str2": "To throw (cast, put) out; I banish; I bring forth, produce. From ek and ballo; to eject."
+    "str2": "To throw (cast, put) out; I banish; I bring forth, produce. From ek and ballo; to eject.",
+    "num": 1544
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "grain",
@@ -61,7 +68,8 @@
     "translit": "(siton)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 4621:  ",
-    "str2": "Wheat, grain. Also plural irregular neuter sita of uncertain derivation; grain, especially wheat."
+    "str2": "Wheat, grain. Also plural irregular neuter sita of uncertain derivation; grain, especially wheat.",
+    "num": 4621
   },
   {
     "word": "into",
@@ -69,7 +77,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "sea.",
@@ -85,6 +95,7 @@
     "translit": "(thalassan)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2281:  ",
-    "str2": "Probably prolonged from hals; the sea."
+    "str2": "Probably prolonged from hals; the sea.",
+    "num": 2281
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(mî-)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "are these",
@@ -13,7 +14,8 @@
     "translit": "(’êl·leh)",
     "parse": "Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   },
   {
     "word": "who fly",
@@ -21,7 +23,8 @@
     "translit": "(tə·‘ū·p̄e·nāh)",
     "parse": "Verb - Qal - Imperfect - third person feminine plural",
     "str": "Strong's 5774:  ",
-    "str2": "To fly, to faint"
+    "str2": "To fly, to faint",
+    "num": 5774
   },
   {
     "word": "like clouds,",
@@ -29,7 +32,8 @@
     "translit": "(kā·‘āḇ)",
     "parse": "Preposition-k, Article | Noun - common singular",
     "str": "Strong's 5645:  ",
-    "str2": "An envelope, darkness, a, cloud, a copse"
+    "str2": "An envelope, darkness, a, cloud, a copse",
+    "num": 5645
   },
   {
     "word": "like doves",
@@ -37,7 +41,8 @@
     "translit": "(wə·ḵay·yō·w·nîm)",
     "parse": "Conjunctive waw, Preposition-k, Article | Noun - feminine plural",
     "str": "Strong's 3123:  ",
-    "str2": "A dove"
+    "str2": "A dove",
+    "num": 3123
   },
   {
     "word": "to",
@@ -45,7 +50,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "their shelters?",
@@ -53,6 +59,7 @@
     "translit": "(’ă·rub·bō·ṯê·hem)",
     "parse": "Noun - feminine plural construct | third person masculine plural",
     "str": "Strong's 699:  ",
-    "str2": "A lattice, a window, dovecot, chimney, sluice"
+    "str2": "A lattice, a window, dovecot, chimney, sluice",
+    "num": 699
   }
 ]

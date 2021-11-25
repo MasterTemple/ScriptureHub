@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "I decided",
@@ -13,7 +14,8 @@
     "translit": "(ekrina)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 2919:  ",
-    "str2": "Properly, to distinguish, i.e. Decide; by implication, to try, condemn, punish."
+    "str2": "Properly, to distinguish, i.e. Decide; by implication, to try, condemn, punish.",
+    "num": 2919
   },
   {
     "word": "to know",
@@ -21,7 +23,8 @@
     "translit": "(eidenai)",
     "parse": "Verb - Perfect Infinitive Active",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "nothing",
@@ -29,7 +32,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "[while I was] with",
@@ -37,7 +41,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "you",
@@ -45,7 +50,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "except",
@@ -53,7 +59,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "Jesus",
@@ -61,7 +68,8 @@
     "translit": "(Iēsoun)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "Christ",
@@ -69,7 +77,8 @@
     "translit": "(Christon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Him",
@@ -85,7 +95,8 @@
     "translit": "(touton)",
     "parse": "Demonstrative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "crucified.",
@@ -93,6 +104,7 @@
     "translit": "(estaurōmenon)",
     "parse": "Verb - Perfect Participle Middle or Passive - Accusative Masculine Singular",
     "str": "Strong's 4717:  ",
-    "str2": "From stauros; to impale on the cross; figuratively, to extinguish passion or selfishness."
+    "str2": "From stauros; to impale on the cross; figuratively, to extinguish passion or selfishness.",
+    "num": 4717
   }
 ]

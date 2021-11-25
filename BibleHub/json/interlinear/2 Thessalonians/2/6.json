@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "you know",
@@ -13,7 +14,8 @@
     "translit": "(oidate)",
     "parse": "Verb - Perfect Indicative Active - 2nd Person Plural",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "what",
@@ -21,7 +23,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "is now restraining",
@@ -29,7 +32,8 @@
     "translit": "(katechon)",
     "parse": "Verb - Present Participle Active - Accusative Neuter Singular",
     "str": "Strong's 2722:  ",
-    "str2": "From kata and echo; to hold down, in various applications."
+    "str2": "From kata and echo; to hold down, in various applications.",
+    "num": 2722
   },
   {
     "word": "him,",
@@ -37,7 +41,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "so that",
@@ -45,7 +50,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "he will be revealed",
@@ -53,7 +59,8 @@
     "translit": "(apokalyphthēnai)",
     "parse": "Verb - Aorist Infinitive Passive",
     "str": "Strong's 601:  ",
-    "str2": "To uncover, bring to light, reveal. From apo and kalupto; to take off the cover, i.e. Disclose."
+    "str2": "To uncover, bring to light, reveal. From apo and kalupto; to take off the cover, i.e. Disclose.",
+    "num": 601
   },
   {
     "word": "at",
@@ -61,7 +68,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "proper time.",
@@ -77,6 +86,7 @@
     "translit": "(kairō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2540:  ",
-    "str2": "Fitting season, season, opportunity, occasion, time. Of uncertain affinity; an occasion, i.e. Set or proper time."
+    "str2": "Fitting season, season, opportunity, occasion, time. Of uncertain affinity; an occasion, i.e. Set or proper time.",
+    "num": 2540
   }
 ]

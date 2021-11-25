@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "then",
@@ -13,7 +14,8 @@
     "translit": "(’āz)",
     "parse": "Adverb",
     "str": "Strong's 227:  ",
-    "str2": "At that time, place, therefore"
+    "str2": "At that time, place, therefore",
+    "num": 227
   },
   {
     "word": "I will restore",
@@ -21,7 +23,8 @@
     "translit": "(’eh·pōḵ)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 2015:  ",
-    "str2": "To turn about, over, to change, overturn, return, pervert"
+    "str2": "To turn about, over, to change, overturn, return, pervert",
+    "num": 2015
   },
   {
     "word": "pure",
@@ -29,7 +32,8 @@
     "translit": "(ḇə·rū·rāh)",
     "parse": "Verb - Qal - QalPassParticiple - feminine singular",
     "str": "Strong's 1305:  ",
-    "str2": "To clarify, examine, select"
+    "str2": "To clarify, examine, select",
+    "num": 1305
   },
   {
     "word": "lips",
@@ -37,7 +41,8 @@
     "translit": "(śā·p̄āh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 8193:  ",
-    "str2": "The lip, language, a margin"
+    "str2": "The lip, language, a margin",
+    "num": 8193
   },
   {
     "word": "to",
@@ -45,7 +50,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the peoples,",
@@ -53,7 +59,8 @@
     "translit": "(‘am·mîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "that all",
@@ -61,7 +68,8 @@
     "translit": "(ḵul·lām)",
     "parse": "Noun - masculine singular construct | third person masculine plural",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "may call",
@@ -69,7 +77,8 @@
     "translit": "(liq·rō)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 7121:  ",
-    "str2": "To call, proclaim, read"
+    "str2": "To call, proclaim, read",
+    "num": 7121
   },
   {
     "word": "upon the name",
@@ -77,7 +86,8 @@
     "translit": "(bə·šêm)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 8034:  ",
-    "str2": "A name"
+    "str2": "A name",
+    "num": 8034
   },
   {
     "word": "of the LORD",
@@ -85,7 +95,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "and serve Him",
@@ -93,7 +104,8 @@
     "translit": "(lə·‘ā·ḇə·ḏōw)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct | third person masculine singular",
     "str": "Strong's 5647:  ",
-    "str2": "To work, to serve, till, enslave"
+    "str2": "To work, to serve, till, enslave",
+    "num": 5647
   },
   {
     "word": "shoulder",
@@ -101,7 +113,8 @@
     "translit": "(šə·ḵem)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7926:  ",
-    "str2": "The neck, as the place of burdens, the spur of a, hill"
+    "str2": "The neck, as the place of burdens, the spur of a, hill",
+    "num": 7926
   },
   {
     "word": "to shoulder.",
@@ -109,6 +122,7 @@
     "translit": "(’e·ḥāḏ)",
     "parse": "Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   }
 ]

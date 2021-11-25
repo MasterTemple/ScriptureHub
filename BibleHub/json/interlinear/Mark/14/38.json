@@ -5,7 +5,8 @@
     "translit": "(grēgoreite)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 1127:  ",
-    "str2": "(a) I am awake (in the night), watch, (b) I am watchful, on the alert, vigilant. From egeiro; to keep awake, i.e. Watch."
+    "str2": "(a) I am awake (in the night), watch, (b) I am watchful, on the alert, vigilant. From egeiro; to keep awake, i.e. Watch.",
+    "num": 1127
   },
   {
     "word": "and",
@@ -13,7 +14,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "pray",
@@ -21,7 +23,8 @@
     "translit": "(proseuchesthe)",
     "parse": "Verb - Present Imperative Middle or Passive - 2nd Person Plural",
     "str": "Strong's 4336:  ",
-    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship."
+    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship.",
+    "num": 4336
   },
   {
     "word": "so that",
@@ -29,7 +32,8 @@
     "translit": "(hina)",
     "parse": "Conjunction",
     "str": "Strong's 2443:  ",
-    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that."
+    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that.",
+    "num": 2443
   },
   {
     "word": "you will not enter",
@@ -37,7 +41,8 @@
     "translit": "(elthēte)",
     "parse": "Verb - Aorist Subjunctive Active - 2nd Person Plural",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "into",
@@ -45,7 +50,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "temptation.",
@@ -53,7 +59,8 @@
     "translit": "(peirasmon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3986:  ",
-    "str2": "From peirazo; a putting to proof (of good), experience (of evil), solicitation, discipline or provocation); by implication, adversity."
+    "str2": "From peirazo; a putting to proof (of good), experience (of evil), solicitation, discipline or provocation); by implication, adversity.",
+    "num": 3986
   },
   {
     "word": "For",
@@ -61,7 +68,8 @@
     "translit": "(men)",
     "parse": "Conjunction",
     "str": "Strong's 3303:  ",
-    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de."
+    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de.",
+    "num": 3303
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "spirit",
@@ -77,7 +86,8 @@
     "translit": "(pneuma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "[is] willing,",
@@ -85,7 +95,8 @@
     "translit": "(prothymon)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 4289:  ",
-    "str2": "Eager, ready, willing, prompt. From pro and thumos; forward in spirit, i.e. Predisposed; neuter alacrity."
+    "str2": "Eager, ready, willing, prompt. From pro and thumos; forward in spirit, i.e. Predisposed; neuter alacrity.",
+    "num": 4289
   },
   {
     "word": "but",
@@ -93,7 +104,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "body",
@@ -109,7 +122,8 @@
     "translit": "(sarx)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4561:  ",
-    "str2": "Flesh, body, human nature, materiality; kindred. "
+    "str2": "Flesh, body, human nature, materiality; kindred. ",
+    "num": 4561
   },
   {
     "word": "[is] weak.”",
@@ -117,6 +131,7 @@
     "translit": "(asthenēs)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 772:  ",
-    "str2": "(lit: not strong), (a) weak (physically, or morally), (b) infirm, sick. Strengthless."
+    "str2": "(lit: not strong), (a) weak (physically, or morally), (b) infirm, sick. Strengthless.",
+    "num": 772
   }
 ]

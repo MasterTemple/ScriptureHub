@@ -5,7 +5,8 @@
     "translit": "(hū)",
     "parse": "Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "also",
@@ -13,7 +14,8 @@
     "translit": "(gam-)",
     "parse": "Conjunction",
     "str": "Strong's 1571:  ",
-    "str2": "Assemblage, also, even, yea, though, both, and"
+    "str2": "Assemblage, also, even, yea, though, both, and",
+    "num": 1571
   },
   {
     "word": "walked",
@@ -21,7 +23,8 @@
     "translit": "(hā·laḵ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "in the ways",
@@ -29,7 +32,8 @@
     "translit": "(bə·ḏar·ḵê)",
     "parse": "Preposition-b | Noun - common plural construct",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   },
   {
     "word": "of the house",
@@ -37,7 +41,8 @@
     "translit": "(bêṯ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "of Ahab,",
@@ -45,7 +50,8 @@
     "translit": "(’aḥ·’āḇ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 256:  ",
-    "str2": "Ahab -- 'father's brother', a king of Israel, also a false prophet"
+    "str2": "Ahab -- 'father's brother', a king of Israel, also a false prophet",
+    "num": 256
   },
   {
     "word": "for",
@@ -53,7 +59,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "his mother",
@@ -61,7 +68,8 @@
     "translit": "(’im·mōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "was his counselor",
@@ -69,7 +77,8 @@
     "translit": "(yō·w·‘aṣ·tōw)",
     "parse": "Verb - Qal - Participle - feminine singular construct | third person masculine singular",
     "str": "Strong's 3289:  ",
-    "str2": "To advise, to deliberate, resolve"
+    "str2": "To advise, to deliberate, resolve",
+    "num": 3289
   },
   {
     "word": "in wickedness.",
@@ -77,6 +86,7 @@
     "translit": "(lə·har·šî·a‘)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct",
     "str": "Strong's 7561:  ",
-    "str2": "To be, wrong, to disturb, violate"
+    "str2": "To be, wrong, to disturb, violate",
+    "num": 7561
   }
 ]

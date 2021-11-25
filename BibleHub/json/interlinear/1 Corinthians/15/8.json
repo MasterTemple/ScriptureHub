@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "last",
@@ -13,7 +14,8 @@
     "translit": "(eschaton)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 2078:  ",
-    "str2": "Last, at the last, finally, till the end. A superlative probably from echo; farthest, final."
+    "str2": "Last, at the last, finally, till the end. A superlative probably from echo; farthest, final.",
+    "num": 2078
   },
   {
     "word": "of all",
@@ -21,7 +23,8 @@
     "translit": "(pantōn)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "He appeared",
@@ -29,7 +32,8 @@
     "translit": "(ōphthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "to me also,",
@@ -37,7 +41,8 @@
     "translit": "(kamoi)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Singular",
     "str": "Strong's 2504:  ",
-    "str2": "To also, I too, but I. From kai and ego; so also the dative case kamoi, and accusative case kame and I, me."
+    "str2": "To also, I too, but I. From kai and ego; so also the dative case kamoi, and accusative case kame and I, me.",
+    "num": 2504
   },
   {
     "word": "as",
@@ -45,7 +50,8 @@
     "translit": "(hōsperei)",
     "parse": "Adverb",
     "str": "Strong's 5619:  ",
-    "str2": "Just as if, as it were. From hosper and ei; just as if, i.e. As it were."
+    "str2": "Just as if, as it were. From hosper and ei; just as if, i.e. As it were.",
+    "num": 5619
   },
   {
     "word": "to [one]",
@@ -53,7 +59,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "of untimely birth.",
@@ -61,6 +68,7 @@
     "translit": "(ektrōmati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 1626:  ",
-    "str2": "From a comparative of ek and titrosko; a miscarriage, i.e. untimely birth."
+    "str2": "From a comparative of ek and titrosko; a miscarriage, i.e. untimely birth.",
+    "num": 1626
   }
 ]

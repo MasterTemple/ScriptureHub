@@ -5,7 +5,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "the clouds",
@@ -13,7 +14,8 @@
     "translit": "(šə·ḥā·qîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 7834:  ",
-    "str2": "A powder, a thin vapor, the firmament"
+    "str2": "A powder, a thin vapor, the firmament",
+    "num": 7834
   },
   {
     "word": "pour out",
@@ -21,7 +23,8 @@
     "translit": "(yiz·zə·lū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 5140:  ",
-    "str2": "To flow, trickle, drop, distill"
+    "str2": "To flow, trickle, drop, distill",
+    "num": 5140
   },
   {
     "word": "and shower",
@@ -29,7 +32,8 @@
     "translit": "(yir·‘ă·p̄ū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 7491:  ",
-    "str2": "To trickle, drip"
+    "str2": "To trickle, drip",
+    "num": 7491
   },
   {
     "word": "abundantly",
@@ -37,7 +41,8 @@
     "translit": "(rāḇ)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 7227:  ",
-    "str2": "Much, many, great"
+    "str2": "Much, many, great",
+    "num": 7227
   },
   {
     "word": "on",
@@ -45,7 +50,8 @@
     "translit": "(‘ă·lê)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "mankind.",
@@ -53,6 +59,7 @@
     "translit": "(’ā·ḏām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   }
 ]

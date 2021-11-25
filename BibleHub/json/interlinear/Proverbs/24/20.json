@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the evil [man]",
@@ -13,7 +14,8 @@
     "translit": "(lā·rā‘)",
     "parse": "Preposition-l, Article | Adjective - masculine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "has",
@@ -21,7 +23,8 @@
     "translit": "(ṯih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "no",
@@ -29,7 +32,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "future;",
@@ -37,7 +41,8 @@
     "translit": "(’a·ḥă·rîṯ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 319:  ",
-    "str2": "The last, end, the future, posterity"
+    "str2": "The last, end, the future, posterity",
+    "num": 319
   },
   {
     "word": "the lamp",
@@ -45,7 +50,8 @@
     "translit": "(nêr)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 5216:  ",
-    "str2": "A lamp, light"
+    "str2": "A lamp, light",
+    "num": 5216
   },
   {
     "word": "of the wicked",
@@ -53,7 +59,8 @@
     "translit": "(rə·šā·‘îm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 7563:  ",
-    "str2": "Wrong, an, bad person"
+    "str2": "Wrong, an, bad person",
+    "num": 7563
   },
   {
     "word": "will be extinguished.",
@@ -61,6 +68,7 @@
     "translit": "(yiḏ·‘āḵ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1846:  ",
-    "str2": "To be extinguished, to expire, be dried up"
+    "str2": "To be extinguished, to expire, be dried up",
+    "num": 1846
   }
 ]

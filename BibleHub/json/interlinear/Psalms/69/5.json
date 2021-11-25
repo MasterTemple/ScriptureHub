@@ -5,7 +5,8 @@
     "translit": "(’at·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "know",
@@ -13,7 +14,8 @@
     "translit": "(yā·ḏa‘·tā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "my folly,",
@@ -21,7 +23,8 @@
     "translit": "(lə·’iw·wal·tî)",
     "parse": "Preposition-l | Noun - feminine singular construct | first person common singular",
     "str": "Strong's 200:  ",
-    "str2": "Silliness"
+    "str2": "Silliness",
+    "num": 200
   },
   {
     "word": "O God,",
@@ -29,7 +32,8 @@
     "translit": "(’ĕlō·hîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "and my guilt",
@@ -37,7 +41,8 @@
     "translit": "(wə·’aš·mō·w·ṯay)",
     "parse": "Conjunctive waw | Noun - feminine plural construct | first person common singular",
     "str": "Strong's 819:  ",
-    "str2": "Guiltiness, a fault, the presentation of a, sin-offering"
+    "str2": "Guiltiness, a fault, the presentation of a, sin-offering",
+    "num": 819
   },
   {
     "word": "is not",
@@ -45,7 +50,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "hidden",
@@ -53,7 +59,8 @@
     "translit": "(niḵ·ḥā·ḏū)",
     "parse": "Verb - Nifal - Perfect - third person common plural",
     "str": "Strong's 3582:  ",
-    "str2": "To secrete, by act, word, to destroy"
+    "str2": "To secrete, by act, word, to destroy",
+    "num": 3582
   },
   {
     "word": "from You.",
@@ -61,6 +68,7 @@
     "translit": "(mim·mə·ḵā)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(te)",
     "parse": "Conjunction",
     "str": "Strong's 5037:  ",
-    "str2": "And, both. A primary particle of connection or addition; both or also."
+    "str2": "And, both. A primary particle of connection or addition; both or also.",
+    "num": 5037
   },
   {
     "word": "they were trying",
@@ -13,7 +14,8 @@
     "translit": "(Zētountōn)",
     "parse": "Verb - Present Participle Active - Genitive Masculine Plural",
     "str": "Strong's 2212:  ",
-    "str2": "To seek, search for, desire, require, demand. Of uncertain affinity; to seek; specially, to worship, or to plot."
+    "str2": "To seek, search for, desire, require, demand. Of uncertain affinity; to seek; specially, to worship, or to plot.",
+    "num": 2212
   },
   {
     "word": "to kill",
@@ -21,7 +23,8 @@
     "translit": "(apokteinai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 615:  ",
-    "str2": "To put to death, kill; fig: I abolish. From apo and kteino; to kill outright; figuratively, to destroy."
+    "str2": "To put to death, kill; fig: I abolish. From apo and kteino; to kill outright; figuratively, to destroy.",
+    "num": 615
   },
   {
     "word": "him,",
@@ -29,7 +32,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "commander",
@@ -45,7 +50,8 @@
     "translit": "(chiliarchō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 5506:  ",
-    "str2": "A commander of a thousand men, a military tribune. From chilioi and archo; the commander of a thousand soldiers"
+    "str2": "A commander of a thousand men, a military tribune. From chilioi and archo; the commander of a thousand soldiers",
+    "num": 5506
   },
   {
     "word": "of the",
@@ -53,7 +59,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "[Roman] regiment",
@@ -61,7 +68,8 @@
     "translit": "(speirēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4686:  ",
-    "str2": "A cohort, the tenth part of a legion; a military guard. "
+    "str2": "A cohort, the tenth part of a legion; a military guard. ",
+    "num": 4686
   },
   {
     "word": "received",
@@ -69,7 +77,8 @@
     "translit": "(anebē)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 305:  ",
-    "str2": "To go up, mount, ascend; of things: I rise, spring up, come up. From ana and the base of basis; to go up."
+    "str2": "To go up, mount, ascend; of things: I rise, spring up, come up. From ana and the base of basis; to go up.",
+    "num": 305
   },
   {
     "word": "a report",
@@ -77,7 +86,8 @@
     "translit": "(phasis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 5334:  ",
-    "str2": "Report, tidings, information. From phemi; a saying, i.e. Report."
+    "str2": "Report, tidings, information. From phemi; a saying, i.e. Report.",
+    "num": 5334
   },
   {
     "word": "that",
@@ -85,7 +95,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "all",
@@ -93,7 +104,8 @@
     "translit": "(holē)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 3650:  ",
-    "str2": "All, the whole, entire, complete. A primary word; 'whole' or 'all', i.e. Complete, especially as noun or adverb."
+    "str2": "All, the whole, entire, complete. A primary word; 'whole' or 'all', i.e. Complete, especially as noun or adverb.",
+    "num": 3650
   },
   {
     "word": "Jerusalem",
@@ -101,7 +113,8 @@
     "translit": "(Ierousalēm)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2419:  ",
-    "str2": "Of Hebrew origin; Hierusalem, the capitol of Palestine."
+    "str2": "Of Hebrew origin; Hierusalem, the capitol of Palestine.",
+    "num": 2419
   },
   {
     "word": "was in turmoil.",
@@ -109,6 +122,7 @@
     "translit": "(synchynnetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 4797:  ",
-    "str2": "Or sugchuno from sun and cheo or its alternate; to commingle promiscuously, i.e. to throw into disorder, to perplex."
+    "str2": "Or sugchuno from sun and cheo or its alternate; to commingle promiscuously, i.e. to throw into disorder, to perplex.",
+    "num": 4797
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[the demons] kept begging",
@@ -13,7 +14,8 @@
     "translit": "(parekaloun)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 3870:  ",
-    "str2": "From para and kaleo; to call near, i.e. Invite, invoke."
+    "str2": "From para and kaleo; to call near, i.e. Invite, invoke.",
+    "num": 3870
   },
   {
     "word": "[Jesus]",
@@ -21,7 +23,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "not",
@@ -29,7 +32,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "to order",
@@ -37,7 +41,8 @@
     "translit": "(epitaxē)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 2004:  ",
-    "str2": "To give order, command, charge. From epi and tasso; to arrange upon, i.e. Order."
+    "str2": "To give order, command, charge. From epi and tasso; to arrange upon, i.e. Order.",
+    "num": 2004
   },
   {
     "word": "them",
@@ -45,7 +50,8 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Neuter 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "to go",
@@ -53,7 +59,8 @@
     "translit": "(apelthein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 565:  ",
-    "str2": "From apo and erchomai; to go off, aside or behind, literally or figuratively."
+    "str2": "From apo and erchomai; to go off, aside or behind, literally or figuratively.",
+    "num": 565
   },
   {
     "word": "into",
@@ -61,7 +68,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Abyss.",
@@ -77,6 +86,7 @@
     "translit": "(abysson)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 12:  ",
-    "str2": "The abyss, unfathomable depth, an especially Jewish conception, the home of the dead and of evil spirits.  Depthless, i.e. 'abyss'."
+    "str2": "The abyss, unfathomable depth, an especially Jewish conception, the home of the dead and of evil spirits.  Depthless, i.e. 'abyss'.",
+    "num": 12
   }
 ]

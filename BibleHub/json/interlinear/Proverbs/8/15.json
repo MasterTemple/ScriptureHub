@@ -5,7 +5,8 @@
     "translit": "(bî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "kings",
@@ -13,7 +14,8 @@
     "translit": "(mə·lā·ḵîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "reign,",
@@ -21,7 +23,8 @@
     "translit": "(yim·lō·ḵū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 4427:  ",
-    "str2": "To reign, inceptively, to ascend the throne, to induct into royalty, to take counsel"
+    "str2": "To reign, inceptively, to ascend the throne, to induct into royalty, to take counsel",
+    "num": 4427
   },
   {
     "word": "and rulers",
@@ -29,7 +32,8 @@
     "translit": "(wə·rō·wz·nîm)",
     "parse": "Conjunctive waw | Verb - Qal - Participle - masculine plural",
     "str": "Strong's 7336:  ",
-    "str2": "To be weighty, judicious or commanding"
+    "str2": "To be weighty, judicious or commanding",
+    "num": 7336
   },
   {
     "word": "enact just",
@@ -37,7 +41,8 @@
     "translit": "(ṣe·ḏeq)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6664:  ",
-    "str2": "The right, equity, prosperity"
+    "str2": "The right, equity, prosperity",
+    "num": 6664
   },
   {
     "word": "laws;",
@@ -45,6 +50,7 @@
     "translit": "(yə·ḥō·qə·qū)",
     "parse": "Verb - Piel - Imperfect - third person masculine plural",
     "str": "Strong's 2710:  ",
-    "str2": "To hack, engrave, to enact, prescribe"
+    "str2": "To hack, engrave, to enact, prescribe",
+    "num": 2710
   }
 ]

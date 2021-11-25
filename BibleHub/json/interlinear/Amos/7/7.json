@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "He showed me:",
@@ -13,7 +14,8 @@
     "translit": "(hir·’a·nî)",
     "parse": "Verb - Hifil - Perfect - third person masculine singular | first person common singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "Behold,",
@@ -21,7 +23,8 @@
     "translit": "(wə·hin·nêh)",
     "parse": "Conjunctive waw | Interjection",
     "str": "Strong's 2009:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2009
   },
   {
     "word": "the Lord",
@@ -29,7 +32,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "was standing",
@@ -37,7 +41,8 @@
     "translit": "(niṣ·ṣāḇ)",
     "parse": "Verb - Nifal - Participle - masculine singular",
     "str": "Strong's 5324:  ",
-    "str2": "To take one's stand, stand"
+    "str2": "To take one's stand, stand",
+    "num": 5324
   },
   {
     "word": "by",
@@ -45,7 +50,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "a wall",
@@ -53,7 +59,8 @@
     "translit": "(ḥō·w·maṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 2346:  ",
-    "str2": "A wall of protection"
+    "str2": "A wall of protection",
+    "num": 2346
   },
   {
     "word": "true to plumb,",
@@ -61,7 +68,8 @@
     "translit": "(’ă·nāḵ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 594:  ",
-    "str2": "A plumb-line, a hook"
+    "str2": "A plumb-line, a hook",
+    "num": 594
   },
   {
     "word": "with a plumb line",
@@ -69,7 +77,8 @@
     "translit": "(’ă·nāḵ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 594:  ",
-    "str2": "A plumb-line, a hook"
+    "str2": "A plumb-line, a hook",
+    "num": 594
   },
   {
     "word": "in His hand.",
@@ -77,6 +86,7 @@
     "translit": "(ū·ḇə·yā·ḏōw)",
     "parse": "Conjunctive waw, Preposition-b | Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(estai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "no more",
@@ -13,7 +14,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "night",
@@ -21,7 +23,8 @@
     "translit": "(nyx)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3571:  ",
-    "str2": "The night, night-time. A primary word; 'night'."
+    "str2": "The night, night-time. A primary word; 'night'.",
+    "num": 3571
   },
   {
     "word": "[in the city],",
@@ -29,7 +32,8 @@
     "translit": "(eti)",
     "parse": "Adverb",
     "str": "Strong's 2089:  ",
-    "str2": "(a) of time: still, yet, even now, (b) of degree: even, further, more, in addition. Perhaps akin to etos; 'yet, ' still."
+    "str2": "(a) of time: still, yet, even now, (b) of degree: even, further, more, in addition. Perhaps akin to etos; 'yet, ' still.",
+    "num": 2089
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they will have",
@@ -45,7 +50,8 @@
     "translit": "(echousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "no",
@@ -53,7 +59,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "need",
@@ -61,7 +68,8 @@
     "translit": "(chreian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5532:  ",
-    "str2": "From the base of chraomai or chre; employment, i.e. An affair; also occasion, demand, requirement or destitution."
+    "str2": "From the base of chraomai or chre; employment, i.e. An affair; also occasion, demand, requirement or destitution.",
+    "num": 5532
   },
   {
     "word": "for [the] light",
@@ -69,7 +77,8 @@
     "translit": "(phōtos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 5457:  ",
-    "str2": "Light, a source of light, radiance. From an obsolete phao; luminousness."
+    "str2": "Light, a source of light, radiance. From an obsolete phao; luminousness.",
+    "num": 5457
   },
   {
     "word": "of a lamp",
@@ -77,7 +86,8 @@
     "translit": "(lychnou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3088:  ",
-    "str2": "A lamp. From the base of leukos; a portable lamp or other illuminator."
+    "str2": "A lamp. From the base of leukos; a portable lamp or other illuminator.",
+    "num": 3088
   },
   {
     "word": "[or]",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "of [the] sun.",
@@ -93,7 +104,8 @@
     "translit": "(hēliou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2246:  ",
-    "str2": "The sun, sunlight. From hele; the sun; by implication, light."
+    "str2": "The sun, sunlight. From hele; the sun; by implication, light.",
+    "num": 2246
   },
   {
     "word": "For",
@@ -101,7 +113,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "[the] Lord",
@@ -109,7 +122,8 @@
     "translit": "(Kyrios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "God",
@@ -117,7 +131,8 @@
     "translit": "(Theos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "will shine",
@@ -125,7 +140,8 @@
     "translit": "(phōtisei)",
     "parse": "Verb - Future Indicative Active - 3rd Person Singular",
     "str": "Strong's 5461:  ",
-    "str2": "From phos; to shed rays, i.e. To shine or to brighten up."
+    "str2": "From phos; to shed rays, i.e. To shine or to brighten up.",
+    "num": 5461
   },
   {
     "word": "on",
@@ -133,7 +149,8 @@
     "translit": "(ep’)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "them,",
@@ -141,7 +158,8 @@
     "translit": "(autous)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "and",
@@ -149,7 +167,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they will reign",
@@ -157,7 +176,8 @@
     "translit": "(basileusousin)",
     "parse": "Verb - Future Indicative Active - 3rd Person Plural",
     "str": "Strong's 936:  ",
-    "str2": "(a) I rule, reign, (b) I reign over. From basileus; to rule."
+    "str2": "(a) I rule, reign, (b) I reign over. From basileus; to rule.",
+    "num": 936
   },
   {
     "word": "forever",
@@ -165,7 +185,8 @@
     "translit": "(aiōnas)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 165:  ",
-    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period."
+    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period.",
+    "num": 165
   },
   {
     "word": "[and]",
@@ -173,7 +194,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "ever.",
@@ -181,6 +203,7 @@
     "translit": "(aiōnōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 165:  ",
-    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period."
+    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period.",
+    "num": 165
   }
 ]

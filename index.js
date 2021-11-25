@@ -50,17 +50,17 @@ async function getDataFromWebsite(references) {
 async function getData(references) {
   for(const {book, chapter, verse: verseCount} of references){
 
-    // fs.mkdir(`./BibleHub/json/${book}/${chapter}`, { recursive: true }, ()=>{})
+    // fs.mkdirSync(`./BibleHub/json/interlinear/${book}/${chapter}`, { recursive: true }, ()=>{})
 
     for(let verse = 1; verse <= verseCount; verse++){
 
-      // if(fs.existsSync(`./BibleHub/json/${book}/${chapter}/${verse}.json`)) continue;
+      if(fs.existsSync(`./BibleHub/json/interlinear/${book}/${chapter}/${verse}.json`)) continue;
 
-      console.log(`Updating: ${book} ${chapter}:${verse}`);
+      console.log(`Creating: ${book} ${chapter}:${verse}`);
 
       let data = await getLocalVerseData(book, chapter, verse)
-
-      fs.writeFile(`./BibleHub/json/interlinear/${book}/${chapter}/${verse}.json`, JSON.stringify(data, null, 2))
+      // console.log(data);
+      fs.writeFileSync(`./BibleHub/json/interlinear/${book}/${chapter}/${verse}.json`, JSON.stringify(data, null, 2))
       // fs.writeFileSync(`./BibleHub/json/interlinear/${book}/${chapter}/${verse}.json`, JSON.stringify(data, null, 2))
 
     }
@@ -116,7 +116,8 @@ for(let i=1;i<=8674;i++){
 // getDataFromWebsite(references)
 
 // getAllStrongsDataFromWebsite()
-fs = fs.promises
-
-getData(references)
+// fs = fs.promises
+setTimeout(() => {
+  getData(references)
+}, 5000)
 // createStrongsJSON()

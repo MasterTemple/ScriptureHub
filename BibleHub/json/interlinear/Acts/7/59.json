@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they were stoning [him],",
@@ -13,7 +14,8 @@
     "translit": "(elithoboloun)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 3036:  ",
-    "str2": "To stone, cast stones (at), kill by stoning. From a compound of lithos and ballo; to throw stones, i.e. Lapidate."
+    "str2": "To stone, cast stones (at), kill by stoning. From a compound of lithos and ballo; to throw stones, i.e. Lapidate.",
+    "num": 3036
   },
   {
     "word": "Stephen",
@@ -21,7 +23,8 @@
     "translit": "(Stephanon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 4736:  ",
-    "str2": "The same as stephanos; Stephanus, a Christian."
+    "str2": "The same as stephanos; Stephanus, a Christian.",
+    "num": 4736
   },
   {
     "word": "appealed,",
@@ -29,7 +32,8 @@
     "translit": "(epikaloumenon)",
     "parse": "Verb - Present Participle Middle - Accusative Masculine Singular",
     "str": "Strong's 1941:  ",
-    "str2": "(a) To call (name) by a supplementary (additional, alternative) name, (b) mid: To call upon, appeal to, address. "
+    "str2": "(a) To call (name) by a supplementary (additional, alternative) name, (b) mid: To call upon, appeal to, address. ",
+    "num": 1941
   },
   {
     "word": "“Lord",
@@ -37,7 +41,8 @@
     "translit": "(Kyrie)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "Jesus,",
@@ -45,7 +50,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "receive",
@@ -53,7 +59,8 @@
     "translit": "(dexai)",
     "parse": "Verb - Aorist Imperative Middle - 2nd Person Singular",
     "str": "Strong's 1209:  ",
-    "str2": "To take, receive, accept, welcome. Middle voice of a primary verb; to receive."
+    "str2": "To take, receive, accept, welcome. Middle voice of a primary verb; to receive.",
+    "num": 1209
   },
   {
     "word": "my",
@@ -61,7 +68,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "spirit.”",
@@ -69,6 +77,7 @@
     "translit": "(pneuma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   }
 ]

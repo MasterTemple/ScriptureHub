@@ -5,7 +5,8 @@
     "translit": "(’a·ḥă·rê)",
     "parse": "Preposition",
     "str": "Strong's 310:  ",
-    "str2": "The hind or following part"
+    "str2": "The hind or following part",
+    "num": 310
   },
   {
     "word": "he had defeated",
@@ -13,7 +14,8 @@
     "translit": "(hak·kō·ṯōw)",
     "parse": "Verb - Hifil - Infinitive construct | third person masculine singular",
     "str": "Strong's 5221:  ",
-    "str2": "To strike"
+    "str2": "To strike",
+    "num": 5221
   },
   {
     "word": "Sihon",
@@ -21,7 +23,8 @@
     "translit": "(sî·ḥōn)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 5511:  ",
-    "str2": "Sihon -- a king of the Amorites"
+    "str2": "Sihon -- a king of the Amorites",
+    "num": 5511
   },
   {
     "word": "king",
@@ -29,7 +32,8 @@
     "translit": "(me·leḵ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "of the Amorites,",
@@ -37,7 +41,8 @@
     "translit": "(hā·’ĕ·mō·rî)",
     "parse": "Article | Noun - proper - masculine singular",
     "str": "Strong's 567:  ",
-    "str2": "Amorites -- perhaps 'mountain dwellers', a Canaanite tribe"
+    "str2": "Amorites -- perhaps 'mountain dwellers', a Canaanite tribe",
+    "num": 567
   },
   {
     "word": "who",
@@ -45,7 +50,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "lived",
@@ -53,7 +59,8 @@
     "translit": "(yō·wō·šêḇ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "in Heshbon,",
@@ -61,7 +68,8 @@
     "translit": "(bə·ḥeš·bō·wn)",
     "parse": "Preposition-b | Noun - proper - feminine singular",
     "str": "Strong's 2809:  ",
-    "str2": "Heshbon -- a place East of the Jordan"
+    "str2": "Heshbon -- a place East of the Jordan",
+    "num": 2809
   },
   {
     "word": "and then",
@@ -69,7 +77,8 @@
     "translit": "(wə·’êṯ)",
     "parse": "Conjunctive waw | Direct object marker",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "at Edrei [had defeated]",
@@ -77,7 +86,8 @@
     "translit": "(bə·’eḏ·re·‘î)",
     "parse": "Preposition-b | Noun - proper - feminine singular",
     "str": "Strong's 154:  ",
-    "str2": "Edrei -- a chief city of Bashan, also a place in Naphtali"
+    "str2": "Edrei -- a chief city of Bashan, also a place in Naphtali",
+    "num": 154
   },
   {
     "word": "Og",
@@ -85,7 +95,8 @@
     "translit": "(‘ō·wḡ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 5747:  ",
-    "str2": "Og -- king of Bashan"
+    "str2": "Og -- king of Bashan",
+    "num": 5747
   },
   {
     "word": "king",
@@ -93,7 +104,8 @@
     "translit": "(me·leḵ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "of Bashan,",
@@ -101,7 +113,8 @@
     "translit": "(hab·bā·šān)",
     "parse": "Article | Noun - proper - feminine singular",
     "str": "Strong's 1316:  ",
-    "str2": "Bashan -- 'smooth', a region East of the Jordan"
+    "str2": "Bashan -- 'smooth', a region East of the Jordan",
+    "num": 1316
   },
   {
     "word": "who",
@@ -109,7 +122,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "lived",
@@ -117,7 +131,8 @@
     "translit": "(yō·wō·šêḇ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "in Ashtaroth.",
@@ -125,6 +140,7 @@
     "translit": "(bə·‘aš·tā·rōṯ)",
     "parse": "Preposition-b | Noun - proper - feminine singular",
     "str": "Strong's 6252:  ",
-    "str2": "A place East of the Jordan"
+    "str2": "A place East of the Jordan",
+    "num": 6252
   }
 ]

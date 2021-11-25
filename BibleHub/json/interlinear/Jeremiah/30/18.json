@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "says:",
@@ -21,7 +23,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“I will restore",
@@ -29,7 +32,8 @@
     "translit": "(šāḇ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "the fortunes",
@@ -37,7 +41,8 @@
     "translit": "(šə·ḇūṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 7622:  ",
-    "str2": "Exile, prisoners, a former state of prosperity"
+    "str2": "Exile, prisoners, a former state of prosperity",
+    "num": 7622
   },
   {
     "word": "of Jacob’s",
@@ -45,7 +50,8 @@
     "translit": "(ya·‘ă·qō·wḇ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3290:  ",
-    "str2": "Jacob -- a son of Isaac, also his desc"
+    "str2": "Jacob -- a son of Isaac, also his desc",
+    "num": 3290
   },
   {
     "word": "tents",
@@ -53,7 +59,8 @@
     "translit": "(’ā·ho·lê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 168:  ",
-    "str2": "A tent"
+    "str2": "A tent",
+    "num": 168
   },
   {
     "word": "and have compassion",
@@ -61,7 +68,8 @@
     "translit": "(’ă·ra·ḥêm)",
     "parse": "Verb - Piel - Imperfect - first person common singular",
     "str": "Strong's 7355:  ",
-    "str2": "To fondle, to love, to compassionate"
+    "str2": "To fondle, to love, to compassionate",
+    "num": 7355
   },
   {
     "word": "on his dwellings.",
@@ -69,7 +77,8 @@
     "translit": "(ū·miš·kə·nō·ṯāw)",
     "parse": "Conjunctive waw | Noun - masculine plural construct | third person masculine singular",
     "str": "Strong's 4908:  ",
-    "str2": "A residence, the Tabernacle"
+    "str2": "A residence, the Tabernacle",
+    "num": 4908
   },
   {
     "word": "And the city",
@@ -77,7 +86,8 @@
     "translit": "(‘îr)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "will be rebuilt",
@@ -85,7 +95,8 @@
     "translit": "(wə·niḇ·nə·ṯāh)",
     "parse": "Conjunctive waw | Verb - Nifal - Conjunctive perfect - third person feminine singular",
     "str": "Strong's 1129:  ",
-    "str2": "To build"
+    "str2": "To build",
+    "num": 1129
   },
   {
     "word": "on her",
@@ -93,7 +104,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "own ruins,",
@@ -101,7 +113,8 @@
     "translit": "(til·lāh)",
     "parse": "Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 8510:  ",
-    "str2": "A mound"
+    "str2": "A mound",
+    "num": 8510
   },
   {
     "word": "and the palace",
@@ -109,7 +122,8 @@
     "translit": "(wə·’ar·mō·wn)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 759:  ",
-    "str2": "A citadel"
+    "str2": "A citadel",
+    "num": 759
   },
   {
     "word": "will stand",
@@ -117,7 +131,8 @@
     "translit": "(yê·šêḇ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "in",
@@ -125,7 +140,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "its rightful place.",
@@ -133,6 +149,7 @@
     "translit": "(miš·pā·ṭōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 4941:  ",
-    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style"
+    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style",
+    "num": 4941
   }
 ]

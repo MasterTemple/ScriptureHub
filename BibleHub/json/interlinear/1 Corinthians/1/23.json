@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "we",
@@ -13,7 +14,8 @@
     "translit": "(hēmeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "preach",
@@ -21,7 +23,8 @@
     "translit": "(kēryssomen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 2784:  ",
-    "str2": "To proclaim, herald, preach. Of uncertain affinity; to herald, especially divine truth."
+    "str2": "To proclaim, herald, preach. Of uncertain affinity; to herald, especially divine truth.",
+    "num": 2784
   },
   {
     "word": "Christ",
@@ -29,7 +32,8 @@
     "translit": "(Christon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "crucified,",
@@ -37,7 +41,8 @@
     "translit": "(estaurōmenon)",
     "parse": "Verb - Perfect Participle Middle or Passive - Accusative Masculine Singular",
     "str": "Strong's 4717:  ",
-    "str2": "From stauros; to impale on the cross; figuratively, to extinguish passion or selfishness."
+    "str2": "From stauros; to impale on the cross; figuratively, to extinguish passion or selfishness.",
+    "num": 4717
   },
   {
     "word": "a stumbling block",
@@ -45,7 +50,8 @@
     "translit": "(skandalon)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4625:  ",
-    "str2": "A snare, stumbling-block, cause for error. Scandal; probably from a derivative of kampto; a trap-stick, i.e. Snare."
+    "str2": "A snare, stumbling-block, cause for error. Scandal; probably from a derivative of kampto; a trap-stick, i.e. Snare.",
+    "num": 4625
   },
   {
     "word": "to Jews",
@@ -53,7 +59,8 @@
     "translit": "(Ioudaiois)",
     "parse": "Adjective - Dative Masculine Plural",
     "str": "Strong's 2453:  ",
-    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah."
+    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah.",
+    "num": 2453
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "foolishness",
@@ -69,7 +77,8 @@
     "translit": "(mōrian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3472:  ",
-    "str2": "Folly, absurdity, foolishness. From moros; silliness, i.e. Absurdity."
+    "str2": "Folly, absurdity, foolishness. From moros; silliness, i.e. Absurdity.",
+    "num": 3472
   },
   {
     "word": "to Gentiles,",
@@ -77,6 +86,7 @@
     "translit": "(ethnesin)",
     "parse": "Noun - Dative Neuter Plural",
     "str": "Strong's 1484:  ",
-    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one."
+    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one.",
+    "num": 1484
   }
 ]

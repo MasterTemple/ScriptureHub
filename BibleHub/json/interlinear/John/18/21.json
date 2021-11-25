@@ -5,7 +5,8 @@
     "translit": "(ti)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Neuter Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "are you asking",
@@ -13,7 +14,8 @@
     "translit": "(erōtas)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 2065:  ",
-    "str2": "Apparently from ereo; to interrogate; by implication, to request."
+    "str2": "Apparently from ereo; to interrogate; by implication, to request.",
+    "num": 2065
   },
   {
     "word": "Me?",
@@ -21,7 +23,8 @@
     "translit": "(me)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "Ask",
@@ -29,7 +32,8 @@
     "translit": "(erōtēson)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 2065:  ",
-    "str2": "Apparently from ereo; to interrogate; by implication, to request."
+    "str2": "Apparently from ereo; to interrogate; by implication, to request.",
+    "num": 2065
   },
   {
     "word": "those who",
@@ -37,7 +41,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "heard",
@@ -45,7 +50,8 @@
     "translit": "(akēkootas)",
     "parse": "Verb - Perfect Participle Active - Accusative Masculine Plural",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "My message.",
@@ -53,7 +59,8 @@
     "translit": "(elalēsa)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "Surely",
@@ -61,7 +68,8 @@
     "translit": "(ide)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 2400:  ",
-    "str2": "See! Lo! Behold! Look! Second person singular imperative middle voice of eido; used as imperative lo!"
+    "str2": "See! Lo! Behold! Look! Second person singular imperative middle voice of eido; used as imperative lo!",
+    "num": 2400
   },
   {
     "word": "they",
@@ -69,7 +77,8 @@
     "translit": "(houtoi)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "know",
@@ -77,7 +86,8 @@
     "translit": "(oidasin)",
     "parse": "Verb - Perfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "what",
@@ -85,7 +95,8 @@
     "translit": "(ha)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "I",
@@ -93,7 +104,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "said.”",
@@ -101,6 +113,7 @@
     "translit": "(eipon)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   }
 ]

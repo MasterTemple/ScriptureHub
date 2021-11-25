@@ -5,7 +5,8 @@
     "translit": "(panta)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "these",
@@ -13,7 +14,8 @@
     "translit": "(Tauta)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "have I kept",
@@ -21,7 +23,8 @@
     "translit": "(ephylaxa)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 5442:  ",
-    "str2": "Probably from phule through the idea of isolation; to watch, i.e. Be on guard; by implication, to preserve, obey, avoid."
+    "str2": "Probably from phule through the idea of isolation; to watch, i.e. Be on guard; by implication, to preserve, obey, avoid.",
+    "num": 5442
   },
   {
     "word": "from",
@@ -29,7 +32,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "my",
@@ -37,7 +41,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "youth,”",
@@ -45,7 +50,8 @@
     "translit": "(neotētos)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 3503:  ",
-    "str2": "Youth, youthfulness. From neos; newness, i.e. Youthfulness."
+    "str2": "Youth, youthfulness. From neos; newness, i.e. Youthfulness.",
+    "num": 3503
   },
   {
     "word": "he said.",
@@ -53,6 +59,7 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   }
 ]

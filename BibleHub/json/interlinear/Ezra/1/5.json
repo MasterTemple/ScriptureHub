@@ -5,7 +5,8 @@
     "translit": "(hā·’ā·ḇō·wṯ)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "heads",
@@ -13,7 +14,8 @@
     "translit": "(rā·šê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 7218:  ",
-    "str2": "The head"
+    "str2": "The head",
+    "num": 7218
   },
   {
     "word": "of Judah",
@@ -21,7 +23,8 @@
     "translit": "(lî·hū·ḏāh)",
     "parse": "Preposition-l | Noun - proper - feminine singular",
     "str": "Strong's 3063:  ",
-    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites"
+    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites",
+    "num": 3063
   },
   {
     "word": "and Benjamin,",
@@ -29,7 +32,8 @@
     "translit": "(ū·ḇin·yā·min)",
     "parse": "Conjunctive waw | Noun - proper - feminine singular",
     "str": "Strong's 1144:  ",
-    "str2": "Benjamin -- 'son of the right hand', youngest son of Jacob, also the name of two other Israelites"
+    "str2": "Benjamin -- 'son of the right hand', youngest son of Jacob, also the name of two other Israelites",
+    "num": 1144
   },
   {
     "word": "along with the priests",
@@ -37,7 +41,8 @@
     "translit": "(wə·hak·kō·hă·nîm)",
     "parse": "Conjunctive waw, Article | Noun - masculine plural",
     "str": "Strong's 3548:  ",
-    "str2": "Priest"
+    "str2": "Priest",
+    "num": 3548
   },
   {
     "word": "and Levites—",
@@ -45,7 +50,8 @@
     "translit": "(wə·hal·wî·yim)",
     "parse": "Conjunctive waw, Article | Noun - proper - masculine plural",
     "str": "Strong's 3881:  ",
-    "str2": "Levites -- descendant of Levi"
+    "str2": "Levites -- descendant of Levi",
+    "num": 3881
   },
   {
     "word": "everyone",
@@ -53,7 +59,8 @@
     "translit": "(lə·ḵōl)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "whose spirit",
@@ -61,7 +68,8 @@
     "translit": "(rū·ḥōw)",
     "parse": "Noun - common singular construct | third person masculine singular",
     "str": "Strong's 7307:  ",
-    "str2": "Wind, breath, exhalation, life, anger, unsubstantiality, a region of the sky, spirit"
+    "str2": "Wind, breath, exhalation, life, anger, unsubstantiality, a region of the sky, spirit",
+    "num": 7307
   },
   {
     "word": "God",
@@ -69,7 +77,8 @@
     "translit": "(hā·’ĕ·lō·hîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "had stirred—",
@@ -77,7 +86,8 @@
     "translit": "(hê·‘îr)",
     "parse": "Verb - Hifil - Perfect - third person masculine singular",
     "str": "Strong's 5782:  ",
-    "str2": "To rouse oneself, awake"
+    "str2": "To rouse oneself, awake",
+    "num": 5782
   },
   {
     "word": "prepared",
@@ -85,7 +95,8 @@
     "translit": "(way·yā·qū·mū)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
     "str": "Strong's 6965:  ",
-    "str2": "To arise, stand up, stand"
+    "str2": "To arise, stand up, stand",
+    "num": 6965
   },
   {
     "word": "to go up",
@@ -93,7 +104,8 @@
     "translit": "(la·‘ă·lō·wṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 5927:  ",
-    "str2": "To ascend, in, actively"
+    "str2": "To ascend, in, actively",
+    "num": 5927
   },
   {
     "word": "and rebuild",
@@ -101,7 +113,8 @@
     "translit": "(liḇ·nō·wṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 1129:  ",
-    "str2": "To build"
+    "str2": "To build",
+    "num": 1129
   },
   {
     "word": "the house",
@@ -109,7 +122,8 @@
     "translit": "(bêṯ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "of the LORD",
@@ -117,7 +131,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "in Jerusalem.",
@@ -125,6 +140,7 @@
     "translit": "(bî·rū·šā·lim)",
     "parse": "Preposition-b | Noun - proper - feminine singular",
     "str": "Strong's 3389:  ",
-    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel"
+    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel",
+    "num": 3389
   }
 ]

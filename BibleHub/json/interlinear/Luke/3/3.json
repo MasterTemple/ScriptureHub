@@ -5,7 +5,8 @@
     "translit": "(ēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "into",
@@ -13,7 +14,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "all",
@@ -21,7 +23,8 @@
     "translit": "(pasan)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "region around",
@@ -37,7 +41,8 @@
     "translit": "(perichōron)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 4066:  ",
-    "str2": "From peri and chora; around the region, i.e. Circumjacent."
+    "str2": "From peri and chora; around the region, i.e. Circumjacent.",
+    "num": 4066
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Jordan,",
@@ -53,7 +59,8 @@
     "translit": "(Iordanou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2446:  ",
-    "str2": "Of Hebrew origin; the Jordanes, a river of Palestine."
+    "str2": "Of Hebrew origin; the Jordanes, a river of Palestine.",
+    "num": 2446
   },
   {
     "word": "proclaiming",
@@ -61,7 +68,8 @@
     "translit": "(kēryssōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2784:  ",
-    "str2": "To proclaim, herald, preach. Of uncertain affinity; to herald, especially divine truth."
+    "str2": "To proclaim, herald, preach. Of uncertain affinity; to herald, especially divine truth.",
+    "num": 2784
   },
   {
     "word": "a baptism",
@@ -69,7 +77,8 @@
     "translit": "(baptisma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 908:  ",
-    "str2": "The rite or ceremony of baptism. From baptizo; baptism."
+    "str2": "The rite or ceremony of baptism. From baptizo; baptism.",
+    "num": 908
   },
   {
     "word": "of repentance",
@@ -77,7 +86,8 @@
     "translit": "(metanoias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 3341:  ",
-    "str2": "From metanoeo; compunction; by implication, reversal (another's) decision)."
+    "str2": "From metanoeo; compunction; by implication, reversal (another's) decision).",
+    "num": 3341
   },
   {
     "word": "for",
@@ -85,7 +95,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "[the] forgiveness",
@@ -93,7 +104,8 @@
     "translit": "(aphesin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 859:  ",
-    "str2": "A sending away, a letting go, a release, pardon, complete forgiveness. From aphiemi; freedom; pardon."
+    "str2": "A sending away, a letting go, a release, pardon, complete forgiveness. From aphiemi; freedom; pardon.",
+    "num": 859
   },
   {
     "word": "of sins,",
@@ -101,6 +113,7 @@
     "translit": "(hamartiōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 266:  ",
-    "str2": "From hamartano; a sin."
+    "str2": "From hamartano; a sin.",
+    "num": 266
   }
 ]

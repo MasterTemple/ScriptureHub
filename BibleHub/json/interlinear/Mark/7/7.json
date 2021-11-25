@@ -5,7 +5,8 @@
     "translit": "(sebontai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 4576:  ",
-    "str2": "To reverence, worship, adore. Middle voice of an apparently primary verb; to revere, i.e. Adore."
+    "str2": "To reverence, worship, adore. Middle voice of an apparently primary verb; to revere, i.e. Adore.",
+    "num": 4576
   },
   {
     "word": "Me",
@@ -13,7 +14,8 @@
     "translit": "(me)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "in vain;",
@@ -21,7 +23,8 @@
     "translit": "(Matēn)",
     "parse": "Adverb",
     "str": "Strong's 3155:  ",
-    "str2": "Accusative case of a derivative of the base of massaomai; folly, i.e. to no purpose."
+    "str2": "Accusative case of a derivative of the base of massaomai; folly, i.e. to no purpose.",
+    "num": 3155
   },
   {
     "word": "they teach",
@@ -29,7 +32,8 @@
     "translit": "(Didaskontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 1321:  ",
-    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach."
+    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach.",
+    "num": 1321
   },
   {
     "word": "[as] doctrine",
@@ -37,7 +41,8 @@
     "translit": "(didaskalias)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 1319:  ",
-    "str2": "Instruction, teaching. From didaskalos; instruction."
+    "str2": "Instruction, teaching. From didaskalos; instruction.",
+    "num": 1319
   },
   {
     "word": "[the] precepts",
@@ -45,7 +50,8 @@
     "translit": "(entalmata)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 1778:  ",
-    "str2": "An injunction, ordinance, precept. From entellomai; an injunction, i.e. Religious precept."
+    "str2": "An injunction, ordinance, precept. From entellomai; an injunction, i.e. Religious precept.",
+    "num": 1778
   },
   {
     "word": "of men.’",
@@ -53,6 +59,7 @@
     "translit": "(anthrōpōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   }
 ]

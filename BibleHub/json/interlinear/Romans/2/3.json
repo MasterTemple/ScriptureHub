@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[you],",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Vocative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "O",
@@ -21,7 +23,8 @@
     "translit": "(ō)",
     "parse": "Interjection",
     "str": "Strong's 5599:  ",
-    "str2": "A primary interjection; as a sign of the vocative case, O; as a note of exclamation, oh."
+    "str2": "A primary interjection; as a sign of the vocative case, O; as a note of exclamation, oh.",
+    "num": 5599
   },
   {
     "word": "man,",
@@ -29,7 +32,8 @@
     "translit": "(anthrōpe)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "pass judgment on",
@@ -37,7 +41,8 @@
     "translit": "(krinōn)",
     "parse": "Verb - Present Participle Active - Vocative Masculine Singular",
     "str": "Strong's 2919:  ",
-    "str2": "Properly, to distinguish, i.e. Decide; by implication, to try, condemn, punish."
+    "str2": "Properly, to distinguish, i.e. Decide; by implication, to try, condemn, punish.",
+    "num": 2919
   },
   {
     "word": "[others],",
@@ -45,7 +50,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "yet",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "do",
@@ -61,7 +68,8 @@
     "translit": "(poiōn)",
     "parse": "Verb - Present Participle Active - Vocative Masculine Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "the same things,",
@@ -69,7 +77,8 @@
     "translit": "(toiauta)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 5108:  ",
-    "str2": "(including the other inflections); from toi and houtos; truly this, i.e. Of this sort (to denote character or individuality)."
+    "str2": "(including the other inflections); from toi and houtos; truly this, i.e. Of this sort (to denote character or individuality).",
+    "num": 5108
   },
   {
     "word": "do you think",
@@ -77,7 +86,8 @@
     "translit": "(logizē)",
     "parse": "Verb - Present Indicative Middle or Passive - 2nd Person Singular",
     "str": "Strong's 3049:  ",
-    "str2": "To reckon, count, charge with; reason, decide, conclude; think, suppose. "
+    "str2": "To reckon, count, charge with; reason, decide, conclude; think, suppose. ",
+    "num": 3049
   },
   {
     "word": "you",
@@ -85,7 +95,8 @@
     "translit": "(sy)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "will escape",
@@ -93,7 +104,8 @@
     "translit": "(ekpheuxē)",
     "parse": "Verb - Future Indicative Middle - 2nd Person Singular",
     "str": "Strong's 1628:  ",
-    "str2": "To flee out, away, escape; with an acc: I escape something. From ek and pheugo; to flee out."
+    "str2": "To flee out, away, escape; with an acc: I escape something. From ek and pheugo; to flee out.",
+    "num": 1628
   },
   {
     "word": "God’s",
@@ -101,7 +113,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "judgment?",
@@ -109,6 +122,7 @@
     "translit": "(krima)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 2917:  ",
-    "str2": "From krino; a decision ('crime')."
+    "str2": "From krino; a decision ('crime').",
+    "num": 2917
   }
 ]

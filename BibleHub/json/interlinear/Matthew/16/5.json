@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they crossed",
@@ -13,7 +14,8 @@
     "translit": "(elthontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "other side,",
@@ -37,7 +41,8 @@
     "translit": "(peran)",
     "parse": "Adverb",
     "str": "Strong's 4008:  ",
-    "str2": "Over, on the other side, beyond. Apparently accusative case of an obsolete derivative of peiro; through, i.e. Across."
+    "str2": "Over, on the other side, beyond. Apparently accusative case of an obsolete derivative of peiro; through, i.e. Across.",
+    "num": 4008
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "disciples",
@@ -53,7 +59,8 @@
     "translit": "(mathētai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   },
   {
     "word": "forgot",
@@ -61,7 +68,8 @@
     "translit": "(epelathonto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Plural",
     "str": "Strong's 1950:  ",
-    "str2": "To forget, neglect. Middle voice from epi and lanthano; to lose out of mind; by implication, to neglect."
+    "str2": "To forget, neglect. Middle voice from epi and lanthano; to lose out of mind; by implication, to neglect.",
+    "num": 1950
   },
   {
     "word": "to take",
@@ -69,7 +77,8 @@
     "translit": "(labein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "bread.",
@@ -77,6 +86,7 @@
     "translit": "(artous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 740:  ",
-    "str2": "Bread, a loaf, food. From airo; bread or a loaf."
+    "str2": "Bread, a loaf, food. From airo; bread or a loaf.",
+    "num": 740
   }
 ]

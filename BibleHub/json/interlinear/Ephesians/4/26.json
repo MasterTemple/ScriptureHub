@@ -5,7 +5,8 @@
     "translit": "(Orgizesthe)",
     "parse": "Verb - Present Imperative Middle or Passive - 2nd Person Plural",
     "str": "Strong's 3710:  ",
-    "str2": "To irritate, provoke, be angry. From orge; to provoke or enrage, i.e. become exasperated."
+    "str2": "To irritate, provoke, be angry. From orge; to provoke or enrage, i.e. become exasperated.",
+    "num": 3710
   },
   {
     "word": "yet",
@@ -13,7 +14,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "{do} not",
@@ -21,7 +23,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "sin.”",
@@ -29,7 +32,8 @@
     "translit": "(hamartanete)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 264:  ",
-    "str2": "Perhaps from a and the base of meros; properly, to miss the mark, i.e. to err, especially to sin."
+    "str2": "Perhaps from a and the base of meros; properly, to miss the mark, i.e. to err, especially to sin.",
+    "num": 264
   },
   {
     "word": "{Do} not {let}",
@@ -37,7 +41,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "sun",
@@ -53,7 +59,8 @@
     "translit": "(hēlios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2246:  ",
-    "str2": "The sun, sunlight. From hele; the sun; by implication, light."
+    "str2": "The sun, sunlight. From hele; the sun; by implication, light.",
+    "num": 2246
   },
   {
     "word": "set",
@@ -61,7 +68,8 @@
     "translit": "(epidyetō)",
     "parse": "Verb - Present Imperative Active - 3rd Person Singular",
     "str": "Strong's 1931:  ",
-    "str2": "To sink, set, set during, go down. From epi and duno; to set fully."
+    "str2": "To sink, set, set during, go down. From epi and duno; to set fully.",
+    "num": 1931
   },
   {
     "word": "upon",
@@ -69,7 +77,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "your",
@@ -77,7 +86,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "anger,",
@@ -85,6 +95,7 @@
     "translit": "(parorgismō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 3950:  ",
-    "str2": "Exasperation, wrath, irritation, indignation. From parorgizo; rage."
+    "str2": "Exasperation, wrath, irritation, indignation. From parorgizo; rage.",
+    "num": 3950
   }
 ]

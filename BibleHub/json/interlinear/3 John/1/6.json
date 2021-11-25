@@ -5,7 +5,8 @@
     "translit": "(hoi)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "have testified",
@@ -13,7 +14,8 @@
     "translit": "(emartyrēsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 3140:  ",
-    "str2": "To witness, bear witness, give evidence, testify, give a good report. From martus; to be a witness, i.e. Testify."
+    "str2": "To witness, bear witness, give evidence, testify, give a good report. From martus; to be a witness, i.e. Testify.",
+    "num": 3140
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(enōpion)",
     "parse": "Preposition",
     "str": "Strong's 1799:  ",
-    "str2": "Neuter of a compound of en and a derivative of optanomai; in the face of."
+    "str2": "Neuter of a compound of en and a derivative of optanomai; in the face of.",
+    "num": 1799
   },
   {
     "word": "[the] church",
@@ -29,7 +32,8 @@
     "translit": "(ekklēsias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1577:  ",
-    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation."
+    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation.",
+    "num": 1577
   },
   {
     "word": "about your",
@@ -37,7 +41,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "love.",
@@ -45,7 +50,8 @@
     "translit": "(agapē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 26:  ",
-    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast."
+    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast.",
+    "num": 26
   },
   {
     "word": "You will do",
@@ -53,7 +59,8 @@
     "translit": "(poiēseis)",
     "parse": "Verb - Future Indicative Active - 2nd Person Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "well",
@@ -61,7 +68,8 @@
     "translit": "(kalōs)",
     "parse": "Adverb",
     "str": "Strong's 2573:  ",
-    "str2": "Well, nobly, honorably, rightly. Adverb from kalos; well."
+    "str2": "Well, nobly, honorably, rightly. Adverb from kalos; well.",
+    "num": 2573
   },
   {
     "word": "to send them on their way",
@@ -69,7 +77,8 @@
     "translit": "(propempsas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4311:  ",
-    "str2": "To send forward, accompany, equip for a journey. From pro and pempo; to send forward, i.e. Escort or aid in travel."
+    "str2": "To send forward, accompany, equip for a journey. From pro and pempo; to send forward, i.e. Escort or aid in travel.",
+    "num": 4311
   },
   {
     "word": "in a manner worthy",
@@ -77,7 +86,8 @@
     "translit": "(axiōs)",
     "parse": "Adverb",
     "str": "Strong's 516:  ",
-    "str2": "Worthily, in a manner worthy of. Adverb from axios; appropriately."
+    "str2": "Worthily, in a manner worthy of. Adverb from axios; appropriately.",
+    "num": 516
   },
   {
     "word": "of God.",
@@ -85,6 +95,7 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

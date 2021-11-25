@@ -5,7 +5,8 @@
     "translit": "(le·’ĕ·ḥōz)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 270:  ",
-    "str2": "To grasp, take hold, take possession"
+    "str2": "To grasp, take hold, take possession",
+    "num": 270
   },
   {
     "word": "to the ends",
@@ -13,7 +14,8 @@
     "translit": "(bə·ḵan·p̄ō·wṯ)",
     "parse": "Preposition-b | Noun - feminine plural construct",
     "str": "Strong's 3671:  ",
-    "str2": "An edge, extremity, a wing, a flap, a quarter, a pinnacle"
+    "str2": "An edge, extremity, a wing, a flap, a quarter, a pinnacle",
+    "num": 3671
   },
   {
     "word": "of the earth",
@@ -21,7 +23,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "and shake",
@@ -29,7 +32,8 @@
     "translit": "(wə·yin·nā·‘ă·rū)",
     "parse": "Conjunctive waw | Verb - Nifal - Conjunctive imperfect - third person masculine plural",
     "str": "Strong's 5287:  ",
-    "str2": "To shake, shake out or off"
+    "str2": "To shake, shake out or off",
+    "num": 5287
   },
   {
     "word": "the wicked",
@@ -37,7 +41,8 @@
     "translit": "(rə·šā·‘îm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 7563:  ",
-    "str2": "Wrong, an, bad person"
+    "str2": "Wrong, an, bad person",
+    "num": 7563
   },
   {
     "word": "out of it?",
@@ -45,6 +50,7 @@
     "translit": "(mim·men·nāh)",
     "parse": "Preposition | third person feminine singular",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   }
 ]

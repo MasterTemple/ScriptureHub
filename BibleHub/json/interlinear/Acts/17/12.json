@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "many",
@@ -13,7 +14,8 @@
     "translit": "(polloi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "of",
@@ -21,7 +23,8 @@
     "translit": "(ex)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "them",
@@ -29,7 +32,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "believed,",
@@ -37,7 +41,8 @@
     "translit": "(episteusan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 4100:  ",
-    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust."
+    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust.",
+    "num": 4100
   },
   {
     "word": "along with",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[quite]",
@@ -53,7 +59,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "a few",
@@ -61,7 +68,8 @@
     "translit": "(oligoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3641:  ",
-    "str2": "Puny; especially neuter somewhat."
+    "str2": "Puny; especially neuter somewhat.",
+    "num": 3641
   },
   {
     "word": "prominent",
@@ -69,7 +77,8 @@
     "translit": "(euschēmonōn)",
     "parse": "Adjective - Genitive Feminine Plural",
     "str": "Strong's 2158:  ",
-    "str2": "From eu and schema; well-formed, i.e. decorous, noble."
+    "str2": "From eu and schema; well-formed, i.e. decorous, noble.",
+    "num": 2158
   },
   {
     "word": "Greek",
@@ -77,7 +86,8 @@
     "translit": "(Hellēnidōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 1674:  ",
-    "str2": "A female Greek. Feminine of Hellen; a Grecian woman."
+    "str2": "A female Greek. Feminine of Hellen; a Grecian woman.",
+    "num": 1674
   },
   {
     "word": "women",
@@ -85,7 +95,8 @@
     "translit": "(gynaikōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 1135:  ",
-    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife."
+    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife.",
+    "num": 1135
   },
   {
     "word": "and",
@@ -93,7 +104,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "men.",
@@ -101,6 +113,7 @@
     "translit": "(andrōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   }
 ]

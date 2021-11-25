@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "when he saw",
@@ -13,7 +14,8 @@
     "translit": "(idōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "one [of them]",
@@ -21,7 +23,8 @@
     "translit": "(tina)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "being wronged,",
@@ -29,7 +32,8 @@
     "translit": "(adikoumenon)",
     "parse": "Verb - Present Participle Middle or Passive - Accusative Masculine Singular",
     "str": "Strong's 91:  ",
-    "str2": "To act unjustly towards, injure, harm. From adikos; to be unjust, i.e. do wrong."
+    "str2": "To act unjustly towards, injure, harm. From adikos; to be unjust, i.e. do wrong.",
+    "num": 91
   },
   {
     "word": "[Moses] went to his defense",
@@ -37,7 +41,8 @@
     "translit": "(ēmynato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 292:  ",
-    "str2": "To ward off, defend myself against, resist, defend, assist. Middle voice of a primary verb; to ward off, i.e. Protect."
+    "str2": "To ward off, defend myself against, resist, defend, assist. Middle voice of a primary verb; to ward off, i.e. Protect.",
+    "num": 292
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "avenged [him]",
@@ -53,7 +59,8 @@
     "translit": "(ekdikēsin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1557:  ",
-    "str2": "(a) a defense, avenging, vindication, vengeance, (b) full (complete) punishment. From ekdikeo; vindication, retribution."
+    "str2": "(a) a defense, avenging, vindication, vengeance, (b) full (complete) punishment. From ekdikeo; vindication, retribution.",
+    "num": 1557
   },
   {
     "word": "by striking down",
@@ -61,7 +68,8 @@
     "translit": "(pataxas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3960:  ",
-    "str2": "To smite, strike (as with a sword), smite to death, afflict. Probably prolongation from paio; to knock."
+    "str2": "To smite, strike (as with a sword), smite to death, afflict. Probably prolongation from paio; to knock.",
+    "num": 3960
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Egyptian",
@@ -77,7 +86,8 @@
     "translit": "(Aigyption)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 124:  ",
-    "str2": "Egyptian. From Aiguptos; an Eyyptian or inhabitant of Egyptus."
+    "str2": "Egyptian. From Aiguptos; an Eyyptian or inhabitant of Egyptus.",
+    "num": 124
   },
   {
     "word": "who was oppressing [him].",
@@ -85,6 +95,7 @@
     "translit": "(kataponoumenō)",
     "parse": "Verb - Present Participle Middle or Passive - Dative Masculine Singular",
     "str": "Strong's 2669:  ",
-    "str2": "From kata and a derivative of ponos; to labor down, i.e. Wear with toil."
+    "str2": "From kata and a derivative of ponos; to labor down, i.e. Wear with toil.",
+    "num": 2669
   }
 ]

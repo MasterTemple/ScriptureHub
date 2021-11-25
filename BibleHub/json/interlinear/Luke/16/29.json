@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Abraham",
@@ -13,7 +14,8 @@
     "translit": "(Abraam)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 11:  ",
-    "str2": "Abraham, progenitor of the Hebrew race. Of Hebrew origin; Abraham, the Hebrew patriarch."
+    "str2": "Abraham, progenitor of the Hebrew race. Of Hebrew origin; Abraham, the Hebrew patriarch.",
+    "num": 11
   },
   {
     "word": "replied,",
@@ -21,7 +23,8 @@
     "translit": "(Legei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "‘They have",
@@ -29,7 +32,8 @@
     "translit": "(Echousi)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "Moses",
@@ -37,7 +41,8 @@
     "translit": "(Mōusea)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3475:  ",
-    "str2": "Or Moses, or Mouses of Hebrew origin; Moseus, Moses, or Mouses, the Hebrew lawgiver."
+    "str2": "Or Moses, or Mouses of Hebrew origin; Moseus, Moses, or Mouses, the Hebrew lawgiver.",
+    "num": 3475
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "prophets;",
@@ -61,7 +68,8 @@
     "translit": "(prophētas)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 4396:  ",
-    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet."
+    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet.",
+    "num": 4396
   },
   {
     "word": "let [your brothers] listen to",
@@ -69,7 +77,8 @@
     "translit": "(akousatōsan)",
     "parse": "Verb - Aorist Imperative Active - 3rd Person Plural",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "them.’",
@@ -77,6 +86,7 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

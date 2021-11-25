@@ -5,7 +5,8 @@
     "translit": "(‘aḏ)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "the day",
@@ -13,7 +14,8 @@
     "translit": "(hay·yō·wm)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "breaks",
@@ -21,7 +23,8 @@
     "translit": "(še·yā·p̄ū·aḥ)",
     "parse": "Pronoun - relative | Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 6315:  ",
-    "str2": "To puff, blow with the breath, air, to fan, to utter, to kindle, to scoff"
+    "str2": "To puff, blow with the breath, air, to fan, to utter, to kindle, to scoff",
+    "num": 6315
   },
   {
     "word": "and shadows",
@@ -29,7 +32,8 @@
     "translit": "(haṣ·ṣə·lā·lîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 6752:  ",
-    "str2": "Shadow "
+    "str2": "Shadow ",
+    "num": 6752
   },
   {
     "word": "flee,",
@@ -37,7 +41,8 @@
     "translit": "(wə·nā·sū)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person common plural",
     "str": "Strong's 5127:  ",
-    "str2": "To flit, vanish away"
+    "str2": "To flit, vanish away",
+    "num": 5127
   },
   {
     "word": "I will make my way",
@@ -45,7 +50,8 @@
     "translit": "(’ê·leḵ)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "to",
@@ -53,7 +59,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the mountain",
@@ -61,7 +68,8 @@
     "translit": "(har)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 2022:  ",
-    "str2": "Mountain, hill, hill country"
+    "str2": "Mountain, hill, hill country",
+    "num": 2022
   },
   {
     "word": "of myrrh",
@@ -69,7 +77,8 @@
     "translit": "(ham·mō·wr)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4753:  ",
-    "str2": "Myrrh"
+    "str2": "Myrrh",
+    "num": 4753
   },
   {
     "word": "and to the hill",
@@ -77,7 +86,8 @@
     "translit": "(giḇ·‘aṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 1389:  ",
-    "str2": "A hillock"
+    "str2": "A hillock",
+    "num": 1389
   },
   {
     "word": "of frankincense.",
@@ -85,6 +95,7 @@
     "translit": "(hal·lə·ḇō·w·nāh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 3828:  ",
-    "str2": "Frankincense"
+    "str2": "Frankincense",
+    "num": 3828
   }
 ]

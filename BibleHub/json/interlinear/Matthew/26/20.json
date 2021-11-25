@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "evening",
@@ -13,7 +14,8 @@
     "translit": "(Opsias)",
     "parse": "Adjective - Genitive Feminine Singular",
     "str": "Strong's 3798:  ",
-    "str2": "Late, evening. From opse; late; feminine afternoon or nightfall."
+    "str2": "Late, evening. From opse; late; feminine afternoon or nightfall.",
+    "num": 3798
   },
   {
     "word": "came,",
@@ -21,7 +23,8 @@
     "translit": "(genomenēs)",
     "parse": "Verb - Aorist Participle Middle - Genitive Feminine Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "He was reclining",
@@ -29,7 +32,8 @@
     "translit": "(anekeito)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 345:  ",
-    "str2": "To recline, especially at a dinner-table. From ana and keimai; to recline."
+    "str2": "To recline, especially at a dinner-table. From ana and keimai; to recline.",
+    "num": 345
   },
   {
     "word": "with",
@@ -37,7 +41,8 @@
     "translit": "(meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "twelve",
@@ -53,7 +59,8 @@
     "translit": "(dōdeka)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 1427:  ",
-    "str2": "Twelve; the usual way in which the Twelve apostles of Jesus are referred to. From duo and deka; two and ten, i.e. A dozen."
+    "str2": "Twelve; the usual way in which the Twelve apostles of Jesus are referred to. From duo and deka; two and ten, i.e. A dozen.",
+    "num": 1427
   },
   {
     "word": "disciples.",
@@ -61,6 +68,7 @@
     "translit": "(mathētōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   }
 ]

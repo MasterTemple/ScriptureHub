@@ -5,7 +5,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "many",
@@ -13,7 +14,8 @@
     "translit": "(polloi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "among",
@@ -21,7 +23,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "you",
@@ -29,7 +32,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "[are] weak",
@@ -37,7 +41,8 @@
     "translit": "(astheneis)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 772:  ",
-    "str2": "(lit: not strong), (a) weak (physically, or morally), (b) infirm, sick. Strengthless."
+    "str2": "(lit: not strong), (a) weak (physically, or morally), (b) infirm, sick. Strengthless.",
+    "num": 772
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "sick,",
@@ -53,7 +59,8 @@
     "translit": "(arrōstoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 732:  ",
-    "str2": "Infirm, sick, ill, feeble, sickly. Infirm."
+    "str2": "Infirm, sick, ill, feeble, sickly. Infirm.",
+    "num": 732
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "a number [of you]",
@@ -69,7 +77,8 @@
     "translit": "(hikanoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 2425:  ",
-    "str2": "From hiko; competent, i.e. Ample or fit."
+    "str2": "From hiko; competent, i.e. Ample or fit.",
+    "num": 2425
   },
   {
     "word": "have fallen asleep.",
@@ -77,6 +86,7 @@
     "translit": "(koimōntai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 2837:  ",
-    "str2": "From keimai; to put to sleep, i.e. to slumber; figuratively, to decease."
+    "str2": "From keimai; to put to sleep, i.e. to slumber; figuratively, to decease.",
+    "num": 2837
   }
 ]

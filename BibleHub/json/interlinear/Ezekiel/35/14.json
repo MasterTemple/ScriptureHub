@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the Lord",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "says:",
@@ -29,7 +32,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘While the whole",
@@ -37,7 +41,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "earth",
@@ -45,7 +50,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "rejoices,",
@@ -53,7 +59,8 @@
     "translit": "(kiś·mō·aḥ)",
     "parse": "Preposition-k | Verb - Qal - Infinitive construct",
     "str": "Strong's 8055:  ",
-    "str2": "To brighten up, be, blithe, gleesome"
+    "str2": "To brighten up, be, blithe, gleesome",
+    "num": 8055
   },
   {
     "word": "I will make",
@@ -61,7 +68,8 @@
     "translit": "(’e·‘ĕ·śeh-)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "you",
@@ -69,7 +77,8 @@
     "translit": "(lāḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "desolate.",
@@ -77,6 +86,7 @@
     "translit": "(šə·mā·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 8077:  ",
-    "str2": "Devastation, astonishment"
+    "str2": "Devastation, astonishment",
+    "num": 8077
   }
 ]

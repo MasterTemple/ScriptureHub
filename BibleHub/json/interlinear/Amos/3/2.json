@@ -5,7 +5,8 @@
     "translit": "(’eṯ·ḵem)",
     "parse": "Direct object marker | second person masculine plural",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "only",
@@ -13,7 +14,8 @@
     "translit": "(raq)",
     "parse": "Adverb",
     "str": "Strong's 7535:  ",
-    "str2": "But, even, except, howbeit howsoever, at the least, nevertheless"
+    "str2": "But, even, except, howbeit howsoever, at the least, nevertheless",
+    "num": 7535
   },
   {
     "word": "have I known",
@@ -21,7 +23,8 @@
     "translit": "(yā·ḏa‘·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "from all",
@@ -29,7 +32,8 @@
     "translit": "(mik·kōl)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the clans",
@@ -37,7 +41,8 @@
     "translit": "(miš·pə·ḥō·wṯ)",
     "parse": "Noun - feminine plural construct",
     "str": "Strong's 4940:  ",
-    "str2": "A family, circle of relatives, a class, a species, sort, a tribe, people"
+    "str2": "A family, circle of relatives, a class, a species, sort, a tribe, people",
+    "num": 4940
   },
   {
     "word": "of the earth;",
@@ -45,7 +50,8 @@
     "translit": "(hā·’ă·ḏā·māh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 127:  ",
-    "str2": "Ground, land"
+    "str2": "Ground, land",
+    "num": 127
   },
   {
     "word": "therefore",
@@ -53,7 +59,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "I will punish",
@@ -61,7 +68,8 @@
     "translit": "(’ep̄·qōḏ)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 6485:  ",
-    "str2": "To visit, to oversee, muster, charge, care for, miss, deposit"
+    "str2": "To visit, to oversee, muster, charge, care for, miss, deposit",
+    "num": 6485
   },
   {
     "word": "you for all",
@@ -69,7 +77,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "your iniquities.",
@@ -77,6 +86,7 @@
     "translit": "(‘ă·wō·nō·ṯê·ḵem)",
     "parse": "Noun - common plural construct | second person masculine plural",
     "str": "Strong's 5771:  ",
-    "str2": "Iniquity, guilt, punishment for iniquity"
+    "str2": "Iniquity, guilt, punishment for iniquity",
+    "num": 5771
   }
 ]

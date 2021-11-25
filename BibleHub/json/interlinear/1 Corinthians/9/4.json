@@ -5,7 +5,8 @@
     "translit": "(echomen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "no",
@@ -13,7 +14,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "right",
@@ -21,7 +23,8 @@
     "translit": "(exousian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1849:  ",
-    "str2": "From exesti; privilege, i.e. force, capacity, competency, freedom, or mastery, delegated influence."
+    "str2": "From exesti; privilege, i.e. force, capacity, competency, freedom, or mastery, delegated influence.",
+    "num": 1849
   },
   {
     "word": "to food",
@@ -29,7 +32,8 @@
     "translit": "(phagein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 5315:  ",
-    "str2": "A primary verb; to eat."
+    "str2": "A primary verb; to eat.",
+    "num": 5315
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "to drink?",
@@ -45,6 +50,7 @@
     "translit": "(pein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 4095:  ",
-    "str2": "To drink, imbibe. A prolonged form of pio, which poo occurs only as an alternate in certain tenses; to imbibe."
+    "str2": "To drink, imbibe. A prolonged form of pio, which poo occurs only as an alternate in certain tenses; to imbibe.",
+    "num": 4095
   }
 ]

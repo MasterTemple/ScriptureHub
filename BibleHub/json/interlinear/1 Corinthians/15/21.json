@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "since",
@@ -13,7 +14,8 @@
     "translit": "(epeidē)",
     "parse": "Conjunction",
     "str": "Strong's 1894:  ",
-    "str2": "Of time: when, now, after that; of cause: seeing that, forasmuch as. From epei and de; since now, i.e. when, or whereas."
+    "str2": "Of time: when, now, after that; of cause: seeing that, forasmuch as. From epei and de; since now, i.e. when, or whereas.",
+    "num": 1894
   },
   {
     "word": "death",
@@ -21,7 +23,8 @@
     "translit": "(thanatos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2288:  ",
-    "str2": "Death, physical or spiritual. From thnesko; death."
+    "str2": "Death, physical or spiritual. From thnesko; death.",
+    "num": 2288
   },
   {
     "word": "[came] through",
@@ -29,7 +32,8 @@
     "translit": "(di’)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "a man,",
@@ -37,7 +41,8 @@
     "translit": "(anthrōpou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "[the] resurrection",
@@ -45,7 +50,8 @@
     "translit": "(anastasis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 386:  ",
-    "str2": "A rising again, resurrection. From anistemi; a standing up again, i.e. a resurrection from death (its author), or a recovery."
+    "str2": "A rising again, resurrection. From anistemi; a standing up again, i.e. a resurrection from death (its author), or a recovery.",
+    "num": 386
   },
   {
     "word": "of [the] dead",
@@ -53,7 +59,8 @@
     "translit": "(nekrōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 3498:  ",
-    "str2": "(a) adj: dead, lifeless, subject to death, mortal, (b) noun: a dead body, a corpse. From an apparently primary nekus; dead."
+    "str2": "(a) adj: dead, lifeless, subject to death, mortal, (b) noun: a dead body, a corpse. From an apparently primary nekus; dead.",
+    "num": 3498
   },
   {
     "word": "[comes] also",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "through",
@@ -69,7 +77,8 @@
     "translit": "(di’)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "a man.",
@@ -77,6 +86,7 @@
     "translit": "(anthrōpou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   }
 ]

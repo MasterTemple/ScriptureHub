@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "they were startled",
@@ -13,7 +14,8 @@
     "translit": "(ptoēthentes)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Plural",
     "str": "Strong's 4422:  ",
-    "str2": "To terrify, scare, strike with panic. Probably akin to the alternate of pipto or to petomai; to scare."
+    "str2": "To terrify, scare, strike with panic. Probably akin to the alternate of pipto or to petomai; to scare.",
+    "num": 4422
   },
   {
     "word": "and",
@@ -21,7 +23,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "frightened,",
@@ -29,7 +32,8 @@
     "translit": "(emphoboi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 1719:  ",
-    "str2": "Full of fear, terrified. From en and phobos; in fear, i.e. Alarmed."
+    "str2": "Full of fear, terrified. From en and phobos; in fear, i.e. Alarmed.",
+    "num": 1719
   },
   {
     "word": "thinking",
@@ -37,7 +41,8 @@
     "translit": "(edokoun)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 1380:  ",
-    "str2": "A prolonged form of a primary verb, doko dok'-o of the same meaning; to think; by implication, to seem."
+    "str2": "A prolonged form of a primary verb, doko dok'-o of the same meaning; to think; by implication, to seem.",
+    "num": 1380
   },
   {
     "word": "they had seen",
@@ -45,7 +50,8 @@
     "translit": "(theōrein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2334:  ",
-    "str2": "From a derivative of theaomai; to be a spectator of, i.e. Discern, (experience) or intensively (acknowledge)."
+    "str2": "From a derivative of theaomai; to be a spectator of, i.e. Discern, (experience) or intensively (acknowledge).",
+    "num": 2334
   },
   {
     "word": "a spirit.",
@@ -53,6 +59,7 @@
     "translit": "(pneuma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   }
 ]

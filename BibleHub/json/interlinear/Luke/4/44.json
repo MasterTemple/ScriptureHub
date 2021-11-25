@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "He continued",
@@ -13,7 +14,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "to preach",
@@ -21,7 +23,8 @@
     "translit": "(kēryssōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2784:  ",
-    "str2": "To proclaim, herald, preach. Of uncertain affinity; to herald, especially divine truth."
+    "str2": "To proclaim, herald, preach. Of uncertain affinity; to herald, especially divine truth.",
+    "num": 2784
   },
   {
     "word": "in",
@@ -29,7 +32,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(tas)",
     "parse": "Article - Accusative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "synagogues",
@@ -45,7 +50,8 @@
     "translit": "(synagōgas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 4864:  ",
-    "str2": "From sunago; an assemblage of persons; specially, a Jewish 'synagogue'; by analogy, a Christian church."
+    "str2": "From sunago; an assemblage of persons; specially, a Jewish 'synagogue'; by analogy, a Christian church.",
+    "num": 4864
   },
   {
     "word": "of Judea.",
@@ -53,6 +59,7 @@
     "translit": "(Ioudaias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2449:  ",
-    "str2": "Judea, a Roman province, capital Jerusalem. Feminine of Ioudaios; the Judaean land, a region of Palestine."
+    "str2": "Judea, a Roman province, capital Jerusalem. Feminine of Ioudaios; the Judaean land, a region of Palestine.",
+    "num": 2449
   }
 ]

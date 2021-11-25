@@ -5,7 +5,8 @@
     "translit": "(haš·šā·ma·yim)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 8064:  ",
-    "str2": "Heaven, sky"
+    "str2": "Heaven, sky",
+    "num": 8064
   },
   {
     "word": "and earth",
@@ -13,7 +14,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "as witnesses",
@@ -21,7 +23,8 @@
     "translit": "(ha·‘î·ḏō·ṯî)",
     "parse": "Verb - Hifil - Perfect - first person common singular",
     "str": "Strong's 5749:  ",
-    "str2": "To duplicate, repeat, to protest, testify, to encompass, restore"
+    "str2": "To duplicate, repeat, to protest, testify, to encompass, restore",
+    "num": 5749
   },
   {
     "word": "against you this day",
@@ -29,7 +32,8 @@
     "translit": "(hay·yō·wm)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "that",
@@ -37,7 +41,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you will quickly",
@@ -45,7 +50,8 @@
     "translit": "(ma·hêr)",
     "parse": "Adverb",
     "str": "Strong's 4118:  ",
-    "str2": "Hastening, speedy, swift"
+    "str2": "Hastening, speedy, swift",
+    "num": 4118
   },
   {
     "word": "perish",
@@ -53,7 +59,8 @@
     "translit": "(’ā·ḇōḏ)",
     "parse": "Verb - Qal - Infinitive absolute",
     "str": "Strong's 6:  ",
-    "str2": "To wander away, lose oneself, to perish"
+    "str2": "To wander away, lose oneself, to perish",
+    "num": 6
   },
   {
     "word": "from",
@@ -61,7 +68,8 @@
     "translit": "(mê·‘al)",
     "parse": "Preposition-m",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the land",
@@ -69,7 +77,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "you",
@@ -77,7 +86,8 @@
     "translit": "(’at·tem)",
     "parse": "Pronoun - second person masculine plural",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "are crossing",
@@ -85,7 +95,8 @@
     "translit": "(‘ō·ḇə·rîm)",
     "parse": "Verb - Qal - Participle - masculine plural",
     "str": "Strong's 5674:  ",
-    "str2": "To pass over, through, or by, pass on"
+    "str2": "To pass over, through, or by, pass on",
+    "num": 5674
   },
   {
     "word": "the Jordan",
@@ -93,7 +104,8 @@
     "translit": "(hay·yar·dên)",
     "parse": "Article | Noun - proper - feminine singular",
     "str": "Strong's 3383:  ",
-    "str2": "Jordan -- the principal river of Palestine"
+    "str2": "Jordan -- the principal river of Palestine",
+    "num": 3383
   },
   {
     "word": "to possess.",
@@ -101,7 +113,8 @@
     "translit": "(lə·riš·tāh)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct | third person feminine singular",
     "str": "Strong's 3423:  ",
-    "str2": "To occupy, to seize, to rob, to inherit, to expel, to impoverish, to ruin"
+    "str2": "To occupy, to seize, to rob, to inherit, to expel, to impoverish, to ruin",
+    "num": 3423
   },
   {
     "word": "You will not",
@@ -109,7 +122,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "live long",
@@ -117,7 +131,8 @@
     "translit": "(ṯa·’ă·rî·ḵun)",
     "parse": "Verb - Hifil - Imperfect - second person masculine plural | Paragogic nun",
     "str": "Strong's 748:  ",
-    "str2": "To be, long"
+    "str2": "To be, long",
+    "num": 748
   },
   {
     "word": "upon it,",
@@ -125,7 +140,8 @@
     "translit": "(‘ā·le·hā)",
     "parse": "Preposition | third person feminine singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "but",
@@ -133,7 +149,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "will be utterly destroyed.",
@@ -141,6 +158,7 @@
     "translit": "(hiš·šā·mêḏ)",
     "parse": "Verb - Nifal - Infinitive absolute",
     "str": "Strong's 8045:  ",
-    "str2": "To be exterminated or destroyed"
+    "str2": "To be exterminated or destroyed",
+    "num": 8045
   }
 ]

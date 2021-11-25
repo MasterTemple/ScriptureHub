@@ -5,7 +5,8 @@
     "translit": "(hymeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "are",
@@ -13,7 +14,8 @@
     "translit": "(este)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "witnesses",
@@ -21,7 +23,8 @@
     "translit": "(martyres)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3144:  ",
-    "str2": "A witness (judicially) or figuratively (genitive case); by analogy, a 'martyr'."
+    "str2": "A witness (judicially) or figuratively (genitive case); by analogy, a 'martyr'.",
+    "num": 3144
   },
   {
     "word": "of these things.",
@@ -29,6 +32,7 @@
     "translit": "(toutōn)",
     "parse": "Demonstrative Pronoun - Genitive Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(ha·hi·w)",
     "parse": "Article | Pronoun - third person feminine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "time",
@@ -13,7 +14,8 @@
     "translit": "(bā·‘êṯ)",
     "parse": "Preposition-b, Article | Noun - common singular",
     "str": "Strong's 6256:  ",
-    "str2": "Time, now, when"
+    "str2": "Time, now, when",
+    "num": 6256
   },
   {
     "word": "I commanded",
@@ -21,7 +23,8 @@
     "translit": "(wā·’ă·ṣaw·weh)",
     "parse": "Conjunctive waw | Verb - Piel - Consecutive imperfect - first person common singular",
     "str": "Strong's 6680:  ",
-    "str2": "To lay charge (upon), give charge (to), command, order"
+    "str2": "To lay charge (upon), give charge (to), command, order",
+    "num": 6680
   },
   {
     "word": "you",
@@ -29,7 +32,8 @@
     "translit": "(’eṯ·ḵem)",
     "parse": "Direct object marker | second person masculine plural",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "all",
@@ -37,7 +41,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the things",
@@ -45,7 +50,8 @@
     "translit": "(had·də·ḇā·rîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "you were to do.",
@@ -53,6 +59,7 @@
     "translit": "(ta·‘ă·śūn)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural | Paragogic nun",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   }
 ]

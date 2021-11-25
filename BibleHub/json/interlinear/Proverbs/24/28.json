@@ -5,7 +5,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "testify",
@@ -13,7 +14,8 @@
     "translit": "(tə·hî)",
     "parse": "Verb - Qal - Imperfect Jussive - second person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "against your neighbor",
@@ -21,7 +23,8 @@
     "translit": "(bə·rê·‘e·ḵā)",
     "parse": "Preposition-b | Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 7453:  ",
-    "str2": "Friend, companion, fellow"
+    "str2": "Friend, companion, fellow",
+    "num": 7453
   },
   {
     "word": "without cause,",
@@ -29,7 +32,8 @@
     "translit": "(ḥin·nām)",
     "parse": "Adverb",
     "str": "Strong's 2600:  ",
-    "str2": "Gratis, devoid of cost, reason, advantage"
+    "str2": "Gratis, devoid of cost, reason, advantage",
+    "num": 2600
   },
   {
     "word": "and do not deceive",
@@ -37,7 +41,8 @@
     "translit": "(wa·hă·p̄it·tî·ṯā)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive perfect - second person masculine singular",
     "str": "Strong's 6601:  ",
-    "str2": "To open, be, roomy, to be, simple, delude"
+    "str2": "To open, be, roomy, to be, simple, delude",
+    "num": 6601
   },
   {
     "word": "with your lips.",
@@ -45,6 +50,7 @@
     "translit": "(biś·p̄ā·ṯe·ḵā)",
     "parse": "Preposition-b | Noun - fdc | second person masculine singular",
     "str": "Strong's 8193:  ",
-    "str2": "The lip, language, a margin"
+    "str2": "The lip, language, a margin",
+    "num": 8193
   }
 ]

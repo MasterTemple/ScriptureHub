@@ -5,7 +5,8 @@
     "translit": "(wa·’ă·ḵal·tem)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - second person masculine plural",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "it in a holy",
@@ -13,7 +14,8 @@
     "translit": "(qā·ḏōš)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 6918:  ",
-    "str2": "Sacred, God, an angel, a saint, a sanctuary"
+    "str2": "Sacred, God, an angel, a saint, a sanctuary",
+    "num": 6918
   },
   {
     "word": "place,",
@@ -21,7 +23,8 @@
     "translit": "(bə·mā·qō·wm)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 4725:  ",
-    "str2": "A standing, a spot, a condition"
+    "str2": "A standing, a spot, a condition",
+    "num": 4725
   },
   {
     "word": "because",
@@ -29,7 +32,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "it",
@@ -37,7 +41,8 @@
     "translit": "(hî)",
     "parse": "Pronoun - third person feminine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "is your share",
@@ -45,7 +50,8 @@
     "translit": "(ḥā·qə·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 2706:  ",
-    "str2": "Something prescribed or owed, a statute"
+    "str2": "Something prescribed or owed, a statute",
+    "num": 2706
   },
   {
     "word": "and your sons’ share",
@@ -53,7 +59,8 @@
     "translit": "(bā·ne·ḵā)",
     "parse": "Noun - masculine plural construct | second person masculine singular",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of the offerings made by fire",
@@ -61,7 +68,8 @@
     "translit": "(mê·’iš·šê)",
     "parse": "Preposition-m | Noun - masculine plural construct",
     "str": "Strong's 801:  ",
-    "str2": "A burnt-offering, a sacrifice"
+    "str2": "A burnt-offering, a sacrifice",
+    "num": 801
   },
   {
     "word": "to the LORD;",
@@ -69,7 +77,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "for",
@@ -77,7 +86,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "this is what",
@@ -85,7 +95,8 @@
     "translit": "(ḵên)",
     "parse": "Adverb",
     "str": "Strong's 3651:  ",
-    "str2": "So -- thus"
+    "str2": "So -- thus",
+    "num": 3651
   },
   {
     "word": "I have been commanded.",
@@ -93,6 +104,7 @@
     "translit": "(ṣuw·wê·ṯî)",
     "parse": "Verb - Pual - Perfect - first person common singular",
     "str": "Strong's 6680:  ",
-    "str2": "To lay charge (upon), give charge (to), command, order"
+    "str2": "To lay charge (upon), give charge (to), command, order",
+    "num": 6680
   }
 ]

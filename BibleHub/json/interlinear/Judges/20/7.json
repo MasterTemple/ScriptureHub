@@ -5,7 +5,8 @@
     "translit": "(hin·nêh)",
     "parse": "Interjection",
     "str": "Strong's 2009:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2009
   },
   {
     "word": "all",
@@ -13,7 +14,8 @@
     "translit": "(ḵul·lə·ḵem)",
     "parse": "Noun - masculine singular construct | second person masculine plural",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "you Israelites,",
@@ -21,7 +23,8 @@
     "translit": "(bə·nê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "give",
@@ -29,7 +32,8 @@
     "translit": "(hā·ḇū)",
     "parse": "Verb - Qal - Imperative - masculine plural",
     "str": "Strong's 3051:  ",
-    "str2": "To give, to put, imperatively, come"
+    "str2": "To give, to put, imperatively, come",
+    "num": 3051
   },
   {
     "word": "your",
@@ -37,7 +41,8 @@
     "translit": "(lā·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "advice",
@@ -45,7 +50,8 @@
     "translit": "(dā·ḇār)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "and verdict",
@@ -53,7 +59,8 @@
     "translit": "(wə·‘ê·ṣāh)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 6098:  ",
-    "str2": "Advice, plan, prudence"
+    "str2": "Advice, plan, prudence",
+    "num": 6098
   },
   {
     "word": "here and now.”",
@@ -61,6 +68,7 @@
     "translit": "(hă·lōm)",
     "parse": "Adverb",
     "str": "Strong's 1988:  ",
-    "str2": "Hith-er"
+    "str2": "Hith-er",
+    "num": 1988
   }
 ]

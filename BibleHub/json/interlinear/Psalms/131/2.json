@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I have stilled",
@@ -13,7 +14,8 @@
     "translit": "(šiw·wî·ṯî)",
     "parse": "Verb - Piel - Perfect - first person common singular",
     "str": "Strong's 7737:  ",
-    "str2": "To level, equalize, to resemble, to adjust"
+    "str2": "To level, equalize, to resemble, to adjust",
+    "num": 7737
   },
   {
     "word": "and quieted",
@@ -21,7 +23,8 @@
     "translit": "(wə·ḏō·w·mam·tî)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive perfect - first person common singular",
     "str": "Strong's 1826:  ",
-    "str2": "To be dumb, to be astonished, to stop, to perish"
+    "str2": "To be dumb, to be astonished, to stop, to perish",
+    "num": 1826
   },
   {
     "word": "my soul;",
@@ -29,7 +32,8 @@
     "translit": "(nap̄·šî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   },
   {
     "word": "like a weaned child",
@@ -37,7 +41,8 @@
     "translit": "(kə·ḡā·mul)",
     "parse": "Preposition-k | Verb - Qal - QalPassParticiple - masculine singular",
     "str": "Strong's 1580:  ",
-    "str2": "To deal fully or adequately with, deal out to, wean, ripen"
+    "str2": "To deal fully or adequately with, deal out to, wean, ripen",
+    "num": 1580
   },
   {
     "word": "with his mother,",
@@ -45,7 +50,8 @@
     "translit": "(’im·mōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "like a weaned child",
@@ -53,7 +59,8 @@
     "translit": "(kag·gā·mul)",
     "parse": "Preposition-k, Article | Verb - Qal - QalPassParticiple - masculine singular",
     "str": "Strong's 1580:  ",
-    "str2": "To deal fully or adequately with, deal out to, wean, ripen"
+    "str2": "To deal fully or adequately with, deal out to, wean, ripen",
+    "num": 1580
   },
   {
     "word": "is my soul",
@@ -61,7 +68,8 @@
     "translit": "(nap̄·šî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   },
   {
     "word": "within me.",
@@ -69,6 +77,7 @@
     "translit": "(‘ā·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   }
 ]

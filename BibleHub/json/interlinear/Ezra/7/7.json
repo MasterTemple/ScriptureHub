@@ -5,7 +5,8 @@
     "translit": "(še·ḇa‘)",
     "parse": "Number - feminine singular",
     "str": "Strong's 7651:  ",
-    "str2": "Seven, seven times, a week, an indefinite number"
+    "str2": "Seven, seven times, a week, an indefinite number",
+    "num": 7651
   },
   {
     "word": "year",
@@ -13,7 +14,8 @@
     "translit": "(biš·naṯ-)",
     "parse": "Preposition-b | Noun - feminine singular construct",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "of King",
@@ -21,7 +23,8 @@
     "translit": "(ham·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "Artaxerxes,",
@@ -29,7 +32,8 @@
     "translit": "(lə·’ar·taḥ·šast)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 783:  ",
-    "str2": "Artaxerxes -- a son and successor of Xerxes, king of Persia"
+    "str2": "Artaxerxes -- a son and successor of Xerxes, king of Persia",
+    "num": 783
   },
   {
     "word": "he went up",
@@ -37,7 +41,8 @@
     "translit": "(way·ya·‘ă·lū)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
     "str": "Strong's 5927:  ",
-    "str2": "To ascend, in, actively"
+    "str2": "To ascend, in, actively",
+    "num": 5927
   },
   {
     "word": "to",
@@ -45,7 +50,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "Jerusalem",
@@ -53,7 +59,8 @@
     "translit": "(yə·rū·šā·lim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 3389:  ",
-    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel"
+    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel",
+    "num": 3389
   },
   {
     "word": "with some of",
@@ -61,7 +68,8 @@
     "translit": "(ū·min-)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "the Israelites,",
@@ -69,7 +77,8 @@
     "translit": "(mib·bə·nê-)",
     "parse": "Preposition-m | Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "including priests,",
@@ -77,7 +86,8 @@
     "translit": "(hak·kō·hă·nîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 3548:  ",
-    "str2": "Priest"
+    "str2": "Priest",
+    "num": 3548
   },
   {
     "word": "Levites,",
@@ -85,7 +95,8 @@
     "translit": "(wə·hal·wî·yim)",
     "parse": "Conjunctive waw, Article | Noun - proper - masculine plural",
     "str": "Strong's 3881:  ",
-    "str2": "Levites -- descendant of Levi"
+    "str2": "Levites -- descendant of Levi",
+    "num": 3881
   },
   {
     "word": "singers,",
@@ -93,7 +104,8 @@
     "translit": "(wə·ham·šō·rə·rîm)",
     "parse": "Conjunctive waw, Article | Verb - Piel - Participle - masculine plural",
     "str": "Strong's 7891:  ",
-    "str2": "To sing"
+    "str2": "To sing",
+    "num": 7891
   },
   {
     "word": "gatekeepers,",
@@ -101,7 +113,8 @@
     "translit": "(wə·haš·šō·‘ă·rîm)",
     "parse": "Conjunctive waw, Article | Noun - masculine plural",
     "str": "Strong's 7778:  ",
-    "str2": "A gatekeeper"
+    "str2": "A gatekeeper",
+    "num": 7778
   },
   {
     "word": "and temple servants.",
@@ -109,6 +122,7 @@
     "translit": "(wə·han·nə·ṯî·nîm)",
     "parse": "Conjunctive waw, Article | Noun - masculine plural",
     "str": "Strong's 5411:  ",
-    "str2": "The Nethinim, Temple-servants"
+    "str2": "The Nethinim, Temple-servants",
+    "num": 5411
   }
 ]

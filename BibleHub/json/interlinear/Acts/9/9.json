@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "three",
@@ -13,7 +14,8 @@
     "translit": "(treis)",
     "parse": "Adjective - Accusative Feminine Plural",
     "str": "Strong's 5140:  ",
-    "str2": "Three. Or neuter tria a primary number; 'three'."
+    "str2": "Three. Or neuter tria a primary number; 'three'.",
+    "num": 5140
   },
   {
     "word": "days",
@@ -21,7 +23,8 @@
     "translit": "(hēmeras)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "he was",
@@ -29,7 +32,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "without",
@@ -37,7 +41,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "sight,",
@@ -45,7 +50,8 @@
     "translit": "(blepōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 991:  ",
-    "str2": "(primarily physical), I look, see, perceive, discern. A primary verb; to look at."
+    "str2": "(primarily physical), I look, see, perceive, discern. A primary verb; to look at.",
+    "num": 991
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he did not eat",
@@ -61,7 +68,8 @@
     "translit": "(ephagen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 5315:  ",
-    "str2": "A primary verb; to eat."
+    "str2": "A primary verb; to eat.",
+    "num": 5315
   },
   {
     "word": "[or]",
@@ -69,7 +77,8 @@
     "translit": "(oude)",
     "parse": "Conjunction",
     "str": "Strong's 3761:  ",
-    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even."
+    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even.",
+    "num": 3761
   },
   {
     "word": "drink [anything].",
@@ -77,6 +86,7 @@
     "translit": "(epien)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 4095:  ",
-    "str2": "To drink, imbibe. A prolonged form of pio, which poo occurs only as an alternate in certain tenses; to imbibe."
+    "str2": "To drink, imbibe. A prolonged form of pio, which poo occurs only as an alternate in certain tenses; to imbibe.",
+    "num": 4095
   }
 ]

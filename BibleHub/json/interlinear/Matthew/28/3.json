@@ -5,7 +5,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "appearance",
@@ -13,7 +14,8 @@
     "translit": "(eidea)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2397:  ",
-    "str2": "Form, outward appearance. From eido; a sight, i.e. Aspect."
+    "str2": "Form, outward appearance. From eido; a sight, i.e. Aspect.",
+    "num": 2397
   },
   {
     "word": "was",
@@ -21,7 +23,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "like",
@@ -29,7 +32,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "lightning,",
@@ -37,7 +41,8 @@
     "translit": "(astrapē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 796:  ",
-    "str2": "A flash of lightning, brightness, luster. From astrapto; lightning; by analogy, glare."
+    "str2": "A flash of lightning, brightness, luster. From astrapto; lightning; by analogy, glare.",
+    "num": 796
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "his",
@@ -53,7 +59,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "clothing",
@@ -61,7 +68,8 @@
     "translit": "(endyma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 1742:  ",
-    "str2": "A garment, raiment, clothing. From enduo; apparel."
+    "str2": "A garment, raiment, clothing. From enduo; apparel.",
+    "num": 1742
   },
   {
     "word": "white",
@@ -69,7 +77,8 @@
     "translit": "(leukon)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 3022:  ",
-    "str2": "White, bright, brilliant. From luke; white."
+    "str2": "White, bright, brilliant. From luke; white.",
+    "num": 3022
   },
   {
     "word": "as",
@@ -77,7 +86,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "snow.",
@@ -85,6 +95,7 @@
     "translit": "(chiōn)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 5510:  ",
-    "str2": "Snow. Perhaps akin to the base of chasma or cheimon; snow."
+    "str2": "Snow. Perhaps akin to the base of chasma or cheimon; snow.",
+    "num": 5510
   }
 ]

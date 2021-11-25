@@ -5,7 +5,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "will see",
@@ -13,7 +14,8 @@
     "translit": "(’e·ḥĕ·zeh-)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 2372:  ",
-    "str2": "To gaze at, to perceive, contemplate, to have a, vision of"
+    "str2": "To gaze at, to perceive, contemplate, to have a, vision of",
+    "num": 2372
   },
   {
     "word": "Him",
@@ -21,7 +23,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "for myself;",
@@ -29,7 +32,8 @@
     "translit": "(lî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "my eyes",
@@ -37,7 +41,8 @@
     "translit": "(wə·‘ê·nay)",
     "parse": "Conjunctive waw | Noun - cdc | first person common singular",
     "str": "Strong's 5869:  ",
-    "str2": "An eye, a fountain"
+    "str2": "An eye, a fountain",
+    "num": 5869
   },
   {
     "word": "will behold Him,",
@@ -45,7 +50,8 @@
     "translit": "(rā·’ū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "and not",
@@ -53,7 +59,8 @@
     "translit": "(wə·lō-)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "as a stranger.",
@@ -61,7 +68,8 @@
     "translit": "(zār)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 2114:  ",
-    "str2": "To turn aside, to be a, foreigner, strange, profane, to commit adultery"
+    "str2": "To turn aside, to be a, foreigner, strange, profane, to commit adultery",
+    "num": 2114
   },
   {
     "word": "How my heart",
@@ -69,7 +77,8 @@
     "translit": "(ḵil·yō·ṯay)",
     "parse": "Noun - feminine plural construct | first person common singular",
     "str": "Strong's 3629:  ",
-    "str2": "A kidney, the mind"
+    "str2": "A kidney, the mind",
+    "num": 3629
   },
   {
     "word": "yearns",
@@ -77,7 +86,8 @@
     "translit": "(kā·lū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 3615:  ",
-    "str2": "To be complete, at an end, finished, accomplished, or spent"
+    "str2": "To be complete, at an end, finished, accomplished, or spent",
+    "num": 3615
   },
   {
     "word": "within me!",
@@ -85,6 +95,7 @@
     "translit": "(bə·ḥê·qî)",
     "parse": "Preposition-b | Noun - masculine singular construct | first person common singular",
     "str": "Strong's 2436:  ",
-    "str2": "The bosom"
+    "str2": "The bosom",
+    "num": 2436
   }
 ]

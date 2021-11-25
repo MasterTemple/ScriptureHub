@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "His family",
@@ -13,7 +14,8 @@
     "translit": "(par’)",
     "parse": "Preposition",
     "str": "Strong's 3844:  ",
-    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. "
+    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. ",
+    "num": 3844
   },
   {
     "word": "heard [about this],",
@@ -21,7 +23,8 @@
     "translit": "(akousantes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "they went out",
@@ -29,7 +32,8 @@
     "translit": "(exēlthon)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1831:  ",
-    "str2": "To go out, come out. From ek and erchomai; to issue."
+    "str2": "To go out, come out. From ek and erchomai; to issue.",
+    "num": 1831
   },
   {
     "word": "to take custody",
@@ -37,7 +41,8 @@
     "translit": "(kratēsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2902:  ",
-    "str2": "From kratos; to use strength, i.e. Seize or retain."
+    "str2": "From kratos; to use strength, i.e. Seize or retain.",
+    "num": 2902
   },
   {
     "word": "of Him,",
@@ -45,7 +50,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "saying,",
@@ -53,7 +59,8 @@
     "translit": "(elegon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“He is out of His mind.”",
@@ -61,6 +68,7 @@
     "translit": "(Exestē)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1839:  ",
-    "str2": "From ek and histemi; to put out of wits, i.e. Astound, or become astounded, insane."
+    "str2": "From ek and histemi; to put out of wits, i.e. Astound, or become astounded, insane.",
+    "num": 1839
   }
 ]

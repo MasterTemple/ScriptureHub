@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the thing",
@@ -13,7 +14,8 @@
     "translit": "(p̄a·ḥaḏ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6343:  ",
-    "str2": "A, alarm"
+    "str2": "A, alarm",
+    "num": 6343
   },
   {
     "word": "I feared",
@@ -21,7 +23,8 @@
     "translit": "(pā·ḥaḏ·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 6342:  ",
-    "str2": "To dread, be in dread or in awe"
+    "str2": "To dread, be in dread or in awe",
+    "num": 6342
   },
   {
     "word": "has overtaken me,",
@@ -29,7 +32,8 @@
     "translit": "(way·ye·’ĕ·ṯā·yê·nî)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular | first person common singular",
     "str": "Strong's 857:  ",
-    "str2": "To arrive"
+    "str2": "To arrive",
+    "num": 857
   },
   {
     "word": "and what",
@@ -37,7 +41,8 @@
     "translit": "(wa·’ă·šer)",
     "parse": "Conjunctive waw | Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "I dreaded",
@@ -45,7 +50,8 @@
     "translit": "(yā·ḡō·rə·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 3025:  ",
-    "str2": "To be afraid, fear"
+    "str2": "To be afraid, fear",
+    "num": 3025
   },
   {
     "word": "has befallen",
@@ -53,7 +59,8 @@
     "translit": "(yā·ḇō)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "me.",
@@ -61,6 +68,7 @@
     "translit": "(lî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(amēn)",
     "parse": "Hebrew Word ",
     "str": "Strong's 281:  ",
-    "str2": "Of Hebrew origin; properly, firm, i.e. trustworthy; adverbially, surely."
+    "str2": "Of Hebrew origin; properly, firm, i.e. trustworthy; adverbially, surely.",
+    "num": 281
   },
   {
     "word": "truly,",
@@ -13,7 +14,8 @@
     "translit": "(amēn)",
     "parse": "Hebrew Word ",
     "str": "Strong's 281:  ",
-    "str2": "Of Hebrew origin; properly, firm, i.e. trustworthy; adverbially, surely."
+    "str2": "Of Hebrew origin; properly, firm, i.e. trustworthy; adverbially, surely.",
+    "num": 281
   },
   {
     "word": "I tell",
@@ -21,7 +23,8 @@
     "translit": "(legō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "you,",
@@ -29,7 +32,8 @@
     "translit": "(soi)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "we speak",
@@ -37,7 +41,8 @@
     "translit": "(laloumen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "of what",
@@ -45,7 +50,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "we know,",
@@ -53,7 +59,8 @@
     "translit": "(oidamen)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Plural",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "we testify",
@@ -69,7 +77,8 @@
     "translit": "(martyroumen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 3140:  ",
-    "str2": "To witness, bear witness, give evidence, testify, give a good report. From martus; to be a witness, i.e. Testify."
+    "str2": "To witness, bear witness, give evidence, testify, give a good report. From martus; to be a witness, i.e. Testify.",
+    "num": 3140
   },
   {
     "word": "to what",
@@ -77,7 +86,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "we have seen,",
@@ -85,7 +95,8 @@
     "translit": "(heōrakamen)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Plural",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "and yet",
@@ -93,7 +104,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "you people do not accept",
@@ -101,7 +113,8 @@
     "translit": "(lambanete)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "our",
@@ -109,7 +122,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "testimony.",
@@ -117,6 +131,7 @@
     "translit": "(martyrian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3141:  ",
-    "str2": "Witness, evidence, testimony, reputation. From martus; evidence given."
+    "str2": "Witness, evidence, testimony, reputation. From martus; evidence given.",
+    "num": 3141
   }
 ]

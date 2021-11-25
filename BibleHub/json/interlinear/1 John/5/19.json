@@ -5,7 +5,8 @@
     "translit": "(oidamen)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Plural",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "that",
@@ -13,7 +14,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "we are",
@@ -21,7 +23,8 @@
     "translit": "(esmen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "of",
@@ -29,7 +32,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "God,",
@@ -37,7 +41,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "and [that]",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "whole",
@@ -61,7 +68,8 @@
     "translit": "(holos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3650:  ",
-    "str2": "All, the whole, entire, complete. A primary word; 'whole' or 'all', i.e. Complete, especially as noun or adverb."
+    "str2": "All, the whole, entire, complete. A primary word; 'whole' or 'all', i.e. Complete, especially as noun or adverb.",
+    "num": 3650
   },
   {
     "word": "world",
@@ -69,7 +77,8 @@
     "translit": "(kosmos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2889:  ",
-    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally)."
+    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally).",
+    "num": 2889
   },
   {
     "word": "is under the power",
@@ -77,7 +86,8 @@
     "translit": "(keitai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 2749:  ",
-    "str2": "To lie, recline, be placed, be laid, set, specially appointed, destined. Middle voice of a primary verb; to lie outstretched."
+    "str2": "To lie, recline, be placed, be laid, set, specially appointed, destined. Middle voice of a primary verb; to lie outstretched.",
+    "num": 2749
   },
   {
     "word": "of",
@@ -85,7 +95,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -93,7 +104,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "evil [one].",
@@ -101,6 +113,7 @@
     "translit": "(ponērō)",
     "parse": "Adjective - Dative Masculine Singular",
     "str": "Strong's 4190:  ",
-    "str2": "Evil, bad, wicked, malicious, slothful. "
+    "str2": "Evil, bad, wicked, malicious, slothful. ",
+    "num": 4190
   }
 ]

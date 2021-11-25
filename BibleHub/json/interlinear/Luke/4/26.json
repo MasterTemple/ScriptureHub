@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Elijah",
@@ -13,7 +14,8 @@
     "translit": "(Ēlias)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2243:  ",
-    "str2": "Elijah, the prophet. Of Hebrew origin; Helias, an Israelite."
+    "str2": "Elijah, the prophet. Of Hebrew origin; Helias, an Israelite.",
+    "num": 2243
   },
   {
     "word": "was [not] sent",
@@ -21,7 +23,8 @@
     "translit": "(epemphthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 3992:  ",
-    "str2": "To send, transmit, permit to go, put forth. "
+    "str2": "To send, transmit, permit to go, put forth. ",
+    "num": 3992
   },
   {
     "word": "to",
@@ -29,7 +32,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "[any]",
@@ -37,7 +41,8 @@
     "translit": "(oudemian)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 3762:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3762
   },
   {
     "word": "of them,",
@@ -45,7 +50,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Feminine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "but",
@@ -53,7 +59,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "to",
@@ -61,7 +68,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "[the] widow",
@@ -69,7 +77,8 @@
     "translit": "(chēran)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 5503:  ",
-    "str2": "Feminine of a presumed derivative apparently from the base of chasma through the idea of deficiency; a widow, literally or figuratively."
+    "str2": "Feminine of a presumed derivative apparently from the base of chasma through the idea of deficiency; a widow, literally or figuratively.",
+    "num": 5503
   },
   {
     "word": "of Zarephath",
@@ -77,7 +86,8 @@
     "translit": "(Sarepta)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 4558:  ",
-    "str2": "Zarephath, a town in the district of Sidon in Phoenicia. Of Hebrew origin; Sarepta, a place in Palestine."
+    "str2": "Zarephath, a town in the district of Sidon in Phoenicia. Of Hebrew origin; Sarepta, a place in Palestine.",
+    "num": 4558
   },
   {
     "word": "in Sidon.",
@@ -85,6 +95,7 @@
     "translit": "(Sidōnias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4606:  ",
-    "str2": "Sidonian, inhabitant of Sidon. From Sidon; a Sidonian, i.e. Inhabitant of Sidon."
+    "str2": "Sidonian, inhabitant of Sidon. From Sidon; a Sidonian, i.e. Inhabitant of Sidon.",
+    "num": 4606
   }
 ]

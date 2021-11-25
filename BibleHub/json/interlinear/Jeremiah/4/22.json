@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "My people",
@@ -13,7 +14,8 @@
     "translit": "(‘am·mî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "are fools;",
@@ -21,7 +23,8 @@
     "translit": "(’ĕ·wîl)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 191:  ",
-    "str2": "Foolish"
+    "str2": "Foolish",
+    "num": 191
   },
   {
     "word": "they have not",
@@ -29,7 +32,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "known Me.",
@@ -37,7 +41,8 @@
     "translit": "(yā·ḏā·‘ū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "They",
@@ -45,7 +50,8 @@
     "translit": "(hêm·māh)",
     "parse": "Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "are foolish",
@@ -53,7 +59,8 @@
     "translit": "(sə·ḵā·lîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 5530:  ",
-    "str2": "A fool"
+    "str2": "A fool",
+    "num": 5530
   },
   {
     "word": "children,",
@@ -61,7 +68,8 @@
     "translit": "(bā·nîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "without",
@@ -69,7 +77,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "understanding.",
@@ -77,7 +86,8 @@
     "translit": "(nə·ḇō·w·nîm)",
     "parse": "Verb - Nifal - Participle - masculine plural",
     "str": "Strong's 995:  ",
-    "str2": "To separate mentally, understand"
+    "str2": "To separate mentally, understand",
+    "num": 995
   },
   {
     "word": "They",
@@ -85,7 +95,8 @@
     "translit": "(hêm·māh)",
     "parse": "Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "are skilled",
@@ -93,7 +104,8 @@
     "translit": "(ḥă·ḵā·mîm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 2450:  ",
-    "str2": "Wise"
+    "str2": "Wise",
+    "num": 2450
   },
   {
     "word": "in doing evil,",
@@ -101,7 +113,8 @@
     "translit": "(lə·hā·ra‘)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct",
     "str": "Strong's 7489:  ",
-    "str2": "To spoil, to make, good for, nothing, bad"
+    "str2": "To spoil, to make, good for, nothing, bad",
+    "num": 7489
   },
   {
     "word": "but they do not",
@@ -109,7 +122,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "know",
@@ -117,7 +131,8 @@
     "translit": "(yā·ḏā·‘ū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "how to do good.”",
@@ -125,6 +140,7 @@
     "translit": "(ū·lə·hê·ṭîḇ)",
     "parse": "Conjunctive waw, Preposition-l | Verb - Hifil - Infinitive construct",
     "str": "Strong's 3190:  ",
-    "str2": "To be good, well, glad, or pleasing"
+    "str2": "To be good, well, glad, or pleasing",
+    "num": 3190
   }
 ]

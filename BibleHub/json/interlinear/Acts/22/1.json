@@ -5,7 +5,8 @@
     "translit": "(adelphoi)",
     "parse": "Noun - Vocative Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "and",
@@ -13,7 +14,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "fathers,",
@@ -21,7 +23,8 @@
     "translit": "(pateres)",
     "parse": "Noun - Vocative Masculine Plural",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "listen",
@@ -29,7 +32,8 @@
     "translit": "(akousate)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "now",
@@ -37,7 +41,8 @@
     "translit": "(nyni)",
     "parse": "Adverb",
     "str": "Strong's 3570:  ",
-    "str2": "A prolonged form of nun for emphasis; just now."
+    "str2": "A prolonged form of nun for emphasis; just now.",
+    "num": 3570
   },
   {
     "word": "to my",
@@ -45,7 +50,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "defense",
@@ -53,7 +59,8 @@
     "translit": "(apologias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 627:  ",
-    "str2": "A verbal defense (particularly in a law court). From the same as apologeomai; a plea."
+    "str2": "A verbal defense (particularly in a law court). From the same as apologeomai; a plea.",
+    "num": 627
   },
   {
     "word": "before",
@@ -61,7 +68,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "you.”",
@@ -69,6 +77,7 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

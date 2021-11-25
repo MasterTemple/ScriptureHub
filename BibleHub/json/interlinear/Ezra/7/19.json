@@ -5,7 +5,8 @@
     "translit": "(haš·lêm)",
     "parse": "Verb - Hifil - Imperative - masculine singular",
     "str": "Strong's 8000:  ",
-    "str2": "To complete, to restore"
+    "str2": "To complete, to restore",
+    "num": 8000
   },
   {
     "word": "to",
@@ -13,7 +14,8 @@
     "translit": "(qo·ḏām)",
     "parse": "Preposition",
     "str": "Strong's 6925:  ",
-    "str2": "Before"
+    "str2": "Before",
+    "num": 6925
   },
   {
     "word": "the God",
@@ -21,7 +23,8 @@
     "translit": "(’ĕ·lā·hāḵ)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 426:  ",
-    "str2": "God"
+    "str2": "God",
+    "num": 426
   },
   {
     "word": "of Jerusalem",
@@ -29,7 +32,8 @@
     "translit": "(yə·rū·šə·lem)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 3390:  ",
-    "str2": "Jerusalem -- the capital city of all Israel"
+    "str2": "Jerusalem -- the capital city of all Israel",
+    "num": 3390
   },
   {
     "word": "all the articles",
@@ -37,7 +41,8 @@
     "translit": "(ū·mā·nay·yā)",
     "parse": "Conjunctive waw | Noun - masculine plural determinate",
     "str": "Strong's 3984:  ",
-    "str2": "Vessel, utensil"
+    "str2": "Vessel, utensil",
+    "num": 3984
   },
   {
     "word": "given",
@@ -45,7 +50,8 @@
     "translit": "(miṯ·ya·hă·ḇîn)",
     "parse": "Verb - Hitpael - Participle - masculine plural",
     "str": "Strong's 3052:  ",
-    "str2": "To give, to put, imperatively, come"
+    "str2": "To give, to put, imperatively, come",
+    "num": 3052
   },
   {
     "word": "to you",
@@ -53,7 +59,8 @@
     "translit": "(lāḵ)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "for the service",
@@ -61,7 +68,8 @@
     "translit": "(lə·p̄ā·lə·ḥān)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 6402:  ",
-    "str2": "Service, worship"
+    "str2": "Service, worship",
+    "num": 6402
   },
   {
     "word": "of the house",
@@ -69,7 +77,8 @@
     "translit": "(bêṯ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1005:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1005
   },
   {
     "word": "of your God.",
@@ -77,6 +86,7 @@
     "translit": "(’ĕ·lāh)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 426:  ",
-    "str2": "God"
+    "str2": "God",
+    "num": 426
   }
 ]

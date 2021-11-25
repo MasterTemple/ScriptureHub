@@ -5,7 +5,8 @@
     "translit": "(bə·ḵāl)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "day",
@@ -13,7 +14,8 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "I will bless You,",
@@ -21,7 +23,8 @@
     "translit": "(’ă·ḇā·ră·ḵe·kā)",
     "parse": "Verb - Piel - Imperfect Cohortative if contextual - first person common singular | second person masculine singular",
     "str": "Strong's 1288:  ",
-    "str2": "To kneel, to bless God, man, to curse"
+    "str2": "To kneel, to bless God, man, to curse",
+    "num": 1288
   },
   {
     "word": "and I will praise",
@@ -29,7 +32,8 @@
     "translit": "(wa·’ă·hal·lāh)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive imperfect Cohortative - first person common singular",
     "str": "Strong's 1984:  ",
-    "str2": "To shine"
+    "str2": "To shine",
+    "num": 1984
   },
   {
     "word": "Your name",
@@ -37,7 +41,8 @@
     "translit": "(mə·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 8034:  ",
-    "str2": "A name"
+    "str2": "A name",
+    "num": 8034
   },
   {
     "word": "forever",
@@ -45,7 +50,8 @@
     "translit": "(lə·‘ō·w·lām)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 5769:  ",
-    "str2": "Concealed, eternity, frequentatively, always"
+    "str2": "Concealed, eternity, frequentatively, always",
+    "num": 5769
   },
   {
     "word": "and ever.",
@@ -53,6 +59,7 @@
     "translit": "(wā·‘eḏ)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 5703:  ",
-    "str2": "A, terminus, duration, advance, perpetuity"
+    "str2": "A, terminus, duration, advance, perpetuity",
+    "num": 5703
   }
 ]

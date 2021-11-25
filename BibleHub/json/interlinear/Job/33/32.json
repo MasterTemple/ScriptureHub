@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you have",
@@ -13,7 +14,8 @@
     "translit": "(yêš-)",
     "parse": "Adverb",
     "str": "Strong's 3426:  ",
-    "str2": "Being, substance, existence, is"
+    "str2": "Being, substance, existence, is",
+    "num": 3426
   },
   {
     "word": "something to say,",
@@ -21,7 +23,8 @@
     "translit": "(mil·lîn)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 4405:  ",
-    "str2": "A word, a discourse, a topic"
+    "str2": "A word, a discourse, a topic",
+    "num": 4405
   },
   {
     "word": "answer me;",
@@ -29,7 +32,8 @@
     "translit": "(hă·šî·ḇê·nî)",
     "parse": "Verb - Hifil - Imperative - masculine singular | first person common singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "speak up,",
@@ -37,7 +41,8 @@
     "translit": "(dab·bêr)",
     "parse": "Verb - Piel - Imperative - masculine singular",
     "str": "Strong's 1696:  ",
-    "str2": "To arrange, to speak, to subdue"
+    "str2": "To arrange, to speak, to subdue",
+    "num": 1696
   },
   {
     "word": "for",
@@ -45,7 +50,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I would like",
@@ -53,7 +59,8 @@
     "translit": "(ḥā·p̄aṣ·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 2654:  ",
-    "str2": "To incline to, to bend, to be pleased with, desire"
+    "str2": "To incline to, to bend, to be pleased with, desire",
+    "num": 2654
   },
   {
     "word": "to vindicate you.",
@@ -61,6 +68,7 @@
     "translit": "(ṣad·də·qe·kā)",
     "parse": "Verb - Piel - Infinitive construct | second person masculine singular",
     "str": "Strong's 6663:  ",
-    "str2": "To be just or righteous"
+    "str2": "To be just or righteous",
+    "num": 6663
   }
 ]

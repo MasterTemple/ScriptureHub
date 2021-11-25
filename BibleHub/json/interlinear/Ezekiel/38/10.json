@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the Lord",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "says:",
@@ -29,7 +32,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘On that",
@@ -37,7 +41,8 @@
     "translit": "(ha·hū)",
     "parse": "Article | Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "day,",
@@ -45,7 +50,8 @@
     "translit": "(bay·yō·wm)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "thoughts",
@@ -53,7 +59,8 @@
     "translit": "(ḏə·ḇā·rîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "will arise",
@@ -61,7 +68,8 @@
     "translit": "(ya·‘ă·lū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 5927:  ",
-    "str2": "To ascend, in, actively"
+    "str2": "To ascend, in, actively",
+    "num": 5927
   },
   {
     "word": "in",
@@ -69,7 +77,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "your mind,",
@@ -77,7 +86,8 @@
     "translit": "(lə·ḇā·ḇe·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 3824:  ",
-    "str2": "Inner man, mind, will, heart"
+    "str2": "Inner man, mind, will, heart",
+    "num": 3824
   },
   {
     "word": "and you will devise",
@@ -85,7 +95,8 @@
     "translit": "(wə·ḥā·šaḇ·tā)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - second person masculine singular",
     "str": "Strong's 2803:  ",
-    "str2": "To think, account"
+    "str2": "To think, account",
+    "num": 2803
   },
   {
     "word": "an evil",
@@ -93,7 +104,8 @@
     "translit": "(rā·‘āh)",
     "parse": "Adjective - feminine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "plan.",
@@ -101,6 +113,7 @@
     "translit": "(ma·ḥă·še·ḇeṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 4284:  ",
-    "str2": "A contrivance, a texture, machine, intention, plan"
+    "str2": "A contrivance, a texture, machine, intention, plan",
+    "num": 4284
   }
 ]

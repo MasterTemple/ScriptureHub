@@ -5,7 +5,8 @@
     "translit": "(ta)",
     "parse": "Article - Nominative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "weapons",
@@ -13,7 +14,8 @@
     "translit": "(hopla)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 3696:  ",
-    "str2": "An instrument; plur: arms, weapons. Probably from a primary hepo; an implement or utensil or tool."
+    "str2": "An instrument; plur: arms, weapons. Probably from a primary hepo; an implement or utensil or tool.",
+    "num": 3696
   },
   {
     "word": "of",
@@ -21,7 +23,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "our",
@@ -29,7 +32,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "warfare",
@@ -37,7 +41,8 @@
     "translit": "(strateias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4752:  ",
-    "str2": "Warfare, military service; of Christian warfare. From strateuomai; military service, i.e. the apostolic career."
+    "str2": "Warfare, military service; of Christian warfare. From strateuomai; military service, i.e. the apostolic career.",
+    "num": 4752
   },
   {
     "word": "[are] not",
@@ -45,7 +50,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "[ the weapons ] of the world.",
@@ -53,7 +59,8 @@
     "translit": "(sarkika)",
     "parse": "Adjective - Nominative Neuter Plural",
     "str": "Strong's 4559:  ",
-    "str2": "Fleshly, carnal, earthly. From sarx; pertaining to flesh, i.e. bodily, temporal, or animal, unregenerate."
+    "str2": "Fleshly, carnal, earthly. From sarx; pertaining to flesh, i.e. bodily, temporal, or animal, unregenerate.",
+    "num": 4559
   },
   {
     "word": "Instead,",
@@ -61,7 +68,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "[they have]",
@@ -69,7 +77,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "divine",
@@ -77,7 +86,8 @@
     "translit": "(Theō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "power",
@@ -85,7 +95,8 @@
     "translit": "(dynata)",
     "parse": "Adjective - Nominative Neuter Plural",
     "str": "Strong's 1415:  ",
-    "str2": "(a) of persons: powerful, able, (b) of things: possible. From dunamai; powerful or capable; neuter possible."
+    "str2": "(a) of persons: powerful, able, (b) of things: possible. From dunamai; powerful or capable; neuter possible.",
+    "num": 1415
   },
   {
     "word": "to",
@@ -93,7 +104,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "demolish",
@@ -101,7 +113,8 @@
     "translit": "(kathairesin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2506:  ",
-    "str2": "Taking down, razing, destroying. From kathaireo; demolition; figuratively, extinction."
+    "str2": "Taking down, razing, destroying. From kathaireo; demolition; figuratively, extinction.",
+    "num": 2506
   },
   {
     "word": "strongholds.",
@@ -109,6 +122,7 @@
     "translit": "(ochyrōmatōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 3794:  ",
-    "str2": "A fortress, strong defense, stronghold. From a remote derivative of echo; a castle."
+    "str2": "A fortress, strong defense, stronghold. From a remote derivative of echo; a castle.",
+    "num": 3794
   }
 ]

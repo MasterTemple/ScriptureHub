@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the king",
@@ -13,7 +14,8 @@
     "translit": "(ham·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "trusts",
@@ -21,7 +23,8 @@
     "translit": "(bō·ṭê·aḥ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 982:  ",
-    "str2": "To trust, be confident, sure"
+    "str2": "To trust, be confident, sure",
+    "num": 982
   },
   {
     "word": "in the LORD;",
@@ -29,7 +32,8 @@
     "translit": "(Yah·weh)",
     "parse": "Preposition-b | Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "through the loving devotion",
@@ -37,7 +41,8 @@
     "translit": "(ū·ḇə·ḥe·seḏ)",
     "parse": "Conjunctive waw, Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 2617:  ",
-    "str2": "Kindness, piety, reproof, beauty"
+    "str2": "Kindness, piety, reproof, beauty",
+    "num": 2617
   },
   {
     "word": "of the Most High,",
@@ -45,7 +50,8 @@
     "translit": "(‘el·yō·wn)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 5945:  ",
-    "str2": "An elevation, lofty, as title, the Supreme"
+    "str2": "An elevation, lofty, as title, the Supreme",
+    "num": 5945
   },
   {
     "word": "he will not",
@@ -53,7 +59,8 @@
     "translit": "(bal-)",
     "parse": "Adverb",
     "str": "Strong's 1077:  ",
-    "str2": "A failure, nothing, not at all, lest"
+    "str2": "A failure, nothing, not at all, lest",
+    "num": 1077
   },
   {
     "word": "be shaken.",
@@ -61,6 +68,7 @@
     "translit": "(yim·mō·wṭ)",
     "parse": "Verb - Nifal - Imperfect - third person masculine singular",
     "str": "Strong's 4131:  ",
-    "str2": "To waver, to slip, shake, fall"
+    "str2": "To waver, to slip, shake, fall",
+    "num": 4131
   }
 ]

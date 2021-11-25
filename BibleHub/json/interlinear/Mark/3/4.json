@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "He asked",
@@ -13,7 +14,8 @@
     "translit": "(legei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "them,",
@@ -21,7 +23,8 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“Which is lawful",
@@ -29,7 +32,8 @@
     "translit": "(Exestin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1832:  ",
-    "str2": "It is permitted, lawful, possible. "
+    "str2": "It is permitted, lawful, possible. ",
+    "num": 1832
   },
   {
     "word": "on the",
@@ -37,7 +41,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Sabbath:",
@@ -45,7 +50,8 @@
     "translit": "(sabbasin)",
     "parse": "Noun - Dative Neuter Plural",
     "str": "Strong's 4521:  ",
-    "str2": "The Sabbath, a week. "
+    "str2": "The Sabbath, a week. ",
+    "num": 4521
   },
   {
     "word": "to do good",
@@ -53,7 +59,8 @@
     "translit": "(agathon¦poiēsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 15:  ",
-    "str2": "To do that which is good. From agathopoios; to be a well-doer."
+    "str2": "To do that which is good. From agathopoios; to be a well-doer.",
+    "num": 15
   },
   {
     "word": "or",
@@ -61,7 +68,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "to do evil,",
@@ -69,7 +77,8 @@
     "translit": "(kakopoiēsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2554:  ",
-    "str2": "To do harm, do wrong, do evil, commit sin. From kakopoios; to be a bad-doer, i.e. to injure, or to sin."
+    "str2": "To do harm, do wrong, do evil, commit sin. From kakopoios; to be a bad-doer, i.e. to injure, or to sin.",
+    "num": 2554
   },
   {
     "word": "to save",
@@ -77,7 +86,8 @@
     "translit": "(sōsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 4982:  ",
-    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect."
+    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect.",
+    "num": 4982
   },
   {
     "word": "life",
@@ -85,7 +95,8 @@
     "translit": "(psychēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5590:  ",
-    "str2": "From psucho; breath, i.e. spirit, abstractly or concretely."
+    "str2": "From psucho; breath, i.e. spirit, abstractly or concretely.",
+    "num": 5590
   },
   {
     "word": "or",
@@ -93,7 +104,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "to destroy [it]?”",
@@ -101,7 +113,8 @@
     "translit": "(apokteinai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 615:  ",
-    "str2": "To put to death, kill; fig: I abolish. From apo and kteino; to kill outright; figuratively, to destroy."
+    "str2": "To put to death, kill; fig: I abolish. From apo and kteino; to kill outright; figuratively, to destroy.",
+    "num": 615
   },
   {
     "word": "But",
@@ -109,7 +122,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "they were silent.",
@@ -117,6 +131,7 @@
     "translit": "(esiōpōn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 4623:  ",
-    "str2": "To keep silence, be silent, either voluntarily or involuntarily. From siope; to be dumb; figuratively, to be calm."
+    "str2": "To keep silence, be silent, either voluntarily or involuntarily. From siope; to be dumb; figuratively, to be calm.",
+    "num": 4623
   }
 ]

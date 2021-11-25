@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "is actually found",
@@ -13,7 +14,8 @@
     "translit": "(him·mā·ṣê)",
     "parse": "Verb - Nifal - Infinitive absolute",
     "str": "Strong's 4672:  ",
-    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present"
+    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present",
+    "num": 4672
   },
   {
     "word": "alive",
@@ -21,7 +23,8 @@
     "translit": "(ḥay·yîm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 2416:  ",
-    "str2": "Alive, raw, fresh, strong, life"
+    "str2": "Alive, raw, fresh, strong, life",
+    "num": 2416
   },
   {
     "word": "in his possession—",
@@ -29,7 +32,8 @@
     "translit": "(ḇə·yā·ḏōw)",
     "parse": "Preposition-b | Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "whether ox",
@@ -37,7 +41,8 @@
     "translit": "(miš·šō·wr)",
     "parse": "Preposition-m | Noun - masculine singular",
     "str": "Strong's 7794:  ",
-    "str2": "A head of cattle (bullock, ox, etcetera)"
+    "str2": "A head of cattle (bullock, ox, etcetera)",
+    "num": 7794
   },
   {
     "word": "or",
@@ -45,7 +50,8 @@
     "translit": "(‘aḏ-)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "donkey",
@@ -53,7 +59,8 @@
     "translit": "(ḥă·mō·wr)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2543:  ",
-    "str2": "A male ass"
+    "str2": "A male ass",
+    "num": 2543
   },
   {
     "word": "or",
@@ -61,7 +68,8 @@
     "translit": "(‘aḏ-)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "sheep—",
@@ -69,7 +77,8 @@
     "translit": "(śeh)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7716:  ",
-    "str2": "A member of a, flock, a sheep, goat"
+    "str2": "A member of a, flock, a sheep, goat",
+    "num": 7716
   },
   {
     "word": "he must pay back",
@@ -77,7 +86,8 @@
     "translit": "(yə·šal·lêm)",
     "parse": "Verb - Piel - Imperfect - third person masculine singular",
     "str": "Strong's 7999:  ",
-    "str2": "To be safe, to be, completed, to be friendly, to reciprocate"
+    "str2": "To be safe, to be, completed, to be friendly, to reciprocate",
+    "num": 7999
   },
   {
     "word": "double.",
@@ -85,6 +95,7 @@
     "translit": "(šə·na·yim)",
     "parse": "Number - md",
     "str": "Strong's 8147:  ",
-    "str2": "Two (a cardinal number)"
+    "str2": "Two (a cardinal number)",
+    "num": 8147
   }
 ]

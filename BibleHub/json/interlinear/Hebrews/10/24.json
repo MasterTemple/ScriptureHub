@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "let us consider",
@@ -13,7 +14,8 @@
     "translit": "(katanoōmen)",
     "parse": "Verb - Present Subjunctive Active - 1st Person Plural",
     "str": "Strong's 2657:  ",
-    "str2": "To take note of, perceive, consider carefully, discern, detect, make account of. From kata and noieo; to observe fully."
+    "str2": "To take note of, perceive, consider carefully, discern, detect, make account of. From kata and noieo; to observe fully.",
+    "num": 2657
   },
   {
     "word": "how",
@@ -21,7 +23,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "to spur",
@@ -29,7 +32,8 @@
     "translit": "(paroxysmon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3948:  ",
-    "str2": "Stimulation, provocation, irritation, angry dispute. From paroxuno; incitement, or dispute."
+    "str2": "Stimulation, provocation, irritation, angry dispute. From paroxuno; incitement, or dispute.",
+    "num": 3948
   },
   {
     "word": "one another {on}",
@@ -37,7 +41,8 @@
     "translit": "(allēlous)",
     "parse": "Personal / Reciprocal Pronoun - Accusative Masculine Plural",
     "str": "Strong's 240:  ",
-    "str2": "One another, each other. Genitive plural from allos reduplicated; one another."
+    "str2": "One another, each other. Genitive plural from allos reduplicated; one another.",
+    "num": 240
   },
   {
     "word": "to love",
@@ -45,7 +50,8 @@
     "translit": "(agapēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 26:  ",
-    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast."
+    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast.",
+    "num": 26
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "good",
@@ -61,7 +68,8 @@
     "translit": "(kalōn)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 2570:  ",
-    "str2": "Properly, beautiful, but chiefly good, i.e. Valuable or virtuous."
+    "str2": "Properly, beautiful, but chiefly good, i.e. Valuable or virtuous.",
+    "num": 2570
   },
   {
     "word": "deeds.",
@@ -69,6 +77,7 @@
     "translit": "(ergōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 2041:  ",
-    "str2": "From a primary ergo; toil; by implication, an act."
+    "str2": "From a primary ergo; toil; by implication, an act.",
+    "num": 2041
   }
 ]

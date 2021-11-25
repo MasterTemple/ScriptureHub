@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "to offer",
@@ -13,7 +14,8 @@
     "translit": "(dounai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "[the] sacrifice",
@@ -21,7 +23,8 @@
     "translit": "(thysian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2378:  ",
-    "str2": "Abstr. and concr: sacrifice; a sacrifice, offering. From thuo; sacrifice."
+    "str2": "Abstr. and concr: sacrifice; a sacrifice, offering. From thuo; sacrifice.",
+    "num": 2378
   },
   {
     "word": "specified",
@@ -29,7 +32,8 @@
     "translit": "(eirēmenon)",
     "parse": "Verb - Perfect Participle Middle or Passive - Accusative Neuter Singular",
     "str": "Strong's 2046:  ",
-    "str2": "Probably a fuller form of rheo; an alternate for epo in certain tenses; to utter, i.e. Speak or say."
+    "str2": "Probably a fuller form of rheo; an alternate for epo in certain tenses; to utter, i.e. Speak or say.",
+    "num": 2046
   },
   {
     "word": "in",
@@ -37,7 +41,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Law",
@@ -53,7 +59,8 @@
     "translit": "(nomō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 3551:  ",
-    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively."
+    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively.",
+    "num": 3551
   },
   {
     "word": "of [the] Lord:",
@@ -61,7 +68,8 @@
     "translit": "(Kyriou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "“A pair",
@@ -69,7 +77,8 @@
     "translit": "(Zeugos)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 2201:  ",
-    "str2": "A yoke, team; hence: a pair. From the same as zugos; a couple, i.e. A team or brace."
+    "str2": "A yoke, team; hence: a pair. From the same as zugos; a couple, i.e. A team or brace.",
+    "num": 2201
   },
   {
     "word": "of turtledoves",
@@ -77,7 +86,8 @@
     "translit": "(trygonōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 5167:  ",
-    "str2": "A turtle-dove. From truzo; a turtle-dove."
+    "str2": "A turtle-dove. From truzo; a turtle-dove.",
+    "num": 5167
   },
   {
     "word": "or",
@@ -85,7 +95,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "two",
@@ -93,7 +104,8 @@
     "translit": "(dyo)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 1417:  ",
-    "str2": "Two. A primary numeral; 'two'."
+    "str2": "Two. A primary numeral; 'two'.",
+    "num": 1417
   },
   {
     "word": "young",
@@ -101,7 +113,8 @@
     "translit": "(nossous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 3502:  ",
-    "str2": "A young bird, nestling; a young one. From neos; a youngling."
+    "str2": "A young bird, nestling; a young one. From neos; a youngling.",
+    "num": 3502
   },
   {
     "word": "pigeons.”",
@@ -109,6 +122,7 @@
     "translit": "(peristerōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 4058:  ",
-    "str2": "A dove, pigeon. Of uncertain derivation; a pigeon."
+    "str2": "A dove, pigeon. Of uncertain derivation; a pigeon.",
+    "num": 4058
   }
 ]

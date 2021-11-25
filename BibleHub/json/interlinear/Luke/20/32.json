@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "last of all,",
@@ -13,7 +14,8 @@
     "translit": "(hysteron)",
     "parse": "Adverb",
     "str": "Strong's 5305:  ",
-    "str2": "Lastly, afterward, later. Neuter of husteros as adverb; more lately, i.e. Eventually."
+    "str2": "Lastly, afterward, later. Neuter of husteros as adverb; more lately, i.e. Eventually.",
+    "num": 5305
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "woman",
@@ -29,7 +32,8 @@
     "translit": "(gynē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1135:  ",
-    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife."
+    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife.",
+    "num": 1135
   },
   {
     "word": "died.",
@@ -37,6 +41,7 @@
     "translit": "(apethanen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 599:  ",
-    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off."
+    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off.",
+    "num": 599
   }
 ]

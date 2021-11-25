@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "his heart",
@@ -13,7 +14,8 @@
     "translit": "(ḥă·lā·ṣāw)",
     "parse": "Noun - mdc | third person masculine singular",
     "str": "Strong's 2504:  ",
-    "str2": "The loins"
+    "str2": "The loins",
+    "num": 2504
   },
   {
     "word": "has not",
@@ -21,7 +23,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "blessed me",
@@ -29,7 +32,8 @@
     "translit": "(ḇê·ră·ḵū·nî)",
     "parse": "Verb - Piel - Perfect - third person common plural | first person common singular",
     "str": "Strong's 1288:  ",
-    "str2": "To kneel, to bless God, man, to curse"
+    "str2": "To kneel, to bless God, man, to curse",
+    "num": 1288
   },
   {
     "word": "for warming him",
@@ -37,7 +41,8 @@
     "translit": "(yiṯ·ḥam·mām)",
     "parse": "Verb - Hitpael - Imperfect - third person masculine singular",
     "str": "Strong's 2552:  ",
-    "str2": "To be or become warm"
+    "str2": "To be or become warm",
+    "num": 2552
   },
   {
     "word": "with the fleece",
@@ -45,7 +50,8 @@
     "translit": "(ū·mig·gêz)",
     "parse": "Conjunctive waw, Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 1488:  ",
-    "str2": "A fleece, mown grass"
+    "str2": "A fleece, mown grass",
+    "num": 1488
   },
   {
     "word": "of my sheep,",
@@ -53,6 +59,7 @@
     "translit": "(kə·ḇā·śay)",
     "parse": "Noun - masculine plural construct | first person common singular",
     "str": "Strong's 3532:  ",
-    "str2": "A lamb"
+    "str2": "A lamb",
+    "num": 3532
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "a man’s",
@@ -13,7 +14,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "ways",
@@ -21,7 +23,8 @@
     "translit": "(dar·ḵê-)",
     "parse": "Noun - common plural construct",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   },
   {
     "word": "are before",
@@ -29,7 +32,8 @@
     "translit": "(nō·ḵaḥ)",
     "parse": "Preposition",
     "str": "Strong's 5227:  ",
-    "str2": "The front part, opposite, in front of, forward, in behalf of"
+    "str2": "The front part, opposite, in front of, forward, in behalf of",
+    "num": 5227
   },
   {
     "word": "the eyes",
@@ -37,7 +41,8 @@
     "translit": "(‘ê·nê)",
     "parse": "Noun - cdc",
     "str": "Strong's 5869:  ",
-    "str2": "An eye, a fountain"
+    "str2": "An eye, a fountain",
+    "num": 5869
   },
   {
     "word": "of the LORD,",
@@ -45,7 +50,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "and [the Lord] watches",
@@ -53,7 +59,8 @@
     "translit": "(mə·p̄al·lês)",
     "parse": "Verb - Piel - Participle - masculine singular",
     "str": "Strong's 6424:  ",
-    "str2": "To roll flat, prepare, to revolve, weigh"
+    "str2": "To roll flat, prepare, to revolve, weigh",
+    "num": 6424
   },
   {
     "word": "all",
@@ -61,7 +68,8 @@
     "translit": "(wə·ḵāl)",
     "parse": "Conjunctive waw | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "his paths.",
@@ -69,6 +77,7 @@
     "translit": "(ma‘·gə·lō·ṯāw)",
     "parse": "Noun - feminine plural construct | third person masculine singular",
     "str": "Strong's 4570:  ",
-    "str2": "An entrenchment, track"
+    "str2": "An entrenchment, track",
+    "num": 4570
   }
 ]

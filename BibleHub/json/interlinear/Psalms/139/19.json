@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "God,",
@@ -13,7 +14,8 @@
     "translit": "(’ĕ·lō·w·ah)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 433:  ",
-    "str2": "God -- a deity, the Deity"
+    "str2": "God -- a deity, the Deity",
+    "num": 433
   },
   {
     "word": "that You would slay",
@@ -21,7 +23,8 @@
     "translit": "(tiq·ṭōl)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 6991:  ",
-    "str2": "To cut off, put to death"
+    "str2": "To cut off, put to death",
+    "num": 6991
   },
   {
     "word": "the wicked—",
@@ -29,7 +32,8 @@
     "translit": "(rā·šā‘)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 7563:  ",
-    "str2": "Wrong, an, bad person"
+    "str2": "Wrong, an, bad person",
+    "num": 7563
   },
   {
     "word": "away",
@@ -37,7 +41,8 @@
     "translit": "(sū·rū)",
     "parse": "Verb - Qal - Imperative - masculine plural",
     "str": "Strong's 5493:  ",
-    "str2": "To turn aside"
+    "str2": "To turn aside",
+    "num": 5493
   },
   {
     "word": "from me,",
@@ -45,7 +50,8 @@
     "translit": "(men·nî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "you bloodthirsty",
@@ -53,7 +59,8 @@
     "translit": "(ḏā·mîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 1818:  ",
-    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed"
+    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed",
+    "num": 1818
   },
   {
     "word": "men—",
@@ -61,6 +68,7 @@
     "translit": "(wə·’an·šê)",
     "parse": "Conjunctive waw | Noun - masculine plural construct",
     "str": "Strong's 582:  ",
-    "str2": "Man, mankind"
+    "str2": "Man, mankind",
+    "num": 582
   }
 ]

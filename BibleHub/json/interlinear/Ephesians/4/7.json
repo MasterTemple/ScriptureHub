@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "to each",
@@ -13,7 +14,8 @@
     "translit": "(hekastō)",
     "parse": "Adjective - Dative Masculine Singular",
     "str": "Strong's 1538:  ",
-    "str2": "Each (of more than two), every one. As if a superlative of hekas; each or every."
+    "str2": "Each (of more than two), every one. As if a superlative of hekas; each or every.",
+    "num": 1538
   },
   {
     "word": "one",
@@ -21,7 +23,8 @@
     "translit": "(Heni)",
     "parse": "Adjective - Dative Masculine Singular",
     "str": "Strong's 1520:  ",
-    "str2": "One. (including the neuter Hen); a primary numeral; one."
+    "str2": "One. (including the neuter Hen); a primary numeral; one.",
+    "num": 1520
   },
   {
     "word": "of us",
@@ -29,7 +32,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "grace",
@@ -37,7 +41,8 @@
     "translit": "(charis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 5485:  ",
-    "str2": "From chairo; graciousness, of manner or act."
+    "str2": "From chairo; graciousness, of manner or act.",
+    "num": 5485
   },
   {
     "word": "has been given",
@@ -45,7 +50,8 @@
     "translit": "(edothē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "according to",
@@ -53,7 +59,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "the",
@@ -61,7 +68,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "measure",
@@ -69,7 +77,8 @@
     "translit": "(metron)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3358:  ",
-    "str2": "An apparently primary word; a measure, literally or figuratively; by implication, a limited portion."
+    "str2": "An apparently primary word; a measure, literally or figuratively; by implication, a limited portion.",
+    "num": 3358
   },
   {
     "word": "of the",
@@ -77,7 +86,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "gift",
@@ -85,7 +95,8 @@
     "translit": "(dōreas)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1431:  ",
-    "str2": "A (free) gift, a gift (without repayment). From doron; a gratuity."
+    "str2": "A (free) gift, a gift (without repayment). From doron; a gratuity.",
+    "num": 1431
   },
   {
     "word": "of Christ.",
@@ -93,6 +104,7 @@
     "translit": "(Christou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   }
 ]

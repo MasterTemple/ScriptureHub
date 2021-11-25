@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "Christ",
@@ -13,7 +14,8 @@
     "translit": "(Christou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "suffered",
@@ -21,7 +23,8 @@
     "translit": "(pathontos)",
     "parse": "Verb - Aorist Participle Active - Genitive Masculine Singular",
     "str": "Strong's 3958:  ",
-    "str2": "I am acted upon in a certain way, either good or bad; I experience ill treatment, suffer. "
+    "str2": "I am acted upon in a certain way, either good or bad; I experience ill treatment, suffer. ",
+    "num": 3958
   },
   {
     "word": "in [His] body,",
@@ -29,7 +32,8 @@
     "translit": "(sarki)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4561:  ",
-    "str2": "Flesh, body, human nature, materiality; kindred. "
+    "str2": "Flesh, body, human nature, materiality; kindred. ",
+    "num": 4561
   },
   {
     "word": "arm yourselves with",
@@ -37,7 +41,8 @@
     "translit": "(hoplisasthe)",
     "parse": "Verb - Aorist Imperative Middle - 2nd Person Plural",
     "str": "Strong's 3695:  ",
-    "str2": "To make ready, arm, equip. From hoplon; to equip (middle voice and figuratively)."
+    "str2": "To make ready, arm, equip. From hoplon; to equip (middle voice and figuratively).",
+    "num": 3695
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "same",
@@ -53,7 +59,8 @@
     "translit": "(autēn)",
     "parse": "Personal / Possessive Pronoun - Accusative Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "resolve,",
@@ -61,7 +68,8 @@
     "translit": "(ennoian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1771:  ",
-    "str2": "From a compound of en and nous; thoughtfulness, i.e. Moral understanding."
+    "str2": "From a compound of en and nous; thoughtfulness, i.e. Moral understanding.",
+    "num": 1771
   },
   {
     "word": "because",
@@ -69,7 +77,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "anyone who",
@@ -77,7 +86,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "has suffered",
@@ -85,7 +95,8 @@
     "translit": "(pathōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3958:  ",
-    "str2": "I am acted upon in a certain way, either good or bad; I experience ill treatment, suffer. "
+    "str2": "I am acted upon in a certain way, either good or bad; I experience ill treatment, suffer. ",
+    "num": 3958
   },
   {
     "word": "[in his] body",
@@ -93,7 +104,8 @@
     "translit": "(sarki)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4561:  ",
-    "str2": "Flesh, body, human nature, materiality; kindred. "
+    "str2": "Flesh, body, human nature, materiality; kindred. ",
+    "num": 4561
   },
   {
     "word": "is done with",
@@ -101,7 +113,8 @@
     "translit": "(pepautai)",
     "parse": "Verb - Perfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 3973:  ",
-    "str2": "A primary verb; to stop, i.e. Restrain, quit, desist, come to an end."
+    "str2": "A primary verb; to stop, i.e. Restrain, quit, desist, come to an end.",
+    "num": 3973
   },
   {
     "word": "sin.",
@@ -109,6 +122,7 @@
     "translit": "(hamartias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 266:  ",
-    "str2": "From hamartano; a sin."
+    "str2": "From hamartano; a sin.",
+    "num": 266
   }
 ]

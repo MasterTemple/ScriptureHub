@@ -5,7 +5,8 @@
     "translit": "(alēthōs)",
     "parse": "Adverb",
     "str": "Strong's 230:  ",
-    "str2": "Truly, really, certainly, surely. Adverb from alethes; truly."
+    "str2": "Truly, really, certainly, surely. Adverb from alethes; truly.",
+    "num": 230
   },
   {
     "word": "I tell",
@@ -13,7 +14,8 @@
     "translit": "(legō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "you,",
@@ -21,7 +23,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "he will put him in charge",
@@ -29,7 +32,8 @@
     "translit": "(katastēsei)",
     "parse": "Verb - Future Indicative Active - 3rd Person Singular",
     "str": "Strong's 2525:  ",
-    "str2": "From kata and histemi; to place down, i.e. to designate, constitute, convoy."
+    "str2": "From kata and histemi; to place down, i.e. to designate, constitute, convoy.",
+    "num": 2525
   },
   {
     "word": "of",
@@ -37,7 +41,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "all",
@@ -45,7 +50,8 @@
     "translit": "(pasin)",
     "parse": "Adjective - Dative Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "his",
@@ -53,7 +59,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "possessions.",
@@ -61,6 +68,7 @@
     "translit": "(hyparchousin)",
     "parse": "Verb - Present Participle Active - Dative Neuter Plural",
     "str": "Strong's 5225:  ",
-    "str2": "To begin, am, exist, be in possession. From hupo and archomai; to begin under, i.e. Come into existence; expletively, to exist (verb)."
+    "str2": "To begin, am, exist, be in possession. From hupo and archomai; to begin under, i.e. Come into existence; expletively, to exist (verb).",
+    "num": 5225
   }
 ]

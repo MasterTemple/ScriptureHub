@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "[the] Lord",
@@ -13,7 +14,8 @@
     "translit": "(Kyrios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "will carry out",
@@ -21,7 +23,8 @@
     "translit": "(poiēsei)",
     "parse": "Verb - Future Indicative Active - 3rd Person Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "[His] sentence",
@@ -29,7 +32,8 @@
     "translit": "(logon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "on",
@@ -37,7 +41,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "earth",
@@ -53,7 +59,8 @@
     "translit": "(gēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1093:  ",
-    "str2": "Contracted from a primary word; soil; by extension a region, or the solid part or the whole of the terrene globe."
+    "str2": "Contracted from a primary word; soil; by extension a region, or the solid part or the whole of the terrene globe.",
+    "num": 1093
   },
   {
     "word": "thoroughly",
@@ -61,7 +68,8 @@
     "translit": "(syntelōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4931:  ",
-    "str2": "To bring to an end, fulfill, accomplish. From sun and teleo; to complete entirely; generally, to execute."
+    "str2": "To bring to an end, fulfill, accomplish. From sun and teleo; to complete entirely; generally, to execute.",
+    "num": 4931
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "decisively.”",
@@ -77,6 +86,7 @@
     "translit": "(syntemnōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4932:  ",
-    "str2": "From sun and the base of tomoteros; to contract by cutting, i.e. do concisely."
+    "str2": "From sun and the base of tomoteros; to contract by cutting, i.e. do concisely.",
+    "num": 4932
   }
 ]

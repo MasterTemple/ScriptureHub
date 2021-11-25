@@ -5,7 +5,8 @@
     "translit": "(bə·ṭe·rem)",
     "parse": "Preposition-b | Adverb",
     "str": "Strong's 2962:  ",
-    "str2": "Non-occurrence, not yet, before"
+    "str2": "Non-occurrence, not yet, before",
+    "num": 2962
   },
   {
     "word": "the years",
@@ -13,7 +14,8 @@
     "translit": "(šə·naṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "of famine",
@@ -21,7 +23,8 @@
     "translit": "(hā·rā·‘āḇ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 7458:  ",
-    "str2": "Famine, hunger"
+    "str2": "Famine, hunger",
+    "num": 7458
   },
   {
     "word": "arrived,",
@@ -29,7 +32,8 @@
     "translit": "(tā·ḇō·w)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "two",
@@ -37,7 +41,8 @@
     "translit": "(šə·nê)",
     "parse": "Number - mdc",
     "str": "Strong's 8147:  ",
-    "str2": "Two (a cardinal number)"
+    "str2": "Two (a cardinal number)",
+    "num": 8147
   },
   {
     "word": "sons",
@@ -45,7 +50,8 @@
     "translit": "(ḇā·nîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "were born",
@@ -53,7 +59,8 @@
     "translit": "(yul·laḏ)",
     "parse": "Verb - QalPass - Perfect - third person masculine singular",
     "str": "Strong's 3205:  ",
-    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage"
+    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage",
+    "num": 3205
   },
   {
     "word": "to Joseph",
@@ -61,7 +68,8 @@
     "translit": "(ū·lə·yō·w·sêp̄)",
     "parse": "Conjunctive waw, Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3130:  ",
-    "str2": "Joseph -- 'he increases', a son of Jacob, also the name of several Israelites"
+    "str2": "Joseph -- 'he increases', a son of Jacob, also the name of several Israelites",
+    "num": 3130
   },
   {
     "word": "by Asenath",
@@ -69,7 +77,8 @@
     "translit": "(’ā·sə·naṯ)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 621:  ",
-    "str2": "Asenath -- perhaps 'belonging to Neith', the wife of Joseph"
+    "str2": "Asenath -- perhaps 'belonging to Neith', the wife of Joseph",
+    "num": 621
   },
   {
     "word": "daughter",
@@ -77,7 +86,8 @@
     "translit": "(baṯ-)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 1323:  ",
-    "str2": "A daughter"
+    "str2": "A daughter",
+    "num": 1323
   },
   {
     "word": "of Potiphera,",
@@ -85,7 +95,8 @@
     "translit": "(p̄e·ra‘)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 6319:  ",
-    "str2": "Poti-Phera"
+    "str2": "Poti-Phera",
+    "num": 6319
   },
   {
     "word": "priest",
@@ -93,7 +104,8 @@
     "translit": "(kō·hên)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3548:  ",
-    "str2": "Priest"
+    "str2": "Priest",
+    "num": 3548
   },
   {
     "word": "of On.",
@@ -101,6 +113,7 @@
     "translit": "(’ō·wn)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 204:  ",
-    "str2": "On -- a city in northern Egypt"
+    "str2": "On -- a city in northern Egypt",
+    "num": 204
   }
 ]

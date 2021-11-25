@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "go",
@@ -13,7 +14,8 @@
     "translit": "(poreuthentes)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Plural",
     "str": "Strong's 4198:  ",
-    "str2": "To travel, journey, go, die. "
+    "str2": "To travel, journey, go, die. ",
+    "num": 4198
   },
   {
     "word": "[and] learn",
@@ -21,7 +23,8 @@
     "translit": "(mathete)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 3129:  ",
-    "str2": "Prolongation from a primary verb, another form of which, matheo, is used as an alternate in certain tenses; to learn."
+    "str2": "Prolongation from a primary verb, another form of which, matheo, is used as an alternate in certain tenses; to learn.",
+    "num": 3129
   },
   {
     "word": "what",
@@ -29,7 +32,8 @@
     "translit": "(ti)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Neuter Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "this means:",
@@ -37,7 +41,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "‘I desire",
@@ -45,7 +50,8 @@
     "translit": "(thelō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "mercy,",
@@ -53,7 +59,8 @@
     "translit": "(Eleos)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 1656:  ",
-    "str2": "Pity, mercy, compassion. Of uncertain affinity; compassion."
+    "str2": "Pity, mercy, compassion. Of uncertain affinity; compassion.",
+    "num": 1656
   },
   {
     "word": "not",
@@ -61,7 +68,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "sacrifice.’",
@@ -69,7 +77,8 @@
     "translit": "(thysian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2378:  ",
-    "str2": "Abstr. and concr: sacrifice; a sacrifice, offering. From thuo; sacrifice."
+    "str2": "Abstr. and concr: sacrifice; a sacrifice, offering. From thuo; sacrifice.",
+    "num": 2378
   },
   {
     "word": "For",
@@ -77,7 +86,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "I have not come",
@@ -85,7 +95,8 @@
     "translit": "(ēlthon)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "to call",
@@ -93,7 +104,8 @@
     "translit": "(kalesai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2564:  ",
-    "str2": "(a) I call, summon, invite, (b) I call, name. Akin to the base of keleuo; to 'call'."
+    "str2": "(a) I call, summon, invite, (b) I call, name. Akin to the base of keleuo; to 'call'.",
+    "num": 2564
   },
   {
     "word": "[the] righteous,",
@@ -101,7 +113,8 @@
     "translit": "(dikaious)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 1342:  ",
-    "str2": "From dike; equitable; by implication, innocent, holy."
+    "str2": "From dike; equitable; by implication, innocent, holy.",
+    "num": 1342
   },
   {
     "word": "but",
@@ -109,7 +122,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "sinners.”",
@@ -117,6 +131,7 @@
     "translit": "(hamartōlous)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 268:  ",
-    "str2": "Sinning, sinful, depraved, detestable. From hamartano; sinful, i.e. A sinner."
+    "str2": "Sinning, sinful, depraved, detestable. From hamartano; sinful, i.e. A sinner.",
+    "num": 268
   }
 ]

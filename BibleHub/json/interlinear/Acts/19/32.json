@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "assembly",
@@ -21,7 +23,8 @@
     "translit": "(ekklēsia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1577:  ",
-    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation."
+    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation.",
+    "num": 1577
   },
   {
     "word": "was",
@@ -29,7 +32,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "in turmoil.",
@@ -37,7 +41,8 @@
     "translit": "(synkechymenē)",
     "parse": "Verb - Perfect Participle Middle or Passive - Nominative Feminine Singular",
     "str": "Strong's 4797:  ",
-    "str2": "Or sugchuno from sun and cheo or its alternate; to commingle promiscuously, i.e. to throw into disorder, to perplex."
+    "str2": "Or sugchuno from sun and cheo or its alternate; to commingle promiscuously, i.e. to throw into disorder, to perplex.",
+    "num": 4797
   },
   {
     "word": "Some",
@@ -45,7 +50,8 @@
     "translit": "(allo)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 243:  ",
-    "str2": "Other, another (of more than two), different. A primary word; 'else, ' i.e. Different."
+    "str2": "Other, another (of more than two), different. A primary word; 'else, ' i.e. Different.",
+    "num": 243
   },
   {
     "word": "were shouting",
@@ -53,7 +59,8 @@
     "translit": "(ekrazon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2896:  ",
-    "str2": "To cry aloud, shriek. A primary verb; properly, to 'croak' or scream, i.e. to call aloud."
+    "str2": "To cry aloud, shriek. A primary verb; properly, to 'croak' or scream, i.e. to call aloud.",
+    "num": 2896
   },
   {
     "word": "one thing",
@@ -61,7 +68,8 @@
     "translit": "(ti)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Neuter Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "[and some another],",
@@ -69,7 +77,8 @@
     "translit": "(Alloi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 243:  ",
-    "str2": "Other, another (of more than two), different. A primary word; 'else, ' i.e. Different."
+    "str2": "Other, another (of more than two), different. A primary word; 'else, ' i.e. Different.",
+    "num": 243
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "most [of them]",
@@ -85,7 +95,8 @@
     "translit": "(pleious)",
     "parse": "Adjective - Nominative Masculine Plural - Comparative",
     "str": "Strong's 4119:  ",
-    "str2": "Or neuter pleion, or pleon comparative of polus; more in quantity, number, or quality; also the major portion."
+    "str2": "Or neuter pleion, or pleon comparative of polus; more in quantity, number, or quality; also the major portion.",
+    "num": 4119
   },
   {
     "word": "did not [even] know",
@@ -93,7 +104,8 @@
     "translit": "(ēdeisan)",
     "parse": "Verb - Pluperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "why",
@@ -101,7 +113,8 @@
     "translit": "(tinos)",
     "parse": "Interrogative / Indefinite Pronoun - Genitive Neuter Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "they were there.",
@@ -109,6 +122,7 @@
     "translit": "(synelēlytheisan)",
     "parse": "Verb - Pluperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 4905:  ",
-    "str2": "From sun and erchomai; to convene, depart in company with, associate with, or, cohabit."
+    "str2": "From sun and erchomai; to convene, depart in company with, associate with, or, cohabit.",
+    "num": 4905
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’ā·rūr)",
     "parse": "Verb - Qal - QalPassParticiple - masculine singular",
     "str": "Strong's 779:  ",
-    "str2": "To execrate"
+    "str2": "To execrate",
+    "num": 779
   },
   {
     "word": "he who",
@@ -13,7 +14,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "does not",
@@ -21,7 +23,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "put",
@@ -29,7 +32,8 @@
     "translit": "(yā·qîm)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular",
     "str": "Strong's 6965:  ",
-    "str2": "To arise, stand up, stand"
+    "str2": "To arise, stand up, stand",
+    "num": 6965
   },
   {
     "word": "the words",
@@ -37,7 +41,8 @@
     "translit": "(diḇ·rê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "of this",
@@ -45,7 +50,8 @@
     "translit": "(haz·zōṯ)",
     "parse": "Article | Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "law",
@@ -53,7 +59,8 @@
     "translit": "(hat·tō·w·rāh-)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 8451:  ",
-    "str2": "Direction, instruction, law"
+    "str2": "Direction, instruction, law",
+    "num": 8451
   },
   {
     "word": "into practice.’",
@@ -61,7 +68,8 @@
     "translit": "(la·‘ă·śō·wṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "And {let} all",
@@ -69,7 +77,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the people",
@@ -77,7 +86,8 @@
     "translit": "(hā·‘ām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "say,",
@@ -85,7 +95,8 @@
     "translit": "(wə·’ā·mar)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘Amen!’”",
@@ -93,6 +104,7 @@
     "translit": "(’ā·mên)",
     "parse": "Adverb",
     "str": "Strong's 543:  ",
-    "str2": "Sure, faithfulness, truly"
+    "str2": "Sure, faithfulness, truly",
+    "num": 543
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(bab·be·ṭen)",
     "parse": "Preposition-b, Article | Noun - feminine singular",
     "str": "Strong's 990:  ",
-    "str2": "The belly, the womb, the bosom, body of anything"
+    "str2": "The belly, the womb, the bosom, body of anything",
+    "num": 990
   },
   {
     "word": "he grasped his brother’s",
@@ -13,7 +14,8 @@
     "translit": "(’ā·ḥîw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 251:  ",
-    "str2": "A brother, )"
+    "str2": "A brother, )",
+    "num": 251
   },
   {
     "word": "heel,",
@@ -21,7 +23,8 @@
     "translit": "(‘ā·qaḇ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 6117:  ",
-    "str2": "To follow at the heel, assail insidiously, circumvent, overreach"
+    "str2": "To follow at the heel, assail insidiously, circumvent, overreach",
+    "num": 6117
   },
   {
     "word": "and in his vigor",
@@ -29,7 +32,8 @@
     "translit": "(ū·ḇə·’ō·w·nōw)",
     "parse": "Conjunctive waw, Preposition-b | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 202:  ",
-    "str2": "Ability, power, wealth"
+    "str2": "Ability, power, wealth",
+    "num": 202
   },
   {
     "word": "he wrestled",
@@ -37,7 +41,8 @@
     "translit": "(śā·rāh)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 8280:  ",
-    "str2": "To persist, exert oneself, persevere"
+    "str2": "To persist, exert oneself, persevere",
+    "num": 8280
   },
   {
     "word": "with",
@@ -45,7 +50,8 @@
     "translit": "(’eṯ-)",
     "parse": "Preposition",
     "str": "Strong's 854:  ",
-    "str2": "Nearness, near, with, by, at, among"
+    "str2": "Nearness, near, with, by, at, among",
+    "num": 854
   },
   {
     "word": "God.",
@@ -53,6 +59,7 @@
     "translit": "(’ĕ·lō·hîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   }
 ]

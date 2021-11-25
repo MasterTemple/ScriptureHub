@@ -5,7 +5,8 @@
     "translit": "(Errethē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 2046:  ",
-    "str2": "Probably a fuller form of rheo; an alternate for epo in certain tenses; to utter, i.e. Speak or say."
+    "str2": "Probably a fuller form of rheo; an alternate for epo in certain tenses; to utter, i.e. Speak or say.",
+    "num": 2046
   },
   {
     "word": "‘Whoever",
@@ -13,7 +14,8 @@
     "translit": "(Hos)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "divorces",
@@ -21,7 +23,8 @@
     "translit": "(apolysē)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 630:  ",
-    "str2": "From apo and luo; to free fully, i.e. relieve, release, dismiss, or let die, pardon or divorce."
+    "str2": "From apo and luo; to free fully, i.e. relieve, release, dismiss, or let die, pardon or divorce.",
+    "num": 630
   },
   {
     "word": "his",
@@ -29,7 +32,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "wife",
@@ -37,7 +41,8 @@
     "translit": "(gynaika)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1135:  ",
-    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife."
+    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife.",
+    "num": 1135
   },
   {
     "word": "must give",
@@ -45,7 +50,8 @@
     "translit": "(dotō)",
     "parse": "Verb - Aorist Imperative Active - 3rd Person Singular",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "her",
@@ -53,7 +59,8 @@
     "translit": "(autē)",
     "parse": "Personal / Possessive Pronoun - Dative Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "a certificate of divorce.’",
@@ -61,6 +68,7 @@
     "translit": "(apostasion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 647:  ",
-    "str2": "Neuter of a adjective from a derivative of aphistemi; properly, something separative, i.e. divorce."
+    "str2": "Neuter of a adjective from a derivative of aphistemi; properly, something separative, i.e. divorce.",
+    "num": 647
   }
 ]

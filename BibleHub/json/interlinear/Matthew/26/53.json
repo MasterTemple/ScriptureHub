@@ -5,7 +5,8 @@
     "translit": "(dokeis)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 1380:  ",
-    "str2": "A prolonged form of a primary verb, doko dok'-o of the same meaning; to think; by implication, to seem."
+    "str2": "A prolonged form of a primary verb, doko dok'-o of the same meaning; to think; by implication, to seem.",
+    "num": 1380
   },
   {
     "word": "that",
@@ -13,7 +14,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "I can",
@@ -21,7 +23,8 @@
     "translit": "(dynamai)",
     "parse": "Verb - Present Indicative Middle or Passive - 1st Person Singular",
     "str": "Strong's 1410:  ",
-    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible."
+    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible.",
+    "num": 1410
   },
   {
     "word": "call on",
@@ -29,7 +32,8 @@
     "translit": "(parakalesai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 3870:  ",
-    "str2": "From para and kaleo; to call near, i.e. Invite, invoke."
+    "str2": "From para and kaleo; to call near, i.e. Invite, invoke.",
+    "num": 3870
   },
   {
     "word": "My",
@@ -37,7 +41,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "Father,",
@@ -45,7 +50,8 @@
     "translit": "(Patera)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "He will at once put at My disposal",
@@ -61,7 +68,8 @@
     "translit": "(parastēsei)",
     "parse": "Verb - Future Indicative Active - 3rd Person Singular",
     "str": "Strong's 3936:  ",
-    "str2": "Or prolonged paristano from para and histemi; to stand beside, i.e. to exhibit, proffer, recommend, substantiate; or to be at hand, aid."
+    "str2": "Or prolonged paristano from para and histemi; to stand beside, i.e. to exhibit, proffer, recommend, substantiate; or to be at hand, aid.",
+    "num": 3936
   },
   {
     "word": "more than",
@@ -69,7 +77,8 @@
     "translit": "(pleiō)",
     "parse": "Adjective - Accusative Neuter Plural - Comparative",
     "str": "Strong's 4119:  ",
-    "str2": "Or neuter pleion, or pleon comparative of polus; more in quantity, number, or quality; also the major portion."
+    "str2": "Or neuter pleion, or pleon comparative of polus; more in quantity, number, or quality; also the major portion.",
+    "num": 4119
   },
   {
     "word": "twelve",
@@ -77,7 +86,8 @@
     "translit": "(dōdeka)",
     "parse": "Adjective - Genitive Feminine Plural",
     "str": "Strong's 1427:  ",
-    "str2": "Twelve; the usual way in which the Twelve apostles of Jesus are referred to. From duo and deka; two and ten, i.e. A dozen."
+    "str2": "Twelve; the usual way in which the Twelve apostles of Jesus are referred to. From duo and deka; two and ten, i.e. A dozen.",
+    "num": 1427
   },
   {
     "word": "legions",
@@ -85,7 +95,8 @@
     "translit": "(legiōnas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 3003:  ",
-    "str2": "Of Latin origin; a 'legion', i.e. Roman regiment."
+    "str2": "Of Latin origin; a 'legion', i.e. Roman regiment.",
+    "num": 3003
   },
   {
     "word": "of angels?",
@@ -93,6 +104,7 @@
     "translit": "(angelōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 32:  ",
-    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor."
+    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor.",
+    "num": 32
   }
 ]

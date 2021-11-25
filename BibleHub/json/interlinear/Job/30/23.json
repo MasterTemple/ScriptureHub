@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I know that",
@@ -13,7 +14,8 @@
     "translit": "(yā·ḏa‘·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "You will bring me down",
@@ -21,7 +23,8 @@
     "translit": "(tə·šî·ḇê·nî)",
     "parse": "Verb - Hifil - Imperfect - second person masculine singular | first person common singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "[to] death,",
@@ -29,7 +32,8 @@
     "translit": "(mā·weṯ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4194:  ",
-    "str2": "Death, the dead, their place, state, pestilence, ruin"
+    "str2": "Death, the dead, their place, state, pestilence, ruin",
+    "num": 4194
   },
   {
     "word": "to the place",
@@ -37,7 +41,8 @@
     "translit": "(ū·ḇêṯ)",
     "parse": "Conjunctive waw | Noun - masculine singular construct",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "appointed",
@@ -45,7 +50,8 @@
     "translit": "(mō·w·‘êḏ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4150:  ",
-    "str2": "Appointed time, place, or meeting"
+    "str2": "Appointed time, place, or meeting",
+    "num": 4150
   },
   {
     "word": "for all",
@@ -53,7 +59,8 @@
     "translit": "(lə·ḵāl)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the living.",
@@ -61,6 +68,7 @@
     "translit": "(ḥāy)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 2416:  ",
-    "str2": "Alive, raw, fresh, strong, life"
+    "str2": "Alive, raw, fresh, strong, life",
+    "num": 2416
   }
 ]

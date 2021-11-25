@@ -5,7 +5,8 @@
     "translit": "(tō·w·lîḏ)",
     "parse": "Verb - Hifil - Imperfect - second person masculine singular",
     "str": "Strong's 3205:  ",
-    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage"
+    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage",
+    "num": 3205
   },
   {
     "word": "sons",
@@ -13,7 +14,8 @@
     "translit": "(bā·nîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "and daughters,",
@@ -21,7 +23,8 @@
     "translit": "(ū·ḇā·nō·wṯ)",
     "parse": "Conjunctive waw | Noun - feminine plural",
     "str": "Strong's 1323:  ",
-    "str2": "A daughter"
+    "str2": "A daughter",
+    "num": 1323
   },
   {
     "word": "but they will not",
@@ -29,7 +32,8 @@
     "translit": "(wə·lō-)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "remain",
@@ -37,7 +41,8 @@
     "translit": "(yih·yū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "yours,",
@@ -45,7 +50,8 @@
     "translit": "(lāḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "because",
@@ -53,7 +59,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "they will go",
@@ -61,7 +68,8 @@
     "translit": "(yê·lə·ḵū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "into captivity.",
@@ -69,6 +77,7 @@
     "translit": "(baš·še·ḇî)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 7628:  ",
-    "str2": "Exiled, captured, exile, booty"
+    "str2": "Exiled, captured, exile, booty",
+    "num": 7628
   }
 ]

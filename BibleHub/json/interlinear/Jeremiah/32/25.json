@@ -5,7 +5,8 @@
     "translit": "(wə·’at·tāh)",
     "parse": "Conjunctive waw | Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "O Lord",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD,",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "have said",
@@ -29,7 +32,8 @@
     "translit": "(’ā·mar·tā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "to me,",
@@ -37,7 +41,8 @@
     "translit": "(’ê·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "‘Buy",
@@ -45,7 +50,8 @@
     "translit": "(qə·nêh-)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 7069:  ",
-    "str2": "To erect, create, to procure, by purchase, to own"
+    "str2": "To erect, create, to procure, by purchase, to own",
+    "num": 7069
   },
   {
     "word": "for yourself",
@@ -53,7 +59,8 @@
     "translit": "(lə·ḵā)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "the field",
@@ -61,7 +68,8 @@
     "translit": "(haś·śā·ḏeh)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 7704:  ",
-    "str2": "Field, land"
+    "str2": "Field, land",
+    "num": 7704
   },
   {
     "word": "with silver",
@@ -69,7 +77,8 @@
     "translit": "(bak·ke·sep̄)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 3701:  ",
-    "str2": "Silver, money"
+    "str2": "Silver, money",
+    "num": 3701
   },
   {
     "word": "and call in",
@@ -77,7 +86,8 @@
     "translit": "(wə·hā·‘êḏ)",
     "parse": "Conjunctive waw | Verb - Hifil - Imperative - masculine singular",
     "str": "Strong's 5749:  ",
-    "str2": "To duplicate, repeat, to protest, testify, to encompass, restore"
+    "str2": "To duplicate, repeat, to protest, testify, to encompass, restore",
+    "num": 5749
   },
   {
     "word": "witnesses,",
@@ -85,7 +95,8 @@
     "translit": "(‘ê·ḏîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 5707:  ",
-    "str2": "A witness, testimony, a recorder, prince"
+    "str2": "A witness, testimony, a recorder, prince",
+    "num": 5707
   },
   {
     "word": "even though the city",
@@ -93,7 +104,8 @@
     "translit": "(wə·hā·‘îr)",
     "parse": "Conjunctive waw, Article | Noun - feminine singular",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "has been handed over to",
@@ -101,7 +113,8 @@
     "translit": "(nit·tə·nāh)",
     "parse": "Verb - Nifal - Perfect - third person feminine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "the Chaldeans!’”",
@@ -109,6 +122,7 @@
     "translit": "(hak·kaś·dîm)",
     "parse": "Article | Noun - proper - masculine plural",
     "str": "Strong's 3778:  ",
-    "str2": "Chaldeans -- a region of southern Babylon and its inhab"
+    "str2": "Chaldeans -- a region of southern Babylon and its inhab",
+    "num": 3778
   }
 ]

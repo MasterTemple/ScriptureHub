@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[Jesus] traveled",
@@ -13,7 +14,8 @@
     "translit": "(dieporeueto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1279:  ",
-    "str2": "To journey through (past). From dia and poreuomai; to travel through."
+    "str2": "To journey through (past). From dia and poreuomai; to travel through.",
+    "num": 1279
   },
   {
     "word": "throughout",
@@ -21,7 +23,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "[the] towns",
@@ -29,7 +32,8 @@
     "translit": "(poleis)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 4172:  ",
-    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town."
+    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town.",
+    "num": 4172
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "villages,",
@@ -45,7 +50,8 @@
     "translit": "(kōmas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 2968:  ",
-    "str2": "A village, country town. From keimai; a hamlet."
+    "str2": "A village, country town. From keimai; a hamlet.",
+    "num": 2968
   },
   {
     "word": "teaching",
@@ -53,7 +59,8 @@
     "translit": "(didaskōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1321:  ",
-    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach."
+    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach.",
+    "num": 1321
   },
   {
     "word": "as He made",
@@ -61,7 +68,8 @@
     "translit": "(poioumenos)",
     "parse": "Verb - Present Participle Middle - Nominative Masculine Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "His way",
@@ -69,7 +77,8 @@
     "translit": "(poreian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4197:  ",
-    "str2": "A journey, pursuit, undertaking, progress. From poreuomai; travel; figuratively proceedings, i.e. Career."
+    "str2": "A journey, pursuit, undertaking, progress. From poreuomai; travel; figuratively proceedings, i.e. Career.",
+    "num": 4197
   },
   {
     "word": "toward",
@@ -77,7 +86,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "Jerusalem.",
@@ -85,6 +95,7 @@
     "translit": "(Hierosolyma)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 2414:  ",
-    "str2": "The Greek form of the Hebrew name: Jerusalem. Of Hebrew origin; Hierosolyma"
+    "str2": "The Greek form of the Hebrew name: Jerusalem. Of Hebrew origin; Hierosolyma",
+    "num": 2414
   }
 ]

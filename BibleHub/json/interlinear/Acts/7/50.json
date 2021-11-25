@@ -5,7 +5,8 @@
     "translit": "(ouchi)",
     "parse": "IntPrtcl",
     "str": "Strong's 3780:  ",
-    "str2": "By no means, not at all. Intensive of ou; not indeed."
+    "str2": "By no means, not at all. Intensive of ou; not indeed.",
+    "num": 3780
   },
   {
     "word": "My",
@@ -13,7 +14,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "hand",
@@ -21,7 +23,8 @@
     "translit": "(cheir)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 5495:  ",
-    "str2": "A hand. "
+    "str2": "A hand. ",
+    "num": 5495
   },
   {
     "word": "made",
@@ -29,7 +32,8 @@
     "translit": "(epoiēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "all",
@@ -37,7 +41,8 @@
     "translit": "(panta)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "these things?’",
@@ -45,6 +50,7 @@
     "translit": "(tauta)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   }
 ]

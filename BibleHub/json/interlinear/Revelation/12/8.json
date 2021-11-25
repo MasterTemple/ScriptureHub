@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[the dragon] was not strong enough,",
@@ -13,7 +14,8 @@
     "translit": "(ischysen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2480:  ",
-    "str2": "To have strength, be strong, be in full health and vigor, be able; meton: I prevail. From ischus; to have force."
+    "str2": "To have strength, be strong, be in full health and vigor, be able; meton: I prevail. From ischus; to have force.",
+    "num": 2480
   },
   {
     "word": "[and] no longer",
@@ -21,7 +23,8 @@
     "translit": "(oude)",
     "parse": "Conjunction",
     "str": "Strong's 3761:  ",
-    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even."
+    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even.",
+    "num": 3761
   },
   {
     "word": "[was] any place",
@@ -29,7 +32,8 @@
     "translit": "(topos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5117:  ",
-    "str2": "Apparently a primary word; a spot, i.e. Location; figuratively, condition, opportunity; specially, a scabbard."
+    "str2": "Apparently a primary word; a spot, i.e. Location; figuratively, condition, opportunity; specially, a scabbard.",
+    "num": 5117
   },
   {
     "word": "found",
@@ -37,7 +41,8 @@
     "translit": "(heurethē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 2147:  ",
-    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find."
+    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find.",
+    "num": 2147
   },
   {
     "word": "in",
@@ -45,7 +50,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "heaven",
@@ -53,7 +59,8 @@
     "translit": "(ouranō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 3772:  ",
-    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel."
+    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel.",
+    "num": 3772
   },
   {
     "word": "for [him and his angels].",
@@ -61,6 +68,7 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

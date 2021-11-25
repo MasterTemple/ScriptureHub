@@ -5,7 +5,8 @@
     "translit": "(hin·nêh-)",
     "parse": "Interjection",
     "str": "Strong's 2009:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2009
   },
   {
     "word": "the former things",
@@ -13,7 +14,8 @@
     "translit": "(hā·ri·šō·nō·wṯ)",
     "parse": "Article | Adjective - feminine plural",
     "str": "Strong's 7223:  ",
-    "str2": "First, in place, time, rank"
+    "str2": "First, in place, time, rank",
+    "num": 7223
   },
   {
     "word": "have happened,",
@@ -21,7 +23,8 @@
     "translit": "(ḇā·’ū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "and now I",
@@ -29,7 +32,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "declare",
@@ -37,7 +41,8 @@
     "translit": "(mag·gîḏ)",
     "parse": "Verb - Hifil - Participle - masculine singular",
     "str": "Strong's 5046:  ",
-    "str2": "To be conspicuous"
+    "str2": "To be conspicuous",
+    "num": 5046
   },
   {
     "word": "new things.",
@@ -45,7 +50,8 @@
     "translit": "(wa·ḥă·ḏā·šō·wṯ)",
     "parse": "Conjunctive waw | Adjective - feminine plural",
     "str": "Strong's 2319:  ",
-    "str2": "New"
+    "str2": "New",
+    "num": 2319
   },
   {
     "word": "Before",
@@ -53,7 +59,8 @@
     "translit": "(bə·ṭe·rem)",
     "parse": "Preposition-b | Adverb",
     "str": "Strong's 2962:  ",
-    "str2": "Non-occurrence, not yet, before"
+    "str2": "Non-occurrence, not yet, before",
+    "num": 2962
   },
   {
     "word": "they spring forth",
@@ -61,7 +68,8 @@
     "translit": "(tiṣ·maḥ·nāh)",
     "parse": "Verb - Qal - Imperfect - third person feminine plural",
     "str": "Strong's 6779:  ",
-    "str2": "To sprout, spring up"
+    "str2": "To sprout, spring up",
+    "num": 6779
   },
   {
     "word": "I proclaim",
@@ -69,7 +77,8 @@
     "translit": "(’aš·mî‘)",
     "parse": "Verb - Hifil - Imperfect - first person common singular",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "them",
@@ -77,7 +86,8 @@
     "translit": "(’eṯ·ḵem)",
     "parse": "Direct object marker | second person masculine plural",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "to you.”",
@@ -85,6 +95,7 @@
     "translit": "(p̄)",
     "parse": "Punctuation",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

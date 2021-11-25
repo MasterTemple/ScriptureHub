@@ -5,7 +5,8 @@
     "translit": "(hā·hêm)",
     "parse": "Article | Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "days",
@@ -13,7 +14,8 @@
     "translit": "(bay·yā·mîm)",
     "parse": "Preposition-b, Article | Noun - masculine plural",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "the LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "began",
@@ -29,7 +32,8 @@
     "translit": "(hê·ḥêl)",
     "parse": "Verb - Hifil - Perfect - third person masculine singular",
     "str": "Strong's 2490:  ",
-    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play"
+    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play",
+    "num": 2490
   },
   {
     "word": "to reduce the size",
@@ -37,7 +41,8 @@
     "translit": "(lə·qaṣ·ṣō·wṯ)",
     "parse": "Preposition-l | Verb - Piel - Infinitive construct",
     "str": "Strong's 7096:  ",
-    "str2": "To cut off, to destroy, to scrape off"
+    "str2": "To cut off, to destroy, to scrape off",
+    "num": 7096
   },
   {
     "word": "of Israel.",
@@ -45,7 +50,8 @@
     "translit": "(bə·yiś·rā·’êl)",
     "parse": "Preposition-b | Noun - proper - masculine singular",
     "str": "Strong's 3478:  ",
-    "str2": "Israel -- 'God strives', another name of Jacob and his desc"
+    "str2": "Israel -- 'God strives', another name of Jacob and his desc",
+    "num": 3478
   },
   {
     "word": "Hazael",
@@ -53,7 +59,8 @@
     "translit": "(ḥă·zā·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 2371:  ",
-    "str2": "Hazael -- 'God sees', a king of Aram (Syria)"
+    "str2": "Hazael -- 'God sees', a king of Aram (Syria)",
+    "num": 2371
   },
   {
     "word": "defeated",
@@ -61,7 +68,8 @@
     "translit": "(way·yak·kêm)",
     "parse": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular | third person masculine plural",
     "str": "Strong's 5221:  ",
-    "str2": "To strike"
+    "str2": "To strike",
+    "num": 5221
   },
   {
     "word": "the Israelites",
@@ -69,7 +77,8 @@
     "translit": "(yiś·rā·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3478:  ",
-    "str2": "Israel -- 'God strives', another name of Jacob and his desc"
+    "str2": "Israel -- 'God strives', another name of Jacob and his desc",
+    "num": 3478
   },
   {
     "word": "throughout",
@@ -77,7 +86,8 @@
     "translit": "(bə·ḵāl)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "their territory",
@@ -85,6 +95,7 @@
     "translit": "(gə·ḇūl)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1366:  ",
-    "str2": "A cord, a boundary, the territory inclosed"
+    "str2": "A cord, a boundary, the territory inclosed",
+    "num": 1366
   }
 ]

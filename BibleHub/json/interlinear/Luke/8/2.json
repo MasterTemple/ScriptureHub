@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "some",
@@ -13,7 +14,8 @@
     "translit": "(tines)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Feminine Plural",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "women",
@@ -21,7 +23,8 @@
     "translit": "(gynaikes)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 1135:  ",
-    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife."
+    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife.",
+    "num": 1135
   },
   {
     "word": "who",
@@ -29,7 +32,8 @@
     "translit": "(hai)",
     "parse": "Personal / Relative Pronoun - Nominative Feminine Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "had been",
@@ -37,7 +41,8 @@
     "translit": "(ēsan)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "healed",
@@ -45,7 +50,8 @@
     "translit": "(tetherapeumenai)",
     "parse": "Verb - Perfect Participle Middle or Passive - Nominative Feminine Plural",
     "str": "Strong's 2323:  ",
-    "str2": "From the same as therapon; to wait upon menially, i.e. to adore, or to relieve."
+    "str2": "From the same as therapon; to wait upon menially, i.e. to adore, or to relieve.",
+    "num": 2323
   },
   {
     "word": "of",
@@ -53,7 +59,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "evil",
@@ -61,7 +68,8 @@
     "translit": "(ponērōn)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 4190:  ",
-    "str2": "Evil, bad, wicked, malicious, slothful. "
+    "str2": "Evil, bad, wicked, malicious, slothful. ",
+    "num": 4190
   },
   {
     "word": "spirits",
@@ -69,7 +77,8 @@
     "translit": "(pneumatōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "infirmities:",
@@ -85,7 +95,8 @@
     "translit": "(astheneiōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 769:  ",
-    "str2": "From asthenes; feebleness; by implication, malady; morally, frailty."
+    "str2": "From asthenes; feebleness; by implication, malady; morally, frailty.",
+    "num": 769
   },
   {
     "word": "Mary",
@@ -93,7 +104,8 @@
     "translit": "(Maria)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3137:  ",
-    "str2": "Or Mariam of Hebrew origin; Maria or Mariam, the name of six Christian females."
+    "str2": "Or Mariam of Hebrew origin; Maria or Mariam, the name of six Christian females.",
+    "num": 3137
   },
   {
     "word": "called",
@@ -101,7 +113,8 @@
     "translit": "(kaloumenē)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Feminine Singular",
     "str": "Strong's 2564:  ",
-    "str2": "(a) I call, summon, invite, (b) I call, name. Akin to the base of keleuo; to 'call'."
+    "str2": "(a) I call, summon, invite, (b) I call, name. Akin to the base of keleuo; to 'call'.",
+    "num": 2564
   },
   {
     "word": "Magdalene,",
@@ -109,7 +122,8 @@
     "translit": "(Magdalēnē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3094:  ",
-    "str2": "Magdalene, a woman of Magdala. Feminine of a derivative of Magdala; a female Magdalene, i.e. Inhabitant of Magdala."
+    "str2": "Magdalene, a woman of Magdala. Feminine of a derivative of Magdala; a female Magdalene, i.e. Inhabitant of Magdala.",
+    "num": 3094
   },
   {
     "word": "from",
@@ -117,7 +131,8 @@
     "translit": "(aph’)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "whom",
@@ -125,7 +140,8 @@
     "translit": "(hēs)",
     "parse": "Personal / Relative Pronoun - Genitive Feminine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "seven",
@@ -133,7 +149,8 @@
     "translit": "(hepta)",
     "parse": "Adjective - Nominative Neuter Plural",
     "str": "Strong's 2033:  ",
-    "str2": "Seven. A primary number; seven."
+    "str2": "Seven. A primary number; seven.",
+    "num": 2033
   },
   {
     "word": "demons",
@@ -141,7 +158,8 @@
     "translit": "(daimonia)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 1140:  ",
-    "str2": "An evil-spirit, demon; a heathen deity. Neuter of a derivative of daimon; a d?Monic being; by extension a deity."
+    "str2": "An evil-spirit, demon; a heathen deity. Neuter of a derivative of daimon; a d?Monic being; by extension a deity.",
+    "num": 1140
   },
   {
     "word": "had gone out,",
@@ -149,6 +167,7 @@
     "translit": "(exelēlythei)",
     "parse": "Verb - Pluperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1831:  ",
-    "str2": "To go out, come out. From ek and erchomai; to issue."
+    "str2": "To go out, come out. From ek and erchomai; to issue.",
+    "num": 1831
   }
 ]

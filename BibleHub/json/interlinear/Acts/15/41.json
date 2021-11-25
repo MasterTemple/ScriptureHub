@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "he traveled through",
@@ -13,7 +14,8 @@
     "translit": "(diērcheto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1330:  ",
-    "str2": "To pass through, spread (as a report). From dia and erchomai; to traverse."
+    "str2": "To pass through, spread (as a report). From dia and erchomai; to traverse.",
+    "num": 1330
   },
   {
     "word": "Syria",
@@ -21,7 +23,8 @@
     "translit": "(Syrian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4947:  ",
-    "str2": "Syria, a great Roman imperial province, united with Cilicia. Probably of Hebrew origin; Syria, a region of Asia."
+    "str2": "Syria, a great Roman imperial province, united with Cilicia. Probably of Hebrew origin; Syria, a region of Asia.",
+    "num": 4947
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Cilicia,",
@@ -37,7 +41,8 @@
     "translit": "(Kilikian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2791:  ",
-    "str2": "Probably of foreign origin; Cilicia, a region of Asia Minor."
+    "str2": "Probably of foreign origin; Cilicia, a region of Asia Minor.",
+    "num": 2791
   },
   {
     "word": "strengthening",
@@ -45,7 +50,8 @@
     "translit": "(epistērizōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1991:  ",
-    "str2": "To prop up, uphold, support, confirm, make stronger. From epi and sterizo; to support further, i.e. Reestablish."
+    "str2": "To prop up, uphold, support, confirm, make stronger. From epi and sterizo; to support further, i.e. Reestablish.",
+    "num": 1991
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tas)",
     "parse": "Article - Accusative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "churches.",
@@ -61,6 +68,7 @@
     "translit": "(ekklēsias)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 1577:  ",
-    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation."
+    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation.",
+    "num": 1577
   }
 ]

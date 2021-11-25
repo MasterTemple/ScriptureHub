@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "it is",
@@ -13,7 +14,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "God’s",
@@ -21,7 +23,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "will",
@@ -29,7 +32,8 @@
     "translit": "(thelēma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 2307:  ",
-    "str2": "An act of will, will; plur: wishes, desires. From the prolonged form of ethelo; a determination, i.e. choice or inclination."
+    "str2": "An act of will, will; plur: wishes, desires. From the prolonged form of ethelo; a determination, i.e. choice or inclination.",
+    "num": 2307
   },
   {
     "word": "that",
@@ -37,7 +41,8 @@
     "translit": "(Touto)",
     "parse": "Demonstrative Pronoun - Nominative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "you",
@@ -45,7 +50,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "should be holy:",
@@ -53,7 +59,8 @@
     "translit": "(hagiasmos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 38:  ",
-    "str2": "From hagiazo; properly, purification, i.e. purity; concretely a purifier."
+    "str2": "From hagiazo; properly, purification, i.e. purity; concretely a purifier.",
+    "num": 38
   },
   {
     "word": "You",
@@ -61,7 +68,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "must abstain",
@@ -69,7 +77,8 @@
     "translit": "(apechesthai)",
     "parse": "Verb - Present Infinitive Middle",
     "str": "Strong's 568:  ",
-    "str2": "To have in full, be far, it is enough. From apo and echo; to have out, i.e. Receive in full; to keep away, i.e. Be distant."
+    "str2": "To have in full, be far, it is enough. From apo and echo; to have out, i.e. Receive in full; to keep away, i.e. Be distant.",
+    "num": 568
   },
   {
     "word": "from",
@@ -77,7 +86,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "sexual immorality;",
@@ -85,6 +95,7 @@
     "translit": "(porneias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4202:  ",
-    "str2": "Fornication, whoredom; met: idolatry. From porneuo; harlotry; figuratively, idolatry."
+    "str2": "Fornication, whoredom; met: idolatry. From porneuo; harlotry; figuratively, idolatry.",
+    "num": 4202
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(hōste)",
     "parse": "Conjunction",
     "str": "Strong's 5620:  ",
-    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore."
+    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore.",
+    "num": 5620
   },
   {
     "word": "you",
@@ -13,7 +14,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "have become",
@@ -21,7 +23,8 @@
     "translit": "(genesthai)",
     "parse": "Verb - Aorist Infinitive Middle",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "an example",
@@ -29,7 +32,8 @@
     "translit": "(typon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 5179:  ",
-    "str2": "From tupto; a die, i.e. a stamp or scar; by analogy, a shape, i.e. A statue, style or resemblance; specially, a sampler, i.e. A model or instance."
+    "str2": "From tupto; a die, i.e. a stamp or scar; by analogy, a shape, i.e. A statue, style or resemblance; specially, a sampler, i.e. A model or instance.",
+    "num": 5179
   },
   {
     "word": "to all",
@@ -37,7 +41,8 @@
     "translit": "(pasin)",
     "parse": "Adjective - Dative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "believers",
@@ -53,7 +59,8 @@
     "translit": "(pisteuousin)",
     "parse": "Verb - Present Participle Active - Dative Masculine Plural",
     "str": "Strong's 4100:  ",
-    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust."
+    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust.",
+    "num": 4100
   },
   {
     "word": "in",
@@ -61,7 +68,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "Macedonia",
@@ -69,7 +77,8 @@
     "translit": "(Makedonia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3109:  ",
-    "str2": "(Hebrew), Macedonia, a Roman province north of Achaia (Greece). From Makedon; Macedonia, a region of Greece."
+    "str2": "(Hebrew), Macedonia, a Roman province north of Achaia (Greece). From Makedon; Macedonia, a region of Greece.",
+    "num": 3109
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Achaia.",
@@ -85,6 +95,7 @@
     "translit": "(Achaia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 882:  ",
-    "str2": "Achaia, a country of Europe."
+    "str2": "Achaia, a country of Europe.",
+    "num": 882
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "be",
@@ -13,7 +14,8 @@
     "translit": "(tə·hî)",
     "parse": "Verb - Qal - Imperfect Jussive - second person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "one who gives pledges,",
@@ -21,7 +23,8 @@
     "translit": "(ḇə·ṯō·qə·‘ê-)",
     "parse": "Preposition-b | Verb - Qal - Participle - masculine plural construct",
     "str": "Strong's 8628:  ",
-    "str2": "To clatter, slap, clang, to drive, to become bondsman"
+    "str2": "To clatter, slap, clang, to drive, to become bondsman",
+    "num": 8628
   },
   {
     "word": "who puts up security",
@@ -29,7 +32,8 @@
     "translit": "(ba·‘ō·rə·ḇîm)",
     "parse": "Preposition-b, Article | Verb - Qal - Participle - masculine plural",
     "str": "Strong's 6148:  ",
-    "str2": "To braid, intermix, technically, to traffic, give to be security"
+    "str2": "To braid, intermix, technically, to traffic, give to be security",
+    "num": 6148
   },
   {
     "word": "for debts.",
@@ -37,6 +41,7 @@
     "translit": "(maš·šā·’ō·wṯ)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 4859:  ",
-    "str2": "A loan"
+    "str2": "A loan",
+    "num": 4859
   }
 ]

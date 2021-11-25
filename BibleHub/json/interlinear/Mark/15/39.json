@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "centurion",
@@ -21,7 +23,8 @@
     "translit": "(kentyriōn)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2760:  ",
-    "str2": "Of Latin origin; a centurion, i.e. Captain of one hundred soldiers."
+    "str2": "Of Latin origin; a centurion, i.e. Captain of one hundred soldiers.",
+    "num": 2760
   },
   {
     "word": "standing there",
@@ -29,7 +32,8 @@
     "translit": "(parestēkōs)",
     "parse": "Verb - Perfect Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3936:  ",
-    "str2": "Or prolonged paristano from para and histemi; to stand beside, i.e. to exhibit, proffer, recommend, substantiate; or to be at hand, aid."
+    "str2": "Or prolonged paristano from para and histemi; to stand beside, i.e. to exhibit, proffer, recommend, substantiate; or to be at hand, aid.",
+    "num": 3936
   },
   {
     "word": "in front of",
@@ -37,7 +41,8 @@
     "translit": "(enantias)",
     "parse": "Adjective - Genitive Feminine Singular",
     "str": "Strong's 1727:  ",
-    "str2": "Opposite, opposed, contrary; the adversary. From enanti; opposite; figuratively, antagonistic."
+    "str2": "Opposite, opposed, contrary; the adversary. From enanti; opposite; figuratively, antagonistic.",
+    "num": 1727
   },
   {
     "word": "[Jesus]",
@@ -45,7 +50,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "saw",
@@ -53,7 +59,8 @@
     "translit": "(Idōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "[how]",
@@ -61,7 +68,8 @@
     "translit": "(houtōs)",
     "parse": "Adverb",
     "str": "Strong's 3779:  ",
-    "str2": "Thus, so, in this manner. Or (referring to what precedes or follows)."
+    "str2": "Thus, so, in this manner. Or (referring to what precedes or follows).",
+    "num": 3779
   },
   {
     "word": "He had breathed His last,",
@@ -69,7 +77,8 @@
     "translit": "(exepneusen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1606:  ",
-    "str2": "(lit: I breathe out), I breathe my last, expire. From ek and pneo; to expire."
+    "str2": "(lit: I breathe out), I breathe my last, expire. From ek and pneo; to expire.",
+    "num": 1606
   },
   {
     "word": "he said,",
@@ -77,7 +86,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“Truly",
@@ -85,7 +95,8 @@
     "translit": "(Alēthōs)",
     "parse": "Adverb",
     "str": "Strong's 230:  ",
-    "str2": "Truly, really, certainly, surely. Adverb from alethes; truly."
+    "str2": "Truly, really, certainly, surely. Adverb from alethes; truly.",
+    "num": 230
   },
   {
     "word": "this",
@@ -93,7 +104,8 @@
     "translit": "(houtos)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "man",
@@ -101,7 +113,8 @@
     "translit": "(anthrōpos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "was",
@@ -109,7 +122,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "[the] Son",
@@ -117,7 +131,8 @@
     "translit": "(Huios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   },
   {
     "word": "of God!”",
@@ -125,6 +140,7 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

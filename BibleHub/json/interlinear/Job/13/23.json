@@ -5,7 +5,8 @@
     "translit": "(kam·māh)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "[are] my",
@@ -13,7 +14,8 @@
     "translit": "(lî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "iniquities",
@@ -21,7 +23,8 @@
     "translit": "(‘ă·wō·nō·wṯ)",
     "parse": "Noun - common plural",
     "str": "Strong's 5771:  ",
-    "str2": "Iniquity, guilt, punishment for iniquity"
+    "str2": "Iniquity, guilt, punishment for iniquity",
+    "num": 5771
   },
   {
     "word": "and sins?",
@@ -29,7 +32,8 @@
     "translit": "(wə·ḥaṭ·ṭā·’ō·wṯ)",
     "parse": "Conjunctive waw | Noun - feminine plural",
     "str": "Strong's 2403:  ",
-    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender"
+    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender",
+    "num": 2403
   },
   {
     "word": "Reveal to me",
@@ -37,7 +41,8 @@
     "translit": "(hō·ḏî·‘ê·nî)",
     "parse": "Verb - Hifil - Imperative - masculine singular | first person common singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "my transgression",
@@ -45,7 +50,8 @@
     "translit": "(piš·‘î)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 6588:  ",
-    "str2": "Transgression"
+    "str2": "Transgression",
+    "num": 6588
   },
   {
     "word": "and sin.",
@@ -53,6 +59,7 @@
     "translit": "(wə·ḥaṭ·ṭā·ṯî)",
     "parse": "Conjunctive waw | Noun - feminine singular construct | first person common singular",
     "str": "Strong's 2403:  ",
-    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender"
+    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender",
+    "num": 2403
   }
 ]

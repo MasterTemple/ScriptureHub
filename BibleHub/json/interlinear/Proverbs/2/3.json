@@ -5,7 +5,8 @@
     "translit": "(’im)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "truly",
@@ -13,7 +14,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "call out",
@@ -21,7 +23,8 @@
     "translit": "(ṯiq·rā)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 7121:  ",
-    "str2": "To call, proclaim, read"
+    "str2": "To call, proclaim, read",
+    "num": 7121
   },
   {
     "word": "to insight",
@@ -29,7 +32,8 @@
     "translit": "(lab·bî·nāh)",
     "parse": "Preposition-l, Article | Noun - feminine singular",
     "str": "Strong's 998:  ",
-    "str2": "An understanding"
+    "str2": "An understanding",
+    "num": 998
   },
   {
     "word": "and lift",
@@ -37,7 +41,8 @@
     "translit": "(tit·tên)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "your voice",
@@ -45,7 +50,8 @@
     "translit": "(qō·w·le·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 6963:  ",
-    "str2": "A voice, sound"
+    "str2": "A voice, sound",
+    "num": 6963
   },
   {
     "word": "to understanding,",
@@ -53,6 +59,7 @@
     "translit": "(lat·tə·ḇū·nāh)",
     "parse": "Preposition-l, Article | Noun - feminine singular",
     "str": "Strong's 8394:  ",
-    "str2": "Intelligence, an argument, caprice"
+    "str2": "Intelligence, an argument, caprice",
+    "num": 8394
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "let",
@@ -13,7 +14,8 @@
     "translit": "(estō)",
     "parse": "Verb - Present Imperative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "your",
@@ -21,7 +23,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "‘Yes’",
@@ -29,7 +32,8 @@
     "translit": "(Nai)",
     "parse": "Particle",
     "str": "Strong's 3483:  ",
-    "str2": "Yes, certainly, even so. A primary particle of strong affirmation; yes."
+    "str2": "Yes, certainly, even so. A primary particle of strong affirmation; yes.",
+    "num": 3483
   },
   {
     "word": "[be] ‘Yes,’",
@@ -37,7 +41,8 @@
     "translit": "(nai)",
     "parse": "Particle",
     "str": "Strong's 3483:  ",
-    "str2": "Yes, certainly, even so. A primary particle of strong affirmation; yes."
+    "str2": "Yes, certainly, even so. A primary particle of strong affirmation; yes.",
+    "num": 3483
   },
   {
     "word": "[and your] ‘No,’",
@@ -45,7 +50,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "‘No.’",
@@ -53,7 +59,8 @@
     "translit": "(Ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "Anything",
@@ -61,7 +68,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "more",
@@ -69,7 +77,8 @@
     "translit": "(perisson)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 4053:  ",
-    "str2": "From peri; superabundant or superior; by implication, excessive; adverbially violently; neuter preeminence."
+    "str2": "From peri; superabundant or superior; by implication, excessive; adverbially violently; neuter preeminence.",
+    "num": 4053
   },
   {
     "word": "comes",
@@ -77,7 +86,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "from",
@@ -85,7 +95,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "the",
@@ -93,7 +104,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "evil [one].",
@@ -101,6 +113,7 @@
     "translit": "(ponērou)",
     "parse": "Adjective - Genitive Masculine Singular",
     "str": "Strong's 4190:  ",
-    "str2": "Evil, bad, wicked, malicious, slothful. "
+    "str2": "Evil, bad, wicked, malicious, slothful. ",
+    "num": 4190
   }
 ]

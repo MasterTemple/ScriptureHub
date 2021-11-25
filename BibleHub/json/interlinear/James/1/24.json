@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "after observing",
@@ -13,7 +14,8 @@
     "translit": "(katenoēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2657:  ",
-    "str2": "To take note of, perceive, consider carefully, discern, detect, make account of. From kata and noieo; to observe fully."
+    "str2": "To take note of, perceive, consider carefully, discern, detect, make account of. From kata and noieo; to observe fully.",
+    "num": 2657
   },
   {
     "word": "himself",
@@ -21,7 +23,8 @@
     "translit": "(heauton)",
     "parse": "Reflexive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   },
   {
     "word": "goes away",
@@ -29,7 +32,8 @@
     "translit": "(apelēlythen)",
     "parse": "Verb - Perfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 565:  ",
-    "str2": "From apo and erchomai; to go off, aside or behind, literally or figuratively."
+    "str2": "From apo and erchomai; to go off, aside or behind, literally or figuratively.",
+    "num": 565
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "immediately",
@@ -45,7 +50,8 @@
     "translit": "(eutheōs)",
     "parse": "Adverb",
     "str": "Strong's 2112:  ",
-    "str2": "Immediately, soon, at once. Adverb from euthus; directly, i.e. At once or soon."
+    "str2": "Immediately, soon, at once. Adverb from euthus; directly, i.e. At once or soon.",
+    "num": 2112
   },
   {
     "word": "forgets",
@@ -53,7 +59,8 @@
     "translit": "(epelatheto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1950:  ",
-    "str2": "To forget, neglect. Middle voice from epi and lanthano; to lose out of mind; by implication, to neglect."
+    "str2": "To forget, neglect. Middle voice from epi and lanthano; to lose out of mind; by implication, to neglect.",
+    "num": 1950
   },
   {
     "word": "what he [looks] like.",
@@ -61,6 +68,7 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   }
 ]

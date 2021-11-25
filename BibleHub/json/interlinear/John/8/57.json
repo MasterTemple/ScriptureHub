@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Jews",
@@ -21,7 +23,8 @@
     "translit": "(Ioudaioi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 2453:  ",
-    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah."
+    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah.",
+    "num": 2453
   },
   {
     "word": "said",
@@ -29,7 +32,8 @@
     "translit": "(Eipon)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "to",
@@ -37,7 +41,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "Him,",
@@ -45,7 +50,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“You are",
@@ -53,7 +59,8 @@
     "translit": "(echeis)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "not yet",
@@ -61,7 +68,8 @@
     "translit": "(oupō)",
     "parse": "Adverb",
     "str": "Strong's 3768:  ",
-    "str2": "Not yet. From ou and po; not yet."
+    "str2": "Not yet. From ou and po; not yet.",
+    "num": 3768
   },
   {
     "word": "fifty",
@@ -69,7 +77,8 @@
     "translit": "(Pentēkonta)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 4004:  ",
-    "str2": "Fifty. Multiplicative of pente; fifty."
+    "str2": "Fifty. Multiplicative of pente; fifty.",
+    "num": 4004
   },
   {
     "word": "years [old],",
@@ -77,7 +86,8 @@
     "translit": "(etē)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 2094:  ",
-    "str2": "A year. Apparently a primary word; a year."
+    "str2": "A year. Apparently a primary word; a year.",
+    "num": 2094
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "You have seen",
@@ -93,7 +104,8 @@
     "translit": "(heōrakas)",
     "parse": "Verb - Perfect Indicative Active - 2nd Person Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "Abraham?”",
@@ -101,6 +113,7 @@
     "translit": "(Abraam)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 11:  ",
-    "str2": "Abraham, progenitor of the Hebrew race. Of Hebrew origin; Abraham, the Hebrew patriarch."
+    "str2": "Abraham, progenitor of the Hebrew race. Of Hebrew origin; Abraham, the Hebrew patriarch.",
+    "num": 11
   }
 ]

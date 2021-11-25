@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "when",
@@ -13,7 +14,8 @@
     "translit": "(hote)",
     "parse": "Adverb",
     "str": "Strong's 3753:  ",
-    "str2": "When, at which time. From hos and te; at which too, i.e. When."
+    "str2": "When, at which time. From hos and te; at which too, i.e. When.",
+    "num": 3753
   },
   {
     "word": "[the Lamb] opened",
@@ -21,7 +23,8 @@
     "translit": "(ēnoixen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 455:  ",
-    "str2": "To open. From ana and oigo; to open up."
+    "str2": "To open. From ana and oigo; to open up.",
+    "num": 455
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "fourth",
@@ -37,7 +41,8 @@
     "translit": "(tetartēn)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 5067:  ",
-    "str2": "Fourth. Ordinal from tessares; fourth."
+    "str2": "Fourth. Ordinal from tessares; fourth.",
+    "num": 5067
   },
   {
     "word": "seal,",
@@ -45,7 +50,8 @@
     "translit": "(sphragida)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4973:  ",
-    "str2": "Probably strengthened from phrasso; a signet; by implication, the stamp impressed, literally or figuratively."
+    "str2": "Probably strengthened from phrasso; a signet; by implication, the stamp impressed, literally or figuratively.",
+    "num": 4973
   },
   {
     "word": "I heard",
@@ -53,7 +59,8 @@
     "translit": "(ēkousa)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "[the] voice",
@@ -61,7 +68,8 @@
     "translit": "(phōnēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5456:  ",
-    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language."
+    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language.",
+    "num": 5456
   },
   {
     "word": "of the",
@@ -69,7 +77,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "fourth",
@@ -77,7 +86,8 @@
     "translit": "(tetartou)",
     "parse": "Adjective - Genitive Neuter Singular",
     "str": "Strong's 5067:  ",
-    "str2": "Fourth. Ordinal from tessares; fourth."
+    "str2": "Fourth. Ordinal from tessares; fourth.",
+    "num": 5067
   },
   {
     "word": "living creature",
@@ -85,7 +95,8 @@
     "translit": "(zōou)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 2226:  ",
-    "str2": "An animal, living creature. Neuter of a derivative of zao; a live thing, i.e. An animal."
+    "str2": "An animal, living creature. Neuter of a derivative of zao; a live thing, i.e. An animal.",
+    "num": 2226
   },
   {
     "word": "say,",
@@ -93,7 +104,8 @@
     "translit": "(legontos)",
     "parse": "Verb - Present Participle Active - Genitive Neuter Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“Come!”",
@@ -101,6 +113,7 @@
     "translit": "(Erchou)",
     "parse": "Verb - Present Imperative Middle or Passive - 2nd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   }
 ]

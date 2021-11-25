@@ -5,7 +5,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "to",
@@ -13,7 +14,8 @@
     "translit": "(‘aḏ)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "this",
@@ -21,7 +23,8 @@
     "translit": "(haz·zeh)",
     "parse": "Article | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "day,",
@@ -29,7 +32,8 @@
     "translit": "(hay·yō·wm)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "the priests",
@@ -37,7 +41,8 @@
     "translit": "(ḵō·hă·nê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 3548:  ",
-    "str2": "Priest"
+    "str2": "Priest",
+    "num": 3548
   },
   {
     "word": "of Dagon",
@@ -45,7 +50,8 @@
     "translit": "(ḏā·ḡō·wn)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 1712:  ",
-    "str2": "Dagon -- a god and an idol of the Philistines"
+    "str2": "Dagon -- a god and an idol of the Philistines",
+    "num": 1712
   },
   {
     "word": "and everyone",
@@ -53,7 +59,8 @@
     "translit": "(wə·ḵāl)",
     "parse": "Conjunctive waw | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "who enters",
@@ -61,7 +68,8 @@
     "translit": "(hab·bā·’îm)",
     "parse": "Article | Verb - Qal - Participle - masculine plural",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "the temple",
@@ -69,7 +77,8 @@
     "translit": "(bêṯ-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "of Dagon",
@@ -77,7 +86,8 @@
     "translit": "(dā·ḡō·wn)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 1712:  ",
-    "str2": "Dagon -- a god and an idol of the Philistines"
+    "str2": "Dagon -- a god and an idol of the Philistines",
+    "num": 1712
   },
   {
     "word": "in Ashdod",
@@ -85,7 +95,8 @@
     "translit": "(bə·’aš·dō·wḏ)",
     "parse": "Preposition-b | Noun - proper - feminine singular",
     "str": "Strong's 795:  ",
-    "str2": "Ashdod -- a city of the Philistines"
+    "str2": "Ashdod -- a city of the Philistines",
+    "num": 795
   },
   {
     "word": "do not",
@@ -93,7 +104,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "step",
@@ -101,7 +113,8 @@
     "translit": "(yiḏ·rə·ḵū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 1869:  ",
-    "str2": "To tread, to walk, to string a, bow"
+    "str2": "To tread, to walk, to string a, bow",
+    "num": 1869
   },
   {
     "word": "on",
@@ -109,7 +122,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the threshold.",
@@ -117,6 +131,7 @@
     "translit": "(mip̄·tan)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4670:  ",
-    "str2": "A stretcher, a sill"
+    "str2": "A stretcher, a sill",
+    "num": 4670
   }
 ]

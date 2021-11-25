@@ -5,7 +5,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "the hosts",
@@ -13,7 +14,8 @@
     "translit": "(ṣə·ḇā)",
     "parse": "Noun - common singular construct",
     "str": "Strong's 6635:  ",
-    "str2": "A mass of persons, reg, organized for, war, a campaign"
+    "str2": "A mass of persons, reg, organized for, war, a campaign",
+    "num": 6635
   },
   {
     "word": "of heaven",
@@ -21,7 +23,8 @@
     "translit": "(haš·šā·ma·yim)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 8064:  ",
-    "str2": "Heaven, sky"
+    "str2": "Heaven, sky",
+    "num": 8064
   },
   {
     "word": "cannot",
@@ -29,7 +32,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "be counted",
@@ -37,7 +41,8 @@
     "translit": "(yis·sā·p̄êr)",
     "parse": "Verb - Nifal - Imperfect - third person masculine singular",
     "str": "Strong's 5608:  ",
-    "str2": "To count, recount, relate"
+    "str2": "To count, recount, relate",
+    "num": 5608
   },
   {
     "word": "[and] the sand",
@@ -45,7 +50,8 @@
     "translit": "(ḥō·wl)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 2344:  ",
-    "str2": "Sand"
+    "str2": "Sand",
+    "num": 2344
   },
   {
     "word": "of the sea",
@@ -53,7 +59,8 @@
     "translit": "(hay·yām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3220:  ",
-    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin"
+    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin",
+    "num": 3220
   },
   {
     "word": "cannot",
@@ -61,7 +68,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "be measured,",
@@ -69,7 +77,8 @@
     "translit": "(yim·maḏ)",
     "parse": "Verb - Nifal - Imperfect - third person masculine singular",
     "str": "Strong's 4058:  ",
-    "str2": "To stretch, to measure, to be extended"
+    "str2": "To stretch, to measure, to be extended",
+    "num": 4058
   },
   {
     "word": "so too",
@@ -77,7 +86,8 @@
     "translit": "(kên)",
     "parse": "Adverb",
     "str": "Strong's 3651:  ",
-    "str2": "So -- thus"
+    "str2": "So -- thus",
+    "num": 3651
   },
   {
     "word": "will I multiply",
@@ -85,7 +95,8 @@
     "translit": "(’ar·beh)",
     "parse": "Verb - Hifil - Imperfect - first person common singular",
     "str": "Strong's 7235:  ",
-    "str2": "To be or become much, many or great"
+    "str2": "To be or become much, many or great",
+    "num": 7235
   },
   {
     "word": "the descendants",
@@ -93,7 +104,8 @@
     "translit": "(ze·ra‘)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 2233:  ",
-    "str2": "Seed, fruit, plant, sowing-time, posterity"
+    "str2": "Seed, fruit, plant, sowing-time, posterity",
+    "num": 2233
   },
   {
     "word": "of My servant",
@@ -101,7 +113,8 @@
     "translit": "(‘aḇ·dî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 5650:  ",
-    "str2": "Slave, servant"
+    "str2": "Slave, servant",
+    "num": 5650
   },
   {
     "word": "David",
@@ -109,7 +122,8 @@
     "translit": "(dā·wiḏ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 1732:  ",
-    "str2": "David -- perhaps 'beloved one', a son of Jesse"
+    "str2": "David -- perhaps 'beloved one', a son of Jesse",
+    "num": 1732
   },
   {
     "word": "and the Levites",
@@ -117,7 +131,8 @@
     "translit": "(hal·wî·yim)",
     "parse": "Article | Noun - proper - masculine plural",
     "str": "Strong's 3881:  ",
-    "str2": "Levites -- descendant of Levi"
+    "str2": "Levites -- descendant of Levi",
+    "num": 3881
   },
   {
     "word": "who minister",
@@ -125,7 +140,8 @@
     "translit": "(mə·šā·rə·ṯê)",
     "parse": "Verb - Piel - Participle - masculine plural construct",
     "str": "Strong's 8334:  ",
-    "str2": "To attend as a, menial, worshipper, to contribute to"
+    "str2": "To attend as a, menial, worshipper, to contribute to",
+    "num": 8334
   },
   {
     "word": "before Me.”",
@@ -133,6 +149,7 @@
     "translit": "(s)",
     "parse": "Punctuation",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(d’)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "whoever",
@@ -13,7 +14,8 @@
     "translit": "(hos)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "blasphemes",
@@ -21,7 +23,8 @@
     "translit": "(blasphēmēsē)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 987:  ",
-    "str2": "From blasphemos; to vilify; specially, to speak impiously."
+    "str2": "From blasphemos; to vilify; specially, to speak impiously.",
+    "num": 987
   },
   {
     "word": "against",
@@ -29,7 +32,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Holy",
@@ -45,7 +50,8 @@
     "translit": "(Hagion)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   },
   {
     "word": "Spirit",
@@ -53,7 +59,8 @@
     "translit": "(Pneuma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "{will} never",
@@ -61,7 +68,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "be",
@@ -69,7 +77,8 @@
     "translit": "(echei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "forgiven;",
@@ -77,7 +86,8 @@
     "translit": "(aphesin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 859:  ",
-    "str2": "A sending away, a letting go, a release, pardon, complete forgiveness. From aphiemi; freedom; pardon."
+    "str2": "A sending away, a letting go, a release, pardon, complete forgiveness. From aphiemi; freedom; pardon.",
+    "num": 859
   },
   {
     "word": "he is",
@@ -85,7 +95,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "guilty",
@@ -93,7 +104,8 @@
     "translit": "(enochos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1777:  ",
-    "str2": "Involved in, held in, hence: liable, generally with dat. (or gen.) of the punishment. From enecho; liable to."
+    "str2": "Involved in, held in, hence: liable, generally with dat. (or gen.) of the punishment. From enecho; liable to.",
+    "num": 1777
   },
   {
     "word": "[of] eternal",
@@ -101,7 +113,8 @@
     "translit": "(aiōniou)",
     "parse": "Adjective - Genitive Neuter Singular",
     "str": "Strong's 166:  ",
-    "str2": "From aion; perpetual."
+    "str2": "From aion; perpetual.",
+    "num": 166
   },
   {
     "word": "sin.”",
@@ -109,6 +122,7 @@
     "translit": "(hamartēmatos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 265:  ",
-    "str2": "A fault, sin, evil deed. From hamartano; a sin."
+    "str2": "A fault, sin, evil deed. From hamartano; a sin.",
+    "num": 265
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they sent",
@@ -13,7 +14,8 @@
     "translit": "(apostellousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 649:  ",
-    "str2": "From apo and stello; set apart, i.e. to send out literally or figuratively."
+    "str2": "From apo and stello; set apart, i.e. to send out literally or figuratively.",
+    "num": 649
   },
   {
     "word": "some",
@@ -21,7 +23,8 @@
     "translit": "(tinas)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Masculine Plural",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "of the",
@@ -29,7 +32,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Pharisees",
@@ -37,7 +41,8 @@
     "translit": "(Pharisaiōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 5330:  ",
-    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary."
+    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary.",
+    "num": 5330
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Herodians",
@@ -53,7 +59,8 @@
     "translit": "(Hērōdianōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 2265:  ",
-    "str2": "The Herodians, the partisans of Herod (Antipas). Plural of a derivative of Herodes; Herodians, i.e. Partisans of Herod."
+    "str2": "The Herodians, the partisans of Herod (Antipas). Plural of a derivative of Herodes; Herodians, i.e. Partisans of Herod.",
+    "num": 2265
   },
   {
     "word": "to",
@@ -61,7 +68,8 @@
     "translit": "(hina)",
     "parse": "Conjunction",
     "str": "Strong's 2443:  ",
-    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that."
+    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that.",
+    "num": 2443
   },
   {
     "word": "catch",
@@ -69,7 +77,8 @@
     "translit": "(agreusōsin)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Plural",
     "str": "Strong's 64:  ",
-    "str2": "To catch, capture. From agra; to hunt, i.e. to entrap."
+    "str2": "To catch, capture. From agra; to hunt, i.e. to entrap.",
+    "num": 64
   },
   {
     "word": "[Jesus]",
@@ -77,7 +86,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "in [His] words.",
@@ -85,6 +95,7 @@
     "translit": "(logō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   }
 ]

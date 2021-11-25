@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "he says,",
@@ -13,7 +14,8 @@
     "translit": "(yō·mar)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘Good,’",
@@ -21,7 +23,8 @@
     "translit": "(ṭō·wḇ)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 2896:  ",
-    "str2": "Pleasant, agreeable, good"
+    "str2": "Pleasant, agreeable, good",
+    "num": 2896
   },
   {
     "word": "then your servant",
@@ -29,7 +32,8 @@
     "translit": "(lə·‘aḇ·de·ḵā)",
     "parse": "Preposition-l | Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 5650:  ",
-    "str2": "Slave, servant"
+    "str2": "Slave, servant",
+    "num": 5650
   },
   {
     "word": "is safe,",
@@ -37,7 +41,8 @@
     "translit": "(šā·lō·wm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7965:  ",
-    "str2": "Safe, well, happy, friendly, welfare, health, prosperity, peace"
+    "str2": "Safe, well, happy, friendly, welfare, health, prosperity, peace",
+    "num": 7965
   },
   {
     "word": "but if",
@@ -45,7 +50,8 @@
     "translit": "(wə·’im-)",
     "parse": "Conjunctive waw | Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "he is enraged,",
@@ -53,7 +59,8 @@
     "translit": "(ḥā·rōh)",
     "parse": "Verb - Qal - Infinitive absolute",
     "str": "Strong's 2734:  ",
-    "str2": "To glow, grow warm, to blaze up, of anger, zeal, jealousy"
+    "str2": "To glow, grow warm, to blaze up, of anger, zeal, jealousy",
+    "num": 2734
   },
   {
     "word": "you will know",
@@ -61,7 +68,8 @@
     "translit": "(da‘)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "he has evil",
@@ -69,7 +77,8 @@
     "translit": "(hā·rā·‘āh)",
     "parse": "Article | Adjective - feminine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "intentions.",
@@ -77,6 +86,7 @@
     "translit": "(ḵā·lə·ṯāh)",
     "parse": "Verb - Qal - Perfect - third person feminine singular",
     "str": "Strong's 3615:  ",
-    "str2": "To be complete, at an end, finished, accomplished, or spent"
+    "str2": "To be complete, at an end, finished, accomplished, or spent",
+    "num": 3615
   }
 ]

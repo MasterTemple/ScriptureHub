@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "a trial will come!",
@@ -13,7 +14,8 @@
     "translit": "(ḇō·ḥan)",
     "parse": "Verb - Pual - Perfect - third person masculine singular",
     "str": "Strong's 974:  ",
-    "str2": "To test, to investigate"
+    "str2": "To test, to investigate",
+    "num": 974
   },
   {
     "word": "And what",
@@ -21,7 +23,8 @@
     "translit": "(ū·māh)",
     "parse": "Conjunctive waw | Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "if",
@@ -29,7 +32,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "even",
@@ -37,7 +41,8 @@
     "translit": "(gam-)",
     "parse": "Conjunction",
     "str": "Strong's 1571:  ",
-    "str2": "Assemblage, also, even, yea, though, both, and"
+    "str2": "Assemblage, also, even, yea, though, both, and",
+    "num": 1571
   },
   {
     "word": "the scepter,",
@@ -45,7 +50,8 @@
     "translit": "(šê·ḇeṭ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7626:  ",
-    "str2": "Rod, staff, club, scepter, tribe"
+    "str2": "Rod, staff, club, scepter, tribe",
+    "num": 7626
   },
   {
     "word": "[which the] [sword] despises,",
@@ -53,7 +59,8 @@
     "translit": "(mō·’e·seṯ)",
     "parse": "Verb - Qal - Participle - feminine singular",
     "str": "Strong's 3988:  ",
-    "str2": "To spurn, to disappear"
+    "str2": "To spurn, to disappear",
+    "num": 3988
   },
   {
     "word": "does not",
@@ -61,7 +68,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "continue?",
@@ -69,7 +77,8 @@
     "translit": "(yih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "declares",
@@ -77,7 +86,8 @@
     "translit": "(nə·’um)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 5002:  ",
-    "str2": "An oracle"
+    "str2": "An oracle",
+    "num": 5002
   },
   {
     "word": "the Lord",
@@ -85,7 +95,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD.",
@@ -93,6 +104,7 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   }
 ]

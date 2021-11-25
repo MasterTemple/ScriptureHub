@@ -5,7 +5,8 @@
     "translit": "(elēlytha)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "to call",
@@ -13,7 +14,8 @@
     "translit": "(kalesai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2564:  ",
-    "str2": "(a) I call, summon, invite, (b) I call, name. Akin to the base of keleuo; to 'call'."
+    "str2": "(a) I call, summon, invite, (b) I call, name. Akin to the base of keleuo; to 'call'.",
+    "num": 2564
   },
   {
     "word": "[the] righteous,",
@@ -21,7 +23,8 @@
     "translit": "(dikaious)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 1342:  ",
-    "str2": "From dike; equitable; by implication, innocent, holy."
+    "str2": "From dike; equitable; by implication, innocent, holy.",
+    "num": 1342
   },
   {
     "word": "but",
@@ -29,7 +32,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "sinners,",
@@ -37,7 +41,8 @@
     "translit": "(hamartōlous)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 268:  ",
-    "str2": "Sinning, sinful, depraved, detestable. From hamartano; sinful, i.e. A sinner."
+    "str2": "Sinning, sinful, depraved, detestable. From hamartano; sinful, i.e. A sinner.",
+    "num": 268
   },
   {
     "word": "to",
@@ -45,7 +50,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "repentance.”",
@@ -53,6 +59,7 @@
     "translit": "(metanoian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3341:  ",
-    "str2": "From metanoeo; compunction; by implication, reversal (another's) decision)."
+    "str2": "From metanoeo; compunction; by implication, reversal (another's) decision).",
+    "num": 3341
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "why",
@@ -13,7 +14,8 @@
     "translit": "(ti)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Neuter Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "{do} we",
@@ -21,7 +23,8 @@
     "translit": "(hēmeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "endanger ourselves",
@@ -29,7 +32,8 @@
     "translit": "(kindyneuomen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 2793:  ",
-    "str2": "To be in danger or peril. From kindunos; to undergo peril."
+    "str2": "To be in danger or peril. From kindunos; to undergo peril.",
+    "num": 2793
   },
   {
     "word": "every",
@@ -37,7 +41,8 @@
     "translit": "(pasan)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "hour?",
@@ -45,6 +50,7 @@
     "translit": "(hōran)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5610:  ",
-    "str2": "Apparently a primary word; an 'hour'."
+    "str2": "Apparently a primary word; an 'hour'.",
+    "num": 5610
   }
 ]

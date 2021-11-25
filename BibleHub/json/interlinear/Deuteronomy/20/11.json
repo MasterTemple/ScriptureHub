@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "they accept",
@@ -13,7 +14,8 @@
     "translit": "(ta·‘an·ḵā)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular | second person masculine singular",
     "str": "Strong's 6030:  ",
-    "str2": "To answer, respond"
+    "str2": "To answer, respond",
+    "num": 6030
   },
   {
     "word": "your offer of peace",
@@ -21,7 +23,8 @@
     "translit": "(šā·lō·wm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7965:  ",
-    "str2": "Safe, well, happy, friendly, welfare, health, prosperity, peace"
+    "str2": "Safe, well, happy, friendly, welfare, health, prosperity, peace",
+    "num": 7965
   },
   {
     "word": "and open [their gates],",
@@ -29,7 +32,8 @@
     "translit": "(ū·p̄ā·ṯə·ḥāh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person feminine singular",
     "str": "Strong's 6605:  ",
-    "str2": "To open wide, to loosen, begin, plough, carve"
+    "str2": "To open wide, to loosen, begin, plough, carve",
+    "num": 6605
   },
   {
     "word": "all",
@@ -37,7 +41,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the people",
@@ -45,7 +50,8 @@
     "translit": "(hā·‘ām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "[there]",
@@ -53,7 +59,8 @@
     "translit": "(han·nim·ṣā-)",
     "parse": "Article | Verb - Nifal - Participle - masculine singular",
     "str": "Strong's 4672:  ",
-    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present"
+    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present",
+    "num": 4672
   },
   {
     "word": "will become",
@@ -61,7 +68,8 @@
     "translit": "(wə·hā·yāh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "forced laborers",
@@ -69,7 +77,8 @@
     "translit": "(lā·mas)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 4522:  ",
-    "str2": "Body of forced laborers, forced service, taskworkers, taskwork, serfdom"
+    "str2": "Body of forced laborers, forced service, taskworkers, taskwork, serfdom",
+    "num": 4522
   },
   {
     "word": "to serve you.",
@@ -77,6 +86,7 @@
     "translit": "(wa·‘ă·ḇā·ḏū·ḵā)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person common plural | second person masculine singular",
     "str": "Strong's 5647:  ",
-    "str2": "To work, to serve, till, enslave"
+    "str2": "To work, to serve, till, enslave",
+    "num": 5647
   }
 ]

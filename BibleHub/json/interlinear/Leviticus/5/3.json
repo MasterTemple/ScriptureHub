@@ -5,7 +5,8 @@
     "translit": "(’ōw)",
     "parse": "Conjunction",
     "str": "Strong's 176:  ",
-    "str2": "Desire, if"
+    "str2": "Desire, if",
+    "num": 176
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ḵî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "he touches",
@@ -21,7 +23,8 @@
     "translit": "(yig·ga‘)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5060:  ",
-    "str2": "To touch, lay the hand upon, to reach, violently, to strike"
+    "str2": "To touch, lay the hand upon, to reach, violently, to strike",
+    "num": 5060
   },
   {
     "word": "human",
@@ -29,7 +32,8 @@
     "translit": "(’ā·ḏām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   },
   {
     "word": "uncleanness—",
@@ -37,7 +41,8 @@
     "translit": "(bə·ṭum·’aṯ)",
     "parse": "Preposition-b | Noun - feminine singular construct",
     "str": "Strong's 2932:  ",
-    "str2": "Religious impurity"
+    "str2": "Religious impurity",
+    "num": 2932
   },
   {
     "word": "anything",
@@ -45,7 +50,8 @@
     "translit": "(lə·ḵōl)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "by which",
@@ -53,7 +59,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "one becomes unclean—",
@@ -61,7 +68,8 @@
     "translit": "(yiṭ·mā)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 2930:  ",
-    "str2": "To be or become unclean"
+    "str2": "To be or become unclean",
+    "num": 2930
   },
   {
     "word": "even if he is unaware",
@@ -69,7 +77,8 @@
     "translit": "(wə·ne‘·lam)",
     "parse": "Conjunctive waw | Verb - Nifal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 5956:  ",
-    "str2": "To veil from sight, conceal"
+    "str2": "To veil from sight, conceal",
+    "num": 5956
   },
   {
     "word": "of it,",
@@ -77,7 +86,8 @@
     "translit": "(mim·men·nū)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "when he realizes it,",
@@ -85,7 +95,8 @@
     "translit": "(yā·ḏa‘)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "he is guilty.",
@@ -93,6 +104,7 @@
     "translit": "(wə·’ā·šêm)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 816:  ",
-    "str2": "To be guilty, to be punished, perish"
+    "str2": "To be guilty, to be punished, perish",
+    "num": 816
   }
 ]

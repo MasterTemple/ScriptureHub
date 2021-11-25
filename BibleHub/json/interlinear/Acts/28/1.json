@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "we were safely ashore,",
@@ -13,7 +14,8 @@
     "translit": "(diasōthentes)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Plural",
     "str": "Strong's 1295:  ",
-    "str2": "From dia and sozo; to save thoroughly, i.e. to cure, preserve, rescue, etc."
+    "str2": "From dia and sozo; to save thoroughly, i.e. to cure, preserve, rescue, etc.",
+    "num": 1295
   },
   {
     "word": "we learned",
@@ -21,7 +23,8 @@
     "translit": "(epegnōmen)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Plural",
     "str": "Strong's 1921:  ",
-    "str2": "From epi and ginosko; to know upon some mark, i.e. Recognize; by implication, to become fully acquainted with, to acknowledge."
+    "str2": "From epi and ginosko; to know upon some mark, i.e. Recognize; by implication, to become fully acquainted with, to acknowledge.",
+    "num": 1921
   },
   {
     "word": "that",
@@ -29,7 +32,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "island",
@@ -45,7 +50,8 @@
     "translit": "(nēsos)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3520:  ",
-    "str2": "An island. Probably from the base of naus; an island."
+    "str2": "An island. Probably from the base of naus; an island.",
+    "num": 3520
   },
   {
     "word": "was called",
@@ -53,7 +59,8 @@
     "translit": "(kaleitai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 2564:  ",
-    "str2": "(a) I call, summon, invite, (b) I call, name. Akin to the base of keleuo; to 'call'."
+    "str2": "(a) I call, summon, invite, (b) I call, name. Akin to the base of keleuo; to 'call'.",
+    "num": 2564
   },
   {
     "word": "Malta.",
@@ -61,6 +68,7 @@
     "translit": "(Melitē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3194:  ",
-    "str2": "Melita, now Malta. Of uncertain origin; Melita, an island in the Mediterranean."
+    "str2": "Melita, now Malta. Of uncertain origin; Melita, an island in the Mediterranean.",
+    "num": 3194
   }
 ]

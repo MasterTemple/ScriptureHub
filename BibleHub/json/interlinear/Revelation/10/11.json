@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they told",
@@ -13,7 +14,8 @@
     "translit": "(legousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "me,",
@@ -21,7 +23,8 @@
     "translit": "(moi)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "“You",
@@ -29,7 +32,8 @@
     "translit": "(se)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "must",
@@ -37,7 +41,8 @@
     "translit": "(Dei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1163:  ",
-    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary."
+    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary.",
+    "num": 1163
   },
   {
     "word": "prophesy",
@@ -45,7 +50,8 @@
     "translit": "(prophēteusai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 4395:  ",
-    "str2": "From prophetes; to foretell events, divine, speak under inspiration, exercise the prophetic office."
+    "str2": "From prophetes; to foretell events, divine, speak under inspiration, exercise the prophetic office.",
+    "num": 4395
   },
   {
     "word": "again",
@@ -53,7 +59,8 @@
     "translit": "(palin)",
     "parse": "Adverb",
     "str": "Strong's 3825:  ",
-    "str2": "Probably from the same as pale; anew, i.e. back, once more, or furthermore or on the other hand."
+    "str2": "Probably from the same as pale; anew, i.e. back, once more, or furthermore or on the other hand.",
+    "num": 3825
   },
   {
     "word": "about",
@@ -61,7 +68,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "many",
@@ -69,7 +77,8 @@
     "translit": "(pollois)",
     "parse": "Adjective - Dative Masculine Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "peoples",
@@ -77,7 +86,8 @@
     "translit": "(laois)",
     "parse": "Noun - Dative Masculine Plural",
     "str": "Strong's 2992:  ",
-    "str2": "Apparently a primary word; a people."
+    "str2": "Apparently a primary word; a people.",
+    "num": 2992
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "nations",
@@ -93,7 +104,8 @@
     "translit": "(ethnesin)",
     "parse": "Noun - Dative Neuter Plural",
     "str": "Strong's 1484:  ",
-    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one."
+    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one.",
+    "num": 1484
   },
   {
     "word": "and",
@@ -101,7 +113,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "tongues",
@@ -109,7 +122,8 @@
     "translit": "(glōssais)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 1100:  ",
-    "str2": "The tongue; by implication, a language."
+    "str2": "The tongue; by implication, a language.",
+    "num": 1100
   },
   {
     "word": "and",
@@ -117,7 +131,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "kings.”",
@@ -125,6 +140,7 @@
     "translit": "(basileusin)",
     "parse": "Noun - Dative Masculine Plural",
     "str": "Strong's 935:  ",
-    "str2": "A king, ruler, but in some passages clearly to be translated: emperor. Probably from basis; a sovereign."
+    "str2": "A king, ruler, but in some passages clearly to be translated: emperor. Probably from basis; a sovereign.",
+    "num": 935
   }
 ]

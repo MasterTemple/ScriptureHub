@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "having been made perfect,",
@@ -13,7 +14,8 @@
     "translit": "(teleiōtheis)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Singular",
     "str": "Strong's 5048:  ",
-    "str2": "From teleios; to complete, i.e. accomplish, or consummate."
+    "str2": "From teleios; to complete, i.e. accomplish, or consummate.",
+    "num": 5048
   },
   {
     "word": "He became",
@@ -21,7 +23,8 @@
     "translit": "(egeneto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "[the] source",
@@ -29,7 +32,8 @@
     "translit": "(aitios)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 159:  ",
-    "str2": "The cause, author; the culprit, the accused; the crime. From the same as aiteo; causative, i.e. a causer."
+    "str2": "The cause, author; the culprit, the accused; the crime. From the same as aiteo; causative, i.e. a causer.",
+    "num": 159
   },
   {
     "word": "of eternal",
@@ -37,7 +41,8 @@
     "translit": "(aiōniou)",
     "parse": "Adjective - Genitive Feminine Singular",
     "str": "Strong's 166:  ",
-    "str2": "From aion; perpetual."
+    "str2": "From aion; perpetual.",
+    "num": 166
   },
   {
     "word": "salvation",
@@ -45,7 +50,8 @@
     "translit": "(sōtērias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4991:  ",
-    "str2": "Feminine of a derivative of soter as noun; rescue or safety."
+    "str2": "Feminine of a derivative of soter as noun; rescue or safety.",
+    "num": 4991
   },
   {
     "word": "to all",
@@ -53,7 +59,8 @@
     "translit": "(pasin)",
     "parse": "Adjective - Dative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "who",
@@ -61,7 +68,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "obey",
@@ -69,7 +77,8 @@
     "translit": "(hypakouousin)",
     "parse": "Verb - Present Participle Active - Dative Masculine Plural",
     "str": "Strong's 5219:  ",
-    "str2": "From hupo and akouo; to hear under, i.e. To listen attentively; by implication, to heed or conform to a command or authority."
+    "str2": "From hupo and akouo; to hear under, i.e. To listen attentively; by implication, to heed or conform to a command or authority.",
+    "num": 5219
   },
   {
     "word": "Him",
@@ -77,6 +86,7 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

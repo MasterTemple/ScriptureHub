@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "who",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Vocative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "teach",
@@ -21,7 +23,8 @@
     "translit": "(didaskōn)",
     "parse": "Verb - Present Participle Active - Vocative Masculine Singular",
     "str": "Strong's 1321:  ",
-    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach."
+    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach.",
+    "num": 1321
   },
   {
     "word": "others,",
@@ -29,7 +32,8 @@
     "translit": "(heteron)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 2087:  ",
-    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different."
+    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different.",
+    "num": 2087
   },
   {
     "word": "do you not teach",
@@ -37,7 +41,8 @@
     "translit": "(didaskeis)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 1321:  ",
-    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach."
+    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach.",
+    "num": 1321
   },
   {
     "word": "yourself?",
@@ -45,7 +50,8 @@
     "translit": "(seauton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 2nd Person Singular",
     "str": "Strong's 4572:  ",
-    "str2": "Of yourself. "
+    "str2": "Of yourself. ",
+    "num": 4572
   },
   {
     "word": "You who",
@@ -53,7 +59,8 @@
     "translit": "(ho)",
     "parse": "Article - Vocative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "preach",
@@ -61,7 +68,8 @@
     "translit": "(kēryssōn)",
     "parse": "Verb - Present Participle Active - Vocative Masculine Singular",
     "str": "Strong's 2784:  ",
-    "str2": "To proclaim, herald, preach. Of uncertain affinity; to herald, especially divine truth."
+    "str2": "To proclaim, herald, preach. Of uncertain affinity; to herald, especially divine truth.",
+    "num": 2784
   },
   {
     "word": "against",
@@ -69,7 +77,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "stealing,",
@@ -77,7 +86,8 @@
     "translit": "(kleptein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2813:  ",
-    "str2": "To steal. A primary verb; to filch."
+    "str2": "To steal. A primary verb; to filch.",
+    "num": 2813
   },
   {
     "word": "do you steal?",
@@ -85,6 +95,7 @@
     "translit": "(klepteis)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 2813:  ",
-    "str2": "To steal. A primary verb; to filch."
+    "str2": "To steal. A primary verb; to filch.",
+    "num": 2813
   }
 ]

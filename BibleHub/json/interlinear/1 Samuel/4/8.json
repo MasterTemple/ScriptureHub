@@ -5,7 +5,8 @@
     "translit": "(’ō·w)",
     "parse": "Interjection",
     "str": "Strong's 188:  ",
-    "str2": "Lamentation, Oh!"
+    "str2": "Lamentation, Oh!",
+    "num": 188
   },
   {
     "word": "to us!",
@@ -13,7 +14,8 @@
     "translit": "(lā·nū)",
     "parse": "Preposition | first person common plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "Who",
@@ -21,7 +23,8 @@
     "translit": "(mî)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "will deliver us",
@@ -29,7 +32,8 @@
     "translit": "(yaṣ·ṣî·lê·nū)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular | first person common plural",
     "str": "Strong's 5337:  ",
-    "str2": "To strip, plunder, deliver oneself, be delivered, snatch away, deliver"
+    "str2": "To strip, plunder, deliver oneself, be delivered, snatch away, deliver",
+    "num": 5337
   },
   {
     "word": "from the hand",
@@ -37,7 +41,8 @@
     "translit": "(mî·yaḏ)",
     "parse": "Preposition-m | Noun - feminine singular construct",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "of these",
@@ -45,7 +50,8 @@
     "translit": "(hā·’êl·leh)",
     "parse": "Article | Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   },
   {
     "word": "mighty",
@@ -53,7 +59,8 @@
     "translit": "(hā·’ad·dî·rîm)",
     "parse": "Article | Adjective - masculine plural",
     "str": "Strong's 117:  ",
-    "str2": "Wide, large, powerful"
+    "str2": "Wide, large, powerful",
+    "num": 117
   },
   {
     "word": "gods?",
@@ -61,7 +68,8 @@
     "translit": "(hā·’ĕ·lō·hîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "These",
@@ -69,7 +77,8 @@
     "translit": "(’êl·leh)",
     "parse": "Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   },
   {
     "word": "are the gods",
@@ -77,7 +86,8 @@
     "translit": "(hā·’ĕ·lō·hîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "who struck",
@@ -85,7 +95,8 @@
     "translit": "(ham·mak·kîm)",
     "parse": "Article | Verb - Hifil - Participle - masculine plural",
     "str": "Strong's 5221:  ",
-    "str2": "To strike"
+    "str2": "To strike",
+    "num": 5221
   },
   {
     "word": "the Egyptians",
@@ -93,7 +104,8 @@
     "translit": "(miṣ·ra·yim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 4714:  ",
-    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa"
+    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+    "num": 4714
   },
   {
     "word": "with all kinds",
@@ -101,7 +113,8 @@
     "translit": "(bə·ḵāl)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "of plagues",
@@ -109,7 +122,8 @@
     "translit": "(mak·kāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 4347:  ",
-    "str2": "A wound, carnage, pestilence"
+    "str2": "A wound, carnage, pestilence",
+    "num": 4347
   },
   {
     "word": "in the wilderness.",
@@ -117,6 +131,7 @@
     "translit": "(bam·miḏ·bār)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 4057:  ",
-    "str2": "A pasture, a desert, speech"
+    "str2": "A pasture, a desert, speech",
+    "num": 4057
   }
 ]

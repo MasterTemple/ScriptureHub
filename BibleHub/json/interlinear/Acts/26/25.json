@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Paul",
@@ -13,7 +14,8 @@
     "translit": "(Paulos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3972:  ",
-    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle."
+    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle.",
+    "num": 3972
   },
   {
     "word": "answered",
@@ -21,7 +23,8 @@
     "translit": "(phēsin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 5346:  ",
-    "str2": "To say, declare. Properly, the same as the base of phos and phaino; to show or make known one's thoughts, i.e. Speak or say."
+    "str2": "To say, declare. Properly, the same as the base of phos and phaino; to show or make known one's thoughts, i.e. Speak or say.",
+    "num": 5346
   },
   {
     "word": "vvv,",
@@ -29,7 +32,8 @@
     "translit": "(Ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "“I am not insane,",
@@ -37,7 +41,8 @@
     "translit": "(mainomai)",
     "parse": "Verb - Present Indicative Middle or Passive - 1st Person Singular",
     "str": "Strong's 3105:  ",
-    "str2": "To be raving mad, speak as a madman. Middle voice from a primary mao; to rave as a 'maniac'."
+    "str2": "To be raving mad, speak as a madman. Middle voice from a primary mao; to rave as a 'maniac'.",
+    "num": 3105
   },
   {
     "word": "most excellent",
@@ -45,7 +50,8 @@
     "translit": "(Kratiste)",
     "parse": "Adjective - Vocative Masculine Singular - Superlative",
     "str": "Strong's 2903:  ",
-    "str2": "Superlative of a derivative of kratos; strongest, i.e. very honorable."
+    "str2": "Superlative of a derivative of kratos; strongest, i.e. very honorable.",
+    "num": 2903
   },
   {
     "word": "Festus;",
@@ -53,7 +59,8 @@
     "translit": "(Phēste)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 5347:  ",
-    "str2": "Festus. Of Latin derivation; festal; Phestus, a Roman."
+    "str2": "Festus. Of Latin derivation; festal; Phestus, a Roman.",
+    "num": 5347
   },
   {
     "word": "I am speaking",
@@ -61,7 +68,8 @@
     "translit": "(apophthengomai)",
     "parse": "Verb - Present Indicative Middle or Passive - 1st Person Singular",
     "str": "Strong's 669:  ",
-    "str2": "To speak out, declare. From apo and phtheggomai; to enunciate plainly, i.e. Declare."
+    "str2": "To speak out, declare. From apo and phtheggomai; to enunciate plainly, i.e. Declare.",
+    "num": 669
   },
   {
     "word": "words",
@@ -69,7 +77,8 @@
     "translit": "(rhēmata)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 4487:  ",
-    "str2": "From rheo; an utterance, ; by implication, a matter or topic; with a negative naught whatever."
+    "str2": "From rheo; an utterance, ; by implication, a matter or topic; with a negative naught whatever.",
+    "num": 4487
   },
   {
     "word": "of truth",
@@ -77,7 +86,8 @@
     "translit": "(alētheias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 225:  ",
-    "str2": "From alethes; truth."
+    "str2": "From alethes; truth.",
+    "num": 225
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "sobriety.",
@@ -93,6 +104,7 @@
     "translit": "(sōphrosynēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4997:  ",
-    "str2": "Soundness of mind, sanity; self-control, sobriety. From sophron; soundness of mind, i.e. sanity or self-control."
+    "str2": "Soundness of mind, sanity; self-control, sobriety. From sophron; soundness of mind, i.e. sanity or self-control.",
+    "num": 4997
   }
 ]

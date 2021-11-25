@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "reject",
@@ -13,7 +14,8 @@
     "translit": "(paraitou)",
     "parse": "Verb - Present Imperative Middle or Passive - 2nd Person Singular",
     "str": "Strong's 3868:  ",
-    "str2": "From para and the middle voice of aiteo; to beg off, i.e. Deprecate, decline, shun."
+    "str2": "From para and the middle voice of aiteo; to beg off, i.e. Deprecate, decline, shun.",
+    "num": 3868
   },
   {
     "word": "irreverent",
@@ -21,7 +23,8 @@
     "translit": "(bebēlous)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 952:  ",
-    "str2": "Permitted to be trodden, accessible. From the base of basis and belos; accessible, i.e. heathenish, wicked."
+    "str2": "Permitted to be trodden, accessible. From the base of basis and belos; accessible, i.e. heathenish, wicked.",
+    "num": 952
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "silly",
@@ -37,7 +41,8 @@
     "translit": "(graōdeis)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 1126:  ",
-    "str2": "Belonging to old women, such as old women tell. From graus and eidos; crone-like, i.e. Silly."
+    "str2": "Belonging to old women, such as old women tell. From graus and eidos; crone-like, i.e. Silly.",
+    "num": 1126
   },
   {
     "word": "myths.",
@@ -45,7 +50,8 @@
     "translit": "(mythous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 3454:  ",
-    "str2": "An idle tale, fable, fanciful story. Perhaps from the same as mueo; a tale, i.e. Fiction."
+    "str2": "An idle tale, fable, fanciful story. Perhaps from the same as mueo; a tale, i.e. Fiction.",
+    "num": 3454
   },
   {
     "word": "Instead,",
@@ -53,7 +59,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "train",
@@ -61,7 +68,8 @@
     "translit": "(gymnaze)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 1128:  ",
-    "str2": "To train by physical exercise; hence: train, in the widest sense. From gumnos; to practise naked, i.e. Train."
+    "str2": "To train by physical exercise; hence: train, in the widest sense. From gumnos; to practise naked, i.e. Train.",
+    "num": 1128
   },
   {
     "word": "yourself",
@@ -69,7 +77,8 @@
     "translit": "(seauton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 2nd Person Singular",
     "str": "Strong's 4572:  ",
-    "str2": "Of yourself. "
+    "str2": "Of yourself. ",
+    "num": 4572
   },
   {
     "word": "for",
@@ -77,7 +86,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "godliness.",
@@ -85,6 +95,7 @@
     "translit": "(eusebeian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2150:  ",
-    "str2": "Piety (towards God), godliness, devotion, godliness. From eusebes; piety; specially, the gospel scheme."
+    "str2": "Piety (towards God), godliness, devotion, godliness. From eusebes; piety; specially, the gospel scheme.",
+    "num": 2150
   }
 ]

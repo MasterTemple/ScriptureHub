@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "with",
@@ -13,7 +14,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the same",
@@ -21,7 +23,8 @@
     "translit": "(hō)",
     "parse": "Personal / Relative Pronoun - Dative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "judgment",
@@ -29,7 +32,8 @@
     "translit": "(krimati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 2917:  ",
-    "str2": "From krino; a decision ('crime')."
+    "str2": "From krino; a decision ('crime').",
+    "num": 2917
   },
   {
     "word": "you pronounce,",
@@ -37,7 +41,8 @@
     "translit": "(krinete)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 2919:  ",
-    "str2": "Properly, to distinguish, i.e. Decide; by implication, to try, condemn, punish."
+    "str2": "Properly, to distinguish, i.e. Decide; by implication, to try, condemn, punish.",
+    "num": 2919
   },
   {
     "word": "you will be judged;",
@@ -45,7 +50,8 @@
     "translit": "(krithēsesthe)",
     "parse": "Verb - Future Indicative Passive - 2nd Person Plural",
     "str": "Strong's 2919:  ",
-    "str2": "Properly, to distinguish, i.e. Decide; by implication, to try, condemn, punish."
+    "str2": "Properly, to distinguish, i.e. Decide; by implication, to try, condemn, punish.",
+    "num": 2919
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "with",
@@ -61,7 +68,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(hō)",
     "parse": "Personal / Relative Pronoun - Dative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "measure",
@@ -77,7 +86,8 @@
     "translit": "(metrō)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 3358:  ",
-    "str2": "An apparently primary word; a measure, literally or figuratively; by implication, a limited portion."
+    "str2": "An apparently primary word; a measure, literally or figuratively; by implication, a limited portion.",
+    "num": 3358
   },
   {
     "word": "you [use],",
@@ -85,7 +95,8 @@
     "translit": "(metreite)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 3354:  ",
-    "str2": "To measure (out), estimate. From metron; to measure; by implication, to admeasure."
+    "str2": "To measure (out), estimate. From metron; to measure; by implication, to admeasure.",
+    "num": 3354
   },
   {
     "word": "it will be measured",
@@ -93,7 +104,8 @@
     "translit": "(metrēthēsetai)",
     "parse": "Verb - Future Indicative Passive - 3rd Person Singular",
     "str": "Strong's 3354:  ",
-    "str2": "To measure (out), estimate. From metron; to measure; by implication, to admeasure."
+    "str2": "To measure (out), estimate. From metron; to measure; by implication, to admeasure.",
+    "num": 3354
   },
   {
     "word": "to you.",
@@ -101,6 +113,7 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

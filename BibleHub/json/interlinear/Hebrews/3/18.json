@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "to whom",
@@ -13,7 +14,8 @@
     "translit": "(tisin)",
     "parse": "Interrogative / Indefinite Pronoun - Dative Masculine Plural",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "did He swear [that they]",
@@ -21,7 +23,8 @@
     "translit": "(ōmosen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3660:  ",
-    "str2": "A prolonged form of a primary, but obsolete omo, for which another prolonged form omoo is used in certain tenses; to swear, i.e. Take oath."
+    "str2": "A prolonged form of a primary, but obsolete omo, for which another prolonged form omoo is used in certain tenses; to swear, i.e. Take oath.",
+    "num": 3660
   },
   {
     "word": "would never enter",
@@ -29,7 +32,8 @@
     "translit": "(eiseleusesthai)",
     "parse": "Verb - Future Infinitive Middle",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "His",
@@ -37,7 +41,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "rest?",
@@ -45,7 +50,8 @@
     "translit": "(katapausin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2663:  ",
-    "str2": "From katapauo; reposing down, i.e. abode."
+    "str2": "From katapauo; reposing down, i.e. abode.",
+    "num": 2663
   },
   {
     "word": "[Was it]",
@@ -53,7 +59,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "not",
@@ -61,7 +68,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "to those who",
@@ -69,7 +77,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "disobeyed?",
@@ -77,6 +86,7 @@
     "translit": "(apeithēsasin)",
     "parse": "Verb - Aorist Participle Active - Dative Masculine Plural",
     "str": "Strong's 544:  ",
-    "str2": "To disobey, rebel, be disloyal, refuse conformity. From apeithes; to disbelieve."
+    "str2": "To disobey, rebel, be disloyal, refuse conformity. From apeithes; to disbelieve.",
+    "num": 544
   }
 ]

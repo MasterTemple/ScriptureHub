@@ -5,7 +5,8 @@
     "translit": "(Kyrie)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "my",
@@ -13,7 +14,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "servant",
@@ -21,7 +23,8 @@
     "translit": "(pais)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3816:  ",
-    "str2": "Perhaps from paio; a boy, or, a girl, and a child; specially, a slave or servant."
+    "str2": "Perhaps from paio; a boy, or, a girl, and a child; specially, a slave or servant.",
+    "num": 3816
   },
   {
     "word": "lies",
@@ -29,7 +32,8 @@
     "translit": "(beblētai)",
     "parse": "Verb - Perfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 906:  ",
-    "str2": "(a) I cast, throw, rush, (b) often, in the weaker sense: I place, put, drop. A primary verb; to throw."
+    "str2": "(a) I cast, throw, rush, (b) often, in the weaker sense: I place, put, drop. A primary verb; to throw.",
+    "num": 906
   },
   {
     "word": "at",
@@ -37,7 +41,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "home,",
@@ -45,7 +50,8 @@
     "translit": "(oikia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3614:  ",
-    "str2": "From oikos; properly, residence, but usually an abode; by implication, a family."
+    "str2": "From oikos; properly, residence, but usually an abode; by implication, a family.",
+    "num": 3614
   },
   {
     "word": "paralyzed",
@@ -53,7 +59,8 @@
     "translit": "(paralytikos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3885:  ",
-    "str2": "Afflicted with paralysis. From a derivative of paraluo; as if dissolved, i.e. 'paralytic'."
+    "str2": "Afflicted with paralysis. From a derivative of paraluo; as if dissolved, i.e. 'paralytic'.",
+    "num": 3885
   },
   {
     "word": "[and] in terrible",
@@ -61,7 +68,8 @@
     "translit": "(deinōs)",
     "parse": "Adverb",
     "str": "Strong's 1171:  ",
-    "str2": "Vehemently, terribly, grievously. Adverb from a derivative of the same as deilos; terribly, i.e. Excessively."
+    "str2": "Vehemently, terribly, grievously. Adverb from a derivative of the same as deilos; terribly, i.e. Excessively.",
+    "num": 1171
   },
   {
     "word": "agony.”",
@@ -69,6 +77,7 @@
     "translit": "(basanizomenos)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Masculine Singular",
     "str": "Strong's 928:  ",
-    "str2": "To examine, as by torture; I torment; I buffet, as of waves. From basanos; to torture."
+    "str2": "To examine, as by torture; I torment; I buffet, as of waves. From basanos; to torture.",
+    "num": 928
   }
 ]

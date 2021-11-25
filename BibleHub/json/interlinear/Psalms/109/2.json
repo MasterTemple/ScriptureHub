@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "wicked",
@@ -13,7 +14,8 @@
     "translit": "(rā·šā‘)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 7563:  ",
-    "str2": "Wrong, an, bad person"
+    "str2": "Wrong, an, bad person",
+    "num": 7563
   },
   {
     "word": "and deceitful",
@@ -21,7 +23,8 @@
     "translit": "(mir·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 4820:  ",
-    "str2": "Deceit, treachery"
+    "str2": "Deceit, treachery",
+    "num": 4820
   },
   {
     "word": "mouths",
@@ -29,7 +32,8 @@
     "translit": "(p̄î)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 6310:  ",
-    "str2": "The mouth, edge, portion, side, according to"
+    "str2": "The mouth, edge, portion, side, according to",
+    "num": 6310
   },
   {
     "word": "open",
@@ -37,7 +41,8 @@
     "translit": "(pā·ṯā·ḥū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 6605:  ",
-    "str2": "To open wide, to loosen, begin, plough, carve"
+    "str2": "To open wide, to loosen, begin, plough, carve",
+    "num": 6605
   },
   {
     "word": "against me;",
@@ -45,7 +50,8 @@
     "translit": "(‘ā·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "they speak",
@@ -53,7 +59,8 @@
     "translit": "(dib·bə·rū)",
     "parse": "Verb - Piel - Perfect - third person common plural",
     "str": "Strong's 1696:  ",
-    "str2": "To arrange, to speak, to subdue"
+    "str2": "To arrange, to speak, to subdue",
+    "num": 1696
   },
   {
     "word": "against",
@@ -61,7 +68,8 @@
     "translit": "(’it·tî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 854:  ",
-    "str2": "Nearness, near, with, by, at, among"
+    "str2": "Nearness, near, with, by, at, among",
+    "num": 854
   },
   {
     "word": "me with lying",
@@ -69,7 +77,8 @@
     "translit": "(šā·qer)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 8267:  ",
-    "str2": "Deception, disappointment, falsehood"
+    "str2": "Deception, disappointment, falsehood",
+    "num": 8267
   },
   {
     "word": "tongues.",
@@ -77,6 +86,7 @@
     "translit": "(lə·šō·wn)",
     "parse": "Noun - common singular construct",
     "str": "Strong's 3956:  ",
-    "str2": "The tongue"
+    "str2": "The tongue",
+    "num": 3956
   }
 ]

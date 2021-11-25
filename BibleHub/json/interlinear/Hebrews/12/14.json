@@ -5,7 +5,8 @@
     "translit": "(diōkete)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 1377:  ",
-    "str2": "To pursue, hence: I persecute. A prolonged form of a primary verb dio; to pursue; by implication, to persecute."
+    "str2": "To pursue, hence: I persecute. A prolonged form of a primary verb dio; to pursue; by implication, to persecute.",
+    "num": 1377
   },
   {
     "word": "peace",
@@ -13,7 +14,8 @@
     "translit": "(Eirēnēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1515:  ",
-    "str2": "Probably from a primary verb eiro; peace; by implication, prosperity."
+    "str2": "Probably from a primary verb eiro; peace; by implication, prosperity.",
+    "num": 1515
   },
   {
     "word": "with",
@@ -21,7 +23,8 @@
     "translit": "(meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "all [men],",
@@ -29,7 +32,8 @@
     "translit": "(pantōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "as well as",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "holiness,",
@@ -45,7 +50,8 @@
     "translit": "(hagiasmon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 38:  ",
-    "str2": "From hagiazo; properly, purification, i.e. purity; concretely a purifier."
+    "str2": "From hagiazo; properly, purification, i.e. purity; concretely a purifier.",
+    "num": 38
   },
   {
     "word": "without",
@@ -53,7 +59,8 @@
     "translit": "(chōris)",
     "parse": "Preposition",
     "str": "Strong's 5565:  ",
-    "str2": "Apart from, separately from; without. Adverb from chora; at a space, i.e. Separately or apart from."
+    "str2": "Apart from, separately from; without. Adverb from chora; at a space, i.e. Separately or apart from.",
+    "num": 5565
   },
   {
     "word": "which",
@@ -61,7 +68,8 @@
     "translit": "(hou)",
     "parse": "Personal / Relative Pronoun - Genitive Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "no one",
@@ -69,7 +77,8 @@
     "translit": "(oudeis)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3762:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3762
   },
   {
     "word": "will see",
@@ -77,7 +86,8 @@
     "translit": "(opsetai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "the",
@@ -85,7 +95,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord.",
@@ -93,6 +104,7 @@
     "translit": "(Kyrion)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   }
 ]

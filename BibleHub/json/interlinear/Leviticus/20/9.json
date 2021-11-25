@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "anyone",
@@ -13,7 +14,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "curses",
@@ -21,7 +23,8 @@
     "translit": "(yə·qal·lêl)",
     "parse": "Verb - Piel - Imperfect - third person masculine singular",
     "str": "Strong's 7043:  ",
-    "str2": "To be slight, swift or trifling"
+    "str2": "To be slight, swift or trifling",
+    "num": 7043
   },
   {
     "word": "his father",
@@ -29,7 +32,8 @@
     "translit": "(’ā·ḇîw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "or mother,",
@@ -37,7 +41,8 @@
     "translit": "(’im·mōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "he must be put to death.",
@@ -45,7 +50,8 @@
     "translit": "(mō·wṯ)",
     "parse": "Verb - Qal - Infinitive absolute",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   },
   {
     "word": "He has cursed",
@@ -53,7 +59,8 @@
     "translit": "(qil·lêl)",
     "parse": "Verb - Piel - Perfect - third person masculine singular",
     "str": "Strong's 7043:  ",
-    "str2": "To be slight, swift or trifling"
+    "str2": "To be slight, swift or trifling",
+    "num": 7043
   },
   {
     "word": "his father",
@@ -61,7 +68,8 @@
     "translit": "(’ā·ḇîw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "or mother;",
@@ -69,7 +77,8 @@
     "translit": "(wə·’im·mōw)",
     "parse": "Conjunctive waw | Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "his blood",
@@ -77,7 +86,8 @@
     "translit": "(dā·māw)",
     "parse": "Noun - masculine plural construct | third person masculine singular",
     "str": "Strong's 1818:  ",
-    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed"
+    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed",
+    "num": 1818
   },
   {
     "word": "[shall be] upon him.",
@@ -85,6 +95,7 @@
     "translit": "(bōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

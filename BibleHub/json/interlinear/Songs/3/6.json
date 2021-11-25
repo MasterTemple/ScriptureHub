@@ -5,7 +5,8 @@
     "translit": "(mî)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "is this",
@@ -13,7 +14,8 @@
     "translit": "(zōṯ)",
     "parse": "Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "coming up",
@@ -21,7 +23,8 @@
     "translit": "(‘ō·lāh)",
     "parse": "Verb - Qal - Participle - feminine singular",
     "str": "Strong's 5927:  ",
-    "str2": "To ascend, in, actively"
+    "str2": "To ascend, in, actively",
+    "num": 5927
   },
   {
     "word": "from",
@@ -29,7 +32,8 @@
     "translit": "(min-)",
     "parse": "Preposition",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "the wilderness",
@@ -37,7 +41,8 @@
     "translit": "(ham·miḏ·bār)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4057:  ",
-    "str2": "A pasture, a desert, speech"
+    "str2": "A pasture, a desert, speech",
+    "num": 4057
   },
   {
     "word": "like a column",
@@ -45,7 +50,8 @@
     "translit": "(kə·ṯî·mă·rō·wṯ)",
     "parse": "Preposition-k | Noun - feminine plural construct",
     "str": "Strong's 8490:  ",
-    "str2": "(palm-like) column"
+    "str2": "(palm-like) column",
+    "num": 8490
   },
   {
     "word": "of smoke,",
@@ -53,7 +59,8 @@
     "translit": "(‘ā·šān)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6227:  ",
-    "str2": "Smoke"
+    "str2": "Smoke",
+    "num": 6227
   },
   {
     "word": "scented",
@@ -61,7 +68,8 @@
     "translit": "(mə·quṭ·ṭe·reṯ)",
     "parse": "Verb - Pual - Participle - feminine singular construct",
     "str": "Strong's 6999:  ",
-    "str2": "To smoke, turn into fragrance by fire"
+    "str2": "To smoke, turn into fragrance by fire",
+    "num": 6999
   },
   {
     "word": "with myrrh",
@@ -69,7 +77,8 @@
     "translit": "(mō·wr)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4753:  ",
-    "str2": "Myrrh"
+    "str2": "Myrrh",
+    "num": 4753
   },
   {
     "word": "and frankincense",
@@ -77,7 +86,8 @@
     "translit": "(ū·lə·ḇō·w·nāh)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 3828:  ",
-    "str2": "Frankincense"
+    "str2": "Frankincense",
+    "num": 3828
   },
   {
     "word": "from all",
@@ -85,7 +95,8 @@
     "translit": "(mik·kōl)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the spices",
@@ -93,7 +104,8 @@
     "translit": "(’aḇ·qaṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 81:  ",
-    "str2": "Light particles"
+    "str2": "Light particles",
+    "num": 81
   },
   {
     "word": "of the merchant?",
@@ -101,6 +113,7 @@
     "translit": "(rō·w·ḵêl)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 7402:  ",
-    "str2": "To travel for, trading"
+    "str2": "To travel for, trading",
+    "num": 7402
   }
 ]

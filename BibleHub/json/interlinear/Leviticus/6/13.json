@@ -5,7 +5,8 @@
     "translit": "(’êš)",
     "parse": "Noun - common singular",
     "str": "Strong's 784:  ",
-    "str2": "A fire"
+    "str2": "A fire",
+    "num": 784
   },
   {
     "word": "must be kept burning",
@@ -13,7 +14,8 @@
     "translit": "(tū·qaḏ)",
     "parse": "Verb - Hofal - Imperfect - third person feminine singular",
     "str": "Strong's 3344:  ",
-    "str2": "To be kindled, to burn"
+    "str2": "To be kindled, to burn",
+    "num": 3344
   },
   {
     "word": "on",
@@ -21,7 +23,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the altar",
@@ -29,7 +32,8 @@
     "translit": "(ham·miz·bê·aḥ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4196:  ",
-    "str2": "An altar"
+    "str2": "An altar",
+    "num": 4196
   },
   {
     "word": "continually;",
@@ -37,7 +41,8 @@
     "translit": "(tā·mîḏ)",
     "parse": "Adverb",
     "str": "Strong's 8548:  ",
-    "str2": "Continuance, constant, ellipt, the regular, sacrifice"
+    "str2": "Continuance, constant, ellipt, the regular, sacrifice",
+    "num": 8548
   },
   {
     "word": "it must not",
@@ -45,7 +50,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "be extinguished.",
@@ -53,6 +59,7 @@
     "translit": "(ṯiḵ·ḇeh)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 3518:  ",
-    "str2": "To be quenched or extinguished, to go out"
+    "str2": "To be quenched or extinguished, to go out",
+    "num": 3518
   }
 ]

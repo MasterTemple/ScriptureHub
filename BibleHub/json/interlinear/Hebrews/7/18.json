@@ -5,7 +5,8 @@
     "translit": "(men)",
     "parse": "Conjunction",
     "str": "Strong's 3303:  ",
-    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de."
+    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de.",
+    "num": 3303
   },
   {
     "word": "the former",
@@ -13,7 +14,8 @@
     "translit": "(proagousēs)",
     "parse": "Verb - Present Participle Active - Genitive Feminine Singular",
     "str": "Strong's 4254:  ",
-    "str2": "From pro and ago; to lead forward; intransitively, to precede (participle, previous)."
+    "str2": "From pro and ago; to lead forward; intransitively, to precede (participle, previous).",
+    "num": 4254
   },
   {
     "word": "commandment",
@@ -21,7 +23,8 @@
     "translit": "(entolēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1785:  ",
-    "str2": "An ordinance, injunction, command, law. From entellomai; injunction, i.e. An authoritative prescription."
+    "str2": "An ordinance, injunction, command, law. From entellomai; injunction, i.e. An authoritative prescription.",
+    "num": 1785
   },
   {
     "word": "is",
@@ -29,7 +32,8 @@
     "translit": "(ginetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "set aside",
@@ -37,7 +41,8 @@
     "translit": "(Athetēsis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 115:  ",
-    "str2": "Annulment, nullification, abrogation. From atheteo; cancellation."
+    "str2": "Annulment, nullification, abrogation. From atheteo; cancellation.",
+    "num": 115
   },
   {
     "word": "because",
@@ -45,7 +50,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "it [was]",
@@ -53,7 +59,8 @@
     "translit": "(autēs)",
     "parse": "Personal / Possessive Pronoun - Genitive Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "weak",
@@ -61,7 +68,8 @@
     "translit": "(asthenes)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 772:  ",
-    "str2": "(lit: not strong), (a) weak (physically, or morally), (b) infirm, sick. Strengthless."
+    "str2": "(lit: not strong), (a) weak (physically, or morally), (b) infirm, sick. Strengthless.",
+    "num": 772
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "useless",
@@ -77,6 +86,7 @@
     "translit": "(anōpheles)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 512:  ",
-    "str2": "Useless, unprofitable. Useless or inutility."
+    "str2": "Useless, unprofitable. Useless or inutility.",
+    "num": 512
   }
 ]

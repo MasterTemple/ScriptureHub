@@ -5,7 +5,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "feet",
@@ -13,7 +14,8 @@
     "translit": "(podes)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 4228:  ",
-    "str2": "The foot. A primary word; a 'foot'."
+    "str2": "The foot. A primary word; a 'foot'.",
+    "num": 4228
   },
   {
     "word": "[were] like",
@@ -21,7 +23,8 @@
     "translit": "(homoioi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3664:  ",
-    "str2": "Like, similar to, resembling, of equal rank. From the base of homou; similar."
+    "str2": "Like, similar to, resembling, of equal rank. From the base of homou; similar.",
+    "num": 3664
   },
   {
     "word": "polished bronze",
@@ -29,7 +32,8 @@
     "translit": "(chalkolibanō)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 5474:  ",
-    "str2": "Neuter of a compound of chalkos and libanos; burnished copper, an alloy of copper and silver having a brilliant lustre."
+    "str2": "Neuter of a compound of chalkos and libanos; burnished copper, an alloy of copper and silver having a brilliant lustre.",
+    "num": 5474
   },
   {
     "word": "refined",
@@ -37,7 +41,8 @@
     "translit": "(pepyrōmenēs)",
     "parse": "Verb - Perfect Participle Middle or Passive - Genitive Feminine Singular",
     "str": "Strong's 4448:  ",
-    "str2": "From pur; to kindle, i.e. to be ignited, glow, be refined, or to be inflamed."
+    "str2": "From pur; to kindle, i.e. to be ignited, glow, be refined, or to be inflamed.",
+    "num": 4448
   },
   {
     "word": "in",
@@ -45,7 +50,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "a furnace,",
@@ -53,7 +59,8 @@
     "translit": "(kaminō)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 2575:  ",
-    "str2": "A furnace, oven, kiln. Probably from kaio; a furnace."
+    "str2": "A furnace, oven, kiln. Probably from kaio; a furnace.",
+    "num": 2575
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "His",
@@ -69,7 +77,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "voice",
@@ -77,7 +86,8 @@
     "translit": "(phōnē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 5456:  ",
-    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language."
+    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language.",
+    "num": 5456
   },
   {
     "word": "[was] like",
@@ -85,7 +95,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "[the] roar",
@@ -93,7 +104,8 @@
     "translit": "(phōnē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 5456:  ",
-    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language."
+    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language.",
+    "num": 5456
   },
   {
     "word": "of many",
@@ -101,7 +113,8 @@
     "translit": "(pollōn)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "waters.",
@@ -109,6 +122,7 @@
     "translit": "(hydatōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 5204:  ",
-    "str2": "Water. And genitive case, hudatos, etc. From the base of huetos; water literally or figuratively."
+    "str2": "Water. And genitive case, hudatos, etc. From the base of huetos; water literally or figuratively.",
+    "num": 5204
   }
 ]

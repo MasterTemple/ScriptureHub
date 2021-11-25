@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "it [is]",
@@ -13,7 +14,8 @@
     "translit": "(hî)",
     "parse": "Pronoun - third person feminine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "a jubilee;",
@@ -21,7 +23,8 @@
     "translit": "(yō·w·ḇêl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3104:  ",
-    "str2": "A ram, ram's horn (a wind instrument)"
+    "str2": "A ram, ram's horn (a wind instrument)",
+    "num": 3104
   },
   {
     "word": "it shall be",
@@ -29,7 +32,8 @@
     "translit": "(tih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "holy",
@@ -37,7 +41,8 @@
     "translit": "(qō·ḏeš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6944:  ",
-    "str2": "A sacred place, thing, sanctity"
+    "str2": "A sacred place, thing, sanctity",
+    "num": 6944
   },
   {
     "word": "to you.",
@@ -45,7 +50,8 @@
     "translit": "(lā·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "You may eat only",
@@ -53,7 +59,8 @@
     "translit": "(tō·ḵə·lū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "the crops taken",
@@ -61,7 +68,8 @@
     "translit": "(tə·ḇū·’ā·ṯāh)",
     "parse": "Noun - feminine singular construct | third person feminine singular",
     "str": "Strong's 8393:  ",
-    "str2": "Product, revenue"
+    "str2": "Product, revenue",
+    "num": 8393
   },
   {
     "word": "directly from",
@@ -69,7 +77,8 @@
     "translit": "(min-)",
     "parse": "Preposition",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "the field.",
@@ -77,6 +86,7 @@
     "translit": "(haś·śā·ḏeh)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 7704:  ",
-    "str2": "Field, land"
+    "str2": "Field, land",
+    "num": 7704
   }
 ]

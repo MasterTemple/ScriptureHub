@@ -5,7 +5,8 @@
     "translit": "(All’)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "not",
@@ -13,7 +14,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "everyone",
@@ -21,7 +23,8 @@
     "translit": "(pasin)",
     "parse": "Adjective - Dative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "[has]",
@@ -29,7 +32,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "this",
@@ -37,7 +41,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "knowledge.",
@@ -45,7 +50,8 @@
     "translit": "(gnōsis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1108:  ",
-    "str2": "Knowledge, doctrine, wisdom. From ginosko; knowing, i.e. knowledge."
+    "str2": "Knowledge, doctrine, wisdom. From ginosko; knowing, i.e. knowledge.",
+    "num": 1108
   },
   {
     "word": "Some",
@@ -53,7 +59,8 @@
     "translit": "(tines)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Plural",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "[people]",
@@ -61,7 +68,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "are still so accustomed",
@@ -69,7 +77,8 @@
     "translit": "(synētheia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4914:  ",
-    "str2": "A custom, habit, practice. From a compound of sun and ethos; mutual habituation, i.e. Usage."
+    "str2": "A custom, habit, practice. From a compound of sun and ethos; mutual habituation, i.e. Usage.",
+    "num": 4914
   },
   {
     "word": "to idols",
@@ -77,7 +86,8 @@
     "translit": "(eidōlou)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 1497:  ",
-    "str2": "An idol, false god. From eidos; an image; by implication, a heathen god, or the worship of such."
+    "str2": "An idol, false god. From eidos; an image; by implication, a heathen god, or the worship of such.",
+    "num": 1497
   },
   {
     "word": "[that] they eat [such food]",
@@ -85,7 +95,8 @@
     "translit": "(esthiousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 2068:  ",
-    "str2": "Strengthened for a primary edo; used only in certain tenses, the rest being supplied by phago; to eat."
+    "str2": "Strengthened for a primary edo; used only in certain tenses, the rest being supplied by phago; to eat.",
+    "num": 2068
   },
   {
     "word": "as if",
@@ -93,7 +104,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "it were sacrificed to an idol.",
@@ -101,7 +113,8 @@
     "translit": "(eidōlothyton)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 1494:  ",
-    "str2": "Neuter of a compound of eidolon and a presumed derivative of thuo; an image-sacrifice, i.e. Part of an idolatrous offering."
+    "str2": "Neuter of a compound of eidolon and a presumed derivative of thuo; an image-sacrifice, i.e. Part of an idolatrous offering.",
+    "num": 1494
   },
   {
     "word": "And",
@@ -109,7 +122,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[since] their",
@@ -117,7 +131,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "conscience",
@@ -125,7 +140,8 @@
     "translit": "(syneidēsis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4893:  ",
-    "str2": "The conscience, a persisting notion. From a prolonged form of suneido; co-perception, i.e. Moral consciousness."
+    "str2": "The conscience, a persisting notion. From a prolonged form of suneido; co-perception, i.e. Moral consciousness.",
+    "num": 4893
   },
   {
     "word": "is",
@@ -133,7 +149,8 @@
     "translit": "(ousa)",
     "parse": "Verb - Present Participle Active - Nominative Feminine Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "weak,",
@@ -141,7 +158,8 @@
     "translit": "(asthenēs)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 772:  ",
-    "str2": "(lit: not strong), (a) weak (physically, or morally), (b) infirm, sick. Strengthless."
+    "str2": "(lit: not strong), (a) weak (physically, or morally), (b) infirm, sick. Strengthless.",
+    "num": 772
   },
   {
     "word": "it is defiled.",
@@ -149,6 +167,7 @@
     "translit": "(molynetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 3435:  ",
-    "str2": "To soil, stain, pollute, defile, lit. and met. Probably from melas; to soil."
+    "str2": "To soil, stain, pollute, defile, lit. and met. Probably from melas; to soil.",
+    "num": 3435
   }
 ]

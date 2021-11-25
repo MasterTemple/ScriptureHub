@@ -5,7 +5,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "gentleness",
@@ -13,7 +14,8 @@
     "translit": "(epieikes)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 1933:  ",
-    "str2": "Gentle, mild, forbearing, fair, reasonable, moderate. From epi and eiko; appropriate, i.e. mild."
+    "str2": "Gentle, mild, forbearing, fair, reasonable, moderate. From epi and eiko; appropriate, i.e. mild.",
+    "num": 1933
   },
   {
     "word": "be apparent",
@@ -21,7 +23,8 @@
     "translit": "(gnōsthētō)",
     "parse": "Verb - Aorist Imperative Passive - 3rd Person Singular",
     "str": "Strong's 1097:  ",
-    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications."
+    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications.",
+    "num": 1097
   },
   {
     "word": "to all.",
@@ -29,7 +32,8 @@
     "translit": "(pasin)",
     "parse": "Adjective - Dative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "The",
@@ -37,7 +41,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord",
@@ -45,7 +50,8 @@
     "translit": "(Kyrios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "[is] near.",
@@ -53,6 +59,7 @@
     "translit": "(engys)",
     "parse": "Adverb",
     "str": "Strong's 1451:  ",
-    "str2": "Near. From a primary verb agcho; near."
+    "str2": "Near. From a primary verb agcho; near.",
+    "num": 1451
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(polloi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "who",
@@ -13,7 +14,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "had believed",
@@ -21,7 +23,8 @@
     "translit": "(pepisteukotōn)",
     "parse": "Verb - Perfect Participle Active - Genitive Masculine Plural",
     "str": "Strong's 4100:  ",
-    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust."
+    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust.",
+    "num": 4100
   },
   {
     "word": "now",
@@ -29,7 +32,8 @@
     "translit": "(te)",
     "parse": "Conjunction",
     "str": "Strong's 5037:  ",
-    "str2": "And, both. A primary particle of connection or addition; both or also."
+    "str2": "And, both. A primary particle of connection or addition; both or also.",
+    "num": 5037
   },
   {
     "word": "came forward,",
@@ -37,7 +41,8 @@
     "translit": "(ērchonto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "confessing",
@@ -45,7 +50,8 @@
     "translit": "(exomologoumenoi)",
     "parse": "Verb - Present Participle Middle - Nominative Masculine Plural",
     "str": "Strong's 1843:  ",
-    "str2": "From ek and homologeo; to acknowledge or agree fully."
+    "str2": "From ek and homologeo; to acknowledge or agree fully.",
+    "num": 1843
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "disclosing",
@@ -61,7 +68,8 @@
     "translit": "(anangellontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 312:  ",
-    "str2": "To bring back word, report; I announce, declare. From ana and the base of aggelos; to announce."
+    "str2": "To bring back word, report; I announce, declare. From ana and the base of aggelos; to announce.",
+    "num": 312
   },
   {
     "word": "their",
@@ -69,7 +77,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "deeds.",
@@ -77,6 +86,7 @@
     "translit": "(praxeis)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 4234:  ",
-    "str2": "From prasso; practice, i.e. an act; by extension, a function."
+    "str2": "From prasso; practice, i.e. an act; by extension, a function.",
+    "num": 4234
   }
 ]

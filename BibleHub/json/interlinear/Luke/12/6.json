@@ -5,7 +5,8 @@
     "translit": "(Ouchi)",
     "parse": "IntPrtcl",
     "str": "Strong's 3780:  ",
-    "str2": "By no means, not at all. Intensive of ou; not indeed."
+    "str2": "By no means, not at all. Intensive of ou; not indeed.",
+    "num": 3780
   },
   {
     "word": "five",
@@ -13,7 +14,8 @@
     "translit": "(pente)",
     "parse": "Adjective - Nominative Neuter Plural",
     "str": "Strong's 4002:  ",
-    "str2": "Five. A primary number; 'five'."
+    "str2": "Five. A primary number; 'five'.",
+    "num": 4002
   },
   {
     "word": "sparrows",
@@ -21,7 +23,8 @@
     "translit": "(strouthia)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 4765:  ",
-    "str2": "A small bird, sparrow. Diminutive of strouthos; a little sparrow."
+    "str2": "A small bird, sparrow. Diminutive of strouthos; a little sparrow.",
+    "num": 4765
   },
   {
     "word": "sold",
@@ -29,7 +32,8 @@
     "translit": "(pōlountai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 4453:  ",
-    "str2": "To sell, exchange, barter. Probably ultimately from pelomai; to barter, i.e. To sell."
+    "str2": "To sell, exchange, barter. Probably ultimately from pelomai; to barter, i.e. To sell.",
+    "num": 4453
   },
   {
     "word": "for two",
@@ -37,7 +41,8 @@
     "translit": "(dyo)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 1417:  ",
-    "str2": "Two. A primary numeral; 'two'."
+    "str2": "Two. A primary numeral; 'two'.",
+    "num": 1417
   },
   {
     "word": "pennies?",
@@ -45,7 +50,8 @@
     "translit": "(assariōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 787:  ",
-    "str2": "A small coin equal to the tenth part of a drachma. Of Latin origin; an assarius or as, a Roman coin."
+    "str2": "A small coin equal to the tenth part of a drachma. Of Latin origin; an assarius or as, a Roman coin.",
+    "num": 787
   },
   {
     "word": "Yet",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "not",
@@ -61,7 +68,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "one",
@@ -69,7 +77,8 @@
     "translit": "(hen)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 1520:  ",
-    "str2": "One. (including the neuter Hen); a primary numeral; one."
+    "str2": "One. (including the neuter Hen); a primary numeral; one.",
+    "num": 1520
   },
   {
     "word": "of",
@@ -77,7 +86,8 @@
     "translit": "(ex)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "them",
@@ -85,7 +95,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Neuter 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "is",
@@ -93,7 +104,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "forgotten",
@@ -101,7 +113,8 @@
     "translit": "(epilelēsmenon)",
     "parse": "Verb - Perfect Participle Middle or Passive - Nominative Neuter Singular",
     "str": "Strong's 1950:  ",
-    "str2": "To forget, neglect. Middle voice from epi and lanthano; to lose out of mind; by implication, to neglect."
+    "str2": "To forget, neglect. Middle voice from epi and lanthano; to lose out of mind; by implication, to neglect.",
+    "num": 1950
   },
   {
     "word": "by",
@@ -109,7 +122,8 @@
     "translit": "(enōpion)",
     "parse": "Preposition",
     "str": "Strong's 1799:  ",
-    "str2": "Neuter of a compound of en and a derivative of optanomai; in the face of."
+    "str2": "Neuter of a compound of en and a derivative of optanomai; in the face of.",
+    "num": 1799
   },
   {
     "word": "God.",
@@ -117,6 +131,7 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "at that time",
@@ -13,7 +14,8 @@
     "translit": "(tote)",
     "parse": "Adverb",
     "str": "Strong's 5119:  ",
-    "str2": "Then, at that time. From ho and hote; the when, i.e. At the time that."
+    "str2": "Then, at that time. From ho and hote; the when, i.e. At the time that.",
+    "num": 5119
   },
   {
     "word": "there will be",
@@ -21,7 +23,8 @@
     "translit": "(estai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "great",
@@ -29,7 +32,8 @@
     "translit": "(megalē)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 3173:  ",
-    "str2": "Large, great, in the widest sense. "
+    "str2": "Large, great, in the widest sense. ",
+    "num": 3173
   },
   {
     "word": "tribulation,",
@@ -37,7 +41,8 @@
     "translit": "(thlipsis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2347:  ",
-    "str2": "Persecution, affliction, distress, tribulation. From thlibo; pressure."
+    "str2": "Persecution, affliction, distress, tribulation. From thlibo; pressure.",
+    "num": 2347
   },
   {
     "word": "unmatched",
@@ -45,7 +50,8 @@
     "translit": "(hoia)",
     "parse": "Personal / Relative Pronoun - Nominative Feminine Singular",
     "str": "Strong's 3634:  ",
-    "str2": "Probably akin to ho, hos, and hosos; such or what sort of; especially the neuter with negative, not so."
+    "str2": "Probably akin to ho, hos, and hosos; such or what sort of; especially the neuter with negative, not so.",
+    "num": 3634
   },
   {
     "word": "from",
@@ -53,7 +59,8 @@
     "translit": "(ap’)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "[the] beginning",
@@ -61,7 +68,8 @@
     "translit": "(archēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 746:  ",
-    "str2": "From archomai; a commencement, or chief."
+    "str2": "From archomai; a commencement, or chief.",
+    "num": 746
   },
   {
     "word": "of [the] world",
@@ -69,7 +77,8 @@
     "translit": "(kosmou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2889:  ",
-    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally)."
+    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally).",
+    "num": 2889
   },
   {
     "word": "until",
@@ -77,7 +86,8 @@
     "translit": "(heōs)",
     "parse": "Preposition",
     "str": "Strong's 2193:  ",
-    "str2": "A conjunction, preposition and adverb of continuance, until."
+    "str2": "A conjunction, preposition and adverb of continuance, until.",
+    "num": 2193
   },
   {
     "word": "now,",
@@ -85,7 +95,8 @@
     "translit": "(nyn)",
     "parse": "Adverb",
     "str": "Strong's 3568:  ",
-    "str2": "A primary particle of present time; 'now'; also as noun or adjective present or immediate."
+    "str2": "A primary particle of present time; 'now'; also as noun or adjective present or immediate.",
+    "num": 3568
   },
   {
     "word": "[and]",
@@ -93,7 +104,8 @@
     "translit": "(oud’)",
     "parse": "Conjunction",
     "str": "Strong's 3761:  ",
-    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even."
+    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even.",
+    "num": 3761
   },
   {
     "word": "never",
@@ -101,7 +113,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "to be [seen again].",
@@ -109,6 +122,7 @@
     "translit": "(genētai)",
     "parse": "Verb - Aorist Subjunctive Middle - 3rd Person Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   }
 ]

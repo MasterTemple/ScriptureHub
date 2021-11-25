@@ -5,7 +5,8 @@
     "translit": "(wə·’im-)",
     "parse": "Conjunctive waw | Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "he does not",
@@ -13,7 +14,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "provide",
@@ -21,7 +23,8 @@
     "translit": "(ya·‘ă·śeh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "her",
@@ -29,7 +32,8 @@
     "translit": "(lāh)",
     "parse": "Preposition | third person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "these",
@@ -37,7 +41,8 @@
     "translit": "(’êl·leh)",
     "parse": "Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   },
   {
     "word": "three things,",
@@ -45,7 +50,8 @@
     "translit": "(šə·lāš-)",
     "parse": "Number - feminine singular construct",
     "str": "Strong's 7969:  ",
-    "str2": "Three, third, thrice"
+    "str2": "Three, third, thrice",
+    "num": 7969
   },
   {
     "word": "she is free to go",
@@ -53,7 +59,8 @@
     "translit": "(wə·yā·ṣə·’āh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person feminine singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "without",
@@ -61,7 +68,8 @@
     "translit": "(’ên)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "monetary payment.",
@@ -69,6 +77,7 @@
     "translit": "(kā·sep̄)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3701:  ",
-    "str2": "Silver, money"
+    "str2": "Silver, money",
+    "num": 3701
   }
 ]

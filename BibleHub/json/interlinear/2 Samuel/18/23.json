@@ -5,7 +5,8 @@
     "translit": "(māh)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "I want to run!”",
@@ -13,7 +14,8 @@
     "translit": "(’ā·rūṣ)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 7323:  ",
-    "str2": "To run"
+    "str2": "To run",
+    "num": 7323
   },
   {
     "word": "he replied.",
@@ -21,7 +23,8 @@
     "translit": "(wî·hî-)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect Jussive - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "“Then run!”",
@@ -29,7 +32,8 @@
     "translit": "(rūṣ)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 7323:  ",
-    "str2": "To run"
+    "str2": "To run",
+    "num": 7323
   },
   {
     "word": "Joab told",
@@ -37,7 +41,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "him.",
@@ -45,7 +50,8 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "So Ahimaaz",
@@ -53,7 +59,8 @@
     "translit": "(’ă·ḥî·ma·‘aṣ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 290:  ",
-    "str2": "Ahimaaz -- 'my brother is wrath', two Israelites"
+    "str2": "Ahimaaz -- 'my brother is wrath', two Israelites",
+    "num": 290
   },
   {
     "word": "ran",
@@ -61,7 +68,8 @@
     "translit": "(way·yā·rāṣ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 7323:  ",
-    "str2": "To run"
+    "str2": "To run",
+    "num": 7323
   },
   {
     "word": "by way",
@@ -69,7 +77,8 @@
     "translit": "(de·reḵ)",
     "parse": "Noun - common singular construct",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   },
   {
     "word": "of the plain",
@@ -77,7 +86,8 @@
     "translit": "(hak·kik·kār)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 3603:  ",
-    "str2": "A round, a round district, a round loaf, a round weight, a talent (a measure of weight or money)"
+    "str2": "A round, a round district, a round loaf, a round weight, a talent (a measure of weight or money)",
+    "num": 3603
   },
   {
     "word": "and outran",
@@ -85,7 +95,8 @@
     "translit": "(way·ya·‘ă·ḇōr)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 5674:  ",
-    "str2": "To pass over, through, or by, pass on"
+    "str2": "To pass over, through, or by, pass on",
+    "num": 5674
   },
   {
     "word": "the Cushite.",
@@ -93,6 +104,7 @@
     "translit": "(hak·kū·šî)",
     "parse": "Article | Noun - proper - masculine singular",
     "str": "Strong's 3569:  ",
-    "str2": "Cushite -- descendant of Cush"
+    "str2": "Cushite -- descendant of Cush",
+    "num": 3569
   }
 ]

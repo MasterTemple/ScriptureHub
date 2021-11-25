@@ -5,7 +5,8 @@
     "translit": "(‘ă·wōn)",
     "parse": "Noun - common singular construct",
     "str": "Strong's 5771:  ",
-    "str2": "Iniquity, guilt, punishment for iniquity"
+    "str2": "Iniquity, guilt, punishment for iniquity",
+    "num": 5771
   },
   {
     "word": "of his fathers",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḇō·ṯāw)",
     "parse": "Noun - masculine plural construct | third person masculine singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "be remembered",
@@ -21,7 +23,8 @@
     "translit": "(yiz·zā·ḵêr)",
     "parse": "Verb - Nifal - Imperfect - third person masculine singular",
     "str": "Strong's 2142:  ",
-    "str2": "To mark, to remember, to mention,   to be male"
+    "str2": "To mark, to remember, to mention,   to be male",
+    "num": 2142
   },
   {
     "word": "before",
@@ -29,7 +32,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the LORD,",
@@ -37,7 +41,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "and the sin",
@@ -45,7 +50,8 @@
     "translit": "(wə·ḥaṭ·ṭaṯ)",
     "parse": "Conjunctive waw | Noun - feminine singular construct",
     "str": "Strong's 2403:  ",
-    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender"
+    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender",
+    "num": 2403
   },
   {
     "word": "of his mother",
@@ -53,7 +59,8 @@
     "translit": "(’im·mōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "never",
@@ -61,7 +68,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "be erased.",
@@ -69,6 +77,7 @@
     "translit": "(tim·māḥ)",
     "parse": "Verb - Nifal - Imperfect Jussive - third person feminine singular",
     "str": "Strong's 4229:  ",
-    "str2": "To stroke, rub, to erase, to smooth, grease, make fat, to touch, reach to"
+    "str2": "To stroke, rub, to erase, to smooth, grease, make fat, to touch, reach to",
+    "num": 4229
   }
 ]

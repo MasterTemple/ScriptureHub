@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "all",
@@ -13,7 +14,8 @@
     "translit": "(pantes)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "who",
@@ -21,7 +23,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "lived in",
@@ -29,7 +32,8 @@
     "translit": "(katoikountes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2730:  ",
-    "str2": "To dwell in, settle in, be established in (permanently), inhabit. From kata and oikeo; to house permanently, i.e. Reside."
+    "str2": "To dwell in, settle in, be established in (permanently), inhabit. From kata and oikeo; to house permanently, i.e. Reside.",
+    "num": 2730
   },
   {
     "word": "Lydda",
@@ -37,7 +41,8 @@
     "translit": "(Lydda)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3069:  ",
-    "str2": "Of Hebrew origin; Lydda, a place in Palestine."
+    "str2": "Of Hebrew origin; Lydda, a place in Palestine.",
+    "num": 3069
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Sharon",
@@ -53,7 +59,8 @@
     "translit": "(Sarōna)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 4565:  ",
-    "str2": "Sharon, the maritime plain between Carmel and Joppa. Of Hebrew origin; Saron, a district of Palestine."
+    "str2": "Sharon, the maritime plain between Carmel and Joppa. Of Hebrew origin; Saron, a district of Palestine.",
+    "num": 4565
   },
   {
     "word": "saw",
@@ -61,7 +68,8 @@
     "translit": "(eidan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "him",
@@ -69,7 +77,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "[and]",
@@ -77,7 +86,8 @@
     "translit": "(hoitines)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3748:  ",
-    "str2": "Whosoever, whichsoever, whatsoever. "
+    "str2": "Whosoever, whichsoever, whatsoever. ",
+    "num": 3748
   },
   {
     "word": "turned",
@@ -85,7 +95,8 @@
     "translit": "(epestrepsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1994:  ",
-    "str2": "From epi and strepho; to revert."
+    "str2": "From epi and strepho; to revert.",
+    "num": 1994
   },
   {
     "word": "to",
@@ -93,7 +104,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord.",
@@ -109,6 +122,7 @@
     "translit": "(Kyrion)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   }
 ]

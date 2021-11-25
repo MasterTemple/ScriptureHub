@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "when",
@@ -13,7 +14,8 @@
     "translit": "(hotan)",
     "parse": "Conjunction",
     "str": "Strong's 3752:  ",
-    "str2": "When, whenever. From hote and an; whenever; also causatively inasmuch as."
+    "str2": "When, whenever. From hote and an; whenever; also causatively inasmuch as.",
+    "num": 3752
   },
   {
     "word": "one [of you]",
@@ -21,7 +23,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "says,",
@@ -29,7 +32,8 @@
     "translit": "(legē)",
     "parse": "Verb - Present Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“I",
@@ -37,7 +41,8 @@
     "translit": "(Egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "[follow]",
@@ -45,7 +50,8 @@
     "translit": "(eimi)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "Paul,”",
@@ -53,7 +59,8 @@
     "translit": "(Paulou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3972:  ",
-    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle."
+    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle.",
+    "num": 3972
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "another,",
@@ -69,7 +77,8 @@
     "translit": "(heteros)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 2087:  ",
-    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different."
+    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different.",
+    "num": 2087
   },
   {
     "word": "“I",
@@ -77,7 +86,8 @@
     "translit": "(Egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "[follow] Apollos,”",
@@ -85,7 +95,8 @@
     "translit": "(Apollō)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 625:  ",
-    "str2": "Apollos, a Jew of Alexandria. Probably from the same as Apollonia; Apollos, an Israelite."
+    "str2": "Apollos, a Jew of Alexandria. Probably from the same as Apollonia; Apollos, an Israelite.",
+    "num": 625
   },
   {
     "word": "are you",
@@ -93,7 +104,8 @@
     "translit": "(este)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "not",
@@ -101,7 +113,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "mere men?",
@@ -109,6 +122,7 @@
     "translit": "(anthrōpoi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "the king’s",
@@ -13,7 +14,8 @@
     "translit": "(ham·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "anger",
@@ -21,7 +23,8 @@
     "translit": "(ḥă·maṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 2534:  ",
-    "str2": "Heat, anger, poison"
+    "str2": "Heat, anger, poison",
+    "num": 2534
   },
   {
     "word": "flares,",
@@ -29,7 +32,8 @@
     "translit": "(ta·‘ă·leh)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 5927:  ",
-    "str2": "To ascend, in, actively"
+    "str2": "To ascend, in, actively",
+    "num": 5927
   },
   {
     "word": "he may ask you,",
@@ -37,7 +41,8 @@
     "translit": "(wə·’ā·mar)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘Why",
@@ -45,7 +50,8 @@
     "translit": "(mad·dū·a‘)",
     "parse": "Interrogative",
     "str": "Strong's 4069:  ",
-    "str2": "Why? for what reason?"
+    "str2": "Why? for what reason?",
+    "num": 4069
   },
   {
     "word": "did you get so close",
@@ -53,7 +59,8 @@
     "translit": "(nig·gaš·tem)",
     "parse": "Verb - Nifal - Perfect - second person masculine plural",
     "str": "Strong's 5066:  ",
-    "str2": "To draw near, approach"
+    "str2": "To draw near, approach",
+    "num": 5066
   },
   {
     "word": "to",
@@ -61,7 +68,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the city",
@@ -69,7 +77,8 @@
     "translit": "(hā·‘îr)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "to fight?",
@@ -77,7 +86,8 @@
     "translit": "(lə·hil·lā·ḥêm)",
     "parse": "Preposition-l | Verb - Nifal - Infinitive construct",
     "str": "Strong's 3898:  ",
-    "str2": "To feed on, to consume, to battle"
+    "str2": "To feed on, to consume, to battle",
+    "num": 3898
   },
   {
     "word": "Did you not",
@@ -85,7 +95,8 @@
     "translit": "(hă·lō·w)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "realize",
@@ -93,7 +104,8 @@
     "translit": "(yə·ḏa‘·tem)",
     "parse": "Verb - Qal - Perfect - second person masculine plural",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "they would shoot",
@@ -101,7 +113,8 @@
     "translit": "(yō·rū)",
     "parse": "Verb - Hifil - Imperfect - third person masculine plural",
     "str": "Strong's 3384:  ",
-    "str2": "To flow as water, to lay, throw, to point out, to teach"
+    "str2": "To flow as water, to lay, throw, to point out, to teach",
+    "num": 3384
   },
   {
     "word": "from atop",
@@ -109,7 +122,8 @@
     "translit": "(mê·‘al)",
     "parse": "Preposition-m",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the wall?",
@@ -117,6 +131,7 @@
     "translit": "(ha·ḥō·w·māh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 2346:  ",
-    "str2": "A wall of protection"
+    "str2": "A wall of protection",
+    "num": 2346
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I",
@@ -13,7 +14,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "know",
@@ -21,7 +23,8 @@
     "translit": "(’ê·ḏā‘)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "my transgressions,",
@@ -29,7 +32,8 @@
     "translit": "(p̄ə·šā·‘ay)",
     "parse": "Noun - masculine plural construct | first person common singular",
     "str": "Strong's 6588:  ",
-    "str2": "Transgression"
+    "str2": "Transgression",
+    "num": 6588
   },
   {
     "word": "and my sin",
@@ -37,7 +41,8 @@
     "translit": "(wə·ḥaṭ·ṭā·ṯî)",
     "parse": "Conjunctive waw | Noun - feminine singular construct | first person common singular",
     "str": "Strong's 2403:  ",
-    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender"
+    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender",
+    "num": 2403
   },
   {
     "word": "is always",
@@ -45,7 +50,8 @@
     "translit": "(ṯā·mîḏ)",
     "parse": "Adverb",
     "str": "Strong's 8548:  ",
-    "str2": "Continuance, constant, ellipt, the regular, sacrifice"
+    "str2": "Continuance, constant, ellipt, the regular, sacrifice",
+    "num": 8548
   },
   {
     "word": "before me.",
@@ -53,6 +59,7 @@
     "translit": "(neḡ·dî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 5048:  ",
-    "str2": "A front, part opposite, a counterpart, mate, over against, before"
+    "str2": "A front, part opposite, a counterpart, mate, over against, before",
+    "num": 5048
   }
 ]

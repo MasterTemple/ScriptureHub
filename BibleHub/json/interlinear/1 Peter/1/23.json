@@ -5,7 +5,8 @@
     "translit": "(anagegennēmenoi)",
     "parse": "Verb - Perfect Participle Middle or Passive - Nominative Masculine Plural",
     "str": "Strong's 313:  ",
-    "str2": "To beget again, beget into a new life. From ana and gennao; to beget or bear."
+    "str2": "To beget again, beget into a new life. From ana and gennao; to beget or bear.",
+    "num": 313
   },
   {
     "word": "not",
@@ -13,7 +14,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "of",
@@ -21,7 +23,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "perishable",
@@ -29,7 +32,8 @@
     "translit": "(phthartēs)",
     "parse": "Adjective - Genitive Feminine Singular",
     "str": "Strong's 5349:  ",
-    "str2": "Corruptible, perishable. From phtheiro; decayed, i.e. perishable."
+    "str2": "Corruptible, perishable. From phtheiro; decayed, i.e. perishable.",
+    "num": 5349
   },
   {
     "word": "seed,",
@@ -37,7 +41,8 @@
     "translit": "(sporas)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4701:  ",
-    "str2": "Seed sown, a sowing. From speiro; a sowing, i.e. parentage."
+    "str2": "Seed sown, a sowing. From speiro; a sowing, i.e. parentage.",
+    "num": 4701
   },
   {
     "word": "but",
@@ -45,7 +50,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "of imperishable,",
@@ -53,7 +59,8 @@
     "translit": "(aphthartou)",
     "parse": "Adjective - Genitive Feminine Singular",
     "str": "Strong's 862:  ",
-    "str2": "Indestructible, imperishable, incorruptible; hence: immortal. Undecaying."
+    "str2": "Indestructible, imperishable, incorruptible; hence: immortal. Undecaying.",
+    "num": 862
   },
   {
     "word": "through",
@@ -61,7 +68,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "[the] living",
@@ -69,7 +77,8 @@
     "translit": "(zōntos)",
     "parse": "Verb - Present Participle Active - Genitive Masculine Singular",
     "str": "Strong's 2198:  ",
-    "str2": "To live, be alive. A primary verb; to live."
+    "str2": "To live, be alive. A primary verb; to live.",
+    "num": 2198
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "enduring",
@@ -85,7 +95,8 @@
     "translit": "(menontos)",
     "parse": "Verb - Present Participle Active - Genitive Masculine Singular",
     "str": "Strong's 3306:  ",
-    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay."
+    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay.",
+    "num": 3306
   },
   {
     "word": "word",
@@ -93,7 +104,8 @@
     "translit": "(logou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "of God.",
@@ -101,6 +113,7 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

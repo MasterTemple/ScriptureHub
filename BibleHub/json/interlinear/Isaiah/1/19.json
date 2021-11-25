@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you are willing",
@@ -13,7 +14,8 @@
     "translit": "(tō·ḇū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 14:  ",
-    "str2": "To breathe after, to be acquiescent"
+    "str2": "To breathe after, to be acquiescent",
+    "num": 14
   },
   {
     "word": "and obedient,",
@@ -21,7 +23,8 @@
     "translit": "(ū·šə·ma‘·tem)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - second person masculine plural",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "you will eat",
@@ -29,7 +32,8 @@
     "translit": "(tō·ḵê·lū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "the best",
@@ -37,7 +41,8 @@
     "translit": "(ṭūḇ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 2898:  ",
-    "str2": "Good, goodness, beauty, gladness, welfare"
+    "str2": "Good, goodness, beauty, gladness, welfare",
+    "num": 2898
   },
   {
     "word": "of the land.",
@@ -45,6 +50,7 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   }
 ]

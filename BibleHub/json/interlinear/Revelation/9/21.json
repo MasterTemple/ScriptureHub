@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they did not repent",
@@ -13,7 +14,8 @@
     "translit": "(metenoēsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 3340:  ",
-    "str2": "From meta and noieo; to think differently or afterwards, i.e. Reconsider."
+    "str2": "From meta and noieo; to think differently or afterwards, i.e. Reconsider.",
+    "num": 3340
   },
   {
     "word": "of",
@@ -21,7 +23,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "their",
@@ -29,7 +32,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "murder,",
@@ -37,7 +41,8 @@
     "translit": "(phonōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 5408:  ",
-    "str2": "Murder, slaughter, killing. From an obsolete primary pheno; murder."
+    "str2": "Murder, slaughter, killing. From an obsolete primary pheno; murder.",
+    "num": 5408
   },
   {
     "word": "sorcery,",
@@ -45,7 +50,8 @@
     "translit": "(pharmakōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 5333:  ",
-    "str2": "A magician, sorcerer. The same as pharmakeus."
+    "str2": "A magician, sorcerer. The same as pharmakeus.",
+    "num": 5333
   },
   {
     "word": "sexual immorality,",
@@ -53,7 +59,8 @@
     "translit": "(porneias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4202:  ",
-    "str2": "Fornication, whoredom; met: idolatry. From porneuo; harlotry; figuratively, idolatry."
+    "str2": "Fornication, whoredom; met: idolatry. From porneuo; harlotry; figuratively, idolatry.",
+    "num": 4202
   },
   {
     "word": "[and]",
@@ -61,7 +68,8 @@
     "translit": "(oute)",
     "parse": "Conjunction",
     "str": "Strong's 3777:  ",
-    "str2": "And not, neither, nor. From ou and te; not too, i.e. Neither or nor; by analogy, not even."
+    "str2": "And not, neither, nor. From ou and te; not too, i.e. Neither or nor; by analogy, not even.",
+    "num": 3777
   },
   {
     "word": "theft.",
@@ -69,6 +77,7 @@
     "translit": "(klemmatōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 2809:  ",
-    "str2": "A theft. From klepto; stealing."
+    "str2": "A theft. From klepto; stealing.",
+    "num": 2809
   }
 ]

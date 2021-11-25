@@ -5,7 +5,8 @@
     "translit": "(raq)",
     "parse": "Adverb",
     "str": "Strong's 7535:  ",
-    "str2": "But, even, except, howbeit howsoever, at the least, nevertheless"
+    "str2": "But, even, except, howbeit howsoever, at the least, nevertheless",
+    "num": 7535
   },
   {
     "word": "you must not",
@@ -13,7 +14,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "eat",
@@ -21,7 +23,8 @@
     "translit": "(ṯō·ḵê·lū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "the blood;",
@@ -29,7 +32,8 @@
     "translit": "(had·dām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1818:  ",
-    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed"
+    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed",
+    "num": 1818
   },
   {
     "word": "pour",
@@ -37,7 +41,8 @@
     "translit": "(tiš·pə·ḵen·nū)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular | third person masculine singular",
     "str": "Strong's 8210:  ",
-    "str2": "To spill forth, to expend, to sprawl out"
+    "str2": "To spill forth, to expend, to sprawl out",
+    "num": 8210
   },
   {
     "word": "it on",
@@ -45,7 +50,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the ground",
@@ -53,7 +59,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "like water.",
@@ -61,6 +68,7 @@
     "translit": "(kam·mā·yim)",
     "parse": "Preposition-k, Article | Noun - masculine plural",
     "str": "Strong's 4325:  ",
-    "str2": "Water, juice, urine, semen"
+    "str2": "Water, juice, urine, semen",
+    "num": 4325
   }
 ]

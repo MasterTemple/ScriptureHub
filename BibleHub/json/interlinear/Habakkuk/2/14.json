@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the earth",
@@ -13,7 +14,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "will be filled",
@@ -21,7 +23,8 @@
     "translit": "(tim·mā·lê)",
     "parse": "Verb - Nifal - Imperfect - third person feminine singular",
     "str": "Strong's 4390:  ",
-    "str2": "To fill, be full of"
+    "str2": "To fill, be full of",
+    "num": 4390
   },
   {
     "word": "with the knowledge",
@@ -29,7 +32,8 @@
     "translit": "(lā·ḏa·‘aṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "of",
@@ -37,7 +41,8 @@
     "translit": "(’eṯ-)",
     "parse": "Direct object marker",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "the glory",
@@ -45,7 +50,8 @@
     "translit": "(kə·ḇō·wḏ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3519:  ",
-    "str2": "Weight, splendor, copiousness"
+    "str2": "Weight, splendor, copiousness",
+    "num": 3519
   },
   {
     "word": "of the LORD",
@@ -53,7 +59,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "as the waters",
@@ -61,7 +68,8 @@
     "translit": "(kam·ma·yim)",
     "parse": "Preposition-k, Article | Noun - masculine plural",
     "str": "Strong's 4325:  ",
-    "str2": "Water, juice, urine, semen"
+    "str2": "Water, juice, urine, semen",
+    "num": 4325
   },
   {
     "word": "cover",
@@ -69,7 +77,8 @@
     "translit": "(yə·ḵas·sū)",
     "parse": "Verb - Piel - Imperfect - third person masculine plural",
     "str": "Strong's 3680:  ",
-    "str2": "To plump, fill up hollows, to cover"
+    "str2": "To plump, fill up hollows, to cover",
+    "num": 3680
   },
   {
     "word": "the sea.",
@@ -77,6 +86,7 @@
     "translit": "(yām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3220:  ",
-    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin"
+    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin",
+    "num": 3220
   }
 ]

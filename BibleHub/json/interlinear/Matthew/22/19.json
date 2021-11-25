@@ -5,7 +5,8 @@
     "translit": "(epideixate)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 1925:  ",
-    "str2": "To show, display, point out, indicate; I prove, demonstrate. From epi and deiknuo; to exhibit."
+    "str2": "To show, display, point out, indicate; I prove, demonstrate. From epi and deiknuo; to exhibit.",
+    "num": 1925
   },
   {
     "word": "Me",
@@ -13,7 +14,8 @@
     "translit": "(moi)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "coin",
@@ -29,7 +32,8 @@
     "translit": "(nomisma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3546:  ",
-    "str2": "Money, coin. From nomizo; what is reckoned as of value, i.e. Current coin."
+    "str2": "Money, coin. From nomizo; what is reckoned as of value, i.e. Current coin.",
+    "num": 3546
   },
   {
     "word": "used for",
@@ -37,7 +41,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "the tax.”",
@@ -45,7 +50,8 @@
     "translit": "(kēnsou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2778:  ",
-    "str2": "A poll-tax. Of Latin origin; properly, an enrollment, i.e. a tax."
+    "str2": "A poll-tax. Of Latin origin; properly, an enrollment, i.e. a tax.",
+    "num": 2778
   },
   {
     "word": "And",
@@ -53,7 +59,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "they brought",
@@ -61,7 +68,8 @@
     "translit": "(prosēnenkan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 4374:  ",
-    "str2": "From pros and phero; to bear towards, i.e. Lead to, tender, treat."
+    "str2": "From pros and phero; to bear towards, i.e. Lead to, tender, treat.",
+    "num": 4374
   },
   {
     "word": "Him",
@@ -69,7 +77,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "a denarius.",
@@ -77,6 +86,7 @@
     "translit": "(dēnarion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 1220:  ",
-    "str2": "A denarius, a small Roman silver coin. Of Latin origin; a denarius."
+    "str2": "A denarius, a small Roman silver coin. Of Latin origin; a denarius.",
+    "num": 1220
   }
 ]

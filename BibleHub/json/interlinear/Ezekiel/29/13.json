@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "this is what",
@@ -13,7 +14,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the Lord",
@@ -21,7 +23,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD",
@@ -29,7 +32,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "says:",
@@ -37,7 +41,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘At",
@@ -45,7 +50,8 @@
     "translit": "(min-)",
     "parse": "Preposition",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "the end",
@@ -53,7 +59,8 @@
     "translit": "(miq·qêṣ)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 7093:  ",
-    "str2": "An extremity, after"
+    "str2": "An extremity, after",
+    "num": 7093
   },
   {
     "word": "of forty",
@@ -61,7 +68,8 @@
     "translit": "(’ar·bā·‘îm)",
     "parse": "Number - common plural",
     "str": "Strong's 705:  ",
-    "str2": "Forty"
+    "str2": "Forty",
+    "num": 705
   },
   {
     "word": "years",
@@ -69,7 +77,8 @@
     "translit": "(šā·nāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "I will gather",
@@ -77,7 +86,8 @@
     "translit": "(’ă·qab·bêṣ)",
     "parse": "Verb - Piel - Imperfect - first person common singular",
     "str": "Strong's 6908:  ",
-    "str2": "To gather, collect"
+    "str2": "To gather, collect",
+    "num": 6908
   },
   {
     "word": "the Egyptians",
@@ -85,7 +95,8 @@
     "translit": "(miṣ·ra·yim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 4714:  ",
-    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa"
+    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+    "num": 4714
   },
   {
     "word": "from the nations",
@@ -93,7 +104,8 @@
     "translit": "(hā·‘am·mîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "to which",
@@ -101,7 +113,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "they were scattered.",
@@ -109,6 +122,7 @@
     "translit": "(nā·p̄ō·ṣū)",
     "parse": "Verb - Nifal - Perfect - third person common plural",
     "str": "Strong's 6327:  ",
-    "str2": "To be dispersed or scattered"
+    "str2": "To be dispersed or scattered",
+    "num": 6327
   }
 ]

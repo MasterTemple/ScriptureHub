@@ -5,7 +5,8 @@
     "translit": "(kaiper)",
     "parse": "Conjunction",
     "str": "Strong's 2539:  ",
-    "str2": "Although, though. From kai and per; and indeed, i.e. Nevertheless or notwithstanding."
+    "str2": "Although, though. From kai and per; and indeed, i.e. Nevertheless or notwithstanding.",
+    "num": 2539
   },
   {
     "word": "He was",
@@ -13,7 +14,8 @@
     "translit": "(ōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "a Son,",
@@ -21,7 +23,8 @@
     "translit": "(Huios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   },
   {
     "word": "He learned",
@@ -29,7 +32,8 @@
     "translit": "(emathen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3129:  ",
-    "str2": "Prolongation from a primary verb, another form of which, matheo, is used as an alternate in certain tenses; to learn."
+    "str2": "Prolongation from a primary verb, another form of which, matheo, is used as an alternate in certain tenses; to learn.",
+    "num": 3129
   },
   {
     "word": "obedience",
@@ -37,7 +41,8 @@
     "translit": "(hypakoēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5218:  ",
-    "str2": "Obedience, submissiveness, compliance. From hupakouo; attentive hearkening, i.e. compliance or submission."
+    "str2": "Obedience, submissiveness, compliance. From hupakouo; attentive hearkening, i.e. compliance or submission.",
+    "num": 5218
   },
   {
     "word": "from",
@@ -45,7 +50,8 @@
     "translit": "(aph’)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "what",
@@ -53,7 +59,8 @@
     "translit": "(hōn)",
     "parse": "Personal / Relative Pronoun - Genitive Neuter Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "He suffered.",
@@ -61,6 +68,7 @@
     "translit": "(epathen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3958:  ",
-    "str2": "I am acted upon in a certain way, either good or bad; I experience ill treatment, suffer. "
+    "str2": "I am acted upon in a certain way, either good or bad; I experience ill treatment, suffer. ",
+    "num": 3958
   }
 ]

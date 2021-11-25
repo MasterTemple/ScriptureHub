@@ -5,7 +5,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "of your servants",
@@ -13,7 +14,8 @@
     "translit": "(mê·‘ă·ḇā·ḏe·ḵā)",
     "parse": "Preposition-m | Noun - masculine plural construct | second person masculine singular",
     "str": "Strong's 5650:  ",
-    "str2": "Slave, servant"
+    "str2": "Slave, servant",
+    "num": 5650
   },
   {
     "word": "is found",
@@ -21,7 +23,8 @@
     "translit": "(yim·mā·ṣê)",
     "parse": "Verb - Nifal - Imperfect - third person masculine singular",
     "str": "Strong's 4672:  ",
-    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present"
+    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present",
+    "num": 4672
   },
   {
     "word": "to have it,",
@@ -29,7 +32,8 @@
     "translit": "(’it·tōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's 854:  ",
-    "str2": "Nearness, near, with, by, at, among"
+    "str2": "Nearness, near, with, by, at, among",
+    "num": 854
   },
   {
     "word": "he must die,",
@@ -37,7 +41,8 @@
     "translit": "(wā·mêṯ)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   },
   {
     "word": "and the rest",
@@ -45,7 +50,8 @@
     "translit": "(’ă·naḥ·nū)",
     "parse": "Pronoun - first person common plural",
     "str": "Strong's 587:  ",
-    "str2": "We"
+    "str2": "We",
+    "num": 587
   },
   {
     "word": "will become",
@@ -53,7 +59,8 @@
     "translit": "(nih·yeh)",
     "parse": "Verb - Qal - Imperfect - first person common plural",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "slaves",
@@ -61,7 +68,8 @@
     "translit": "(la·‘ă·ḇā·ḏîm)",
     "parse": "Preposition-l | Noun - masculine plural",
     "str": "Strong's 5650:  ",
-    "str2": "Slave, servant"
+    "str2": "Slave, servant",
+    "num": 5650
   },
   {
     "word": "of my lord.”",
@@ -69,6 +77,7 @@
     "translit": "(la·ḏō·nî)",
     "parse": "Preposition-l | Noun - masculine singular construct | first person common singular",
     "str": "Strong's 113:  ",
-    "str2": "Sovereign, controller"
+    "str2": "Sovereign, controller",
+    "num": 113
   }
 ]

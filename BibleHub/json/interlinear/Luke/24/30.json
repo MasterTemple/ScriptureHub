@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "He",
@@ -13,7 +14,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "was reclining [at the table]",
@@ -21,7 +23,8 @@
     "translit": "(kataklithēnai)",
     "parse": "Verb - Aorist Infinitive Passive",
     "str": "Strong's 2625:  ",
-    "str2": "From kata and klino; to recline down, i.e. to take a place at table."
+    "str2": "From kata and klino; to recline down, i.e. to take a place at table.",
+    "num": 2625
   },
   {
     "word": "with",
@@ -29,7 +32,8 @@
     "translit": "(met’)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "them,",
@@ -37,7 +41,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "He took",
@@ -45,7 +50,8 @@
     "translit": "(labōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "bread,",
@@ -53,7 +59,8 @@
     "translit": "(arton)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 740:  ",
-    "str2": "Bread, a loaf, food. From airo; bread or a loaf."
+    "str2": "Bread, a loaf, food. From airo; bread or a loaf.",
+    "num": 740
   },
   {
     "word": "spoke a blessing",
@@ -61,7 +68,8 @@
     "translit": "(eulogēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2127:  ",
-    "str2": "(lit: I speak well of) I bless; pass: I am blessed. From a compound of eu and logos; to speak well of, i.e. to bless."
+    "str2": "(lit: I speak well of) I bless; pass: I am blessed. From a compound of eu and logos; to speak well of, i.e. to bless.",
+    "num": 2127
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "broke [it],",
@@ -77,7 +86,8 @@
     "translit": "(klasas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2806:  ",
-    "str2": "To break (in pieces), break bread. A primary verb; to break."
+    "str2": "To break (in pieces), break bread. A primary verb; to break.",
+    "num": 2806
   },
   {
     "word": "[and] gave [it]",
@@ -85,7 +95,8 @@
     "translit": "(epedidou)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1929:  ",
-    "str2": "(a) trans: I hand in, give up, (b) intrans: I give way (to the wind). From epi and didomi; to give over."
+    "str2": "(a) trans: I hand in, give up, (b) intrans: I give way (to the wind). From epi and didomi; to give over.",
+    "num": 1929
   },
   {
     "word": "to them.",
@@ -93,6 +104,7 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

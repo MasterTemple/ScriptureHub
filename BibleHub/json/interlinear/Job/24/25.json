@@ -5,7 +5,8 @@
     "translit": "(wə·’im-)",
     "parse": "Conjunctive waw | Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "this is not so,",
@@ -13,7 +14,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "then",
@@ -21,7 +23,8 @@
     "translit": "(’ê·p̄ōw)",
     "parse": "Conjunction",
     "str": "Strong's 645:  ",
-    "str2": "Here, now, then"
+    "str2": "Here, now, then",
+    "num": 645
   },
   {
     "word": "who",
@@ -29,7 +32,8 @@
     "translit": "(mî)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "can prove me a liar",
@@ -37,7 +41,8 @@
     "translit": "(yaḵ·zî·ḇê·nî)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular | first person common singular",
     "str": "Strong's 3576:  ",
-    "str2": "To lie, be a liar"
+    "str2": "To lie, be a liar",
+    "num": 3576
   },
   {
     "word": "and reduce",
@@ -45,7 +50,8 @@
     "translit": "(wə·yā·śêm)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect Jussive - third person masculine singular",
     "str": "Strong's 7760:  ",
-    "str2": "Put -- to put, place, set"
+    "str2": "Put -- to put, place, set",
+    "num": 7760
   },
   {
     "word": "my words",
@@ -53,7 +59,8 @@
     "translit": "(mil·lā·ṯî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 4405:  ",
-    "str2": "A word, a discourse, a topic"
+    "str2": "A word, a discourse, a topic",
+    "num": 4405
   },
   {
     "word": "to nothing?”",
@@ -61,6 +68,7 @@
     "translit": "(lə·’al)",
     "parse": "Preposition-l | Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   }
 ]

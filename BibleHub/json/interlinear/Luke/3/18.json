@@ -5,7 +5,8 @@
     "translit": "(men)",
     "parse": "Conjunction",
     "str": "Strong's 3303:  ",
-    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de."
+    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de.",
+    "num": 3303
   },
   {
     "word": "many",
@@ -13,7 +14,8 @@
     "translit": "(Polla)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "other",
@@ -21,7 +23,8 @@
     "translit": "(hetera)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 2087:  ",
-    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different."
+    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different.",
+    "num": 2087
   },
   {
     "word": "exhortations,",
@@ -29,7 +32,8 @@
     "translit": "(parakalōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3870:  ",
-    "str2": "From para and kaleo; to call near, i.e. Invite, invoke."
+    "str2": "From para and kaleo; to call near, i.e. Invite, invoke.",
+    "num": 3870
   },
   {
     "word": "[John] proclaimed the good news to",
@@ -37,7 +41,8 @@
     "translit": "(euēngelizeto)",
     "parse": "Verb - Imperfect Indicative Middle - 3rd Person Singular",
     "str": "Strong's 2097:  ",
-    "str2": "From eu and aggelos; to announce good news especially the gospel."
+    "str2": "From eu and aggelos; to announce good news especially the gospel.",
+    "num": 2097
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "people.",
@@ -53,6 +59,7 @@
     "translit": "(laon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2992:  ",
-    "str2": "Apparently a primary word; a people."
+    "str2": "Apparently a primary word; a people.",
+    "num": 2992
   }
 ]

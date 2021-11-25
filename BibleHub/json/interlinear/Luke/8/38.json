@@ -5,7 +5,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "man",
@@ -13,7 +14,8 @@
     "translit": "(anēr)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "whom",
@@ -21,7 +23,8 @@
     "translit": "(hou)",
     "parse": "Personal / Relative Pronoun - Genitive Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(ta)",
     "parse": "Article - Nominative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "demons",
@@ -37,7 +41,8 @@
     "translit": "(daimonia)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 1140:  ",
-    "str2": "An evil-spirit, demon; a heathen deity. Neuter of a derivative of daimon; a d?Monic being; by extension a deity."
+    "str2": "An evil-spirit, demon; a heathen deity. Neuter of a derivative of daimon; a d?Monic being; by extension a deity.",
+    "num": 1140
   },
   {
     "word": "had left",
@@ -45,7 +50,8 @@
     "translit": "(exelēlythei)",
     "parse": "Verb - Pluperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1831:  ",
-    "str2": "To go out, come out. From ek and erchomai; to issue."
+    "str2": "To go out, come out. From ek and erchomai; to issue.",
+    "num": 1831
   },
   {
     "word": "begged",
@@ -53,7 +59,8 @@
     "translit": "(Edeito)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1189:  ",
-    "str2": "To want for myself; I want, need; I beg, request, beseech, pray. Middle voice of deo; to beg, i.e. Petition."
+    "str2": "To want for myself; I want, need; I beg, request, beseech, pray. Middle voice of deo; to beg, i.e. Petition.",
+    "num": 1189
   },
   {
     "word": "to go",
@@ -61,7 +68,8 @@
     "translit": "(einai)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "with",
@@ -69,7 +77,8 @@
     "translit": "(syn)",
     "parse": "Preposition",
     "str": "Strong's 4862:  ",
-    "str2": "With. A primary preposition denoting union; with or together."
+    "str2": "With. A primary preposition denoting union; with or together.",
+    "num": 4862
   },
   {
     "word": "[Jesus].",
@@ -77,7 +86,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "But",
@@ -85,7 +95,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "He sent him away,",
@@ -93,7 +104,8 @@
     "translit": "(apelysen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 630:  ",
-    "str2": "From apo and luo; to free fully, i.e. relieve, release, dismiss, or let die, pardon or divorce."
+    "str2": "From apo and luo; to free fully, i.e. relieve, release, dismiss, or let die, pardon or divorce.",
+    "num": 630
   },
   {
     "word": "saying,",
@@ -101,6 +113,7 @@
     "translit": "(legōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   }
 ]

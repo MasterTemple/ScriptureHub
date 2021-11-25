@@ -5,7 +5,8 @@
     "translit": "(hos)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "desires",
@@ -13,7 +14,8 @@
     "translit": "(thelei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "all",
@@ -21,7 +23,8 @@
     "translit": "(pantas)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "men",
@@ -29,7 +32,8 @@
     "translit": "(anthrōpous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "to be saved",
@@ -37,7 +41,8 @@
     "translit": "(sōthēnai)",
     "parse": "Verb - Aorist Infinitive Passive",
     "str": "Strong's 4982:  ",
-    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect."
+    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect.",
+    "num": 4982
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "to come",
@@ -53,7 +59,8 @@
     "translit": "(elthein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "to",
@@ -61,7 +68,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "[the] knowledge",
@@ -69,7 +77,8 @@
     "translit": "(epignōsin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1922:  ",
-    "str2": "From epiginosko; recognition, i.e. full discernment, acknowledgement."
+    "str2": "From epiginosko; recognition, i.e. full discernment, acknowledgement.",
+    "num": 1922
   },
   {
     "word": "of [the] truth.",
@@ -77,6 +86,7 @@
     "translit": "(alētheias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 225:  ",
-    "str2": "From alethes; truth."
+    "str2": "From alethes; truth.",
+    "num": 225
   }
 ]

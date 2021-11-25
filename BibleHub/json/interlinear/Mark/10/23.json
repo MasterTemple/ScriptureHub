@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Jesus",
@@ -13,7 +14,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "looked around",
@@ -21,7 +23,8 @@
     "translit": "(periblepsamenos)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Singular",
     "str": "Strong's 4017:  ",
-    "str2": "To look around on, survey. From peri and blepo; to look all around."
+    "str2": "To look around on, survey. From peri and blepo; to look all around.",
+    "num": 4017
   },
   {
     "word": "[and] said to",
@@ -29,7 +32,8 @@
     "translit": "(legei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "His",
@@ -37,7 +41,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "disciples,",
@@ -45,7 +50,8 @@
     "translit": "(mathētais)",
     "parse": "Noun - Dative Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   },
   {
     "word": "“How",
@@ -53,7 +59,8 @@
     "translit": "(Pōs)",
     "parse": "Adverb",
     "str": "Strong's 4459:  ",
-    "str2": "Adverb from the base of pou; an interrogative particle of manner; in what way?; also as exclamation, how much!"
+    "str2": "Adverb from the base of pou; an interrogative particle of manner; in what way?; also as exclamation, how much!",
+    "num": 4459
   },
   {
     "word": "hard {it is}",
@@ -61,7 +68,8 @@
     "translit": "(dyskolōs)",
     "parse": "Adverb",
     "str": "Strong's 1423:  ",
-    "str2": "With difficulty, hardly. Adverb from duskolos; impracticably."
+    "str2": "With difficulty, hardly. Adverb from duskolos; impracticably.",
+    "num": 1423
   },
   {
     "word": "for the",
@@ -69,7 +77,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "rich",
@@ -77,7 +86,8 @@
     "translit": "(chrēmata)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 5536:  ",
-    "str2": "Money, riches, possessions. Something useful or needed, i.e. Wealth, price."
+    "str2": "Money, riches, possessions. Something useful or needed, i.e. Wealth, price.",
+    "num": 5536
   },
   {
     "word": "to enter",
@@ -85,7 +95,8 @@
     "translit": "(eiseleusontai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Plural",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "the",
@@ -93,7 +104,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "kingdom",
@@ -101,7 +113,8 @@
     "translit": "(basileian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 932:  ",
-    "str2": "From basileus; properly, royalty, i.e. rule, or a realm."
+    "str2": "From basileus; properly, royalty, i.e. rule, or a realm.",
+    "num": 932
   },
   {
     "word": "of God!”",
@@ -109,6 +122,7 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

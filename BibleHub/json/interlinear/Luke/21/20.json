@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "when",
@@ -13,7 +14,8 @@
     "translit": "(Hotan)",
     "parse": "Conjunction",
     "str": "Strong's 3752:  ",
-    "str2": "When, whenever. From hote and an; whenever; also causatively inasmuch as."
+    "str2": "When, whenever. From hote and an; whenever; also causatively inasmuch as.",
+    "num": 3752
   },
   {
     "word": "you see",
@@ -21,7 +23,8 @@
     "translit": "(idēte)",
     "parse": "Verb - Aorist Subjunctive Active - 2nd Person Plural",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "Jerusalem",
@@ -29,7 +32,8 @@
     "translit": "(Ierousalēm)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2419:  ",
-    "str2": "Of Hebrew origin; Hierusalem, the capitol of Palestine."
+    "str2": "Of Hebrew origin; Hierusalem, the capitol of Palestine.",
+    "num": 2419
   },
   {
     "word": "surrounded",
@@ -37,7 +41,8 @@
     "translit": "(kykloumenēn)",
     "parse": "Verb - Present Participle Middle or Passive - Accusative Feminine Singular",
     "str": "Strong's 2944:  ",
-    "str2": "To encircle, besiege, surround. From the same as kukloi; to encircle, i.e. Surround."
+    "str2": "To encircle, besiege, surround. From the same as kukloi; to encircle, i.e. Surround.",
+    "num": 2944
   },
   {
     "word": "by",
@@ -45,7 +50,8 @@
     "translit": "(hypo)",
     "parse": "Preposition",
     "str": "Strong's 5259:  ",
-    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when)."
+    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when).",
+    "num": 5259
   },
   {
     "word": "armies,",
@@ -53,7 +59,8 @@
     "translit": "(stratopedōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 4760:  ",
-    "str2": "An encamped army. From the base of stratia and the same as pedinos; a camping-ground, i.e. a body of troops."
+    "str2": "An encamped army. From the base of stratia and the same as pedinos; a camping-ground, i.e. a body of troops.",
+    "num": 4760
   },
   {
     "word": "you will know",
@@ -61,7 +68,8 @@
     "translit": "(gnōte)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 1097:  ",
-    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications."
+    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications.",
+    "num": 1097
   },
   {
     "word": "that",
@@ -69,7 +77,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "her",
@@ -77,7 +86,8 @@
     "translit": "(autēs)",
     "parse": "Personal / Possessive Pronoun - Genitive Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "desolation",
@@ -85,7 +95,8 @@
     "translit": "(erēmōsis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2050:  ",
-    "str2": "A desolation, devastation. From eremoo; despoliation."
+    "str2": "A desolation, devastation. From eremoo; despoliation.",
+    "num": 2050
   },
   {
     "word": "is near.",
@@ -93,6 +104,7 @@
     "translit": "(ēngiken)",
     "parse": "Verb - Perfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1448:  ",
-    "str2": "Trans: I bring near; intrans: I come near, approach. From eggus; to make near, i.e. approach."
+    "str2": "Trans: I bring near; intrans: I come near, approach. From eggus; to make near, i.e. approach.",
+    "num": 1448
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(te)",
     "parse": "Conjunction",
     "str": "Strong's 5037:  ",
-    "str2": "And, both. A primary particle of connection or addition; both or also."
+    "str2": "And, both. A primary particle of connection or addition; both or also.",
+    "num": 5037
   },
   {
     "word": "seeing",
@@ -13,7 +14,8 @@
     "translit": "(blepontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 991:  ",
-    "str2": "(primarily physical), I look, see, perceive, discern. A primary verb; to look at."
+    "str2": "(primarily physical), I look, see, perceive, discern. A primary verb; to look at.",
+    "num": 991
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "man",
@@ -29,7 +32,8 @@
     "translit": "(anthrōpon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "who",
@@ -37,7 +41,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "had been healed",
@@ -45,7 +50,8 @@
     "translit": "(tetherapeumenon)",
     "parse": "Verb - Perfect Participle Middle or Passive - Accusative Masculine Singular",
     "str": "Strong's 2323:  ",
-    "str2": "From the same as therapon; to wait upon menially, i.e. to adore, or to relieve."
+    "str2": "From the same as therapon; to wait upon menially, i.e. to adore, or to relieve.",
+    "num": 2323
   },
   {
     "word": "standing [there]",
@@ -53,7 +59,8 @@
     "translit": "(hestōta)",
     "parse": "Verb - Perfect Participle Active - Accusative Masculine Singular",
     "str": "Strong's 2476:  ",
-    "str2": "A prolonged form of a primary stao stah'-o; to stand, used in various applications."
+    "str2": "A prolonged form of a primary stao stah'-o; to stand, used in various applications.",
+    "num": 2476
   },
   {
     "word": "with",
@@ -61,7 +68,8 @@
     "translit": "(syn)",
     "parse": "Preposition",
     "str": "Strong's 4862:  ",
-    "str2": "With. A primary preposition denoting union; with or together."
+    "str2": "With. A primary preposition denoting union; with or together.",
+    "num": 4862
   },
   {
     "word": "them,",
@@ -69,7 +77,8 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "they had",
@@ -77,7 +86,8 @@
     "translit": "(eichon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "nothing",
@@ -85,7 +95,8 @@
     "translit": "(ouden)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 3762:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3762
   },
   {
     "word": "to say in response.",
@@ -93,6 +104,7 @@
     "translit": "(anteipein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 483:  ",
-    "str2": "To speak or say in opposition, contradict (oppose, resist). From anti and lego; to dispute, refuse."
+    "str2": "To speak or say in opposition, contradict (oppose, resist). From anti and lego; to dispute, refuse.",
+    "num": 483
   }
 ]

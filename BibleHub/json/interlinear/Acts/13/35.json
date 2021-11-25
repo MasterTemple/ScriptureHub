@@ -5,7 +5,8 @@
     "translit": "(Dioti)",
     "parse": "Conjunction",
     "str": "Strong's 1360:  ",
-    "str2": "On this account, because, for. From dia and hoti; on the very account that, or inasmuch as."
+    "str2": "On this account, because, for. From dia and hoti; on the very account that, or inasmuch as.",
+    "num": 1360
   },
   {
     "word": "also,",
@@ -13,7 +14,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "He says",
@@ -21,7 +23,8 @@
     "translit": "(legei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "in",
@@ -29,7 +32,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "another [Psalm]:",
@@ -37,7 +41,8 @@
     "translit": "(heterō)",
     "parse": "Adjective - Dative Masculine Singular",
     "str": "Strong's 2087:  ",
-    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different."
+    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different.",
+    "num": 2087
   },
   {
     "word": "‘You will not let",
@@ -45,7 +50,8 @@
     "translit": "(dōseis)",
     "parse": "Verb - Future Indicative Active - 2nd Person Singular",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "your",
@@ -53,7 +59,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "Holy One",
@@ -61,7 +68,8 @@
     "translit": "(Hosion)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 3741:  ",
-    "str2": "Holy, pious, godly, beloved of God. Of uncertain affinity; properly, right, i.e. Hallowed."
+    "str2": "Holy, pious, godly, beloved of God. Of uncertain affinity; properly, right, i.e. Hallowed.",
+    "num": 3741
   },
   {
     "word": "see",
@@ -69,7 +77,8 @@
     "translit": "(idein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "decay.’",
@@ -77,6 +86,7 @@
     "translit": "(diaphthoran)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1312:  ",
-    "str2": "Destruction, decay, corruption. From diaphtheiro; decay."
+    "str2": "Destruction, decay, corruption. From diaphtheiro; decay.",
+    "num": 1312
   }
 ]

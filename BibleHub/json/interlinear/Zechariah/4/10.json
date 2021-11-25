@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "who",
@@ -13,7 +14,8 @@
     "translit": "(mî)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "has despised",
@@ -21,7 +23,8 @@
     "translit": "(ḇaz)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 937:  ",
-    "str2": "Disrespect"
+    "str2": "Disrespect",
+    "num": 937
   },
   {
     "word": "the day",
@@ -29,7 +32,8 @@
     "translit": "(lə·yō·wm)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "of small things?",
@@ -37,7 +41,8 @@
     "translit": "(qə·ṭan·nō·wṯ)",
     "parse": "Adjective - feminine plural",
     "str": "Strong's 6996:  ",
-    "str2": "Small, young, unimportant"
+    "str2": "Small, young, unimportant",
+    "num": 6996
   },
   {
     "word": "But these",
@@ -45,7 +50,8 @@
     "translit": "(’êl·leh)",
     "parse": "Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   },
   {
     "word": "seven",
@@ -53,7 +59,8 @@
     "translit": "(šiḇ·‘āh-)",
     "parse": "Number - masculine singular",
     "str": "Strong's 7651:  ",
-    "str2": "Seven, seven times, a week, an indefinite number"
+    "str2": "Seven, seven times, a week, an indefinite number",
+    "num": 7651
   },
   {
     "word": "eyes",
@@ -61,7 +68,8 @@
     "translit": "(‘ê·nê)",
     "parse": "Noun - cdc",
     "str": "Strong's 5869:  ",
-    "str2": "An eye, a fountain"
+    "str2": "An eye, a fountain",
+    "num": 5869
   },
   {
     "word": "of the LORD,",
@@ -69,7 +77,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "which",
@@ -77,7 +86,8 @@
     "translit": "(hêm·māh)",
     "parse": "Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "scan",
@@ -85,7 +95,8 @@
     "translit": "(mə·šō·wṭ·ṭîm)",
     "parse": "Verb - Piel - Participle - masculine plural",
     "str": "Strong's 7751:  ",
-    "str2": "To push forth, to lash, to row, to travel"
+    "str2": "To push forth, to lash, to row, to travel",
+    "num": 7751
   },
   {
     "word": "the whole",
@@ -93,7 +104,8 @@
     "translit": "(bə·ḵāl)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "earth,",
@@ -101,7 +113,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "will rejoice",
@@ -109,7 +122,8 @@
     "translit": "(wə·śā·mə·ḥū)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person common plural",
     "str": "Strong's 8055:  ",
-    "str2": "To brighten up, be, blithe, gleesome"
+    "str2": "To brighten up, be, blithe, gleesome",
+    "num": 8055
   },
   {
     "word": "when they see",
@@ -117,7 +131,8 @@
     "translit": "(wə·rā·’ū)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person common plural",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "the plumb line",
@@ -125,7 +140,8 @@
     "translit": "(hā·’e·ḇen)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 68:  ",
-    "str2": "A stone"
+    "str2": "A stone",
+    "num": 68
   },
   {
     "word": "in Zerubbabel’s",
@@ -133,7 +149,8 @@
     "translit": "(zə·rub·bā·ḇel)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 2216:  ",
-    "str2": "Zerubbabel -- 'begotten in Babylon', a leader of returning Israelite exiles"
+    "str2": "Zerubbabel -- 'begotten in Babylon', a leader of returning Israelite exiles",
+    "num": 2216
   },
   {
     "word": "hand.”",
@@ -141,6 +158,7 @@
     "translit": "(bə·yaḏ)",
     "parse": "Preposition-b | Noun - feminine singular construct",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   }
 ]

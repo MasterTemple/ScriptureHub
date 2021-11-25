@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[the man] gave them his attention,",
@@ -13,7 +14,8 @@
     "translit": "(epeichen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1907:  ",
-    "str2": "From epi and echo; to hold upon, i.e. to retain; to detain; to pay attention to."
+    "str2": "From epi and echo; to hold upon, i.e. to retain; to detain; to pay attention to.",
+    "num": 1907
   },
   {
     "word": "expecting",
@@ -21,7 +23,8 @@
     "translit": "(prosdokōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4328:  ",
-    "str2": "To expect, wait for, await, think, anticipate. From pros and dokeuo; to anticipate; by implication, to await."
+    "str2": "To expect, wait for, await, think, anticipate. From pros and dokeuo; to anticipate; by implication, to await.",
+    "num": 4328
   },
   {
     "word": "to receive",
@@ -29,7 +32,8 @@
     "translit": "(labein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "something",
@@ -37,7 +41,8 @@
     "translit": "(ti)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Neuter Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "from",
@@ -45,7 +50,8 @@
     "translit": "(par’)",
     "parse": "Preposition",
     "str": "Strong's 3844:  ",
-    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. "
+    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. ",
+    "num": 3844
   },
   {
     "word": "them.",
@@ -53,6 +59,7 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

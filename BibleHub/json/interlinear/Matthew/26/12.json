@@ -5,7 +5,8 @@
     "translit": "(balousa)",
     "parse": "Verb - Aorist Participle Active - Nominative Feminine Singular",
     "str": "Strong's 906:  ",
-    "str2": "(a) I cast, throw, rush, (b) often, in the weaker sense: I place, put, drop. A primary verb; to throw."
+    "str2": "(a) I cast, throw, rush, (b) often, in the weaker sense: I place, put, drop. A primary verb; to throw.",
+    "num": 906
   },
   {
     "word": "this",
@@ -13,7 +14,8 @@
     "translit": "(touto)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "perfume",
@@ -21,7 +23,8 @@
     "translit": "(myron)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3464:  ",
-    "str2": "Anointing-oil, ointment. Probably of foreign origin; 'myrrh', i.e. perfumed oil."
+    "str2": "Anointing-oil, ointment. Probably of foreign origin; 'myrrh', i.e. perfumed oil.",
+    "num": 3464
   },
   {
     "word": "on",
@@ -29,7 +32,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "Me,",
@@ -37,7 +41,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "she has prepared",
@@ -45,7 +50,8 @@
     "translit": "(epoiēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "My [body]",
@@ -53,7 +59,8 @@
     "translit": "(me)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "for",
@@ -61,7 +68,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "burial.",
@@ -69,6 +77,7 @@
     "translit": "(entaphiasai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 1779:  ",
-    "str2": "To embalm, prepare for burial. From a compound of en and taphos; to inswathe with cerements for interment."
+    "str2": "To embalm, prepare for burial. From a compound of en and taphos; to inswathe with cerements for interment.",
+    "num": 1779
   }
 ]

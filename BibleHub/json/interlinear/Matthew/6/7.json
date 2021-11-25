@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[when] you pray,",
@@ -13,7 +14,8 @@
     "translit": "(Proseuchomenoi)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Masculine Plural",
     "str": "Strong's 4336:  ",
-    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship."
+    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship.",
+    "num": 4336
   },
   {
     "word": "do not babble on",
@@ -21,7 +23,8 @@
     "translit": "(battalogēsēte)",
     "parse": "Verb - Aorist Subjunctive Active - 2nd Person Plural",
     "str": "Strong's 945:  ",
-    "str2": "To chatter, be long-winded, utter empty words, stammer, repeat. From Battos and logos; to stutter, i.e. to prate tediously."
+    "str2": "To chatter, be long-winded, utter empty words, stammer, repeat. From Battos and logos; to stutter, i.e. to prate tediously.",
+    "num": 945
   },
   {
     "word": "like",
@@ -29,7 +32,8 @@
     "translit": "(hōsper)",
     "parse": "Adverb",
     "str": "Strong's 5618:  ",
-    "str2": "Just as, as, even as. From hos and per; just as, i.e. Exactly like."
+    "str2": "Just as, as, even as. From hos and per; just as, i.e. Exactly like.",
+    "num": 5618
   },
   {
     "word": "pagans,",
@@ -37,7 +41,8 @@
     "translit": "(ethnikoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 1482:  ",
-    "str2": "Pagan, heathen, gentile; subst: a Gentile, non-Jew. From ethnos; national, i.e. a Gentile."
+    "str2": "Pagan, heathen, gentile; subst: a Gentile, non-Jew. From ethnos; national, i.e. a Gentile.",
+    "num": 1482
   },
   {
     "word": "for",
@@ -45,7 +50,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "they think",
@@ -53,7 +59,8 @@
     "translit": "(dokousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 1380:  ",
-    "str2": "A prolonged form of a primary verb, doko dok'-o of the same meaning; to think; by implication, to seem."
+    "str2": "A prolonged form of a primary verb, doko dok'-o of the same meaning; to think; by implication, to seem.",
+    "num": 1380
   },
   {
     "word": "that",
@@ -61,7 +68,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "by",
@@ -69,7 +77,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "their",
@@ -77,7 +86,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "many words",
@@ -85,7 +95,8 @@
     "translit": "(polylogia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4180:  ",
-    "str2": "Much-speaking, loquacity. From a compound of polus and logos; loquacity, i.e. Prolixity."
+    "str2": "Much-speaking, loquacity. From a compound of polus and logos; loquacity, i.e. Prolixity.",
+    "num": 4180
   },
   {
     "word": "they will be heard.",
@@ -93,6 +104,7 @@
     "translit": "(eisakousthēsontai)",
     "parse": "Verb - Future Indicative Passive - 3rd Person Plural",
     "str": "Strong's 1522:  ",
-    "str2": "To hear, listen to, heed. From eis and akouo; to listen to."
+    "str2": "To hear, listen to, heed. From eis and akouo; to listen to.",
+    "num": 1522
   }
 ]

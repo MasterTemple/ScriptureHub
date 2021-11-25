@@ -5,7 +5,8 @@
     "translit": "(Deute)",
     "parse": "Verb - Imperative - 2nd Person Plural",
     "str": "Strong's 1205:  ",
-    "str2": "Come hither, come, hither, an exclamatory word. From deuro and an imperative form of eimi; come hither!"
+    "str2": "Come hither, come, hither, an exclamatory word. From deuro and an imperative form of eimi; come hither!",
+    "num": 1205
   },
   {
     "word": "to",
@@ -13,7 +14,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "Me,",
@@ -21,7 +23,8 @@
     "translit": "(me)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "all",
@@ -29,7 +32,8 @@
     "translit": "(pantes)",
     "parse": "Adjective - Vocative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "you who",
@@ -37,7 +41,8 @@
     "translit": "(hoi)",
     "parse": "Article - Vocative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "are weary",
@@ -45,7 +50,8 @@
     "translit": "(kopiōntes)",
     "parse": "Verb - Present Participle Active - Vocative Masculine Plural",
     "str": "Strong's 2872:  ",
-    "str2": "From a derivative of kopos; to feel fatigue; by implication, to work hard."
+    "str2": "From a derivative of kopos; to feel fatigue; by implication, to work hard.",
+    "num": 2872
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "burdened,",
@@ -61,7 +68,8 @@
     "translit": "(pephortismenoi)",
     "parse": "Verb - Perfect Participle Middle or Passive - Vocative Masculine Plural",
     "str": "Strong's 5412:  ",
-    "str2": "To load, burden; pass: To be laden. From phortos; to load up, i.e. to overburden with ceremony."
+    "str2": "To load, burden; pass: To be laden. From phortos; to load up, i.e. to overburden with ceremony.",
+    "num": 5412
   },
   {
     "word": "and I",
@@ -69,7 +77,8 @@
     "translit": "(kagō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 2504:  ",
-    "str2": "To also, I too, but I. From kai and ego; so also the dative case kamoi, and accusative case kame and I, me."
+    "str2": "To also, I too, but I. From kai and ego; so also the dative case kamoi, and accusative case kame and I, me.",
+    "num": 2504
   },
   {
     "word": "will give you rest.",
@@ -77,6 +86,7 @@
     "translit": "(anapausō)",
     "parse": "Verb - Future Indicative Active - 1st Person Singular",
     "str": "Strong's 373:  ",
-    "str2": "From ana and pauo; to repose (be exempt), remain); by implication, to refresh."
+    "str2": "From ana and pauo; to repose (be exempt), remain); by implication, to refresh.",
+    "num": 373
   }
 ]

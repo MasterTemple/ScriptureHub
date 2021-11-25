@@ -5,7 +5,8 @@
     "translit": "(touto)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "[the] third [time]",
@@ -13,7 +14,8 @@
     "translit": "(Triton)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 5154:  ",
-    "str2": "Third. Ordinal from treis; third; neuter a third part, or a third time, thirdly."
+    "str2": "Third. Ordinal from treis; third; neuter a third part, or a third time, thirdly.",
+    "num": 5154
   },
   {
     "word": "I am coming",
@@ -21,7 +23,8 @@
     "translit": "(erchomai)",
     "parse": "Verb - Present Indicative Middle or Passive - 1st Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "to",
@@ -29,7 +32,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "you.",
@@ -37,7 +41,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "“Every",
@@ -45,7 +50,8 @@
     "translit": "(pan)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "matter",
@@ -53,7 +59,8 @@
     "translit": "(rhēma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4487:  ",
-    "str2": "From rheo; an utterance, ; by implication, a matter or topic; with a negative naught whatever."
+    "str2": "From rheo; an utterance, ; by implication, a matter or topic; with a negative naught whatever.",
+    "num": 4487
   },
   {
     "word": "must be established",
@@ -61,7 +68,8 @@
     "translit": "(stathēsetai)",
     "parse": "Verb - Future Indicative Passive - 3rd Person Singular",
     "str": "Strong's 2476:  ",
-    "str2": "A prolonged form of a primary stao stah'-o; to stand, used in various applications."
+    "str2": "A prolonged form of a primary stao stah'-o; to stand, used in various applications.",
+    "num": 2476
   },
   {
     "word": "by",
@@ -69,7 +77,8 @@
     "translit": "(Epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "[the] testimony",
@@ -77,7 +86,8 @@
     "translit": "(stomatos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 4750:  ",
-    "str2": "The mouth, speech, eloquence in speech, the point of a sword. "
+    "str2": "The mouth, speech, eloquence in speech, the point of a sword. ",
+    "num": 4750
   },
   {
     "word": "of two",
@@ -85,7 +95,8 @@
     "translit": "(dyo)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 1417:  ",
-    "str2": "Two. A primary numeral; 'two'."
+    "str2": "Two. A primary numeral; 'two'.",
+    "num": 1417
   },
   {
     "word": "or",
@@ -93,7 +104,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "three",
@@ -101,7 +113,8 @@
     "translit": "(triōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 5140:  ",
-    "str2": "Three. Or neuter tria a primary number; 'three'."
+    "str2": "Three. Or neuter tria a primary number; 'three'.",
+    "num": 5140
   },
   {
     "word": "witnesses.”",
@@ -109,6 +122,7 @@
     "translit": "(martyrōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 3144:  ",
-    "str2": "A witness (judicially) or figuratively (genitive case); by analogy, a 'martyr'."
+    "str2": "A witness (judicially) or figuratively (genitive case); by analogy, a 'martyr'.",
+    "num": 3144
   }
 ]

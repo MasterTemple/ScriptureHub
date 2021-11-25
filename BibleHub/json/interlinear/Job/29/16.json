@@ -5,7 +5,8 @@
     "translit": "(’ā·nō·ḵî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "was a father",
@@ -13,7 +14,8 @@
     "translit": "(’āḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "to the needy,",
@@ -21,7 +23,8 @@
     "translit": "(lā·’eḇ·yō·w·nîm)",
     "parse": "Preposition-l, Article | Noun - masculine plural",
     "str": "Strong's 34:  ",
-    "str2": "In want, needy, poor"
+    "str2": "In want, needy, poor",
+    "num": 34
   },
   {
     "word": "and I took up",
@@ -29,7 +32,8 @@
     "translit": "(’eḥ·qə·rê·hū)",
     "parse": "Verb - Qal - Imperfect - first person common singular | third person masculine singular",
     "str": "Strong's 2713:  ",
-    "str2": "To penetrate, to examine intimately"
+    "str2": "To penetrate, to examine intimately",
+    "num": 2713
   },
   {
     "word": "the case",
@@ -37,7 +41,8 @@
     "translit": "(wə·riḇ)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 7379:  ",
-    "str2": "Strife, dispute"
+    "str2": "Strife, dispute",
+    "num": 7379
   },
   {
     "word": "of the stranger.",
@@ -45,6 +50,7 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   }
 ]

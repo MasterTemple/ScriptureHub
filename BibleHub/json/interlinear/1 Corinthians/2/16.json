@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "who",
@@ -13,7 +14,8 @@
     "translit": "(Tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "has known",
@@ -21,7 +23,8 @@
     "translit": "(egnō)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1097:  ",
-    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications."
+    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications.",
+    "num": 1097
   },
   {
     "word": "[the] mind",
@@ -29,7 +32,8 @@
     "translit": "(noun)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3563:  ",
-    "str2": "Probably from the base of ginosko; the intellect, i.e. Mind; by implication, meaning."
+    "str2": "Probably from the base of ginosko; the intellect, i.e. Mind; by implication, meaning.",
+    "num": 3563
   },
   {
     "word": "of [the] Lord,",
@@ -37,7 +41,8 @@
     "translit": "(Kyriou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "[so as]",
@@ -45,7 +50,8 @@
     "translit": "(hos)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "to instruct",
@@ -53,7 +59,8 @@
     "translit": "(symbibasei)",
     "parse": "Verb - Future Indicative Active - 3rd Person Singular",
     "str": "Strong's 4822:  ",
-    "str2": "From sun and bibazo (by reduplication) of the base of basis); to drive together, i.e. Unite, to infer, show, teach."
+    "str2": "From sun and bibazo (by reduplication) of the base of basis); to drive together, i.e. Unite, to infer, show, teach.",
+    "num": 4822
   },
   {
     "word": "Him?”",
@@ -61,7 +68,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "But",
@@ -69,7 +77,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "we",
@@ -77,7 +86,8 @@
     "translit": "(hēmeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "have",
@@ -85,7 +95,8 @@
     "translit": "(echomen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "[the] mind",
@@ -93,7 +104,8 @@
     "translit": "(noun)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3563:  ",
-    "str2": "Probably from the base of ginosko; the intellect, i.e. Mind; by implication, meaning."
+    "str2": "Probably from the base of ginosko; the intellect, i.e. Mind; by implication, meaning.",
+    "num": 3563
   },
   {
     "word": "of Christ.",
@@ -101,6 +113,7 @@
     "translit": "(Christou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   }
 ]

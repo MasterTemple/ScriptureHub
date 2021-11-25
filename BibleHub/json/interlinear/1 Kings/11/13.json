@@ -5,7 +5,8 @@
     "translit": "(raq)",
     "parse": "Adverb",
     "str": "Strong's 7535:  ",
-    "str2": "But, even, except, howbeit howsoever, at the least, nevertheless"
+    "str2": "But, even, except, howbeit howsoever, at the least, nevertheless",
+    "num": 7535
   },
   {
     "word": "I will not",
@@ -13,7 +14,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "{tear} the whole",
@@ -21,7 +23,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "kingdom",
@@ -29,7 +32,8 @@
     "translit": "(ham·mam·lā·ḵāh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 4467:  ",
-    "str2": "Kingdom, sovereignty, dominion, reign"
+    "str2": "Kingdom, sovereignty, dominion, reign",
+    "num": 4467
   },
   {
     "word": "away from him.",
@@ -37,7 +41,8 @@
     "translit": "(’eq·rā‘)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 7167:  ",
-    "str2": "To rend"
+    "str2": "To rend",
+    "num": 7167
   },
   {
     "word": "I will give",
@@ -45,7 +50,8 @@
     "translit": "(’et·tên)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "one",
@@ -53,7 +59,8 @@
     "translit": "(’e·ḥāḏ)",
     "parse": "Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "tribe",
@@ -61,7 +68,8 @@
     "translit": "(šê·ḇeṭ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7626:  ",
-    "str2": "Rod, staff, club, scepter, tribe"
+    "str2": "Rod, staff, club, scepter, tribe",
+    "num": 7626
   },
   {
     "word": "to your son",
@@ -69,7 +77,8 @@
     "translit": "(liḇ·ne·ḵā)",
     "parse": "Preposition-l | Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "for the sake",
@@ -77,7 +86,8 @@
     "translit": "(lə·ma·‘an)",
     "parse": "Preposition",
     "str": "Strong's 4616:  ",
-    "str2": "Purpose -- intent"
+    "str2": "Purpose -- intent",
+    "num": 4616
   },
   {
     "word": "of My servant",
@@ -85,7 +95,8 @@
     "translit": "(‘aḇ·dî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 5650:  ",
-    "str2": "Slave, servant"
+    "str2": "Slave, servant",
+    "num": 5650
   },
   {
     "word": "David",
@@ -93,7 +104,8 @@
     "translit": "(dā·wiḏ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 1732:  ",
-    "str2": "David -- perhaps 'beloved one', a son of Jesse"
+    "str2": "David -- perhaps 'beloved one', a son of Jesse",
+    "num": 1732
   },
   {
     "word": "and for the sake",
@@ -101,7 +113,8 @@
     "translit": "(ū·lə·ma·‘an)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 4616:  ",
-    "str2": "Purpose -- intent"
+    "str2": "Purpose -- intent",
+    "num": 4616
   },
   {
     "word": "of Jerusalem,",
@@ -109,7 +122,8 @@
     "translit": "(yə·rū·šā·lim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 3389:  ",
-    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel"
+    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel",
+    "num": 3389
   },
   {
     "word": "which",
@@ -117,7 +131,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "I have chosen.”",
@@ -125,6 +140,7 @@
     "translit": "(bā·ḥā·rə·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 977:  ",
-    "str2": "To try, select"
+    "str2": "To try, select",
+    "num": 977
   }
 ]

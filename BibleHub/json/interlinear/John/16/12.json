@@ -5,7 +5,8 @@
     "translit": "(echō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "much",
@@ -13,7 +14,8 @@
     "translit": "(polla)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "to tell",
@@ -21,7 +23,8 @@
     "translit": "(legein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "you,",
@@ -29,7 +32,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "but",
@@ -37,7 +41,8 @@
     "translit": "(all’)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "you cannot",
@@ -45,7 +50,8 @@
     "translit": "(dynasthe)",
     "parse": "Verb - Present Indicative Middle or Passive - 2nd Person Plural",
     "str": "Strong's 1410:  ",
-    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible."
+    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible.",
+    "num": 1410
   },
   {
     "word": "yet",
@@ -53,7 +59,8 @@
     "translit": "(arti)",
     "parse": "Adverb",
     "str": "Strong's 737:  ",
-    "str2": "Now, just now, at this moment. Adverb from a derivative of airo through the idea of suspension; just now."
+    "str2": "Now, just now, at this moment. Adverb from a derivative of airo through the idea of suspension; just now.",
+    "num": 737
   },
   {
     "word": "bear [to hear it].",
@@ -61,6 +68,7 @@
     "translit": "(bastazein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 941:  ",
-    "str2": "Perhaps remotely derived from the base of basis; to lift, literally or figuratively."
+    "str2": "Perhaps remotely derived from the base of basis; to lift, literally or figuratively.",
+    "num": 941
   }
 ]

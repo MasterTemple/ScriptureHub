@@ -5,7 +5,8 @@
     "translit": "(men)",
     "parse": "Particle",
     "str": "Strong's 3303:  ",
-    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de."
+    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de.",
+    "num": 3303
   },
   {
     "word": "God",
@@ -13,7 +14,8 @@
     "translit": "(Theos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "overlooked",
@@ -21,7 +23,8 @@
     "translit": "(hyperidōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 5237:  ",
-    "str2": "To overlook, take no notice of, disregard. From huper and eido; to overlook, i.e. Not punish."
+    "str2": "To overlook, take no notice of, disregard. From huper and eido; to overlook, i.e. Not punish.",
+    "num": 5237
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "ignorance",
@@ -37,7 +41,8 @@
     "translit": "(agnoias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 52:  ",
-    "str2": "Ignorance, inadvertence, sometimes with the idea of willful blindness. From agnoeo; ignorance."
+    "str2": "Ignorance, inadvertence, sometimes with the idea of willful blindness. From agnoeo; ignorance.",
+    "num": 52
   },
   {
     "word": "of",
@@ -45,7 +50,8 @@
     "translit": "(Tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "[earlier] times,",
@@ -53,7 +59,8 @@
     "translit": "(chronous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 5550:  ",
-    "str2": "A space of time or interval; by extension, an individual opportunity; by implication, delay."
+    "str2": "A space of time or interval; by extension, an individual opportunity; by implication, delay.",
+    "num": 5550
   },
   {
     "word": "He now commands",
@@ -61,7 +68,8 @@
     "translit": "(parangellei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3853:  ",
-    "str2": "To notify, command, charge, entreat solemnly. From para and the base of aggelos; to transmit a message, i.e. to enjoin."
+    "str2": "To notify, command, charge, entreat solemnly. From para and the base of aggelos; to transmit a message, i.e. to enjoin.",
+    "num": 3853
   },
   {
     "word": "all",
@@ -69,7 +77,8 @@
     "translit": "(pantas)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "men",
@@ -77,7 +86,8 @@
     "translit": "(anthrōpois)",
     "parse": "Noun - Dative Masculine Plural",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "everywhere",
@@ -85,7 +95,8 @@
     "translit": "(pantachou)",
     "parse": "Adverb",
     "str": "Strong's 3837:  ",
-    "str2": "Everywhere, in all places. Genitive case of a presumed derivative of pas; universally."
+    "str2": "Everywhere, in all places. Genitive case of a presumed derivative of pas; universally.",
+    "num": 3837
   },
   {
     "word": "to repent.",
@@ -93,6 +104,7 @@
     "translit": "(metanoein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 3340:  ",
-    "str2": "From meta and noieo; to think differently or afterwards, i.e. Reconsider."
+    "str2": "From meta and noieo; to think differently or afterwards, i.e. Reconsider.",
+    "num": 3340
   }
 ]

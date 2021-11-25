@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "this is what",
@@ -13,7 +14,8 @@
     "translit": "(ḵōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the Lord",
@@ -21,7 +23,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD",
@@ -29,7 +32,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "says:",
@@ -37,7 +41,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘When I make",
@@ -45,7 +50,8 @@
     "translit": "(bə·ṯit·tî)",
     "parse": "Preposition-b | Verb - Qal - Infinitive construct | first person common singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "you",
@@ -53,7 +59,8 @@
     "translit": "(’ō·ṯāḵ)",
     "parse": "Direct object marker | second person feminine singular",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "a desolate",
@@ -61,7 +68,8 @@
     "translit": "(ne·ḥĕ·re·ḇeṯ)",
     "parse": "Verb - Nifal - Participle - feminine singular",
     "str": "Strong's 2717:  ",
-    "str2": "To parch, to desolate, destroy, kill"
+    "str2": "To parch, to desolate, destroy, kill",
+    "num": 2717
   },
   {
     "word": "city",
@@ -69,7 +77,8 @@
     "translit": "(‘îr)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "like other deserted",
@@ -77,7 +86,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "cities,",
@@ -85,7 +95,8 @@
     "translit": "(ke·‘ā·rîm)",
     "parse": "Preposition-k, Article | Noun - feminine plural",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "when I raise up",
@@ -93,7 +104,8 @@
     "translit": "(bə·ha·‘ă·lō·wṯ)",
     "parse": "Preposition-b | Verb - Hifil - Infinitive construct",
     "str": "Strong's 5927:  ",
-    "str2": "To ascend, in, actively"
+    "str2": "To ascend, in, actively",
+    "num": 5927
   },
   {
     "word": "the deep",
@@ -101,7 +113,8 @@
     "translit": "(tə·hō·wm)",
     "parse": "Noun - common singular",
     "str": "Strong's 8415:  ",
-    "str2": "An abyss, the deep"
+    "str2": "An abyss, the deep",
+    "num": 8415
   },
   {
     "word": "against you",
@@ -109,7 +122,8 @@
     "translit": "(‘ā·la·yiḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "so that the mighty",
@@ -117,7 +131,8 @@
     "translit": "(hā·rab·bîm)",
     "parse": "Article | Adjective - masculine plural",
     "str": "Strong's 7227:  ",
-    "str2": "Much, many, great"
+    "str2": "Much, many, great",
+    "num": 7227
   },
   {
     "word": "waters",
@@ -125,7 +140,8 @@
     "translit": "(ham·ma·yim)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 4325:  ",
-    "str2": "Water, juice, urine, semen"
+    "str2": "Water, juice, urine, semen",
+    "num": 4325
   },
   {
     "word": "cover you,",
@@ -133,6 +149,7 @@
     "translit": "(wə·ḵis·sūḵ)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive perfect - third person common plural | second person feminine singular",
     "str": "Strong's 3680:  ",
-    "str2": "To plump, fill up hollows, to cover"
+    "str2": "To plump, fill up hollows, to cover",
+    "num": 3680
   }
 ]

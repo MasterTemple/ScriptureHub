@@ -5,7 +5,8 @@
     "translit": "(kōh-)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "of Hosts,",
@@ -21,7 +23,8 @@
     "translit": "(ṣə·ḇā·’ō·wṯ)",
     "parse": "Noun - common plural",
     "str": "Strong's 6635:  ",
-    "str2": "A mass of persons, reg, organized for, war, a campaign"
+    "str2": "A mass of persons, reg, organized for, war, a campaign",
+    "num": 6635
   },
   {
     "word": "the God",
@@ -29,7 +32,8 @@
     "translit": "(’ĕ·lō·hê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "of Israel,",
@@ -37,7 +41,8 @@
     "translit": "(yiś·rā·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3478:  ",
-    "str2": "Israel -- 'God strives', another name of Jacob and his desc"
+    "str2": "Israel -- 'God strives', another name of Jacob and his desc",
+    "num": 3478
   },
   {
     "word": "says:",
@@ -45,7 +50,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘I have broken",
@@ -53,7 +59,8 @@
     "translit": "(šā·ḇar·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 7665:  ",
-    "str2": "To break, break in pieces"
+    "str2": "To break, break in pieces",
+    "num": 7665
   },
   {
     "word": "the yoke",
@@ -61,7 +68,8 @@
     "translit": "(‘ōl)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 5923:  ",
-    "str2": "A yoke"
+    "str2": "A yoke",
+    "num": 5923
   },
   {
     "word": "of the king",
@@ -69,7 +77,8 @@
     "translit": "(me·leḵ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "of Babylon.",
@@ -77,6 +86,7 @@
     "translit": "(bā·ḇel)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 894:  ",
-    "str2": "Babylon -- an eastern Mediterranean empire and its capital city"
+    "str2": "Babylon -- an eastern Mediterranean empire and its capital city",
+    "num": 894
   }
 ]

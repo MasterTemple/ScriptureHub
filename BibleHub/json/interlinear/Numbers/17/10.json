@@ -5,7 +5,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "said",
@@ -13,7 +14,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "Moses,",
@@ -29,7 +32,8 @@
     "translit": "(mō·šeh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 4872:  ",
-    "str2": "Moses -- a great Israelite leader, prophet and lawgiver"
+    "str2": "Moses -- a great Israelite leader, prophet and lawgiver",
+    "num": 4872
   },
   {
     "word": "“Put Aaron’s",
@@ -37,7 +41,8 @@
     "translit": "(’a·hă·rōn)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 175:  ",
-    "str2": "Aaron -- an elder brother of Moses"
+    "str2": "Aaron -- an elder brother of Moses",
+    "num": 175
   },
   {
     "word": "staff",
@@ -45,7 +50,8 @@
     "translit": "(maṭ·ṭêh)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4294:  ",
-    "str2": "A staff, rod, shaft, branch, a tribe"
+    "str2": "A staff, rod, shaft, branch, a tribe",
+    "num": 4294
   },
   {
     "word": "back",
@@ -53,7 +59,8 @@
     "translit": "(hā·šêḇ)",
     "parse": "Verb - Hifil - Imperative - masculine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "in front",
@@ -61,7 +68,8 @@
     "translit": "(lip̄·nê)",
     "parse": "Preposition-l | Noun - common plural construct",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "of the Testimony,",
@@ -69,7 +77,8 @@
     "translit": "(hā·‘ê·ḏūṯ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 5715:  ",
-    "str2": "Testimony"
+    "str2": "Testimony",
+    "num": 5715
   },
   {
     "word": "to be kept",
@@ -77,7 +86,8 @@
     "translit": "(lə·miš·me·reṯ)",
     "parse": "Preposition-l | Noun - feminine singular",
     "str": "Strong's 4931:  ",
-    "str2": "A guard, watch, charge, function"
+    "str2": "A guard, watch, charge, function",
+    "num": 4931
   },
   {
     "word": "as a sign",
@@ -85,7 +95,8 @@
     "translit": "(lə·’ō·wṯ)",
     "parse": "Preposition | Noun - common singular",
     "str": "Strong's 226:  ",
-    "str2": "A signal, as a, flag, beacon, monument, omen, prodigy, evidence"
+    "str2": "A signal, as a, flag, beacon, monument, omen, prodigy, evidence",
+    "num": 226
   },
   {
     "word": "for the rebellious,",
@@ -93,7 +104,8 @@
     "translit": "(liḇ·nê-)",
     "parse": "Preposition-l | Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "so that you may put an end",
@@ -101,7 +113,8 @@
     "translit": "(ū·ṯə·ḵal)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive imperfect Jussive - third person feminine singular",
     "str": "Strong's 3615:  ",
-    "str2": "To be complete, at an end, finished, accomplished, or spent"
+    "str2": "To be complete, at an end, finished, accomplished, or spent",
+    "num": 3615
   },
   {
     "word": "to their grumbling",
@@ -109,7 +122,8 @@
     "translit": "(tə·lūn·nō·ṯām)",
     "parse": "Noun - feminine plural construct | third person masculine plural",
     "str": "Strong's 8519:  ",
-    "str2": "Exalted, lofty"
+    "str2": "Exalted, lofty",
+    "num": 8519
   },
   {
     "word": "against Me,",
@@ -117,7 +131,8 @@
     "translit": "(mê·‘ā·lay)",
     "parse": "Preposition-m | first person common singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "lest",
@@ -125,7 +140,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "they die.”",
@@ -133,6 +149,7 @@
     "translit": "(yā·mu·ṯū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   }
 ]

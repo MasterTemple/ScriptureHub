@@ -5,7 +5,8 @@
     "translit": "(’an·šê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "of",
@@ -13,7 +14,8 @@
     "translit": "(ḇêṯ-)",
     "parse": "Preposition",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "[the family of] Beth-azmaveth,",
@@ -21,7 +23,8 @@
     "translit": "(‘az·mā·weṯ)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 1041:  ",
-    "str2": "Beth-azmaveth -- 'house of Azmaveth', a place near Jerusalem"
+    "str2": "Beth-azmaveth -- 'house of Azmaveth', a place near Jerusalem",
+    "num": 1041
   },
   {
     "word": "42;",
@@ -29,6 +32,7 @@
     "translit": "(’ar·bā·‘îm)",
     "parse": "Number - common plural",
     "str": "Strong's 705:  ",
-    "str2": "Forty"
+    "str2": "Forty",
+    "num": 705
   }
 ]

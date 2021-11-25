@@ -5,7 +5,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "You have prepared",
@@ -13,7 +14,8 @@
     "translit": "(hētoimasas)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Singular",
     "str": "Strong's 2090:  ",
-    "str2": "To make ready, prepare. From hetoimos; to prepare."
+    "str2": "To make ready, prepare. From hetoimos; to prepare.",
+    "num": 2090
   },
   {
     "word": "in",
@@ -21,7 +23,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "the sight",
@@ -29,7 +32,8 @@
     "translit": "(prosōpon)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4383:  ",
-    "str2": "From pros and ops; the front, i.e. The countenance, aspect, appearance, surface; by implication, presence, person."
+    "str2": "From pros and ops; the front, i.e. The countenance, aspect, appearance, surface; by implication, presence, person.",
+    "num": 4383
   },
   {
     "word": "of all",
@@ -37,7 +41,8 @@
     "translit": "(pantōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "people,",
@@ -45,6 +50,7 @@
     "translit": "(laōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 2992:  ",
-    "str2": "Apparently a primary word; a people."
+    "str2": "Apparently a primary word; a people.",
+    "num": 2992
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(Kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "midnight,",
@@ -13,7 +14,8 @@
     "translit": "(mesonyktion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3317:  ",
-    "str2": "Midnight, the middle of the period between sunset and sunrise. Neuter of compound of mesos and nux; midnight."
+    "str2": "Midnight, the middle of the period between sunset and sunrise. Neuter of compound of mesos and nux; midnight.",
+    "num": 3317
   },
   {
     "word": "Paul",
@@ -21,7 +23,8 @@
     "translit": "(Paulos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3972:  ",
-    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle."
+    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle.",
+    "num": 3972
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Silas",
@@ -37,7 +41,8 @@
     "translit": "(Silas)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4609:  ",
-    "str2": "Silas, a pet-form of the name Silvanus; a Roman citizen and a helper of Paul. Contraction for Silouanos; Silas, a Christian."
+    "str2": "Silas, a pet-form of the name Silvanus; a Roman citizen and a helper of Paul. Contraction for Silouanos; Silas, a Christian.",
+    "num": 4609
   },
   {
     "word": "were praying",
@@ -45,7 +50,8 @@
     "translit": "(proseuchomenoi)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Masculine Plural",
     "str": "Strong's 4336:  ",
-    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship."
+    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship.",
+    "num": 4336
   },
   {
     "word": "[and] singing hymns",
@@ -53,7 +59,8 @@
     "translit": "(hymnoun)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 5214:  ",
-    "str2": "To sing, sing hymns to, praise. From humnos; to hymn, i.e. Sing a religious ode; by implication, to celebrate in song."
+    "str2": "To sing, sing hymns to, praise. From humnos; to hymn, i.e. Sing a religious ode; by implication, to celebrate in song.",
+    "num": 5214
   },
   {
     "word": "to",
@@ -61,7 +68,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "God,",
@@ -69,7 +77,8 @@
     "translit": "(Theon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -85,7 +95,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "[other] prisoners",
@@ -93,7 +104,8 @@
     "translit": "(desmioi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 1198:  ",
-    "str2": "One bound, a prisoner. From desmon; a captive."
+    "str2": "One bound, a prisoner. From desmon; a captive.",
+    "num": 1198
   },
   {
     "word": "were listening",
@@ -101,7 +113,8 @@
     "translit": "(epēkroōnto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 1874:  ",
-    "str2": "To listen to, hear, hearken to. From epi and the base of akroates; to listen to."
+    "str2": "To listen to, hear, hearken to. From epi and the base of akroates; to listen to.",
+    "num": 1874
   },
   {
     "word": "to them.",
@@ -109,6 +122,7 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

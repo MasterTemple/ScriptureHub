@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the life",
@@ -13,7 +14,8 @@
     "translit": "(ne·p̄eš)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   },
   {
     "word": "of a creature",
@@ -21,7 +23,8 @@
     "translit": "(hab·bā·śār)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1320:  ",
-    "str2": "Flesh, body, person, the pudenda of a, man"
+    "str2": "Flesh, body, person, the pudenda of a, man",
+    "num": 1320
   },
   {
     "word": "is in the blood,",
@@ -29,7 +32,8 @@
     "translit": "(bad·dām)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 1818:  ",
-    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed"
+    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed",
+    "num": 1818
   },
   {
     "word": "and I",
@@ -37,7 +41,8 @@
     "translit": "(wa·’ă·nî)",
     "parse": "Conjunctive waw | Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "have given it",
@@ -45,7 +50,8 @@
     "translit": "(nə·ṯat·tîw)",
     "parse": "Verb - Qal - Perfect - first person common singular | third person masculine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "to you",
@@ -53,7 +59,8 @@
     "translit": "(lā·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "to make an atonement",
@@ -61,7 +68,8 @@
     "translit": "(lə·ḵap·pêr)",
     "parse": "Preposition-l | Verb - Piel - Infinitive construct",
     "str": "Strong's 3722:  ",
-    "str2": "To cover, to expiate, condone, to placate, cancel"
+    "str2": "To cover, to expiate, condone, to placate, cancel",
+    "num": 3722
   },
   {
     "word": "for",
@@ -69,7 +77,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "your souls",
@@ -77,7 +86,8 @@
     "translit": "(nap̄·šō·ṯê·ḵem)",
     "parse": "Noun - feminine plural construct | second person masculine plural",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   },
   {
     "word": "upon",
@@ -85,7 +95,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the altar,",
@@ -93,7 +104,8 @@
     "translit": "(ham·miz·bê·aḥ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4196:  ",
-    "str2": "An altar"
+    "str2": "An altar",
+    "num": 4196
   },
   {
     "word": "since",
@@ -101,7 +113,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "it",
@@ -109,7 +122,8 @@
     "translit": "(hî)",
     "parse": "Pronoun - third person feminine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "is the lifeblood",
@@ -117,7 +131,8 @@
     "translit": "(had·dām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1818:  ",
-    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed"
+    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed",
+    "num": 1818
   },
   {
     "word": "that makes atonement.",
@@ -125,6 +140,7 @@
     "translit": "(yə·ḵap·pêr)",
     "parse": "Verb - Piel - Imperfect - third person masculine singular",
     "str": "Strong's 3722:  ",
-    "str2": "To cover, to expiate, condone, to placate, cancel"
+    "str2": "To cover, to expiate, condone, to placate, cancel",
+    "num": 3722
   }
 ]

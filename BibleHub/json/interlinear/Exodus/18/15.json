@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the people",
@@ -13,7 +14,8 @@
     "translit": "(hā·‘ām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "come",
@@ -21,7 +23,8 @@
     "translit": "(yā·ḇō)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "to",
@@ -29,7 +32,8 @@
     "translit": "(’ê·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "me to inquire",
@@ -37,7 +41,8 @@
     "translit": "(liḏ·rōš)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 1875:  ",
-    "str2": "To tread, frequent, to follow, to seek, ask, to worship"
+    "str2": "To tread, frequent, to follow, to seek, ask, to worship",
+    "num": 1875
   },
   {
     "word": "of God,”",
@@ -45,7 +50,8 @@
     "translit": "(’ĕ·lō·hîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "Moses",
@@ -53,7 +59,8 @@
     "translit": "(mō·šeh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 4872:  ",
-    "str2": "Moses -- a great Israelite leader, prophet and lawgiver"
+    "str2": "Moses -- a great Israelite leader, prophet and lawgiver",
+    "num": 4872
   },
   {
     "word": "replied.",
@@ -61,6 +68,7 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   }
 ]

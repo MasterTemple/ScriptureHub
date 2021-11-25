@@ -5,7 +5,8 @@
     "translit": "(pantes)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "ate",
@@ -13,7 +14,8 @@
     "translit": "(ephagon)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 5315:  ",
-    "str2": "A primary verb; to eat."
+    "str2": "A primary verb; to eat.",
+    "num": 5315
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "same",
@@ -29,7 +32,8 @@
     "translit": "(auto)",
     "parse": "Personal / Possessive Pronoun - Accusative Neuter 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "spiritual",
@@ -37,7 +41,8 @@
     "translit": "(pneumatikon)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 4152:  ",
-    "str2": "Spiritual. From pneuma; non-carnal, i.e. ethereal, or a spirit, or supernatural, regenerate, religious."
+    "str2": "Spiritual. From pneuma; non-carnal, i.e. ethereal, or a spirit, or supernatural, regenerate, religious.",
+    "num": 4152
   },
   {
     "word": "food",
@@ -45,6 +50,7 @@
     "translit": "(brōma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 1033:  ",
-    "str2": "Food of any kind. From the base of bibrosko; food, especially articles allowed or forbidden by the Jewish law."
+    "str2": "Food of any kind. From the base of bibrosko; food, especially articles allowed or forbidden by the Jewish law.",
+    "num": 1033
   }
 ]

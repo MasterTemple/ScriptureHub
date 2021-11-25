@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the Lord",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "says",
@@ -29,7 +32,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "to you,",
@@ -37,7 +41,8 @@
     "translit": "(wə·’at·tê·nāh)",
     "parse": "Conjunctive waw | Pronoun - second person feminine plural",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "My flock:",
@@ -45,7 +50,8 @@
     "translit": "(ṣō·nî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 6629:  ",
-    "str2": "Small cattle, sheep and goats, flock"
+    "str2": "Small cattle, sheep and goats, flock",
+    "num": 6629
   },
   {
     "word": "‘I will judge",
@@ -53,7 +59,8 @@
     "translit": "(šō·p̄êṭ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 8199:  ",
-    "str2": "To judge, pronounce sentence, to vindicate, punish, to govern, to litigate"
+    "str2": "To judge, pronounce sentence, to vindicate, punish, to govern, to litigate",
+    "num": 8199
   },
   {
     "word": "between",
@@ -61,7 +68,8 @@
     "translit": "(bên-)",
     "parse": "Preposition",
     "str": "Strong's 996:  ",
-    "str2": "An interval, space between"
+    "str2": "An interval, space between",
+    "num": 996
   },
   {
     "word": "one sheep",
@@ -69,7 +77,8 @@
     "translit": "(śeh)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7716:  ",
-    "str2": "A member of a, flock, a sheep, goat"
+    "str2": "A member of a, flock, a sheep, goat",
+    "num": 7716
   },
   {
     "word": "and another,",
@@ -77,7 +86,8 @@
     "translit": "(lā·śeh)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 7716:  ",
-    "str2": "A member of a, flock, a sheep, goat"
+    "str2": "A member of a, flock, a sheep, goat",
+    "num": 7716
   },
   {
     "word": "between the rams",
@@ -85,7 +95,8 @@
     "translit": "(lā·’ê·lîm)",
     "parse": "Preposition-l, Article | Noun - masculine plural",
     "str": "Strong's 352:  ",
-    "str2": "Strength, strong, a chief, a ram, a pilaster, an oak, strong tree"
+    "str2": "Strength, strong, a chief, a ram, a pilaster, an oak, strong tree",
+    "num": 352
   },
   {
     "word": "and the goats.",
@@ -93,6 +104,7 @@
     "translit": "(wə·lā·‘at·tū·ḏîm)",
     "parse": "Conjunctive waw, Preposition-l, Article | Noun - masculine plural",
     "str": "Strong's 6260:  ",
-    "str2": "Prepared, full grown, of he-goats, leaders of the people"
+    "str2": "Prepared, full grown, of he-goats, leaders of the people",
+    "num": 6260
   }
 ]

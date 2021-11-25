@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "on my arrival,",
@@ -13,7 +14,8 @@
     "translit": "(paragenōmai)",
     "parse": "Verb - Aorist Subjunctive Middle - 1st Person Singular",
     "str": "Strong's 3854:  ",
-    "str2": "From para and ginomai; to become near, i.e. Approach; by implication, to appear publicly."
+    "str2": "From para and ginomai; to become near, i.e. Approach; by implication, to appear publicly.",
+    "num": 3854
   },
   {
     "word": "I will send",
@@ -21,7 +23,8 @@
     "translit": "(pempsō)",
     "parse": "Verb - Future Indicative Active - 1st Person Singular",
     "str": "Strong's 3992:  ",
-    "str2": "To send, transmit, permit to go, put forth. "
+    "str2": "To send, transmit, permit to go, put forth. ",
+    "num": 3992
   },
   {
     "word": "letters",
@@ -29,7 +32,8 @@
     "translit": "(epistolōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 1992:  ",
-    "str2": "A letter, dispatch, epistle, message. From epistello; a written message."
+    "str2": "A letter, dispatch, epistle, message. From epistello; a written message.",
+    "num": 1992
   },
   {
     "word": "with",
@@ -37,7 +41,8 @@
     "translit": "(di’)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "those",
@@ -45,7 +50,8 @@
     "translit": "(toutous)",
     "parse": "Demonstrative Pronoun - Accusative Masculine Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "you recommend",
@@ -53,7 +59,8 @@
     "translit": "(dokimasēte)",
     "parse": "Verb - Aorist Subjunctive Active - 2nd Person Plural",
     "str": "Strong's 1381:  ",
-    "str2": "From dokimos; to test; by implication, to approve."
+    "str2": "From dokimos; to test; by implication, to approve.",
+    "num": 1381
   },
   {
     "word": "to carry",
@@ -61,7 +68,8 @@
     "translit": "(apenenkein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 667:  ",
-    "str2": "To carry, bear away (sometimes with violence). From apo and phero; to bear off."
+    "str2": "To carry, bear away (sometimes with violence). From apo and phero; to bear off.",
+    "num": 667
   },
   {
     "word": "your",
@@ -69,7 +77,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "gift",
@@ -77,7 +86,8 @@
     "translit": "(charin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5485:  ",
-    "str2": "From chairo; graciousness, of manner or act."
+    "str2": "From chairo; graciousness, of manner or act.",
+    "num": 5485
   },
   {
     "word": "to",
@@ -85,7 +95,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "Jerusalem.",
@@ -93,6 +104,7 @@
     "translit": "(Ierousalēm)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2419:  ",
-    "str2": "Of Hebrew origin; Hierusalem, the capitol of Palestine."
+    "str2": "Of Hebrew origin; Hierusalem, the capitol of Palestine.",
+    "num": 2419
   }
 ]

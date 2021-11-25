@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he swore",
@@ -13,7 +14,8 @@
     "translit": "(ōmosen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3660:  ",
-    "str2": "A prolonged form of a primary, but obsolete omo, for which another prolonged form omoo is used in certain tenses; to swear, i.e. Take oath."
+    "str2": "A prolonged form of a primary, but obsolete omo, for which another prolonged form omoo is used in certain tenses; to swear, i.e. Take oath.",
+    "num": 3660
   },
   {
     "word": "to her,",
@@ -21,7 +23,8 @@
     "translit": "(autē)",
     "parse": "Personal / Possessive Pronoun - Dative Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“Whatever",
@@ -29,7 +32,8 @@
     "translit": "(Polla)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "you ask",
@@ -37,7 +41,8 @@
     "translit": "(aitēsēs)",
     "parse": "Verb - Aorist Subjunctive Active - 2nd Person Singular",
     "str": "Strong's 154:  ",
-    "str2": "To ask, request, petition, demand. Of uncertain derivation; to ask."
+    "str2": "To ask, request, petition, demand. Of uncertain derivation; to ask.",
+    "num": 154
   },
   {
     "word": "of me,",
@@ -45,7 +50,8 @@
     "translit": "(me)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "I will give",
@@ -53,7 +59,8 @@
     "translit": "(dōsō)",
     "parse": "Verb - Future Indicative Active - 1st Person Singular",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "you,",
@@ -61,7 +68,8 @@
     "translit": "(soi)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "up to",
@@ -69,7 +77,8 @@
     "translit": "(heōs)",
     "parse": "Preposition",
     "str": "Strong's 2193:  ",
-    "str2": "A conjunction, preposition and adverb of continuance, until."
+    "str2": "A conjunction, preposition and adverb of continuance, until.",
+    "num": 2193
   },
   {
     "word": "half",
@@ -77,7 +86,8 @@
     "translit": "(hēmisous)",
     "parse": "Adjective - Genitive Neuter Singular",
     "str": "Strong's 2255:  ",
-    "str2": "Half. Neuter of a derivative from an inseparable prefix akin to hama and meaning semi-; half."
+    "str2": "Half. Neuter of a derivative from an inseparable prefix akin to hama and meaning semi-; half.",
+    "num": 2255
   },
   {
     "word": "my",
@@ -85,7 +95,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "kingdom!”",
@@ -93,6 +104,7 @@
     "translit": "(basileias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 932:  ",
-    "str2": "From basileus; properly, royalty, i.e. rule, or a realm."
+    "str2": "From basileus; properly, royalty, i.e. rule, or a realm.",
+    "num": 932
   }
 ]

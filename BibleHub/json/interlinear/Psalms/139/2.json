@@ -5,7 +5,8 @@
     "translit": "(’at·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "know",
@@ -13,7 +14,8 @@
     "translit": "(yā·ḏa‘·tā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "when I sit",
@@ -21,7 +23,8 @@
     "translit": "(šiḇ·tî)",
     "parse": "Verb - Qal - Infinitive construct | first person common singular",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "and when I rise;",
@@ -29,7 +32,8 @@
     "translit": "(wə·qū·mî)",
     "parse": "Conjunctive waw | Verb - Qal - Infinitive construct | first person common singular",
     "str": "Strong's 6965:  ",
-    "str2": "To arise, stand up, stand"
+    "str2": "To arise, stand up, stand",
+    "num": 6965
   },
   {
     "word": "You understand",
@@ -37,7 +41,8 @@
     "translit": "(ban·tāh)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 995:  ",
-    "str2": "To separate mentally, understand"
+    "str2": "To separate mentally, understand",
+    "num": 995
   },
   {
     "word": "my thoughts",
@@ -45,7 +50,8 @@
     "translit": "(lə·rê·‘î)",
     "parse": "Preposition-l | Noun - masculine singular construct | first person common singular",
     "str": "Strong's 7454:  ",
-    "str2": "Purpose, aim"
+    "str2": "Purpose, aim",
+    "num": 7454
   },
   {
     "word": "from afar.",
@@ -53,6 +59,7 @@
     "translit": "(mê·rā·ḥō·wq)",
     "parse": "Preposition-m | Adjective - masculine singular",
     "str": "Strong's 7350:  ",
-    "str2": "Remote, of place, time, precious"
+    "str2": "Remote, of place, time, precious",
+    "num": 7350
   }
 ]

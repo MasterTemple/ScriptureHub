@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "some",
@@ -13,7 +14,8 @@
     "translit": "(tines)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Plural",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "people",
@@ -21,7 +23,8 @@
     "translit": "(andres)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "joined",
@@ -29,7 +32,8 @@
     "translit": "(kollēthentes)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Plural",
     "str": "Strong's 2853:  ",
-    "str2": "From kolla; to glue, i.e. to stick."
+    "str2": "From kolla; to glue, i.e. to stick.",
+    "num": 2853
   },
   {
     "word": "him",
@@ -37,7 +41,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "[and] believed,",
@@ -45,7 +50,8 @@
     "translit": "(episteusan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 4100:  ",
-    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust."
+    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust.",
+    "num": 4100
   },
   {
     "word": "including",
@@ -53,7 +59,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "Dionysius",
@@ -61,7 +68,8 @@
     "translit": "(Dionysios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 1354:  ",
-    "str2": "Dionysius, an Athenian. From Dionusos; reveller; Dionysius, an Athenian."
+    "str2": "Dionysius, an Athenian. From Dionusos; reveller; Dionysius, an Athenian.",
+    "num": 1354
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Areopagite,",
@@ -77,7 +86,8 @@
     "translit": "(Areopagitēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 698:  ",
-    "str2": "From Areios Pagos; an Areopagite or member of the court held on Mars' Hill."
+    "str2": "From Areios Pagos; an Areopagite or member of the court held on Mars' Hill.",
+    "num": 698
   },
   {
     "word": "a woman",
@@ -85,7 +95,8 @@
     "translit": "(gynē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1135:  ",
-    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife."
+    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife.",
+    "num": 1135
   },
   {
     "word": "named",
@@ -93,7 +104,8 @@
     "translit": "(onomati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 3686:  ",
-    "str2": "Name, character, fame, reputation. From a presumed derivative of the base of ginosko; a 'name'."
+    "str2": "Name, character, fame, reputation. From a presumed derivative of the base of ginosko; a 'name'.",
+    "num": 3686
   },
   {
     "word": "Damaris,",
@@ -101,7 +113,8 @@
     "translit": "(Damaris)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1152:  ",
-    "str2": "Damaris, an Athenian woman. Probably from the base of damazo; perhaps gentle; Damaris, an Athenian woman."
+    "str2": "Damaris, an Athenian woman. Probably from the base of damazo; perhaps gentle; Damaris, an Athenian woman.",
+    "num": 1152
   },
   {
     "word": "and",
@@ -109,7 +122,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "others",
@@ -117,7 +131,8 @@
     "translit": "(heteroi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 2087:  ",
-    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different."
+    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different.",
+    "num": 2087
   },
   {
     "word": "[who were] with",
@@ -125,7 +140,8 @@
     "translit": "(syn)",
     "parse": "Preposition",
     "str": "Strong's 4862:  ",
-    "str2": "With. A primary preposition denoting union; with or together."
+    "str2": "With. A primary preposition denoting union; with or together.",
+    "num": 4862
   },
   {
     "word": "them.",
@@ -133,6 +149,7 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "says:",
@@ -21,7 +23,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "By this",
@@ -29,7 +32,8 @@
     "translit": "(bə·zōṯ)",
     "parse": "Preposition-b | Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "you will know",
@@ -37,7 +41,8 @@
     "translit": "(tê·ḏa‘)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "that",
@@ -45,7 +50,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I",
@@ -53,7 +59,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "am the LORD.",
@@ -61,7 +68,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "Behold,",
@@ -69,7 +77,8 @@
     "translit": "(hin·nêh)",
     "parse": "Interjection",
     "str": "Strong's 2009:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2009
   },
   {
     "word": "with the staff",
@@ -77,7 +86,8 @@
     "translit": "(bam·maṭ·ṭeh)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 4294:  ",
-    "str2": "A staff, rod, shaft, branch, a tribe"
+    "str2": "A staff, rod, shaft, branch, a tribe",
+    "num": 4294
   },
   {
     "word": "in my hand",
@@ -85,7 +95,8 @@
     "translit": "(bə·yā·ḏî)",
     "parse": "Preposition-b | Noun - feminine singular construct | first person common singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "I",
@@ -93,7 +104,8 @@
     "translit": "(’ā·nō·ḵî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "will strike",
@@ -101,7 +113,8 @@
     "translit": "(mak·keh)",
     "parse": "Verb - Hifil - Participle - masculine singular",
     "str": "Strong's 5221:  ",
-    "str2": "To strike"
+    "str2": "To strike",
+    "num": 5221
   },
   {
     "word": "the water",
@@ -109,7 +122,8 @@
     "translit": "(ham·ma·yim)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 4325:  ",
-    "str2": "Water, juice, urine, semen"
+    "str2": "Water, juice, urine, semen",
+    "num": 4325
   },
   {
     "word": "of the Nile,",
@@ -117,7 +131,8 @@
     "translit": "(bay·’ōr)",
     "parse": "Preposition-b, Article | Noun - proper - feminine singular",
     "str": "Strong's 2975:  ",
-    "str2": "Nile -- a channel, a fosse, canal, shaft, the Nile, the Tigris"
+    "str2": "Nile -- a channel, a fosse, canal, shaft, the Nile, the Tigris",
+    "num": 2975
   },
   {
     "word": "and it will turn",
@@ -125,7 +140,8 @@
     "translit": "(wə·ne·hep̄·ḵū)",
     "parse": "Conjunctive waw | Verb - Nifal - Conjunctive perfect - third person common plural",
     "str": "Strong's 2015:  ",
-    "str2": "To turn about, over, to change, overturn, return, pervert"
+    "str2": "To turn about, over, to change, overturn, return, pervert",
+    "num": 2015
   },
   {
     "word": "to blood.",
@@ -133,6 +149,7 @@
     "translit": "(lə·ḏām)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 1818:  ",
-    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed"
+    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed",
+    "num": 1818
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(bā·ri·šōn)",
     "parse": "Preposition-b, Article | Adjective - masculine singular",
     "str": "Strong's 7223:  ",
-    "str2": "First, in place, time, rank"
+    "str2": "First, in place, time, rank",
+    "num": 7223
   },
   {
     "word": "you are to eat",
@@ -13,7 +14,8 @@
     "translit": "(tō·ḵə·lū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "unleavened bread,",
@@ -21,7 +23,8 @@
     "translit": "(maṣ·ṣōṯ)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 4682:  ",
-    "str2": "Sweetness, sweet, an unfermented cake, loaf, the festival of Passover"
+    "str2": "Sweetness, sweet, an unfermented cake, loaf, the festival of Passover",
+    "num": 4682
   },
   {
     "word": "from the evening",
@@ -29,7 +32,8 @@
     "translit": "(bā·‘e·reḇ)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 6153:  ",
-    "str2": "Evening"
+    "str2": "Evening",
+    "num": 6153
   },
   {
     "word": "of the fourteenth",
@@ -37,7 +41,8 @@
     "translit": "(bə·’ar·bā·‘āh)",
     "parse": "Preposition-b | Number - masculine singular",
     "str": "Strong's 702:  ",
-    "str2": "Four"
+    "str2": "Four",
+    "num": 702
   },
   {
     "word": "day",
@@ -45,7 +50,8 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "until",
@@ -53,7 +59,8 @@
     "translit": "(‘aḏ)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "the evening",
@@ -61,7 +68,8 @@
     "translit": "(bā·‘ā·reḇ)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 6153:  ",
-    "str2": "Evening"
+    "str2": "Evening",
+    "num": 6153
   },
   {
     "word": "of the twenty-first",
@@ -69,7 +77,8 @@
     "translit": "(hā·’e·ḥāḏ)",
     "parse": "Article | Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "day.",
@@ -77,6 +86,7 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   }
 ]

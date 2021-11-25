@@ -5,7 +5,8 @@
     "translit": "(hên)",
     "parse": "Interjection",
     "str": "Strong's 2005:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2005
   },
   {
     "word": "the river",
@@ -13,7 +14,8 @@
     "translit": "(nā·hār)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5104:  ",
-    "str2": "A stream, prosperity"
+    "str2": "A stream, prosperity",
+    "num": 5104
   },
   {
     "word": "rages,",
@@ -21,7 +23,8 @@
     "translit": "(ya·‘ă·šōq)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 6231:  ",
-    "str2": "To press upon, oppress, defraud, violate, overflow"
+    "str2": "To press upon, oppress, defraud, violate, overflow",
+    "num": 6231
   },
   {
     "word": "Behemoth is unafraid;",
@@ -29,7 +32,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "he remains secure,",
@@ -37,7 +41,8 @@
     "translit": "(yiḇ·ṭaḥ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 982:  ",
-    "str2": "To trust, be confident, sure"
+    "str2": "To trust, be confident, sure",
+    "num": 982
   },
   {
     "word": "though",
@@ -45,7 +50,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the Jordan",
@@ -53,7 +59,8 @@
     "translit": "(yar·dên)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 3383:  ",
-    "str2": "Jordan -- the principal river of Palestine"
+    "str2": "Jordan -- the principal river of Palestine",
+    "num": 3383
   },
   {
     "word": "surges",
@@ -61,7 +68,8 @@
     "translit": "(yā·ḡî·aḥ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1518:  ",
-    "str2": "To gush forth, to issue"
+    "str2": "To gush forth, to issue",
+    "num": 1518
   },
   {
     "word": "to",
@@ -69,7 +77,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "his mouth.",
@@ -77,6 +86,7 @@
     "translit": "(pî·hū)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 6310:  ",
-    "str2": "The mouth, edge, portion, side, according to"
+    "str2": "The mouth, edge, portion, side, according to",
+    "num": 6310
   }
 ]

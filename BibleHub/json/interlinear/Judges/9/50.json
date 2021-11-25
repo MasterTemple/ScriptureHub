@@ -5,7 +5,8 @@
     "translit": "(’ă·ḇî·me·leḵ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 40:  ",
-    "str2": "Abimelech -- 'father is king', a Philistine name, also an Israelite name"
+    "str2": "Abimelech -- 'father is king', a Philistine name, also an Israelite name",
+    "num": 40
   },
   {
     "word": "went",
@@ -13,7 +14,8 @@
     "translit": "(way·yê·leḵ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "Thebez,",
@@ -29,7 +32,8 @@
     "translit": "(tê·ḇêṣ)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 8405:  ",
-    "str2": "Thebez -- a city near Shechem"
+    "str2": "Thebez -- a city near Shechem",
+    "num": 8405
   },
   {
     "word": "encamped",
@@ -37,7 +41,8 @@
     "translit": "(way·yi·ḥan)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 2583:  ",
-    "str2": "To incline, to decline, to pitch a, tent, gen, to encamp"
+    "str2": "To incline, to decline, to pitch a, tent, gen, to encamp",
+    "num": 2583
   },
   {
     "word": "against it,",
@@ -45,7 +50,8 @@
     "translit": "(bə·ṯê·ḇêṣ)",
     "parse": "Preposition-b | Noun - proper - feminine singular",
     "str": "Strong's 8405:  ",
-    "str2": "Thebez -- a city near Shechem"
+    "str2": "Thebez -- a city near Shechem",
+    "num": 8405
   },
   {
     "word": "and captured it.",
@@ -53,6 +59,7 @@
     "translit": "(way·yil·kə·ḏāh)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular | third person feminine singular",
     "str": "Strong's 3920:  ",
-    "str2": "To catch, to capture, occupy, to choose, to cohere"
+    "str2": "To catch, to capture, occupy, to choose, to cohere",
+    "num": 3920
   }
 ]

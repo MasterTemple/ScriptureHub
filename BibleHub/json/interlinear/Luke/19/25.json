@@ -5,7 +5,8 @@
     "translit": "(Kyrie)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "they said,",
@@ -13,7 +14,8 @@
     "translit": "(eipan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "‘he [already] has",
@@ -21,7 +23,8 @@
     "translit": "(echei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "ten!’",
@@ -29,6 +32,7 @@
     "translit": "(deka)",
     "parse": "Adjective - Accusative Feminine Plural",
     "str": "Strong's 1176:  ",
-    "str2": "Ten. A primary number; ten."
+    "str2": "Ten. A primary number; ten.",
+    "num": 1176
   }
 ]

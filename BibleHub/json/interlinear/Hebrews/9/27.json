@@ -5,7 +5,8 @@
     "translit": "(kath’)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "as",
@@ -13,7 +14,8 @@
     "translit": "(hoson)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3745:  ",
-    "str2": "How much, how great, how many, as great as, as much. By reduplication from hos; as As."
+    "str2": "How much, how great, how many, as great as, as much. By reduplication from hos; as As.",
+    "num": 3745
   },
   {
     "word": "man",
@@ -21,7 +23,8 @@
     "translit": "(anthrōpois)",
     "parse": "Noun - Dative Masculine Plural",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "is appointed",
@@ -29,7 +32,8 @@
     "translit": "(apokeitai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 606:  ",
-    "str2": "To have been put away, be stored, be reserved for. From apo and keimai; to be reserved; figuratively, to await."
+    "str2": "To have been put away, be stored, be reserved for. From apo and keimai; to be reserved; figuratively, to await.",
+    "num": 606
   },
   {
     "word": "to die",
@@ -37,7 +41,8 @@
     "translit": "(apothanein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 599:  ",
-    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off."
+    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off.",
+    "num": 599
   },
   {
     "word": "once,",
@@ -45,7 +50,8 @@
     "translit": "(hapax)",
     "parse": "Adverb",
     "str": "Strong's 530:  ",
-    "str2": "Once, once for all. Probably from hapas; one time."
+    "str2": "Once, once for all. Probably from hapas; one time.",
+    "num": 530
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "after",
@@ -61,7 +68,8 @@
     "translit": "(meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "that",
@@ -69,7 +77,8 @@
     "translit": "(touto)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "[to face] judgment,",
@@ -77,6 +86,7 @@
     "translit": "(krisis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2920:  ",
-    "str2": "Decision; by extension, a tribunal; by implication, justice."
+    "str2": "Decision; by extension, a tribunal; by implication, justice.",
+    "num": 2920
   }
 ]

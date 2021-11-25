@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "You,",
@@ -13,7 +14,8 @@
     "translit": "(’at·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "O Lord",
@@ -21,7 +23,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD,",
@@ -29,7 +32,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "as Your inheritance,",
@@ -37,7 +41,8 @@
     "translit": "(lə·na·ḥă·lāh)",
     "parse": "Preposition-l | Noun - feminine singular",
     "str": "Strong's 5159:  ",
-    "str2": "Something inherited, occupancy, an heirloom, an estate, patrimony, portion"
+    "str2": "Something inherited, occupancy, an heirloom, an estate, patrimony, portion",
+    "num": 5159
   },
   {
     "word": "have set them apart",
@@ -45,7 +50,8 @@
     "translit": "(hiḇ·dal·tām)",
     "parse": "Verb - Hifil - Perfect - second person masculine singular | third person masculine plural",
     "str": "Strong's 914:  ",
-    "str2": "To be divided, separate"
+    "str2": "To be divided, separate",
+    "num": 914
   },
   {
     "word": "from all",
@@ -53,7 +59,8 @@
     "translit": "(mik·kōl)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the peoples",
@@ -61,7 +68,8 @@
     "translit": "(‘am·mê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "of the earth,",
@@ -69,7 +77,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "as",
@@ -77,7 +86,8 @@
     "translit": "(ka·’ă·šer)",
     "parse": "Preposition-k | Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "You spoke",
@@ -85,7 +95,8 @@
     "translit": "(dib·bar·tā)",
     "parse": "Verb - Piel - Perfect - second person masculine singular",
     "str": "Strong's 1696:  ",
-    "str2": "To arrange, to speak, to subdue"
+    "str2": "To arrange, to speak, to subdue",
+    "num": 1696
   },
   {
     "word": "through",
@@ -93,7 +104,8 @@
     "translit": "(bə·yaḏ)",
     "parse": "Preposition-b | Noun - feminine singular construct",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "Your servant",
@@ -101,7 +113,8 @@
     "translit": "(‘aḇ·de·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 5650:  ",
-    "str2": "Slave, servant"
+    "str2": "Slave, servant",
+    "num": 5650
   },
   {
     "word": "Moses",
@@ -109,7 +122,8 @@
     "translit": "(mō·šeh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 4872:  ",
-    "str2": "Moses -- a great Israelite leader, prophet and lawgiver"
+    "str2": "Moses -- a great Israelite leader, prophet and lawgiver",
+    "num": 4872
   },
   {
     "word": "when You brought",
@@ -117,7 +131,8 @@
     "translit": "(bə·hō·w·ṣî·’ă·ḵā)",
     "parse": "Preposition-b | Verb - Hifil - Infinitive construct | second person masculine singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "our fathers",
@@ -125,7 +140,8 @@
     "translit": "(’ă·ḇō·ṯê·nū)",
     "parse": "Noun - masculine plural construct | first person common plural",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "out of Egypt.”",
@@ -133,6 +149,7 @@
     "translit": "(mim·miṣ·ra·yim)",
     "parse": "Preposition-m | Noun - proper - feminine singular",
     "str": "Strong's 4714:  ",
-    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa"
+    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+    "num": 4714
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "wisdom",
@@ -13,7 +14,8 @@
     "translit": "(sophia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4678:  ",
-    "str2": "Wisdom, insight, skill (human or divine), intelligence. From sophos; wisdom."
+    "str2": "Wisdom, insight, skill (human or divine), intelligence. From sophos; wisdom.",
+    "num": 4678
   },
   {
     "word": "is vindicated",
@@ -21,7 +23,8 @@
     "translit": "(edikaiōthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 1344:  ",
-    "str2": "From dikaios; to render just or innocent."
+    "str2": "From dikaios; to render just or innocent.",
+    "num": 1344
   },
   {
     "word": "by",
@@ -29,7 +32,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "all",
@@ -37,7 +41,8 @@
     "translit": "(pantōn)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "her",
@@ -45,7 +50,8 @@
     "translit": "(autēs)",
     "parse": "Personal / Possessive Pronoun - Genitive Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "children.”",
@@ -53,6 +59,7 @@
     "translit": "(teknōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 5043:  ",
-    "str2": "A child, descendent, inhabitant. From the base of timoria; a child."
+    "str2": "A child, descendent, inhabitant. From the base of timoria; a child.",
+    "num": 5043
   }
 ]

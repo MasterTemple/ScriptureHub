@@ -5,7 +5,8 @@
     "translit": "(tris)",
     "parse": "Adverb",
     "str": "Strong's 5151:  ",
-    "str2": "Three times. Adverb from treis; three times."
+    "str2": "Three times. Adverb from treis; three times.",
+    "num": 5151
   },
   {
     "word": "I pleaded with",
@@ -13,7 +14,8 @@
     "translit": "(parekalesa)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 3870:  ",
-    "str2": "From para and kaleo; to call near, i.e. Invite, invoke."
+    "str2": "From para and kaleo; to call near, i.e. Invite, invoke.",
+    "num": 3870
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord",
@@ -29,7 +32,8 @@
     "translit": "(Kyrion)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "to",
@@ -37,7 +41,8 @@
     "translit": "(hina)",
     "parse": "Conjunction",
     "str": "Strong's 2443:  ",
-    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that."
+    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that.",
+    "num": 2443
   },
   {
     "word": "take it away",
@@ -45,7 +50,8 @@
     "translit": "(apostē)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 868:  ",
-    "str2": "From apo and histemi; to remove, i.e. instigate to revolt; usually to desist, desert, etc."
+    "str2": "From apo and histemi; to remove, i.e. instigate to revolt; usually to desist, desert, etc.",
+    "num": 868
   },
   {
     "word": "from",
@@ -53,7 +59,8 @@
     "translit": "(ap’)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "me.",
@@ -61,6 +68,7 @@
     "translit": "(emou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   }
 ]

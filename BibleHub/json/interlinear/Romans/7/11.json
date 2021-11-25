@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "sin,",
@@ -13,7 +14,8 @@
     "translit": "(hamartia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 266:  ",
-    "str2": "From hamartano; a sin."
+    "str2": "From hamartano; a sin.",
+    "num": 266
   },
   {
     "word": "seizing",
@@ -21,7 +23,8 @@
     "translit": "(labousa)",
     "parse": "Verb - Aorist Participle Active - Nominative Feminine Singular",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "[its] opportunity",
@@ -29,7 +32,8 @@
     "translit": "(aphormēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 874:  ",
-    "str2": "From a compound of apo and hormao; a starting-point, i.e. an opportunity."
+    "str2": "From a compound of apo and hormao; a starting-point, i.e. an opportunity.",
+    "num": 874
   },
   {
     "word": "through",
@@ -37,7 +41,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "commandment,",
@@ -53,7 +59,8 @@
     "translit": "(entolēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1785:  ",
-    "str2": "An ordinance, injunction, command, law. From entellomai; injunction, i.e. An authoritative prescription."
+    "str2": "An ordinance, injunction, command, law. From entellomai; injunction, i.e. An authoritative prescription.",
+    "num": 1785
   },
   {
     "word": "deceived",
@@ -61,7 +68,8 @@
     "translit": "(exēpatēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1818:  ",
-    "str2": "To deceive thoroughly. From ek and apatao; to seduce wholly."
+    "str2": "To deceive thoroughly. From ek and apatao; to seduce wholly.",
+    "num": 1818
   },
   {
     "word": "me",
@@ -69,7 +77,8 @@
     "translit": "(me)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "through",
@@ -85,7 +95,8 @@
     "translit": "(di’)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "[the commandment]",
@@ -93,7 +104,8 @@
     "translit": "(autēs)",
     "parse": "Personal / Possessive Pronoun - Genitive Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "put [me] to death.",
@@ -101,6 +113,7 @@
     "translit": "(apekteinen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 615:  ",
-    "str2": "To put to death, kill; fig: I abolish. From apo and kteino; to kill outright; figuratively, to destroy."
+    "str2": "To put to death, kill; fig: I abolish. From apo and kteino; to kill outright; figuratively, to destroy.",
+    "num": 615
   }
 ]

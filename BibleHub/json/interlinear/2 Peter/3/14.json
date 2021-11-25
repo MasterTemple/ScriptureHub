@@ -5,7 +5,8 @@
     "translit": "(Dio)",
     "parse": "Conjunction",
     "str": "Strong's 1352:  ",
-    "str2": "Wherefore, on which account, therefore. From dia and hos; through which thing, i.e. Consequently."
+    "str2": "Wherefore, on which account, therefore. From dia and hos; through which thing, i.e. Consequently.",
+    "num": 1352
   },
   {
     "word": "beloved,",
@@ -13,7 +14,8 @@
     "translit": "(agapētoi)",
     "parse": "Adjective - Vocative Masculine Plural",
     "str": "Strong's 27:  ",
-    "str2": "From agapao; beloved."
+    "str2": "From agapao; beloved.",
+    "num": 27
   },
   {
     "word": "as you anticipate",
@@ -21,7 +23,8 @@
     "translit": "(prosdokōntes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 4328:  ",
-    "str2": "To expect, wait for, await, think, anticipate. From pros and dokeuo; to anticipate; by implication, to await."
+    "str2": "To expect, wait for, await, think, anticipate. From pros and dokeuo; to anticipate; by implication, to await.",
+    "num": 4328
   },
   {
     "word": "these things,",
@@ -29,7 +32,8 @@
     "translit": "(tauta)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "make every effort",
@@ -37,7 +41,8 @@
     "translit": "(spoudasate)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 4704:  ",
-    "str2": "To hasten, be eager, be zealous. From spoude; to use speed, i.e. To make effort, be prompt or earnest."
+    "str2": "To hasten, be eager, be zealous. From spoude; to use speed, i.e. To make effort, be prompt or earnest.",
+    "num": 4704
   },
   {
     "word": "to be found",
@@ -45,7 +50,8 @@
     "translit": "(heurethēnai)",
     "parse": "Verb - Aorist Infinitive Passive",
     "str": "Strong's 2147:  ",
-    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find."
+    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find.",
+    "num": 2147
   },
   {
     "word": "at",
@@ -53,7 +59,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "peace",
@@ -61,7 +68,8 @@
     "translit": "(eirēnē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 1515:  ",
-    "str2": "Probably from a primary verb eiro; peace; by implication, prosperity."
+    "str2": "Probably from a primary verb eiro; peace; by implication, prosperity.",
+    "num": 1515
   },
   {
     "word": "with Him,",
@@ -69,7 +77,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "without spot",
@@ -77,7 +86,8 @@
     "translit": "(aspiloi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 784:  ",
-    "str2": "Unstained, undefiled, spotless, pure. Unblemished."
+    "str2": "Unstained, undefiled, spotless, pure. Unblemished.",
+    "num": 784
   },
   {
     "word": "[or]",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "blemish.",
@@ -93,6 +104,7 @@
     "translit": "(amōmētoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 298:  ",
-    "str2": "Without blame or fault, unblemished. Unblamable."
+    "str2": "Without blame or fault, unblemished. Unblamable.",
+    "num": 298
   }
 ]

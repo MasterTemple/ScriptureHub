@@ -5,7 +5,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "some",
@@ -13,7 +14,8 @@
     "translit": "(tinas)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Masculine Plural",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "who",
@@ -21,7 +23,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "trusted",
@@ -29,7 +32,8 @@
     "translit": "(pepoithotas)",
     "parse": "Verb - Perfect Participle Active - Accusative Masculine Plural",
     "str": "Strong's 3982:  ",
-    "str2": "A primary verb; to convince; by analogy, to pacify or conciliate; reflexively or passively, to assent, to rely."
+    "str2": "A primary verb; to convince; by analogy, to pacify or conciliate; reflexively or passively, to assent, to rely.",
+    "num": 3982
   },
   {
     "word": "in",
@@ -37,7 +41,8 @@
     "translit": "(eph’)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "their own",
@@ -45,7 +50,8 @@
     "translit": "(heautois)",
     "parse": "Reflexive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   },
   {
     "word": "righteousness",
@@ -53,7 +59,8 @@
     "translit": "(dikaioi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 1342:  ",
-    "str2": "From dike; equitable; by implication, innocent, holy."
+    "str2": "From dike; equitable; by implication, innocent, holy.",
+    "num": 1342
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "viewed",
@@ -69,7 +77,8 @@
     "translit": "(exouthenountas)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Plural",
     "str": "Strong's 1848:  ",
-    "str2": "To set at naught, ignore, despise. A variation of exoudenoo and meaning the same."
+    "str2": "To set at naught, ignore, despise. A variation of exoudenoo and meaning the same.",
+    "num": 1848
   },
   {
     "word": "others {with contempt},",
@@ -77,7 +86,8 @@
     "translit": "(loipous)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 3062:  ",
-    "str2": "Left, left behind, the remainder, the rest, the others. Masculine plural of a derivative of leipo; remaining ones."
+    "str2": "Left, left behind, the remainder, the rest, the others. Masculine plural of a derivative of leipo; remaining ones.",
+    "num": 3062
   },
   {
     "word": "He also told",
@@ -85,7 +95,8 @@
     "translit": "(Eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "this",
@@ -93,7 +104,8 @@
     "translit": "(tautēn)",
     "parse": "Demonstrative Pronoun - Accusative Feminine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "parable:",
@@ -101,6 +113,7 @@
     "translit": "(parabolēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3850:  ",
-    "str2": "From paraballo; a similitude, i.e. fictitious narrative, apothegm or adage."
+    "str2": "From paraballo; a similitude, i.e. fictitious narrative, apothegm or adage.",
+    "num": 3850
   }
 ]

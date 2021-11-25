@@ -5,7 +5,8 @@
     "translit": "(šiḇ·‘āh)",
     "parse": "Number - masculine singular",
     "str": "Strong's 7651:  ",
-    "str2": "Seven, seven times, a week, an indefinite number"
+    "str2": "Seven, seven times, a week, an indefinite number",
+    "num": 7651
   },
   {
     "word": "months",
@@ -13,7 +14,8 @@
     "translit": "(ḥo·ḏā·šîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 2320:  ",
-    "str2": "The new moon, a month"
+    "str2": "The new moon, a month",
+    "num": 2320
   },
   {
     "word": "the house",
@@ -21,7 +23,8 @@
     "translit": "(bêṯ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "of Israel",
@@ -29,7 +32,8 @@
     "translit": "(yiś·rā·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3478:  ",
-    "str2": "Israel -- 'God strives', another name of Jacob and his desc"
+    "str2": "Israel -- 'God strives', another name of Jacob and his desc",
+    "num": 3478
   },
   {
     "word": "will be burying them",
@@ -37,7 +41,8 @@
     "translit": "(ū·qə·ḇā·rūm)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person common plural | third person masculine plural",
     "str": "Strong's 6912:  ",
-    "str2": "To inter"
+    "str2": "To inter",
+    "num": 6912
   },
   {
     "word": "in order",
@@ -45,7 +50,8 @@
     "translit": "(lə·ma·‘an)",
     "parse": "Conjunction",
     "str": "Strong's 4616:  ",
-    "str2": "Purpose -- intent"
+    "str2": "Purpose -- intent",
+    "num": 4616
   },
   {
     "word": "to cleanse",
@@ -53,7 +59,8 @@
     "translit": "(ṭa·hêr)",
     "parse": "Verb - Piel - Infinitive construct",
     "str": "Strong's 2891:  ",
-    "str2": "To be clean or pure"
+    "str2": "To be clean or pure",
+    "num": 2891
   },
   {
     "word": "the land.",
@@ -61,6 +68,7 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   }
 ]

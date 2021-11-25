@@ -5,7 +5,8 @@
     "translit": "(hā·’a·ḥaṯ)",
     "parse": "Article | Number - feminine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "woman",
@@ -13,7 +14,8 @@
     "translit": "(hā·’iš·šāh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 802:  ",
-    "str2": "Woman, wife, female"
+    "str2": "Woman, wife, female",
+    "num": 802
   },
   {
     "word": "said,",
@@ -21,7 +23,8 @@
     "translit": "(wat·tō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“Please,",
@@ -29,7 +32,8 @@
     "translit": "(bî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 994:  ",
-    "str2": "Oh that!, with leave, if it please"
+    "str2": "Oh that!, with leave, if it please",
+    "num": 994
   },
   {
     "word": "my lord,",
@@ -37,7 +41,8 @@
     "translit": "(’ă·ḏō·nî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 113:  ",
-    "str2": "Sovereign, controller"
+    "str2": "Sovereign, controller",
+    "num": 113
   },
   {
     "word": "this",
@@ -45,7 +50,8 @@
     "translit": "(haz·zōṯ)",
     "parse": "Article | Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "woman",
@@ -53,7 +59,8 @@
     "translit": "(wə·hā·’iš·šāh)",
     "parse": "Conjunctive waw, Article | Noun - feminine singular",
     "str": "Strong's 802:  ",
-    "str2": "Woman, wife, female"
+    "str2": "Woman, wife, female",
+    "num": 802
   },
   {
     "word": "and I",
@@ -61,7 +68,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "live",
@@ -69,7 +77,8 @@
     "translit": "(yō·šə·ḇōṯ)",
     "parse": "Verb - Qal - Participle - feminine plural",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "in the same",
@@ -77,7 +86,8 @@
     "translit": "(’e·ḥāḏ)",
     "parse": "Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "house,",
@@ -85,7 +95,8 @@
     "translit": "(bə·ḇa·yiṯ)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "and I gave birth",
@@ -93,7 +104,8 @@
     "translit": "(wā·’ê·lêḏ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - first person common singular",
     "str": "Strong's 3205:  ",
-    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage"
+    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage",
+    "num": 3205
   },
   {
     "word": "while she [was]",
@@ -101,7 +113,8 @@
     "translit": "(‘im·māh)",
     "parse": "Preposition | third person feminine singular",
     "str": "Strong's 5973:  ",
-    "str2": "With, equally with"
+    "str2": "With, equally with",
+    "num": 5973
   },
   {
     "word": "in the house.",
@@ -109,6 +122,7 @@
     "translit": "(bab·bā·yiṯ)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   }
 ]

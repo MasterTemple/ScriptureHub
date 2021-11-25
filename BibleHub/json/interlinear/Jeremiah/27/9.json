@@ -5,7 +5,8 @@
     "translit": "(wə·’at·tem)",
     "parse": "Conjunctive waw | Pronoun - second person masculine plural",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "do not",
@@ -13,7 +14,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "listen",
@@ -21,7 +23,8 @@
     "translit": "(tiš·mə·‘ū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "to",
@@ -29,7 +32,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "your prophets,",
@@ -37,7 +41,8 @@
     "translit": "(nə·ḇî·’ê·ḵem)",
     "parse": "Noun - masculine plural construct | second person masculine plural",
     "str": "Strong's 5030:  ",
-    "str2": "A spokesman, speaker, prophet"
+    "str2": "A spokesman, speaker, prophet",
+    "num": 5030
   },
   {
     "word": "your diviners,",
@@ -45,7 +50,8 @@
     "translit": "(qō·sə·mê·ḵem)",
     "parse": "Verb - Qal - Participle - masculine plural construct | second person masculine plural",
     "str": "Strong's 7080:  ",
-    "str2": "To distribute, determine by lot, magical scroll, to divine"
+    "str2": "To distribute, determine by lot, magical scroll, to divine",
+    "num": 7080
   },
   {
     "word": "your interpreters of dreams,",
@@ -53,7 +59,8 @@
     "translit": "(ḥă·lō·mō·ṯê·ḵem)",
     "parse": "Noun - masculine plural construct | second person masculine plural",
     "str": "Strong's 2472:  ",
-    "str2": "A dream"
+    "str2": "A dream",
+    "num": 2472
   },
   {
     "word": "your mediums,",
@@ -61,7 +68,8 @@
     "translit": "(‘ō·nə·nê·ḵem)",
     "parse": "Verb - Piel - Participle - masculine plural construct | second person masculine plural",
     "str": "Strong's 6049:  ",
-    "str2": "To act covertly, practise magic"
+    "str2": "To act covertly, practise magic",
+    "num": 6049
   },
   {
     "word": "or your sorcerers",
@@ -69,7 +77,8 @@
     "translit": "(kaš·šā·p̄ê·ḵem)",
     "parse": "Noun - masculine plural construct | second person masculine plural",
     "str": "Strong's 3786:  ",
-    "str2": "A magician"
+    "str2": "A magician",
+    "num": 3786
   },
   {
     "word": "who",
@@ -77,7 +86,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "tell",
@@ -85,7 +95,8 @@
     "translit": "(’ō·mə·rîm)",
     "parse": "Verb - Qal - Participle - masculine plural",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "you,",
@@ -93,7 +104,8 @@
     "translit": "(wə·’el-)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "‘You shall not",
@@ -101,7 +113,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "serve",
@@ -109,7 +122,8 @@
     "translit": "(ṯa·‘aḇ·ḏū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 5647:  ",
-    "str2": "To work, to serve, till, enslave"
+    "str2": "To work, to serve, till, enslave",
+    "num": 5647
   },
   {
     "word": "the king",
@@ -117,7 +131,8 @@
     "translit": "(me·leḵ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "of Babylon.’",
@@ -125,6 +140,7 @@
     "translit": "(bā·ḇel)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 894:  ",
-    "str2": "Babylon -- an eastern Mediterranean empire and its capital city"
+    "str2": "Babylon -- an eastern Mediterranean empire and its capital city",
+    "num": 894
   }
 ]

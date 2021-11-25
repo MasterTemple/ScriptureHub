@@ -5,7 +5,8 @@
     "translit": "(men)",
     "parse": "Conjunction",
     "str": "Strong's 3303:  ",
-    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de."
+    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de.",
+    "num": 3303
   },
   {
     "word": "one [man]",
@@ -13,7 +14,8 @@
     "translit": "(hos)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "has faith",
@@ -21,7 +23,8 @@
     "translit": "(pisteuei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 4100:  ",
-    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust."
+    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust.",
+    "num": 4100
   },
   {
     "word": "to eat",
@@ -29,7 +32,8 @@
     "translit": "(phagein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 5315:  ",
-    "str2": "A primary verb; to eat."
+    "str2": "A primary verb; to eat.",
+    "num": 5315
   },
   {
     "word": "all things,",
@@ -37,7 +41,8 @@
     "translit": "(panta)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "while",
@@ -45,7 +50,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "another,",
@@ -53,7 +59,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "who is weak,",
@@ -61,7 +68,8 @@
     "translit": "(asthenōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 770:  ",
-    "str2": "To be weak (physically: then morally), To be sick. From asthenes; to be feeble."
+    "str2": "To be weak (physically: then morally), To be sick. From asthenes; to be feeble.",
+    "num": 770
   },
   {
     "word": "eats",
@@ -69,7 +77,8 @@
     "translit": "(esthiei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2068:  ",
-    "str2": "Strengthened for a primary edo; used only in certain tenses, the rest being supplied by phago; to eat."
+    "str2": "Strengthened for a primary edo; used only in certain tenses, the rest being supplied by phago; to eat.",
+    "num": 2068
   },
   {
     "word": "[only] vegetables.",
@@ -77,6 +86,7 @@
     "translit": "(lachana)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 3001:  ",
-    "str2": "An herb, garden plant, vegetable. From lachaino; a vegetable."
+    "str2": "An herb, garden plant, vegetable. From lachaino; a vegetable.",
+    "num": 3001
   }
 ]

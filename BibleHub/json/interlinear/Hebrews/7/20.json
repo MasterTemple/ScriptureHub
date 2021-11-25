@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "none",
@@ -13,7 +14,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "of this",
@@ -21,7 +23,8 @@
     "translit": "(hoson)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3745:  ",
-    "str2": "How much, how great, how many, as great as, as much. By reduplication from hos; as As."
+    "str2": "How much, how great, how many, as great as, as much. By reduplication from hos; as As.",
+    "num": 3745
   },
   {
     "word": "[happened] without",
@@ -29,7 +32,8 @@
     "translit": "(chōris)",
     "parse": "Preposition",
     "str": "Strong's 5565:  ",
-    "str2": "Apart from, separately from; without. Adverb from chora; at a space, i.e. Separately or apart from."
+    "str2": "Apart from, separately from; without. Adverb from chora; at a space, i.e. Separately or apart from.",
+    "num": 5565
   },
   {
     "word": "an oath.",
@@ -37,7 +41,8 @@
     "translit": "(horkōmosias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 3728:  ",
-    "str2": "The taking of an oath, an oath. From a compound of horkos and a derivative of omnuo; asseveration on oath."
+    "str2": "The taking of an oath, an oath. From a compound of horkos and a derivative of omnuo; asseveration on oath.",
+    "num": 3728
   },
   {
     "word": "For",
@@ -45,7 +50,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "[others]",
@@ -53,7 +59,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "became",
@@ -61,7 +68,8 @@
     "translit": "(gegonotes)",
     "parse": "Verb - Perfect Participle Active - Nominative Masculine Plural",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "priests",
@@ -69,7 +77,8 @@
     "translit": "(hiereis)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 2409:  ",
-    "str2": "A priest, one who offers sacrifice to a god (in Jewish and pagan religions; of Christians only met.). From hieros; a priest."
+    "str2": "A priest, one who offers sacrifice to a god (in Jewish and pagan religions; of Christians only met.). From hieros; a priest.",
+    "num": 2409
   },
   {
     "word": "without",
@@ -77,7 +86,8 @@
     "translit": "(chōris)",
     "parse": "Preposition",
     "str": "Strong's 5565:  ",
-    "str2": "Apart from, separately from; without. Adverb from chora; at a space, i.e. Separately or apart from."
+    "str2": "Apart from, separately from; without. Adverb from chora; at a space, i.e. Separately or apart from.",
+    "num": 5565
   },
   {
     "word": "an oath,",
@@ -85,6 +95,7 @@
     "translit": "(horkōmosias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 3728:  ",
-    "str2": "The taking of an oath, an oath. From a compound of horkos and a derivative of omnuo; asseveration on oath."
+    "str2": "The taking of an oath, an oath. From a compound of horkos and a derivative of omnuo; asseveration on oath.",
+    "num": 3728
   }
 ]

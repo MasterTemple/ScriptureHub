@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Son",
@@ -29,7 +32,8 @@
     "translit": "(Huios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   },
   {
     "word": "sets you free,",
@@ -37,7 +41,8 @@
     "translit": "(eleutherōsē)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 1659:  ",
-    "str2": "To free, set free, liberate. From eleutheros; to liberate, i.e. to exempt."
+    "str2": "To free, set free, liberate. From eleutheros; to liberate, i.e. to exempt.",
+    "num": 1659
   },
   {
     "word": "you will be",
@@ -45,7 +50,8 @@
     "translit": "(esesthe)",
     "parse": "Verb - Future Indicative Middle - 2nd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "free",
@@ -53,7 +59,8 @@
     "translit": "(eleutheroi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 1658:  ",
-    "str2": "Free, delivered from obligation. Probably from the alternate of erchomai; unrestrained, i.e. not a slave, or exempt."
+    "str2": "Free, delivered from obligation. Probably from the alternate of erchomai; unrestrained, i.e. not a slave, or exempt.",
+    "num": 1658
   },
   {
     "word": "indeed.",
@@ -61,6 +68,7 @@
     "translit": "(ontōs)",
     "parse": "Adverb",
     "str": "Strong's 3689:  ",
-    "str2": "Really, truly, actually. Adverb of the oblique cases of on; really."
+    "str2": "Really, truly, actually. Adverb of the oblique cases of on; really.",
+    "num": 3689
   }
 ]

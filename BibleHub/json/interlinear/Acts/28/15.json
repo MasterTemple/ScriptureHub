@@ -5,7 +5,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "brothers",
@@ -13,7 +14,8 @@
     "translit": "(adelphoi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "there",
@@ -21,7 +23,8 @@
     "translit": "(Kakeithen)",
     "parse": "Conjunction",
     "str": "Strong's 2547:  ",
-    "str2": "And thence, and from there; and then afterwards. From kai and ekeithen; likewise from that place."
+    "str2": "And thence, and from there; and then afterwards. From kai and ekeithen; likewise from that place.",
+    "num": 2547
   },
   {
     "word": "had heard",
@@ -29,7 +32,8 @@
     "translit": "(akousantes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "about",
@@ -37,7 +41,8 @@
     "translit": "(peri)",
     "parse": "Preposition",
     "str": "Strong's 4012:  ",
-    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time.",
+    "num": 4012
   },
   {
     "word": "us",
@@ -45,7 +50,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "[and] traveled",
@@ -53,7 +59,8 @@
     "translit": "(ēlthan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "as far as",
@@ -61,7 +68,8 @@
     "translit": "(achri)",
     "parse": "Preposition",
     "str": "Strong's 891:  ",
-    "str2": "As far as, up to, until, during. Or achris akh'-rece; akin to akron; until or up to."
+    "str2": "As far as, up to, until, during. Or achris akh'-rece; akin to akron; until or up to.",
+    "num": 891
   },
   {
     "word": "[the] Forum",
@@ -69,7 +77,8 @@
     "translit": "(Phorou)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 5410:  ",
-    "str2": "Of Latin origin; a forum or market-place; only in comparative with Appios; a station on the Appian road."
+    "str2": "Of Latin origin; a forum or market-place; only in comparative with Appios; a station on the Appian road.",
+    "num": 5410
   },
   {
     "word": "of Appius",
@@ -77,7 +86,8 @@
     "translit": "(Appiou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 675:  ",
-    "str2": "Of Latin origin; of Appius, the name of a Roman."
+    "str2": "Of Latin origin; of Appius, the name of a Roman.",
+    "num": 675
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[the] Three",
@@ -93,7 +104,8 @@
     "translit": "(Triōn)",
     "parse": "Adjective - Genitive Feminine Plural",
     "str": "Strong's 5140:  ",
-    "str2": "Three. Or neuter tria a primary number; 'three'."
+    "str2": "Three. Or neuter tria a primary number; 'three'.",
+    "num": 5140
   },
   {
     "word": "Taverns",
@@ -101,7 +113,8 @@
     "translit": "(Tabernōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 4999:  ",
-    "str2": "Plural of Latin origin; huts or wooden-walled buildings; Tabernoe."
+    "str2": "Plural of Latin origin; huts or wooden-walled buildings; Tabernoe.",
+    "num": 4999
   },
   {
     "word": "to",
@@ -109,7 +122,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "meet",
@@ -117,7 +131,8 @@
     "translit": "(apantēsin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 529:  ",
-    "str2": "From apantao; a encounter."
+    "str2": "From apantao; a encounter.",
+    "num": 529
   },
   {
     "word": "us.",
@@ -125,7 +140,8 @@
     "translit": "(hēmin)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "[When}",
@@ -133,7 +149,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Paul",
@@ -141,7 +158,8 @@
     "translit": "(Paulos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3972:  ",
-    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle."
+    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle.",
+    "num": 3972
   },
   {
     "word": "saw",
@@ -149,7 +167,8 @@
     "translit": "(idōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "[them],",
@@ -157,7 +176,8 @@
     "translit": "(hous)",
     "parse": "Personal / Relative Pronoun - Accusative Masculine Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "he was encouraged",
@@ -165,7 +185,8 @@
     "translit": "(tharsos)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 2294:  ",
-    "str2": "Courage, confidence. Akin to thrasos; boldness."
+    "str2": "Courage, confidence. Akin to thrasos; boldness.",
+    "num": 2294
   },
   {
     "word": "and gave thanks",
@@ -173,7 +194,8 @@
     "translit": "(eucharistēsas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2168:  ",
-    "str2": "From eucharistos; to be grateful, i.e. to express gratitude; specially, to say grace at a meal."
+    "str2": "From eucharistos; to be grateful, i.e. to express gratitude; specially, to say grace at a meal.",
+    "num": 2168
   },
   {
     "word": "to God.",
@@ -181,6 +203,7 @@
     "translit": "(Theō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

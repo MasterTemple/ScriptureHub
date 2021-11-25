@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "for the sake of",
@@ -13,7 +14,8 @@
     "translit": "(hyper)",
     "parse": "Preposition",
     "str": "Strong's 5228:  ",
-    "str2": "Gen: in behalf of; acc: above. "
+    "str2": "Gen: in behalf of; acc: above. ",
+    "num": 5228
   },
   {
     "word": "your",
@@ -21,7 +23,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "souls,",
@@ -29,7 +32,8 @@
     "translit": "(psychōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 5590:  ",
-    "str2": "From psucho; breath, i.e. spirit, abstractly or concretely."
+    "str2": "From psucho; breath, i.e. spirit, abstractly or concretely.",
+    "num": 5590
   },
   {
     "word": "I",
@@ -37,7 +41,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "{will} most gladly",
@@ -45,7 +50,8 @@
     "translit": "(hēdista)",
     "parse": "Adverb - Superlative",
     "str": "Strong's 2236:  ",
-    "str2": "Most gladly, most pleasantly. Neuter plural of the superlative of the same as hedeos; with great pleasure."
+    "str2": "Most gladly, most pleasantly. Neuter plural of the superlative of the same as hedeos; with great pleasure.",
+    "num": 2236
   },
   {
     "word": "spend my money",
@@ -53,7 +59,8 @@
     "translit": "(dapanēsō)",
     "parse": "Verb - Future Indicative Active - 1st Person Singular",
     "str": "Strong's 1159:  ",
-    "str2": "To spend, bear expense, waste, squander. From dapane; to expend, i.e. to incur cost, or to waste."
+    "str2": "To spend, bear expense, waste, squander. From dapane; to expend, i.e. to incur cost, or to waste.",
+    "num": 1159
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[myself].",
@@ -69,7 +77,8 @@
     "translit": "(ekdapanēthēsomai)",
     "parse": "Verb - Future Indicative Passive - 1st Person Singular",
     "str": "Strong's 1550:  ",
-    "str2": "To spend (give out) completely, exhaust. From ek and dapanao; to expend, i.e. exhaust."
+    "str2": "To spend (give out) completely, exhaust. From ek and dapanao; to expend, i.e. exhaust.",
+    "num": 1550
   },
   {
     "word": "If",
@@ -77,7 +86,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "I love",
@@ -85,7 +95,8 @@
     "translit": "(agapōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 25:  ",
-    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love."
+    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love.",
+    "num": 25
   },
   {
     "word": "you",
@@ -93,7 +104,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "more,",
@@ -101,7 +113,8 @@
     "translit": "(perissoterōs)",
     "parse": "Adverb",
     "str": "Strong's 4057:  ",
-    "str2": "Greatly, exceedingly, abundantly, vehemently. Adverb from perissos; superabundantly."
+    "str2": "Greatly, exceedingly, abundantly, vehemently. Adverb from perissos; superabundantly.",
+    "num": 4057
   },
   {
     "word": "will [you] love me",
@@ -109,7 +122,8 @@
     "translit": "(agapōmai)",
     "parse": "Verb - Present Indicative Middle or Passive - 1st Person Singular",
     "str": "Strong's 25:  ",
-    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love."
+    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love.",
+    "num": 25
   },
   {
     "word": "less?",
@@ -117,6 +131,7 @@
     "translit": "(hēsson)",
     "parse": "Adjective - Accusative Neuter Singular - Comparative",
     "str": "Strong's 2276:  ",
-    "str2": "Lesser, inferior, weaker. Neuter of comparative of heka used for that of kakos; worse; by implication, less."
+    "str2": "Lesser, inferior, weaker. Neuter of comparative of heka used for that of kakos; worse; by implication, less.",
+    "num": 2276
   }
 ]

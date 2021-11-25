@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I give",
@@ -13,7 +14,8 @@
     "translit": "(nā·ṯat·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "you",
@@ -21,7 +23,8 @@
     "translit": "(lā·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "sound",
@@ -29,7 +32,8 @@
     "translit": "(ṭō·wḇ)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 2896:  ",
-    "str2": "Pleasant, agreeable, good"
+    "str2": "Pleasant, agreeable, good",
+    "num": 2896
   },
   {
     "word": "teaching;",
@@ -37,7 +41,8 @@
     "translit": "(le·qaḥ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3948:  ",
-    "str2": "Something received, instruction, inveiglement"
+    "str2": "Something received, instruction, inveiglement",
+    "num": 3948
   },
   {
     "word": "do not",
@@ -45,7 +50,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "abandon",
@@ -53,7 +59,8 @@
     "translit": "(ta·‘ă·zō·ḇū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 5800:  ",
-    "str2": "To loosen, relinquish, permit"
+    "str2": "To loosen, relinquish, permit",
+    "num": 5800
   },
   {
     "word": "my instruction.",
@@ -61,6 +68,7 @@
     "translit": "(tō·w·rā·ṯî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 8451:  ",
-    "str2": "Direction, instruction, law"
+    "str2": "Direction, instruction, law",
+    "num": 8451
   }
 ]

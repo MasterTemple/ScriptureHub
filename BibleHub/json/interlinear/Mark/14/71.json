@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "he began",
@@ -13,7 +14,8 @@
     "translit": "(ērxato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 756:  ",
-    "str2": "To begin. Middle voice of archo; to commence."
+    "str2": "To begin. Middle voice of archo; to commence.",
+    "num": 756
   },
   {
     "word": "to curse",
@@ -21,7 +23,8 @@
     "translit": "(anathematizein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 332:  ",
-    "str2": "To curse, invoke curses, devote to destruction. From anathema; to declare or vow under penalty of execration."
+    "str2": "To curse, invoke curses, devote to destruction. From anathema; to declare or vow under penalty of execration.",
+    "num": 332
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "swear,",
@@ -37,7 +41,8 @@
     "translit": "(omnynai)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 3660:  ",
-    "str2": "A prolonged form of a primary, but obsolete omo, for which another prolonged form omoo is used in certain tenses; to swear, i.e. Take oath."
+    "str2": "A prolonged form of a primary, but obsolete omo, for which another prolonged form omoo is used in certain tenses; to swear, i.e. Take oath.",
+    "num": 3660
   },
   {
     "word": "“I do not know",
@@ -45,7 +50,8 @@
     "translit": "(oida)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Singular",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "this",
@@ -53,7 +59,8 @@
     "translit": "(touton)",
     "parse": "Demonstrative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "man",
@@ -61,7 +68,8 @@
     "translit": "(anthrōpon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "of whom",
@@ -69,7 +77,8 @@
     "translit": "(hon)",
     "parse": "Personal / Relative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "you speak!”",
@@ -77,6 +86,7 @@
     "translit": "(legete)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   }
 ]

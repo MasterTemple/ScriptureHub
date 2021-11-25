@@ -5,7 +5,8 @@
     "translit": "(‘eś·rîm)",
     "parse": "Number - common plural",
     "str": "Strong's 6242:  ",
-    "str2": "Twenty, twentieth"
+    "str2": "Twenty, twentieth",
+    "num": 6242
   },
   {
     "word": "day",
@@ -13,7 +14,8 @@
     "translit": "(bə·yō·wm)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "of the sixth",
@@ -21,7 +23,8 @@
     "translit": "(baš·šiš·šî)",
     "parse": "Preposition-b, Article | Number - ordinal masculine singular",
     "str": "Strong's 8345:  ",
-    "str2": "Sixth, ord, fractional"
+    "str2": "Sixth, ord, fractional",
+    "num": 8345
   },
   {
     "word": "month,",
@@ -29,7 +32,8 @@
     "translit": "(la·ḥō·ḏeš)",
     "parse": "Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 2320:  ",
-    "str2": "The new moon, a month"
+    "str2": "The new moon, a month",
+    "num": 2320
   },
   {
     "word": "in the second",
@@ -37,7 +41,8 @@
     "translit": "(šə·ta·yim)",
     "parse": "Number - fd",
     "str": "Strong's 8147:  ",
-    "str2": "Two (a cardinal number)"
+    "str2": "Two (a cardinal number)",
+    "num": 8147
   },
   {
     "word": "year",
@@ -45,7 +50,8 @@
     "translit": "(biš·naṯ)",
     "parse": "Preposition-b | Noun - feminine singular construct",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "of King",
@@ -53,7 +59,8 @@
     "translit": "(ham·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "Darius.",
@@ -61,6 +68,7 @@
     "translit": "(lə·ḏā·rə·yā·weš)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 1867:  ",
-    "str2": "Darius -- the name of several person kings"
+    "str2": "Darius -- the name of several person kings",
+    "num": 1867
   }
 ]

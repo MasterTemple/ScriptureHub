@@ -5,7 +5,8 @@
     "translit": "(hā·’e·ḥāḏ)",
     "parse": "Article | Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "of them was cutting down",
@@ -13,7 +14,8 @@
     "translit": "(map·pîl)",
     "parse": "Verb - Hifil - Participle - masculine singular",
     "str": "Strong's 5307:  ",
-    "str2": "To fall, lie"
+    "str2": "To fall, lie",
+    "num": 5307
   },
   {
     "word": "a tree,",
@@ -21,7 +23,8 @@
     "translit": "(haq·qō·w·rāh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 6982:  ",
-    "str2": "A rafter, a roof"
+    "str2": "A rafter, a roof",
+    "num": 6982
   },
   {
     "word": "the iron [axhead]",
@@ -29,7 +32,8 @@
     "translit": "(hab·bar·zel)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1270:  ",
-    "str2": "Iron, an iron implement"
+    "str2": "Iron, an iron implement",
+    "num": 1270
   },
   {
     "word": "fell",
@@ -37,7 +41,8 @@
     "translit": "(nā·p̄al)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 5307:  ",
-    "str2": "To fall, lie"
+    "str2": "To fall, lie",
+    "num": 5307
   },
   {
     "word": "into",
@@ -45,7 +50,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the water.",
@@ -53,7 +59,8 @@
     "translit": "(ham·mā·yim)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 4325:  ",
-    "str2": "Water, juice, urine, semen"
+    "str2": "Water, juice, urine, semen",
+    "num": 4325
   },
   {
     "word": "“Oh,",
@@ -61,7 +68,8 @@
     "translit": "(’ă·hāh)",
     "parse": "Interjection",
     "str": "Strong's 162:  ",
-    "str2": "Alas!"
+    "str2": "Alas!",
+    "num": 162
   },
   {
     "word": "my master,”",
@@ -69,7 +77,8 @@
     "translit": "(’ă·ḏō·nî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 113:  ",
-    "str2": "Sovereign, controller"
+    "str2": "Sovereign, controller",
+    "num": 113
   },
   {
     "word": "he cried out,",
@@ -77,7 +86,8 @@
     "translit": "(way·yiṣ·‘aq)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 6817:  ",
-    "str2": "To shriek, to proclaim"
+    "str2": "To shriek, to proclaim",
+    "num": 6817
   },
   {
     "word": "“it",
@@ -85,7 +95,8 @@
     "translit": "(wə·hū)",
     "parse": "Conjunctive waw | Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "was borrowed!”",
@@ -93,6 +104,7 @@
     "translit": "(šā·’ūl)",
     "parse": "Verb - Qal - QalPassParticiple - masculine singular",
     "str": "Strong's 7592:  ",
-    "str2": "To inquire, to request, to demand"
+    "str2": "To inquire, to request, to demand",
+    "num": 7592
   }
 ]

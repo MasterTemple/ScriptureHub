@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "neither",
@@ -13,7 +14,8 @@
     "translit": "(oute)",
     "parse": "Conjunction",
     "str": "Strong's 3777:  ",
-    "str2": "And not, neither, nor. From ou and te; not too, i.e. Neither or nor; by analogy, not even."
+    "str2": "And not, neither, nor. From ou and te; not too, i.e. Neither or nor; by analogy, not even.",
+    "num": 3777
   },
   {
     "word": "circumcision",
@@ -21,7 +23,8 @@
     "translit": "(peritomē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4061:  ",
-    "str2": "Circumcision. From peritemno; circumcision."
+    "str2": "Circumcision. From peritemno; circumcision.",
+    "num": 4061
   },
   {
     "word": "nor",
@@ -29,7 +32,8 @@
     "translit": "(oute)",
     "parse": "Conjunction",
     "str": "Strong's 3777:  ",
-    "str2": "And not, neither, nor. From ou and te; not too, i.e. Neither or nor; by analogy, not even."
+    "str2": "And not, neither, nor. From ou and te; not too, i.e. Neither or nor; by analogy, not even.",
+    "num": 3777
   },
   {
     "word": "uncircumcision",
@@ -37,7 +41,8 @@
     "translit": "(akrobystia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 203:  ",
-    "str2": "From akron and probably a modified form of posthe; the prepuce; by implication, an uncircumcised state or person."
+    "str2": "From akron and probably a modified form of posthe; the prepuce; by implication, an uncircumcised state or person.",
+    "num": 203
   },
   {
     "word": "means",
@@ -45,7 +50,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "anything.",
@@ -53,7 +59,8 @@
     "translit": "(ti)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Neuter Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "[What counts is]",
@@ -61,7 +68,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "a new",
@@ -69,7 +77,8 @@
     "translit": "(kainē)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 2537:  ",
-    "str2": "Fresh, new, unused, novel. Of uncertain affinity; new"
+    "str2": "Fresh, new, unused, novel. Of uncertain affinity; new",
+    "num": 2537
   },
   {
     "word": "creation.",
@@ -77,6 +86,7 @@
     "translit": "(ktisis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2937:  ",
-    "str2": "From ktizo; original formation."
+    "str2": "From ktizo; original formation.",
+    "num": 2937
   }
 ]

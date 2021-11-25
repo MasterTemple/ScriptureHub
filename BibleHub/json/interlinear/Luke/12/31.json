@@ -5,7 +5,8 @@
     "translit": "(plēn)",
     "parse": "Conjunction",
     "str": "Strong's 4133:  ",
-    "str2": "However, nevertheless, but, except that, yet. From pleion; moreover, i.e. Albeit, save that, rather, yet."
+    "str2": "However, nevertheless, but, except that, yet. From pleion; moreover, i.e. Albeit, save that, rather, yet.",
+    "num": 4133
   },
   {
     "word": "seek",
@@ -13,7 +14,8 @@
     "translit": "(zēteite)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 2212:  ",
-    "str2": "To seek, search for, desire, require, demand. Of uncertain affinity; to seek; specially, to worship, or to plot."
+    "str2": "To seek, search for, desire, require, demand. Of uncertain affinity; to seek; specially, to worship, or to plot.",
+    "num": 2212
   },
   {
     "word": "His",
@@ -21,7 +23,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "kingdom,",
@@ -29,7 +32,8 @@
     "translit": "(basileian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 932:  ",
-    "str2": "From basileus; properly, royalty, i.e. rule, or a realm."
+    "str2": "From basileus; properly, royalty, i.e. rule, or a realm.",
+    "num": 932
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "these things",
@@ -45,7 +50,8 @@
     "translit": "(tauta)",
     "parse": "Demonstrative Pronoun - Nominative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "will be added",
@@ -53,7 +59,8 @@
     "translit": "(prostethēsetai)",
     "parse": "Verb - Future Indicative Passive - 3rd Person Singular",
     "str": "Strong's 4369:  ",
-    "str2": "To place (put) to, add; I do again. From pros and tithemi; to place additionally, i.e. Lay beside, annex, repeat."
+    "str2": "To place (put) to, add; I do again. From pros and tithemi; to place additionally, i.e. Lay beside, annex, repeat.",
+    "num": 4369
   },
   {
     "word": "unto you.",
@@ -61,6 +68,7 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "much",
@@ -13,7 +14,8 @@
     "translit": "(Hikanou)",
     "parse": "Adjective - Genitive Masculine Singular",
     "str": "Strong's 2425:  ",
-    "str2": "From hiko; competent, i.e. Ample or fit."
+    "str2": "From hiko; competent, i.e. Ample or fit.",
+    "num": 2425
   },
   {
     "word": "time",
@@ -21,7 +23,8 @@
     "translit": "(chronou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 5550:  ",
-    "str2": "A space of time or interval; by extension, an individual opportunity; by implication, delay."
+    "str2": "A space of time or interval; by extension, an individual opportunity; by implication, delay.",
+    "num": 5550
   },
   {
     "word": "had passed,",
@@ -29,7 +32,8 @@
     "translit": "(diagenomenou)",
     "parse": "Verb - Aorist Participle Middle - Genitive Masculine Singular",
     "str": "Strong's 1230:  ",
-    "str2": "To pass (of time); I continue through, intervene. From dia and ginomai; to elapse meanwhile."
+    "str2": "To pass (of time); I continue through, intervene. From dia and ginomai; to elapse meanwhile.",
+    "num": 1230
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "voyage",
@@ -53,7 +59,8 @@
     "translit": "(ploos)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 4144:  ",
-    "str2": "A voyage, sailing. From pleo; a sail, i.e. Navigation."
+    "str2": "A voyage, sailing. From pleo; a sail, i.e. Navigation.",
+    "num": 4144
   },
   {
     "word": "had already become",
@@ -61,7 +68,8 @@
     "translit": "(ontos)",
     "parse": "Verb - Present Participle Active - Genitive Masculine Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "dangerous",
@@ -69,7 +77,8 @@
     "translit": "(episphalous)",
     "parse": "Adjective - Genitive Masculine Singular",
     "str": "Strong's 2000:  ",
-    "str2": "Dangerous, likely to fall. From a compound of epi and sphallo; figuratively, insecure."
+    "str2": "Dangerous, likely to fall. From a compound of epi and sphallo; figuratively, insecure.",
+    "num": 2000
   },
   {
     "word": "because",
@@ -77,7 +86,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "it was after",
@@ -85,7 +95,8 @@
     "translit": "(parelēlythenai)",
     "parse": "Verb - Perfect Infinitive Active",
     "str": "Strong's 3928:  ",
-    "str2": "From para and erchomai; to come near or aside, i.e. To approach, go by, perish or neglect, avert."
+    "str2": "From para and erchomai; to come near or aside, i.e. To approach, go by, perish or neglect, avert.",
+    "num": 3928
   },
   {
     "word": "the",
@@ -93,7 +104,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Fast.",
@@ -101,7 +113,8 @@
     "translit": "(Nēsteian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3521:  ",
-    "str2": "Fasting, the day of atonement. From nesteuo; abstinence; specially, the fast of the Day of Atonement."
+    "str2": "Fasting, the day of atonement. From nesteuo; abstinence; specially, the fast of the Day of Atonement.",
+    "num": 3521
   },
   {
     "word": "[So] Paul",
@@ -109,7 +122,8 @@
     "translit": "(Paulos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3972:  ",
-    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle."
+    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle.",
+    "num": 3972
   },
   {
     "word": "advised [them],",
@@ -117,6 +131,7 @@
     "translit": "(parēnei)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 3867:  ",
-    "str2": "To admonish, advise, exhort. From para and aineo; to mispraise, i.e. Recommend or advise."
+    "str2": "To admonish, advise, exhort. From para and aineo; to mispraise, i.e. Recommend or advise.",
+    "num": 3867
   }
 ]

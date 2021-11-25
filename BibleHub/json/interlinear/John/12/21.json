@@ -5,7 +5,8 @@
     "translit": "(houtoi)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "came",
@@ -13,7 +14,8 @@
     "translit": "(prosēlthon)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 4334:  ",
-    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to."
+    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to.",
+    "num": 4334
   },
   {
     "word": "to Philip,",
@@ -21,7 +23,8 @@
     "translit": "(Philippō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 5376:  ",
-    "str2": "From philos and hippos; fond of horses; Philippus, the name of four Israelites."
+    "str2": "From philos and hippos; fond of horses; Philippus, the name of four Israelites.",
+    "num": 5376
   },
   {
     "word": "who was",
@@ -29,7 +32,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "from",
@@ -37,7 +41,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "Bethsaida",
@@ -45,7 +50,8 @@
     "translit": "(Bēthsaida)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 966:  ",
-    "str2": "Of Chaldee origin; fishing-house; Bethsaida, a place in Palestine."
+    "str2": "Of Chaldee origin; fishing-house; Bethsaida, a place in Palestine.",
+    "num": 966
   },
   {
     "word": "in Galilee,",
@@ -53,7 +59,8 @@
     "translit": "(Galilaias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1056:  ",
-    "str2": "Of Hebrew origin; Galiloea, a region of Palestine."
+    "str2": "Of Hebrew origin; Galiloea, a region of Palestine.",
+    "num": 1056
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "requested",
@@ -69,7 +77,8 @@
     "translit": "(ērōtōn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2065:  ",
-    "str2": "Apparently from ereo; to interrogate; by implication, to request."
+    "str2": "Apparently from ereo; to interrogate; by implication, to request.",
+    "num": 2065
   },
   {
     "word": "of him,",
@@ -77,7 +86,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“Sir,",
@@ -85,7 +95,8 @@
     "translit": "(Kyrie)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "we want",
@@ -93,7 +104,8 @@
     "translit": "(thelomen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "to see",
@@ -101,7 +113,8 @@
     "translit": "(idein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "Jesus.”",
@@ -109,6 +122,7 @@
     "translit": "(Iēsoun)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   }
 ]

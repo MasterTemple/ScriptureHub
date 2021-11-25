@@ -5,7 +5,8 @@
     "translit": "(māh-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "I love",
@@ -13,7 +14,8 @@
     "translit": "(’ā·haḇ·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 157:  ",
-    "str2": "To have affection f"
+    "str2": "To have affection f",
+    "num": 157
   },
   {
     "word": "Your law!",
@@ -21,7 +23,8 @@
     "translit": "(ṯō·w·rā·ṯe·ḵā)",
     "parse": "Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 8451:  ",
-    "str2": "Direction, instruction, law"
+    "str2": "Direction, instruction, law",
+    "num": 8451
   },
   {
     "word": "All",
@@ -29,7 +32,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "day long",
@@ -37,7 +41,8 @@
     "translit": "(hay·yō·wm)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "it",
@@ -45,7 +50,8 @@
     "translit": "(hî)",
     "parse": "Pronoun - third person feminine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "is my meditation.",
@@ -53,6 +59,7 @@
     "translit": "(śî·ḥā·ṯî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 7881:  ",
-    "str2": "Reflection, be extension, devotion"
+    "str2": "Reflection, be extension, devotion",
+    "num": 7881
   }
 ]

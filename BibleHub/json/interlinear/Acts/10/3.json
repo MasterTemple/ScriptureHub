@@ -5,7 +5,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "day",
@@ -13,7 +14,8 @@
     "translit": "(hēmeras)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "at about",
@@ -21,7 +23,8 @@
     "translit": "(hōsei)",
     "parse": "Adverb",
     "str": "Strong's 5616:  ",
-    "str2": "As if, as it were, like; with numbers: about. From hos and ei; as if."
+    "str2": "As if, as it were, like; with numbers: about. From hos and ei; as if.",
+    "num": 5616
   },
   {
     "word": "the ninth",
@@ -29,7 +32,8 @@
     "translit": "(enatēn)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 1766:  ",
-    "str2": "Ninth. Ordinal from ennea; ninth."
+    "str2": "Ninth. Ordinal from ennea; ninth.",
+    "num": 1766
   },
   {
     "word": "hour,",
@@ -37,7 +41,8 @@
     "translit": "(hōran)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5610:  ",
-    "str2": "Apparently a primary word; an 'hour'."
+    "str2": "Apparently a primary word; an 'hour'.",
+    "num": 5610
   },
   {
     "word": "he had a clear vision",
@@ -45,7 +50,8 @@
     "translit": "(eiden)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "of an angel",
@@ -53,7 +59,8 @@
     "translit": "(angelon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 32:  ",
-    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor."
+    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor.",
+    "num": 32
   },
   {
     "word": "of God",
@@ -61,7 +68,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "who came",
@@ -69,7 +77,8 @@
     "translit": "(eiselthonta)",
     "parse": "Verb - Aorist Participle Active - Accusative Masculine Singular",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "to",
@@ -77,7 +86,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "him",
@@ -85,7 +95,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "and",
@@ -93,7 +104,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "said,",
@@ -101,7 +113,8 @@
     "translit": "(eiponta)",
     "parse": "Verb - Aorist Participle Active - Accusative Masculine Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“Cornelius!”",
@@ -109,6 +122,7 @@
     "translit": "(Kornēlie)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2883:  ",
-    "str2": "Cornelius, a centurion of the Roman army, stationed at Caesarea. Of Latin origin; Cornelius, a Roman."
+    "str2": "Cornelius, a centurion of the Roman army, stationed at Caesarea. Of Latin origin; Cornelius, a Roman.",
+    "num": 2883
   }
 ]

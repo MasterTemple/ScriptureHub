@@ -5,7 +5,8 @@
     "translit": "(hoitines)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3748:  ",
-    "str2": "Whosoever, whichsoever, whatsoever. "
+    "str2": "Whosoever, whichsoever, whatsoever. ",
+    "num": 3748
   },
   {
     "word": "will suffer",
@@ -13,7 +14,8 @@
     "translit": "(tisousin)",
     "parse": "Verb - Future Indicative Active - 3rd Person Plural",
     "str": "Strong's 5099:  ",
-    "str2": "To pay (penalty). Strengthened for a primary tio to pay a price, i.e. As a penalty."
+    "str2": "To pay (penalty). Strengthened for a primary tio to pay a price, i.e. As a penalty.",
+    "num": 5099
   },
   {
     "word": "[the] penalty",
@@ -21,7 +23,8 @@
     "translit": "(dikēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1349:  ",
-    "str2": "Probably from deiknuo; right, i.e. Justice."
+    "str2": "Probably from deiknuo; right, i.e. Justice.",
+    "num": 1349
   },
   {
     "word": "of eternal",
@@ -29,7 +32,8 @@
     "translit": "(aiōnion)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 166:  ",
-    "str2": "From aion; perpetual."
+    "str2": "From aion; perpetual.",
+    "num": 166
   },
   {
     "word": "destruction,",
@@ -37,7 +41,8 @@
     "translit": "(olethron)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3639:  ",
-    "str2": "Ruin, doom, destruction, death. From a primary ollumi; ruin, i.e. Death, punishment."
+    "str2": "Ruin, doom, destruction, death. From a primary ollumi; ruin, i.e. Death, punishment.",
+    "num": 3639
   },
   {
     "word": "separated from",
@@ -45,7 +50,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "[the] presence",
@@ -53,7 +59,8 @@
     "translit": "(prosōpou)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 4383:  ",
-    "str2": "From pros and ops; the front, i.e. The countenance, aspect, appearance, surface; by implication, presence, person."
+    "str2": "From pros and ops; the front, i.e. The countenance, aspect, appearance, surface; by implication, presence, person.",
+    "num": 4383
   },
   {
     "word": "of the",
@@ -61,7 +68,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord",
@@ -69,7 +77,8 @@
     "translit": "(Kyriou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -85,7 +95,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "glory",
@@ -93,7 +104,8 @@
     "translit": "(doxēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1391:  ",
-    "str2": "From the base of dokeo; glory, in a wide application."
+    "str2": "From the base of dokeo; glory, in a wide application.",
+    "num": 1391
   },
   {
     "word": "of",
@@ -101,7 +113,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "His",
@@ -109,7 +122,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "might,",
@@ -117,6 +131,7 @@
     "translit": "(ischyos)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2479:  ",
-    "str2": "Strength (absolutely), power, might, force, ability. From a derivative of is; forcefulness."
+    "str2": "Strength (absolutely), power, might, force, ability. From a derivative of is; forcefulness.",
+    "num": 2479
   }
 ]

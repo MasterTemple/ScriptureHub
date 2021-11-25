@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "we are taking great care to do",
@@ -13,7 +14,8 @@
     "translit": "(pronooumen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 4306:  ",
-    "str2": "From pro and noieo; to consider in advance, i.e. Look out for beforehand."
+    "str2": "From pro and noieo; to consider in advance, i.e. Look out for beforehand.",
+    "num": 4306
   },
   {
     "word": "what is right,",
@@ -21,7 +23,8 @@
     "translit": "(kala)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 2570:  ",
-    "str2": "Properly, beautiful, but chiefly good, i.e. Valuable or virtuous."
+    "str2": "Properly, beautiful, but chiefly good, i.e. Valuable or virtuous.",
+    "num": 2570
   },
   {
     "word": "not",
@@ -29,7 +32,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "only",
@@ -37,7 +41,8 @@
     "translit": "(monon)",
     "parse": "Adverb",
     "str": "Strong's 3440:  ",
-    "str2": "Alone, but, only. Neuter of monos as adverb; merely."
+    "str2": "Alone, but, only. Neuter of monos as adverb; merely.",
+    "num": 3440
   },
   {
     "word": "in the eyes",
@@ -45,7 +50,8 @@
     "translit": "(enōpion)",
     "parse": "Preposition",
     "str": "Strong's 1799:  ",
-    "str2": "Neuter of a compound of en and a derivative of optanomai; in the face of."
+    "str2": "Neuter of a compound of en and a derivative of optanomai; in the face of.",
+    "num": 1799
   },
   {
     "word": "of [the] Lord,",
@@ -53,7 +59,8 @@
     "translit": "(Kyriou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "but",
@@ -61,7 +68,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "also",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "in the eyes",
@@ -77,7 +86,8 @@
     "translit": "(enōpion)",
     "parse": "Preposition",
     "str": "Strong's 1799:  ",
-    "str2": "Neuter of a compound of en and a derivative of optanomai; in the face of."
+    "str2": "Neuter of a compound of en and a derivative of optanomai; in the face of.",
+    "num": 1799
   },
   {
     "word": "of men.",
@@ -85,6 +95,7 @@
     "translit": "(anthrōpōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   }
 ]

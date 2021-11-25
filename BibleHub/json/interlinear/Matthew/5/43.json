@@ -5,7 +5,8 @@
     "translit": "(Ēkousate)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Plural",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "that",
@@ -13,7 +14,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "it was said,",
@@ -21,7 +23,8 @@
     "translit": "(errethē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 2046:  ",
-    "str2": "Probably a fuller form of rheo; an alternate for epo in certain tenses; to utter, i.e. Speak or say."
+    "str2": "Probably a fuller form of rheo; an alternate for epo in certain tenses; to utter, i.e. Speak or say.",
+    "num": 2046
   },
   {
     "word": "‘Love",
@@ -29,7 +32,8 @@
     "translit": "(Agapēseis)",
     "parse": "Verb - Future Indicative Active - 2nd Person Singular",
     "str": "Strong's 25:  ",
-    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love."
+    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love.",
+    "num": 25
   },
   {
     "word": "your",
@@ -37,7 +41,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "neighbor",
@@ -45,7 +50,8 @@
     "translit": "(plēsion)",
     "parse": "Adverb",
     "str": "Strong's 4139:  ",
-    "str2": "Near, nearby, a neighbor. Neuter of a derivative of pelas; close by; as noun, a neighbor, i.e. Fellow."
+    "str2": "Near, nearby, a neighbor. Neuter of a derivative of pelas; close by; as noun, a neighbor, i.e. Fellow.",
+    "num": 4139
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "hate",
@@ -61,7 +68,8 @@
     "translit": "(misēseis)",
     "parse": "Verb - Future Indicative Active - 2nd Person Singular",
     "str": "Strong's 3404:  ",
-    "str2": "To hate, detest, love less, esteem less. From a primary misos; to detest; by extension, to love less."
+    "str2": "To hate, detest, love less, esteem less. From a primary misos; to detest; by extension, to love less.",
+    "num": 3404
   },
   {
     "word": "your",
@@ -69,7 +77,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "enemy.’",
@@ -77,6 +86,7 @@
     "translit": "(echthron)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 2190:  ",
-    "str2": "Hated, hostile; subst: an enemy. From a primary echtho; hateful; usually as a noun, an adversary."
+    "str2": "Hated, hostile; subst: an enemy. From a primary echtho; hateful; usually as a noun, an adversary.",
+    "num": 2190
   }
 ]

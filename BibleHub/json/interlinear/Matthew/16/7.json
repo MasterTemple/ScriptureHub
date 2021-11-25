@@ -5,7 +5,8 @@
     "translit": "(dielogizonto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 1260:  ",
-    "str2": "To reason (with), debate (with), consider. From dia and logizomai; to reckon thoroughly, i.e. to deliberate."
+    "str2": "To reason (with), debate (with), consider. From dia and logizomai; to reckon thoroughly, i.e. to deliberate.",
+    "num": 1260
   },
   {
     "word": "among",
@@ -13,7 +14,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "themselves",
@@ -21,7 +23,8 @@
     "translit": "(heautois)",
     "parse": "Reflexive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   },
   {
     "word": "[and] concluded,",
@@ -29,7 +32,8 @@
     "translit": "(legontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“[It is] because",
@@ -37,7 +41,8 @@
     "translit": "(Hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "we did not bring",
@@ -45,7 +50,8 @@
     "translit": "(elabomen)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Plural",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "[any] bread.”",
@@ -53,6 +59,7 @@
     "translit": "(Artous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 740:  ",
-    "str2": "Bread, a loaf, food. From airo; bread or a loaf."
+    "str2": "Bread, a loaf, food. From airo; bread or a loaf.",
+    "num": 740
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "Assyria",
@@ -13,7 +14,8 @@
     "translit": "(’aš·šūr)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 804:  ",
-    "str2": "Ashshur"
+    "str2": "Ashshur",
+    "num": 804
   },
   {
     "word": "will be shattered",
@@ -21,7 +23,8 @@
     "translit": "(yê·ḥaṯ)",
     "parse": "Verb - Nifal - Imperfect - third person masculine singular",
     "str": "Strong's 2865:  ",
-    "str2": "To prostrate, to break down, either, by violence, by confusion and fear"
+    "str2": "To prostrate, to break down, either, by violence, by confusion and fear",
+    "num": 2865
   },
   {
     "word": "at the voice",
@@ -29,7 +32,8 @@
     "translit": "(miq·qō·wl)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 6963:  ",
-    "str2": "A voice, sound"
+    "str2": "A voice, sound",
+    "num": 6963
   },
   {
     "word": "of the LORD.",
@@ -37,7 +41,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "He will strike",
@@ -45,7 +50,8 @@
     "translit": "(yak·keh)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular",
     "str": "Strong's 5221:  ",
-    "str2": "To strike"
+    "str2": "To strike",
+    "num": 5221
   },
   {
     "word": "with a rod.",
@@ -53,6 +59,7 @@
     "translit": "(baš·šê·ḇeṭ)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 7626:  ",
-    "str2": "Rod, staff, club, scepter, tribe"
+    "str2": "Rod, staff, club, scepter, tribe",
+    "num": 7626
   }
 ]

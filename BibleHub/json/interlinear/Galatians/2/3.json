@@ -5,7 +5,8 @@
     "translit": "(all’)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "not even",
@@ -13,7 +14,8 @@
     "translit": "(oude)",
     "parse": "Adverb",
     "str": "Strong's 3761:  ",
-    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even."
+    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even.",
+    "num": 3761
   },
   {
     "word": "Titus,",
@@ -21,7 +23,8 @@
     "translit": "(Titos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5103:  ",
-    "str2": "Of Latin origin but uncertain significance; Titus, a Christian."
+    "str2": "Of Latin origin but uncertain significance; Titus, a Christian.",
+    "num": 5103
   },
   {
     "word": "who [was]",
@@ -29,7 +32,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "with",
@@ -37,7 +41,8 @@
     "translit": "(syn)",
     "parse": "Preposition",
     "str": "Strong's 4862:  ",
-    "str2": "With. A primary preposition denoting union; with or together."
+    "str2": "With. A primary preposition denoting union; with or together.",
+    "num": 4862
   },
   {
     "word": "me,",
@@ -45,7 +50,8 @@
     "translit": "(emoi)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "was compelled",
@@ -53,7 +59,8 @@
     "translit": "(ēnankasthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 315:  ",
-    "str2": "To force, compel, constrain, urge. From anagke; to necessitate."
+    "str2": "To force, compel, constrain, urge. From anagke; to necessitate.",
+    "num": 315
   },
   {
     "word": "to be circumcised,",
@@ -61,7 +68,8 @@
     "translit": "(peritmēthēnai)",
     "parse": "Verb - Aorist Infinitive Passive",
     "str": "Strong's 4059:  ",
-    "str2": "To cut around, circumcise. From peri and the base of tomoteros; to cut around, i.e. to circumcise."
+    "str2": "To cut around, circumcise. From peri and the base of tomoteros; to cut around, i.e. to circumcise.",
+    "num": 4059
   },
   {
     "word": "[even though] he was",
@@ -69,7 +77,8 @@
     "translit": "(ōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "a Greek.",
@@ -77,6 +86,7 @@
     "translit": "(Hellēn)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 1672:  ",
-    "str2": "From Hellas; a Hellen or inhabitant of Hellas; by extension a Greek-speaking person, especially a non-Jew."
+    "str2": "From Hellas; a Hellen or inhabitant of Hellas; by extension a Greek-speaking person, especially a non-Jew.",
+    "num": 1672
   }
 ]

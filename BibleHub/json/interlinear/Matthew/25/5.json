@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "bridegroom",
@@ -21,7 +23,8 @@
     "translit": "(nymphiou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3566:  ",
-    "str2": "A bridegroom. From numphe; a bride-groom."
+    "str2": "A bridegroom. From numphe; a bride-groom.",
+    "num": 3566
   },
   {
     "word": "was delayed,",
@@ -29,7 +32,8 @@
     "translit": "(chronizontos)",
     "parse": "Verb - Present Participle Active - Genitive Masculine Singular",
     "str": "Strong's 5549:  ",
-    "str2": "To delay, tarry, linger, spend time. From chronos; to take time, i.e. Linger."
+    "str2": "To delay, tarry, linger, spend time. From chronos; to take time, i.e. Linger.",
+    "num": 5549
   },
   {
     "word": "they all became drowsy",
@@ -37,7 +41,8 @@
     "translit": "(enystaxan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 3573:  ",
-    "str2": "To nod in sleep, be drowsy, slumber. From a presumed derivative of neuo; to nod, i.e. to fall asleep; figuratively, to delay."
+    "str2": "To nod in sleep, be drowsy, slumber. From a presumed derivative of neuo; to nod, i.e. to fall asleep; figuratively, to delay.",
+    "num": 3573
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "fell asleep.",
@@ -53,6 +59,7 @@
     "translit": "(ekatheudon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2518:  ",
-    "str2": "To sleep, be sleeping. From kata and heudo; to lie down to rest, i.e. to fall asleep."
+    "str2": "To sleep, be sleeping. From kata and heudo; to lie down to rest, i.e. to fall asleep.",
+    "num": 2518
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’ū·lām)",
     "parse": "Conjunction",
     "str": "Strong's 199:  ",
-    "str2": "However, on the contrary"
+    "str2": "However, on the contrary",
+    "num": 199
   },
   {
     "word": "if I were you,",
@@ -13,7 +14,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "I would appeal",
@@ -21,7 +23,8 @@
     "translit": "(’eḏ·rōš)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 1875:  ",
-    "str2": "To tread, frequent, to follow, to seek, ask, to worship"
+    "str2": "To tread, frequent, to follow, to seek, ask, to worship",
+    "num": 1875
   },
   {
     "word": "to",
@@ -29,7 +32,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "God",
@@ -37,7 +41,8 @@
     "translit": "(’êl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 410:  ",
-    "str2": "Strength -- as adjective, mighty, the Almighty"
+    "str2": "Strength -- as adjective, mighty, the Almighty",
+    "num": 410
   },
   {
     "word": "and lay",
@@ -45,7 +50,8 @@
     "translit": "(’ā·śîm)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 7760:  ",
-    "str2": "Put -- to put, place, set"
+    "str2": "Put -- to put, place, set",
+    "num": 7760
   },
   {
     "word": "my cause",
@@ -53,7 +59,8 @@
     "translit": "(diḇ·rā·ṯî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 1700:  ",
-    "str2": "A cause, reason, manner"
+    "str2": "A cause, reason, manner",
+    "num": 1700
   },
   {
     "word": "before",
@@ -61,7 +68,8 @@
     "translit": "(wə·’el-)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "Him",
@@ -69,6 +77,7 @@
     "translit": "(’ĕ·lō·hîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   }
 ]

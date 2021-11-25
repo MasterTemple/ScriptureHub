@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "to this one",
@@ -13,7 +14,8 @@
     "translit": "(toutō)",
     "parse": "Demonstrative Pronoun - Dative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "he said,",
@@ -21,7 +23,8 @@
     "translit": "(Eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "‘You",
@@ -29,7 +32,8 @@
     "translit": "(sy)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "shall [have authority]",
@@ -37,7 +41,8 @@
     "translit": "(ginou)",
     "parse": "Verb - Present Imperative Middle or Passive - 2nd Person Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "over",
@@ -45,7 +50,8 @@
     "translit": "(epanō)",
     "parse": "Preposition",
     "str": "Strong's 1883:  ",
-    "str2": "From epi and ano; up above, i.e. Over or on."
+    "str2": "From epi and ano; up above, i.e. Over or on.",
+    "num": 1883
   },
   {
     "word": "five",
@@ -53,7 +59,8 @@
     "translit": "(pente)",
     "parse": "Adjective - Genitive Feminine Plural",
     "str": "Strong's 4002:  ",
-    "str2": "Five. A primary number; 'five'."
+    "str2": "Five. A primary number; 'five'.",
+    "num": 4002
   },
   {
     "word": "cities.’",
@@ -61,6 +68,7 @@
     "translit": "(poleōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 4172:  ",
-    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town."
+    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town.",
+    "num": 4172
   }
 ]

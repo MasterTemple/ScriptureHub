@@ -5,7 +5,8 @@
     "translit": "(lalei)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "these things",
@@ -13,7 +14,8 @@
     "translit": "(Tauta)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "[as]",
@@ -21,7 +23,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "you encourage",
@@ -29,7 +32,8 @@
     "translit": "(parakalei)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 3870:  ",
-    "str2": "From para and kaleo; to call near, i.e. Invite, invoke."
+    "str2": "From para and kaleo; to call near, i.e. Invite, invoke.",
+    "num": 3870
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "rebuke",
@@ -45,7 +50,8 @@
     "translit": "(elenche)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 1651:  ",
-    "str2": "(a) I reprove, rebuke, discipline, (b) I expose, show to be guilty. Of uncertain affinity; to confute, admonish."
+    "str2": "(a) I reprove, rebuke, discipline, (b) I expose, show to be guilty. Of uncertain affinity; to confute, admonish.",
+    "num": 1651
   },
   {
     "word": "with",
@@ -53,7 +59,8 @@
     "translit": "(meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "all",
@@ -61,7 +68,8 @@
     "translit": "(pasēs)",
     "parse": "Adjective - Genitive Feminine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "authority.",
@@ -69,7 +77,8 @@
     "translit": "(epitagēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2003:  ",
-    "str2": "Instruction, command, order, authority. From epitasso; an injunction or decree; by implication, authoritativeness."
+    "str2": "Instruction, command, order, authority. From epitasso; an injunction or decree; by implication, authoritativeness.",
+    "num": 2003
   },
   {
     "word": "{Let} no one",
@@ -77,7 +86,8 @@
     "translit": "(mēdeis)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3367:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3367
   },
   {
     "word": "despise",
@@ -85,7 +95,8 @@
     "translit": "(periphroneitō)",
     "parse": "Verb - Present Imperative Active - 3rd Person Singular",
     "str": "Strong's 4065:  ",
-    "str2": "To look down upon, despise. From peri and phroneo; to think beyond, i.e. Depreciate."
+    "str2": "To look down upon, despise. From peri and phroneo; to think beyond, i.e. Depreciate.",
+    "num": 4065
   },
   {
     "word": "you.",
@@ -93,6 +104,7 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

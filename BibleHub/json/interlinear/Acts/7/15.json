@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Jacob",
@@ -13,7 +14,8 @@
     "translit": "(Iakōb)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2384:  ",
-    "str2": "Of Hebrew origin; Jacob, the progenitor of the Israelites."
+    "str2": "Of Hebrew origin; Jacob, the progenitor of the Israelites.",
+    "num": 2384
   },
   {
     "word": "went down",
@@ -21,7 +23,8 @@
     "translit": "(katebē)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2597:  ",
-    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend."
+    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend.",
+    "num": 2597
   },
   {
     "word": "to",
@@ -29,7 +32,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "Egypt,",
@@ -37,7 +41,8 @@
     "translit": "(Aigypton)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 125:  ",
-    "str2": "Egypt. Of uncertain derivation."
+    "str2": "Egypt. Of uncertain derivation.",
+    "num": 125
   },
   {
     "word": "[where]",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he",
@@ -53,7 +59,8 @@
     "translit": "(autos)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "our",
@@ -69,7 +77,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "fathers",
@@ -77,7 +86,8 @@
     "translit": "(pateres)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "died.",
@@ -85,6 +95,7 @@
     "translit": "(eteleutēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 5053:  ",
-    "str2": "To end, finish, die, complete. From a presumed derivative of teleo; to finish life, i.e. Expire."
+    "str2": "To end, finish, die, complete. From a presumed derivative of teleo; to finish life, i.e. Expire.",
+    "num": 5053
   }
 ]

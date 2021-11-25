@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I greatly",
@@ -13,7 +14,8 @@
     "translit": "(rab·bāh)",
     "parse": "Adjective - feminine singular",
     "str": "Strong's 7227:  ",
-    "str2": "Much, many, great"
+    "str2": "Much, many, great",
+    "num": 7227
   },
   {
     "word": "feared",
@@ -21,7 +23,8 @@
     "translit": "(’e·‘ĕ·rō·wṣ)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 6206:  ",
-    "str2": "To cause to tremble, tremble"
+    "str2": "To cause to tremble, tremble",
+    "num": 6206
   },
   {
     "word": "the crowds,",
@@ -29,7 +32,8 @@
     "translit": "(hā·mō·wn)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1995:  ",
-    "str2": "A noise, tumult, crowd, disquietude, wealth"
+    "str2": "A noise, tumult, crowd, disquietude, wealth",
+    "num": 1995
   },
   {
     "word": "and the contempt",
@@ -37,7 +41,8 @@
     "translit": "(ū·ḇūz-)",
     "parse": "Conjunctive waw | Noun - masculine singular construct",
     "str": "Strong's 937:  ",
-    "str2": "Disrespect"
+    "str2": "Disrespect",
+    "num": 937
   },
   {
     "word": "of the clans",
@@ -45,7 +50,8 @@
     "translit": "(miš·pā·ḥō·wṯ)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 4940:  ",
-    "str2": "A family, circle of relatives, a class, a species, sort, a tribe, people"
+    "str2": "A family, circle of relatives, a class, a species, sort, a tribe, people",
+    "num": 4940
   },
   {
     "word": "terrified me,",
@@ -53,7 +59,8 @@
     "translit": "(yə·ḥit·tê·nî)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular | first person common singular",
     "str": "Strong's 2865:  ",
-    "str2": "To prostrate, to break down, either, by violence, by confusion and fear"
+    "str2": "To prostrate, to break down, either, by violence, by confusion and fear",
+    "num": 2865
   },
   {
     "word": "so that I kept silent",
@@ -61,7 +68,8 @@
     "translit": "(wā·’ed·dōm)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - first person common singular",
     "str": "Strong's 1826:  ",
-    "str2": "To be dumb, to be astonished, to stop, to perish"
+    "str2": "To be dumb, to be astonished, to stop, to perish",
+    "num": 1826
   },
   {
     "word": "and would not",
@@ -69,7 +77,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "go outside—",
@@ -77,6 +86,7 @@
     "translit": "(’ê·ṣê)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   }
 ]

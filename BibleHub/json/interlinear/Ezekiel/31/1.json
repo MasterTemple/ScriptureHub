@@ -5,7 +5,8 @@
     "translit": "(bə·’a·ḥaṯ)",
     "parse": "Preposition-b | Number - feminine singular construct",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "year,",
@@ -13,7 +14,8 @@
     "translit": "(šā·nāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "in the third month,",
@@ -21,7 +23,8 @@
     "translit": "(baš·šə·lî·šî)",
     "parse": "Preposition-b, Article | Number - ordinal masculine singular",
     "str": "Strong's 7992:  ",
-    "str2": "Third, feminine a, third, a third, a third-story cell)"
+    "str2": "Third, feminine a, third, a third, a third-story cell)",
+    "num": 7992
   },
   {
     "word": "on the first",
@@ -29,7 +32,8 @@
     "translit": "(bə·’e·ḥāḏ)",
     "parse": "Preposition-b | Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "day,",
@@ -37,7 +41,8 @@
     "translit": "(la·ḥō·ḏeš)",
     "parse": "Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 2320:  ",
-    "str2": "The new moon, a month"
+    "str2": "The new moon, a month",
+    "num": 2320
   },
   {
     "word": "the word",
@@ -45,7 +50,8 @@
     "translit": "(ḏə·ḇar-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "of the LORD",
@@ -53,7 +59,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "came",
@@ -61,7 +68,8 @@
     "translit": "(way·hî)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "to me,",
@@ -69,7 +77,8 @@
     "translit": "(’ê·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "saying,",
@@ -77,6 +86,7 @@
     "translit": "(lê·mōr)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   }
 ]

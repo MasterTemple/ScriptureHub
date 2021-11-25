@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "this is what",
@@ -13,7 +14,8 @@
     "translit": "(ḵōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "says:",
@@ -29,7 +32,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“We have heard",
@@ -37,7 +41,8 @@
     "translit": "(šā·mā·‘ə·nū)",
     "parse": "Verb - Qal - Perfect - first person common plural",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "a cry",
@@ -45,7 +50,8 @@
     "translit": "(qō·wl)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 6963:  ",
-    "str2": "A voice, sound"
+    "str2": "A voice, sound",
+    "num": 6963
   },
   {
     "word": "of panic—",
@@ -53,7 +59,8 @@
     "translit": "(ḥă·rā·ḏāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 2731:  ",
-    "str2": "Trembling, fear, anxiety"
+    "str2": "Trembling, fear, anxiety",
+    "num": 2731
   },
   {
     "word": "of terror,",
@@ -61,7 +68,8 @@
     "translit": "(pa·ḥaḏ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6343:  ",
-    "str2": "A, alarm"
+    "str2": "A, alarm",
+    "num": 6343
   },
   {
     "word": "not",
@@ -69,7 +77,8 @@
     "translit": "(wə·’ên)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "of peace.",
@@ -77,6 +86,7 @@
     "translit": "(šā·lō·wm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7965:  ",
-    "str2": "Safe, well, happy, friendly, welfare, health, prosperity, peace"
+    "str2": "Safe, well, happy, friendly, welfare, health, prosperity, peace",
+    "num": 7965
   }
 ]

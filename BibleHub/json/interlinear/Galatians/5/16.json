@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "I say,",
@@ -13,7 +14,8 @@
     "translit": "(Legō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "walk",
@@ -21,7 +23,8 @@
     "translit": "(peripateite)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 4043:  ",
-    "str2": "From peri and pateo; to tread all around, i.e. Walk at large; figuratively, to live, deport oneself, follow."
+    "str2": "From peri and pateo; to tread all around, i.e. Walk at large; figuratively, to live, deport oneself, follow.",
+    "num": 4043
   },
   {
     "word": "by [the] Spirit,",
@@ -29,7 +32,8 @@
     "translit": "(Pneumati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "you will not gratify",
@@ -45,7 +50,8 @@
     "translit": "(telesēte)",
     "parse": "Verb - Aorist Subjunctive Active - 2nd Person Plural",
     "str": "Strong's 5055:  ",
-    "str2": "(a) I end, finish, (b) I fulfill, accomplish, (c) I pay. From telos; to end, i.e. Complete, execute, conclude, discharge."
+    "str2": "(a) I end, finish, (b) I fulfill, accomplish, (c) I pay. From telos; to end, i.e. Complete, execute, conclude, discharge.",
+    "num": 5055
   },
   {
     "word": "[the] desires",
@@ -53,7 +59,8 @@
     "translit": "(epithymian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1939:  ",
-    "str2": "Desire, eagerness for, inordinate desire, lust. From epithumeo; a longing."
+    "str2": "Desire, eagerness for, inordinate desire, lust. From epithumeo; a longing.",
+    "num": 1939
   },
   {
     "word": "[of the] flesh.",
@@ -61,6 +68,7 @@
     "translit": "(sarkos)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4561:  ",
-    "str2": "Flesh, body, human nature, materiality; kindred. "
+    "str2": "Flesh, body, human nature, materiality; kindred. ",
+    "num": 4561
   }
 ]

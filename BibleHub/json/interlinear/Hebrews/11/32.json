@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "what",
@@ -13,7 +14,8 @@
     "translit": "(ti)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Neuter Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "more",
@@ -21,7 +23,8 @@
     "translit": "(eti)",
     "parse": "Adverb",
     "str": "Strong's 2089:  ",
-    "str2": "(a) of time: still, yet, even now, (b) of degree: even, further, more, in addition. Perhaps akin to etos; 'yet, ' still."
+    "str2": "(a) of time: still, yet, even now, (b) of degree: even, further, more, in addition. Perhaps akin to etos; 'yet, ' still.",
+    "num": 2089
   },
   {
     "word": "shall I say?",
@@ -29,7 +32,8 @@
     "translit": "(legō)",
     "parse": "Verb - Present Subjunctive Active - 1st Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "Time",
@@ -37,7 +41,8 @@
     "translit": "(chronos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5550:  ",
-    "str2": "A space of time or interval; by extension, an individual opportunity; by implication, delay."
+    "str2": "A space of time or interval; by extension, an individual opportunity; by implication, delay.",
+    "num": 5550
   },
   {
     "word": "will not allow",
@@ -45,7 +50,8 @@
     "translit": "(epileipsei)",
     "parse": "Verb - Future Indicative Active - 3rd Person Singular",
     "str": "Strong's 1952:  ",
-    "str2": "To fail, fall short. From epi and leipo; to leave upon, i.e. to be insufficient for."
+    "str2": "To fail, fall short. From epi and leipo; to leave upon, i.e. to be insufficient for.",
+    "num": 1952
   },
   {
     "word": "me",
@@ -53,7 +59,8 @@
     "translit": "(me)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "to tell",
@@ -61,7 +68,8 @@
     "translit": "(diēgoumenon)",
     "parse": "Verb - Present Participle Middle or Passive - Accusative Masculine Singular",
     "str": "Strong's 1334:  ",
-    "str2": "To relate in full, describe, narrate. From dia and hegeomai; to relate fully."
+    "str2": "To relate in full, describe, narrate. From dia and hegeomai; to relate fully.",
+    "num": 1334
   },
   {
     "word": "of",
@@ -69,7 +77,8 @@
     "translit": "(peri)",
     "parse": "Preposition",
     "str": "Strong's 4012:  ",
-    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time.",
+    "num": 4012
   },
   {
     "word": "Gideon,",
@@ -77,7 +86,8 @@
     "translit": "(Gedeōn)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 1066:  ",
-    "str2": "Gideon, one of the Judges of Israel. Of Hebrew origin; Gedeonon), an Israelite."
+    "str2": "Gideon, one of the Judges of Israel. Of Hebrew origin; Gedeonon), an Israelite.",
+    "num": 1066
   },
   {
     "word": "Barak,",
@@ -85,7 +95,8 @@
     "translit": "(Barak)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 913:  ",
-    "str2": "Barak, one of the judges of Israel. Of Hebrew origin; Barak, an Israelite."
+    "str2": "Barak, one of the judges of Israel. Of Hebrew origin; Barak, an Israelite.",
+    "num": 913
   },
   {
     "word": "Samson,",
@@ -93,7 +104,8 @@
     "translit": "(Sampsōn)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 4546:  ",
-    "str2": "Samson, one of the Judges of Israel. Of Hebrew origin; Sampson, an Israelite."
+    "str2": "Samson, one of the Judges of Israel. Of Hebrew origin; Sampson, an Israelite.",
+    "num": 4546
   },
   {
     "word": "Jephthah,",
@@ -101,7 +113,8 @@
     "translit": "(Iephthae)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2422:  ",
-    "str2": "(Hebrew), Jephthah, one of the Judges of Israel. Of Hebrew origin; Jephthae, an Israelite."
+    "str2": "(Hebrew), Jephthah, one of the Judges of Israel. Of Hebrew origin; Jephthae, an Israelite.",
+    "num": 2422
   },
   {
     "word": "David,",
@@ -109,7 +122,8 @@
     "translit": "(Dauid)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 1138:  ",
-    "str2": "David, King of Israel. Of Hebrew origin; Dabid, the Israelite king."
+    "str2": "David, King of Israel. Of Hebrew origin; Dabid, the Israelite king.",
+    "num": 1138
   },
   {
     "word": "Samuel,",
@@ -117,7 +131,8 @@
     "translit": "(Samouēl)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 4545:  ",
-    "str2": "Samuel, a Hebrew prophet. Of Hebrew origin; Samuel, an Israelite."
+    "str2": "Samuel, a Hebrew prophet. Of Hebrew origin; Samuel, an Israelite.",
+    "num": 4545
   },
   {
     "word": "and",
@@ -125,7 +140,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -133,7 +149,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "prophets,",
@@ -141,6 +158,7 @@
     "translit": "(prophētōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 4396:  ",
-    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet."
+    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet.",
+    "num": 4396
   }
 ]

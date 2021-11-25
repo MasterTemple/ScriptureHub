@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "He remembered",
@@ -13,7 +14,8 @@
     "translit": "(zā·ḵar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 2142:  ",
-    "str2": "To mark, to remember, to mention,   to be male"
+    "str2": "To mark, to remember, to mention,   to be male",
+    "num": 2142
   },
   {
     "word": "His holy",
@@ -21,7 +23,8 @@
     "translit": "(qā·ḏə·šōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 6944:  ",
-    "str2": "A sacred place, thing, sanctity"
+    "str2": "A sacred place, thing, sanctity",
+    "num": 6944
   },
   {
     "word": "promise",
@@ -29,7 +32,8 @@
     "translit": "(də·ḇar)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "to Abraham",
@@ -37,7 +41,8 @@
     "translit": "(’aḇ·rā·hām)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 85:  ",
-    "str2": "Abraham -- 'exalted father', the father of the Jewish nation"
+    "str2": "Abraham -- 'exalted father', the father of the Jewish nation",
+    "num": 85
   },
   {
     "word": "His servant.",
@@ -45,6 +50,7 @@
     "translit": "(‘aḇ·dōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 5650:  ",
-    "str2": "Slave, servant"
+    "str2": "Slave, servant",
+    "num": 5650
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(māh-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "can I say?",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏab·bêr)",
     "parse": "Verb - Piel - Imperfect - first person common singular",
     "str": "Strong's 1696:  ",
-    "str2": "To arrange, to speak, to subdue"
+    "str2": "To arrange, to speak, to subdue",
+    "num": 1696
   },
   {
     "word": "He has spoken to me,",
@@ -21,7 +23,8 @@
     "translit": "(wə·’ā·mar-)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "and He",
@@ -29,7 +32,8 @@
     "translit": "(wə·hū)",
     "parse": "Conjunctive waw | Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "Himself has done this.",
@@ -37,7 +41,8 @@
     "translit": "(‘ā·śāh)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "I will walk slowly",
@@ -45,7 +50,8 @@
     "translit": "(’ed·dad·deh)",
     "parse": "Verb - Hitpael - Imperfect - first person common singular",
     "str": "Strong's 1718:  ",
-    "str2": "Perhaps to move slowly"
+    "str2": "Perhaps to move slowly",
+    "num": 1718
   },
   {
     "word": "all",
@@ -53,7 +59,8 @@
     "translit": "(ḵāl)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "my years",
@@ -61,7 +68,8 @@
     "translit": "(šə·nō·w·ṯay)",
     "parse": "Noun - feminine plural construct | first person common singular",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "because of",
@@ -69,7 +77,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the anguish",
@@ -77,7 +86,8 @@
     "translit": "(mar)",
     "parse": "Adjective - masculine singular construct",
     "str": "Strong's 4751:  ",
-    "str2": "Bitter, bitterness, bitterly"
+    "str2": "Bitter, bitterness, bitterly",
+    "num": 4751
   },
   {
     "word": "of my soul.",
@@ -85,6 +95,7 @@
     "translit": "(nap̄·šî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   }
 ]

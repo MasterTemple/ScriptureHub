@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "this",
@@ -13,7 +14,8 @@
     "translit": "(toutou)",
     "parse": "Demonstrative Pronoun - Genitive Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "had happened,",
@@ -21,7 +23,8 @@
     "translit": "(genomenou)",
     "parse": "Verb - Aorist Participle Middle - Genitive Neuter Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "rest",
@@ -37,7 +41,8 @@
     "translit": "(loipoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3062:  ",
-    "str2": "Left, left behind, the remainder, the rest, the others. Masculine plural of a derivative of leipo; remaining ones."
+    "str2": "Left, left behind, the remainder, the rest, the others. Masculine plural of a derivative of leipo; remaining ones.",
+    "num": 3062
   },
   {
     "word": "of the",
@@ -45,7 +50,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "sick",
@@ -53,7 +59,8 @@
     "translit": "(astheneias)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 769:  ",
-    "str2": "From asthenes; feebleness; by implication, malady; morally, frailty."
+    "str2": "From asthenes; feebleness; by implication, malady; morally, frailty.",
+    "num": 769
   },
   {
     "word": "on",
@@ -61,7 +68,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "island",
@@ -77,7 +86,8 @@
     "translit": "(nēsō)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3520:  ",
-    "str2": "An island. Probably from the base of naus; an island."
+    "str2": "An island. Probably from the base of naus; an island.",
+    "num": 3520
   },
   {
     "word": "came",
@@ -85,7 +95,8 @@
     "translit": "(prosērchonto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 4334:  ",
-    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to."
+    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to.",
+    "num": 4334
   },
   {
     "word": "and",
@@ -93,7 +104,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "were cured",
@@ -101,7 +113,8 @@
     "translit": "(etherapeuonto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 2323:  ",
-    "str2": "From the same as therapon; to wait upon menially, i.e. to adore, or to relieve."
+    "str2": "From the same as therapon; to wait upon menially, i.e. to adore, or to relieve.",
+    "num": 2323
   },
   {
     "word": "as well.",
@@ -109,6 +122,7 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   }
 ]

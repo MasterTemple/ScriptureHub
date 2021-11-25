@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "behold,",
@@ -13,7 +14,8 @@
     "translit": "(hin·nêh)",
     "parse": "Interjection",
     "str": "Strong's 2009:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2009
   },
   {
     "word": "darkness",
@@ -21,7 +23,8 @@
     "translit": "(ha·ḥō·šeḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 2822:  ",
-    "str2": "The dark, darkness, misery, destruction, death, ignorance, sorrow, wickedness"
+    "str2": "The dark, darkness, misery, destruction, death, ignorance, sorrow, wickedness",
+    "num": 2822
   },
   {
     "word": "covers",
@@ -29,7 +32,8 @@
     "translit": "(yə·ḵas·seh-)",
     "parse": "Verb - Piel - Imperfect - third person masculine singular",
     "str": "Strong's 3680:  ",
-    "str2": "To plump, fill up hollows, to cover"
+    "str2": "To plump, fill up hollows, to cover",
+    "num": 3680
   },
   {
     "word": "the earth,",
@@ -37,7 +41,8 @@
     "translit": "(’e·reṣ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "and thick darkness",
@@ -45,7 +50,8 @@
     "translit": "(wa·‘ă·rā·p̄el)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 6205:  ",
-    "str2": "Cloud, heavy cloud"
+    "str2": "Cloud, heavy cloud",
+    "num": 6205
   },
   {
     "word": "[is over] the peoples;",
@@ -53,7 +59,8 @@
     "translit": "(lə·’um·mîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 3816:  ",
-    "str2": "A community"
+    "str2": "A community",
+    "num": 3816
   },
   {
     "word": "but the LORD",
@@ -61,7 +68,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "will rise",
@@ -69,7 +77,8 @@
     "translit": "(yiz·raḥ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 2224:  ",
-    "str2": "To irradiate, to rise, to appear"
+    "str2": "To irradiate, to rise, to appear",
+    "num": 2224
   },
   {
     "word": "upon you,",
@@ -77,7 +86,8 @@
     "translit": "(wə·‘ā·la·yiḵ)",
     "parse": "Conjunctive waw | Preposition | second person feminine singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "and His glory",
@@ -85,7 +95,8 @@
     "translit": "(ū·ḵə·ḇō·w·ḏōw)",
     "parse": "Conjunctive waw | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 3519:  ",
-    "str2": "Weight, splendor, copiousness"
+    "str2": "Weight, splendor, copiousness",
+    "num": 3519
   },
   {
     "word": "will appear",
@@ -93,7 +104,8 @@
     "translit": "(yê·rā·’eh)",
     "parse": "Verb - Nifal - Imperfect - third person masculine singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "over you.",
@@ -101,6 +113,7 @@
     "translit": "(‘ā·la·yiḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   }
 ]

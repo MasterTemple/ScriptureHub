@@ -5,7 +5,8 @@
     "translit": "(ka·’ă·šer)",
     "parse": "Preposition-k | Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "I had never",
@@ -13,7 +14,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "come",
@@ -21,7 +23,8 @@
     "translit": "(hā·yî·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "to be,",
@@ -29,7 +32,8 @@
     "translit": "(’eh·yeh)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "but had been carried",
@@ -37,7 +41,8 @@
     "translit": "(’ū·ḇāl)",
     "parse": "Verb - Hofal - Imperfect - first person common singular",
     "str": "Strong's 2986:  ",
-    "str2": "To conduct, bear along"
+    "str2": "To conduct, bear along",
+    "num": 2986
   },
   {
     "word": "from the womb",
@@ -45,7 +50,8 @@
     "translit": "(mib·be·ṭen)",
     "parse": "Preposition-m | Noun - feminine singular",
     "str": "Strong's 990:  ",
-    "str2": "The belly, the womb, the bosom, body of anything"
+    "str2": "The belly, the womb, the bosom, body of anything",
+    "num": 990
   },
   {
     "word": "to the grave.",
@@ -53,6 +59,7 @@
     "translit": "(laq·qe·ḇer)",
     "parse": "Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 6913:  ",
-    "str2": "A grave, sepulcher"
+    "str2": "A grave, sepulcher",
+    "num": 6913
   }
 ]

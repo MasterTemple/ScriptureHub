@@ -5,7 +5,8 @@
     "translit": "(dio)",
     "parse": "Conjunction",
     "str": "Strong's 1352:  ",
-    "str2": "Wherefore, on which account, therefore. From dia and hos; through which thing, i.e. Consequently."
+    "str2": "Wherefore, on which account, therefore. From dia and hos; through which thing, i.e. Consequently.",
+    "num": 1352
   },
   {
     "word": "when I was invited,",
@@ -13,7 +14,8 @@
     "translit": "(metapemphtheis)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Singular",
     "str": "Strong's 3343:  ",
-    "str2": "To send for, summon. From meta and pempo; to send from elsewhere, i.e. to summon or invite."
+    "str2": "To send for, summon. From meta and pempo; to send from elsewhere, i.e. to summon or invite.",
+    "num": 3343
   },
   {
     "word": "I came",
@@ -21,7 +23,8 @@
     "translit": "(ēlthon)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "without objection.",
@@ -29,7 +32,8 @@
     "translit": "(anantirrētōs)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "Without contradiction, without hesitation, promptly. Adverb from anantirrhetos; promptly."
+    "str2": "Without contradiction, without hesitation, promptly. Adverb from anantirrhetos; promptly.",
+    "num": 369
   },
   {
     "word": "I ask,",
@@ -37,7 +41,8 @@
     "translit": "(pynthanomai)",
     "parse": "Verb - Present Indicative Middle or Passive - 1st Person Singular",
     "str": "Strong's 4441:  ",
-    "str2": "To ask, inquire, ascertain by inquiry, understand. "
+    "str2": "To ask, inquire, ascertain by inquiry, understand. ",
+    "num": 4441
   },
   {
     "word": "then,",
@@ -45,7 +50,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "why",
@@ -53,7 +59,8 @@
     "translit": "(Tini)",
     "parse": "Interrogative / Indefinite Pronoun - Dative Masculine Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "have you sent for",
@@ -61,7 +68,8 @@
     "translit": "(metepempsasthe)",
     "parse": "Verb - Aorist Indicative Middle - 2nd Person Plural",
     "str": "Strong's 3343:  ",
-    "str2": "To send for, summon. From meta and pempo; to send from elsewhere, i.e. to summon or invite."
+    "str2": "To send for, summon. From meta and pempo; to send from elsewhere, i.e. to summon or invite.",
+    "num": 3343
   },
   {
     "word": "me?”",
@@ -69,6 +77,7 @@
     "translit": "(me)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   }
 ]

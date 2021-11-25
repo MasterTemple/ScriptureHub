@@ -5,7 +5,8 @@
     "translit": "(hā·’îš)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "got up",
@@ -13,7 +14,8 @@
     "translit": "(way·yā·qām)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 6965:  ",
-    "str2": "To arise, stand up, stand"
+    "str2": "To arise, stand up, stand",
+    "num": 6965
   },
   {
     "word": "to go,",
@@ -21,7 +23,8 @@
     "translit": "(lā·le·ḵeṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "but his father-in-law",
@@ -29,7 +32,8 @@
     "translit": "(ḥō·ṯə·nōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 2859:  ",
-    "str2": "To give, away in marriage, to contract affinity by marriage"
+    "str2": "To give, away in marriage, to contract affinity by marriage",
+    "num": 2859
   },
   {
     "word": "persuaded him,",
@@ -37,7 +41,8 @@
     "translit": "(way·yip̄·ṣar-)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 6484:  ",
-    "str2": "To peck at, stun, dull"
+    "str2": "To peck at, stun, dull",
+    "num": 6484
   },
   {
     "word": "so he stayed",
@@ -45,7 +50,8 @@
     "translit": "(way·yā·len)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 3885:  ",
-    "str2": "To stop, to stay permanently, to be obstinate"
+    "str2": "To stop, to stay permanently, to be obstinate",
+    "num": 3885
   },
   {
     "word": "there that night.",
@@ -53,6 +59,7 @@
     "translit": "(šām)",
     "parse": "Adverb",
     "str": "Strong's 8033:  ",
-    "str2": "There, then, thither"
+    "str2": "There, then, thither",
+    "num": 8033
   }
 ]

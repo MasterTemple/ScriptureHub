@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Jewish",
@@ -21,7 +23,8 @@
     "translit": "(Ioudaiōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 2453:  ",
-    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah."
+    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah.",
+    "num": 2453
   },
   {
     "word": "Feast",
@@ -29,7 +32,8 @@
     "translit": "(heortē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1859:  ",
-    "str2": "A festival, feast, periodically recurring. Of uncertain affinity; a festival."
+    "str2": "A festival, feast, periodically recurring. Of uncertain affinity; a festival.",
+    "num": 1859
   },
   {
     "word": "of the",
@@ -37,7 +41,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Passover",
@@ -45,7 +50,8 @@
     "translit": "(pascha)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 3957:  ",
-    "str2": "The feast of Passover, the Passover lamb. Of Chaldee origin; the Passover."
+    "str2": "The feast of Passover, the Passover lamb. Of Chaldee origin; the Passover.",
+    "num": 3957
   },
   {
     "word": "was",
@@ -53,7 +59,8 @@
     "translit": "(Ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "near.",
@@ -61,6 +68,7 @@
     "translit": "(engys)",
     "parse": "Adverb",
     "str": "Strong's 1451:  ",
-    "str2": "Near. From a primary verb agcho; near."
+    "str2": "Near. From a primary verb agcho; near.",
+    "num": 1451
   }
 ]

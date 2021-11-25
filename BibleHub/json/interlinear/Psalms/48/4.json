@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "behold,",
@@ -13,7 +14,8 @@
     "translit": "(hin·nêh)",
     "parse": "Interjection",
     "str": "Strong's 2009:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2009
   },
   {
     "word": "the kings",
@@ -21,7 +23,8 @@
     "translit": "(ham·mə·lā·ḵîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "assembled;",
@@ -29,7 +32,8 @@
     "translit": "(nō·w·‘ă·ḏū)",
     "parse": "Verb - Nifal - Perfect - third person common plural",
     "str": "Strong's 3259:  ",
-    "str2": "To fix upon, to meet, to summon, to direct, to engage"
+    "str2": "To fix upon, to meet, to summon, to direct, to engage",
+    "num": 3259
   },
   {
     "word": "they all advanced",
@@ -37,7 +41,8 @@
     "translit": "(‘ā·ḇə·rū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 5674:  ",
-    "str2": "To pass over, through, or by, pass on"
+    "str2": "To pass over, through, or by, pass on",
+    "num": 5674
   },
   {
     "word": "together.",
@@ -45,6 +50,7 @@
     "translit": "(yaḥ·dāw)",
     "parse": "Adverb",
     "str": "Strong's 3162:  ",
-    "str2": "A unit, unitedly"
+    "str2": "A unit, unitedly",
+    "num": 3162
   }
 ]

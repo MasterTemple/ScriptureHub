@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "to",
@@ -13,7 +14,8 @@
     "translit": "(hōste)",
     "parse": "Conjunction",
     "str": "Strong's 5620:  ",
-    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore."
+    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore.",
+    "num": 5620
   },
   {
     "word": "Pilate’s",
@@ -21,7 +23,8 @@
     "translit": "(Pilaton)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 4091:  ",
-    "str2": "Pilate. Of Latin origin; close-pressed, i.e. Firm; Pilatus, a Roman."
+    "str2": "Pilate. Of Latin origin; close-pressed, i.e. Firm; Pilatus, a Roman.",
+    "num": 4091
   },
   {
     "word": "amazement,",
@@ -29,7 +32,8 @@
     "translit": "(thaumazein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2296:  ",
-    "str2": "(a) intrans: I wonder, marvel, (b) trans: I wonder at, admire. From thauma; to wonder; by implication, to admire."
+    "str2": "(a) intrans: I wonder, marvel, (b) trans: I wonder at, admire. From thauma; to wonder; by implication, to admire.",
+    "num": 2296
   },
   {
     "word": "Jesus",
@@ -37,7 +41,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "made no further reply.",
@@ -45,6 +50,7 @@
     "translit": "(apekrithē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 611:  ",
-    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak."
+    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak.",
+    "num": 611
   }
 ]

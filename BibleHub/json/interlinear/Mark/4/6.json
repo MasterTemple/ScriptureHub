@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "when",
@@ -13,7 +14,8 @@
     "translit": "(hote)",
     "parse": "Adverb",
     "str": "Strong's 3753:  ",
-    "str2": "When, at which time. From hos and te; at which too, i.e. When."
+    "str2": "When, at which time. From hos and te; at which too, i.e. When.",
+    "num": 3753
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "sun",
@@ -29,7 +32,8 @@
     "translit": "(hēlios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2246:  ",
-    "str2": "The sun, sunlight. From hele; the sun; by implication, light."
+    "str2": "The sun, sunlight. From hele; the sun; by implication, light.",
+    "num": 2246
   },
   {
     "word": "rose,",
@@ -37,7 +41,8 @@
     "translit": "(aneteilen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 393:  ",
-    "str2": "To make to rise, I rise, shine (generally of the sun, and hence met.). From ana and the base of telos; to arise."
+    "str2": "To make to rise, I rise, shine (generally of the sun, and hence met.). From ana and the base of telos; to arise.",
+    "num": 393
   },
   {
     "word": "[the seedlings] were scorched,",
@@ -45,7 +50,8 @@
     "translit": "(ekaumatisthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 2739:  ",
-    "str2": "To burn, scorch. From kauma; to burn."
+    "str2": "To burn, scorch. From kauma; to burn.",
+    "num": 2739
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they withered",
@@ -61,7 +68,8 @@
     "translit": "(exēranthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 3583:  ",
-    "str2": "To dry up, parch, be ripened, wither, waste away. From xeros; to desiccate; by implication, to shrivel, to mature."
+    "str2": "To dry up, parch, be ripened, wither, waste away. From xeros; to desiccate; by implication, to shrivel, to mature.",
+    "num": 3583
   },
   {
     "word": "because",
@@ -69,7 +77,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "they had",
@@ -77,7 +86,8 @@
     "translit": "(echein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "no",
@@ -85,7 +95,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "root.",
@@ -93,6 +104,7 @@
     "translit": "(rhizan)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4491:  ",
-    "str2": "A root, shoot, source; that which comes from the root, a descendent. Apparently a primary word; a 'root'."
+    "str2": "A root, shoot, source; that which comes from the root, a descendent. Apparently a primary word; a 'root'.",
+    "num": 4491
   }
 ]

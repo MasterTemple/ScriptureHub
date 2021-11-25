@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[Jesus]",
@@ -13,7 +14,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "had said",
@@ -21,7 +23,8 @@
     "translit": "(eipontos)",
     "parse": "Verb - Aorist Participle Active - Genitive Masculine Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "[this],",
@@ -29,7 +32,8 @@
     "translit": "(Tauta)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "one",
@@ -37,7 +41,8 @@
     "translit": "(heis)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1520:  ",
-    "str2": "One. (including the neuter Hen); a primary numeral; one."
+    "str2": "One. (including the neuter Hen); a primary numeral; one.",
+    "num": 1520
   },
   {
     "word": "of the",
@@ -45,7 +50,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "officers",
@@ -53,7 +59,8 @@
     "translit": "(hypēretōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 5257:  ",
-    "str2": "From hupo and a derivative of eresso; an under-oarsman, i.e. subordinate."
+    "str2": "From hupo and a derivative of eresso; an under-oarsman, i.e. subordinate.",
+    "num": 5257
   },
   {
     "word": "standing nearby",
@@ -61,7 +68,8 @@
     "translit": "(parestēkōs)",
     "parse": "Verb - Perfect Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3936:  ",
-    "str2": "Or prolonged paristano from para and histemi; to stand beside, i.e. to exhibit, proffer, recommend, substantiate; or to be at hand, aid."
+    "str2": "Or prolonged paristano from para and histemi; to stand beside, i.e. to exhibit, proffer, recommend, substantiate; or to be at hand, aid.",
+    "num": 3936
   },
   {
     "word": "slapped [Him] in the face",
@@ -69,7 +77,8 @@
     "translit": "(rhapisma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4475:  ",
-    "str2": "A slap, blow on the cheek with the open hand. From rhapizo; a slap."
+    "str2": "A slap, blow on the cheek with the open hand. From rhapizo; a slap.",
+    "num": 4475
   },
   {
     "word": "[and] said,",
@@ -77,7 +86,8 @@
     "translit": "(eipōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“{Is} this how",
@@ -85,7 +95,8 @@
     "translit": "(Houtōs)",
     "parse": "Adverb",
     "str": "Strong's 3779:  ",
-    "str2": "Thus, so, in this manner. Or (referring to what precedes or follows)."
+    "str2": "Thus, so, in this manner. Or (referring to what precedes or follows).",
+    "num": 3779
   },
   {
     "word": "You answer",
@@ -93,7 +104,8 @@
     "translit": "(apokrinē)",
     "parse": "Verb - Present Indicative Middle or Passive - 2nd Person Singular",
     "str": "Strong's 611:  ",
-    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak."
+    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak.",
+    "num": 611
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "high priest?”",
@@ -109,6 +122,7 @@
     "translit": "(archierei)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 749:  ",
-    "str2": "High priest, chief priest. From arche and hiereus; the high-priest; by extension a chief priest."
+    "str2": "High priest, chief priest. From arche and hiereus; the high-priest; by extension a chief priest.",
+    "num": 749
   }
 ]

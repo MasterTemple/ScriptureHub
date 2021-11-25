@@ -5,7 +5,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "swerve",
@@ -13,7 +14,8 @@
     "translit": "(têṭ-)",
     "parse": "Verb - Hifil - Imperfect Jussive - second person masculine singular",
     "str": "Strong's 5186:  ",
-    "str2": "To stretch out, spread out, extend, incline, bend"
+    "str2": "To stretch out, spread out, extend, incline, bend",
+    "num": 5186
   },
   {
     "word": "to the right",
@@ -21,7 +23,8 @@
     "translit": "(yā·mîn)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 3225:  ",
-    "str2": "The right hand, side, the south"
+    "str2": "The right hand, side, the south",
+    "num": 3225
   },
   {
     "word": "or to the left;",
@@ -29,7 +32,8 @@
     "translit": "(ū·śə·mō·wl)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 8040:  ",
-    "str2": "Dark, the north, the left hand"
+    "str2": "Dark, the north, the left hand",
+    "num": 8040
   },
   {
     "word": "turn",
@@ -37,7 +41,8 @@
     "translit": "(hā·sêr)",
     "parse": "Verb - Hifil - Imperative - masculine singular",
     "str": "Strong's 5493:  ",
-    "str2": "To turn aside"
+    "str2": "To turn aside",
+    "num": 5493
   },
   {
     "word": "your feet {away}",
@@ -45,7 +50,8 @@
     "translit": "(raḡ·lə·ḵā)",
     "parse": "Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 7272:  ",
-    "str2": "A foot, a step, the pudenda"
+    "str2": "A foot, a step, the pudenda",
+    "num": 7272
   },
   {
     "word": "from evil.",
@@ -53,6 +59,7 @@
     "translit": "(mê·rā‘)",
     "parse": "Preposition | Adjective - masculine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   }
 ]

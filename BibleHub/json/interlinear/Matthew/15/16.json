@@ -5,7 +5,8 @@
     "translit": "(este)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "you",
@@ -13,7 +14,8 @@
     "translit": "(hymeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "still",
@@ -21,7 +23,8 @@
     "translit": "(Akmēn)",
     "parse": "Adverb",
     "str": "Strong's 188:  ",
-    "str2": "Even now. Accusative case of a noun akin to ake and meaning the same; adverbially, just now, i.e. Still."
+    "str2": "Even now. Accusative case of a noun akin to ake and meaning the same; adverbially, just now, i.e. Still.",
+    "num": 188
   },
   {
     "word": "not understand?”",
@@ -29,7 +32,8 @@
     "translit": "(asynetoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 801:  ",
-    "str2": "Unintelligent, without wisdom, unwise, undiscerning (implying probably moral defect). By implication, wicked."
+    "str2": "Unintelligent, without wisdom, unwise, undiscerning (implying probably moral defect). By implication, wicked.",
+    "num": 801
   },
   {
     "word": "[Jesus] asked.",
@@ -37,6 +41,7 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   }
 ]

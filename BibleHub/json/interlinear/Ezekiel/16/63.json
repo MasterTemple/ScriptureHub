@@ -5,7 +5,8 @@
     "translit": "(lə·ma·‘an)",
     "parse": "Conjunction",
     "str": "Strong's 4616:  ",
-    "str2": "Purpose -- intent"
+    "str2": "Purpose -- intent",
+    "num": 4616
   },
   {
     "word": "when I make atonement",
@@ -13,7 +14,8 @@
     "translit": "(bə·ḵap·pə·rî-)",
     "parse": "Preposition-b | Verb - Piel - Infinitive construct | first person common singular",
     "str": "Strong's 3722:  ",
-    "str2": "To cover, to expiate, condone, to placate, cancel"
+    "str2": "To cover, to expiate, condone, to placate, cancel",
+    "num": 3722
   },
   {
     "word": "for all",
@@ -21,7 +23,8 @@
     "translit": "(lə·ḵāl)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "you have done,",
@@ -29,7 +32,8 @@
     "translit": "(‘ā·śîṯ)",
     "parse": "Verb - Qal - Perfect - second person feminine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "you will remember",
@@ -37,7 +41,8 @@
     "translit": "(tiz·kə·rî)",
     "parse": "Verb - Qal - Imperfect - second person feminine singular",
     "str": "Strong's 2142:  ",
-    "str2": "To mark, to remember, to mention,   to be male"
+    "str2": "To mark, to remember, to mention,   to be male",
+    "num": 2142
   },
   {
     "word": "and be ashamed,",
@@ -45,7 +50,8 @@
     "translit": "(wā·ḇō·šət)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - second person feminine singular",
     "str": "Strong's 954:  ",
-    "str2": "To pale, to be ashamed, to be disappointed, delayed"
+    "str2": "To pale, to be ashamed, to be disappointed, delayed",
+    "num": 954
   },
   {
     "word": "and never",
@@ -53,7 +59,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "open",
@@ -61,7 +68,8 @@
     "translit": "(piṯ·ḥō·wn)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 6610:  ",
-    "str2": "An opening"
+    "str2": "An opening",
+    "num": 6610
   },
   {
     "word": "your mouth",
@@ -69,7 +77,8 @@
     "translit": "(peh)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6310:  ",
-    "str2": "The mouth, edge, portion, side, according to"
+    "str2": "The mouth, edge, portion, side, according to",
+    "num": 6310
   },
   {
     "word": "again",
@@ -77,7 +86,8 @@
     "translit": "(‘ō·wḏ)",
     "parse": "Adverb",
     "str": "Strong's 5750:  ",
-    "str2": "Iteration, continuance, again, repeatedly, still, more"
+    "str2": "Iteration, continuance, again, repeatedly, still, more",
+    "num": 5750
   },
   {
     "word": "because of",
@@ -85,7 +95,8 @@
     "translit": "(mip·pə·nê)",
     "parse": "Preposition-m | Noun - common plural construct",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "your disgrace,",
@@ -93,7 +104,8 @@
     "translit": "(kə·lim·mā·ṯêḵ)",
     "parse": "Noun - feminine singular construct | second person feminine singular",
     "str": "Strong's 3639:  ",
-    "str2": "Insult, reproach, ignominy"
+    "str2": "Insult, reproach, ignominy",
+    "num": 3639
   },
   {
     "word": "declares",
@@ -101,7 +113,8 @@
     "translit": "(nə·’um)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 5002:  ",
-    "str2": "An oracle"
+    "str2": "An oracle",
+    "num": 5002
   },
   {
     "word": "the Lord",
@@ -109,7 +122,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD.’”",
@@ -117,6 +131,7 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   }
 ]

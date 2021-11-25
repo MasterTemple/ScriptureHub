@@ -5,7 +5,8 @@
     "translit": "(’ĕ·mōr)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "all",
@@ -13,7 +14,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the people",
@@ -21,7 +23,8 @@
     "translit": "(‘am)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "of the land",
@@ -29,7 +32,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "and the priests,",
@@ -37,7 +41,8 @@
     "translit": "(hak·kō·hă·nîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 3548:  ",
-    "str2": "Priest"
+    "str2": "Priest",
+    "num": 3548
   },
   {
     "word": "‘When",
@@ -45,7 +50,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you fasted",
@@ -53,7 +59,8 @@
     "translit": "(ṣam·tem)",
     "parse": "Verb - Qal - Perfect - second person masculine plural",
     "str": "Strong's 6684:  ",
-    "str2": "To abstain from food, fast"
+    "str2": "To abstain from food, fast",
+    "num": 6684
   },
   {
     "word": "and mourned",
@@ -61,7 +68,8 @@
     "translit": "(wə·sā·p̄ō·wḏ)",
     "parse": "Conjunctive waw | Verb - Qal - Infinitive absolute",
     "str": "Strong's 5594:  ",
-    "str2": "To tear the hair and beat the breasts, to lament, to wail"
+    "str2": "To tear the hair and beat the breasts, to lament, to wail",
+    "num": 5594
   },
   {
     "word": "in the fifth",
@@ -69,7 +77,8 @@
     "translit": "(ba·ḥă·mî·šî)",
     "parse": "Preposition-b, Article | Number - ordinal masculine singular",
     "str": "Strong's 2549:  ",
-    "str2": "Fifth, a fifth"
+    "str2": "Fifth, a fifth",
+    "num": 2549
   },
   {
     "word": "and seventh months",
@@ -77,7 +86,8 @@
     "translit": "(ū·ḇaš·šə·ḇî·‘î)",
     "parse": "Conjunctive waw, Preposition-b, Article | Number - ordinal masculine singular",
     "str": "Strong's 7637:  ",
-    "str2": "Seventh (an ordinal number)"
+    "str2": "Seventh (an ordinal number)",
+    "num": 7637
   },
   {
     "word": "for these",
@@ -85,7 +95,8 @@
     "translit": "(wə·zeh)",
     "parse": "Conjunctive waw | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "seventy",
@@ -93,7 +104,8 @@
     "translit": "(šiḇ·‘îm)",
     "parse": "Number - common plural",
     "str": "Strong's 7657:  ",
-    "str2": "Seventy (a cardinal number)"
+    "str2": "Seventy (a cardinal number)",
+    "num": 7657
   },
   {
     "word": "years,",
@@ -101,7 +113,8 @@
     "translit": "(šā·nāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "{was it really} for Me",
@@ -109,7 +122,8 @@
     "translit": "(’ā·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "that you fasted?",
@@ -117,6 +131,7 @@
     "translit": "(hă·ṣō·wm)",
     "parse": "Verb - Qal - Infinitive absolute",
     "str": "Strong's 6684:  ",
-    "str2": "To abstain from food, fast"
+    "str2": "To abstain from food, fast",
+    "num": 6684
   }
 ]

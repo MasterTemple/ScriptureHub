@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "a second time",
@@ -13,7 +14,8 @@
     "translit": "(deuteron)",
     "parse": "Adverb",
     "str": "Strong's 1208:  ",
-    "str2": "Second; with the article: in the second place, for the second time. As the compare of duo; second."
+    "str2": "Second; with the article: in the second place, for the second time. As the compare of duo; second.",
+    "num": 1208
   },
   {
     "word": "they called out:",
@@ -21,7 +23,8 @@
     "translit": "(eirēkan)",
     "parse": "Verb - Perfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2046:  ",
-    "str2": "Probably a fuller form of rheo; an alternate for epo in certain tenses; to utter, i.e. Speak or say."
+    "str2": "Probably a fuller form of rheo; an alternate for epo in certain tenses; to utter, i.e. Speak or say.",
+    "num": 2046
   },
   {
     "word": "“Hallelujah!",
@@ -29,7 +32,8 @@
     "translit": "(Hallēlouia)",
     "parse": "Hebrew Word ",
     "str": "Strong's 239:  ",
-    "str2": "Hallelujah, Praise the Lord. Of Hebrew origin; praise ye Jah!, an adoring exclamation."
+    "str2": "Hallelujah, Praise the Lord. Of Hebrew origin; praise ye Jah!, an adoring exclamation.",
+    "num": 239
   },
   {
     "word": "Her",
@@ -37,7 +41,8 @@
     "translit": "(autēs)",
     "parse": "Personal / Possessive Pronoun - Genitive Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "smoke",
@@ -45,7 +50,8 @@
     "translit": "(kapnos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2586:  ",
-    "str2": "Smoke. Of uncertain affinity; smoke."
+    "str2": "Smoke. Of uncertain affinity; smoke.",
+    "num": 2586
   },
   {
     "word": "ascends",
@@ -53,7 +59,8 @@
     "translit": "(anabainei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 305:  ",
-    "str2": "To go up, mount, ascend; of things: I rise, spring up, come up. From ana and the base of basis; to go up."
+    "str2": "To go up, mount, ascend; of things: I rise, spring up, come up. From ana and the base of basis; to go up.",
+    "num": 305
   },
   {
     "word": "forever",
@@ -61,7 +68,8 @@
     "translit": "(aiōnas)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 165:  ",
-    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period."
+    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period.",
+    "num": 165
   },
   {
     "word": "[and]",
@@ -69,7 +77,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "ever.”",
@@ -77,6 +86,7 @@
     "translit": "(aiōnōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 165:  ",
-    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period."
+    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period.",
+    "num": 165
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hai)",
     "parse": "Article - Nominative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "very",
@@ -21,7 +23,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "hairs",
@@ -29,7 +32,8 @@
     "translit": "(triches)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 2359:  ",
-    "str2": "Hair (of the head or of animals). Genitive case trichos, etc. of uncertain derivation; hair."
+    "str2": "Hair (of the head or of animals). Genitive case trichos, etc. of uncertain derivation; hair.",
+    "num": 2359
   },
   {
     "word": "of",
@@ -37,7 +41,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "your",
@@ -45,7 +50,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "head",
@@ -53,7 +59,8 @@
     "translit": "(kephalēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2776:  ",
-    "str2": "From the primary kapto; the head, literally or figuratively."
+    "str2": "From the primary kapto; the head, literally or figuratively.",
+    "num": 2776
   },
   {
     "word": "are all numbered.",
@@ -61,7 +68,8 @@
     "translit": "(ērithmēntai)",
     "parse": "Verb - Perfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 705:  ",
-    "str2": "To number, count. From arithmos; to enumerate or count."
+    "str2": "To number, count. From arithmos; to enumerate or count.",
+    "num": 705
   },
   {
     "word": "[So] do not be afraid;",
@@ -69,7 +77,8 @@
     "translit": "(phobeisthe)",
     "parse": "Verb - Present Imperative Middle or Passive - 2nd Person Plural",
     "str": "Strong's 5399:  ",
-    "str2": "From phobos; to frighten, i.e. to be alarmed; by analogy, to be in awe of, i.e. Revere."
+    "str2": "From phobos; to frighten, i.e. to be alarmed; by analogy, to be in awe of, i.e. Revere.",
+    "num": 5399
   },
   {
     "word": "you are worth more",
@@ -77,7 +86,8 @@
     "translit": "(diapherete)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 1308:  ",
-    "str2": "From dia and phero; to bear through, i.e. transport; usually to bear apart, i.e. to toss about; subjectively, to 'differ', or surpass."
+    "str2": "From dia and phero; to bear through, i.e. transport; usually to bear apart, i.e. to toss about; subjectively, to 'differ', or surpass.",
+    "num": 1308
   },
   {
     "word": "than many",
@@ -85,7 +95,8 @@
     "translit": "(pollōn)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "sparrows.",
@@ -93,6 +104,7 @@
     "translit": "(strouthiōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 4765:  ",
-    "str2": "A small bird, sparrow. Diminutive of strouthos; a little sparrow."
+    "str2": "A small bird, sparrow. Diminutive of strouthos; a little sparrow.",
+    "num": 4765
   }
 ]

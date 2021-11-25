@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "“If",
@@ -13,7 +14,8 @@
     "translit": "(Ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "it is hard for",
@@ -21,7 +23,8 @@
     "translit": "(molis)",
     "parse": "Adverb",
     "str": "Strong's 3433:  ",
-    "str2": "With difficulty, hardly, scarcely. Probably by variation for mogis; with difficulty."
+    "str2": "With difficulty, hardly, scarcely. Probably by variation for mogis; with difficulty.",
+    "num": 3433
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "righteous",
@@ -37,7 +41,8 @@
     "translit": "(dikaios)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1342:  ",
-    "str2": "From dike; equitable; by implication, innocent, holy."
+    "str2": "From dike; equitable; by implication, innocent, holy.",
+    "num": 1342
   },
   {
     "word": "to be saved,",
@@ -45,7 +50,8 @@
     "translit": "(sōzetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 4982:  ",
-    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect."
+    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect.",
+    "num": 4982
   },
   {
     "word": "what",
@@ -53,7 +59,8 @@
     "translit": "(pou)",
     "parse": "Adverb",
     "str": "Strong's 4226:  ",
-    "str2": "Genitive case of an interrogative pronoun pos otherwise obsolete; as adverb of place; at what locality."
+    "str2": "Genitive case of an interrogative pronoun pos otherwise obsolete; as adverb of place; at what locality.",
+    "num": 4226
   },
   {
     "word": "will become of",
@@ -61,7 +68,8 @@
     "translit": "(phaneitai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Singular",
     "str": "Strong's 5316:  ",
-    "str2": "Prolongation for the base of phos; to lighten, i.e. Show."
+    "str2": "Prolongation for the base of phos; to lighten, i.e. Show.",
+    "num": 5316
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "ungodly",
@@ -77,7 +86,8 @@
     "translit": "(asebēs)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 765:  ",
-    "str2": "Impious, ungodly, wicked. Irreverent, i.e. impious or wicked."
+    "str2": "Impious, ungodly, wicked. Irreverent, i.e. impious or wicked.",
+    "num": 765
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[the] sinner?”",
@@ -93,6 +104,7 @@
     "translit": "(hamartōlos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 268:  ",
-    "str2": "Sinning, sinful, depraved, detestable. From hamartano; sinful, i.e. A sinner."
+    "str2": "Sinning, sinful, depraved, detestable. From hamartano; sinful, i.e. A sinner.",
+    "num": 268
   }
 ]

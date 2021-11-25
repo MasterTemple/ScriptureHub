@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "I also baptized",
@@ -13,7 +14,8 @@
     "translit": "(ebaptisa)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 907:  ",
-    "str2": "Lit: I dip, submerge, but specifically of ceremonial dipping; I baptize. "
+    "str2": "Lit: I dip, submerge, but specifically of ceremonial dipping; I baptize. ",
+    "num": 907
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "household",
@@ -29,7 +32,8 @@
     "translit": "(oikon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3624:  ",
-    "str2": "A dwelling; by implication, a family."
+    "str2": "A dwelling; by implication, a family.",
+    "num": 3624
   },
   {
     "word": "of Stephanas;",
@@ -37,7 +41,8 @@
     "translit": "(Stephana)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 4734:  ",
-    "str2": "Stephanas, a Corinthian Christian. Probably contraction for stephanotos; Stephanas, a Christian."
+    "str2": "Stephanas, a Corinthian Christian. Probably contraction for stephanotos; Stephanas, a Christian.",
+    "num": 4734
   },
   {
     "word": "beyond that",
@@ -45,7 +50,8 @@
     "translit": "(loipon)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 3063:  ",
-    "str2": "Finally, from now on, henceforth, beyond that. Neuter singular of the same as loipoy; something remaining."
+    "str2": "Finally, from now on, henceforth, beyond that. Neuter singular of the same as loipoy; something remaining.",
+    "num": 3063
   },
   {
     "word": "I do not remember",
@@ -53,7 +59,8 @@
     "translit": "(oida)",
     "parse": "Verb - Perfect Indicative Active - 1st Person Singular",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "baptizing",
@@ -61,7 +68,8 @@
     "translit": "(ebaptisa)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 907:  ",
-    "str2": "Lit: I dip, submerge, but specifically of ceremonial dipping; I baptize. "
+    "str2": "Lit: I dip, submerge, but specifically of ceremonial dipping; I baptize. ",
+    "num": 907
   },
   {
     "word": "anyone",
@@ -69,7 +77,8 @@
     "translit": "(tina)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "else.",
@@ -77,6 +86,7 @@
     "translit": "(allon)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 243:  ",
-    "str2": "Other, another (of more than two), different. A primary word; 'else, ' i.e. Different."
+    "str2": "Other, another (of more than two), different. A primary word; 'else, ' i.e. Different.",
+    "num": 243
   }
 ]

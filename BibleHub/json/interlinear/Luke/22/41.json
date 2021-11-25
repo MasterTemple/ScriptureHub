@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "He",
@@ -13,7 +14,8 @@
     "translit": "(autos)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "withdrew",
@@ -21,7 +23,8 @@
     "translit": "(apespasthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 645:  ",
-    "str2": "From apo and spao; to drag forth, i.e. unsheathe, or relatively retire."
+    "str2": "From apo and spao; to drag forth, i.e. unsheathe, or relatively retire.",
+    "num": 645
   },
   {
     "word": "about",
@@ -29,7 +32,8 @@
     "translit": "(hōsei)",
     "parse": "Adverb",
     "str": "Strong's 5616:  ",
-    "str2": "As if, as it were, like; with numbers: about. From hos and ei; as if."
+    "str2": "As if, as it were, like; with numbers: about. From hos and ei; as if.",
+    "num": 5616
   },
   {
     "word": "a stone’s",
@@ -37,7 +41,8 @@
     "translit": "(lithou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3037:  ",
-    "str2": "A stone; met: of Jesus as the chief stone in a building. Apparently a primary word; a stone."
+    "str2": "A stone; met: of Jesus as the chief stone in a building. Apparently a primary word; a stone.",
+    "num": 3037
   },
   {
     "word": "throw",
@@ -45,7 +50,8 @@
     "translit": "(bolēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1000:  ",
-    "str2": "A casting, throw; in acc: as measure of distance. From ballo; a throw."
+    "str2": "A casting, throw; in acc: as measure of distance. From ballo; a throw.",
+    "num": 1000
   },
   {
     "word": "beyond",
@@ -53,7 +59,8 @@
     "translit": "(ap’)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "them,",
@@ -61,7 +68,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "[where]",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "He knelt down",
@@ -77,7 +86,8 @@
     "translit": "(theis)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 5087:  ",
-    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place."
+    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place.",
+    "num": 5087
   },
   {
     "word": "[and] prayed,",
@@ -85,6 +95,7 @@
     "translit": "(prosēucheto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 4336:  ",
-    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship."
+    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship.",
+    "num": 4336
   }
 ]

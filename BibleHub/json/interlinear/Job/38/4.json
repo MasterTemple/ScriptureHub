@@ -5,7 +5,8 @@
     "translit": "(’ê·p̄ōh)",
     "parse": "Interrogative",
     "str": "Strong's 375:  ",
-    "str2": "What place?, when?, how?"
+    "str2": "What place?, when?, how?",
+    "num": 375
   },
   {
     "word": "were you",
@@ -13,7 +14,8 @@
     "translit": "(hā·yî·ṯā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "when I laid the foundations",
@@ -21,7 +23,8 @@
     "translit": "(bə·yā·sə·ḏî-)",
     "parse": "Preposition-b | Verb - Qal - Infinitive construct | first person common singular",
     "str": "Strong's 3245:  ",
-    "str2": "To set, to found, to sit down together, settle, consult"
+    "str2": "To set, to found, to sit down together, settle, consult",
+    "num": 3245
   },
   {
     "word": "of the earth?",
@@ -29,7 +32,8 @@
     "translit": "(’ā·reṣ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "Tell [Me],",
@@ -37,7 +41,8 @@
     "translit": "(hag·gêḏ)",
     "parse": "Verb - Hifil - Imperative - masculine singular",
     "str": "Strong's 5046:  ",
-    "str2": "To be conspicuous"
+    "str2": "To be conspicuous",
+    "num": 5046
   },
   {
     "word": "if",
@@ -45,7 +50,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you have understanding.",
@@ -53,6 +59,7 @@
     "translit": "(yā·ḏa‘·tā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   }
 ]

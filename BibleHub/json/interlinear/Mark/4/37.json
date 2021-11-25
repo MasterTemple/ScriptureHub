@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "a violent",
@@ -13,7 +14,8 @@
     "translit": "(megalē)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 3173:  ",
-    "str2": "Large, great, in the widest sense. "
+    "str2": "Large, great, in the widest sense. ",
+    "num": 3173
   },
   {
     "word": "windstorm",
@@ -21,7 +23,8 @@
     "translit": "(lailaps)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2978:  ",
-    "str2": "A sudden storm, squall, whirlwind, hurricane. Of uncertain derivation; a whirlwind."
+    "str2": "A sudden storm, squall, whirlwind, hurricane. Of uncertain derivation; a whirlwind.",
+    "num": 2978
   },
   {
     "word": "came up,",
@@ -29,7 +32,8 @@
     "translit": "(ginetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(ta)",
     "parse": "Article - Nominative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "waves",
@@ -53,7 +59,8 @@
     "translit": "(kymata)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 2949:  ",
-    "str2": "A wave, surge, billow. From kuo (with young), i.e. Bend, curve); a billow."
+    "str2": "A wave, surge, billow. From kuo (with young), i.e. Bend, curve); a billow.",
+    "num": 2949
   },
   {
     "word": "were breaking",
@@ -61,7 +68,8 @@
     "translit": "(epeballen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1911:  ",
-    "str2": "From epi and ballo; to throw upon; specially to reflect; impersonally, to belong to."
+    "str2": "From epi and ballo; to throw upon; specially to reflect; impersonally, to belong to.",
+    "num": 1911
   },
   {
     "word": "over",
@@ -69,7 +77,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "boat,",
@@ -85,7 +95,8 @@
     "translit": "(ploion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4143:  ",
-    "str2": "A ship, vessel, boat. From pleo; a sailer, i.e. Vessel."
+    "str2": "A ship, vessel, boat. From pleo; a sailer, i.e. Vessel.",
+    "num": 4143
   },
   {
     "word": "so that",
@@ -93,7 +104,8 @@
     "translit": "(hōste)",
     "parse": "Conjunction",
     "str": "Strong's 5620:  ",
-    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore."
+    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore.",
+    "num": 5620
   },
   {
     "word": "[it]",
@@ -101,7 +113,8 @@
     "translit": "(ploion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4143:  ",
-    "str2": "A ship, vessel, boat. From pleo; a sailer, i.e. Vessel."
+    "str2": "A ship, vessel, boat. From pleo; a sailer, i.e. Vessel.",
+    "num": 4143
   },
   {
     "word": "was being swamped.",
@@ -109,6 +122,7 @@
     "translit": "(gemizesthai)",
     "parse": "Verb - Present Infinitive Middle or Passive",
     "str": "Strong's 1072:  ",
-    "str2": "To fill, load. Transitive from gemo; to fill entirely."
+    "str2": "To fill, load. Transitive from gemo; to fill entirely.",
+    "num": 1072
   }
 ]

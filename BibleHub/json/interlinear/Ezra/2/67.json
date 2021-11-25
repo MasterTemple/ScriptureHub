@@ -5,7 +5,8 @@
     "translit": "(’ar·ba‘)",
     "parse": "Number - feminine singular",
     "str": "Strong's 702:  ",
-    "str2": "Four"
+    "str2": "Four",
+    "num": 702
   },
   {
     "word": "camels,",
@@ -13,7 +14,8 @@
     "translit": "(gə·mal·lê·hem)",
     "parse": "Noun - masculine plural construct | third person masculine plural",
     "str": "Strong's 1581:  ",
-    "str2": "A camel"
+    "str2": "A camel",
+    "num": 1581
   },
   {
     "word": "and 6,720",
@@ -21,7 +23,8 @@
     "translit": "(šê·šeṯ)",
     "parse": "Number - masculine singular construct",
     "str": "Strong's 8337:  ",
-    "str2": "Six (a cardinal number)"
+    "str2": "Six (a cardinal number)",
+    "num": 8337
   },
   {
     "word": "donkeys.",
@@ -29,6 +32,7 @@
     "translit": "(ḥă·mō·rîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 2543:  ",
-    "str2": "A male ass"
+    "str2": "A male ass",
+    "num": 2543
   }
 ]

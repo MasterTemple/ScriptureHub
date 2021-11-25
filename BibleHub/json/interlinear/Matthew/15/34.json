@@ -5,7 +5,8 @@
     "translit": "(Posous)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Masculine Plural",
     "str": "Strong's 4214:  ",
-    "str2": "How much, how great, how many. From an absolute pos and hos; interrogative pronoun how much (plural) many)."
+    "str2": "How much, how great, how many. From an absolute pos and hos; interrogative pronoun how much (plural) many).",
+    "num": 4214
   },
   {
     "word": "loaves",
@@ -13,7 +14,8 @@
     "translit": "(artous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 740:  ",
-    "str2": "Bread, a loaf, food. From airo; bread or a loaf."
+    "str2": "Bread, a loaf, food. From airo; bread or a loaf.",
+    "num": 740
   },
   {
     "word": "do you have?”",
@@ -21,7 +23,8 @@
     "translit": "(echete)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "Jesus",
@@ -29,7 +32,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "asked.",
@@ -37,7 +41,8 @@
     "translit": "(legei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“Seven,”",
@@ -45,7 +50,8 @@
     "translit": "(Hepta)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 2033:  ",
-    "str2": "Seven. A primary number; seven."
+    "str2": "Seven. A primary number; seven.",
+    "num": 2033
   },
   {
     "word": "they replied,",
@@ -53,7 +59,8 @@
     "translit": "(eipan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "a few",
@@ -69,7 +77,8 @@
     "translit": "(oliga)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 3641:  ",
-    "str2": "Puny; especially neuter somewhat."
+    "str2": "Puny; especially neuter somewhat.",
+    "num": 3641
   },
   {
     "word": "small fish.”",
@@ -77,6 +86,7 @@
     "translit": "(ichthydia)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 2485:  ",
-    "str2": "A small fish. Diminutive from ichthus; a petty fish."
+    "str2": "A small fish. Diminutive from ichthus; a petty fish.",
+    "num": 2485
   }
 ]

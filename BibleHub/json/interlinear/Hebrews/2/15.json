@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "free",
@@ -13,7 +14,8 @@
     "translit": "(apallaxē)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 525:  ",
-    "str2": "From apo and allasso; to change away, i.e. Release, remove."
+    "str2": "From apo and allasso; to change away, i.e. Release, remove.",
+    "num": 525
   },
   {
     "word": "those",
@@ -21,7 +23,8 @@
     "translit": "(toutous)",
     "parse": "Demonstrative Pronoun - Accusative Masculine Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "who",
@@ -29,7 +32,8 @@
     "translit": "(hosoi)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3745:  ",
-    "str2": "How much, how great, how many, as great as, as much. By reduplication from hos; as As."
+    "str2": "How much, how great, how many, as great as, as much. By reduplication from hos; as As.",
+    "num": 3745
   },
   {
     "word": "all",
@@ -37,7 +41,8 @@
     "translit": "(pantos)",
     "parse": "Adjective - Genitive Neuter Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "[their]",
@@ -45,7 +50,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "lives",
@@ -53,7 +59,8 @@
     "translit": "(zēn)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2198:  ",
-    "str2": "To live, be alive. A primary verb; to live."
+    "str2": "To live, be alive. A primary verb; to live.",
+    "num": 2198
   },
   {
     "word": "were",
@@ -61,7 +68,8 @@
     "translit": "(ēsan)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "held",
@@ -69,7 +77,8 @@
     "translit": "(enochoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 1777:  ",
-    "str2": "Involved in, held in, hence: liable, generally with dat. (or gen.) of the punishment. From enecho; liable to."
+    "str2": "Involved in, held in, hence: liable, generally with dat. (or gen.) of the punishment. From enecho; liable to.",
+    "num": 1777
   },
   {
     "word": "in slavery",
@@ -77,7 +86,8 @@
     "translit": "(douleias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1397:  ",
-    "str2": "Slavery, bondage. From douleuo; slavery."
+    "str2": "Slavery, bondage. From douleuo; slavery.",
+    "num": 1397
   },
   {
     "word": "by",
@@ -85,7 +95,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "[their] fear",
@@ -93,7 +104,8 @@
     "translit": "(phobō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 5401:  ",
-    "str2": "(a) fear, terror, alarm, (b) the object or cause of fear, (c) reverence, respect. From a primary phebomai; alarm or fright."
+    "str2": "(a) fear, terror, alarm, (b) the object or cause of fear, (c) reverence, respect. From a primary phebomai; alarm or fright.",
+    "num": 5401
   },
   {
     "word": "of death.",
@@ -101,6 +113,7 @@
     "translit": "(thanatou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2288:  ",
-    "str2": "Death, physical or spiritual. From thnesko; death."
+    "str2": "Death, physical or spiritual. From thnesko; death.",
+    "num": 2288
   }
 ]

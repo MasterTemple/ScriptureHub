@@ -5,7 +5,8 @@
     "translit": "(ta)",
     "parse": "Article - Nominative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "TRUE",
@@ -13,7 +14,8 @@
     "translit": "(men)",
     "parse": "Particle",
     "str": "Strong's 3303:  ",
-    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de."
+    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de.",
+    "num": 3303
   },
   {
     "word": "marks",
@@ -21,7 +23,8 @@
     "translit": "(sēmeia)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 4592:  ",
-    "str2": "Neuter of a presumed derivative of the base of semaino; an indication, especially ceremonially or supernaturally."
+    "str2": "Neuter of a presumed derivative of the base of semaino; an indication, especially ceremonially or supernaturally.",
+    "num": 4592
   },
   {
     "word": "of an apostle—",
@@ -29,7 +32,8 @@
     "translit": "(apostolou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 652:  ",
-    "str2": "From apostello; a delegate; specially, an ambassador of the Gospel; officially a commissioner of Christ."
+    "str2": "From apostello; a delegate; specially, an ambassador of the Gospel; officially a commissioner of Christ.",
+    "num": 652
   },
   {
     "word": "signs,",
@@ -37,7 +41,8 @@
     "translit": "(sēmeiois)",
     "parse": "Noun - Dative Neuter Plural",
     "str": "Strong's 4592:  ",
-    "str2": "Neuter of a presumed derivative of the base of semaino; an indication, especially ceremonially or supernaturally."
+    "str2": "Neuter of a presumed derivative of the base of semaino; an indication, especially ceremonially or supernaturally.",
+    "num": 4592
   },
   {
     "word": "wonders,",
@@ -45,7 +50,8 @@
     "translit": "(terasin)",
     "parse": "Noun - Dative Neuter Plural",
     "str": "Strong's 5059:  ",
-    "str2": "A wonder, portent, marvel. Of uncertain affinity; a prodigy or omen."
+    "str2": "A wonder, portent, marvel. Of uncertain affinity; a prodigy or omen.",
+    "num": 5059
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "miracles—",
@@ -61,7 +68,8 @@
     "translit": "(dynamesin)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 1411:  ",
-    "str2": "From dunamai; force; specially, miraculous power."
+    "str2": "From dunamai; force; specially, miraculous power.",
+    "num": 1411
   },
   {
     "word": "were performed",
@@ -69,7 +77,8 @@
     "translit": "(kateirgasthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 2716:  ",
-    "str2": "From kata and ergazomai; to work fully, i.e. Accomplish; by implication, to finish, fashion."
+    "str2": "From kata and ergazomai; to work fully, i.e. Accomplish; by implication, to finish, fashion.",
+    "num": 2716
   },
   {
     "word": "among",
@@ -77,7 +86,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "you",
@@ -85,7 +95,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "with",
@@ -93,7 +104,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "great",
@@ -101,7 +113,8 @@
     "translit": "(pasē)",
     "parse": "Adjective - Dative Feminine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "perseverance.",
@@ -109,6 +122,7 @@
     "translit": "(hypomonē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 5281:  ",
-    "str2": "Endurance, steadfastness, patient waiting for. From hupomeno; cheerful endurance, constancy."
+    "str2": "Endurance, steadfastness, patient waiting for. From hupomeno; cheerful endurance, constancy.",
+    "num": 5281
   }
 ]

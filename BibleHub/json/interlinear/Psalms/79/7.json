@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "they have devoured",
@@ -13,7 +14,8 @@
     "translit": "(’ā·ḵal)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "Jacob",
@@ -21,7 +23,8 @@
     "translit": "(ya·‘ă·qōḇ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3290:  ",
-    "str2": "Jacob -- a son of Isaac, also his desc"
+    "str2": "Jacob -- a son of Isaac, also his desc",
+    "num": 3290
   },
   {
     "word": "and laid waste",
@@ -29,7 +32,8 @@
     "translit": "(hê·šam·mū)",
     "parse": "Verb - Hifil - Perfect - third person common plural",
     "str": "Strong's 8074:  ",
-    "str2": "To stun, devastate, stupefy"
+    "str2": "To stun, devastate, stupefy",
+    "num": 8074
   },
   {
     "word": "to his homeland.",
@@ -37,6 +41,7 @@
     "translit": "(nā·wê·hū)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 5116:  ",
-    "str2": "Abode of shepherd or flocks, habitation"
+    "str2": "Abode of shepherd or flocks, habitation",
+    "num": 5116
   }
 ]

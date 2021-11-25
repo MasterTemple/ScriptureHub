@@ -5,7 +5,8 @@
     "translit": "(hā·’êl·leh)",
     "parse": "Article | Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   },
   {
     "word": "four",
@@ -13,7 +14,8 @@
     "translit": "(’ar·ba‘·tām)",
     "parse": "Number - masculine singular construct | third person masculine plural",
     "str": "Strong's 702:  ",
-    "str2": "Four"
+    "str2": "Four",
+    "num": 702
   },
   {
     "word": "young men",
@@ -21,7 +23,8 @@
     "translit": "(wə·hay·lā·ḏîm)",
     "parse": "Conjunctive waw, Article | Noun - masculine plural",
     "str": "Strong's 3206:  ",
-    "str2": "Something born, a lad, offspring"
+    "str2": "Something born, a lad, offspring",
+    "num": 3206
   },
   {
     "word": "God",
@@ -29,7 +32,8 @@
     "translit": "(hā·’ĕ·lō·hîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "gave",
@@ -37,7 +41,8 @@
     "translit": "(nā·ṯan)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "knowledge",
@@ -45,7 +50,8 @@
     "translit": "(mad·dā‘)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4093:  ",
-    "str2": "Intelligence, consciousness"
+    "str2": "Intelligence, consciousness",
+    "num": 4093
   },
   {
     "word": "and understanding",
@@ -53,7 +59,8 @@
     "translit": "(wə·haś·kêl)",
     "parse": "Conjunctive waw | Verb - Hifil - Infinitive absolute",
     "str": "Strong's 7919:  ",
-    "str2": "To be, circumspect, intelligent"
+    "str2": "To be, circumspect, intelligent",
+    "num": 7919
   },
   {
     "word": "in every kind",
@@ -61,7 +68,8 @@
     "translit": "(bə·ḵāl)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "of literature",
@@ -69,7 +77,8 @@
     "translit": "(sê·p̄er)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5612:  ",
-    "str2": "A missive, document, writing, book"
+    "str2": "A missive, document, writing, book",
+    "num": 5612
   },
   {
     "word": "and wisdom.",
@@ -77,7 +86,8 @@
     "translit": "(wə·ḥā·ḵə·māh)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 2451:  ",
-    "str2": "Wisdom"
+    "str2": "Wisdom",
+    "num": 2451
   },
   {
     "word": "And Daniel",
@@ -85,7 +95,8 @@
     "translit": "(wə·ḏā·nî·yêl)",
     "parse": "Conjunctive waw | Noun - proper - masculine singular",
     "str": "Strong's 1840:  ",
-    "str2": "Daniel -- 'God is my judge', the name of several Israelites"
+    "str2": "Daniel -- 'God is my judge', the name of several Israelites",
+    "num": 1840
   },
   {
     "word": "had insight",
@@ -93,7 +104,8 @@
     "translit": "(hê·ḇîn)",
     "parse": "Verb - Hifil - Perfect - third person masculine singular",
     "str": "Strong's 995:  ",
-    "str2": "To separate mentally, understand"
+    "str2": "To separate mentally, understand",
+    "num": 995
   },
   {
     "word": "into all kinds",
@@ -101,7 +113,8 @@
     "translit": "(bə·ḵāl)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "of visions",
@@ -109,7 +122,8 @@
     "translit": "(ḥā·zō·wn)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2377:  ",
-    "str2": "A sight, a dream, revelation, oracle"
+    "str2": "A sight, a dream, revelation, oracle",
+    "num": 2377
   },
   {
     "word": "and dreams.",
@@ -117,6 +131,7 @@
     "translit": "(wa·ḥă·lō·mō·wṯ)",
     "parse": "Conjunctive waw | Noun - masculine plural",
     "str": "Strong's 2472:  ",
-    "str2": "A dream"
+    "str2": "A dream",
+    "num": 2472
   }
 ]

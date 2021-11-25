@@ -5,7 +5,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "He promised beforehand",
@@ -13,7 +14,8 @@
     "translit": "(proepēngeilato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 4279:  ",
-    "str2": "To promise beforehand. Middle voice from pro and epaggello; to promise of old."
+    "str2": "To promise beforehand. Middle voice from pro and epaggello; to promise of old.",
+    "num": 4279
   },
   {
     "word": "through",
@@ -21,7 +23,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "His",
@@ -29,7 +32,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "prophets",
@@ -37,7 +41,8 @@
     "translit": "(prophētōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 4396:  ",
-    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet."
+    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet.",
+    "num": 4396
   },
   {
     "word": "in",
@@ -45,7 +50,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[the] Holy",
@@ -53,7 +59,8 @@
     "translit": "(hagiais)",
     "parse": "Adjective - Dative Feminine Plural",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   },
   {
     "word": "Scriptures,",
@@ -61,6 +68,7 @@
     "translit": "(graphais)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 1124:  ",
-    "str2": "(a) a writing, (b) a passage of scripture; plur: the scriptures. A document, i.e. Holy Writ."
+    "str2": "(a) a writing, (b) a passage of scripture; plur: the scriptures. A document, i.e. Holy Writ.",
+    "num": 1124
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "of you",
@@ -13,7 +14,8 @@
     "translit": "(’at·tem)",
     "parse": "Pronoun - second person masculine plural",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "will enter",
@@ -21,7 +23,8 @@
     "translit": "(tā·ḇō·’ū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "the land",
@@ -29,7 +32,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "in which",
@@ -37,7 +41,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "I swore",
@@ -45,7 +50,8 @@
     "translit": "(nā·śā·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 5375:  ",
-    "str2": "To lift, carry, take"
+    "str2": "To lift, carry, take",
+    "num": 5375
   },
   {
     "word": "to settle you,",
@@ -53,7 +59,8 @@
     "translit": "(lə·šak·kên)",
     "parse": "Preposition-l | Verb - Piel - Infinitive construct",
     "str": "Strong's 7931:  ",
-    "str2": "To settle down, abide, dwell"
+    "str2": "To settle down, abide, dwell",
+    "num": 7931
   },
   {
     "word": "except",
@@ -61,7 +68,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "Caleb",
@@ -69,7 +77,8 @@
     "translit": "(kā·lêḇ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3612:  ",
-    "str2": "Caleb -- a son of Jephunneh and sent by Moses to spy out the land"
+    "str2": "Caleb -- a son of Jephunneh and sent by Moses to spy out the land",
+    "num": 3612
   },
   {
     "word": "son",
@@ -77,7 +86,8 @@
     "translit": "(ben-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of Jephunneh",
@@ -85,7 +95,8 @@
     "translit": "(yə·p̄un·neh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3312:  ",
-    "str2": "Jephunneh -- father of Caleb, also an Asherite"
+    "str2": "Jephunneh -- father of Caleb, also an Asherite",
+    "num": 3312
   },
   {
     "word": "and Joshua",
@@ -93,7 +104,8 @@
     "translit": "(wî·hō·wō·šu·a‘)",
     "parse": "Conjunctive waw | Noun - proper - masculine singular",
     "str": "Strong's 3091:  ",
-    "str2": "Joshua -- 'the LORD is salvation', Moses' successor, also the name of a number of Israelites"
+    "str2": "Joshua -- 'the LORD is salvation', Moses' successor, also the name of a number of Israelites",
+    "num": 3091
   },
   {
     "word": "son",
@@ -101,7 +113,8 @@
     "translit": "(bin-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of Nun.",
@@ -109,6 +122,7 @@
     "translit": "(nūn)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 5126:  ",
-    "str2": "Nun -- father of Joshua"
+    "str2": "Nun -- father of Joshua",
+    "num": 5126
   }
 ]

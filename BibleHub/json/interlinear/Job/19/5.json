@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "indeed",
@@ -13,7 +14,8 @@
     "translit": "(’ā·mə·nām)",
     "parse": "Conjunction",
     "str": "Strong's 551:  ",
-    "str2": "Verily, truly"
+    "str2": "Verily, truly",
+    "num": 551
   },
   {
     "word": "you would exalt [yourselves]",
@@ -21,7 +23,8 @@
     "translit": "(taḡ·dî·lū)",
     "parse": "Verb - Hifil - Imperfect - second person masculine plural",
     "str": "Strong's 1431:  ",
-    "str2": "To grow up, become great"
+    "str2": "To grow up, become great",
+    "num": 1431
   },
   {
     "word": "above me",
@@ -29,7 +32,8 @@
     "translit": "(‘ā·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "and use my disgrace",
@@ -37,7 +41,8 @@
     "translit": "(ḥer·pāt·tî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 2781:  ",
-    "str2": "Contumely, disgrace, the pudenda"
+    "str2": "Contumely, disgrace, the pudenda",
+    "num": 2781
   },
   {
     "word": "against me,",
@@ -45,6 +50,7 @@
     "translit": "(‘ā·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "kill them,",
@@ -13,7 +14,8 @@
     "translit": "(ta·har·ḡêm)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular | third person masculine plural",
     "str": "Strong's 2026:  ",
-    "str2": "To smite with deadly intent"
+    "str2": "To smite with deadly intent",
+    "num": 2026
   },
   {
     "word": "or",
@@ -21,7 +23,8 @@
     "translit": "(pen-)",
     "parse": "Conjunction",
     "str": "Strong's 6435:  ",
-    "str2": "Removal, lest"
+    "str2": "Removal, lest",
+    "num": 6435
   },
   {
     "word": "my people",
@@ -29,7 +32,8 @@
     "translit": "(‘am·mî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "will forget.",
@@ -37,7 +41,8 @@
     "translit": "(yiš·kə·ḥū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 7911:  ",
-    "str2": "To mislay, to be oblivious of, from want of memory, attention"
+    "str2": "To mislay, to be oblivious of, from want of memory, attention",
+    "num": 7911
   },
   {
     "word": "Scatter them",
@@ -45,7 +50,8 @@
     "translit": "(hă·nî·‘ê·mōw)",
     "parse": "Verb - Hifil - Imperative - masculine singular | third person masculine plural",
     "str": "Strong's 5128:  ",
-    "str2": "To quiver, wave, waver, tremble, totter"
+    "str2": "To quiver, wave, waver, tremble, totter",
+    "num": 5128
   },
   {
     "word": "by Your power,",
@@ -53,7 +59,8 @@
     "translit": "(ḇə·ḥê·lə·ḵā)",
     "parse": "Preposition-b | Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 2428:  ",
-    "str2": "A force, an army, wealth, virtue, valor, strength"
+    "str2": "A force, an army, wealth, virtue, valor, strength",
+    "num": 2428
   },
   {
     "word": "and bring them down,",
@@ -61,7 +68,8 @@
     "translit": "(wə·hō·w·rî·ḏê·mōw)",
     "parse": "Conjunctive waw | Verb - Hifil - Imperative - masculine singular | third person masculine plural",
     "str": "Strong's 3381:  ",
-    "str2": "To come or go down, descend"
+    "str2": "To come or go down, descend",
+    "num": 3381
   },
   {
     "word": "O Lord,",
@@ -69,7 +77,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "our shield.",
@@ -77,6 +86,7 @@
     "translit": "(mā·ḡin·nê·nū)",
     "parse": "Noun - common singular construct | first person common plural",
     "str": "Strong's 4043:  ",
-    "str2": "A shield, a protector, the scaly hide of the crocodile"
+    "str2": "A shield, a protector, the scaly hide of the crocodile",
+    "num": 4043
   }
 ]

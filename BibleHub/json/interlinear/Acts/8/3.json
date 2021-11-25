@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Saul",
@@ -13,7 +14,8 @@
     "translit": "(Saulos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4569:  ",
-    "str2": "Saul, the apostle. Of Hebrew origin, the same as Saoul; Saulus, the Jewish name of Paul."
+    "str2": "Saul, the apostle. Of Hebrew origin, the same as Saoul; Saulus, the Jewish name of Paul.",
+    "num": 4569
   },
   {
     "word": "began to destroy",
@@ -21,7 +23,8 @@
     "translit": "(elymaineto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 3075:  ",
-    "str2": "To outrage, maltreat, corrupt, defile. Middle voice from a probably derivative of luo; properly, to soil, i.e. insult."
+    "str2": "To outrage, maltreat, corrupt, defile. Middle voice from a probably derivative of luo; properly, to soil, i.e. insult.",
+    "num": 3075
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "church.",
@@ -37,7 +41,8 @@
     "translit": "(ekklēsian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1577:  ",
-    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation."
+    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation.",
+    "num": 1577
   },
   {
     "word": "Going",
@@ -45,7 +50,8 @@
     "translit": "(eisporeuomenos)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Masculine Singular",
     "str": "Strong's 1531:  ",
-    "str2": "To journey in(to), I go in(to), enter, intervene. From eis and poreuomai; to enter."
+    "str2": "To journey in(to), I go in(to), enter, intervene. From eis and poreuomai; to enter.",
+    "num": 1531
   },
   {
     "word": "from house to house,",
@@ -53,7 +59,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "he dragged off",
@@ -61,7 +68,8 @@
     "translit": "(syrōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4951:  ",
-    "str2": "To draw, drag, force away. Probably akin to haireomai; to trail."
+    "str2": "To draw, drag, force away. Probably akin to haireomai; to trail.",
+    "num": 4951
   },
   {
     "word": "men",
@@ -69,7 +77,8 @@
     "translit": "(andras)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "women",
@@ -85,7 +95,8 @@
     "translit": "(gynaikas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 1135:  ",
-    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife."
+    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife.",
+    "num": 1135
   },
   {
     "word": "[and] put [them]",
@@ -93,7 +104,8 @@
     "translit": "(paredidou)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 3860:  ",
-    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit."
+    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit.",
+    "num": 3860
   },
   {
     "word": "in",
@@ -101,7 +113,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "prison.",
@@ -109,6 +122,7 @@
     "translit": "(phylakēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5438:  ",
-    "str2": "From phulasso; a guarding or, the act, the person; figuratively, the place, the condition, or, the time, literally or figuratively."
+    "str2": "From phulasso; a guarding or, the act, the person; figuratively, the place, the condition, or, the time, literally or figuratively.",
+    "num": 5438
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they did not find",
@@ -13,7 +14,8 @@
     "translit": "(heurousai)",
     "parse": "Verb - Aorist Participle Active - Nominative Feminine Plural",
     "str": "Strong's 2147:  ",
-    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find."
+    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find.",
+    "num": 2147
   },
   {
     "word": "His",
@@ -21,7 +23,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "body.",
@@ -29,7 +32,8 @@
     "translit": "(sōma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4983:  ",
-    "str2": "Body, flesh; the body of the Church. From sozo; the body, used in a very wide application, literally or figuratively."
+    "str2": "Body, flesh; the body of the Church. From sozo; the body, used in a very wide application, literally or figuratively.",
+    "num": 4983
   },
   {
     "word": "They came",
@@ -37,7 +41,8 @@
     "translit": "(ēlthon)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "[and] told [us]",
@@ -45,7 +50,8 @@
     "translit": "(legousai)",
     "parse": "Verb - Present Participle Active - Nominative Feminine Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "they had seen",
@@ -53,7 +59,8 @@
     "translit": "(heōrakenai)",
     "parse": "Verb - Perfect Infinitive Active",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "a vision",
@@ -61,7 +68,8 @@
     "translit": "(optasian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3701:  ",
-    "str2": "A vision, supernatural appearance. From a presumed derivative of optanomai; visuality, i.e. an apparition."
+    "str2": "A vision, supernatural appearance. From a presumed derivative of optanomai; visuality, i.e. an apparition.",
+    "num": 3701
   },
   {
     "word": "of angels",
@@ -69,7 +77,8 @@
     "translit": "(angelōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 32:  ",
-    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor."
+    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor.",
+    "num": 32
   },
   {
     "word": "who",
@@ -77,7 +86,8 @@
     "translit": "(hoi)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "said that",
@@ -85,7 +95,8 @@
     "translit": "(legousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "[Jesus]",
@@ -93,7 +104,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "was alive.",
@@ -101,6 +113,7 @@
     "translit": "(zēn)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2198:  ",
-    "str2": "To live, be alive. A primary verb; to live."
+    "str2": "To live, be alive. A primary verb; to live.",
+    "num": 2198
   }
 ]

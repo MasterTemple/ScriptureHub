@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you will have a covenant",
@@ -13,7 +14,8 @@
     "translit": "(ḇə·rî·ṯe·ḵā)",
     "parse": "Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 1285:  ",
-    "str2": "A covenant"
+    "str2": "A covenant",
+    "num": 1285
   },
   {
     "word": "with",
@@ -21,7 +23,8 @@
     "translit": "(‘im-)",
     "parse": "Preposition",
     "str": "Strong's 5973:  ",
-    "str2": "With, equally with"
+    "str2": "With, equally with",
+    "num": 5973
   },
   {
     "word": "the stones",
@@ -29,7 +32,8 @@
     "translit": "(’aḇ·nê)",
     "parse": "Noun - feminine plural construct",
     "str": "Strong's 68:  ",
-    "str2": "A stone"
+    "str2": "A stone",
+    "num": 68
   },
   {
     "word": "of the field,",
@@ -37,7 +41,8 @@
     "translit": "(haś·śā·ḏeh)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 7704:  ",
-    "str2": "Field, land"
+    "str2": "Field, land",
+    "num": 7704
   },
   {
     "word": "and the wild",
@@ -45,7 +50,8 @@
     "translit": "(haś·śā·ḏeh)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 7704:  ",
-    "str2": "Field, land"
+    "str2": "Field, land",
+    "num": 7704
   },
   {
     "word": "animals",
@@ -53,7 +59,8 @@
     "translit": "(wə·ḥay·yaṯ)",
     "parse": "Conjunctive waw | Noun - feminine singular construct",
     "str": "Strong's 2416:  ",
-    "str2": "Alive, raw, fresh, strong, life"
+    "str2": "Alive, raw, fresh, strong, life",
+    "num": 2416
   },
   {
     "word": "will be at peace",
@@ -61,7 +68,8 @@
     "translit": "(hā·šə·lə·māh-)",
     "parse": "Verb - Hofal - Perfect - third person feminine singular",
     "str": "Strong's 7999:  ",
-    "str2": "To be safe, to be, completed, to be friendly, to reciprocate"
+    "str2": "To be safe, to be, completed, to be friendly, to reciprocate",
+    "num": 7999
   },
   {
     "word": "with you.",
@@ -69,6 +77,7 @@
     "translit": "(lāḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

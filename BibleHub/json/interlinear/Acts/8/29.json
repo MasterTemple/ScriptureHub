@@ -5,7 +5,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Spirit",
@@ -13,7 +14,8 @@
     "translit": "(Pneuma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "said",
@@ -21,7 +23,8 @@
     "translit": "(Eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "to Philip,",
@@ -29,7 +32,8 @@
     "translit": "(Philippō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 5376:  ",
-    "str2": "From philos and hippos; fond of horses; Philippus, the name of four Israelites."
+    "str2": "From philos and hippos; fond of horses; Philippus, the name of four Israelites.",
+    "num": 5376
   },
   {
     "word": "“Go over",
@@ -37,7 +41,8 @@
     "translit": "(Proselthe)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 4334:  ",
-    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to."
+    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to.",
+    "num": 4334
   },
   {
     "word": "to [that]",
@@ -45,7 +50,8 @@
     "translit": "(toutō)",
     "parse": "Demonstrative Pronoun - Dative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "chariot",
@@ -53,7 +59,8 @@
     "translit": "(harmati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 716:  ",
-    "str2": "A chariot, vehicle. Probably from airo (as a particle of union) prefixed); a chariot (compare harmos)."
+    "str2": "A chariot, vehicle. Probably from airo (as a particle of union) prefixed); a chariot (compare harmos).",
+    "num": 716
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "stay by [it].”",
@@ -69,6 +77,7 @@
     "translit": "(kollēthēti)",
     "parse": "Verb - Aorist Imperative Passive - 2nd Person Singular",
     "str": "Strong's 2853:  ",
-    "str2": "From kolla; to glue, i.e. to stick."
+    "str2": "From kolla; to glue, i.e. to stick.",
+    "num": 2853
   }
 ]

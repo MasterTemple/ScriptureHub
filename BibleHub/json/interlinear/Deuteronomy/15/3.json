@@ -5,7 +5,8 @@
     "translit": "(tig·gōś)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 5065:  ",
-    "str2": "To drive, to tax, harass, tyrannize"
+    "str2": "To drive, to tax, harass, tyrannize",
+    "num": 5065
   },
   {
     "word": "something from a foreigner,",
@@ -13,7 +14,8 @@
     "translit": "(han·nā·ḵə·rî)",
     "parse": "Article | Adjective - masculine singular",
     "str": "Strong's 5237:  ",
-    "str2": "Foreign, alien"
+    "str2": "Foreign, alien",
+    "num": 5237
   },
   {
     "word": "but you",
@@ -21,7 +23,8 @@
     "translit": "(yā·ḏe·ḵā)",
     "parse": "Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "must forgive",
@@ -29,7 +32,8 @@
     "translit": "(taš·mêṭ)",
     "parse": "Verb - Hifil - Imperfect Jussive - third person feminine singular",
     "str": "Strong's 8058:  ",
-    "str2": "To fling down, to jostle, to let alone, desist, remit"
+    "str2": "To fling down, to jostle, to let alone, desist, remit",
+    "num": 8058
   },
   {
     "word": "whatever",
@@ -37,7 +41,8 @@
     "translit": "(wa·’ă·šer)",
     "parse": "Conjunctive waw | Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "your brother",
@@ -45,7 +50,8 @@
     "translit": "(’ā·ḥî·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 251:  ",
-    "str2": "A brother, )"
+    "str2": "A brother, )",
+    "num": 251
   },
   {
     "word": "owes you.",
@@ -53,6 +59,7 @@
     "translit": "(yih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   }
 ]

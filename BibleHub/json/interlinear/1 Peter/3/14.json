@@ -5,7 +5,8 @@
     "translit": "(All’)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "even",
@@ -13,7 +14,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "if",
@@ -21,7 +23,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "you should suffer",
@@ -29,7 +32,8 @@
     "translit": "(paschoite)",
     "parse": "Verb - Present Optative Active - 2nd Person Plural",
     "str": "Strong's 3958:  ",
-    "str2": "I am acted upon in a certain way, either good or bad; I experience ill treatment, suffer. "
+    "str2": "I am acted upon in a certain way, either good or bad; I experience ill treatment, suffer. ",
+    "num": 3958
   },
   {
     "word": "for",
@@ -37,7 +41,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "what is right,",
@@ -45,7 +50,8 @@
     "translit": "(dikaiosynēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1343:  ",
-    "str2": "From dikaios; equity; specially justification."
+    "str2": "From dikaios; equity; specially justification.",
+    "num": 1343
   },
   {
     "word": "[you are] blessed.",
@@ -53,7 +59,8 @@
     "translit": "(makarioi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3107:  ",
-    "str2": "Happy, blessed, to be envied. A prolonged form of the poetical makar; supremely blest; by extension, fortunate, well off."
+    "str2": "Happy, blessed, to be envied. A prolonged form of the poetical makar; supremely blest; by extension, fortunate, well off.",
+    "num": 3107
   },
   {
     "word": "“Do not fear",
@@ -61,7 +68,8 @@
     "translit": "(phobēthēte)",
     "parse": "Verb - Aorist Subjunctive Passive - 2nd Person Plural",
     "str": "Strong's 5399:  ",
-    "str2": "From phobos; to frighten, i.e. to be alarmed; by analogy, to be in awe of, i.e. Revere."
+    "str2": "From phobos; to frighten, i.e. to be alarmed; by analogy, to be in awe of, i.e. Revere.",
+    "num": 5399
   },
   {
     "word": "their",
@@ -69,7 +77,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "intimidation;",
@@ -77,7 +86,8 @@
     "translit": "(phobon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 5401:  ",
-    "str2": "(a) fear, terror, alarm, (b) the object or cause of fear, (c) reverence, respect. From a primary phebomai; alarm or fright."
+    "str2": "(a) fear, terror, alarm, (b) the object or cause of fear, (c) reverence, respect. From a primary phebomai; alarm or fright.",
+    "num": 5401
   },
   {
     "word": "do not be shaken.”",
@@ -85,6 +95,7 @@
     "translit": "(tarachthēte)",
     "parse": "Verb - Aorist Subjunctive Passive - 2nd Person Plural",
     "str": "Strong's 5015:  ",
-    "str2": "To disturb, agitate, stir up, trouble. Of uncertain affinity; to stir or agitate."
+    "str2": "To disturb, agitate, stir up, trouble. Of uncertain affinity; to stir or agitate.",
+    "num": 5015
   }
 ]

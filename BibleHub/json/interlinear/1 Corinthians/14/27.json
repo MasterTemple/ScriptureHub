@@ -5,7 +5,8 @@
     "translit": "(Eite)",
     "parse": "Conjunction",
     "str": "Strong's 1535:  ",
-    "str2": "And if, whether. From ei and te; if too."
+    "str2": "And if, whether. From ei and te; if too.",
+    "num": 1535
   },
   {
     "word": "anyone",
@@ -13,7 +14,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "speaks",
@@ -21,7 +23,8 @@
     "translit": "(lalei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "in a tongue,",
@@ -29,7 +32,8 @@
     "translit": "(glōssē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 1100:  ",
-    "str2": "The tongue; by implication, a language."
+    "str2": "The tongue; by implication, a language.",
+    "num": 1100
   },
   {
     "word": "two,",
@@ -37,7 +41,8 @@
     "translit": "(dyo)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 1417:  ",
-    "str2": "Two. A primary numeral; 'two'."
+    "str2": "Two. A primary numeral; 'two'.",
+    "num": 1417
   },
   {
     "word": "or",
@@ -45,7 +50,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "[at]",
@@ -53,7 +59,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "most",
@@ -61,7 +68,8 @@
     "translit": "(pleiston)",
     "parse": "Adjective - Accusative Neuter Singular - Superlative",
     "str": "Strong's 4118:  ",
-    "str2": "The greatest, the most, very great. Irregular superlative of polus; the largest number or very large."
+    "str2": "The greatest, the most, very great. Irregular superlative of polus; the largest number or very large.",
+    "num": 4118
   },
   {
     "word": "three,",
@@ -69,7 +77,8 @@
     "translit": "(treis)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 5140:  ",
-    "str2": "Three. Or neuter tria a primary number; 'three'."
+    "str2": "Three. Or neuter tria a primary number; 'three'.",
+    "num": 5140
   },
   {
     "word": "[should speak]",
@@ -77,7 +86,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "in",
@@ -85,7 +95,8 @@
     "translit": "(ana)",
     "parse": "Preposition",
     "str": "Strong's 303:  ",
-    "str2": "A primary preposition and adverb; properly, up; but used severally, or at."
+    "str2": "A primary preposition and adverb; properly, up; but used severally, or at.",
+    "num": 303
   },
   {
     "word": "turn,",
@@ -93,7 +104,8 @@
     "translit": "(meros)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3313:  ",
-    "str2": "A part, portion, share. From an obsolete but more primary form of meiromai; a division or share."
+    "str2": "A part, portion, share. From an obsolete but more primary form of meiromai; a division or share.",
+    "num": 3313
   },
   {
     "word": "and",
@@ -101,7 +113,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "someone",
@@ -109,7 +122,8 @@
     "translit": "(heis)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1520:  ",
-    "str2": "One. (including the neuter Hen); a primary numeral; one."
+    "str2": "One. (including the neuter Hen); a primary numeral; one.",
+    "num": 1520
   },
   {
     "word": "must interpret.",
@@ -117,6 +131,7 @@
     "translit": "(diermēneuetō)",
     "parse": "Verb - Present Imperative Active - 3rd Person Singular",
     "str": "Strong's 1329:  ",
-    "str2": "To translate, interpret, explain. From dia and hermeneuo; to explain thoroughly, by implication, to translate."
+    "str2": "To translate, interpret, explain. From dia and hermeneuo; to explain thoroughly, by implication, to translate.",
+    "num": 1329
   }
 ]

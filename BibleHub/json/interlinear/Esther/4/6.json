@@ -5,7 +5,8 @@
     "translit": "(hă·ṯāḵ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 2047:  ",
-    "str2": "Hathach -- a person official"
+    "str2": "Hathach -- a person official",
+    "num": 2047
   },
   {
     "word": "went out",
@@ -13,7 +14,8 @@
     "translit": "(way·yê·ṣê)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "Mordecai",
@@ -29,7 +32,8 @@
     "translit": "(mā·rə·do·ḵāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 4782:  ",
-    "str2": "Mordecai -- a companion of Zerubbabel, also a cousin of Esther"
+    "str2": "Mordecai -- a companion of Zerubbabel, also a cousin of Esther",
+    "num": 4782
   },
   {
     "word": "in",
@@ -37,7 +41,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the city",
@@ -45,7 +50,8 @@
     "translit": "(hā·‘îr)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "square",
@@ -53,7 +59,8 @@
     "translit": "(rə·ḥō·wḇ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 7339:  ",
-    "str2": "A broad open place, plaza"
+    "str2": "A broad open place, plaza",
+    "num": 7339
   },
   {
     "word": "in front",
@@ -61,7 +68,8 @@
     "translit": "(lip̄·nê)",
     "parse": "Preposition-l | Noun - common plural construct",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "of the King’s",
@@ -69,7 +77,8 @@
     "translit": "(ham·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "Gate,",
@@ -77,6 +86,7 @@
     "translit": "(ša·‘ar-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 8179:  ",
-    "str2": "An opening, door, gate"
+    "str2": "An opening, door, gate",
+    "num": 8179
   }
 ]

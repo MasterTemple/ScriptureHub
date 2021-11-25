@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "[the Israelites are]",
@@ -13,7 +14,8 @@
     "translit": "(hêm)",
     "parse": "Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "My servants,",
@@ -21,7 +23,8 @@
     "translit": "(‘ă·ḇā·ḏay)",
     "parse": "Noun - masculine plural construct | first person common singular",
     "str": "Strong's 5650:  ",
-    "str2": "Slave, servant"
+    "str2": "Slave, servant",
+    "num": 5650
   },
   {
     "word": "whom",
@@ -29,7 +32,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "I brought out",
@@ -37,7 +41,8 @@
     "translit": "(hō·w·ṣê·ṯî)",
     "parse": "Verb - Hifil - Perfect - first person common singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "of Egypt,",
@@ -45,7 +50,8 @@
     "translit": "(miṣ·rā·yim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 4714:  ",
-    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa"
+    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+    "num": 4714
   },
   {
     "word": "they are not",
@@ -53,7 +59,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "to be sold",
@@ -61,7 +68,8 @@
     "translit": "(yim·mā·ḵə·rū)",
     "parse": "Verb - Nifal - Imperfect - third person masculine plural",
     "str": "Strong's 4376:  ",
-    "str2": "To sell"
+    "str2": "To sell",
+    "num": 4376
   },
   {
     "word": "as slaves.",
@@ -69,6 +77,7 @@
     "translit": "(‘ā·ḇeḏ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5650:  ",
-    "str2": "Slave, servant"
+    "str2": "Slave, servant",
+    "num": 5650
   }
 ]

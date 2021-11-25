@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "He",
@@ -13,7 +14,8 @@
     "translit": "(hū)",
     "parse": "Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "will deliver you",
@@ -21,7 +23,8 @@
     "translit": "(yaṣ·ṣî·lə·ḵā)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular | second person masculine singular",
     "str": "Strong's 5337:  ",
-    "str2": "To strip, plunder, deliver oneself, be delivered, snatch away, deliver"
+    "str2": "To strip, plunder, deliver oneself, be delivered, snatch away, deliver",
+    "num": 5337
   },
   {
     "word": "from the snare",
@@ -29,7 +32,8 @@
     "translit": "(mip·paḥ)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 6341:  ",
-    "str2": "A, sheet, a spring net"
+    "str2": "A, sheet, a spring net",
+    "num": 6341
   },
   {
     "word": "of the fowler,",
@@ -37,7 +41,8 @@
     "translit": "(yā·qūš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3353:  ",
-    "str2": "Entangled, a snare, a snarer"
+    "str2": "Entangled, a snare, a snarer",
+    "num": 3353
   },
   {
     "word": "and from the deadly",
@@ -45,7 +50,8 @@
     "translit": "(haw·wō·wṯ)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 1942:  ",
-    "str2": "Desire, chasm, destruction"
+    "str2": "Desire, chasm, destruction",
+    "num": 1942
   },
   {
     "word": "plague.",
@@ -53,6 +59,7 @@
     "translit": "(mid·de·ḇer)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 1698:  ",
-    "str2": "A pestilence"
+    "str2": "A pestilence",
+    "num": 1698
   }
 ]

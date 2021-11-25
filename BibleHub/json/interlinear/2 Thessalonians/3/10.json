@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "even",
@@ -13,7 +14,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "while",
@@ -21,7 +23,8 @@
     "translit": "(hote)",
     "parse": "Adverb",
     "str": "Strong's 3753:  ",
-    "str2": "When, at which time. From hos and te; at which too, i.e. When."
+    "str2": "When, at which time. From hos and te; at which too, i.e. When.",
+    "num": 3753
   },
   {
     "word": "we were",
@@ -29,7 +32,8 @@
     "translit": "(ēmen)",
     "parse": "Verb - Imperfect Indicative Active - 1st Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "with",
@@ -37,7 +41,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "you,",
@@ -45,7 +50,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "we gave you this command:",
@@ -53,7 +59,8 @@
     "translit": "(parēngellomen)",
     "parse": "Verb - Imperfect Indicative Active - 1st Person Plural",
     "str": "Strong's 3853:  ",
-    "str2": "To notify, command, charge, entreat solemnly. From para and the base of aggelos; to transmit a message, i.e. to enjoin."
+    "str2": "To notify, command, charge, entreat solemnly. From para and the base of aggelos; to transmit a message, i.e. to enjoin.",
+    "num": 3853
   },
   {
     "word": "“If",
@@ -61,7 +68,8 @@
     "translit": "(Ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "anyone",
@@ -69,7 +77,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "is unwilling",
@@ -77,7 +86,8 @@
     "translit": "(thelei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "to work,",
@@ -85,7 +95,8 @@
     "translit": "(ergazesthai)",
     "parse": "Verb - Present Infinitive Middle or Passive",
     "str": "Strong's 2038:  ",
-    "str2": "To work, trade, perform, do, practice, commit, acquire by labor. "
+    "str2": "To work, trade, perform, do, practice, commit, acquire by labor. ",
+    "num": 2038
   },
   {
     "word": "he shall not eat.”",
@@ -93,6 +104,7 @@
     "translit": "(esthietō)",
     "parse": "Verb - Present Imperative Active - 3rd Person Singular",
     "str": "Strong's 2068:  ",
-    "str2": "Strengthened for a primary edo; used only in certain tenses, the rest being supplied by phago; to eat."
+    "str2": "Strengthened for a primary edo; used only in certain tenses, the rest being supplied by phago; to eat.",
+    "num": 2068
   }
 ]

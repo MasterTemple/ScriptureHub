@@ -5,7 +5,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "does the worker",
@@ -13,7 +14,8 @@
     "translit": "(hā·‘ō·w·śeh)",
     "parse": "Article | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "gain",
@@ -21,7 +23,8 @@
     "translit": "(yiṯ·rō·wn)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3504:  ",
-    "str2": "Preeminence, gain"
+    "str2": "Preeminence, gain",
+    "num": 3504
   },
   {
     "word": "from his",
@@ -29,7 +32,8 @@
     "translit": "(hū)",
     "parse": "Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "toil?",
@@ -37,6 +41,7 @@
     "translit": "(‘ā·mêl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6001:  ",
-    "str2": "Toiling, a laborer, sorrowful"
+    "str2": "Toiling, a laborer, sorrowful",
+    "num": 6001
   }
 ]

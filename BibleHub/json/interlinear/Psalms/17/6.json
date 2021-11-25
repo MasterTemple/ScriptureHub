@@ -5,7 +5,8 @@
     "translit": "(’ă·nî-)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "call on You,",
@@ -13,7 +14,8 @@
     "translit": "(qə·rā·ṯî·ḵā)",
     "parse": "Verb - Qal - Perfect - first person common singular | second person masculine singular",
     "str": "Strong's 7121:  ",
-    "str2": "To call, proclaim, read"
+    "str2": "To call, proclaim, read",
+    "num": 7121
   },
   {
     "word": "O God,",
@@ -21,7 +23,8 @@
     "translit": "(’êl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 410:  ",
-    "str2": "Strength -- as adjective, mighty, the Almighty"
+    "str2": "Strength -- as adjective, mighty, the Almighty",
+    "num": 410
   },
   {
     "word": "for",
@@ -29,7 +32,8 @@
     "translit": "(ḵî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "You will answer me.",
@@ -37,7 +41,8 @@
     "translit": "(ṯa·‘ă·nê·nî)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular | first person common singular",
     "str": "Strong's 6030:  ",
-    "str2": "To answer, respond"
+    "str2": "To answer, respond",
+    "num": 6030
   },
   {
     "word": "Incline",
@@ -45,7 +50,8 @@
     "translit": "(haṭ-)",
     "parse": "Verb - Hifil - Imperative - masculine singular",
     "str": "Strong's 5186:  ",
-    "str2": "To stretch out, spread out, extend, incline, bend"
+    "str2": "To stretch out, spread out, extend, incline, bend",
+    "num": 5186
   },
   {
     "word": "Your ear",
@@ -53,7 +59,8 @@
     "translit": "(’ā·zə·nə·ḵā)",
     "parse": "Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 241:  ",
-    "str2": "Broadness, the ear"
+    "str2": "Broadness, the ear",
+    "num": 241
   },
   {
     "word": "to me;",
@@ -61,7 +68,8 @@
     "translit": "(lî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "hear",
@@ -69,7 +77,8 @@
     "translit": "(šə·ma‘)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "my words.",
@@ -77,6 +86,7 @@
     "translit": "(’im·rā·ṯî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 565:  ",
-    "str2": "Utterance, speech, word"
+    "str2": "Utterance, speech, word",
+    "num": 565
   }
 ]

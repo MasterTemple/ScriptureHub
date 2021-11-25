@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "her wound",
@@ -13,7 +14,8 @@
     "translit": "(mak·kō·w·ṯe·hā)",
     "parse": "Noun - feminine plural construct | third person feminine singular",
     "str": "Strong's 4347:  ",
-    "str2": "A wound, carnage, pestilence"
+    "str2": "A wound, carnage, pestilence",
+    "num": 4347
   },
   {
     "word": "is incurable;",
@@ -21,7 +23,8 @@
     "translit": "(’ă·nū·šāh)",
     "parse": "Verb - Qal - QalPassParticiple - feminine singular",
     "str": "Strong's 605:  ",
-    "str2": "To be frail, feeble, melancholy"
+    "str2": "To be frail, feeble, melancholy",
+    "num": 605
   },
   {
     "word": "it has reached",
@@ -29,7 +32,8 @@
     "translit": "(ḇā·’āh)",
     "parse": "Verb - Qal - Perfect - third person feminine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "even Judah;",
@@ -37,7 +41,8 @@
     "translit": "(yə·hū·ḏāh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3063:  ",
-    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites"
+    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites",
+    "num": 3063
   },
   {
     "word": "it has approached",
@@ -45,7 +50,8 @@
     "translit": "(nā·ḡa‘)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 5060:  ",
-    "str2": "To touch, lay the hand upon, to reach, violently, to strike"
+    "str2": "To touch, lay the hand upon, to reach, violently, to strike",
+    "num": 5060
   },
   {
     "word": "the gate",
@@ -53,7 +59,8 @@
     "translit": "(ša·‘ar)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 8179:  ",
-    "str2": "An opening, door, gate"
+    "str2": "An opening, door, gate",
+    "num": 8179
   },
   {
     "word": "of my people,",
@@ -61,7 +68,8 @@
     "translit": "(‘am·mî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "as far as",
@@ -69,7 +77,8 @@
     "translit": "(‘aḏ-)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "Jerusalem itself.",
@@ -77,6 +86,7 @@
     "translit": "(yə·rū·šā·lim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 3389:  ",
-    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel"
+    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel",
+    "num": 3389
   }
 ]

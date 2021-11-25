@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "He kept looking around",
@@ -13,7 +14,8 @@
     "translit": "(perieblepeto)",
     "parse": "Verb - Imperfect Indicative Middle - 3rd Person Singular",
     "str": "Strong's 4017:  ",
-    "str2": "To look around on, survey. From peri and blepo; to look all around."
+    "str2": "To look around on, survey. From peri and blepo; to look all around.",
+    "num": 4017
   },
   {
     "word": "to see",
@@ -21,7 +23,8 @@
     "translit": "(idein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "who",
@@ -29,7 +32,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "had done",
@@ -37,7 +41,8 @@
     "translit": "(poiēsasan)",
     "parse": "Verb - Aorist Participle Active - Accusative Feminine Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "this.",
@@ -45,6 +50,7 @@
     "translit": "(touto)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   }
 ]

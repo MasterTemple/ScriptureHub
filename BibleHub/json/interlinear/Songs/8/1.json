@@ -5,7 +5,8 @@
     "translit": "(mî)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "that",
@@ -13,7 +14,8 @@
     "translit": "(yit·ten·ḵā)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular | second person masculine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "you [were] to me",
@@ -21,7 +23,8 @@
     "translit": "(lî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "like a brother",
@@ -29,7 +32,8 @@
     "translit": "(kə·’āḥ)",
     "parse": "Preposition-k | Noun - masculine singular",
     "str": "Strong's 251:  ",
-    "str2": "A brother, )"
+    "str2": "A brother, )",
+    "num": 251
   },
   {
     "word": "who nursed",
@@ -37,7 +41,8 @@
     "translit": "(yō·w·nêq)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 3243:  ",
-    "str2": "To suck, to give milk"
+    "str2": "To suck, to give milk",
+    "num": 3243
   },
   {
     "word": "at my mother’s",
@@ -45,7 +50,8 @@
     "translit": "(’im·mî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "breasts!",
@@ -53,7 +59,8 @@
     "translit": "(šə·ḏê)",
     "parse": "Noun - mdc",
     "str": "Strong's 7699:  ",
-    "str2": "The breast of a, woman, animal"
+    "str2": "The breast of a, woman, animal",
+    "num": 7699
   },
   {
     "word": "If I found you",
@@ -61,7 +68,8 @@
     "translit": "(’em·ṣā·’ă·ḵā)",
     "parse": "Verb - Qal - Imperfect - first person common singular | second person masculine singular",
     "str": "Strong's 4672:  ",
-    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present"
+    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present",
+    "num": 4672
   },
   {
     "word": "outdoors,",
@@ -69,7 +77,8 @@
     "translit": "(ḇa·ḥūṣ)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 2351:  ",
-    "str2": "Separate by a, wall, outside, outdoors"
+    "str2": "Separate by a, wall, outside, outdoors",
+    "num": 2351
   },
   {
     "word": "I would kiss you,",
@@ -77,7 +86,8 @@
     "translit": "(’eš·šā·qə·ḵā)",
     "parse": "Verb - Qal - Imperfect - first person common singular | second person masculine singular",
     "str": "Strong's 5401:  ",
-    "str2": "To kiss, to equip with weapons"
+    "str2": "To kiss, to equip with weapons",
+    "num": 5401
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(gam)",
     "parse": "Conjunction",
     "str": "Strong's 1571:  ",
-    "str2": "Assemblage, also, even, yea, though, both, and"
+    "str2": "Assemblage, also, even, yea, though, both, and",
+    "num": 1571
   },
   {
     "word": "no one",
@@ -93,7 +104,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "would despise me.",
@@ -101,6 +113,7 @@
     "translit": "(yā·ḇū·zū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 936:  ",
-    "str2": "To disrespect"
+    "str2": "To disrespect",
+    "num": 936
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "your God",
@@ -21,7 +23,8 @@
     "translit": "(’ĕ·lō·hê·ḵem)",
     "parse": "Noun - masculine plural construct | second person masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "[is] He who goes",
@@ -29,7 +32,8 @@
     "translit": "(ha·hō·lêḵ)",
     "parse": "Article | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "with you",
@@ -37,7 +41,8 @@
     "translit": "(‘im·mā·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's 5973:  ",
-    "str2": "With, equally with"
+    "str2": "With, equally with",
+    "num": 5973
   },
   {
     "word": "to fight",
@@ -45,7 +50,8 @@
     "translit": "(lə·hil·lā·ḥêm)",
     "parse": "Preposition-l | Verb - Nifal - Infinitive construct",
     "str": "Strong's 3898:  ",
-    "str2": "To feed on, to consume, to battle"
+    "str2": "To feed on, to consume, to battle",
+    "num": 3898
   },
   {
     "word": "for you",
@@ -53,7 +59,8 @@
     "translit": "(lā·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "against",
@@ -61,7 +68,8 @@
     "translit": "(‘im-)",
     "parse": "Preposition",
     "str": "Strong's 5973:  ",
-    "str2": "With, equally with"
+    "str2": "With, equally with",
+    "num": 5973
   },
   {
     "word": "your enemies,",
@@ -69,7 +77,8 @@
     "translit": "(’ō·yə·ḇê·ḵem)",
     "parse": "Verb - Qal - Participle - masculine plural construct | second person masculine plural",
     "str": "Strong's 341:  ",
-    "str2": "Hating, an adversary"
+    "str2": "Hating, an adversary",
+    "num": 341
   },
   {
     "word": "to give you the victory.”",
@@ -77,6 +86,7 @@
     "translit": "(lə·hō·wō·šî·a‘)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct",
     "str": "Strong's 3467:  ",
-    "str2": "To be open, wide, free, to be safe, to free, succor"
+    "str2": "To be open, wide, free, to be safe, to free, succor",
+    "num": 3467
   }
 ]

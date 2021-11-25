@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "because",
@@ -13,7 +14,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "of the anger",
@@ -21,7 +23,8 @@
     "translit": "(’ap̄)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 639:  ",
-    "str2": "The nose, nostril, the face, a person, ire"
+    "str2": "The nose, nostril, the face, a person, ire",
+    "num": 639
   },
   {
     "word": "of the LORD,",
@@ -29,7 +32,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "[all this] happened",
@@ -37,7 +41,8 @@
     "translit": "(hā·yə·ṯāh)",
     "parse": "Verb - Qal - Perfect - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "in Jerusalem",
@@ -45,7 +50,8 @@
     "translit": "(ḇî·rū·šā·lim)",
     "parse": "Preposition-b | Noun - proper - feminine singular",
     "str": "Strong's 3389:  ",
-    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel"
+    "str2": "Jerusalem -- probably 'foundation of peace', capital city of all Israel",
+    "num": 3389
   },
   {
     "word": "and Judah,",
@@ -53,7 +59,8 @@
     "translit": "(ū·ḇî·hū·ḏāh)",
     "parse": "Conjunctive waw, Preposition-b | Noun - proper - masculine singular",
     "str": "Strong's 3063:  ",
-    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites"
+    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites",
+    "num": 3063
   },
   {
     "word": "until",
@@ -61,7 +68,8 @@
     "translit": "(‘aḏ-)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "He finally banished",
@@ -69,7 +77,8 @@
     "translit": "(hiš·li·ḵōw)",
     "parse": "Verb - Hifil - Infinitive construct | third person masculine singular",
     "str": "Strong's 7993:  ",
-    "str2": "To throw out, down, away"
+    "str2": "To throw out, down, away",
+    "num": 7993
   },
   {
     "word": "them",
@@ -77,7 +86,8 @@
     "translit": "(’ō·ṯām)",
     "parse": "Direct object marker | third person masculine plural",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "from",
@@ -85,7 +95,8 @@
     "translit": "(mê·‘al)",
     "parse": "Preposition-m",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "His presence.",
@@ -93,7 +104,8 @@
     "translit": "(pā·nāw)",
     "parse": "Noun - common plural construct | third person masculine singular",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "And Zedekiah also",
@@ -101,7 +113,8 @@
     "translit": "(ṣiḏ·qî·yā·hū)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 6667:  ",
-    "str2": "Zedekiah -- 'Yah is righteousness', six Israelites"
+    "str2": "Zedekiah -- 'Yah is righteousness', six Israelites",
+    "num": 6667
   },
   {
     "word": "rebelled",
@@ -109,7 +122,8 @@
     "translit": "(way·yim·rōḏ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 4775:  ",
-    "str2": "To rebel"
+    "str2": "To rebel",
+    "num": 4775
   },
   {
     "word": "against the king",
@@ -117,7 +131,8 @@
     "translit": "(bə·me·leḵ)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "of Babylon.",
@@ -125,6 +140,7 @@
     "translit": "(bā·ḇel)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 894:  ",
-    "str2": "Babylon -- an eastern Mediterranean empire and its capital city"
+    "str2": "Babylon -- an eastern Mediterranean empire and its capital city",
+    "num": 894
   }
 ]

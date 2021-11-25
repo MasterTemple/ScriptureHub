@@ -5,7 +5,8 @@
     "translit": "(hin·nêh)",
     "parse": "Interjection",
     "str": "Strong's 2009:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2009
   },
   {
     "word": "I",
@@ -13,7 +14,8 @@
     "translit": "(’ā·nō·ḵî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "will send",
@@ -21,7 +23,8 @@
     "translit": "(šō·lê·aḥ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 7971:  ",
-    "str2": "To send away, for, out"
+    "str2": "To send away, for, out",
+    "num": 7971
   },
   {
     "word": "you",
@@ -29,7 +32,8 @@
     "translit": "(lā·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "Elijah",
@@ -37,7 +41,8 @@
     "translit": "(’ê·lî·yāh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 452:  ",
-    "str2": "Elijah -- 'Yah is God', a well-known prophet of Israel, also three other Israelites"
+    "str2": "Elijah -- 'Yah is God', a well-known prophet of Israel, also three other Israelites",
+    "num": 452
   },
   {
     "word": "the prophet",
@@ -45,7 +50,8 @@
     "translit": "(han·nā·ḇî)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5030:  ",
-    "str2": "A spokesman, speaker, prophet"
+    "str2": "A spokesman, speaker, prophet",
+    "num": 5030
   },
   {
     "word": "before",
@@ -53,7 +59,8 @@
     "translit": "(lip̄·nê)",
     "parse": "Preposition-l | Noun - common plural construct",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "the coming",
@@ -61,7 +68,8 @@
     "translit": "(bō·w)",
     "parse": "Verb - Qal - Infinitive construct",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "of the great",
@@ -69,7 +77,8 @@
     "translit": "(hag·gā·ḏō·wl)",
     "parse": "Article | Adjective - masculine singular",
     "str": "Strong's 1419:  ",
-    "str2": "Great, older, insolent"
+    "str2": "Great, older, insolent",
+    "num": 1419
   },
   {
     "word": "and dreadful",
@@ -77,7 +86,8 @@
     "translit": "(wə·han·nō·w·rā)",
     "parse": "Conjunctive waw, Article | Verb - Nifal - Participle - masculine singular",
     "str": "Strong's 3372:  ",
-    "str2": "To fear, to revere, caus, to frighten"
+    "str2": "To fear, to revere, caus, to frighten",
+    "num": 3372
   },
   {
     "word": "Day",
@@ -85,7 +95,8 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "of the LORD.",
@@ -93,6 +104,7 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   }
 ]

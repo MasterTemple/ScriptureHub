@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "it is testified:",
@@ -13,7 +14,8 @@
     "translit": "(martyreitai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 3140:  ",
-    "str2": "To witness, bear witness, give evidence, testify, give a good report. From martus; to be a witness, i.e. Testify."
+    "str2": "To witness, bear witness, give evidence, testify, give a good report. From martus; to be a witness, i.e. Testify.",
+    "num": 3140
   },
   {
     "word": "“You [are]",
@@ -21,7 +23,8 @@
     "translit": "(Sy)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "a priest",
@@ -29,7 +32,8 @@
     "translit": "(hiereus)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2409:  ",
-    "str2": "A priest, one who offers sacrifice to a god (in Jewish and pagan religions; of Christians only met.). From hieros; a priest."
+    "str2": "A priest, one who offers sacrifice to a god (in Jewish and pagan religions; of Christians only met.). From hieros; a priest.",
+    "num": 2409
   },
   {
     "word": "forever",
@@ -37,7 +41,8 @@
     "translit": "(aiōna)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 165:  ",
-    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period."
+    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period.",
+    "num": 165
   },
   {
     "word": "in",
@@ -45,7 +50,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "order",
@@ -61,7 +68,8 @@
     "translit": "(taxin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5010:  ",
-    "str2": "From tasso; regular arrangement, i.e. fixed succession, official dignity."
+    "str2": "From tasso; regular arrangement, i.e. fixed succession, official dignity.",
+    "num": 5010
   },
   {
     "word": "of Melchizedek.”",
@@ -69,6 +77,7 @@
     "translit": "(Melchisedek)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3198:  ",
-    "str2": "Melchizedek, king and priest of Salem. Of Hebrew origin; Melchisedek, a patriarch."
+    "str2": "Melchizedek, king and priest of Salem. Of Hebrew origin; Melchisedek, a patriarch.",
+    "num": 3198
   }
 ]

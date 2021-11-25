@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[Paul] went back upstairs,",
@@ -13,7 +14,8 @@
     "translit": "(Anabas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 305:  ",
-    "str2": "To go up, mount, ascend; of things: I rise, spring up, come up. From ana and the base of basis; to go up."
+    "str2": "To go up, mount, ascend; of things: I rise, spring up, come up. From ana and the base of basis; to go up.",
+    "num": 305
   },
   {
     "word": "broke",
@@ -21,7 +23,8 @@
     "translit": "(klasas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2806:  ",
-    "str2": "To break (in pieces), break bread. A primary verb; to break."
+    "str2": "To break (in pieces), break bread. A primary verb; to break.",
+    "num": 2806
   },
   {
     "word": "bread,",
@@ -29,7 +32,8 @@
     "translit": "(arton)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 740:  ",
-    "str2": "Bread, a loaf, food. From airo; bread or a loaf."
+    "str2": "Bread, a loaf, food. From airo; bread or a loaf.",
+    "num": 740
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "ate.",
@@ -45,7 +50,8 @@
     "translit": "(geusamenos)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Singular",
     "str": "Strong's 1089:  ",
-    "str2": "(a) I taste, (b) I experience. A primary verb; to taste; by implication, to eat; figuratively, to experience."
+    "str2": "(a) I taste, (b) I experience. A primary verb; to taste; by implication, to eat; figuratively, to experience.",
+    "num": 1089
   },
   {
     "word": "[After]",
@@ -53,7 +59,8 @@
     "translit": "(te)",
     "parse": "Conjunction",
     "str": "Strong's 5037:  ",
-    "str2": "And, both. A primary particle of connection or addition; both or also."
+    "str2": "And, both. A primary particle of connection or addition; both or also.",
+    "num": 5037
   },
   {
     "word": "speaking",
@@ -61,7 +68,8 @@
     "translit": "(homilēsas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3656:  ",
-    "str2": "From homilos; to be in company with, i.e. to converse."
+    "str2": "From homilos; to be in company with, i.e. to converse.",
+    "num": 3656
   },
   {
     "word": "until",
@@ -69,7 +77,8 @@
     "translit": "(achri)",
     "parse": "Preposition",
     "str": "Strong's 891:  ",
-    "str2": "As far as, up to, until, during. Or achris akh'-rece; akin to akron; until or up to."
+    "str2": "As far as, up to, until, during. Or achris akh'-rece; akin to akron; until or up to.",
+    "num": 891
   },
   {
     "word": "daybreak,",
@@ -77,7 +86,8 @@
     "translit": "(augēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 827:  ",
-    "str2": "Brightness, daylight, dawn. Of uncertain derivation; a ray of light, i.e. radiance, dawn."
+    "str2": "Brightness, daylight, dawn. Of uncertain derivation; a ray of light, i.e. radiance, dawn.",
+    "num": 827
   },
   {
     "word": "he departed.",
@@ -85,6 +95,7 @@
     "translit": "(exēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1831:  ",
-    "str2": "To go out, come out. From ek and erchomai; to issue."
+    "str2": "To go out, come out. From ek and erchomai; to issue.",
+    "num": 1831
   }
 ]

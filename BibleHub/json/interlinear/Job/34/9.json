@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "he has said,",
@@ -13,7 +14,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘It profits",
@@ -21,7 +23,8 @@
     "translit": "(yis·kān-)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5532:  ",
-    "str2": "To be familiar with, to minister to, be serviceable to, be customary"
+    "str2": "To be familiar with, to minister to, be serviceable to, be customary",
+    "num": 5532
   },
   {
     "word": "a man",
@@ -29,7 +32,8 @@
     "translit": "(gā·ḇer)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1397:  ",
-    "str2": "A valiant man, warrior, a person simply"
+    "str2": "A valiant man, warrior, a person simply",
+    "num": 1397
   },
   {
     "word": "nothing",
@@ -37,7 +41,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "that he should delight",
@@ -45,7 +50,8 @@
     "translit": "(bir·ṣō·ṯōw)",
     "parse": "Preposition-b | Verb - Qal - Infinitive construct | third person masculine singular",
     "str": "Strong's 7521:  ",
-    "str2": "To be pleased with, to satisfy a, debt"
+    "str2": "To be pleased with, to satisfy a, debt",
+    "num": 7521
   },
   {
     "word": "in",
@@ -53,7 +59,8 @@
     "translit": "(‘im-)",
     "parse": "Preposition",
     "str": "Strong's 5973:  ",
-    "str2": "With, equally with"
+    "str2": "With, equally with",
+    "num": 5973
   },
   {
     "word": "God.’",
@@ -61,6 +68,7 @@
     "translit": "(’ĕ·lō·hîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   }
 ]

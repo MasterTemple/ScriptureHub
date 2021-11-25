@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "they hated",
@@ -13,7 +14,8 @@
     "translit": "(śā·nə·’ū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 8130:  ",
-    "str2": "To hate"
+    "str2": "To hate",
+    "num": 8130
   },
   {
     "word": "knowledge",
@@ -21,7 +23,8 @@
     "translit": "(ḏā·‘aṯ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 1847:  ",
-    "str2": "Knowledge"
+    "str2": "Knowledge",
+    "num": 1847
   },
   {
     "word": "and chose",
@@ -29,7 +32,8 @@
     "translit": "(ḇā·ḥā·rū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 977:  ",
-    "str2": "To try, select"
+    "str2": "To try, select",
+    "num": 977
   },
   {
     "word": "not",
@@ -37,7 +41,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "to fear",
@@ -45,7 +50,8 @@
     "translit": "(wə·yir·’aṯ)",
     "parse": "Conjunctive waw | Noun - feminine singular construct",
     "str": "Strong's 3374:  ",
-    "str2": "Fear, reverence"
+    "str2": "Fear, reverence",
+    "num": 3374
   },
   {
     "word": "the LORD.",
@@ -53,6 +59,7 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   }
 ]

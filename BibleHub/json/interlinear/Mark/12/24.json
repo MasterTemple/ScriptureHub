@@ -5,7 +5,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "said",
@@ -13,7 +14,8 @@
     "translit": "(Ephē)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 5346:  ",
-    "str2": "To say, declare. Properly, the same as the base of phos and phaino; to show or make known one's thoughts, i.e. Speak or say."
+    "str2": "To say, declare. Properly, the same as the base of phos and phaino; to show or make known one's thoughts, i.e. Speak or say.",
+    "num": 5346
   },
   {
     "word": "to them,",
@@ -21,7 +23,8 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“Aren’t you mistaken",
@@ -29,7 +32,8 @@
     "translit": "(planasthe)",
     "parse": "Verb - Present Indicative Middle or Passive - 2nd Person Plural",
     "str": "Strong's 4105:  ",
-    "str2": "To lead astray, deceive, cause to wander. From plane; to roam."
+    "str2": "To lead astray, deceive, cause to wander. From plane; to roam.",
+    "num": 4105
   },
   {
     "word": "because",
@@ -37,7 +41,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "you do not know",
@@ -45,7 +50,8 @@
     "translit": "(eidotes)",
     "parse": "Verb - Perfect Participle Active - Nominative Masculine Plural",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tas)",
     "parse": "Article - Accusative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Scriptures",
@@ -61,7 +68,8 @@
     "translit": "(graphas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 1124:  ",
-    "str2": "(a) a writing, (b) a passage of scripture; plur: the scriptures. A document, i.e. Holy Writ."
+    "str2": "(a) a writing, (b) a passage of scripture; plur: the scriptures. A document, i.e. Holy Writ.",
+    "num": 1124
   },
   {
     "word": "[or]",
@@ -69,7 +77,8 @@
     "translit": "(mēde)",
     "parse": "Conjunction",
     "str": "Strong's 3366:  ",
-    "str2": "And not, not even, neither?nor. From me and de; but not, not even; in a continued negation, nor."
+    "str2": "And not, not even, neither?nor. From me and de; but not, not even; in a continued negation, nor.",
+    "num": 3366
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "power",
@@ -85,7 +95,8 @@
     "translit": "(dynamin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1411:  ",
-    "str2": "From dunamai; force; specially, miraculous power."
+    "str2": "From dunamai; force; specially, miraculous power.",
+    "num": 1411
   },
   {
     "word": "of God?",
@@ -93,6 +104,7 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

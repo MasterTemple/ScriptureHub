@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "it was",
@@ -13,7 +14,8 @@
     "translit": "(genomenēs)",
     "parse": "Verb - Aorist Participle Middle - Genitive Feminine Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "already",
@@ -21,7 +23,8 @@
     "translit": "(ēdē)",
     "parse": "Adverb",
     "str": "Strong's 2235:  ",
-    "str2": "Already; now at length, now after all this waiting. Apparently from e and de; even now."
+    "str2": "Already; now at length, now after all this waiting. Apparently from e and de; even now.",
+    "num": 2235
   },
   {
     "word": "evening.",
@@ -29,7 +32,8 @@
     "translit": "(opsias)",
     "parse": "Adjective - Genitive Feminine Singular",
     "str": "Strong's 3798:  ",
-    "str2": "Late, evening. From opse; late; feminine afternoon or nightfall."
+    "str2": "Late, evening. From opse; late; feminine afternoon or nightfall.",
+    "num": 3798
   },
   {
     "word": "Since",
@@ -37,7 +41,8 @@
     "translit": "(epei)",
     "parse": "Conjunction",
     "str": "Strong's 1893:  ",
-    "str2": "Of time: when, after; of cause: since, because; otherwise: else. From epi and ei; thereupon, i.e. Since."
+    "str2": "Of time: when, after; of cause: since, because; otherwise: else. From epi and ei; thereupon, i.e. Since.",
+    "num": 1893
   },
   {
     "word": "it was",
@@ -45,7 +50,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "Preparation Day",
@@ -53,7 +59,8 @@
     "translit": "(Paraskeuē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3904:  ",
-    "str2": "The day of preparation, the day before the Sabbath, Friday. As if from paraskeuazo; readiness."
+    "str2": "The day of preparation, the day before the Sabbath, Friday. As if from paraskeuazo; readiness.",
+    "num": 3904
   },
   {
     "word": "(that",
@@ -61,7 +68,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Nominative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "is,",
@@ -69,7 +77,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "[the day] before the Sabbath),",
@@ -77,6 +86,7 @@
     "translit": "(prosabbaton)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4315:  ",
-    "str2": "The day before the Sabbath. From pro and sabbaton; a fore-sabbath, i.e. The Sabbath-eve."
+    "str2": "The day before the Sabbath. From pro and sabbaton; a fore-sabbath, i.e. The Sabbath-eve.",
+    "num": 4315
   }
 ]

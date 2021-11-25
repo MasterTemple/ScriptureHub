@@ -5,7 +5,8 @@
     "translit": "(’im)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "the anointed",
@@ -13,7 +14,8 @@
     "translit": "(ham·mā·šî·aḥ)",
     "parse": "Article | Adjective - masculine singular",
     "str": "Strong's 4899:  ",
-    "str2": "Anointed, a consecrated person, the Messiah"
+    "str2": "Anointed, a consecrated person, the Messiah",
+    "num": 4899
   },
   {
     "word": "priest",
@@ -21,7 +23,8 @@
     "translit": "(hak·kō·hên)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3548:  ",
-    "str2": "Priest"
+    "str2": "Priest",
+    "num": 3548
   },
   {
     "word": "sins,",
@@ -29,7 +32,8 @@
     "translit": "(ye·ḥĕ·ṭā)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 2398:  ",
-    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn"
+    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn",
+    "num": 2398
   },
   {
     "word": "bringing guilt",
@@ -37,7 +41,8 @@
     "translit": "(lə·’aš·maṯ)",
     "parse": "Preposition-l | Noun - feminine singular construct",
     "str": "Strong's 819:  ",
-    "str2": "Guiltiness, a fault, the presentation of a, sin-offering"
+    "str2": "Guiltiness, a fault, the presentation of a, sin-offering",
+    "num": 819
   },
   {
     "word": "on the people,",
@@ -45,7 +50,8 @@
     "translit": "(hā·‘ām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "he must bring",
@@ -53,7 +59,8 @@
     "translit": "(wə·hiq·rîḇ)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 7126:  ",
-    "str2": "To come near, approach"
+    "str2": "To come near, approach",
+    "num": 7126
   },
   {
     "word": "to the LORD",
@@ -61,7 +68,8 @@
     "translit": "(Yah·weh)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "a young bull",
@@ -69,7 +77,8 @@
     "translit": "(par)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6499:  ",
-    "str2": "Young bull, steer"
+    "str2": "Young bull, steer",
+    "num": 6499
   },
   {
     "word": "without blemish",
@@ -77,7 +86,8 @@
     "translit": "(tā·mîm)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 8549:  ",
-    "str2": "Entire, integrity, truth"
+    "str2": "Entire, integrity, truth",
+    "num": 8549
   },
   {
     "word": "as a sin offering",
@@ -85,7 +95,8 @@
     "translit": "(ḥaṭ·ṭā·ṯōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 2403:  ",
-    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender"
+    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender",
+    "num": 2403
   },
   {
     "word": "for",
@@ -93,7 +104,8 @@
     "translit": "(‘al)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the sin",
@@ -101,7 +113,8 @@
     "translit": "(lə·ḥaṭ·ṭāṯ)",
     "parse": "Preposition-l | Noun - feminine singular",
     "str": "Strong's 2403:  ",
-    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender"
+    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender",
+    "num": 2403
   },
   {
     "word": "he has committed.",
@@ -109,6 +122,7 @@
     "translit": "(ḥā·ṭā)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 2398:  ",
-    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn"
+    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn",
+    "num": 2398
   }
 ]

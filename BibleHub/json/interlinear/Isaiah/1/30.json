@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you will become",
@@ -13,7 +14,8 @@
     "translit": "(ṯih·yū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "like an oak",
@@ -21,7 +23,8 @@
     "translit": "(kə·’ê·lāh)",
     "parse": "Preposition-k | Noun - feminine singular",
     "str": "Strong's 424:  ",
-    "str2": "An oak, other strong tree"
+    "str2": "An oak, other strong tree",
+    "num": 424
   },
   {
     "word": "whose leaves",
@@ -29,7 +32,8 @@
     "translit": "(‘ā·le·hā)",
     "parse": "Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 5929:  ",
-    "str2": "A leaf, foliage"
+    "str2": "A leaf, foliage",
+    "num": 5929
   },
   {
     "word": "are withered,",
@@ -37,7 +41,8 @@
     "translit": "(nō·ḇe·leṯ)",
     "parse": "Verb - Qal - Participle - feminine singular construct",
     "str": "Strong's 5034:  ",
-    "str2": "To wilt, to fall away, fail, faint, to be foolish, wicked, to despise, disgrace"
+    "str2": "To wilt, to fall away, fail, faint, to be foolish, wicked, to despise, disgrace",
+    "num": 5034
   },
   {
     "word": "like a garden",
@@ -45,7 +50,8 @@
     "translit": "(ū·ḵə·ḡan·nāh)",
     "parse": "Conjunctive waw, Preposition-k | Noun - feminine singular",
     "str": "Strong's 1593:  ",
-    "str2": "A garden"
+    "str2": "A garden",
+    "num": 1593
   },
   {
     "word": "without",
@@ -53,7 +59,8 @@
     "translit": "(’ên)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "water.",
@@ -61,6 +68,7 @@
     "translit": "(ma·yim)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 4325:  ",
-    "str2": "Water, juice, urine, semen"
+    "str2": "Water, juice, urine, semen",
+    "num": 4325
   }
 ]

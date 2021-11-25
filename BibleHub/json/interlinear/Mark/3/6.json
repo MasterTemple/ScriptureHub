@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Pharisees",
@@ -21,7 +23,8 @@
     "translit": "(Pharisaioi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 5330:  ",
-    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary."
+    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary.",
+    "num": 5330
   },
   {
     "word": "went out",
@@ -29,7 +32,8 @@
     "translit": "(exelthontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 1831:  ",
-    "str2": "To go out, come out. From ek and erchomai; to issue."
+    "str2": "To go out, come out. From ek and erchomai; to issue.",
+    "num": 1831
   },
   {
     "word": "[and] plotted",
@@ -37,7 +41,8 @@
     "translit": "(edidoun)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "with",
@@ -45,7 +50,8 @@
     "translit": "(meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Herodians",
@@ -61,7 +68,8 @@
     "translit": "(Hērōdianōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 2265:  ",
-    "str2": "The Herodians, the partisans of Herod (Antipas). Plural of a derivative of Herodes; Herodians, i.e. Partisans of Herod."
+    "str2": "The Herodians, the partisans of Herod (Antipas). Plural of a derivative of Herodes; Herodians, i.e. Partisans of Herod.",
+    "num": 2265
   },
   {
     "word": "how",
@@ -69,7 +77,8 @@
     "translit": "(hopōs)",
     "parse": "Conjunction",
     "str": "Strong's 3704:  ",
-    "str2": "From hos and pos; what(-ever) how, i.e. In the manner that (as adverb or conjunction of coincidence, intentional or actual)."
+    "str2": "From hos and pos; what(-ever) how, i.e. In the manner that (as adverb or conjunction of coincidence, intentional or actual).",
+    "num": 3704
   },
   {
     "word": "they might kill",
@@ -77,7 +86,8 @@
     "translit": "(apolesōsin)",
     "parse": "Verb - Aorist Subjunctive Active - 3rd Person Plural",
     "str": "Strong's 622:  ",
-    "str2": "From apo and the base of olethros; to destroy fully, literally or figuratively."
+    "str2": "From apo and the base of olethros; to destroy fully, literally or figuratively.",
+    "num": 622
   },
   {
     "word": "[Jesus].",
@@ -85,6 +95,7 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

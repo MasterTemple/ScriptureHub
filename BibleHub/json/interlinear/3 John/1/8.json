@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "we",
@@ -13,7 +14,8 @@
     "translit": "(hēmeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "ought",
@@ -21,7 +23,8 @@
     "translit": "(opheilomen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 3784:  ",
-    "str2": "Or, its prolonged form opheileo probably from the base of ophelos; to owe; figuratively, to be under obligation; morally, to fail in duty."
+    "str2": "Or, its prolonged form opheileo probably from the base of ophelos; to owe; figuratively, to be under obligation; morally, to fail in duty.",
+    "num": 3784
   },
   {
     "word": "to support",
@@ -29,7 +32,8 @@
     "translit": "(hypolambanein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 5274:  ",
-    "str2": "(a) I take up, (b) I welcome, entertain, (c) I answer, (d) I suppose, imagine. "
+    "str2": "(a) I take up, (b) I welcome, entertain, (c) I answer, (d) I suppose, imagine. ",
+    "num": 5274
   },
   {
     "word": "such [men],",
@@ -37,7 +41,8 @@
     "translit": "(toioutous)",
     "parse": "Demonstrative Pronoun - Accusative Masculine Plural",
     "str": "Strong's 5108:  ",
-    "str2": "(including the other inflections); from toi and houtos; truly this, i.e. Of this sort (to denote character or individuality)."
+    "str2": "(including the other inflections); from toi and houtos; truly this, i.e. Of this sort (to denote character or individuality).",
+    "num": 5108
   },
   {
     "word": "so that",
@@ -45,7 +50,8 @@
     "translit": "(hina)",
     "parse": "Conjunction",
     "str": "Strong's 2443:  ",
-    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that."
+    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that.",
+    "num": 2443
   },
   {
     "word": "we may be",
@@ -53,7 +59,8 @@
     "translit": "(ginōmetha)",
     "parse": "Verb - Present Subjunctive Middle or Passive - 1st Person Plural",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "fellow workers",
@@ -61,7 +68,8 @@
     "translit": "(synergoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 4904:  ",
-    "str2": "A fellow worker, associate, helper. From a presumed compound of sun and the base of ergon; a co-laborer, i.e. Coadjutor."
+    "str2": "A fellow worker, associate, helper. From a presumed compound of sun and the base of ergon; a co-laborer, i.e. Coadjutor.",
+    "num": 4904
   },
   {
     "word": "for the",
@@ -69,7 +77,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "truth.",
@@ -77,6 +86,7 @@
     "translit": "(alētheia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 225:  ",
-    "str2": "From alethes; truth."
+    "str2": "From alethes; truth.",
+    "num": 225
   }
 ]

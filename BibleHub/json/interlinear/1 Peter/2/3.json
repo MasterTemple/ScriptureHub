@@ -5,7 +5,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "you have tasted",
@@ -13,7 +14,8 @@
     "translit": "(egeusasthe)",
     "parse": "Verb - Aorist Indicative Middle - 2nd Person Plural",
     "str": "Strong's 1089:  ",
-    "str2": "(a) I taste, (b) I experience. A primary verb; to taste; by implication, to eat; figuratively, to experience."
+    "str2": "(a) I taste, (b) I experience. A primary verb; to taste; by implication, to eat; figuratively, to experience.",
+    "num": 1089
   },
   {
     "word": "that",
@@ -21,7 +23,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord",
@@ -37,7 +41,8 @@
     "translit": "(Kyrios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "[is] good.",
@@ -45,6 +50,7 @@
     "translit": "(chrēstos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 5543:  ",
-    "str2": "Useful, gentle, pleasant, kind. From chraomai; employed, i.e. useful."
+    "str2": "Useful, gentle, pleasant, kind. From chraomai; employed, i.e. useful.",
+    "num": 5543
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Peter",
@@ -13,7 +14,8 @@
     "translit": "(Petros)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4074:  ",
-    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle."
+    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle.",
+    "num": 4074
   },
   {
     "word": "began",
@@ -21,7 +23,8 @@
     "translit": "(Arxamenos)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Singular",
     "str": "Strong's 756:  ",
-    "str2": "To begin. Middle voice of archo; to commence."
+    "str2": "To begin. Middle voice of archo; to commence.",
+    "num": 756
   },
   {
     "word": "[and] explained",
@@ -29,7 +32,8 @@
     "translit": "(exetitheto)",
     "parse": "Verb - Imperfect Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1620:  ",
-    "str2": "From ek and tithemi; to expose; figuratively, to declare."
+    "str2": "From ek and tithemi; to expose; figuratively, to declare.",
+    "num": 1620
   },
   {
     "word": "to them",
@@ -37,7 +41,8 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "the whole sequence of events:",
@@ -45,6 +50,7 @@
     "translit": "(kathexēs)",
     "parse": "Adverb",
     "str": "Strong's 2517:  ",
-    "str2": "From kata and hexes; thereafter, i.e. Consecutively; as a noun a subsequent person or time."
+    "str2": "From kata and hexes; thereafter, i.e. Consecutively; as a noun a subsequent person or time.",
+    "num": 2517
   }
 ]

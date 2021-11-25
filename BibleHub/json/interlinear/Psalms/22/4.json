@@ -5,7 +5,8 @@
     "translit": "(bə·ḵā)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "our fathers",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḇō·ṯê·nū)",
     "parse": "Noun - masculine plural construct | first person common plural",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "trusted;",
@@ -21,7 +23,8 @@
     "translit": "(bā·ṭə·ḥū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 982:  ",
-    "str2": "To trust, be confident, sure"
+    "str2": "To trust, be confident, sure",
+    "num": 982
   },
   {
     "word": "they trusted",
@@ -29,7 +32,8 @@
     "translit": "(bā·ṭə·ḥū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 982:  ",
-    "str2": "To trust, be confident, sure"
+    "str2": "To trust, be confident, sure",
+    "num": 982
   },
   {
     "word": "and You delivered them.",
@@ -37,6 +41,7 @@
     "translit": "(wat·tə·p̄al·lə·ṭê·mōw)",
     "parse": "Conjunctive waw | Verb - Piel - Consecutive imperfect - second person masculine singular | third person masculine plural",
     "str": "Strong's 6403:  ",
-    "str2": "To slip out, escape, to deliver"
+    "str2": "To slip out, escape, to deliver",
+    "num": 6403
   }
 ]

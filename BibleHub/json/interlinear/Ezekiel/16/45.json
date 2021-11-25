@@ -5,7 +5,8 @@
     "translit": "(’at)",
     "parse": "Pronoun - second person feminine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "are the daughter",
@@ -13,7 +14,8 @@
     "translit": "(baṯ-)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 1323:  ",
-    "str2": "A daughter"
+    "str2": "A daughter",
+    "num": 1323
   },
   {
     "word": "of your mother,",
@@ -21,7 +23,8 @@
     "translit": "(’im·mêḵ)",
     "parse": "Noun - feminine singular construct | second person feminine singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "who despised",
@@ -29,7 +32,8 @@
     "translit": "(gō·‘e·leṯ)",
     "parse": "Verb - Qal - Participle - feminine singular",
     "str": "Strong's 1602:  ",
-    "str2": "To detest, to reject"
+    "str2": "To detest, to reject",
+    "num": 1602
   },
   {
     "word": "her husband",
@@ -37,7 +41,8 @@
     "translit": "(’î·šāh)",
     "parse": "Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "and children.",
@@ -45,7 +50,8 @@
     "translit": "(ū·ḇā·ne·hā)",
     "parse": "Conjunctive waw | Noun - masculine plural construct | third person feminine singular",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "You",
@@ -53,7 +59,8 @@
     "translit": "(’at)",
     "parse": "Pronoun - second person feminine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "are the sister",
@@ -61,7 +68,8 @@
     "translit": "(wa·’ă·ḥō·wṯ)",
     "parse": "Conjunctive waw | Noun - feminine singular construct",
     "str": "Strong's 269:  ",
-    "str2": "Sister -- a sister"
+    "str2": "Sister -- a sister",
+    "num": 269
   },
   {
     "word": "of your sisters,",
@@ -69,7 +77,8 @@
     "translit": "(’ă·ḥō·w·ṯêḵ)",
     "parse": "Noun - feminine singular construct | second person feminine singular",
     "str": "Strong's 269:  ",
-    "str2": "Sister -- a sister"
+    "str2": "Sister -- a sister",
+    "num": 269
   },
   {
     "word": "who",
@@ -77,7 +86,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "despised",
@@ -85,7 +95,8 @@
     "translit": "(gā·‘ă·lū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 1602:  ",
-    "str2": "To detest, to reject"
+    "str2": "To detest, to reject",
+    "num": 1602
   },
   {
     "word": "their husbands",
@@ -93,7 +104,8 @@
     "translit": "(’an·šê·hen)",
     "parse": "Noun - masculine plural construct | third person feminine plural",
     "str": "Strong's 582:  ",
-    "str2": "Man, mankind"
+    "str2": "Man, mankind",
+    "num": 582
   },
   {
     "word": "and children.",
@@ -101,7 +113,8 @@
     "translit": "(ū·ḇə·nê·hen)",
     "parse": "Conjunctive waw | Noun - masculine plural construct | third person feminine plural",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "Your mother",
@@ -109,7 +122,8 @@
     "translit": "(’im·mə·ḵen)",
     "parse": "Noun - feminine singular construct | second person feminine plural",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "was a Hittite",
@@ -117,7 +131,8 @@
     "translit": "(ḥit·tîṯ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 2850:  ",
-    "str2": "Hittite -- a Chittite"
+    "str2": "Hittite -- a Chittite",
+    "num": 2850
   },
   {
     "word": "and your father",
@@ -125,7 +140,8 @@
     "translit": "(wa·’ă·ḇî·ḵen)",
     "parse": "Conjunctive waw | Noun - masculine singular construct | second person feminine plural",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "an Amorite.",
@@ -133,6 +149,7 @@
     "translit": "(’ĕ·mō·rî)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 567:  ",
-    "str2": "Amorites -- perhaps 'mountain dwellers', a Canaanite tribe"
+    "str2": "Amorites -- perhaps 'mountain dwellers', a Canaanite tribe",
+    "num": 567
   }
 ]

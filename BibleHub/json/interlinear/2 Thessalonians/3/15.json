@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "{do} not",
@@ -13,7 +14,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "regard [him]",
@@ -21,7 +23,8 @@
     "translit": "(hēgeisthe)",
     "parse": "Verb - Present Imperative Middle or Passive - 2nd Person Plural",
     "str": "Strong's 2233:  ",
-    "str2": "(a) To lead, (b) To think, be of opinion, suppose, consider. "
+    "str2": "(a) To lead, (b) To think, be of opinion, suppose, consider. ",
+    "num": 2233
   },
   {
     "word": "as",
@@ -29,7 +32,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "an enemy,",
@@ -37,7 +41,8 @@
     "translit": "(echthron)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 2190:  ",
-    "str2": "Hated, hostile; subst: an enemy. From a primary echtho; hateful; usually as a noun, an adversary."
+    "str2": "Hated, hostile; subst: an enemy. From a primary echtho; hateful; usually as a noun, an adversary.",
+    "num": 2190
   },
   {
     "word": "but",
@@ -45,7 +50,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "warn [him]",
@@ -53,7 +59,8 @@
     "translit": "(noutheteite)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 3560:  ",
-    "str2": "To admonish, warn, counsel, exhort. From the same as nouthesia; to put in mind, i.e. to caution or reprove gently."
+    "str2": "To admonish, warn, counsel, exhort. From the same as nouthesia; to put in mind, i.e. to caution or reprove gently.",
+    "num": 3560
   },
   {
     "word": "as",
@@ -61,7 +68,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "a brother.",
@@ -69,6 +77,7 @@
     "translit": "(adelphon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   }
 ]

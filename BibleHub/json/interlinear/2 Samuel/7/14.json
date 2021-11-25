@@ -5,7 +5,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "will be",
@@ -13,7 +14,8 @@
     "translit": "(’eh·yeh-)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "his",
@@ -21,7 +23,8 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "Father,",
@@ -29,7 +32,8 @@
     "translit": "(lə·’āḇ)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "and he",
@@ -37,7 +41,8 @@
     "translit": "(wə·hū)",
     "parse": "Conjunctive waw | Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "will be",
@@ -45,7 +50,8 @@
     "translit": "(yih·yeh-)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "My",
@@ -53,7 +59,8 @@
     "translit": "(lî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "son.",
@@ -61,7 +68,8 @@
     "translit": "(lə·ḇên)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "When",
@@ -69,7 +77,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "he does wrong,",
@@ -77,7 +86,8 @@
     "translit": "(bə·ha·‘ă·wō·ṯōw)",
     "parse": "Preposition-b | Verb - Hifil - Infinitive construct | third person masculine singular",
     "str": "Strong's 5753:  ",
-    "str2": "To bend, twist"
+    "str2": "To bend, twist",
+    "num": 5753
   },
   {
     "word": "I will discipline him",
@@ -85,7 +95,8 @@
     "translit": "(wə·hō·ḵaḥ·tîw)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - first person common singular | third person masculine singular",
     "str": "Strong's 3198:  ",
-    "str2": "To be right, reciprocal, to argue, to decide, justify, convict"
+    "str2": "To be right, reciprocal, to argue, to decide, justify, convict",
+    "num": 3198
   },
   {
     "word": "with the rod",
@@ -93,7 +104,8 @@
     "translit": "(bə·šê·ḇeṭ)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 7626:  ",
-    "str2": "Rod, staff, club, scepter, tribe"
+    "str2": "Rod, staff, club, scepter, tribe",
+    "num": 7626
   },
   {
     "word": "of men",
@@ -101,7 +113,8 @@
     "translit": "(’ă·nā·šîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "and with the blows",
@@ -109,7 +122,8 @@
     "translit": "(ū·ḇə·niḡ·‘ê)",
     "parse": "Conjunctive waw, Preposition-b | Noun - masculine plural construct",
     "str": "Strong's 5061:  ",
-    "str2": "Mark -- a blow, a spot"
+    "str2": "Mark -- a blow, a spot",
+    "num": 5061
   },
   {
     "word": "of the sons",
@@ -117,7 +131,8 @@
     "translit": "(bə·nê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of men.",
@@ -125,6 +140,7 @@
     "translit": "(’ā·ḏām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   }
 ]

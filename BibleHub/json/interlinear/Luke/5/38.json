@@ -5,7 +5,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "new",
@@ -13,7 +14,8 @@
     "translit": "(neon)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 3501:  ",
-    "str2": "(a) young, youthful, (b) new, fresh. "
+    "str2": "(a) young, youthful, (b) new, fresh. ",
+    "num": 3501
   },
   {
     "word": "wine",
@@ -21,7 +23,8 @@
     "translit": "(oinon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3631:  ",
-    "str2": "Wine. A primary word (yayin); 'wine'."
+    "str2": "Wine. A primary word (yayin); 'wine'.",
+    "num": 3631
   },
   {
     "word": "is poured",
@@ -29,7 +32,8 @@
     "translit": "(blēteon)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 992:  ",
-    "str2": "A verbal adj: one must put, that ought to be put. From ballo; fit to be cast."
+    "str2": "A verbal adj: one must put, that ought to be put. From ballo; fit to be cast.",
+    "num": 992
   },
   {
     "word": "into",
@@ -37,7 +41,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "new",
@@ -45,7 +50,8 @@
     "translit": "(kainous)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 2537:  ",
-    "str2": "Fresh, new, unused, novel. Of uncertain affinity; new"
+    "str2": "Fresh, new, unused, novel. Of uncertain affinity; new",
+    "num": 2537
   },
   {
     "word": "wineskins.",
@@ -53,6 +59,7 @@
     "translit": "(askous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 779:  ",
-    "str2": "A wine-skin, leather bottle. From the same as askeo; a leathern bag used as a bottle."
+    "str2": "A wine-skin, leather bottle. From the same as askeo; a leathern bag used as a bottle.",
+    "num": 779
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’ā·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "the sea,",
@@ -13,7 +14,8 @@
     "translit": "(hăyām-)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3220:  ",
-    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin"
+    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin",
+    "num": 3220
   },
   {
     "word": "or",
@@ -21,7 +23,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "the monster of the deep,",
@@ -29,7 +32,8 @@
     "translit": "(tan·nîn)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 8577:  ",
-    "str2": "A marine, land monster, sea-serpent, jackal"
+    "str2": "A marine, land monster, sea-serpent, jackal",
+    "num": 8577
   },
   {
     "word": "that",
@@ -37,7 +41,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "You must keep me under",
@@ -45,7 +50,8 @@
     "translit": "(ṯā·śîm)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 7760:  ",
-    "str2": "Put -- to put, place, set"
+    "str2": "Put -- to put, place, set",
+    "num": 7760
   },
   {
     "word": "guard?",
@@ -53,6 +59,7 @@
     "translit": "(miš·mār)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4929:  ",
-    "str2": "Place of confinement, jail, prison, guard, watch, observance"
+    "str2": "Place of confinement, jail, prison, guard, watch, observance",
+    "num": 4929
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(tauta)",
     "parse": "Demonstrative Pronoun - Nominative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "are",
@@ -13,7 +14,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "what",
@@ -21,7 +23,8 @@
     "translit": "(ta)",
     "parse": "Article - Nominative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "defile",
@@ -29,7 +32,8 @@
     "translit": "(koinounta)",
     "parse": "Verb - Present Participle Active - Nominative Neuter Plural",
     "str": "Strong's 2840:  ",
-    "str2": "To make unclean, pollute, desecrate, mid: I regard (treat) as unclean. From koinos; to make profane."
+    "str2": "To make unclean, pollute, desecrate, mid: I regard (treat) as unclean. From koinos; to make profane.",
+    "num": 2840
   },
   {
     "word": "a",
@@ -37,7 +41,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "man,",
@@ -45,7 +50,8 @@
     "translit": "(anthrōpon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "but",
@@ -53,7 +59,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "eating",
@@ -61,7 +68,8 @@
     "translit": "(phagein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 5315:  ",
-    "str2": "A primary verb; to eat."
+    "str2": "A primary verb; to eat.",
+    "num": 5315
   },
   {
     "word": "with unwashed",
@@ -69,7 +77,8 @@
     "translit": "(aniptois)",
     "parse": "Adjective - Dative Feminine Plural",
     "str": "Strong's 449:  ",
-    "str2": "Unwashed, ceremonially unclean. Without ablution."
+    "str2": "Unwashed, ceremonially unclean. Without ablution.",
+    "num": 449
   },
   {
     "word": "hands",
@@ -77,7 +86,8 @@
     "translit": "(chersin)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 5495:  ",
-    "str2": "A hand. "
+    "str2": "A hand. ",
+    "num": 5495
   },
   {
     "word": "does not defile",
@@ -85,7 +95,8 @@
     "translit": "(koinoi)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2840:  ",
-    "str2": "To make unclean, pollute, desecrate, mid: I regard (treat) as unclean. From koinos; to make profane."
+    "str2": "To make unclean, pollute, desecrate, mid: I regard (treat) as unclean. From koinos; to make profane.",
+    "num": 2840
   },
   {
     "word": "[him].”",
@@ -93,6 +104,7 @@
     "translit": "(anthrōpon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   }
 ]

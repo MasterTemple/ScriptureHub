@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Philip",
@@ -13,7 +14,8 @@
     "translit": "(Philippos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5376:  ",
-    "str2": "From philos and hippos; fond of horses; Philippus, the name of four Israelites."
+    "str2": "From philos and hippos; fond of horses; Philippus, the name of four Israelites.",
+    "num": 5376
   },
   {
     "word": "ran up",
@@ -21,7 +23,8 @@
     "translit": "(Prosdramōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4370:  ",
-    "str2": "To run to. From pros and trecho; to run towards, i.e. Hasten to meet or join."
+    "str2": "To run to. From pros and trecho; to run towards, i.e. Hasten to meet or join.",
+    "num": 4370
   },
   {
     "word": "[and] heard",
@@ -29,7 +32,8 @@
     "translit": "(ēkousen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "[the man]",
@@ -37,7 +41,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "reading",
@@ -45,7 +50,8 @@
     "translit": "(anaginōskontos)",
     "parse": "Verb - Present Participle Active - Genitive Masculine Singular",
     "str": "Strong's 314:  ",
-    "str2": "To read, know again, know certainly, recognize, discern. From ana and ginosko; to know again, i.e. to read."
+    "str2": "To read, know again, know certainly, recognize, discern. From ana and ginosko; to know again, i.e. to read.",
+    "num": 314
   },
   {
     "word": "Isaiah",
@@ -53,7 +59,8 @@
     "translit": "(Ēsaian)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2268:  ",
-    "str2": "Isaiah, the prophet. Of Hebrew origin; Hesaias, an Israelite."
+    "str2": "Isaiah, the prophet. Of Hebrew origin; Hesaias, an Israelite.",
+    "num": 2268
   },
   {
     "word": "the",
@@ -61,7 +68,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "prophet.",
@@ -69,7 +77,8 @@
     "translit": "(prophētēn)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 4396:  ",
-    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet."
+    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet.",
+    "num": 4396
   },
   {
     "word": "“Do you understand",
@@ -77,7 +86,8 @@
     "translit": "(ginōskeis)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 1097:  ",
-    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications."
+    "str2": "A prolonged form of a primary verb; to 'know' in a great variety of applications and with many implications.",
+    "num": 1097
   },
   {
     "word": "what",
@@ -85,7 +95,8 @@
     "translit": "(ha)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "you are reading?”",
@@ -93,7 +104,8 @@
     "translit": "(anaginōskeis)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 314:  ",
-    "str2": "To read, know again, know certainly, recognize, discern. From ana and ginosko; to know again, i.e. to read."
+    "str2": "To read, know again, know certainly, recognize, discern. From ana and ginosko; to know again, i.e. to read.",
+    "num": 314
   },
   {
     "word": "[Philip] asked.",
@@ -101,6 +113,7 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   }
 ]

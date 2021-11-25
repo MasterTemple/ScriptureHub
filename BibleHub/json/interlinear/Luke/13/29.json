@@ -5,7 +5,8 @@
     "translit": "(hēxousin)",
     "parse": "Verb - Future Indicative Active - 3rd Person Plural",
     "str": "Strong's 2240:  ",
-    "str2": "To have come, be present, have arrived. A primary verb; to arrive, i.e. Be present."
+    "str2": "To have come, be present, have arrived. A primary verb; to arrive, i.e. Be present.",
+    "num": 2240
   },
   {
     "word": "from",
@@ -13,7 +14,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "east",
@@ -21,7 +23,8 @@
     "translit": "(anatolōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 395:  ",
-    "str2": "From anatello; a rising of light, i.e. Dawn; by implication, the east."
+    "str2": "From anatello; a rising of light, i.e. Dawn; by implication, the east.",
+    "num": 395
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "west",
@@ -37,7 +41,8 @@
     "translit": "(dysmōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 1424:  ",
-    "str2": "A setting (of the sun), hence: the West. From duno; the sun-set, i.e. the western region."
+    "str2": "A setting (of the sun), hence: the West. From duno; the sun-set, i.e. the western region.",
+    "num": 1424
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "north",
@@ -53,7 +59,8 @@
     "translit": "(borra)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 1005:  ",
-    "str2": "The north wind, hence: the North. Of uncertain derivation; the north."
+    "str2": "The north wind, hence: the North. Of uncertain derivation; the north.",
+    "num": 1005
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "south,",
@@ -69,7 +77,8 @@
     "translit": "(notou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3558:  ",
-    "str2": "The south wind, the South. Of uncertain affinity; the south(-west) wind; by extension, the southern quarter itself."
+    "str2": "The south wind, the South. Of uncertain affinity; the south(-west) wind; by extension, the southern quarter itself.",
+    "num": 3558
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "will recline at the table",
@@ -85,7 +95,8 @@
     "translit": "(anaklithēsontai)",
     "parse": "Verb - Future Indicative Passive - 3rd Person Plural",
     "str": "Strong's 347:  ",
-    "str2": "To lay upon, lean against, lay down, make to recline; pass: I lie back, recline. From ana and klino; to lean back."
+    "str2": "To lay upon, lean against, lay down, make to recline; pass: I lie back, recline. From ana and klino; to lean back.",
+    "num": 347
   },
   {
     "word": "in",
@@ -93,7 +104,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "kingdom",
@@ -109,7 +122,8 @@
     "translit": "(basileia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 932:  ",
-    "str2": "From basileus; properly, royalty, i.e. rule, or a realm."
+    "str2": "From basileus; properly, royalty, i.e. rule, or a realm.",
+    "num": 932
   },
   {
     "word": "of God.",
@@ -117,6 +131,7 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

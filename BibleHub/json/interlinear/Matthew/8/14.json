@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Jesus",
@@ -13,7 +14,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "arrived",
@@ -21,7 +23,8 @@
     "translit": "(elthōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "at",
@@ -29,7 +32,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "Peter’s",
@@ -37,7 +41,8 @@
     "translit": "(Petrou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 4074:  ",
-    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle."
+    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle.",
+    "num": 4074
   },
   {
     "word": "house,",
@@ -45,7 +50,8 @@
     "translit": "(oikian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3614:  ",
-    "str2": "From oikos; properly, residence, but usually an abode; by implication, a family."
+    "str2": "From oikos; properly, residence, but usually an abode; by implication, a family.",
+    "num": 3614
   },
   {
     "word": "He saw",
@@ -53,7 +59,8 @@
     "translit": "(eiden)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "[Peter’s]",
@@ -61,7 +68,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "mother-in-law",
@@ -69,7 +77,8 @@
     "translit": "(pentheran)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3994:  ",
-    "str2": "A mother-in-law. Feminine of pentheros; a wife's mother."
+    "str2": "A mother-in-law. Feminine of pentheros; a wife's mother.",
+    "num": 3994
   },
   {
     "word": "sick in bed",
@@ -77,7 +86,8 @@
     "translit": "(beblēmenēn)",
     "parse": "Verb - Perfect Participle Middle or Passive - Accusative Feminine Singular",
     "str": "Strong's 906:  ",
-    "str2": "(a) I cast, throw, rush, (b) often, in the weaker sense: I place, put, drop. A primary verb; to throw."
+    "str2": "(a) I cast, throw, rush, (b) often, in the weaker sense: I place, put, drop. A primary verb; to throw.",
+    "num": 906
   },
   {
     "word": "with a fever.",
@@ -85,6 +95,7 @@
     "translit": "(pyressousan)",
     "parse": "Verb - Present Participle Active - Accusative Feminine Singular",
     "str": "Strong's 4445:  ",
-    "str2": "To be sick with a fever. From pura; to be on fire, i.e., to have a fever."
+    "str2": "To be sick with a fever. From pura; to be on fire, i.e., to have a fever.",
+    "num": 4445
   }
 ]

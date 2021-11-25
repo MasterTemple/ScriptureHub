@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A weak adversative particle, generally placed second in its clause; but, on the other hand, and."
+    "str2": "A weak adversative particle, generally placed second in its clause; but, on the other hand, and.",
+    "num": 1161
   },
   {
     "word": "this",
@@ -13,7 +14,8 @@
     "translit": "(Touto)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it."
+    "str2": "This; he, she, it.",
+    "num": 3778
   },
   {
     "word": "kind",
@@ -21,7 +23,8 @@
     "translit": "(genos)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 1085:  ",
-    "str2": "Offspring, family, race, nation, kind."
+    "str2": "Offspring, family, race, nation, kind.",
+    "num": 1085
   },
   {
     "word": "does not go out,",
@@ -29,7 +32,8 @@
     "translit": "(ekporeuetai)",
     "parse": "Verb - Present Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1607:  ",
-    "str2": "To depart from; to be voided, cast out; to proceed from, to be spoken; to burst forth, flow out, to be spread abroad."
+    "str2": "To depart from; to be voided, cast out; to proceed from, to be spoken; to burst forth, flow out, to be spread abroad.",
+    "num": 1607
   },
   {
     "word": "except",
@@ -37,7 +41,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If."
+    "str2": "If.",
+    "num": 1487
   },
   {
     "word": "by",
@@ -45,7 +50,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among."
+    "str2": "In, on, among.",
+    "num": 1722
   },
   {
     "word": "prayer",
@@ -53,7 +59,8 @@
     "translit": "(proseuchē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4336:  ",
-    "str2": "(a) prayer (to God), (b) a place for prayer (used by Jews, perhaps where there was no synagogue)."
+    "str2": "(a) prayer (to God), (b) a place for prayer (used by Jews, perhaps where there was no synagogue).",
+    "num": 4336
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely."
+    "str2": "And, even, also, namely.",
+    "num": 2532
   },
   {
     "word": "fasting.",
@@ -69,6 +77,7 @@
     "translit": "(nēsteia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3521:  ",
-    "str2": "Fasting, the day of atonement."
+    "str2": "Fasting, the day of atonement.",
+    "num": 3521
   }
 ]

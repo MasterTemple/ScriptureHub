@@ -5,7 +5,8 @@
     "translit": "(haš·še·meš)",
     "parse": "Article | Noun - common singular",
     "str": "Strong's 8121:  ",
-    "str2": "The sun, the east, a ray, a notched battlement"
+    "str2": "The sun, the east, a ray, a notched battlement",
+    "num": 8121
   },
   {
     "word": "rose",
@@ -13,7 +14,8 @@
     "translit": "(way·yiz·raḥ-)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 2224:  ",
-    "str2": "To irradiate, to rise, to appear"
+    "str2": "To irradiate, to rise, to appear",
+    "num": 2224
   },
   {
     "word": "above him",
@@ -21,7 +23,8 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "as",
@@ -29,7 +32,8 @@
     "translit": "(ka·’ă·šer)",
     "parse": "Preposition-k | Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "he passed by",
@@ -37,7 +41,8 @@
     "translit": "(‘ā·ḇar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 5674:  ",
-    "str2": "To pass over, through, or by, pass on"
+    "str2": "To pass over, through, or by, pass on",
+    "num": 5674
   },
   {
     "word": "Penuel,",
@@ -45,7 +50,8 @@
     "translit": "(pə·nū·’êl)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 6439:  ",
-    "str2": "Penuel -- 'face of God', a place East of the Jordan, also two Israelites"
+    "str2": "Penuel -- 'face of God', a place East of the Jordan, also two Israelites",
+    "num": 6439
   },
   {
     "word": "and he",
@@ -53,7 +59,8 @@
     "translit": "(wə·hū)",
     "parse": "Conjunctive waw | Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "was limping",
@@ -61,7 +68,8 @@
     "translit": "(ṣō·lê·a‘)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 6760:  ",
-    "str2": "To limp"
+    "str2": "To limp",
+    "num": 6760
   },
   {
     "word": "because of",
@@ -69,7 +77,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "his hip.",
@@ -77,6 +86,7 @@
     "translit": "(yə·rê·ḵōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 3409:  ",
-    "str2": "Thigh,loin, flank, side"
+    "str2": "Thigh,loin, flank, side",
+    "num": 3409
   }
 ]

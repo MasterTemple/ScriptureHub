@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "I will make every effort to ensure",
@@ -13,7 +14,8 @@
     "translit": "(spoudasō)",
     "parse": "Verb - Future Indicative Active - 1st Person Singular",
     "str": "Strong's 4704:  ",
-    "str2": "To hasten, be eager, be zealous. From spoude; to use speed, i.e. To make effort, be prompt or earnest."
+    "str2": "To hasten, be eager, be zealous. From spoude; to use speed, i.e. To make effort, be prompt or earnest.",
+    "num": 4704
   },
   {
     "word": "[that] after",
@@ -21,7 +23,8 @@
     "translit": "(meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "my",
@@ -29,7 +32,8 @@
     "translit": "(emēn)",
     "parse": "Personal / Possessive Pronoun - Accusative Feminine 1st Person Singular",
     "str": "Strong's 1699:  ",
-    "str2": "My, mine. From the oblique cases of ego; my."
+    "str2": "My, mine. From the oblique cases of ego; my.",
+    "num": 1699
   },
   {
     "word": "departure,",
@@ -37,7 +41,8 @@
     "translit": "(exodon)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1841:  ",
-    "str2": "(a) an exit, going out, departure from a place; the exodus, (b) death. From ek and hodos; an exit, i.e. death."
+    "str2": "(a) an exit, going out, departure from a place; the exodus, (b) death. From ek and hodos; an exit, i.e. death.",
+    "num": 1841
   },
   {
     "word": "you",
@@ -45,7 +50,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "will",
@@ -53,7 +59,8 @@
     "translit": "(echein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "be able to recall",
@@ -61,7 +68,8 @@
     "translit": "(mnēmēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3420:  ",
-    "str2": "Memory, remembrance, mention. From mimnesko; memory."
+    "str2": "Memory, remembrance, mention. From mimnesko; memory.",
+    "num": 3420
   },
   {
     "word": "these things",
@@ -69,7 +77,8 @@
     "translit": "(toutōn)",
     "parse": "Demonstrative Pronoun - Genitive Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "at all times.",
@@ -77,6 +86,7 @@
     "translit": "(hekastote)",
     "parse": "Adverb",
     "str": "Strong's 1539:  ",
-    "str2": "At every time, always. As if from hekastos and tote; at every time."
+    "str2": "At every time, always. As if from hekastos and tote; at every time.",
+    "num": 1539
   }
 ]

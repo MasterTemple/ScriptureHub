@@ -5,7 +5,8 @@
     "translit": "(’a·ḥar)",
     "parse": "Adverb",
     "str": "Strong's 310:  ",
-    "str2": "The hind or following part"
+    "str2": "The hind or following part",
+    "num": 310
   },
   {
     "word": "the son",
@@ -13,7 +14,8 @@
     "translit": "(ben-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of the woman",
@@ -21,7 +23,8 @@
     "translit": "(hā·’iš·šāh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 802:  ",
-    "str2": "Woman, wife, female"
+    "str2": "Woman, wife, female",
+    "num": 802
   },
   {
     "word": "who owned",
@@ -29,7 +32,8 @@
     "translit": "(ba·‘ă·laṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 1172:  ",
-    "str2": "A mistress"
+    "str2": "A mistress",
+    "num": 1172
   },
   {
     "word": "the house",
@@ -37,7 +41,8 @@
     "translit": "(hab·bā·yiṯ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "became ill,",
@@ -45,7 +50,8 @@
     "translit": "(ḥā·lāh)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 2470:  ",
-    "str2": "To be weak or sick"
+    "str2": "To be weak or sick",
+    "num": 2470
   },
   {
     "word": "and his sickness",
@@ -53,7 +59,8 @@
     "translit": "(ḥā·lə·yōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 2483:  ",
-    "str2": "Malady, anxiety, calamity"
+    "str2": "Malady, anxiety, calamity",
+    "num": 2483
   },
   {
     "word": "grew",
@@ -61,7 +68,8 @@
     "translit": "(way·hî)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "severe,",
@@ -69,7 +77,8 @@
     "translit": "(ḥā·zāq)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 2389:  ",
-    "str2": "Strong, stout, mighty"
+    "str2": "Strong, stout, mighty",
+    "num": 2389
   },
   {
     "word": "until",
@@ -77,7 +86,8 @@
     "translit": "(‘aḏ)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "no",
@@ -85,7 +95,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "breath",
@@ -93,7 +104,8 @@
     "translit": "(nə·šā·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 5397:  ",
-    "str2": "A puff, wind, angry, vital breath, divine inspiration, intellect, an animal"
+    "str2": "A puff, wind, angry, vital breath, divine inspiration, intellect, an animal",
+    "num": 5397
   },
   {
     "word": "remained",
@@ -101,7 +113,8 @@
     "translit": "(nō·wṯ·rāh-)",
     "parse": "Verb - Nifal - Perfect - third person feminine singular",
     "str": "Strong's 3498:  ",
-    "str2": "To jut over, exceed, to excel, to remain, be left, to leave, cause to abound, preserve"
+    "str2": "To jut over, exceed, to excel, to remain, be left, to leave, cause to abound, preserve",
+    "num": 3498
   },
   {
     "word": "in him.",
@@ -109,6 +122,7 @@
     "translit": "(bōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

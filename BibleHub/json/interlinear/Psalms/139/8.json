@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I ascend",
@@ -13,7 +14,8 @@
     "translit": "(’es·saq)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 5266:  ",
-    "str2": "To go up"
+    "str2": "To go up",
+    "num": 5266
   },
   {
     "word": "to the heavens,",
@@ -21,7 +23,8 @@
     "translit": "(ma·yim)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 8064:  ",
-    "str2": "Heaven, sky"
+    "str2": "Heaven, sky",
+    "num": 8064
   },
   {
     "word": "You",
@@ -29,7 +32,8 @@
     "translit": "(’āt·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "are there;",
@@ -37,7 +41,8 @@
     "translit": "(šām)",
     "parse": "Adverb",
     "str": "Strong's 8033:  ",
-    "str2": "There, then, thither"
+    "str2": "There, then, thither",
+    "num": 8033
   },
   {
     "word": "if I make my bed",
@@ -45,7 +50,8 @@
     "translit": "(wə·’aṣ·ṣî·‘āh)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive imperfect Cohortative - first person common singular",
     "str": "Strong's 3331:  ",
-    "str2": "To strew as a, surface"
+    "str2": "To strew as a, surface",
+    "num": 3331
   },
   {
     "word": "in Sheol,",
@@ -53,7 +59,8 @@
     "translit": "(šə·’ō·wl)",
     "parse": "Noun - common singular",
     "str": "Strong's 7585:  ",
-    "str2": "Underworld (place to which people descend at death)"
+    "str2": "Underworld (place to which people descend at death)",
+    "num": 7585
   },
   {
     "word": "You are there.",
@@ -61,6 +68,7 @@
     "translit": "(hin·ne·kā)",
     "parse": "Interjection | second person masculine singular",
     "str": "Strong's 2005:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2005
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[the men] heard [this],",
@@ -13,7 +14,8 @@
     "translit": "(Akousantes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "they were",
@@ -21,7 +23,8 @@
     "translit": "(genomenoi)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Plural",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "enraged",
@@ -29,7 +32,8 @@
     "translit": "(thymou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2372:  ",
-    "str2": "An outburst of passion, wrath. From thuo; passion."
+    "str2": "An outburst of passion, wrath. From thuo; passion.",
+    "num": 2372
   },
   {
     "word": "[and] began shouting,",
@@ -37,7 +41,8 @@
     "translit": "(ekrazon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2896:  ",
-    "str2": "To cry aloud, shriek. A primary verb; properly, to 'croak' or scream, i.e. to call aloud."
+    "str2": "To cry aloud, shriek. A primary verb; properly, to 'croak' or scream, i.e. to call aloud.",
+    "num": 2896
   },
   {
     "word": "“Great [is]",
@@ -45,7 +50,8 @@
     "translit": "(Megalē)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 3173:  ",
-    "str2": "Large, great, in the widest sense. "
+    "str2": "Large, great, in the widest sense. ",
+    "num": 3173
   },
   {
     "word": "Artemis",
@@ -53,7 +59,8 @@
     "translit": "(Artemis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 735:  ",
-    "str2": "Probably from the same as artemon; prompt; Artemis, the name of a Grecian goddess borrowed by the Asiatics for one of their deities."
+    "str2": "Probably from the same as artemon; prompt; Artemis, the name of a Grecian goddess borrowed by the Asiatics for one of their deities.",
+    "num": 735
   },
   {
     "word": "of [the] Ephesians!”",
@@ -61,6 +68,7 @@
     "translit": "(Ephesiōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 2180:  ",
-    "str2": "Ephesian, of Ephesus. From Ephesos; an Ephesian or inhabitant of Ephesus."
+    "str2": "Ephesian, of Ephesus. From Ephesos; an Ephesian or inhabitant of Ephesus.",
+    "num": 2180
   }
 ]

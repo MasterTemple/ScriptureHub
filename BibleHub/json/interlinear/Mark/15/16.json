@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(Hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "soldiers",
@@ -21,7 +23,8 @@
     "translit": "(stratiōtai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 4757:  ",
-    "str2": "A soldier. From a presumed derivative of the same as stratia; a camper-out, i.e. A warrior."
+    "str2": "A soldier. From a presumed derivative of the same as stratia; a camper-out, i.e. A warrior.",
+    "num": 4757
   },
   {
     "word": "led [Jesus] away",
@@ -29,7 +32,8 @@
     "translit": "(apēgagon)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 520:  ",
-    "str2": "To lead, carry, take away; met: To be led astray, seduced. From apo and ago; to take off."
+    "str2": "To lead, carry, take away; met: To be led astray, seduced. From apo and ago; to take off.",
+    "num": 520
   },
   {
     "word": "into",
@@ -37,7 +41,8 @@
     "translit": "(esō)",
     "parse": "Preposition",
     "str": "Strong's 2080:  ",
-    "str2": "Within, inside, with verbs either of rest or of motion; prep: within, to within, inside. From eis; inside."
+    "str2": "Within, inside, with verbs either of rest or of motion; prep: within, to within, inside. From eis; inside.",
+    "num": 2080
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "palace",
@@ -53,7 +59,8 @@
     "translit": "(aulēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 833:  ",
-    "str2": "From the same as aer; a yard; by implication, a mansion."
+    "str2": "From the same as aer; a yard; by implication, a mansion.",
+    "num": 833
   },
   {
     "word": "(that",
@@ -61,7 +68,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Nominative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "is,",
@@ -69,7 +77,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "[the] Praetorium)",
@@ -77,7 +86,8 @@
     "translit": "(Praitōrion)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4232:  ",
-    "str2": "Of Latin origin; the praetorium or governor's courtroom."
+    "str2": "Of Latin origin; the praetorium or governor's courtroom.",
+    "num": 4232
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "called",
@@ -93,7 +104,8 @@
     "translit": "(synkalousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 4779:  ",
-    "str2": "To call together. From sun and kaleo; to convoke."
+    "str2": "To call together. From sun and kaleo; to convoke.",
+    "num": 4779
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "whole",
@@ -109,7 +122,8 @@
     "translit": "(holēn)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 3650:  ",
-    "str2": "All, the whole, entire, complete. A primary word; 'whole' or 'all', i.e. Complete, especially as noun or adverb."
+    "str2": "All, the whole, entire, complete. A primary word; 'whole' or 'all', i.e. Complete, especially as noun or adverb.",
+    "num": 3650
   },
   {
     "word": "company {together}.",
@@ -117,6 +131,7 @@
     "translit": "(speiran)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4686:  ",
-    "str2": "A cohort, the tenth part of a legion; a military guard. "
+    "str2": "A cohort, the tenth part of a legion; a military guard. ",
+    "num": 4686
   }
 ]

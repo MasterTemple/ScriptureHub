@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "it is",
@@ -13,7 +14,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "shameful",
@@ -21,7 +23,8 @@
     "translit": "(aischron)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 150:  ",
-    "str2": "Base, disgraceful. From the same as aischunomai; shameful, i.e. Base."
+    "str2": "Base, disgraceful. From the same as aischunomai; shameful, i.e. Base.",
+    "num": 150
   },
   {
     "word": "even",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "to mention",
@@ -37,7 +41,8 @@
     "translit": "(legein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "what",
@@ -45,7 +50,8 @@
     "translit": "(ta)",
     "parse": "Article - Accusative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "[the disobedient] do",
@@ -53,7 +59,8 @@
     "translit": "(ginomena)",
     "parse": "Verb - Present Participle Middle or Passive - Accusative Neuter Plural",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "in secret.",
@@ -61,6 +68,7 @@
     "translit": "(kryphē)",
     "parse": "Adverb",
     "str": "Strong's 2931:  ",
-    "str2": "In secret, secretly. Adverb from krupto; privately."
+    "str2": "In secret, secretly. Adverb from krupto; privately.",
+    "num": 2931
   }
 ]

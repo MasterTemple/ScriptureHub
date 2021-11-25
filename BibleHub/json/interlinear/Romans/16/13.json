@@ -5,7 +5,8 @@
     "translit": "(Aspasasthe)",
     "parse": "Verb - Aorist Imperative Middle - 2nd Person Plural",
     "str": "Strong's 782:  ",
-    "str2": "To greet, salute, pay my respects to, welcome. To enfold in the arms, i.e. to salute, to welcome."
+    "str2": "To greet, salute, pay my respects to, welcome. To enfold in the arms, i.e. to salute, to welcome.",
+    "num": 782
   },
   {
     "word": "Rufus,",
@@ -13,7 +14,8 @@
     "translit": "(Rhouphon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 4504:  ",
-    "str2": "Of Latin origin; red; Rufus, a Christian."
+    "str2": "Of Latin origin; red; Rufus, a Christian.",
+    "num": 4504
   },
   {
     "word": "chosen",
@@ -21,7 +23,8 @@
     "translit": "(eklekton)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 1588:  ",
-    "str2": "From eklegomai; select; by implication, favorite."
+    "str2": "From eklegomai; select; by implication, favorite.",
+    "num": 1588
   },
   {
     "word": "in",
@@ -29,7 +32,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[the] Lord,",
@@ -37,7 +41,8 @@
     "translit": "(Kyriō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "his",
@@ -53,7 +59,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "mother,",
@@ -61,7 +68,8 @@
     "translit": "(mētera)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3384:  ",
-    "str2": "A mother. Apparently a primary word; a 'mother'."
+    "str2": "A mother. Apparently a primary word; a 'mother'.",
+    "num": 3384
   },
   {
     "word": "[who has been a mother] to me",
@@ -69,7 +77,8 @@
     "translit": "(emou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "as well.",
@@ -77,6 +86,7 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   }
 ]

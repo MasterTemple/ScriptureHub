@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "someone",
@@ -21,7 +23,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "{does} not",
@@ -29,7 +32,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "know",
@@ -37,7 +41,8 @@
     "translit": "(oiden)",
     "parse": "Verb - Perfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "how",
@@ -45,7 +50,8 @@
     "translit": "(pōs)",
     "parse": "Adverb",
     "str": "Strong's 4459:  ",
-    "str2": "Adverb from the base of pou; an interrogative particle of manner; in what way?; also as exclamation, how much!"
+    "str2": "Adverb from the base of pou; an interrogative particle of manner; in what way?; also as exclamation, how much!",
+    "num": 4459
   },
   {
     "word": "to manage",
@@ -53,7 +59,8 @@
     "translit": "(prostēnai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 4291:  ",
-    "str2": "From pro and histemi; to stand before, i.e. to preside, or to practise."
+    "str2": "From pro and histemi; to stand before, i.e. to preside, or to practise.",
+    "num": 4291
   },
   {
     "word": "[his]",
@@ -61,7 +68,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "own",
@@ -69,7 +77,8 @@
     "translit": "(idiou)",
     "parse": "Adjective - Genitive Masculine Singular",
     "str": "Strong's 2398:  ",
-    "str2": "Pertaining to self, i.e. One's own; by implication, private or separate."
+    "str2": "Pertaining to self, i.e. One's own; by implication, private or separate.",
+    "num": 2398
   },
   {
     "word": "household,",
@@ -77,7 +86,8 @@
     "translit": "(oikou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3624:  ",
-    "str2": "A dwelling; by implication, a family."
+    "str2": "A dwelling; by implication, a family.",
+    "num": 3624
   },
   {
     "word": "[how] can he care for",
@@ -85,7 +95,8 @@
     "translit": "(epimelēsetai)",
     "parse": "Verb - Future Indicative Passive - 3rd Person Singular",
     "str": "Strong's 1959:  ",
-    "str2": "To take care of, attend to. Middle voice from epi and the same as melo; to care for."
+    "str2": "To take care of, attend to. Middle voice from epi and the same as melo; to care for.",
+    "num": 1959
   },
   {
     "word": "[the] church",
@@ -93,7 +104,8 @@
     "translit": "(ekklēsias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1577:  ",
-    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation."
+    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation.",
+    "num": 1577
   },
   {
     "word": "of God?",
@@ -101,6 +113,7 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

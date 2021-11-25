@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "brothers,",
@@ -13,7 +14,8 @@
     "translit": "(adelphoi)",
     "parse": "Noun - Vocative Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "I want to remind",
@@ -21,7 +23,8 @@
     "translit": "(Gnōrizō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 1107:  ",
-    "str2": "To make known, declare, know, discover. From a derivative of ginosko; to make known; subjectively, to know."
+    "str2": "To make known, declare, know, discover. From a derivative of ginosko; to make known; subjectively, to know.",
+    "num": 1107
   },
   {
     "word": "you",
@@ -29,7 +32,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "[of] the",
@@ -37,7 +41,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "gospel",
@@ -45,7 +50,8 @@
     "translit": "(euangelion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 2098:  ",
-    "str2": "From the same as euaggelizo; a good message, i.e. The gospel."
+    "str2": "From the same as euaggelizo; a good message, i.e. The gospel.",
+    "num": 2098
   },
   {
     "word": "I preached",
@@ -53,7 +59,8 @@
     "translit": "(euēngelisamēn)",
     "parse": "Verb - Aorist Indicative Middle - 1st Person Singular",
     "str": "Strong's 2097:  ",
-    "str2": "From eu and aggelos; to announce good news especially the gospel."
+    "str2": "From eu and aggelos; to announce good news especially the gospel.",
+    "num": 2097
   },
   {
     "word": "to you,",
@@ -61,7 +68,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "which",
@@ -69,7 +77,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "you received,",
@@ -77,7 +86,8 @@
     "translit": "(parelabete)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Plural",
     "str": "Strong's 3880:  ",
-    "str2": "From para and lambano; to receive near, i.e. Associate with oneself; by analogy, to assume an office; figuratively, to learn."
+    "str2": "From para and lambano; to receive near, i.e. Associate with oneself; by analogy, to assume an office; figuratively, to learn.",
+    "num": 3880
   },
   {
     "word": "and",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "in",
@@ -93,7 +104,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "which",
@@ -101,7 +113,8 @@
     "translit": "(hō)",
     "parse": "Personal / Relative Pronoun - Dative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "you stand firm.",
@@ -109,6 +122,7 @@
     "translit": "(hestēkate)",
     "parse": "Verb - Perfect Indicative Active - 2nd Person Plural",
     "str": "Strong's 2476:  ",
-    "str2": "A prolonged form of a primary stao stah'-o; to stand, used in various applications."
+    "str2": "A prolonged form of a primary stao stah'-o; to stand, used in various applications.",
+    "num": 2476
   }
 ]

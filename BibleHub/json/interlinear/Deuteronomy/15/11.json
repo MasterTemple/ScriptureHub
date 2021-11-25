@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "there will never",
@@ -13,7 +14,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "cease",
@@ -21,7 +23,8 @@
     "translit": "(yeḥ·dal)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 2308:  ",
-    "str2": "To be flabby, desist, be lacking, idle"
+    "str2": "To be flabby, desist, be lacking, idle",
+    "num": 2308
   },
   {
     "word": "to be poor",
@@ -29,7 +32,8 @@
     "translit": "(’eḇ·yō·wn)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 34:  ",
-    "str2": "In want, needy, poor"
+    "str2": "In want, needy, poor",
+    "num": 34
   },
   {
     "word": "in",
@@ -37,7 +41,8 @@
     "translit": "(miq·qe·reḇ)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 7130:  ",
-    "str2": "The nearest part, the center"
+    "str2": "The nearest part, the center",
+    "num": 7130
   },
   {
     "word": "the land;",
@@ -45,7 +50,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "that is why",
@@ -53,7 +59,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "I",
@@ -61,7 +68,8 @@
     "translit": "(’ā·nō·ḵî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "am commanding you",
@@ -69,7 +77,8 @@
     "translit": "(mə·ṣaw·wə·ḵā)",
     "parse": "Verb - Piel - Participle - masculine singular construct | second person masculine singular",
     "str": "Strong's 6680:  ",
-    "str2": "To lay charge (upon), give charge (to), command, order"
+    "str2": "To lay charge (upon), give charge (to), command, order",
+    "num": 6680
   },
   {
     "word": "to",
@@ -77,7 +86,8 @@
     "translit": "(lê·mōr)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "open",
@@ -85,7 +95,8 @@
     "translit": "(pā·ṯō·aḥ)",
     "parse": "Verb - Qal - Infinitive absolute",
     "str": "Strong's 6605:  ",
-    "str2": "To open wide, to loosen, begin, plough, carve"
+    "str2": "To open wide, to loosen, begin, plough, carve",
+    "num": 6605
   },
   {
     "word": "wide",
@@ -93,7 +104,8 @@
     "translit": "(tip̄·taḥ)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 6605:  ",
-    "str2": "To open wide, to loosen, begin, plough, carve"
+    "str2": "To open wide, to loosen, begin, plough, carve",
+    "num": 6605
   },
   {
     "word": "your hand",
@@ -101,7 +113,8 @@
     "translit": "(yā·ḏə·ḵā)",
     "parse": "Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "to your brother",
@@ -109,7 +122,8 @@
     "translit": "(lə·’ā·ḥî·ḵā)",
     "parse": "Preposition-l | Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 251:  ",
-    "str2": "A brother, )"
+    "str2": "A brother, )",
+    "num": 251
   },
   {
     "word": "and to the poor",
@@ -117,7 +131,8 @@
     "translit": "(la·‘ă·nî·ye·ḵā)",
     "parse": "Preposition-l | Adjective - masculine singular construct | second person masculine singular",
     "str": "Strong's 6041:  ",
-    "str2": "Poor, afflicted, humble"
+    "str2": "Poor, afflicted, humble",
+    "num": 6041
   },
   {
     "word": "and needy",
@@ -125,7 +140,8 @@
     "translit": "(ū·lə·’eḇ·yō·nə·ḵā)",
     "parse": "Conjunctive waw, Preposition-l | Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 34:  ",
-    "str2": "In want, needy, poor"
+    "str2": "In want, needy, poor",
+    "num": 34
   },
   {
     "word": "in your land.",
@@ -133,6 +149,7 @@
     "translit": "(bə·’ar·ṣe·ḵā)",
     "parse": "Preposition-b | Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   }
 ]

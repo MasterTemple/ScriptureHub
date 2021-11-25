@@ -5,7 +5,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "is not",
@@ -13,7 +14,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "to marry",
@@ -21,7 +23,8 @@
     "translit": "(yiq·qaḥ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 3947:  ",
-    "str2": "To take"
+    "str2": "To take",
+    "num": 3947
   },
   {
     "word": "his father’s",
@@ -29,7 +32,8 @@
     "translit": "(’ā·ḇîw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "wife,",
@@ -37,7 +41,8 @@
     "translit": "(’ê·šeṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 802:  ",
-    "str2": "Woman, wife, female"
+    "str2": "Woman, wife, female",
+    "num": 802
   },
   {
     "word": "so that he will not",
@@ -45,7 +50,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "dishonor",
@@ -53,7 +59,8 @@
     "translit": "(yə·ḡal·leh)",
     "parse": "Verb - Piel - Imperfect - third person masculine singular",
     "str": "Strong's 1540:  ",
-    "str2": "To denude, to exile, to reveal"
+    "str2": "To denude, to exile, to reveal",
+    "num": 1540
   },
   {
     "word": "his father’s",
@@ -61,7 +68,8 @@
     "translit": "(’ā·ḇîw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "marriage bed.",
@@ -69,6 +77,7 @@
     "translit": "(kə·nap̄)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 3671:  ",
-    "str2": "An edge, extremity, a wing, a flap, a quarter, a pinnacle"
+    "str2": "An edge, extremity, a wing, a flap, a quarter, a pinnacle",
+    "num": 3671
   }
 ]

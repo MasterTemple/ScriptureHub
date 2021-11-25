@@ -5,7 +5,8 @@
     "translit": "(gam)",
     "parse": "Conjunction",
     "str": "Strong's 1571:  ",
-    "str2": "Assemblage, also, even, yea, though, both, and"
+    "str2": "Assemblage, also, even, yea, though, both, and",
+    "num": 1571
   },
   {
     "word": "when",
@@ -13,7 +14,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I cry out",
@@ -21,7 +23,8 @@
     "translit": "(’ez·‘aq)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 2199:  ",
-    "str2": "To shriek, to announce, convene publicly"
+    "str2": "To shriek, to announce, convene publicly",
+    "num": 2199
   },
   {
     "word": "and plead for help,",
@@ -29,7 +32,8 @@
     "translit": "(wa·’ă·šaw·wê·a‘)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive imperfect - first person common singular",
     "str": "Strong's 7768:  ",
-    "str2": "To be free, to halloo"
+    "str2": "To be free, to halloo",
+    "num": 7768
   },
   {
     "word": "He shuts out",
@@ -37,7 +41,8 @@
     "translit": "(śā·ṯam)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 5640:  ",
-    "str2": "To stop up, to repair, to keep secret"
+    "str2": "To stop up, to repair, to keep secret",
+    "num": 5640
   },
   {
     "word": "my prayer.",
@@ -45,6 +50,7 @@
     "translit": "(tə·p̄il·lā·ṯî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 8605:  ",
-    "str2": "Intercession, supplication, a hymn"
+    "str2": "Intercession, supplication, a hymn",
+    "num": 8605
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "second [servant]",
@@ -13,7 +14,8 @@
     "translit": "(deuteros)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1208:  ",
-    "str2": "Second; with the article: in the second place, for the second time. As the compare of duo; second."
+    "str2": "Second; with the article: in the second place, for the second time. As the compare of duo; second.",
+    "num": 1208
   },
   {
     "word": "came",
@@ -21,7 +23,8 @@
     "translit": "(ēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "[and] said,",
@@ -29,7 +32,8 @@
     "translit": "(legōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "‘Master,",
@@ -37,7 +41,8 @@
     "translit": "(kyrie)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "your",
@@ -45,7 +50,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "mina",
@@ -53,7 +59,8 @@
     "translit": "(mna)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3414:  ",
-    "str2": "A mina, a Greek monetary unit equal to 100 drachma. Of Latin origin; a mna, a certain weight."
+    "str2": "A mina, a Greek monetary unit equal to 100 drachma. Of Latin origin; a mna, a certain weight.",
+    "num": 3414
   },
   {
     "word": "has made",
@@ -61,7 +68,8 @@
     "translit": "(epoiēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "five",
@@ -69,7 +77,8 @@
     "translit": "(pente)",
     "parse": "Adjective - Accusative Feminine Plural",
     "str": "Strong's 4002:  ",
-    "str2": "Five. A primary number; 'five'."
+    "str2": "Five. A primary number; 'five'.",
+    "num": 4002
   },
   {
     "word": "minas.’",
@@ -77,6 +86,7 @@
     "translit": "(mnas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 3414:  ",
-    "str2": "A mina, a Greek monetary unit equal to 100 drachma. Of Latin origin; a mna, a certain weight."
+    "str2": "A mina, a Greek monetary unit equal to 100 drachma. Of Latin origin; a mna, a certain weight.",
+    "num": 3414
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the stones",
@@ -13,7 +14,8 @@
     "translit": "(’e·ḇen)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 68:  ",
-    "str2": "A stone"
+    "str2": "A stone",
+    "num": 68
   },
   {
     "word": "will cry out",
@@ -21,7 +23,8 @@
     "translit": "(tiz·‘āq)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 2199:  ",
-    "str2": "To shriek, to announce, convene publicly"
+    "str2": "To shriek, to announce, convene publicly",
+    "num": 2199
   },
   {
     "word": "from the wall,",
@@ -29,7 +32,8 @@
     "translit": "(miq·qîr)",
     "parse": "Preposition-m | Noun - masculine singular",
     "str": "Strong's 7023:  ",
-    "str2": "A wall"
+    "str2": "A wall",
+    "num": 7023
   },
   {
     "word": "and the rafters",
@@ -37,7 +41,8 @@
     "translit": "(wə·ḵā·p̄îs)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 3714:  ",
-    "str2": "A rafter, girder"
+    "str2": "A rafter, girder",
+    "num": 3714
   },
   {
     "word": "will echo it",
@@ -45,7 +50,8 @@
     "translit": "(ya·‘ă·nen·nāh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular | third person feminine singular",
     "str": "Strong's 6030:  ",
-    "str2": "To answer, respond"
+    "str2": "To answer, respond",
+    "num": 6030
   },
   {
     "word": "from the woodwork.",
@@ -53,6 +59,7 @@
     "translit": "(mê·‘êṣ)",
     "parse": "Preposition-m | Noun - masculine singular",
     "str": "Strong's 6086:  ",
-    "str2": "Tree, trees, wood"
+    "str2": "Tree, trees, wood",
+    "num": 6086
   }
 ]

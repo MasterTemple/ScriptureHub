@@ -5,7 +5,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "said",
@@ -13,7 +14,8 @@
     "translit": "(Eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "him,",
@@ -29,7 +32,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“Today",
@@ -37,7 +41,8 @@
     "translit": "(Sēmeron)",
     "parse": "Adverb",
     "str": "Strong's 4594:  ",
-    "str2": "Today, now. Neuter of a presumed compound of the article ho and hemera; on the day; generally, now."
+    "str2": "Today, now. Neuter of a presumed compound of the article ho and hemera; on the day; generally, now.",
+    "num": 4594
   },
   {
     "word": "salvation",
@@ -45,7 +50,8 @@
     "translit": "(sōtēria)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4991:  ",
-    "str2": "Feminine of a derivative of soter as noun; rescue or safety."
+    "str2": "Feminine of a derivative of soter as noun; rescue or safety.",
+    "num": 4991
   },
   {
     "word": "has come",
@@ -53,7 +59,8 @@
     "translit": "(egeneto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "to this",
@@ -61,7 +68,8 @@
     "translit": "(toutō)",
     "parse": "Demonstrative Pronoun - Dative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "house,",
@@ -69,7 +77,8 @@
     "translit": "(oikō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 3624:  ",
-    "str2": "A dwelling; by implication, a family."
+    "str2": "A dwelling; by implication, a family.",
+    "num": 3624
   },
   {
     "word": "because",
@@ -77,7 +86,8 @@
     "translit": "(kathoti)",
     "parse": "Adverb",
     "str": "Strong's 2530:  ",
-    "str2": "From kata; and hos and tis; according to which certain thing, i.e. As far as."
+    "str2": "From kata; and hos and tis; according to which certain thing, i.e. As far as.",
+    "num": 2530
   },
   {
     "word": "[this man]",
@@ -85,7 +95,8 @@
     "translit": "(autos)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "too",
@@ -93,7 +104,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "is",
@@ -101,7 +113,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "a son",
@@ -109,7 +122,8 @@
     "translit": "(huios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   },
   {
     "word": "of Abraham.",
@@ -117,6 +131,7 @@
     "translit": "(Abraam)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 11:  ",
-    "str2": "Abraham, progenitor of the Hebrew race. Of Hebrew origin; Abraham, the Hebrew patriarch."
+    "str2": "Abraham, progenitor of the Hebrew race. Of Hebrew origin; Abraham, the Hebrew patriarch.",
+    "num": 11
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "I",
@@ -13,7 +14,8 @@
     "translit": "(’ā·nō·ḵî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "am commanding",
@@ -21,7 +23,8 @@
     "translit": "(mə·ṣaw·wə·ḵā)",
     "parse": "Verb - Piel - Participle - masculine singular construct | second person masculine singular",
     "str": "Strong's 6680:  ",
-    "str2": "To lay charge (upon), give charge (to), command, order"
+    "str2": "To lay charge (upon), give charge (to), command, order",
+    "num": 6680
   },
   {
     "word": "you to set apart",
@@ -29,7 +32,8 @@
     "translit": "(taḇ·dîl)",
     "parse": "Verb - Hifil - Imperfect - second person masculine singular",
     "str": "Strong's 914:  ",
-    "str2": "To be divided, separate"
+    "str2": "To be divided, separate",
+    "num": 914
   },
   {
     "word": "three",
@@ -37,7 +41,8 @@
     "translit": "(šā·lōš)",
     "parse": "Number - feminine singular",
     "str": "Strong's 7969:  ",
-    "str2": "Three, third, thrice"
+    "str2": "Three, third, thrice",
+    "num": 7969
   },
   {
     "word": "cities",
@@ -45,7 +50,8 @@
     "translit": "(‘ā·rîm)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "for yourselves.",
@@ -53,6 +59,7 @@
     "translit": "(lāḵ)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

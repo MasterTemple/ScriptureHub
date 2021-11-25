@@ -5,7 +5,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "comprehend",
@@ -13,7 +14,8 @@
     "translit": "(yā·ḏə·‘ū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "[or]",
@@ -21,7 +23,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "understand,",
@@ -29,7 +32,8 @@
     "translit": "(yā·ḇî·nū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 995:  ",
-    "str2": "To separate mentally, understand"
+    "str2": "To separate mentally, understand",
+    "num": 995
   },
   {
     "word": "for",
@@ -37,7 +41,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "He has shut",
@@ -45,7 +50,8 @@
     "translit": "(ṭaḥ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 2902:  ",
-    "str2": "To overspread, overlay, coat, besmear"
+    "str2": "To overspread, overlay, coat, besmear",
+    "num": 2902
   },
   {
     "word": "their eyes",
@@ -53,7 +59,8 @@
     "translit": "(‘ê·nê·hem)",
     "parse": "Noun - cdc | third person masculine plural",
     "str": "Strong's 5869:  ",
-    "str2": "An eye, a fountain"
+    "str2": "An eye, a fountain",
+    "num": 5869
   },
   {
     "word": "so they cannot see,",
@@ -61,7 +68,8 @@
     "translit": "(mê·rə·’ō·wṯ)",
     "parse": "Preposition-m | Verb - Qal - Infinitive construct",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "and [closed] their minds",
@@ -69,7 +77,8 @@
     "translit": "(lib·bō·ṯām)",
     "parse": "Noun - masculine plural construct | third person masculine plural",
     "str": "Strong's 3826:  ",
-    "str2": "The heart"
+    "str2": "The heart",
+    "num": 3826
   },
   {
     "word": "so they cannot understand.",
@@ -77,6 +86,7 @@
     "translit": "(mê·haś·kîl)",
     "parse": "Preposition-m | Verb - Hifil - Infinitive construct",
     "str": "Strong's 7919:  ",
-    "str2": "To be, circumspect, intelligent"
+    "str2": "To be, circumspect, intelligent",
+    "num": 7919
   }
 ]

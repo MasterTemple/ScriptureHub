@@ -5,7 +5,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "to wear",
@@ -13,7 +14,8 @@
     "translit": "(hypodedemenous)",
     "parse": "Verb - Perfect Participle Middle or Passive - Accusative Masculine Plural",
     "str": "Strong's 5265:  ",
-    "str2": "From hupo and deo; to bind under one's feet, i.e. Put on shoes or sandals."
+    "str2": "From hupo and deo; to bind under one's feet, i.e. Put on shoes or sandals.",
+    "num": 5265
   },
   {
     "word": "sandals,",
@@ -21,7 +23,8 @@
     "translit": "(sandalia)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 4547:  ",
-    "str2": "A sandal. Neuter of a derivative of sandalon; a slipper or sole-pad."
+    "str2": "A sandal. Neuter of a derivative of sandalon; a slipper or sole-pad.",
+    "num": 4547
   },
   {
     "word": "[but]",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "not",
@@ -37,7 +41,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "a second",
@@ -45,7 +50,8 @@
     "translit": "(dyo)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 1417:  ",
-    "str2": "Two. A primary numeral; 'two'."
+    "str2": "Two. A primary numeral; 'two'.",
+    "num": 1417
   },
   {
     "word": "tunic.",
@@ -53,6 +59,7 @@
     "translit": "(chitōnas)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 5509:  ",
-    "str2": "A tunic, garment, undergarment. Of foreign origin; a tunic or shirt."
+    "str2": "A tunic, garment, undergarment. Of foreign origin; a tunic or shirt.",
+    "num": 5509
   }
 ]

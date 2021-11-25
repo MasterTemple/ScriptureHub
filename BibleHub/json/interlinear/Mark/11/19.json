@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "when",
@@ -13,7 +14,8 @@
     "translit": "(hotan)",
     "parse": "Conjunction",
     "str": "Strong's 3752:  ",
-    "str2": "When, whenever. From hote and an; whenever; also causatively inasmuch as."
+    "str2": "When, whenever. From hote and an; whenever; also causatively inasmuch as.",
+    "num": 3752
   },
   {
     "word": "evening",
@@ -21,7 +23,8 @@
     "translit": "(opse)",
     "parse": "Adverb",
     "str": "Strong's 3796:  ",
-    "str2": "Late, in the evening. From the same as opiso; late in the day; by extension, after the close of the day."
+    "str2": "Late, in the evening. From the same as opiso; late in the day; by extension, after the close of the day.",
+    "num": 3796
   },
   {
     "word": "came,",
@@ -29,7 +32,8 @@
     "translit": "(egeneto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "[Jesus and His disciples] went",
@@ -37,7 +41,8 @@
     "translit": "(exeporeuonto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 1607:  ",
-    "str2": "From ek and poreuomai; to depart, be discharged, proceed, project."
+    "str2": "From ek and poreuomai; to depart, be discharged, proceed, project.",
+    "num": 1607
   },
   {
     "word": "out of",
@@ -45,7 +50,8 @@
     "translit": "(exō)",
     "parse": "Preposition",
     "str": "Strong's 1854:  ",
-    "str2": "Without, outside. Adverb from ek; out(-side, of doors), literally or figuratively."
+    "str2": "Without, outside. Adverb from ek; out(-side, of doors), literally or figuratively.",
+    "num": 1854
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "city.",
@@ -61,6 +68,7 @@
     "translit": "(poleōs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4172:  ",
-    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town."
+    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town.",
+    "num": 4172
   }
 ]

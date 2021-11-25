@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I should wash myself",
@@ -13,7 +14,8 @@
     "translit": "(hiṯ·rā·ḥaṣ·tî)",
     "parse": "Verb - Hitpael - Perfect - first person common singular",
     "str": "Strong's 7364:  ",
-    "str2": "To wash, wash off or away, bathe"
+    "str2": "To wash, wash off or away, bathe",
+    "num": 7364
   },
   {
     "word": "with snow",
@@ -21,7 +23,8 @@
     "translit": "(šā·leḡ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4325:  ",
-    "str2": "Water, juice, urine, semen"
+    "str2": "Water, juice, urine, semen",
+    "num": 4325
   },
   {
     "word": "and cleanse",
@@ -29,7 +32,8 @@
     "translit": "(wa·hă·zik·kō·w·ṯî)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - first person common singular",
     "str": "Strong's 2141:  ",
-    "str2": "To be bright, clean or pure"
+    "str2": "To be bright, clean or pure",
+    "num": 2141
   },
   {
     "word": "my hands",
@@ -37,7 +41,8 @@
     "translit": "(kap·pāy)",
     "parse": "Noun - fdc | first person common singular",
     "str": "Strong's 3709:  ",
-    "str2": "Hollow or flat of the hand, palm, sole (of the foot), a pan"
+    "str2": "Hollow or flat of the hand, palm, sole (of the foot), a pan",
+    "num": 3709
   },
   {
     "word": "with lye,",
@@ -45,6 +50,7 @@
     "translit": "(bə·ḇōr)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 1253:  ",
-    "str2": "Vegetable lye, a soap for, washing, a flux for, metals"
+    "str2": "Vegetable lye, a soap for, washing, a flux for, metals",
+    "num": 1253
   }
 ]

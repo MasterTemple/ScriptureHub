@@ -5,7 +5,8 @@
     "translit": "(min-)",
     "parse": "Preposition",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "the Simeonites:",
@@ -13,7 +14,8 @@
     "translit": "(bə·nê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "7,100",
@@ -21,7 +23,8 @@
     "translit": "(šiḇ·‘aṯ)",
     "parse": "Number - masculine singular construct",
     "str": "Strong's 7651:  ",
-    "str2": "Seven, seven times, a week, an indefinite number"
+    "str2": "Seven, seven times, a week, an indefinite number",
+    "num": 7651
   },
   {
     "word": "mighty warriors,",
@@ -29,7 +32,8 @@
     "translit": "(gib·bō·w·rê)",
     "parse": "Adjective - masculine plural construct",
     "str": "Strong's 1368:  ",
-    "str2": "Powerful, warrior, tyrant"
+    "str2": "Powerful, warrior, tyrant",
+    "num": 1368
   },
   {
     "word": "ready for war.",
@@ -37,6 +41,7 @@
     "translit": "(laṣ·ṣā·ḇā)",
     "parse": "Preposition-l, Article | Noun - common singular",
     "str": "Strong's 6635:  ",
-    "str2": "A mass of persons, reg, organized for, war, a campaign"
+    "str2": "A mass of persons, reg, organized for, war, a campaign",
+    "num": 6635
   }
 ]

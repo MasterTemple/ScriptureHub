@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "not,",
@@ -13,7 +14,8 @@
     "translit": "(’a·yin)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "then listen",
@@ -21,7 +23,8 @@
     "translit": "(šə·ma‘-)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "to me;",
@@ -29,7 +32,8 @@
     "translit": "(lî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "be quiet,",
@@ -37,7 +41,8 @@
     "translit": "(ha·ḥă·rêš)",
     "parse": "Verb - Hifil - Imperative - masculine singular",
     "str": "Strong's 2790:  ",
-    "str2": "To cut in, engrave, plow, devise"
+    "str2": "To cut in, engrave, plow, devise",
+    "num": 2790
   },
   {
     "word": "and I will teach",
@@ -45,7 +50,8 @@
     "translit": "(wa·’ă·’al·lep̄·ḵā)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive imperfect Cohortative if contextual - first person common singular | second person masculine singular",
     "str": "Strong's 502:  ",
-    "str2": "To learn"
+    "str2": "To learn",
+    "num": 502
   },
   {
     "word": "you wisdom.”",
@@ -53,6 +59,7 @@
     "translit": "(ḥāḵ·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 2451:  ",
-    "str2": "Wisdom"
+    "str2": "Wisdom",
+    "num": 2451
   }
 ]

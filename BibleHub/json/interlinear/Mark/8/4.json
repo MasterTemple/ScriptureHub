@@ -5,7 +5,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "disciples",
@@ -13,7 +14,8 @@
     "translit": "(mathētai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   },
   {
     "word": "replied,",
@@ -21,7 +23,8 @@
     "translit": "(apekrithēsan)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Plural",
     "str": "Strong's 611:  ",
-    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak."
+    "str2": "From apo and krino; to conclude for oneself, i.e. to respond; by Hebraism to begin to speak.",
+    "num": 611
   },
   {
     "word": "“Where",
@@ -29,7 +32,8 @@
     "translit": "(Pothen)",
     "parse": "Adverb",
     "str": "Strong's 4159:  ",
-    "str2": "From the base of posis with enclitic adverb of origin; from which or what place, state, source or cause."
+    "str2": "From the base of posis with enclitic adverb of origin; from which or what place, state, source or cause.",
+    "num": 4159
   },
   {
     "word": "in",
@@ -37,7 +41,8 @@
     "translit": "(ep’)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "this desolate place",
@@ -45,7 +50,8 @@
     "translit": "(erēmias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2047:  ",
-    "str2": "A desert place, desert, uninhabited region. From eremos; solitude."
+    "str2": "A desert place, desert, uninhabited region. From eremos; solitude.",
+    "num": 2047
   },
   {
     "word": "could",
@@ -53,7 +59,8 @@
     "translit": "(dynēsetai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1410:  ",
-    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible."
+    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible.",
+    "num": 1410
   },
   {
     "word": "anyone",
@@ -61,7 +68,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "[find enough] bread",
@@ -69,7 +77,8 @@
     "translit": "(artōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 740:  ",
-    "str2": "Bread, a loaf, food. From airo; bread or a loaf."
+    "str2": "Bread, a loaf, food. From airo; bread or a loaf.",
+    "num": 740
   },
   {
     "word": "to feed",
@@ -77,7 +86,8 @@
     "translit": "(chortasai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 5526:  ",
-    "str2": "To feed, satisfy, fatten. From chortos; to fodder, i.e. to gorge."
+    "str2": "To feed, satisfy, fatten. From chortos; to fodder, i.e. to gorge.",
+    "num": 5526
   },
   {
     "word": "all these [people]?”",
@@ -85,6 +95,7 @@
     "translit": "(toutous)",
     "parse": "Demonstrative Pronoun - Accusative Masculine Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   }
 ]

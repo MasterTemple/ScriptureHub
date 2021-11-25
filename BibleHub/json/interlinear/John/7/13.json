@@ -5,7 +5,8 @@
     "translit": "(mentoi)",
     "parse": "Conjunction",
     "str": "Strong's 3305:  ",
-    "str2": "(a) indeed, really, (b) yet, however, nevertheless. From Not Used and toi; indeed though, i.e. However."
+    "str2": "(a) indeed, really, (b) yet, however, nevertheless. From Not Used and toi; indeed though, i.e. However.",
+    "num": 3305
   },
   {
     "word": "no one",
@@ -13,7 +14,8 @@
     "translit": "(Oudeis)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3762:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3762
   },
   {
     "word": "would speak",
@@ -21,7 +23,8 @@
     "translit": "(elalei)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "publicly",
@@ -29,7 +32,8 @@
     "translit": "(parrēsia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3954:  ",
-    "str2": "From pas and a derivative of rheo; all out-spokenness, i.e. Frankness, bluntness, publicity; by implication, assurance."
+    "str2": "From pas and a derivative of rheo; all out-spokenness, i.e. Frankness, bluntness, publicity; by implication, assurance.",
+    "num": 3954
   },
   {
     "word": "about",
@@ -37,7 +41,8 @@
     "translit": "(peri)",
     "parse": "Preposition",
     "str": "Strong's 4012:  ",
-    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time.",
+    "num": 4012
   },
   {
     "word": "Him",
@@ -45,7 +50,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "for",
@@ -53,7 +59,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "fear",
@@ -61,7 +68,8 @@
     "translit": "(phobon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 5401:  ",
-    "str2": "(a) fear, terror, alarm, (b) the object or cause of fear, (c) reverence, respect. From a primary phebomai; alarm or fright."
+    "str2": "(a) fear, terror, alarm, (b) the object or cause of fear, (c) reverence, respect. From a primary phebomai; alarm or fright.",
+    "num": 5401
   },
   {
     "word": "of the",
@@ -69,7 +77,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Jews.",
@@ -77,6 +86,7 @@
     "translit": "(Ioudaiōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 2453:  ",
-    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah."
+    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah.",
+    "num": 2453
   }
 ]

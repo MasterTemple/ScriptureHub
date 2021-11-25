@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "behold,",
@@ -13,7 +14,8 @@
     "translit": "(hin·nêh)",
     "parse": "Interjection",
     "str": "Strong's 2009:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2009
   },
   {
     "word": "the LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "comes forth",
@@ -29,7 +32,8 @@
     "translit": "(yō·ṣê)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "out of His dwelling place;",
@@ -37,7 +41,8 @@
     "translit": "(mim·mə·qō·w·mōw)",
     "parse": "Preposition-m | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 4725:  ",
-    "str2": "A standing, a spot, a condition"
+    "str2": "A standing, a spot, a condition",
+    "num": 4725
   },
   {
     "word": "He will come down",
@@ -45,7 +50,8 @@
     "translit": "(wə·yā·raḏ)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 3381:  ",
-    "str2": "To come or go down, descend"
+    "str2": "To come or go down, descend",
+    "num": 3381
   },
   {
     "word": "and tread",
@@ -53,7 +59,8 @@
     "translit": "(wə·ḏā·raḵ)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 1869:  ",
-    "str2": "To tread, to walk, to string a, bow"
+    "str2": "To tread, to walk, to string a, bow",
+    "num": 1869
   },
   {
     "word": "on",
@@ -61,7 +68,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the high places",
@@ -69,7 +77,8 @@
     "translit": "(bā·mo·ṯê)",
     "parse": "Noun - feminine plural construct",
     "str": "Strong's 1116:  ",
-    "str2": "An elevation"
+    "str2": "An elevation",
+    "num": 1116
   },
   {
     "word": "of the earth.",
@@ -77,6 +86,7 @@
     "translit": "(’ā·reṣ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   }
 ]

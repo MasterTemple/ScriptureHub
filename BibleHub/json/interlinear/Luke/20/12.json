@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he sent",
@@ -13,7 +14,8 @@
     "translit": "(pempsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 3992:  ",
-    "str2": "To send, transmit, permit to go, put forth. "
+    "str2": "To send, transmit, permit to go, put forth. ",
+    "num": 3992
   },
   {
     "word": "a third,",
@@ -21,7 +23,8 @@
     "translit": "(triton)",
     "parse": "Adverb",
     "str": "Strong's 5154:  ",
-    "str2": "Third. Ordinal from treis; third; neuter a third part, or a third time, thirdly."
+    "str2": "Third. Ordinal from treis; third; neuter a third part, or a third time, thirdly.",
+    "num": 5154
   },
   {
     "word": "but",
@@ -29,7 +32,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "they wounded",
@@ -37,7 +41,8 @@
     "translit": "(traumatisantes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 5135:  ",
-    "str2": "To wound. From trauma; to inflict a wound."
+    "str2": "To wound. From trauma; to inflict a wound.",
+    "num": 5135
   },
   {
     "word": "him",
@@ -45,7 +50,8 @@
     "translit": "(touton)",
     "parse": "Demonstrative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "[and] threw [him] out.",
@@ -53,6 +59,7 @@
     "translit": "(exebalon)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1544:  ",
-    "str2": "To throw (cast, put) out; I banish; I bring forth, produce. From ek and ballo; to eject."
+    "str2": "To throw (cast, put) out; I banish; I bring forth, produce. From ek and ballo; to eject.",
+    "num": 1544
   }
 ]

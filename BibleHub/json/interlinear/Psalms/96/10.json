@@ -5,7 +5,8 @@
     "translit": "(’im·rū)",
     "parse": "Verb - Qal - Imperative - masculine plural",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "among the nations:",
@@ -13,7 +14,8 @@
     "translit": "(ḇag·gō·w·yim)",
     "parse": "Preposition-b, Article | Noun - masculine plural",
     "str": "Strong's 1471:  ",
-    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts"
+    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+    "num": 1471
   },
   {
     "word": "“The LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "reigns.”",
@@ -29,7 +32,8 @@
     "translit": "(mā·lāḵ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 4427:  ",
-    "str2": "To reign, inceptively, to ascend the throne, to induct into royalty, to take counsel"
+    "str2": "To reign, inceptively, to ascend the throne, to induct into royalty, to take counsel",
+    "num": 4427
   },
   {
     "word": "The world",
@@ -37,7 +41,8 @@
     "translit": "(tê·ḇêl)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 8398:  ",
-    "str2": "The earth, the globe, its inhabitants, a particular land"
+    "str2": "The earth, the globe, its inhabitants, a particular land",
+    "num": 8398
   },
   {
     "word": "is firmly established;",
@@ -45,7 +50,8 @@
     "translit": "(tik·kō·wn)",
     "parse": "Verb - Nifal - Imperfect - third person feminine singular",
     "str": "Strong's 3559:  ",
-    "str2": "To be erect"
+    "str2": "To be erect",
+    "num": 3559
   },
   {
     "word": "it cannot",
@@ -53,7 +59,8 @@
     "translit": "(bal-)",
     "parse": "Adverb",
     "str": "Strong's 1077:  ",
-    "str2": "A failure, nothing, not at all, lest"
+    "str2": "A failure, nothing, not at all, lest",
+    "num": 1077
   },
   {
     "word": "be moved;",
@@ -61,7 +68,8 @@
     "translit": "(tim·mō·wṭ)",
     "parse": "Verb - Nifal - Imperfect - third person feminine singular",
     "str": "Strong's 4131:  ",
-    "str2": "To waver, to slip, shake, fall"
+    "str2": "To waver, to slip, shake, fall",
+    "num": 4131
   },
   {
     "word": "He judges",
@@ -69,7 +77,8 @@
     "translit": "(yā·ḏîn)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1777:  ",
-    "str2": "A straight course, sail direct"
+    "str2": "A straight course, sail direct",
+    "num": 1777
   },
   {
     "word": "the peoples",
@@ -77,7 +86,8 @@
     "translit": "(‘am·mîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "with equity.",
@@ -85,6 +95,7 @@
     "translit": "(bə·mê·šā·rîm)",
     "parse": "Preposition-b | Noun - masculine plural",
     "str": "Strong's 4339:  ",
-    "str2": "Evenness, prosperity, concord, straightness, rectitude"
+    "str2": "Evenness, prosperity, concord, straightness, rectitude",
+    "num": 4339
   }
 ]

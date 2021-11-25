@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "not even",
@@ -13,7 +14,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "a hair",
@@ -21,7 +23,8 @@
     "translit": "(thrix)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2359:  ",
-    "str2": "Hair (of the head or of animals). Genitive case trichos, etc. of uncertain derivation; hair."
+    "str2": "Hair (of the head or of animals). Genitive case trichos, etc. of uncertain derivation; hair.",
+    "num": 2359
   },
   {
     "word": "of",
@@ -29,7 +32,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "your",
@@ -37,7 +41,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "head",
@@ -45,7 +50,8 @@
     "translit": "(kephalēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2776:  ",
-    "str2": "From the primary kapto; the head, literally or figuratively."
+    "str2": "From the primary kapto; the head, literally or figuratively.",
+    "num": 2776
   },
   {
     "word": "will perish.",
@@ -53,6 +59,7 @@
     "translit": "(apolētai)",
     "parse": "Verb - Aorist Subjunctive Middle - 3rd Person Singular",
     "str": "Strong's 622:  ",
-    "str2": "From apo and the base of olethros; to destroy fully, literally or figuratively."
+    "str2": "From apo and the base of olethros; to destroy fully, literally or figuratively.",
+    "num": 622
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(hă·lō·w)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "know",
@@ -13,7 +14,8 @@
     "translit": "(yā·ḏa‘·tā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "what",
@@ -21,7 +23,8 @@
     "translit": "(māh-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "these are?”",
@@ -29,7 +32,8 @@
     "translit": "(’êl·leh)",
     "parse": "Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   },
   {
     "word": "he inquired.",
@@ -37,7 +41,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“No,",
@@ -45,7 +50,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "my lord,”",
@@ -53,7 +59,8 @@
     "translit": "(’ă·ḏō·nî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 113:  ",
-    "str2": "Sovereign, controller"
+    "str2": "Sovereign, controller",
+    "num": 113
   },
   {
     "word": "I replied.",
@@ -61,6 +68,7 @@
     "translit": "(wā·’ō·mar)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - first person common singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   }
 ]

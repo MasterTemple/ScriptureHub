@@ -5,7 +5,8 @@
     "translit": "(epoiēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "what",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "she could",
@@ -21,7 +23,8 @@
     "translit": "(eschen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "to anoint",
@@ -29,7 +32,8 @@
     "translit": "(myrisai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 3462:  ",
-    "str2": "To anoint. From muron; to apply unguent to."
+    "str2": "To anoint. From muron; to apply unguent to.",
+    "num": 3462
   },
   {
     "word": "My",
@@ -37,7 +41,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "body",
@@ -45,7 +50,8 @@
     "translit": "(sōma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4983:  ",
-    "str2": "Body, flesh; the body of the Church. From sozo; the body, used in a very wide application, literally or figuratively."
+    "str2": "Body, flesh; the body of the Church. From sozo; the body, used in a very wide application, literally or figuratively.",
+    "num": 4983
   },
   {
     "word": "in advance",
@@ -53,7 +59,8 @@
     "translit": "(proelaben)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 4301:  ",
-    "str2": "From pro and lambano; to take in advance, i.e. eat before others have an opportunity; to anticipate, surprise."
+    "str2": "From pro and lambano; to take in advance, i.e. eat before others have an opportunity; to anticipate, surprise.",
+    "num": 4301
   },
   {
     "word": "of",
@@ -61,7 +68,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "[My]",
@@ -69,7 +77,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "burial.",
@@ -77,6 +86,7 @@
     "translit": "(entaphiasmon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 1780:  ",
-    "str2": "Embalming, preparation of a body for burial. From entaphiazo; preparation for interment."
+    "str2": "Embalming, preparation of a body for burial. From entaphiazo; preparation for interment.",
+    "num": 1780
   }
 ]

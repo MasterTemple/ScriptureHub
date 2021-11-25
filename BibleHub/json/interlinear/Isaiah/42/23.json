@@ -5,7 +5,8 @@
     "translit": "(mî)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "among you",
@@ -13,7 +14,8 @@
     "translit": "(ḇā·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "will pay attention",
@@ -21,7 +23,8 @@
     "translit": "(ya·’ă·zîn)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular",
     "str": "Strong's 238:  ",
-    "str2": "To broaden out the ear, to listen"
+    "str2": "To broaden out the ear, to listen",
+    "num": 238
   },
   {
     "word": "to this?",
@@ -29,7 +32,8 @@
     "translit": "(zōṯ)",
     "parse": "Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "[Who] will listen",
@@ -37,7 +41,8 @@
     "translit": "(yaq·šiḇ)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular",
     "str": "Strong's 7181:  ",
-    "str2": "To prick up the ears, hearken"
+    "str2": "To prick up the ears, hearken",
+    "num": 7181
   },
   {
     "word": "and obey",
@@ -45,7 +50,8 @@
     "translit": "(wə·yiš·ma‘)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect - third person masculine singular",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "hereafter?",
@@ -53,6 +59,7 @@
     "translit": "(lə·’ā·ḥō·wr)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 268:  ",
-    "str2": "The hinder part, behind, backward, the West"
+    "str2": "The hinder part, behind, backward, the West",
+    "num": 268
   }
 ]

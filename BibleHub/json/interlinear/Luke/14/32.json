@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "[he is unable],",
@@ -21,7 +23,8 @@
     "translit": "(mē¦ge)",
     "parse": "Particle",
     "str": "Strong's 1490:  ",
-    "str2": "But if not, else, otherwise. From ei, de, and me; but if not."
+    "str2": "But if not, else, otherwise. From ei, de, and me; but if not.",
+    "num": 1490
   },
   {
     "word": "he will send",
@@ -29,7 +32,8 @@
     "translit": "(aposteilas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 649:  ",
-    "str2": "From apo and stello; set apart, i.e. to send out literally or figuratively."
+    "str2": "From apo and stello; set apart, i.e. to send out literally or figuratively.",
+    "num": 649
   },
   {
     "word": "a delegation",
@@ -37,7 +41,8 @@
     "translit": "(presbeian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4242:  ",
-    "str2": "An embassy, delegation, eldership. From presbeuo; seniority, i.e. an embassy."
+    "str2": "An embassy, delegation, eldership. From presbeuo; seniority, i.e. an embassy.",
+    "num": 4242
   },
   {
     "word": "[while the other king]",
@@ -45,7 +50,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "is",
@@ -53,7 +59,8 @@
     "translit": "(ontos)",
     "parse": "Verb - Present Participle Active - Genitive Masculine Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "still",
@@ -61,7 +68,8 @@
     "translit": "(eti)",
     "parse": "Adverb",
     "str": "Strong's 2089:  ",
-    "str2": "(a) of time: still, yet, even now, (b) of degree: even, further, more, in addition. Perhaps akin to etos; 'yet, ' still."
+    "str2": "(a) of time: still, yet, even now, (b) of degree: even, further, more, in addition. Perhaps akin to etos; 'yet, ' still.",
+    "num": 2089
   },
   {
     "word": "far off,",
@@ -69,7 +77,8 @@
     "translit": "(porrō)",
     "parse": "Adverb",
     "str": "Strong's 4206:  ",
-    "str2": "Far, far off, at a distance. Adverb from pro; forwards, i.e. At a distance."
+    "str2": "Far, far off, at a distance. Adverb from pro; forwards, i.e. At a distance.",
+    "num": 4206
   },
   {
     "word": "to ask",
@@ -77,7 +86,8 @@
     "translit": "(erōta)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2065:  ",
-    "str2": "Apparently from ereo; to interrogate; by implication, to request."
+    "str2": "Apparently from ereo; to interrogate; by implication, to request.",
+    "num": 2065
   },
   {
     "word": "for",
@@ -85,7 +95,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "terms of peace.",
@@ -93,6 +104,7 @@
     "translit": "(eirēnēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1515:  ",
-    "str2": "Probably from a primary verb eiro; peace; by implication, prosperity."
+    "str2": "Probably from a primary verb eiro; peace; by implication, prosperity.",
+    "num": 1515
   }
 ]

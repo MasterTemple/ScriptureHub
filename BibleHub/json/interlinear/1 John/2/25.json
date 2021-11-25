@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "this",
@@ -13,7 +14,8 @@
     "translit": "(hautē)",
     "parse": "Demonstrative Pronoun - Nominative Feminine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "is",
@@ -21,7 +23,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(hē)",
     "parse": "Article - Nominative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "promise",
@@ -37,7 +41,8 @@
     "translit": "(epangelia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1860:  ",
-    "str2": "A promise. From epaggello; an announcement."
+    "str2": "A promise. From epaggello; an announcement.",
+    "num": 1860
   },
   {
     "word": "that",
@@ -45,7 +50,8 @@
     "translit": "(hēn)",
     "parse": "Personal / Relative Pronoun - Accusative Feminine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "He Himself",
@@ -53,7 +59,8 @@
     "translit": "(autos)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "[made]",
@@ -61,7 +68,8 @@
     "translit": "(epēngeilato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1861:  ",
-    "str2": "From epi and the base of aggelos; to announce upon, i.e. to engage to do something, to assert something respecting oneself."
+    "str2": "From epi and the base of aggelos; to announce upon, i.e. to engage to do something, to assert something respecting oneself.",
+    "num": 1861
   },
   {
     "word": "to us:",
@@ -69,7 +77,8 @@
     "translit": "(hēmin)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "eternal",
@@ -77,7 +86,8 @@
     "translit": "(aiōnion)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 166:  ",
-    "str2": "From aion; perpetual."
+    "str2": "From aion; perpetual.",
+    "num": 166
   },
   {
     "word": "life.",
@@ -85,6 +95,7 @@
     "translit": "(zōēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2222:  ",
-    "str2": "Life, both of physical (present) and of spiritual (particularly future) existence. From zao; life."
+    "str2": "Life, both of physical (present) and of spiritual (particularly future) existence. From zao; life.",
+    "num": 2222
   }
 ]

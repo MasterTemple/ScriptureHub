@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "behold,",
@@ -13,7 +14,8 @@
     "translit": "(hin·nî)",
     "parse": "Interjection | first person common singular",
     "str": "Strong's 2005:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2005
   },
   {
     "word": "I am on your side;",
@@ -21,7 +23,8 @@
     "translit": "(’ă·lê·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "I will turn",
@@ -29,7 +32,8 @@
     "translit": "(ū·p̄ā·nî·ṯî)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - first person common singular",
     "str": "Strong's 6437:  ",
-    "str2": "To turn, to face, appear, look"
+    "str2": "To turn, to face, appear, look",
+    "num": 6437
   },
   {
     "word": "toward you,",
@@ -37,7 +41,8 @@
     "translit": "(’ă·lê·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "and you will be tilled",
@@ -45,7 +50,8 @@
     "translit": "(wə·ne·‘ĕ·ḇaḏ·tem)",
     "parse": "Conjunctive waw | Verb - Nifal - Conjunctive perfect - second person masculine plural",
     "str": "Strong's 5647:  ",
-    "str2": "To work, to serve, till, enslave"
+    "str2": "To work, to serve, till, enslave",
+    "num": 5647
   },
   {
     "word": "and sown.",
@@ -53,6 +59,7 @@
     "translit": "(wə·niz·ra‘·tem)",
     "parse": "Conjunctive waw | Verb - Nifal - Conjunctive perfect - second person masculine plural",
     "str": "Strong's 2232:  ",
-    "str2": "To sow, to disseminate, plant, fructify"
+    "str2": "To sow, to disseminate, plant, fructify",
+    "num": 2232
   }
 ]

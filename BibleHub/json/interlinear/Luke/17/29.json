@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "on the",
@@ -13,7 +14,8 @@
     "translit": "(hē)",
     "parse": "Personal / Relative Pronoun - Dative Feminine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "day",
@@ -21,7 +23,8 @@
     "translit": "(hēmera)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "Lot",
@@ -29,7 +32,8 @@
     "translit": "(Lōt)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3091:  ",
-    "str2": "(Hebrew), Lot, nephew of Abraham. Of Hebrew origin; Lot, a patriarch."
+    "str2": "(Hebrew), Lot, nephew of Abraham. Of Hebrew origin; Lot, a patriarch.",
+    "num": 3091
   },
   {
     "word": "left",
@@ -37,7 +41,8 @@
     "translit": "(exēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1831:  ",
-    "str2": "To go out, come out. From ek and erchomai; to issue."
+    "str2": "To go out, come out. From ek and erchomai; to issue.",
+    "num": 1831
   },
   {
     "word": "Sodom,",
@@ -45,7 +50,8 @@
     "translit": "(Sodomōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 4670:  ",
-    "str2": "Sodom. Plural of Hebrew origin; Sodoma, a place in Palestine."
+    "str2": "Sodom. Plural of Hebrew origin; Sodoma, a place in Palestine.",
+    "num": 4670
   },
   {
     "word": "fire",
@@ -53,7 +59,8 @@
     "translit": "(pyr)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4442:  ",
-    "str2": "Fire; the heat of the sun, lightning; fig: strife, trials; the eternal fire. A primary word; 'fire'."
+    "str2": "Fire; the heat of the sun, lightning; fig: strife, trials; the eternal fire. A primary word; 'fire'.",
+    "num": 4442
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "brimstone",
@@ -69,7 +77,8 @@
     "translit": "(theion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 2303:  ",
-    "str2": "Brimstone, sulfur. Probably neuter of theios; sulphur."
+    "str2": "Brimstone, sulfur. Probably neuter of theios; sulphur.",
+    "num": 2303
   },
   {
     "word": "rained down",
@@ -77,7 +86,8 @@
     "translit": "(ebrexen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1026:  ",
-    "str2": "To moisten, rain, send rain. A primary verb; to moisten."
+    "str2": "To moisten, rain, send rain. A primary verb; to moisten.",
+    "num": 1026
   },
   {
     "word": "from",
@@ -85,7 +95,8 @@
     "translit": "(ap’)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "heaven",
@@ -93,7 +104,8 @@
     "translit": "(ouranou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3772:  ",
-    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel."
+    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel.",
+    "num": 3772
   },
   {
     "word": "and",
@@ -101,7 +113,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "destroyed",
@@ -109,7 +122,8 @@
     "translit": "(apōlesen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 622:  ",
-    "str2": "From apo and the base of olethros; to destroy fully, literally or figuratively."
+    "str2": "From apo and the base of olethros; to destroy fully, literally or figuratively.",
+    "num": 622
   },
   {
     "word": "them all.",
@@ -117,6 +131,7 @@
     "translit": "(pantas)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   }
 ]

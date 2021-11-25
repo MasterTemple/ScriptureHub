@@ -5,7 +5,8 @@
     "translit": "(hin·nêh)",
     "parse": "Interjection",
     "str": "Strong's 2009:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2009
   },
   {
     "word": "this",
@@ -13,7 +14,8 @@
     "translit": "(haz·zeh)",
     "parse": "Article | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "day",
@@ -21,7 +23,8 @@
     "translit": "(hay·yō·wm)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "you have seen",
@@ -29,7 +32,8 @@
     "translit": "(rā·’ū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "with your own eyes",
@@ -37,7 +41,8 @@
     "translit": "(‘ê·ne·ḵā)",
     "parse": "Noun - cdc | second person masculine singular",
     "str": "Strong's 5869:  ",
-    "str2": "An eye, a fountain"
+    "str2": "An eye, a fountain",
+    "num": 5869
   },
   {
     "word": "that",
@@ -45,7 +50,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "the LORD",
@@ -53,7 +59,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "delivered you",
@@ -61,7 +68,8 @@
     "translit": "(nə·ṯā·nə·ḵā)",
     "parse": "Verb - Qal - Perfect - third person masculine singular | second person masculine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "into my hand",
@@ -69,7 +77,8 @@
     "translit": "(bə·yā·ḏî)",
     "parse": "Preposition-b | Noun - feminine singular construct | first person common singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "in the cave.",
@@ -77,7 +86,8 @@
     "translit": "(bam·mə·‘ā·rāh)",
     "parse": "Preposition-b, Article | Noun - feminine singular",
     "str": "Strong's 4631:  ",
-    "str2": "A cavern"
+    "str2": "A cavern",
+    "num": 4631
   },
   {
     "word": "I was told",
@@ -85,7 +95,8 @@
     "translit": "(wə·’ā·mar)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "to kill you,",
@@ -93,7 +104,8 @@
     "translit": "(la·hă·rā·ḡă·ḵā)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct | second person masculine singular",
     "str": "Strong's 2026:  ",
-    "str2": "To smite with deadly intent"
+    "str2": "To smite with deadly intent",
+    "num": 2026
   },
   {
     "word": "but I spared",
@@ -101,7 +113,8 @@
     "translit": "(wat·tā·ḥās)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
     "str": "Strong's 2347:  ",
-    "str2": "To pity, look upon with compassion"
+    "str2": "To pity, look upon with compassion",
+    "num": 2347
   },
   {
     "word": "you",
@@ -109,7 +122,8 @@
     "translit": "(‘ā·le·ḵā)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "and said,",
@@ -117,7 +131,8 @@
     "translit": "(wā·’ō·mar)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - first person common singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘I will not",
@@ -125,7 +140,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "lift",
@@ -133,7 +149,8 @@
     "translit": "(’eš·laḥ)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 7971:  ",
-    "str2": "To send away, for, out"
+    "str2": "To send away, for, out",
+    "num": 7971
   },
   {
     "word": "my hand",
@@ -141,7 +158,8 @@
     "translit": "(yā·ḏî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "against my lord,",
@@ -149,7 +167,8 @@
     "translit": "(ba·ḏō·nî)",
     "parse": "Preposition-b | Noun - masculine singular construct | first person common singular",
     "str": "Strong's 113:  ",
-    "str2": "Sovereign, controller"
+    "str2": "Sovereign, controller",
+    "num": 113
   },
   {
     "word": "since",
@@ -157,7 +176,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "he",
@@ -165,7 +185,8 @@
     "translit": "(hū)",
     "parse": "Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "is the LORD?s",
@@ -173,7 +194,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "anointed.?",
@@ -181,6 +203,7 @@
     "translit": "(mə·šî·aḥ)",
     "parse": "Adjective - masculine singular construct",
     "str": "Strong's 4899:  ",
-    "str2": "Anointed, a consecrated person, the Messiah"
+    "str2": "Anointed, a consecrated person, the Messiah",
+    "num": 4899
   }
 ]

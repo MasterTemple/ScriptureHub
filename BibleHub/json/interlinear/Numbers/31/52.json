@@ -5,7 +5,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the gold",
@@ -13,7 +14,8 @@
     "translit": "(zə·haḇ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 2091:  ",
-    "str2": "Gold, something gold-colored, as oil, a clear sky"
+    "str2": "Gold, something gold-colored, as oil, a clear sky",
+    "num": 2091
   },
   {
     "word": "that the commanders",
@@ -21,7 +23,8 @@
     "translit": "(śā·rê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 8269:  ",
-    "str2": "Chieftain, chief, ruler, official, captain, prince"
+    "str2": "Chieftain, chief, ruler, official, captain, prince",
+    "num": 8269
   },
   {
     "word": "of thousands",
@@ -29,7 +32,8 @@
     "translit": "(’e·lep̄)",
     "parse": "Number - masculine singular",
     "str": "Strong's 505:  ",
-    "str2": "A thousand"
+    "str2": "A thousand",
+    "num": 505
   },
   {
     "word": "and of hundreds",
@@ -37,7 +41,8 @@
     "translit": "(mê·’ō·wṯ)",
     "parse": "Number - feminine plural",
     "str": "Strong's 3967:  ",
-    "str2": "A hundred"
+    "str2": "A hundred",
+    "num": 3967
   },
   {
     "word": "presented",
@@ -45,7 +50,8 @@
     "translit": "(hê·rî·mū)",
     "parse": "Verb - Hifil - Perfect - third person common plural",
     "str": "Strong's 7311:  ",
-    "str2": "To be high actively, to rise, raise"
+    "str2": "To be high actively, to rise, raise",
+    "num": 7311
   },
   {
     "word": "as an offering",
@@ -53,7 +59,8 @@
     "translit": "(hat·tə·rū·māh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 8641:  ",
-    "str2": "Contribution, offering (for sacred uses)"
+    "str2": "Contribution, offering (for sacred uses)",
+    "num": 8641
   },
   {
     "word": "to the LORD",
@@ -61,7 +68,8 @@
     "translit": "(Yah·weh)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "weighed 16,750",
@@ -69,7 +77,8 @@
     "translit": "(šiš·šāh)",
     "parse": "Number - masculine singular",
     "str": "Strong's 8337:  ",
-    "str2": "Six (a cardinal number)"
+    "str2": "Six (a cardinal number)",
+    "num": 8337
   },
   {
     "word": "shekels.",
@@ -77,6 +86,7 @@
     "translit": "(šā·qel)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 8255:  ",
-    "str2": "A weight, a commercial standard"
+    "str2": "A weight, a commercial standard",
+    "num": 8255
   }
 ]

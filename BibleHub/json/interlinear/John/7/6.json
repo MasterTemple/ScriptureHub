@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "Jesus",
@@ -13,7 +14,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "told",
@@ -21,7 +23,8 @@
     "translit": "(Legei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "them,",
@@ -29,7 +32,8 @@
     "translit": "(autois)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“Although",
@@ -37,7 +41,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "your",
@@ -45,7 +50,8 @@
     "translit": "(hymeteros)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 2nd Person Plural",
     "str": "Strong's 5212:  ",
-    "str2": "Your, yours. From humeis; yours, i.e. Pertaining to you."
+    "str2": "Your, yours. From humeis; yours, i.e. Pertaining to you.",
+    "num": 5212
   },
   {
     "word": "time",
@@ -53,7 +59,8 @@
     "translit": "(kairos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2540:  ",
-    "str2": "Fitting season, season, opportunity, occasion, time. Of uncertain affinity; an occasion, i.e. Set or proper time."
+    "str2": "Fitting season, season, opportunity, occasion, time. Of uncertain affinity; an occasion, i.e. Set or proper time.",
+    "num": 2540
   },
   {
     "word": "is",
@@ -61,7 +68,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "always",
@@ -69,7 +77,8 @@
     "translit": "(pantote)",
     "parse": "Adverb",
     "str": "Strong's 3842:  ",
-    "str2": "Always, at all times, ever. From pas and hote; every when, i.e. At all times."
+    "str2": "Always, at all times, ever. From pas and hote; every when, i.e. At all times.",
+    "num": 3842
   },
   {
     "word": "at hand,",
@@ -77,7 +86,8 @@
     "translit": "(hetoimos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 2092:  ",
-    "str2": "Ready, prepared. From an old noun heteos; adjusted, i.e. Ready."
+    "str2": "Ready, prepared. From an old noun heteos; adjusted, i.e. Ready.",
+    "num": 2092
   },
   {
     "word": "My",
@@ -85,7 +95,8 @@
     "translit": "(emos)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 1st Person Singular",
     "str": "Strong's 1699:  ",
-    "str2": "My, mine. From the oblique cases of ego; my."
+    "str2": "My, mine. From the oblique cases of ego; my.",
+    "num": 1699
   },
   {
     "word": "time",
@@ -93,7 +104,8 @@
     "translit": "(kairos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2540:  ",
-    "str2": "Fitting season, season, opportunity, occasion, time. Of uncertain affinity; an occasion, i.e. Set or proper time."
+    "str2": "Fitting season, season, opportunity, occasion, time. Of uncertain affinity; an occasion, i.e. Set or proper time.",
+    "num": 2540
   },
   {
     "word": "{has} not yet",
@@ -101,7 +113,8 @@
     "translit": "(oupō)",
     "parse": "Adverb",
     "str": "Strong's 3768:  ",
-    "str2": "Not yet. From ou and po; not yet."
+    "str2": "Not yet. From ou and po; not yet.",
+    "num": 3768
   },
   {
     "word": "come.",
@@ -109,6 +122,7 @@
     "translit": "(parestin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3918:  ",
-    "str2": "From para and eimi; to be near, i.e. At hand; neuter present participle time being, or property."
+    "str2": "From para and eimi; to be near, i.e. At hand; neuter present participle time being, or property.",
+    "num": 3918
   }
 ]

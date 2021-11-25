@@ -5,7 +5,8 @@
     "translit": "(euthys)",
     "parse": "Adverb",
     "str": "Strong's 2112:  ",
-    "str2": "Immediately, soon, at once. Adverb from euthus; directly, i.e. At once or soon."
+    "str2": "Immediately, soon, at once. Adverb from euthus; directly, i.e. At once or soon.",
+    "num": 2112
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "girl",
@@ -21,7 +23,8 @@
     "translit": "(korasion)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 2877:  ",
-    "str2": "A little girl, a young girl; a girl, maiden. Neuter of a presumed derivative of kore; a girl."
+    "str2": "A little girl, a young girl; a girl, maiden. Neuter of a presumed derivative of kore; a girl.",
+    "num": 2877
   },
   {
     "word": "got up",
@@ -29,7 +32,8 @@
     "translit": "(anestē)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 450:  ",
-    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up."
+    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up.",
+    "num": 450
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "began to walk around.",
@@ -45,7 +50,8 @@
     "translit": "(periepatei)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 4043:  ",
-    "str2": "From peri and pateo; to tread all around, i.e. Walk at large; figuratively, to live, deport oneself, follow."
+    "str2": "From peri and pateo; to tread all around, i.e. Walk at large; figuratively, to live, deport oneself, follow.",
+    "num": 4043
   },
   {
     "word": "She was",
@@ -53,7 +59,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "twelve",
@@ -61,7 +68,8 @@
     "translit": "(dōdeka)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 1427:  ",
-    "str2": "Twelve; the usual way in which the Twelve apostles of Jesus are referred to. From duo and deka; two and ten, i.e. A dozen."
+    "str2": "Twelve; the usual way in which the Twelve apostles of Jesus are referred to. From duo and deka; two and ten, i.e. A dozen.",
+    "num": 1427
   },
   {
     "word": "years old,",
@@ -69,7 +77,8 @@
     "translit": "(etōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 2094:  ",
-    "str2": "A year. Apparently a primary word; a year."
+    "str2": "A year. Apparently a primary word; a year.",
+    "num": 2094
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "at once",
@@ -85,7 +95,8 @@
     "translit": "(euthys)",
     "parse": "Adverb",
     "str": "Strong's 2112:  ",
-    "str2": "Immediately, soon, at once. Adverb from euthus; directly, i.e. At once or soon."
+    "str2": "Immediately, soon, at once. Adverb from euthus; directly, i.e. At once or soon.",
+    "num": 2112
   },
   {
     "word": "they were overcome",
@@ -93,7 +104,8 @@
     "translit": "(exestēsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1839:  ",
-    "str2": "From ek and histemi; to put out of wits, i.e. Astound, or become astounded, insane."
+    "str2": "From ek and histemi; to put out of wits, i.e. Astound, or become astounded, insane.",
+    "num": 1839
   },
   {
     "word": "with astonishment.",
@@ -101,6 +113,7 @@
     "translit": "(ekstasei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 1611:  ",
-    "str2": "From existemi; a displacement of the mind, i.e. Bewilderment, 'ecstasy'."
+    "str2": "From existemi; a displacement of the mind, i.e. Bewilderment, 'ecstasy'.",
+    "num": 1611
   }
 ]

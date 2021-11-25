@@ -5,7 +5,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "of",
@@ -13,7 +14,8 @@
     "translit": "(ex)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "their",
@@ -21,7 +23,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "own",
@@ -29,7 +32,8 @@
     "translit": "(idios)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 2398:  ",
-    "str2": "Pertaining to self, i.e. One's own; by implication, private or separate."
+    "str2": "Pertaining to self, i.e. One's own; by implication, private or separate.",
+    "num": 2398
   },
   {
     "word": "prophets",
@@ -37,7 +41,8 @@
     "translit": "(prophētēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4396:  ",
-    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet."
+    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet.",
+    "num": 4396
   },
   {
     "word": "has said,",
@@ -45,7 +50,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“Cretans",
@@ -53,7 +59,8 @@
     "translit": "(Krētes)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 2912:  ",
-    "str2": "A Cretan, an inhabitant of Crete. From Krete; a Cretan, i.e. Inhabitant of Crete."
+    "str2": "A Cretan, an inhabitant of Crete. From Krete; a Cretan, i.e. Inhabitant of Crete.",
+    "num": 2912
   },
   {
     "word": "[are] always",
@@ -61,7 +68,8 @@
     "translit": "(aei)",
     "parse": "Adverb",
     "str": "Strong's 104:  ",
-    "str2": "From an obsolete primary noun; 'ever, 'by qualification regularly; by implication, earnestly."
+    "str2": "From an obsolete primary noun; 'ever, 'by qualification regularly; by implication, earnestly.",
+    "num": 104
   },
   {
     "word": "liars,",
@@ -69,7 +77,8 @@
     "translit": "(pseustai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 5583:  ",
-    "str2": "A liar, deceiver. From pseudomai; a falsifier."
+    "str2": "A liar, deceiver. From pseudomai; a falsifier.",
+    "num": 5583
   },
   {
     "word": "evil",
@@ -77,7 +86,8 @@
     "translit": "(kaka)",
     "parse": "Adjective - Nominative Neuter Plural",
     "str": "Strong's 2556:  ",
-    "str2": "Bad, evil, in the widest sense. Apparently a primary word; worthless, i.e. depraved, or injurious."
+    "str2": "Bad, evil, in the widest sense. Apparently a primary word; worthless, i.e. depraved, or injurious.",
+    "num": 2556
   },
   {
     "word": "beasts,",
@@ -85,7 +95,8 @@
     "translit": "(thēria)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 2342:  ",
-    "str2": "Properly: a wild beast, hence: any animal; met: a brute. Diminutive from the same as thera; a dangerous animal."
+    "str2": "Properly: a wild beast, hence: any animal; met: a brute. Diminutive from the same as thera; a dangerous animal.",
+    "num": 2342
   },
   {
     "word": "lazy",
@@ -93,7 +104,8 @@
     "translit": "(argai)",
     "parse": "Adjective - Nominative Feminine Plural",
     "str": "Strong's 692:  ",
-    "str2": "Idle, lazy, thoughtless, unprofitable, injurious. (by implication) lazy, useless."
+    "str2": "Idle, lazy, thoughtless, unprofitable, injurious. (by implication) lazy, useless.",
+    "num": 692
   },
   {
     "word": "gluttons.”",
@@ -101,6 +113,7 @@
     "translit": "(gasteres)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 1064:  ",
-    "str2": "The stomach; by analogy, the matrix; figuratively, a gourmand."
+    "str2": "The stomach; by analogy, the matrix; figuratively, a gourmand.",
+    "num": 1064
   }
 ]

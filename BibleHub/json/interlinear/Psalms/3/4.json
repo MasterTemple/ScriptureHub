@@ -5,7 +5,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "I cry aloud,",
@@ -21,7 +23,8 @@
     "translit": "(’eq·rā)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 7121:  ",
-    "str2": "To call, proclaim, read"
+    "str2": "To call, proclaim, read",
+    "num": 7121
   },
   {
     "word": "and He answers",
@@ -29,7 +32,8 @@
     "translit": "(way·ya·‘ă·nê·nî)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular | first person common singular",
     "str": "Strong's 6030:  ",
-    "str2": "To answer, respond"
+    "str2": "To answer, respond",
+    "num": 6030
   },
   {
     "word": "me from His holy",
@@ -37,7 +41,8 @@
     "translit": "(qā·ḏə·šōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 6944:  ",
-    "str2": "A sacred place, thing, sanctity"
+    "str2": "A sacred place, thing, sanctity",
+    "num": 6944
   },
   {
     "word": "hill.",
@@ -45,7 +50,8 @@
     "translit": "(mê·har)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 2022:  ",
-    "str2": "Mountain, hill, hill country"
+    "str2": "Mountain, hill, hill country",
+    "num": 2022
   },
   {
     "word": "Selah",
@@ -53,6 +59,7 @@
     "translit": "(se·lāh)",
     "parse": "Interjection",
     "str": "Strong's 5542:  ",
-    "str2": "Suspension, pause"
+    "str2": "Suspension, pause",
+    "num": 5542
   }
 ]

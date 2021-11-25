@@ -5,7 +5,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "this",
@@ -13,7 +14,8 @@
     "translit": "(zōṯ)",
     "parse": "Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "I awoke",
@@ -21,7 +23,8 @@
     "translit": "(hĕ·qî·ṣō·ṯî)",
     "parse": "Verb - Hifil - Perfect - first person common singular",
     "str": "Strong's 6974:  ",
-    "str2": "Arise, be awake, watch "
+    "str2": "Arise, be awake, watch ",
+    "num": 6974
   },
   {
     "word": "and looked around.",
@@ -29,7 +32,8 @@
     "translit": "(wā·’er·’eh)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - first person common singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "My sleep",
@@ -37,7 +41,8 @@
     "translit": "(ū·šə·nā·ṯî)",
     "parse": "Conjunctive waw | Noun - feminine singular construct | first person common singular",
     "str": "Strong's 8142:  ",
-    "str2": "Sleep"
+    "str2": "Sleep",
+    "num": 8142
   },
   {
     "word": "had been most pleasant to me.",
@@ -45,6 +50,7 @@
     "translit": "(‘ā·rə·ḇāh)",
     "parse": "Verb - Qal - Perfect - third person feminine singular",
     "str": "Strong's 6149:  ",
-    "str2": "To be sweet or pleasing"
+    "str2": "To be sweet or pleasing",
+    "num": 6149
   }
 ]

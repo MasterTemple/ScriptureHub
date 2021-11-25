@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you are righteous,",
@@ -13,7 +14,8 @@
     "translit": "(ṣā·ḏaq·tā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 6663:  ",
-    "str2": "To be just or righteous"
+    "str2": "To be just or righteous",
+    "num": 6663
   },
   {
     "word": "what",
@@ -21,7 +23,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "do you give Him,",
@@ -29,7 +32,8 @@
     "translit": "(tit·ten-)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "or",
@@ -37,7 +41,8 @@
     "translit": "(’ōw)",
     "parse": "Conjunction",
     "str": "Strong's 176:  ",
-    "str2": "Desire, if"
+    "str2": "Desire, if",
+    "num": 176
   },
   {
     "word": "what",
@@ -45,7 +50,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "does He receive",
@@ -53,7 +59,8 @@
     "translit": "(yiq·qāḥ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 3947:  ",
-    "str2": "To take"
+    "str2": "To take",
+    "num": 3947
   },
   {
     "word": "from your hand?",
@@ -61,6 +68,7 @@
     "translit": "(mî·yā·ḏə·ḵā)",
     "parse": "Preposition-m | Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   }
 ]

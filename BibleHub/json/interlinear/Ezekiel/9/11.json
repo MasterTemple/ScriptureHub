@@ -5,7 +5,8 @@
     "translit": "(wə·hin·nêh)",
     "parse": "Conjunctive waw | Interjection",
     "str": "Strong's 2009:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2009
   },
   {
     "word": "the man",
@@ -13,7 +14,8 @@
     "translit": "(hā·’îš)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "clothed",
@@ -21,7 +23,8 @@
     "translit": "(lə·ḇuš)",
     "parse": "Verb - Qal - QalPassParticiple - masculine singular construct",
     "str": "Strong's 3830:  ",
-    "str2": "A garment, clothing, raiment"
+    "str2": "A garment, clothing, raiment",
+    "num": 3830
   },
   {
     "word": "in linen",
@@ -29,7 +32,8 @@
     "translit": "(hab·bad·dîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 906:  ",
-    "str2": "Flaxen thread, yarn, a linen garment"
+    "str2": "Flaxen thread, yarn, a linen garment",
+    "num": 906
   },
   {
     "word": "with the writing kit",
@@ -37,7 +41,8 @@
     "translit": "(haq·qe·seṯ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 7083:  ",
-    "str2": "A pot (for ink), inkhorn"
+    "str2": "A pot (for ink), inkhorn",
+    "num": 7083
   },
   {
     "word": "at his side",
@@ -45,7 +50,8 @@
     "translit": "(bə·mā·ṯə·nāw)",
     "parse": "Preposition-b | Noun - mdc | third person masculine singular",
     "str": "Strong's 4975:  ",
-    "str2": "The waist, small of the back, the loins"
+    "str2": "The waist, small of the back, the loins",
+    "num": 4975
   },
   {
     "word": "reported back,",
@@ -53,7 +59,8 @@
     "translit": "(mê·šîḇ)",
     "parse": "Verb - Hifil - Participle - masculine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "“I have done",
@@ -61,7 +68,8 @@
     "translit": "(‘ā·śî·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "as",
@@ -69,7 +77,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "You",
@@ -77,7 +86,8 @@
     "translit": "(0)",
     "parse": "0",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "commanded.”",
@@ -85,6 +95,7 @@
     "translit": "(ṣiw·wî·ṯā·nî)",
     "parse": "Verb - Piel - Perfect - second person masculine singular | first person common singular",
     "str": "Strong's 6680:  ",
-    "str2": "To lay charge (upon), give charge (to), command, order"
+    "str2": "To lay charge (upon), give charge (to), command, order",
+    "num": 6680
   }
 ]

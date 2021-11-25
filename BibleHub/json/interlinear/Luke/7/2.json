@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "a",
@@ -13,7 +14,8 @@
     "translit": "(tinos)",
     "parse": "Interrogative / Indefinite Pronoun - Genitive Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "highly valued",
@@ -21,7 +23,8 @@
     "translit": "(entimos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1784:  ",
-    "str2": "(held precious, hence) precious, honored, honorable in rank. From en and time; valued."
+    "str2": "(held precious, hence) precious, honored, honorable in rank. From en and time; valued.",
+    "num": 1784
   },
   {
     "word": "servant",
@@ -29,7 +32,8 @@
     "translit": "(doulos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 1401:  ",
-    "str2": "(a) (as adj.) enslaved, (b) (as noun) a (male) slave. From deo; a slave."
+    "str2": "(a) (as adj.) enslaved, (b) (as noun) a (male) slave. From deo; a slave.",
+    "num": 1401
   },
   {
     "word": "of a centurion",
@@ -37,7 +41,8 @@
     "translit": "(Hekatontarchou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 1543:  ",
-    "str2": "A centurion of the Roman army. Or hekatontarchos hek-at-on'-tar-khos; from hekaton and archo; the captain of one hundred men."
+    "str2": "A centurion of the Roman army. Or hekatontarchos hek-at-on'-tar-khos; from hekaton and archo; the captain of one hundred men.",
+    "num": 1543
   },
   {
     "word": "was",
@@ -45,7 +50,8 @@
     "translit": "(echōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "sick",
@@ -53,7 +59,8 @@
     "translit": "(kakōs)",
     "parse": "Adverb",
     "str": "Strong's 2560:  ",
-    "str2": "Badly, evilly, wrongly. From kakos; badly."
+    "str2": "Badly, evilly, wrongly. From kakos; badly.",
+    "num": 2560
   },
   {
     "word": "[and] about",
@@ -61,7 +68,8 @@
     "translit": "(ēmellen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 3195:  ",
-    "str2": "A strengthened form of melo; to intend, i.e. Be about to be, do, or suffer something."
+    "str2": "A strengthened form of melo; to intend, i.e. Be about to be, do, or suffer something.",
+    "num": 3195
   },
   {
     "word": "to die.",
@@ -69,6 +77,7 @@
     "translit": "(teleutan)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 5053:  ",
-    "str2": "To end, finish, die, complete. From a presumed derivative of teleo; to finish life, i.e. Expire."
+    "str2": "To end, finish, die, complete. From a presumed derivative of teleo; to finish life, i.e. Expire.",
+    "num": 5053
   }
 ]

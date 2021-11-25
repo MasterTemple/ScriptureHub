@@ -5,7 +5,8 @@
     "translit": "(kam·māh)",
     "parse": "Preposition-k | Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "look away",
@@ -13,7 +14,8 @@
     "translit": "(ṯiš·‘eh)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 8159:  ",
-    "str2": "To gaze at, about, to inspect, consider, compassionate, be nonplussed, bewildered"
+    "str2": "To gaze at, about, to inspect, consider, compassionate, be nonplussed, bewildered",
+    "num": 8159
   },
   {
     "word": "from me,",
@@ -21,7 +23,8 @@
     "translit": "(mim·men·nî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "or",
@@ -29,7 +32,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "let me alone",
@@ -37,7 +41,8 @@
     "translit": "(ṯar·pê·nî)",
     "parse": "Verb - Hifil - Imperfect - second person masculine singular | first person common singular",
     "str": "Strong's 7503:  ",
-    "str2": "Sink, relax"
+    "str2": "Sink, relax",
+    "num": 7503
   },
   {
     "word": "to",
@@ -45,7 +50,8 @@
     "translit": "(‘aḏ-)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "swallow",
@@ -53,7 +59,8 @@
     "translit": "(bil·‘î)",
     "parse": "Verb - Qal - Infinitive construct | first person common singular",
     "str": "Strong's 1104:  ",
-    "str2": "To swallow down, swallow up, engulf"
+    "str2": "To swallow down, swallow up, engulf",
+    "num": 1104
   },
   {
     "word": "my spittle?",
@@ -61,6 +68,7 @@
     "translit": "(ruq·qî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 7536:  ",
-    "str2": "Spittle"
+    "str2": "Spittle",
+    "num": 7536
   }
 ]

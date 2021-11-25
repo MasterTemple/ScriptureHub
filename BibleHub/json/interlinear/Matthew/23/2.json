@@ -5,7 +5,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "scribes",
@@ -13,7 +14,8 @@
     "translit": "(grammateis)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 1122:  ",
-    "str2": "From gramma. A writer, i.e. scribe or secretary."
+    "str2": "From gramma. A writer, i.e. scribe or secretary.",
+    "num": 1122
   },
   {
     "word": "and",
@@ -21,7 +23,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Pharisees",
@@ -29,7 +32,8 @@
     "translit": "(Pharisaioi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 5330:  ",
-    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary."
+    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary.",
+    "num": 5330
   },
   {
     "word": "sit",
@@ -37,7 +41,8 @@
     "translit": "(ekathisan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2523:  ",
-    "str2": "Another form for kathezomai; to seat down, i.e. Set; intransitively, to sit; figuratively, to settle."
+    "str2": "Another form for kathezomai; to seat down, i.e. Set; intransitively, to sit; figuratively, to settle.",
+    "num": 2523
   },
   {
     "word": "in",
@@ -45,7 +50,8 @@
     "translit": "(Epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "Moses’",
@@ -53,7 +59,8 @@
     "translit": "(Mōuseōs)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3475:  ",
-    "str2": "Or Moses, or Mouses of Hebrew origin; Moseus, Moses, or Mouses, the Hebrew lawgiver."
+    "str2": "Or Moses, or Mouses of Hebrew origin; Moseus, Moses, or Mouses, the Hebrew lawgiver.",
+    "num": 3475
   },
   {
     "word": "seat.",
@@ -61,6 +68,7 @@
     "translit": "(kathedras)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2515:  ",
-    "str2": "A seat, chair. From kata and the same as hedraios; a bench."
+    "str2": "A seat, chair. From kata and the same as hedraios; a bench.",
+    "num": 2515
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(pote)",
     "parse": "Particle",
     "str": "Strong's 4218:  ",
-    "str2": "At one time or other, at some time, formerly. From the base of pou and te; indefinite adverb, at some time, ever."
+    "str2": "At one time or other, at some time, formerly. From the base of pou and te; indefinite adverb, at some time, ever.",
+    "num": 4218
   },
   {
     "word": "I",
@@ -13,7 +14,8 @@
     "translit": "(Egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "was alive",
@@ -21,7 +23,8 @@
     "translit": "(ezōn)",
     "parse": "Verb - Imperfect Indicative Active - 1st Person Singular",
     "str": "Strong's 2198:  ",
-    "str2": "To live, be alive. A primary verb; to live."
+    "str2": "To live, be alive. A primary verb; to live.",
+    "num": 2198
   },
   {
     "word": "apart from",
@@ -29,7 +32,8 @@
     "translit": "(chōris)",
     "parse": "Preposition",
     "str": "Strong's 5565:  ",
-    "str2": "Apart from, separately from; without. Adverb from chora; at a space, i.e. Separately or apart from."
+    "str2": "Apart from, separately from; without. Adverb from chora; at a space, i.e. Separately or apart from.",
+    "num": 5565
   },
   {
     "word": "[the] Law;",
@@ -37,7 +41,8 @@
     "translit": "(nomou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3551:  ",
-    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively."
+    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively.",
+    "num": 3551
   },
   {
     "word": "but [when]",
@@ -45,7 +50,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "commandment",
@@ -61,7 +68,8 @@
     "translit": "(entolēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1785:  ",
-    "str2": "An ordinance, injunction, command, law. From entellomai; injunction, i.e. An authoritative prescription."
+    "str2": "An ordinance, injunction, command, law. From entellomai; injunction, i.e. An authoritative prescription.",
+    "num": 1785
   },
   {
     "word": "came,",
@@ -69,7 +77,8 @@
     "translit": "(elthousēs)",
     "parse": "Verb - Aorist Participle Active - Genitive Feminine Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "sin",
@@ -77,7 +86,8 @@
     "translit": "(hamartia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 266:  ",
-    "str2": "From hamartano; a sin."
+    "str2": "From hamartano; a sin.",
+    "num": 266
   },
   {
     "word": "sprang to life",
@@ -85,7 +95,8 @@
     "translit": "(anezēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 326:  ",
-    "str2": "To come to life again, revive, regain life. To recover life."
+    "str2": "To come to life again, revive, regain life. To recover life.",
+    "num": 326
   },
   {
     "word": "and",
@@ -93,7 +104,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "I",
@@ -101,7 +113,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "died.",
@@ -109,6 +122,7 @@
     "translit": "(apethanon)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 599:  ",
-    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off."
+    "str2": "To be dying, be about to die, wither, decay. From apo and thnesko; to die off.",
+    "num": 599
   }
 ]

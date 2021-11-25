@@ -5,7 +5,8 @@
     "translit": "(’a·ḥă·rê)",
     "parse": "Preposition",
     "str": "Strong's 310:  ",
-    "str2": "The hind or following part"
+    "str2": "The hind or following part",
+    "num": 310
   },
   {
     "word": "the death",
@@ -13,7 +14,8 @@
     "translit": "(mō·wṯ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   },
   {
     "word": "of Saul,",
@@ -21,7 +23,8 @@
     "translit": "(šā·’ūl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 7586:  ",
-    "str2": "Saul -- first king of Israel, also an Edomite and two Israelites"
+    "str2": "Saul -- first king of Israel, also an Edomite and two Israelites",
+    "num": 7586
   },
   {
     "word": "David",
@@ -29,7 +32,8 @@
     "translit": "(wə·ḏā·wiḏ)",
     "parse": "Conjunctive waw | Noun - proper - masculine singular",
     "str": "Strong's 1732:  ",
-    "str2": "David -- perhaps 'beloved one', a son of Jesse"
+    "str2": "David -- perhaps 'beloved one', a son of Jesse",
+    "num": 1732
   },
   {
     "word": "returned",
@@ -37,7 +41,8 @@
     "translit": "(šāḇ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "from the slaughter",
@@ -45,7 +50,8 @@
     "translit": "(mê·hak·kō·wṯ)",
     "parse": "Preposition-m | Verb - Hifil - Infinitive construct",
     "str": "Strong's 5221:  ",
-    "str2": "To strike"
+    "str2": "To strike",
+    "num": 5221
   },
   {
     "word": "of the Amalekites",
@@ -53,7 +59,8 @@
     "translit": "(hā·‘ă·mā·lêq)",
     "parse": "Article | Noun - proper - masculine singular",
     "str": "Strong's 6002:  ",
-    "str2": "Amalek -- a descendant of Esau, also his posterity"
+    "str2": "Amalek -- a descendant of Esau, also his posterity",
+    "num": 6002
   },
   {
     "word": "and stayed",
@@ -61,7 +68,8 @@
     "translit": "(way·yê·šeḇ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "in Ziklag",
@@ -69,7 +77,8 @@
     "translit": "(bə·ṣiq·lāḡ)",
     "parse": "Preposition-b | Noun - proper - feminine singular",
     "str": "Strong's 6860:  ",
-    "str2": "Ziklag -- a city assigned to Judah, also to Simeon"
+    "str2": "Ziklag -- a city assigned to Judah, also to Simeon",
+    "num": 6860
   },
   {
     "word": "two",
@@ -77,7 +86,8 @@
     "translit": "(šə·nā·yim)",
     "parse": "Number - md",
     "str": "Strong's 8147:  ",
-    "str2": "Two (a cardinal number)"
+    "str2": "Two (a cardinal number)",
+    "num": 8147
   },
   {
     "word": "days.",
@@ -85,6 +95,7 @@
     "translit": "(yā·mîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   }
 ]

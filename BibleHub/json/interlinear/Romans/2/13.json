@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "not",
@@ -13,7 +14,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "hearers",
@@ -29,7 +32,8 @@
     "translit": "(akroatai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 202:  ",
-    "str2": "A hearer of, a listener to. From akroaomai; a hearer."
+    "str2": "A hearer of, a listener to. From akroaomai; a hearer.",
+    "num": 202
   },
   {
     "word": "of [the] Law",
@@ -37,7 +41,8 @@
     "translit": "(nomou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3551:  ",
-    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively."
+    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively.",
+    "num": 3551
   },
   {
     "word": "[who are] righteous",
@@ -45,7 +50,8 @@
     "translit": "(dikaioi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 1342:  ",
-    "str2": "From dike; equitable; by implication, innocent, holy."
+    "str2": "From dike; equitable; by implication, innocent, holy.",
+    "num": 1342
   },
   {
     "word": "before",
@@ -53,7 +59,8 @@
     "translit": "(para)",
     "parse": "Preposition",
     "str": "Strong's 3844:  ",
-    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. "
+    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. ",
+    "num": 3844
   },
   {
     "word": "God,",
@@ -61,7 +68,8 @@
     "translit": "(Theō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "but [it is]",
@@ -69,7 +77,8 @@
     "translit": "(all’)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "doers",
@@ -85,7 +95,8 @@
     "translit": "(poiētai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 4163:  ",
-    "str2": "(a) a maker, poet, (b) a doer, carrier out, performer. From poieo; a performer; specially, a 'poet'."
+    "str2": "(a) a maker, poet, (b) a doer, carrier out, performer. From poieo; a performer; specially, a 'poet'.",
+    "num": 4163
   },
   {
     "word": "of [the] Law",
@@ -93,7 +104,8 @@
     "translit": "(nomou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3551:  ",
-    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively."
+    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively.",
+    "num": 3551
   },
   {
     "word": "[who] will be declared righteous.",
@@ -101,6 +113,7 @@
     "translit": "(dikaiōthēsontai)",
     "parse": "Verb - Future Indicative Passive - 3rd Person Plural",
     "str": "Strong's 1344:  ",
-    "str2": "From dikaios; to render just or innocent."
+    "str2": "From dikaios; to render just or innocent.",
+    "num": 1344
   }
 ]

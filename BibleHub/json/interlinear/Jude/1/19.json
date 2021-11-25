@@ -5,7 +5,8 @@
     "translit": "(Houtoi)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "are",
@@ -13,7 +14,8 @@
     "translit": "(eisin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "the [ones who]",
@@ -21,7 +23,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "cause divisions,",
@@ -29,7 +32,8 @@
     "translit": "(apodiorizontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 592:  ",
-    "str2": "To make a logical distinction, make an invidious distinction. From apo and a compound of Alexandros and horizo; to disjoin."
+    "str2": "To make a logical distinction, make an invidious distinction. From apo and a compound of Alexandros and horizo; to disjoin.",
+    "num": 592
   },
   {
     "word": "[who are] worldly",
@@ -37,7 +41,8 @@
     "translit": "(psychikoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 5591:  ",
-    "str2": "Animal, natural, sensuous. From psuche; sensitive, i.e. Animate."
+    "str2": "Animal, natural, sensuous. From psuche; sensitive, i.e. Animate.",
+    "num": 5591
   },
   {
     "word": "[and] devoid of",
@@ -45,7 +50,8 @@
     "translit": "(echontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "[the] Spirit.",
@@ -53,6 +59,7 @@
     "translit": "(Pneuma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   }
 ]

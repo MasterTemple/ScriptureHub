@@ -5,7 +5,8 @@
     "translit": "(hin·nî·aḥ)",
     "parse": "Verb - Hifil - Perfect - third person masculine singular",
     "str": "Strong's 3240:  ",
-    "str2": "Bestow, cast down, lay down, up, leave off, let alone remain, pacify, place, "
+    "str2": "Bestow, cast down, lay down, up, leave off, let alone remain, pacify, place, ",
+    "num": 3240
   },
   {
     "word": "no",
@@ -13,7 +14,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "man",
@@ -21,7 +23,8 @@
     "translit": "(’ā·ḏām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   },
   {
     "word": "oppress them;",
@@ -29,7 +32,8 @@
     "translit": "(lə·‘ā·šə·qām)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct | third person masculine plural",
     "str": "Strong's 6231:  ",
-    "str2": "To press upon, oppress, defraud, violate, overflow"
+    "str2": "To press upon, oppress, defraud, violate, overflow",
+    "num": 6231
   },
   {
     "word": "He rebuked",
@@ -37,7 +41,8 @@
     "translit": "(way·yō·w·ḵaḥ)",
     "parse": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 3198:  ",
-    "str2": "To be right, reciprocal, to argue, to decide, justify, convict"
+    "str2": "To be right, reciprocal, to argue, to decide, justify, convict",
+    "num": 3198
   },
   {
     "word": "kings",
@@ -45,7 +50,8 @@
     "translit": "(mə·lā·ḵîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "on their behalf:",
@@ -53,6 +59,7 @@
     "translit": "(‘ă·lê·hem)",
     "parse": "Preposition | third person masculine plural",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   }
 ]

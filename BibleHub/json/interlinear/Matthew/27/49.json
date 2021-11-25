@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(Hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "others",
@@ -21,7 +23,8 @@
     "translit": "(loipoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3062:  ",
-    "str2": "Left, left behind, the remainder, the rest, the others. Masculine plural of a derivative of leipo; remaining ones."
+    "str2": "Left, left behind, the remainder, the rest, the others. Masculine plural of a derivative of leipo; remaining ones.",
+    "num": 3062
   },
   {
     "word": "said,",
@@ -29,7 +32,8 @@
     "translit": "(elegon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“Leave [Him] alone.",
@@ -37,7 +41,8 @@
     "translit": "(Aphes)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 863:  ",
-    "str2": "From apo and hiemi; to send forth, in various applications."
+    "str2": "From apo and hiemi; to send forth, in various applications.",
+    "num": 863
   },
   {
     "word": "Let us see",
@@ -45,7 +50,8 @@
     "translit": "(idōmen)",
     "parse": "Verb - Aorist Subjunctive Active - 1st Person Plural",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "if",
@@ -53,7 +59,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "Elijah",
@@ -61,7 +68,8 @@
     "translit": "(Ēlias)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2243:  ",
-    "str2": "Elijah, the prophet. Of Hebrew origin; Helias, an Israelite."
+    "str2": "Elijah, the prophet. Of Hebrew origin; Helias, an Israelite.",
+    "num": 2243
   },
   {
     "word": "comes",
@@ -69,7 +77,8 @@
     "translit": "(erchetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "to save",
@@ -77,7 +86,8 @@
     "translit": "(sōsōn)",
     "parse": "Verb - Future Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4982:  ",
-    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect."
+    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect.",
+    "num": 4982
   },
   {
     "word": "Him.”",
@@ -85,6 +95,7 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

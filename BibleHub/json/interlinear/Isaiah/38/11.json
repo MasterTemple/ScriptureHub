@@ -5,7 +5,8 @@
     "translit": "(’ā·mar·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "I will never",
@@ -13,7 +14,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "see",
@@ -21,7 +23,8 @@
     "translit": "(’er·’eh)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "the LORD,",
@@ -29,7 +32,8 @@
     "translit": "(yāh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3050:  ",
-    "str2": "LORD -- the name of the God of Israel"
+    "str2": "LORD -- the name of the God of Israel",
+    "num": 3050
   },
   {
     "word": "[even] the LORD,",
@@ -37,7 +41,8 @@
     "translit": "(yāh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3050:  ",
-    "str2": "LORD -- the name of the God of Israel"
+    "str2": "LORD -- the name of the God of Israel",
+    "num": 3050
   },
   {
     "word": "in the land",
@@ -45,7 +50,8 @@
     "translit": "(bə·’e·reṣ)",
     "parse": "Preposition-b | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "of the living;",
@@ -53,7 +59,8 @@
     "translit": "(ha·ḥay·yîm)",
     "parse": "Article | Adjective - masculine plural",
     "str": "Strong's 2416:  ",
-    "str2": "Alive, raw, fresh, strong, life"
+    "str2": "Alive, raw, fresh, strong, life",
+    "num": 2416
   },
   {
     "word": "I will no",
@@ -61,7 +68,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "longer",
@@ -69,7 +77,8 @@
     "translit": "(‘ō·wḏ)",
     "parse": "Adverb",
     "str": "Strong's 5750:  ",
-    "str2": "Iteration, continuance, again, repeatedly, still, more"
+    "str2": "Iteration, continuance, again, repeatedly, still, more",
+    "num": 5750
   },
   {
     "word": "look on",
@@ -77,7 +86,8 @@
     "translit": "(’ab·bîṭ)",
     "parse": "Verb - Hifil - Imperfect - first person common singular",
     "str": "Strong's 5027:  ",
-    "str2": "To scan, look intently at, to regard"
+    "str2": "To scan, look intently at, to regard",
+    "num": 5027
   },
   {
     "word": "mankind",
@@ -85,7 +95,8 @@
     "translit": "(’ā·ḏām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   },
   {
     "word": "with",
@@ -93,7 +104,8 @@
     "translit": "(‘im-)",
     "parse": "Preposition",
     "str": "Strong's 5973:  ",
-    "str2": "With, equally with"
+    "str2": "With, equally with",
+    "num": 5973
   },
   {
     "word": "those who dwell",
@@ -101,7 +113,8 @@
     "translit": "(yō·wō·šə·ḇê)",
     "parse": "Verb - Qal - Participle - masculine plural construct",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "in this world.",
@@ -109,6 +122,7 @@
     "translit": "(ḥā·ḏel)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2309:  ",
-    "str2": "Rest, the state of the dead"
+    "str2": "Rest, the state of the dead",
+    "num": 2309
   }
 ]

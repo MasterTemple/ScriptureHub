@@ -5,7 +5,8 @@
     "translit": "(ḥā·sîḏ)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 2623:  ",
-    "str2": "Kind, pious"
+    "str2": "Kind, pious",
+    "num": 2623
   },
   {
     "word": "has perished",
@@ -13,7 +14,8 @@
     "translit": "(’ā·ḇaḏ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 6:  ",
-    "str2": "To wander away, lose oneself, to perish"
+    "str2": "To wander away, lose oneself, to perish",
+    "num": 6
   },
   {
     "word": "from",
@@ -21,7 +23,8 @@
     "translit": "(min-)",
     "parse": "Preposition",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "the earth;",
@@ -29,7 +32,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "there is no",
@@ -37,7 +41,8 @@
     "translit": "(’ā·yin)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "one upright",
@@ -45,7 +50,8 @@
     "translit": "(wə·yā·šār)",
     "parse": "Conjunctive waw | Adjective - masculine singular",
     "str": "Strong's 3477:  ",
-    "str2": "Straight, right"
+    "str2": "Straight, right",
+    "num": 3477
   },
   {
     "word": "among men.",
@@ -53,7 +59,8 @@
     "translit": "(bā·’ā·ḏām)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   },
   {
     "word": "They all",
@@ -61,7 +68,8 @@
     "translit": "(kul·lām)",
     "parse": "Noun - masculine singular construct | third person masculine plural",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "lie in wait",
@@ -69,7 +77,8 @@
     "translit": "(ye·’ĕ·rō·ḇū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 693:  ",
-    "str2": "To lie in wait"
+    "str2": "To lie in wait",
+    "num": 693
   },
   {
     "word": "for blood;",
@@ -77,7 +86,8 @@
     "translit": "(lə·ḏā·mîm)",
     "parse": "Preposition-l | Noun - masculine plural",
     "str": "Strong's 1818:  ",
-    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed"
+    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed",
+    "num": 1818
   },
   {
     "word": "they hunt",
@@ -85,7 +95,8 @@
     "translit": "(yā·ṣū·ḏū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 6679:  ",
-    "str2": "To lie alongside, to catch an animal, to victual"
+    "str2": "To lie alongside, to catch an animal, to victual",
+    "num": 6679
   },
   {
     "word": "each",
@@ -93,7 +104,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "other",
@@ -101,7 +113,8 @@
     "translit": "(’ā·ḥî·hū)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 251:  ",
-    "str2": "A brother, )"
+    "str2": "A brother, )",
+    "num": 251
   },
   {
     "word": "with a net.",
@@ -109,6 +122,7 @@
     "translit": "(ḥê·rem)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2764:  ",
-    "str2": "A net, a doomed object, extermination"
+    "str2": "A net, a doomed object, extermination",
+    "num": 2764
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(bə·ḵā)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "my God,",
@@ -13,7 +14,8 @@
     "translit": "(’ĕlō·hay)",
     "parse": "Noun - masculine plural construct | first person common singular",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "I trust.",
@@ -21,7 +23,8 @@
     "translit": "(ḇā·ṭaḥ·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 982:  ",
-    "str2": "To trust, be confident, sure"
+    "str2": "To trust, be confident, sure",
+    "num": 982
   },
   {
     "word": "Let me not",
@@ -29,7 +32,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "be ashamed,",
@@ -37,7 +41,8 @@
     "translit": "(’ê·ḇō·wō·šāh)",
     "parse": "Verb - Qal - Imperfect Cohortative - first person common singular",
     "str": "Strong's 954:  ",
-    "str2": "To pale, to be ashamed, to be disappointed, delayed"
+    "str2": "To pale, to be ashamed, to be disappointed, delayed",
+    "num": 954
   },
   {
     "word": "nor",
@@ -45,7 +50,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "let my enemies",
@@ -53,7 +59,8 @@
     "translit": "(’ō·yə·ḇay)",
     "parse": "Verb - Qal - Participle - masculine plural construct | first person common singular",
     "str": "Strong's 341:  ",
-    "str2": "Hating, an adversary"
+    "str2": "Hating, an adversary",
+    "num": 341
   },
   {
     "word": "exult over me.",
@@ -61,6 +68,7 @@
     "translit": "(ya·‘al·ṣū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 5970:  ",
-    "str2": "To jump for, joy, exult"
+    "str2": "To jump for, joy, exult",
+    "num": 5970
   }
 ]

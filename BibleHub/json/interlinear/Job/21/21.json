@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "what",
@@ -13,7 +14,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "does he care",
@@ -21,7 +23,8 @@
     "translit": "(ḥep̄·ṣōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 2656:  ",
-    "str2": "Pleasure, desire, a valuable thing, a matter"
+    "str2": "Pleasure, desire, a valuable thing, a matter",
+    "num": 2656
   },
   {
     "word": "about his household",
@@ -29,7 +32,8 @@
     "translit": "(bə·ḇê·ṯōw)",
     "parse": "Preposition-b | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "after him,",
@@ -37,7 +41,8 @@
     "translit": "(’a·ḥă·rāw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's 310:  ",
-    "str2": "The hind or following part"
+    "str2": "The hind or following part",
+    "num": 310
   },
   {
     "word": "when the number",
@@ -45,7 +50,8 @@
     "translit": "(ū·mis·par)",
     "parse": "Conjunctive waw | Noun - masculine singular construct",
     "str": "Strong's 4557:  ",
-    "str2": "A number, definite, indefinite, narration"
+    "str2": "A number, definite, indefinite, narration",
+    "num": 4557
   },
   {
     "word": "of his months",
@@ -53,7 +59,8 @@
     "translit": "(ḥo·ḏā·šāw)",
     "parse": "Noun - masculine plural construct | third person masculine singular",
     "str": "Strong's 2320:  ",
-    "str2": "The new moon, a month"
+    "str2": "The new moon, a month",
+    "num": 2320
   },
   {
     "word": "has run out?",
@@ -61,6 +68,7 @@
     "translit": "(ḥuṣ·ṣā·ṣū)",
     "parse": "Verb - Pual - Perfect - third person common plural",
     "str": "Strong's 2686:  ",
-    "str2": "To chop into, pierce, sever, to curtail, to distribute,   to shoot an arrow"
+    "str2": "To chop into, pierce, sever, to curtail, to distribute,   to shoot an arrow",
+    "num": 2686
   }
 ]

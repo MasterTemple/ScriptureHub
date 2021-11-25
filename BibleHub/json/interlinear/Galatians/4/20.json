@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "I wish",
@@ -13,7 +14,8 @@
     "translit": "(ēthelon)",
     "parse": "Verb - Imperfect Indicative Active - 1st Person Singular",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "I could be",
@@ -21,7 +23,8 @@
     "translit": "(pareinai)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 3918:  ",
-    "str2": "From para and eimi; to be near, i.e. At hand; neuter present participle time being, or property."
+    "str2": "From para and eimi; to be near, i.e. At hand; neuter present participle time being, or property.",
+    "num": 3918
   },
   {
     "word": "with",
@@ -29,7 +32,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "you",
@@ -37,7 +41,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "now",
@@ -45,7 +50,8 @@
     "translit": "(arti)",
     "parse": "Adverb",
     "str": "Strong's 737:  ",
-    "str2": "Now, just now, at this moment. Adverb from a derivative of airo through the idea of suspension; just now."
+    "str2": "Now, just now, at this moment. Adverb from a derivative of airo through the idea of suspension; just now.",
+    "num": 737
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "change",
@@ -61,7 +68,8 @@
     "translit": "(allaxai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 236:  ",
-    "str2": "To change, alter, exchange, transform. From allos; to make different."
+    "str2": "To change, alter, exchange, transform. From allos; to make different.",
+    "num": 236
   },
   {
     "word": "my",
@@ -69,7 +77,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "tone,",
@@ -77,7 +86,8 @@
     "translit": "(phōnēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5456:  ",
-    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language."
+    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language.",
+    "num": 5456
   },
   {
     "word": "because",
@@ -85,7 +95,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "I am perplexed",
@@ -93,7 +104,8 @@
     "translit": "(aporoumai)",
     "parse": "Verb - Present Indicative Middle - 1st Person Singular",
     "str": "Strong's 639:  ",
-    "str2": "From a compound of a and the base of poreuomai; to have no way out, i.e. Be at a loss."
+    "str2": "From a compound of a and the base of poreuomai; to have no way out, i.e. Be at a loss.",
+    "num": 639
   },
   {
     "word": "about",
@@ -101,7 +113,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "you.",
@@ -109,6 +122,7 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

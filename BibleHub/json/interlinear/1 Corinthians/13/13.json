@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "now",
@@ -13,7 +14,8 @@
     "translit": "(Nyni)",
     "parse": "Adverb",
     "str": "Strong's 3570:  ",
-    "str2": "A prolonged form of nun for emphasis; just now."
+    "str2": "A prolonged form of nun for emphasis; just now.",
+    "num": 3570
   },
   {
     "word": "these",
@@ -21,7 +23,8 @@
     "translit": "(tauta)",
     "parse": "Demonstrative Pronoun - Nominative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "three",
@@ -29,7 +32,8 @@
     "translit": "(tria)",
     "parse": "Adjective - Nominative Neuter Plural",
     "str": "Strong's 5140:  ",
-    "str2": "Three. Or neuter tria a primary number; 'three'."
+    "str2": "Three. Or neuter tria a primary number; 'three'.",
+    "num": 5140
   },
   {
     "word": "remain:",
@@ -37,7 +41,8 @@
     "translit": "(menei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3306:  ",
-    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay."
+    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay.",
+    "num": 3306
   },
   {
     "word": "faith,",
@@ -45,7 +50,8 @@
     "translit": "(pistis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4102:  ",
-    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. "
+    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. ",
+    "num": 4102
   },
   {
     "word": "hope,",
@@ -53,7 +59,8 @@
     "translit": "(elpis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1680:  ",
-    "str2": "Hope, expectation, trust, confidence. From a primary elpo; expectation or confidence."
+    "str2": "Hope, expectation, trust, confidence. From a primary elpo; expectation or confidence.",
+    "num": 1680
   },
   {
     "word": "[and] love;",
@@ -61,7 +68,8 @@
     "translit": "(agapē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 26:  ",
-    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast."
+    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast.",
+    "num": 26
   },
   {
     "word": "but",
@@ -69,7 +77,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[the] greatest",
@@ -77,7 +86,8 @@
     "translit": "(meizōn)",
     "parse": "Adjective - Nominative Feminine Singular - Comparative",
     "str": "Strong's 3173:  ",
-    "str2": "Large, great, in the widest sense. "
+    "str2": "Large, great, in the widest sense. ",
+    "num": 3173
   },
   {
     "word": "of these [is]",
@@ -85,7 +95,8 @@
     "translit": "(toutōn)",
     "parse": "Demonstrative Pronoun - Genitive Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "love.",
@@ -93,6 +104,7 @@
     "translit": "(agapē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 26:  ",
-    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast."
+    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast.",
+    "num": 26
   }
 ]

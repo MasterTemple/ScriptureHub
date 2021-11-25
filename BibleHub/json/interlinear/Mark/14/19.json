@@ -5,7 +5,8 @@
     "translit": "(Ērxanto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Plural",
     "str": "Strong's 756:  ",
-    "str2": "To begin. Middle voice of archo; to commence."
+    "str2": "To begin. Middle voice of archo; to commence.",
+    "num": 756
   },
   {
     "word": "to be sorrowful",
@@ -13,7 +14,8 @@
     "translit": "(lypeisthai)",
     "parse": "Verb - Present Infinitive Middle or Passive",
     "str": "Strong's 3076:  ",
-    "str2": "To pain, grieve, vex. From lupe; to distress; reflexively or passively, to be sad."
+    "str2": "To pain, grieve, vex. From lupe; to distress; reflexively or passively, to be sad.",
+    "num": 3076
   },
   {
     "word": "and",
@@ -21,7 +23,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "to ask",
@@ -29,7 +32,8 @@
     "translit": "(legein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "Him",
@@ -37,7 +41,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "one",
@@ -45,7 +50,8 @@
     "translit": "(heis)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1520:  ",
-    "str2": "One. (including the neuter Hen); a primary numeral; one."
+    "str2": "One. (including the neuter Hen); a primary numeral; one.",
+    "num": 1520
   },
   {
     "word": "by",
@@ -53,7 +59,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "one,",
@@ -61,7 +68,8 @@
     "translit": "(heis)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1520:  ",
-    "str2": "One. (including the neuter Hen); a primary numeral; one."
+    "str2": "One. (including the neuter Hen); a primary numeral; one.",
+    "num": 1520
   },
   {
     "word": "“Surely not",
@@ -69,7 +77,8 @@
     "translit": "(Mēti)",
     "parse": "IntPrtcl",
     "str": "Strong's 3385:  ",
-    "str2": "If not, unless, whether at all. From me and the neuter of tis; whether at all."
+    "str2": "If not, unless, whether at all. From me and the neuter of tis; whether at all.",
+    "num": 3385
   },
   {
     "word": "I?”",
@@ -77,6 +86,7 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   }
 ]

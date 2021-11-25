@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[Jesus] said",
@@ -13,7 +14,8 @@
     "translit": "(legei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "to the",
@@ -21,7 +23,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "man",
@@ -29,7 +32,8 @@
     "translit": "(anthrōpō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "with",
@@ -37,7 +41,8 @@
     "translit": "(echonti)",
     "parse": "Verb - Present Participle Active - Dative Masculine Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "withered",
@@ -53,7 +59,8 @@
     "translit": "(xēran)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 3584:  ",
-    "str2": "Dry, withered; noun: dry land. From the base of xestes; arid; by implication, shrunken, earth."
+    "str2": "Dry, withered; noun: dry land. From the base of xestes; arid; by implication, shrunken, earth.",
+    "num": 3584
   },
   {
     "word": "hand,",
@@ -61,7 +68,8 @@
     "translit": "(cheira)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5495:  ",
-    "str2": "A hand. "
+    "str2": "A hand. ",
+    "num": 5495
   },
   {
     "word": "“Stand up",
@@ -69,7 +77,8 @@
     "translit": "(Egeire)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 1453:  ",
-    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse."
+    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse.",
+    "num": 1453
   },
   {
     "word": "among [us].”",
@@ -77,6 +86,7 @@
     "translit": "(meson)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 3319:  ",
-    "str2": "Middle, in the middle, between, in the midst of. From meta; middle (neuter) noun)."
+    "str2": "Middle, in the middle, between, in the midst of. From meta; middle (neuter) noun).",
+    "num": 3319
   }
 ]

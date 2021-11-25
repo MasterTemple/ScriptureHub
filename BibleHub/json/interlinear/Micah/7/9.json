@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I have sinned",
@@ -13,7 +14,8 @@
     "translit": "(ḥā·ṭā·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 2398:  ",
-    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn"
+    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn",
+    "num": 2398
   },
   {
     "word": "against Him,",
@@ -21,7 +23,8 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "I must endure",
@@ -29,7 +32,8 @@
     "translit": "(’eś·śā)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 5375:  ",
-    "str2": "To lift, carry, take"
+    "str2": "To lift, carry, take",
+    "num": 5375
   },
   {
     "word": "the rage",
@@ -37,7 +41,8 @@
     "translit": "(za·‘ap̄)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 2197:  ",
-    "str2": "A storming, raging, rage"
+    "str2": "A storming, raging, rage",
+    "num": 2197
   },
   {
     "word": "of the LORD,",
@@ -45,7 +50,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "until",
@@ -53,7 +59,8 @@
     "translit": "(‘aḏ)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "He argues",
@@ -61,7 +68,8 @@
     "translit": "(yā·rîḇ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 7378:  ",
-    "str2": "To toss, grapple, to wrangle, controversy, to defend"
+    "str2": "To toss, grapple, to wrangle, controversy, to defend",
+    "num": 7378
   },
   {
     "word": "my case",
@@ -69,7 +77,8 @@
     "translit": "(rî·ḇî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 7379:  ",
-    "str2": "Strife, dispute"
+    "str2": "Strife, dispute",
+    "num": 7379
   },
   {
     "word": "and executes",
@@ -77,7 +86,8 @@
     "translit": "(wə·‘ā·śāh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "justice for me.",
@@ -85,7 +95,8 @@
     "translit": "(miš·pā·ṭî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 4941:  ",
-    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style"
+    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style",
+    "num": 4941
   },
   {
     "word": "He will bring",
@@ -93,7 +104,8 @@
     "translit": "(yō·w·ṣî·’ê·nî)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular | first person common singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "me into the light;",
@@ -101,7 +113,8 @@
     "translit": "(lā·’ō·wr)",
     "parse": "Preposition, Article | Noun - common singular",
     "str": "Strong's 216:  ",
-    "str2": "Illumination, luminary"
+    "str2": "Illumination, luminary",
+    "num": 216
   },
   {
     "word": "I will see",
@@ -109,7 +122,8 @@
     "translit": "(’er·’eh)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "His righteousness.",
@@ -117,6 +131,7 @@
     "translit": "(bə·ṣiḏ·qā·ṯōw)",
     "parse": "Preposition-b | Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 6666:  ",
-    "str2": "Rightness, subjectively, objectively"
+    "str2": "Rightness, subjectively, objectively",
+    "num": 6666
   }
 ]

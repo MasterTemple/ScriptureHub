@@ -5,7 +5,8 @@
     "translit": "(’ê-)",
     "parse": "Interrogative",
     "str": "Strong's 335:  ",
-    "str2": "Where?, how?"
+    "str2": "Where?, how?",
+    "num": 335
   },
   {
     "word": "direction",
@@ -13,7 +14,8 @@
     "translit": "(had·de·reḵ)",
     "parse": "Article | Noun - common singular",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   },
   {
     "word": "is the lightning",
@@ -21,7 +23,8 @@
     "translit": "(’ō·wr)",
     "parse": "Noun - common singular",
     "str": "Strong's 216:  ",
-    "str2": "Illumination, luminary"
+    "str2": "Illumination, luminary",
+    "num": 216
   },
   {
     "word": "dispersed,",
@@ -29,7 +32,8 @@
     "translit": "(yê·ḥā·leq)",
     "parse": "Verb - Nifal - Imperfect - third person masculine singular",
     "str": "Strong's 2505:  ",
-    "str2": "To be smooth, to apportion, separate"
+    "str2": "To be smooth, to apportion, separate",
+    "num": 2505
   },
   {
     "word": "or the east wind",
@@ -37,7 +41,8 @@
     "translit": "(qā·ḏîm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6921:  ",
-    "str2": "The fore, front part, the East"
+    "str2": "The fore, front part, the East",
+    "num": 6921
   },
   {
     "word": "scattered",
@@ -45,7 +50,8 @@
     "translit": "(yā·p̄êṣ)",
     "parse": "Verb - Hifil - Imperfect Jussive - third person masculine singular",
     "str": "Strong's 6327:  ",
-    "str2": "To be dispersed or scattered"
+    "str2": "To be dispersed or scattered",
+    "num": 6327
   },
   {
     "word": "over",
@@ -53,7 +59,8 @@
     "translit": "(‘ă·lê-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the earth?",
@@ -61,6 +68,7 @@
     "translit": "(’ā·reṣ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "will ever see",
@@ -13,7 +14,8 @@
     "translit": "(yir·’ū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "the land",
@@ -21,7 +23,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "I swore",
@@ -29,7 +32,8 @@
     "translit": "(niš·ba‘·tî)",
     "parse": "Verb - Nifal - Perfect - first person common singular",
     "str": "Strong's 7650:  ",
-    "str2": "To seven oneself, swear"
+    "str2": "To seven oneself, swear",
+    "num": 7650
   },
   {
     "word": "to give their fathers.",
@@ -37,7 +41,8 @@
     "translit": "(la·’ă·ḇō·ṯām)",
     "parse": "Preposition-l | Noun - masculine plural construct | third person masculine plural",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "None",
@@ -45,7 +50,8 @@
     "translit": "(wə·ḵāl)",
     "parse": "Conjunctive waw | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "of those who have treated Me with contempt",
@@ -53,7 +59,8 @@
     "translit": "(mə·na·’ă·ṣay)",
     "parse": "Verb - Piel - Participle - masculine plural construct | first person common singular",
     "str": "Strong's 5006:  ",
-    "str2": "To spurn, treat with contempt"
+    "str2": "To spurn, treat with contempt",
+    "num": 5006
   },
   {
     "word": "will see it.",
@@ -61,6 +68,7 @@
     "translit": "(yir·’ū·hā)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural | third person feminine singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   }
 ]

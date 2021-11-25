@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "since",
@@ -13,7 +14,8 @@
     "translit": "(kathōs)",
     "parse": "Adverb",
     "str": "Strong's 2531:  ",
-    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that."
+    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that.",
+    "num": 2531
   },
   {
     "word": "they did not see fit",
@@ -21,7 +23,8 @@
     "translit": "(edokimasan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1381:  ",
-    "str2": "From dokimos; to test; by implication, to approve."
+    "str2": "From dokimos; to test; by implication, to approve.",
+    "num": 1381
   },
   {
     "word": "to acknowledge",
@@ -29,7 +32,8 @@
     "translit": "(echein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "God,",
@@ -37,7 +41,8 @@
     "translit": "(Theon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "[He]",
@@ -45,7 +50,8 @@
     "translit": "(Theos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "gave them up",
@@ -53,7 +59,8 @@
     "translit": "(paredōken)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3860:  ",
-    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit."
+    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit.",
+    "num": 3860
   },
   {
     "word": "to",
@@ -61,7 +68,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "a depraved",
@@ -69,7 +77,8 @@
     "translit": "(adokimon)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 96:  ",
-    "str2": "Failing to pass the test, unapproved, counterfeit. By implication, worthless."
+    "str2": "Failing to pass the test, unapproved, counterfeit. By implication, worthless.",
+    "num": 96
   },
   {
     "word": "mind,",
@@ -77,7 +86,8 @@
     "translit": "(noun)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3563:  ",
-    "str2": "Probably from the base of ginosko; the intellect, i.e. Mind; by implication, meaning."
+    "str2": "Probably from the base of ginosko; the intellect, i.e. Mind; by implication, meaning.",
+    "num": 3563
   },
   {
     "word": "to do",
@@ -85,7 +95,8 @@
     "translit": "(poiein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "what",
@@ -93,7 +104,8 @@
     "translit": "(ta)",
     "parse": "Article - Accusative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "ought not to be done.",
@@ -101,6 +113,7 @@
     "translit": "(kathēkonta)",
     "parse": "Verb - Present Participle Active - Accusative Neuter Plural",
     "str": "Strong's 2520:  ",
-    "str2": "To come down, come to; To be unfit, proper. From kata and heko; to reach to, i.e. becoming."
+    "str2": "To come down, come to; To be unfit, proper. From kata and heko; to reach to, i.e. becoming.",
+    "num": 2520
   }
 ]

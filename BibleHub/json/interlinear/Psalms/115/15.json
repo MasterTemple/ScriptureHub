@@ -5,7 +5,8 @@
     "translit": "(’at·tem)",
     "parse": "Pronoun - second person masculine plural",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "be blessed",
@@ -13,7 +14,8 @@
     "translit": "(bə·rū·ḵîm)",
     "parse": "Verb - Qal - QalPassParticiple - masculine plural",
     "str": "Strong's 1288:  ",
-    "str2": "To kneel, to bless God, man, to curse"
+    "str2": "To kneel, to bless God, man, to curse",
+    "num": 1288
   },
   {
     "word": "by the LORD,",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "the Maker",
@@ -29,7 +32,8 @@
     "translit": "(‘ō·śêh)",
     "parse": "Verb - Qal - Participle - masculine singular construct",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "of heaven",
@@ -37,7 +41,8 @@
     "translit": "(šā·ma·yim)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 8064:  ",
-    "str2": "Heaven, sky"
+    "str2": "Heaven, sky",
+    "num": 8064
   },
   {
     "word": "and earth.",
@@ -45,6 +50,7 @@
     "translit": "(wā·’ā·reṣ)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   }
 ]

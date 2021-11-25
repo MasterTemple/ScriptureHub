@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "while",
@@ -13,7 +14,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "everyone",
@@ -21,7 +23,8 @@
     "translit": "(anthrōpous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "was asleep,",
@@ -29,7 +32,8 @@
     "translit": "(katheudein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2518:  ",
-    "str2": "To sleep, be sleeping. From kata and heudo; to lie down to rest, i.e. to fall asleep."
+    "str2": "To sleep, be sleeping. From kata and heudo; to lie down to rest, i.e. to fall asleep.",
+    "num": 2518
   },
   {
     "word": "his",
@@ -37,7 +41,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "enemy",
@@ -45,7 +50,8 @@
     "translit": "(echthros)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 2190:  ",
-    "str2": "Hated, hostile; subst: an enemy. From a primary echtho; hateful; usually as a noun, an adversary."
+    "str2": "Hated, hostile; subst: an enemy. From a primary echtho; hateful; usually as a noun, an adversary.",
+    "num": 2190
   },
   {
     "word": "came",
@@ -53,7 +59,8 @@
     "translit": "(ēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "sowed",
@@ -69,7 +77,8 @@
     "translit": "(epespeiren)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 4687:  ",
-    "str2": "To sow, spread, scatter. Probably strengthened from spao; to scatter, i.e. Sow."
+    "str2": "To sow, spread, scatter. Probably strengthened from spao; to scatter, i.e. Sow.",
+    "num": 4687
   },
   {
     "word": "weeds",
@@ -77,7 +86,8 @@
     "translit": "(zizania)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 2215:  ",
-    "str2": "Darnel or false grain."
+    "str2": "Darnel or false grain.",
+    "num": 2215
   },
   {
     "word": "among",
@@ -85,7 +95,8 @@
     "translit": "(ana)",
     "parse": "Preposition",
     "str": "Strong's 303:  ",
-    "str2": "A primary preposition and adverb; properly, up; but used severally, or at."
+    "str2": "A primary preposition and adverb; properly, up; but used severally, or at.",
+    "num": 303
   },
   {
     "word": "the",
@@ -93,7 +104,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "wheat,",
@@ -101,7 +113,8 @@
     "translit": "(sitou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 4621:  ",
-    "str2": "Wheat, grain. Also plural irregular neuter sita of uncertain derivation; grain, especially wheat."
+    "str2": "Wheat, grain. Also plural irregular neuter sita of uncertain derivation; grain, especially wheat.",
+    "num": 4621
   },
   {
     "word": "and",
@@ -109,7 +122,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "slipped away.",
@@ -117,6 +131,7 @@
     "translit": "(apēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 565:  ",
-    "str2": "From apo and erchomai; to go off, aside or behind, literally or figuratively."
+    "str2": "From apo and erchomai; to go off, aside or behind, literally or figuratively.",
+    "num": 565
   }
 ]

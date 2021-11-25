@@ -5,7 +5,8 @@
     "translit": "(legontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“You are to say,",
@@ -13,7 +14,8 @@
     "translit": "(Eipate)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "‘His",
@@ -21,7 +23,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "disciples",
@@ -29,7 +32,8 @@
     "translit": "(mathētai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   },
   {
     "word": "came",
@@ -37,7 +41,8 @@
     "translit": "(elthontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "by night",
@@ -45,7 +50,8 @@
     "translit": "(nyktos)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 3571:  ",
-    "str2": "The night, night-time. A primary word; 'night'."
+    "str2": "The night, night-time. A primary word; 'night'.",
+    "num": 3571
   },
   {
     "word": "[and] stole",
@@ -53,7 +59,8 @@
     "translit": "(eklepsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2813:  ",
-    "str2": "To steal. A primary verb; to filch."
+    "str2": "To steal. A primary verb; to filch.",
+    "num": 2813
   },
   {
     "word": "His [body]",
@@ -61,7 +68,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "{while} we",
@@ -69,7 +77,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "were asleep.’",
@@ -77,6 +86,7 @@
     "translit": "(koimōmenōn)",
     "parse": "Verb - Present Participle Middle or Passive - Genitive Masculine Plural",
     "str": "Strong's 2837:  ",
-    "str2": "From keimai; to put to sleep, i.e. to slumber; figuratively, to decease."
+    "str2": "From keimai; to put to sleep, i.e. to slumber; figuratively, to decease.",
+    "num": 2837
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "you,",
@@ -13,7 +14,8 @@
     "translit": "(Hymeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "beloved,",
@@ -21,7 +23,8 @@
     "translit": "(agapētoi)",
     "parse": "Adjective - Vocative Masculine Plural",
     "str": "Strong's 27:  ",
-    "str2": "From agapao; beloved."
+    "str2": "From agapao; beloved.",
+    "num": 27
   },
   {
     "word": "remember",
@@ -29,7 +32,8 @@
     "translit": "(mnēsthēte)",
     "parse": "Verb - Aorist Imperative Passive - 2nd Person Plural",
     "str": "Strong's 3403:  ",
-    "str2": "To remember, call to mind, recall, mention. A prolonged form of mnaomai; to remind, i.e. to recall to mind."
+    "str2": "To remember, call to mind, recall, mention. A prolonged form of mnaomai; to remind, i.e. to recall to mind.",
+    "num": 3403
   },
   {
     "word": "what",
@@ -37,7 +41,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "was foretold",
@@ -45,7 +50,8 @@
     "translit": "(proeirēmenōn)",
     "parse": "Verb - Perfect Participle Middle or Passive - Genitive Neuter Plural",
     "str": "Strong's 4302:  ",
-    "str2": "To tell (say) beforehand, forewarn, declare, tell plainly. From pro and lego; to say beforehand, i.e. Predict, forewarn."
+    "str2": "To tell (say) beforehand, forewarn, declare, tell plainly. From pro and lego; to say beforehand, i.e. Predict, forewarn.",
+    "num": 4302
   },
   {
     "word": "by",
@@ -53,7 +59,8 @@
     "translit": "(hypo)",
     "parse": "Preposition",
     "str": "Strong's 5259:  ",
-    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when)."
+    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when).",
+    "num": 5259
   },
   {
     "word": "the",
@@ -61,7 +68,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "apostles",
@@ -69,7 +77,8 @@
     "translit": "(apostolōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 652:  ",
-    "str2": "From apostello; a delegate; specially, an ambassador of the Gospel; officially a commissioner of Christ."
+    "str2": "From apostello; a delegate; specially, an ambassador of the Gospel; officially a commissioner of Christ.",
+    "num": 652
   },
   {
     "word": "of our",
@@ -77,7 +86,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "Lord",
@@ -85,7 +95,8 @@
     "translit": "(Kyriou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "Jesus",
@@ -93,7 +104,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "Christ",
@@ -101,6 +113,7 @@
     "translit": "(Christou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   }
 ]

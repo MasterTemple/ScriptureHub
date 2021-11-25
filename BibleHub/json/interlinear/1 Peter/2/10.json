@@ -5,7 +5,8 @@
     "translit": "(pote)",
     "parse": "Particle",
     "str": "Strong's 4218:  ",
-    "str2": "At one time or other, at some time, formerly. From the base of pou and te; indefinite adverb, at some time, ever."
+    "str2": "At one time or other, at some time, formerly. From the base of pou and te; indefinite adverb, at some time, ever.",
+    "num": 4218
   },
   {
     "word": "[you were]",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "not",
@@ -21,7 +23,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "a people,",
@@ -29,7 +32,8 @@
     "translit": "(laos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2992:  ",
-    "str2": "Apparently a primary word; a people."
+    "str2": "Apparently a primary word; a people.",
+    "num": 2992
   },
   {
     "word": "but",
@@ -37,7 +41,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "now [you are]",
@@ -45,7 +50,8 @@
     "translit": "(nyn)",
     "parse": "Adverb",
     "str": "Strong's 3568:  ",
-    "str2": "A primary particle of present time; 'now'; also as noun or adjective present or immediate."
+    "str2": "A primary particle of present time; 'now'; also as noun or adjective present or immediate.",
+    "num": 3568
   },
   {
     "word": "[the] people",
@@ -53,7 +59,8 @@
     "translit": "(laos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2992:  ",
-    "str2": "Apparently a primary word; a people."
+    "str2": "Apparently a primary word; a people.",
+    "num": 2992
   },
   {
     "word": "of God;",
@@ -61,7 +68,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "[once you]",
@@ -69,7 +77,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "had not received mercy,",
@@ -77,7 +86,8 @@
     "translit": "(ēleēmenoi)",
     "parse": "Verb - Perfect Participle Middle or Passive - Nominative Masculine Plural",
     "str": "Strong's 1653:  ",
-    "str2": "To pity, have mercy on. From eleos; to compassionate."
+    "str2": "To pity, have mercy on. From eleos; to compassionate.",
+    "num": 1653
   },
   {
     "word": "but",
@@ -85,7 +95,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "now",
@@ -93,7 +104,8 @@
     "translit": "(nyn)",
     "parse": "Adverb",
     "str": "Strong's 3568:  ",
-    "str2": "A primary particle of present time; 'now'; also as noun or adjective present or immediate."
+    "str2": "A primary particle of present time; 'now'; also as noun or adjective present or immediate.",
+    "num": 3568
   },
   {
     "word": "you have received mercy.",
@@ -101,6 +113,7 @@
     "translit": "(eleēthentes)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Plural",
     "str": "Strong's 1653:  ",
-    "str2": "To pity, have mercy on. From eleos; to compassionate."
+    "str2": "To pity, have mercy on. From eleos; to compassionate.",
+    "num": 1653
   }
 ]

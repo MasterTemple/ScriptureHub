@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you must surely kill him.",
@@ -13,7 +14,8 @@
     "translit": "(hā·rōḡ)",
     "parse": "Verb - Qal - Infinitive absolute",
     "str": "Strong's 2026:  ",
-    "str2": "To smite with deadly intent"
+    "str2": "To smite with deadly intent",
+    "num": 2026
   },
   {
     "word": "Your hand",
@@ -21,7 +23,8 @@
     "translit": "(yā·ḏə·ḵā)",
     "parse": "Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "must be",
@@ -29,7 +32,8 @@
     "translit": "(tih·yeh-)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "the first",
@@ -37,7 +41,8 @@
     "translit": "(ḇā·ri·šō·w·nāh)",
     "parse": "Preposition-b, Article | Adjective - feminine singular",
     "str": "Strong's 7223:  ",
-    "str2": "First, in place, time, rank"
+    "str2": "First, in place, time, rank",
+    "num": 7223
   },
   {
     "word": "against him",
@@ -45,7 +50,8 @@
     "translit": "(bōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "to put him to death,",
@@ -53,7 +59,8 @@
     "translit": "(la·hă·mî·ṯōw)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct | third person masculine singular",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   },
   {
     "word": "and then",
@@ -61,7 +68,8 @@
     "translit": "(bā·’a·ḥă·rō·nāh)",
     "parse": "Preposition-b, Article | Adjective - feminine singular",
     "str": "Strong's 314:  ",
-    "str2": "Hinder, late, last, western"
+    "str2": "Hinder, late, last, western",
+    "num": 314
   },
   {
     "word": "the hands",
@@ -69,7 +77,8 @@
     "translit": "(wə·yaḏ)",
     "parse": "Conjunctive waw | Noun - feminine singular construct",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "of all",
@@ -77,7 +86,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the people.",
@@ -85,6 +95,7 @@
     "translit": "(hā·‘ām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   }
 ]

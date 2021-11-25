@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "a violent",
@@ -13,7 +14,8 @@
     "translit": "(megas)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3173:  ",
-    "str2": "Large, great, in the widest sense. "
+    "str2": "Large, great, in the widest sense. ",
+    "num": 3173
   },
   {
     "word": "storm",
@@ -21,7 +23,8 @@
     "translit": "(seismos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4578:  ",
-    "str2": "A shaking (as an earthquake); a storm. From seio; a commotion, i.e. a gale, an earthquake."
+    "str2": "A shaking (as an earthquake); a storm. From seio; a commotion, i.e. a gale, an earthquake.",
+    "num": 4578
   },
   {
     "word": "came up",
@@ -29,7 +32,8 @@
     "translit": "(egeneto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "on",
@@ -37,7 +41,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "sea,",
@@ -53,7 +59,8 @@
     "translit": "(thalassē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 2281:  ",
-    "str2": "Probably prolonged from hals; the sea."
+    "str2": "Probably prolonged from hals; the sea.",
+    "num": 2281
   },
   {
     "word": "so that",
@@ -61,7 +68,8 @@
     "translit": "(hōste)",
     "parse": "Conjunction",
     "str": "Strong's 5620:  ",
-    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore."
+    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore.",
+    "num": 5620
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "boat",
@@ -77,7 +86,8 @@
     "translit": "(ploion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4143:  ",
-    "str2": "A ship, vessel, boat. From pleo; a sailer, i.e. Vessel."
+    "str2": "A ship, vessel, boat. From pleo; a sailer, i.e. Vessel.",
+    "num": 4143
   },
   {
     "word": "was engulfed",
@@ -85,7 +95,8 @@
     "translit": "(kalyptesthai)",
     "parse": "Verb - Present Infinitive Middle or Passive",
     "str": "Strong's 2572:  ",
-    "str2": "To veil, hide, conceal, envelop. Akin to klepto and krupto; to cover up."
+    "str2": "To veil, hide, conceal, envelop. Akin to klepto and krupto; to cover up.",
+    "num": 2572
   },
   {
     "word": "by",
@@ -93,7 +104,8 @@
     "translit": "(hypo)",
     "parse": "Preposition",
     "str": "Strong's 5259:  ",
-    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when)."
+    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when).",
+    "num": 5259
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "waves;",
@@ -109,7 +122,8 @@
     "translit": "(kymatōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 2949:  ",
-    "str2": "A wave, surge, billow. From kuo (with young), i.e. Bend, curve); a billow."
+    "str2": "A wave, surge, billow. From kuo (with young), i.e. Bend, curve); a billow.",
+    "num": 2949
   },
   {
     "word": "but",
@@ -117,7 +131,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[Jesus]",
@@ -125,7 +140,8 @@
     "translit": "(autos)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "was sleeping.",
@@ -133,6 +149,7 @@
     "translit": "(ekatheuden)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 2518:  ",
-    "str2": "To sleep, be sleeping. From kata and heudo; to lie down to rest, i.e. to fall asleep."
+    "str2": "To sleep, be sleeping. From kata and heudo; to lie down to rest, i.e. to fall asleep.",
+    "num": 2518
   }
 ]

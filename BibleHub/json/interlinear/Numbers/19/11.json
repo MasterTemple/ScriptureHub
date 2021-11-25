@@ -5,7 +5,8 @@
     "translit": "(han·nō·ḡê·a‘)",
     "parse": "Article | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 5060:  ",
-    "str2": "To touch, lay the hand upon, to reach, violently, to strike"
+    "str2": "To touch, lay the hand upon, to reach, violently, to strike",
+    "num": 5060
   },
   {
     "word": "any",
@@ -13,7 +14,8 @@
     "translit": "(lə·ḵāl)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "dead",
@@ -21,7 +23,8 @@
     "translit": "(bə·mêṯ)",
     "parse": "Preposition-b | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   },
   {
     "word": "body",
@@ -29,7 +32,8 @@
     "translit": "(ne·p̄eš)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   },
   {
     "word": "will be unclean",
@@ -37,7 +41,8 @@
     "translit": "(wə·ṭā·mê)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 2930:  ",
-    "str2": "To be or become unclean"
+    "str2": "To be or become unclean",
+    "num": 2930
   },
   {
     "word": "for seven",
@@ -45,7 +50,8 @@
     "translit": "(šiḇ·‘aṯ)",
     "parse": "Number - masculine singular construct",
     "str": "Strong's 7651:  ",
-    "str2": "Seven, seven times, a week, an indefinite number"
+    "str2": "Seven, seven times, a week, an indefinite number",
+    "num": 7651
   },
   {
     "word": "days.",
@@ -53,6 +59,7 @@
     "translit": "(yā·mîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   }
 ]

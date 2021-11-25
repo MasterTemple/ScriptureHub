@@ -5,7 +5,8 @@
     "translit": "(gam)",
     "parse": "Conjunction",
     "str": "Strong's 1571:  ",
-    "str2": "Assemblage, also, even, yea, though, both, and"
+    "str2": "Assemblage, also, even, yea, though, both, and",
+    "num": 1571
   },
   {
     "word": "though",
@@ -13,7 +14,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I walk",
@@ -21,7 +23,8 @@
     "translit": "(’ê·lêḵ)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "through the valley",
@@ -29,7 +32,8 @@
     "translit": "(bə·ḡê)",
     "parse": "Preposition-b | Noun - common singular construct",
     "str": "Strong's 1516:  ",
-    "str2": "A valley"
+    "str2": "A valley",
+    "num": 1516
   },
   {
     "word": "of the shadow of death,",
@@ -37,7 +41,8 @@
     "translit": "(ṣal·mā·weṯ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6757:  ",
-    "str2": "Death-like shadow, deep shadow"
+    "str2": "Death-like shadow, deep shadow",
+    "num": 6757
   },
   {
     "word": "I will fear",
@@ -45,7 +50,8 @@
     "translit": "(’î·rā)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 3372:  ",
-    "str2": "To fear, to revere, caus, to frighten"
+    "str2": "To fear, to revere, caus, to frighten",
+    "num": 3372
   },
   {
     "word": "no",
@@ -53,7 +59,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "evil,",
@@ -61,7 +68,8 @@
     "translit": "(rā‘)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "for",
@@ -69,7 +77,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "You",
@@ -77,7 +86,8 @@
     "translit": "(’at·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "are with me;",
@@ -85,7 +95,8 @@
     "translit": "(‘im·mā·ḏî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 5978:  ",
-    "str2": "Against, by, from, me, mine, of, that I take, unto, "
+    "str2": "Against, by, from, me, mine, of, that I take, unto, ",
+    "num": 5978
   },
   {
     "word": "Your rod",
@@ -93,7 +104,8 @@
     "translit": "(šiḇ·ṭə·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 7626:  ",
-    "str2": "Rod, staff, club, scepter, tribe"
+    "str2": "Rod, staff, club, scepter, tribe",
+    "num": 7626
   },
   {
     "word": "and Your staff,",
@@ -101,7 +113,8 @@
     "translit": "(ū·miš·‘an·te·ḵā)",
     "parse": "Conjunctive waw | Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 4938:  ",
-    "str2": "Support, sustenance, a walking-stick"
+    "str2": "Support, sustenance, a walking-stick",
+    "num": 4938
   },
   {
     "word": "they",
@@ -109,7 +122,8 @@
     "translit": "(hêm·māh)",
     "parse": "Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "comfort me.",
@@ -117,6 +131,7 @@
     "translit": "(yə·na·ḥă·mu·nî)",
     "parse": "Verb - Piel - Imperfect - third person masculine plural | first person common singular",
     "str": "Strong's 5162:  ",
-    "str2": "To sigh, breathe strongly, to be sorry, to pity, console, rue, to avenge"
+    "str2": "To sigh, breathe strongly, to be sorry, to pity, console, rue, to avenge",
+    "num": 5162
   }
 ]

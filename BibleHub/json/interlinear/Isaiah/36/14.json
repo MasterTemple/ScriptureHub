@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the king",
@@ -13,7 +14,8 @@
     "translit": "(ham·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "says:",
@@ -21,7 +23,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "Do not",
@@ -29,7 +32,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "let Hezekiah",
@@ -37,7 +41,8 @@
     "translit": "(ḥiz·qî·yā·hū)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 2396:  ",
-    "str2": "Hezekiah -- 'Yah has strengthened', a king of Judah, also several other Israelites"
+    "str2": "Hezekiah -- 'Yah has strengthened', a king of Judah, also several other Israelites",
+    "num": 2396
   },
   {
     "word": "deceive you,",
@@ -45,7 +50,8 @@
     "translit": "(yaš·ši)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular",
     "str": "Strong's 5377:  ",
-    "str2": "To lead astray, to delude, to seduce"
+    "str2": "To lead astray, to delude, to seduce",
+    "num": 5377
   },
   {
     "word": "for",
@@ -53,7 +59,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "he cannot",
@@ -61,7 +68,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "deliver",
@@ -69,7 +77,8 @@
     "translit": "(lə·haṣ·ṣîl)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct",
     "str": "Strong's 5337:  ",
-    "str2": "To strip, plunder, deliver oneself, be delivered, snatch away, deliver"
+    "str2": "To strip, plunder, deliver oneself, be delivered, snatch away, deliver",
+    "num": 5337
   },
   {
     "word": "you.",
@@ -77,6 +86,7 @@
     "translit": "(’eṯ·ḵem)",
     "parse": "Direct object marker | second person masculine plural",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   }
 ]

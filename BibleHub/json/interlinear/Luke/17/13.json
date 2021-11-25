@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "raised",
@@ -13,7 +14,8 @@
     "translit": "(ēran)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 142:  ",
-    "str2": "To raise, lift up, take away, remove. "
+    "str2": "To raise, lift up, take away, remove. ",
+    "num": 142
   },
   {
     "word": "[their] voices,",
@@ -21,7 +23,8 @@
     "translit": "(phōnēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5456:  ",
-    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language."
+    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language.",
+    "num": 5456
   },
   {
     "word": "shouting,",
@@ -29,7 +32,8 @@
     "translit": "(legontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“Jesus,",
@@ -37,7 +41,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "Master,",
@@ -45,7 +50,8 @@
     "translit": "(Epistata)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 1988:  ",
-    "str2": "Master, teacher, chief, commander. From epi and a presumed derivative of histemi; an appointee over, i.e. Commander."
+    "str2": "Master, teacher, chief, commander. From epi and a presumed derivative of histemi; an appointee over, i.e. Commander.",
+    "num": 1988
   },
   {
     "word": "have mercy on",
@@ -53,7 +59,8 @@
     "translit": "(eleēson)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 1653:  ",
-    "str2": "To pity, have mercy on. From eleos; to compassionate."
+    "str2": "To pity, have mercy on. From eleos; to compassionate.",
+    "num": 1653
   },
   {
     "word": "us!”",
@@ -61,6 +68,7 @@
     "translit": "(hēmas)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   }
 ]

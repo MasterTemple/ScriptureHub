@@ -5,7 +5,8 @@
     "translit": "(’a·ḥaḏ)",
     "parse": "Number - masculine singular construct",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "[journey] from Horeb",
@@ -13,7 +14,8 @@
     "translit": "(mê·ḥō·rêḇ)",
     "parse": "Preposition-m | Noun - proper - feminine singular",
     "str": "Strong's 2722:  ",
-    "str2": "Horeb -- 'waste', a mountain in Sinai"
+    "str2": "Horeb -- 'waste', a mountain in Sinai",
+    "num": 2722
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(‘aḏ)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "Kadesh-barnea",
@@ -29,7 +32,8 @@
     "translit": "(bar·nê·a‘)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 6947:  ",
-    "str2": "Kadesh-barnea -- a place in the desert"
+    "str2": "Kadesh-barnea -- a place in the desert",
+    "num": 6947
   },
   {
     "word": "by way",
@@ -37,7 +41,8 @@
     "translit": "(de·reḵ)",
     "parse": "Noun - common singular construct",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   },
   {
     "word": "of Mount",
@@ -45,7 +50,8 @@
     "translit": "(har-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 2022:  ",
-    "str2": "Mountain, hill, hill country"
+    "str2": "Mountain, hill, hill country",
+    "num": 2022
   },
   {
     "word": "Seir.",
@@ -53,6 +59,7 @@
     "translit": "(śê·‘îr)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 8165:  ",
-    "str2": "Seir -- a mountain range in Edom, also its inhabitants, also a mountain in Judah"
+    "str2": "Seir -- a mountain range in Edom, also its inhabitants, also a mountain in Judah",
+    "num": 8165
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(agria)",
     "parse": "Adjective - Nominative Neuter Plural",
     "str": "Strong's 66:  ",
-    "str2": "Wild, fierce. From agros; wild, literally or figuratively."
+    "str2": "Wild, fierce. From agros; wild, literally or figuratively.",
+    "num": 66
   },
   {
     "word": "waves",
@@ -13,7 +14,8 @@
     "translit": "(kymata)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 2949:  ",
-    "str2": "A wave, surge, billow. From kuo (with young), i.e. Bend, curve); a billow."
+    "str2": "A wave, surge, billow. From kuo (with young), i.e. Bend, curve); a billow.",
+    "num": 2949
   },
   {
     "word": "of [the] sea,",
@@ -21,7 +23,8 @@
     "translit": "(thalassēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2281:  ",
-    "str2": "Probably prolonged from hals; the sea."
+    "str2": "Probably prolonged from hals; the sea.",
+    "num": 2281
   },
   {
     "word": "foaming up",
@@ -29,7 +32,8 @@
     "translit": "(epaphrizonta)",
     "parse": "Verb - Present Participle Active - Nominative Neuter Plural",
     "str": "Strong's 1890:  ",
-    "str2": "From epi and aphrizo; to foam upon, i.e. to exhibit."
+    "str2": "From epi and aphrizo; to foam upon, i.e. to exhibit.",
+    "num": 1890
   },
   {
     "word": "their",
@@ -37,7 +41,8 @@
     "translit": "(heautōn)",
     "parse": "Reflexive Pronoun - Genitive Neuter 3rd Person Plural",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   },
   {
     "word": "[own]",
@@ -45,7 +50,8 @@
     "translit": "(tas)",
     "parse": "Article - Accusative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "shame;",
@@ -53,7 +59,8 @@
     "translit": "(aischynas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 152:  ",
-    "str2": "Shame, shamefacedness, shameful deeds. From aischunomai; shame or disgrace."
+    "str2": "Shame, shamefacedness, shameful deeds. From aischunomai; shame or disgrace.",
+    "num": 152
   },
   {
     "word": "wandering",
@@ -61,7 +68,8 @@
     "translit": "(planētai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 4107:  ",
-    "str2": "A wanderer. From planos; a rover, i.e. an erratic teacher."
+    "str2": "A wanderer. From planos; a rover, i.e. an erratic teacher.",
+    "num": 4107
   },
   {
     "word": "stars,",
@@ -69,7 +77,8 @@
     "translit": "(asteres)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 792:  ",
-    "str2": "A star. Probably from the base of stronnumi; a star, literally or figuratively."
+    "str2": "A star. Probably from the base of stronnumi; a star, literally or figuratively.",
+    "num": 792
   },
   {
     "word": "for whom",
@@ -77,7 +86,8 @@
     "translit": "(hois)",
     "parse": "Personal / Relative Pronoun - Dative Masculine Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "blackest",
@@ -85,7 +95,8 @@
     "translit": "(zophos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2217:  ",
-    "str2": "Darkness, murkiness, gloom. Akin to the base of nephos; gloom."
+    "str2": "Darkness, murkiness, gloom. Akin to the base of nephos; gloom.",
+    "num": 2217
   },
   {
     "word": "darkness",
@@ -93,7 +104,8 @@
     "translit": "(skotous)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 4655:  ",
-    "str2": "Darkness, either physical or moral. From the base of skia; shadiness, i.e. Obscurity."
+    "str2": "Darkness, either physical or moral. From the base of skia; shadiness, i.e. Obscurity.",
+    "num": 4655
   },
   {
     "word": "has been reserved",
@@ -101,7 +113,8 @@
     "translit": "(tetērētai)",
     "parse": "Verb - Perfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 5083:  ",
-    "str2": "From teros; to guard, i.e. To note; by implication, to detain; by extension, to withhold; by extension, to withhold."
+    "str2": "From teros; to guard, i.e. To note; by implication, to detain; by extension, to withhold; by extension, to withhold.",
+    "num": 5083
   },
   {
     "word": "forever.",
@@ -109,6 +122,7 @@
     "translit": "(aiōna)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 165:  ",
-    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period."
+    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period.",
+    "num": 165
   }
 ]

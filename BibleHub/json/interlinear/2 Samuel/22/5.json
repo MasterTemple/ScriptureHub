@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the waves",
@@ -13,7 +14,8 @@
     "translit": "(miš·bə·rê-)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 4867:  ",
-    "str2": "A breaker (of the sea)"
+    "str2": "A breaker (of the sea)",
+    "num": 4867
   },
   {
     "word": "of death",
@@ -21,7 +23,8 @@
     "translit": "(mā·weṯ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4194:  ",
-    "str2": "Death, the dead, their place, state, pestilence, ruin"
+    "str2": "Death, the dead, their place, state, pestilence, ruin",
+    "num": 4194
   },
   {
     "word": "engulfed me;",
@@ -29,7 +32,8 @@
     "translit": "(’ă·p̄ā·p̄u·nî)",
     "parse": "Verb - Qal - Perfect - third person common plural | first person common singular",
     "str": "Strong's 661:  ",
-    "str2": "To surround, encompass"
+    "str2": "To surround, encompass",
+    "num": 661
   },
   {
     "word": "the torrents",
@@ -37,7 +41,8 @@
     "translit": "(na·ḥă·lê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 5158:  ",
-    "str2": "A stream, a winter torrent, a, valley, a shaft"
+    "str2": "A stream, a winter torrent, a, valley, a shaft",
+    "num": 5158
   },
   {
     "word": "of chaos",
@@ -45,7 +50,8 @@
     "translit": "(ḇə·lî·ya·‘al)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1100:  ",
-    "str2": "Without profit, worthlessness, destruction, wickedness "
+    "str2": "Without profit, worthlessness, destruction, wickedness ",
+    "num": 1100
   },
   {
     "word": "overwhelmed me.",
@@ -53,6 +59,7 @@
     "translit": "(yə·ḇa·‘ă·ṯu·nî)",
     "parse": "Verb - Piel - Imperfect - third person masculine plural | first person common singular",
     "str": "Strong's 1204:  ",
-    "str2": "To fall upon, startle, terrify"
+    "str2": "To fall upon, startle, terrify",
+    "num": 1204
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "I",
@@ -13,7 +14,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "could wish that",
@@ -21,7 +23,8 @@
     "translit": "(ēuchomēn)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 1st Person Singular",
     "str": "Strong's 2172:  ",
-    "str2": "To pray, wish. Middle voice of a primary verb; to wish; by implication, to pray to God."
+    "str2": "To pray, wish. Middle voice of a primary verb; to wish; by implication, to pray to God.",
+    "num": 2172
   },
   {
     "word": "I myself",
@@ -29,7 +32,8 @@
     "translit": "(autos)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "were",
@@ -37,7 +41,8 @@
     "translit": "(einai)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "cursed",
@@ -45,7 +50,8 @@
     "translit": "(anathema)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 331:  ",
-    "str2": "A votive offering, a thing devoted to God; a curse, the thing cursed. From anatithemai; a ban or excommunicated."
+    "str2": "A votive offering, a thing devoted to God; a curse, the thing cursed. From anatithemai; a ban or excommunicated.",
+    "num": 331
   },
   {
     "word": "[and] cut off from",
@@ -53,7 +59,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "Christ",
@@ -61,7 +68,8 @@
     "translit": "(Christou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "for the sake of",
@@ -69,7 +77,8 @@
     "translit": "(hyper)",
     "parse": "Preposition",
     "str": "Strong's 5228:  ",
-    "str2": "Gen: in behalf of; acc: above. "
+    "str2": "Gen: in behalf of; acc: above. ",
+    "num": 5228
   },
   {
     "word": "my",
@@ -77,7 +86,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "brothers,",
@@ -85,7 +95,8 @@
     "translit": "(adelphōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "my",
@@ -93,7 +104,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "own flesh and blood,",
@@ -101,6 +113,7 @@
     "translit": "(syngenōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 4773:  ",
-    "str2": "Akin to, related; subst: fellow countryman, kinsman. From sun and genos; a relative; by extension, a fellow countryman."
+    "str2": "Akin to, related; subst: fellow countryman, kinsman. From sun and genos; a relative; by extension, a fellow countryman.",
+    "num": 4773
   }
 ]

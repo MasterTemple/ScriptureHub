@@ -5,7 +5,8 @@
     "translit": "(’ă·nāh)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 576:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 576
   },
   {
     "word": "King",
@@ -13,7 +14,8 @@
     "translit": "(mal·kā)",
     "parse": "Noun - masculine singular determinate",
     "str": "Strong's 4430:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4430
   },
   {
     "word": "Artaxerxes,",
@@ -21,7 +23,8 @@
     "translit": "(’ar·taḥ·šast)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 783:  ",
-    "str2": "Artaxerxes -- a son and successor of Xerxes, king of Persia"
+    "str2": "Artaxerxes -- a son and successor of Xerxes, king of Persia",
+    "num": 783
   },
   {
     "word": "decree",
@@ -29,7 +32,8 @@
     "translit": "(ṭə·‘êm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2942:  ",
-    "str2": "Flavor, judgment, account"
+    "str2": "Flavor, judgment, account",
+    "num": 2942
   },
   {
     "word": "to all",
@@ -37,7 +41,8 @@
     "translit": "(lə·ḵōl)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 3606:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3606
   },
   {
     "word": "the treasurers",
@@ -45,7 +50,8 @@
     "translit": "(giz·zaḇ·ray·yā)",
     "parse": "Noun - masculine plural determinate",
     "str": "Strong's 1490:  ",
-    "str2": "Treasurer"
+    "str2": "Treasurer",
+    "num": 1490
   },
   {
     "word": "west",
@@ -53,7 +59,8 @@
     "translit": "(ba·‘ă·ḇar)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 5675:  ",
-    "str2": "A region across, on the opposite side"
+    "str2": "A region across, on the opposite side",
+    "num": 5675
   },
   {
     "word": "of the Euphrates:",
@@ -61,7 +68,8 @@
     "translit": "(na·hă·rāh)",
     "parse": "Noun - masculine singular determinate",
     "str": "Strong's 5103:  ",
-    "str2": "A river, the Euphrates"
+    "str2": "A river, the Euphrates",
+    "num": 5103
   },
   {
     "word": "Whatever",
@@ -69,7 +77,8 @@
     "translit": "(ḵāl)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3606:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3606
   },
   {
     "word": "Ezra",
@@ -77,7 +86,8 @@
     "translit": "(‘ez·rā)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 5831:  ",
-    "str2": "Ezra -- an Israelite"
+    "str2": "Ezra -- an Israelite",
+    "num": 5831
   },
   {
     "word": "the priest,",
@@ -85,7 +95,8 @@
     "translit": "(ḵā·hă·nāh)",
     "parse": "Noun - masculine singular determinate",
     "str": "Strong's 3549:  ",
-    "str2": "Priest"
+    "str2": "Priest",
+    "num": 3549
   },
   {
     "word": "the scribe",
@@ -93,7 +104,8 @@
     "translit": "(sā·p̄ar)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 5613:  ",
-    "str2": "A secretary, scribe"
+    "str2": "A secretary, scribe",
+    "num": 5613
   },
   {
     "word": "of the Law",
@@ -101,7 +113,8 @@
     "translit": "(dā·ṯā)",
     "parse": "Noun - feminine singular determinate",
     "str": "Strong's 1882:  ",
-    "str2": "A royal edict, statute"
+    "str2": "A royal edict, statute",
+    "num": 1882
   },
   {
     "word": "of",
@@ -109,7 +122,8 @@
     "translit": "(dî)",
     "parse": "Pronoun - relative",
     "str": "Strong's 1768:  ",
-    "str2": "Who, which, that, because"
+    "str2": "Who, which, that, because",
+    "num": 1768
   },
   {
     "word": "the God",
@@ -117,7 +131,8 @@
     "translit": "(’ĕ·lāh)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 426:  ",
-    "str2": "God"
+    "str2": "God",
+    "num": 426
   },
   {
     "word": "of heaven,",
@@ -125,7 +140,8 @@
     "translit": "(šə·may·yā)",
     "parse": "Noun - masculine plural determinate",
     "str": "Strong's 8065:  ",
-    "str2": "The sky"
+    "str2": "The sky",
+    "num": 8065
   },
   {
     "word": "may require of you,",
@@ -133,7 +149,8 @@
     "translit": "(yiš·’ă·len·ḵō·wn)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular | second person masculine plural",
     "str": "Strong's 7593:  ",
-    "str2": "To inquire, to request, to demand"
+    "str2": "To inquire, to request, to demand",
+    "num": 7593
   },
   {
     "word": "it must be provided",
@@ -141,7 +158,8 @@
     "translit": "(yiṯ·‘ă·ḇiḏ)",
     "parse": "Verb - Hitpael - Imperfect - third person masculine singular",
     "str": "Strong's 5648:  ",
-    "str2": "To do, make, prepare, keep"
+    "str2": "To do, make, prepare, keep",
+    "num": 5648
   },
   {
     "word": "promptly,",
@@ -149,6 +167,7 @@
     "translit": "(’ā·sə·par·nā)",
     "parse": "Adverb",
     "str": "Strong's 629:  ",
-    "str2": "Thoroughly, with (all) diligence"
+    "str2": "Thoroughly, with (all) diligence",
+    "num": 629
   }
 ]

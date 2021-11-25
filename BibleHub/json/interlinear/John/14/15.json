@@ -5,7 +5,8 @@
     "translit": "(Ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "you love",
@@ -13,7 +14,8 @@
     "translit": "(agapate)",
     "parse": "Verb - Present Subjunctive Active - 2nd Person Plural",
     "str": "Strong's 25:  ",
-    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love."
+    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love.",
+    "num": 25
   },
   {
     "word": "Me,",
@@ -21,7 +23,8 @@
     "translit": "(me)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "you will keep",
@@ -29,7 +32,8 @@
     "translit": "(tērēsete)",
     "parse": "Verb - Future Indicative Active - 2nd Person Plural",
     "str": "Strong's 5083:  ",
-    "str2": "From teros; to guard, i.e. To note; by implication, to detain; by extension, to withhold; by extension, to withhold."
+    "str2": "From teros; to guard, i.e. To note; by implication, to detain; by extension, to withhold; by extension, to withhold.",
+    "num": 5083
   },
   {
     "word": "My",
@@ -37,7 +41,8 @@
     "translit": "(emas)",
     "parse": "Personal / Possessive Pronoun - Accusative Feminine 1st Person Plural",
     "str": "Strong's 1699:  ",
-    "str2": "My, mine. From the oblique cases of ego; my."
+    "str2": "My, mine. From the oblique cases of ego; my.",
+    "num": 1699
   },
   {
     "word": "commandments.",
@@ -45,6 +50,7 @@
     "translit": "(entolas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 1785:  ",
-    "str2": "An ordinance, injunction, command, law. From entellomai; injunction, i.e. An authoritative prescription."
+    "str2": "An ordinance, injunction, command, law. From entellomai; injunction, i.e. An authoritative prescription.",
+    "num": 1785
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(hos)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "had",
@@ -13,7 +14,8 @@
     "translit": "(eichen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "been living",
@@ -21,7 +23,8 @@
     "translit": "(katoikēsin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2731:  ",
-    "str2": "A dwelling, abode, habitation. From katoikeo; residence."
+    "str2": "A dwelling, abode, habitation. From katoikeo; residence.",
+    "num": 2731
   },
   {
     "word": "in",
@@ -29,7 +32,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "tombs",
@@ -45,7 +50,8 @@
     "translit": "(mnēmasin)",
     "parse": "Noun - Dative Neuter Plural",
     "str": "Strong's 3418:  ",
-    "str2": "A tomb, monument, memorial. From mnaomai; a memorial, i.e. Sepulchral monument."
+    "str2": "A tomb, monument, memorial. From mnaomai; a memorial, i.e. Sepulchral monument.",
+    "num": 3418
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "could",
@@ -61,7 +68,8 @@
     "translit": "(edynato)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1410:  ",
-    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible."
+    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible.",
+    "num": 1410
   },
   {
     "word": "no longer",
@@ -69,7 +77,8 @@
     "translit": "(ouketi)",
     "parse": "Adverb",
     "str": "Strong's 3765:  ",
-    "str2": "No longer, no more. Also ouk eti from ou and eti; not yet, no longer."
+    "str2": "No longer, no more. Also ouk eti from ou and eti; not yet, no longer.",
+    "num": 3765
   },
   {
     "word": "be restrained,",
@@ -77,7 +86,8 @@
     "translit": "(dēsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 1210:  ",
-    "str2": "To bind, tie, fasten; I impel, compel; I declare to be prohibited and unlawful. A primary verb; to bind."
+    "str2": "To bind, tie, fasten; I impel, compel; I declare to be prohibited and unlawful. A primary verb; to bind.",
+    "num": 1210
   },
   {
     "word": "[even]",
@@ -85,7 +95,8 @@
     "translit": "(oude)",
     "parse": "Adverb",
     "str": "Strong's 3761:  ",
-    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even."
+    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even.",
+    "num": 3761
   },
   {
     "word": "with chains.",
@@ -93,6 +104,7 @@
     "translit": "(halysei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 254:  ",
-    "str2": "A (light) chain, bond. Of uncertain derivation; a fetter or manacle."
+    "str2": "A (light) chain, bond. Of uncertain derivation; a fetter or manacle.",
+    "num": 254
   }
 ]

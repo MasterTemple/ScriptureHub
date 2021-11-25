@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "a woman",
@@ -13,7 +14,8 @@
     "translit": "(gynē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1135:  ",
-    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife."
+    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife.",
+    "num": 1135
   },
   {
     "word": "was there",
@@ -21,7 +23,8 @@
     "translit": "(ousa)",
     "parse": "Verb - Present Participle Active - Nominative Feminine Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "who had been afflicted",
@@ -29,7 +32,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "for twelve",
@@ -37,7 +41,8 @@
     "translit": "(dōdeka)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 1427:  ",
-    "str2": "Twelve; the usual way in which the Twelve apostles of Jesus are referred to. From duo and deka; two and ten, i.e. A dozen."
+    "str2": "Twelve; the usual way in which the Twelve apostles of Jesus are referred to. From duo and deka; two and ten, i.e. A dozen.",
+    "num": 1427
   },
   {
     "word": "years",
@@ -45,7 +50,8 @@
     "translit": "(etē)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 2094:  ",
-    "str2": "A year. Apparently a primary word; a year."
+    "str2": "A year. Apparently a primary word; a year.",
+    "num": 2094
   },
   {
     "word": "by an issue",
@@ -53,7 +59,8 @@
     "translit": "(rhysei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4511:  ",
-    "str2": "A flowing, an issue. From rhoumai in the sense of its congener rheo; a flux."
+    "str2": "A flowing, an issue. From rhoumai in the sense of its congener rheo; a flux.",
+    "num": 4511
   },
   {
     "word": "of bleeding.",
@@ -61,6 +68,7 @@
     "translit": "(haimatos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 129:  ",
-    "str2": "Blood, literally, figuratively or specially; by implication, bloodshed, also kindred."
+    "str2": "Blood, literally, figuratively or specially; by implication, bloodshed, also kindred.",
+    "num": 129
   }
 ]

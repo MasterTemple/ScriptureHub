@@ -5,7 +5,8 @@
     "translit": "(kōh-)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the Lord",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "says:",
@@ -29,7 +32,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘I will destroy",
@@ -37,7 +41,8 @@
     "translit": "(wə·ha·’ă·ḇaḏ·tî)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - first person common singular",
     "str": "Strong's 6:  ",
-    "str2": "To wander away, lose oneself, to perish"
+    "str2": "To wander away, lose oneself, to perish",
+    "num": 6
   },
   {
     "word": "the idols",
@@ -45,7 +50,8 @@
     "translit": "(ḡil·lū·lîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 1544:  ",
-    "str2": "A log, an idol"
+    "str2": "A log, an idol",
+    "num": 1544
   },
   {
     "word": "and put an end",
@@ -53,7 +59,8 @@
     "translit": "(wə·hiš·bat·tî)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - first person common singular",
     "str": "Strong's 7673:  ",
-    "str2": "To repose, desist from exertion"
+    "str2": "To repose, desist from exertion",
+    "num": 7673
   },
   {
     "word": "to the images",
@@ -61,7 +68,8 @@
     "translit": "(’ĕ·lî·lîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 457:  ",
-    "str2": "Good for, nothing, by anal, vain, vanity, an idol"
+    "str2": "Good for, nothing, by anal, vain, vanity, an idol",
+    "num": 457
   },
   {
     "word": "in Memphis.",
@@ -69,7 +77,8 @@
     "translit": "(min·nōp̄)",
     "parse": "Preposition-m | Noun - proper - feminine singular",
     "str": "Strong's 5297:  ",
-    "str2": "Memphis -- a city in Egypt"
+    "str2": "Memphis -- a city in Egypt",
+    "num": 5297
   },
   {
     "word": "There will no",
@@ -77,7 +86,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "longer",
@@ -85,7 +95,8 @@
     "translit": "(‘ō·wḏ)",
     "parse": "Adverb",
     "str": "Strong's 5750:  ",
-    "str2": "Iteration, continuance, again, repeatedly, still, more"
+    "str2": "Iteration, continuance, again, repeatedly, still, more",
+    "num": 5750
   },
   {
     "word": "be",
@@ -93,7 +104,8 @@
     "translit": "(yih·yeh-)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "a prince",
@@ -101,7 +113,8 @@
     "translit": "(wə·nā·śî)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 5387:  ",
-    "str2": "An exalted one, a king, sheik, a rising mist"
+    "str2": "An exalted one, a king, sheik, a rising mist",
+    "num": 5387
   },
   {
     "word": "in Egypt,",
@@ -109,7 +122,8 @@
     "translit": "(miṣ·ra·yim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 4714:  ",
-    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa"
+    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+    "num": 4714
   },
   {
     "word": "and I will instill",
@@ -117,7 +131,8 @@
     "translit": "(wə·nā·ṯat·tî)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - first person common singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "fear",
@@ -125,7 +140,8 @@
     "translit": "(yir·’āh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 3374:  ",
-    "str2": "Fear, reverence"
+    "str2": "Fear, reverence",
+    "num": 3374
   },
   {
     "word": "in that land.",
@@ -133,6 +149,7 @@
     "translit": "(bə·’e·reṣ)",
     "parse": "Preposition-b | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   }
 ]

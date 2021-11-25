@@ -5,7 +5,8 @@
     "translit": "(māh)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "do you",
@@ -13,7 +14,8 @@
     "translit": "(’at·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "see?”",
@@ -21,7 +23,8 @@
     "translit": "(rō·’eh)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "he asked.",
@@ -29,7 +32,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“I see",
@@ -37,7 +41,8 @@
     "translit": "(rā·’î·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "a solid gold",
@@ -45,7 +50,8 @@
     "translit": "(zā·hāḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2091:  ",
-    "str2": "Gold, something gold-colored, as oil, a clear sky"
+    "str2": "Gold, something gold-colored, as oil, a clear sky",
+    "num": 2091
   },
   {
     "word": "lampstand,”",
@@ -53,7 +59,8 @@
     "translit": "(mə·nō·w·raṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 4501:  ",
-    "str2": "A chandelier"
+    "str2": "A chandelier",
+    "num": 4501
   },
   {
     "word": "I replied,",
@@ -61,7 +68,8 @@
     "translit": "(wā·’ō·mar)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - first person common singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“with",
@@ -69,7 +77,8 @@
     "translit": "(wə·hin·nêh)",
     "parse": "Conjunctive waw | Interjection",
     "str": "Strong's 2009:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2009
   },
   {
     "word": "a bowl",
@@ -77,7 +86,8 @@
     "translit": "(wə·ḡul·lāh)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 1543:  ",
-    "str2": "A fountain, bowl, globe"
+    "str2": "A fountain, bowl, globe",
+    "num": 1543
   },
   {
     "word": "at",
@@ -85,7 +95,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the top",
@@ -93,7 +104,8 @@
     "translit": "(rō·šāh)",
     "parse": "Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 7218:  ",
-    "str2": "The head"
+    "str2": "The head",
+    "num": 7218
   },
   {
     "word": "and seven",
@@ -101,7 +113,8 @@
     "translit": "(wə·šiḇ·‘āh)",
     "parse": "Conjunctive waw | Number - masculine singular",
     "str": "Strong's 7651:  ",
-    "str2": "Seven, seven times, a week, an indefinite number"
+    "str2": "Seven, seven times, a week, an indefinite number",
+    "num": 7651
   },
   {
     "word": "lamps",
@@ -109,7 +122,8 @@
     "translit": "(nê·rō·ṯe·hā)",
     "parse": "Noun - masculine plural construct | third person feminine singular",
     "str": "Strong's 5216:  ",
-    "str2": "A lamp, light"
+    "str2": "A lamp, light",
+    "num": 5216
   },
   {
     "word": "on it,",
@@ -117,7 +131,8 @@
     "translit": "(‘ā·le·hā)",
     "parse": "Preposition | third person feminine singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "with seven",
@@ -125,7 +140,8 @@
     "translit": "(wə·šiḇ·‘āh)",
     "parse": "Conjunctive waw | Number - masculine singular",
     "str": "Strong's 7651:  ",
-    "str2": "Seven, seven times, a week, an indefinite number"
+    "str2": "Seven, seven times, a week, an indefinite number",
+    "num": 7651
   },
   {
     "word": "spouts",
@@ -133,7 +149,8 @@
     "translit": "(mū·ṣā·qō·wṯ)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 4166:  ",
-    "str2": "Something poured out, a casting, a tube"
+    "str2": "Something poured out, a casting, a tube",
+    "num": 4166
   },
   {
     "word": "to each of the lamps.",
@@ -141,6 +158,7 @@
     "translit": "(lan·nê·rō·wṯ)",
     "parse": "Preposition-l, Article | Noun - masculine plural",
     "str": "Strong's 5216:  ",
-    "str2": "A lamp, light"
+    "str2": "A lamp, light",
+    "num": 5216
   }
 ]

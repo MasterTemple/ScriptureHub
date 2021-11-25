@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "a priest’s",
@@ -13,7 +14,8 @@
     "translit": "(kō·hên)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3548:  ",
-    "str2": "Priest"
+    "str2": "Priest",
+    "num": 3548
   },
   {
     "word": "daughter",
@@ -21,7 +23,8 @@
     "translit": "(ū·ḇaṯ)",
     "parse": "Conjunctive waw | Noun - feminine singular construct",
     "str": "Strong's 1323:  ",
-    "str2": "A daughter"
+    "str2": "A daughter",
+    "num": 1323
   },
   {
     "word": "defiles herself",
@@ -29,7 +32,8 @@
     "translit": "(ṯê·ḥêl)",
     "parse": "Verb - Nifal - Imperfect - third person feminine singular",
     "str": "Strong's 2490:  ",
-    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play"
+    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play",
+    "num": 2490
   },
   {
     "word": "by prostituting herself,",
@@ -37,7 +41,8 @@
     "translit": "(liz·nō·wṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 2181:  ",
-    "str2": "To commit adultery, to commit idolatry"
+    "str2": "To commit adultery, to commit idolatry",
+    "num": 2181
   },
   {
     "word": "she",
@@ -45,7 +50,8 @@
     "translit": "(hî)",
     "parse": "Pronoun - third person feminine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "profanes",
@@ -53,7 +59,8 @@
     "translit": "(mə·ḥal·le·leṯ)",
     "parse": "Verb - Piel - Participle - feminine singular",
     "str": "Strong's 2490:  ",
-    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play"
+    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play",
+    "num": 2490
   },
   {
     "word": "her father;",
@@ -61,7 +68,8 @@
     "translit": "(’ā·ḇî·hā)",
     "parse": "Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "she must be burned",
@@ -69,7 +77,8 @@
     "translit": "(tiś·śā·rêp̄)",
     "parse": "Verb - Nifal - Imperfect - third person feminine singular",
     "str": "Strong's 8313:  ",
-    "str2": "To be, on fire"
+    "str2": "To be, on fire",
+    "num": 8313
   },
   {
     "word": "in the fire.",
@@ -77,6 +86,7 @@
     "translit": "(bā·’êš)",
     "parse": "Preposition-b, Article | Noun - common singular",
     "str": "Strong's 784:  ",
-    "str2": "A fire"
+    "str2": "A fire",
+    "num": 784
   }
 ]

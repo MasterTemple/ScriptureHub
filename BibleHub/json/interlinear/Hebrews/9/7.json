@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "only",
@@ -13,7 +14,8 @@
     "translit": "(monos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3441:  ",
-    "str2": "Only, solitary, desolate. Probably from meno; remaining, i.e. Sole or single; by implication, mere."
+    "str2": "Only, solitary, desolate. Probably from meno; remaining, i.e. Sole or single; by implication, mere.",
+    "num": 3441
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "high priest",
@@ -29,7 +32,8 @@
     "translit": "(archiereus)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 749:  ",
-    "str2": "High priest, chief priest. From arche and hiereus; the high-priest; by extension a chief priest."
+    "str2": "High priest, chief priest. From arche and hiereus; the high-priest; by extension a chief priest.",
+    "num": 749
   },
   {
     "word": "[entered]",
@@ -37,7 +41,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "[inner room],",
@@ -53,7 +59,8 @@
     "translit": "(deuteran)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 1208:  ",
-    "str2": "Second; with the article: in the second place, for the second time. As the compare of duo; second."
+    "str2": "Second; with the article: in the second place, for the second time. As the compare of duo; second.",
+    "num": 1208
   },
   {
     "word": "[and then] only once",
@@ -61,7 +68,8 @@
     "translit": "(hapax)",
     "parse": "Adverb",
     "str": "Strong's 530:  ",
-    "str2": "Once, once for all. Probably from hapas; one time."
+    "str2": "Once, once for all. Probably from hapas; one time.",
+    "num": 530
   },
   {
     "word": "a year,",
@@ -69,7 +77,8 @@
     "translit": "(eniautou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 1763:  ",
-    "str2": "A year, cycle of time. Prolongation from a primary enos; a year."
+    "str2": "A year, cycle of time. Prolongation from a primary enos; a year.",
+    "num": 1763
   },
   {
     "word": "[and] never",
@@ -77,7 +86,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "without",
@@ -85,7 +95,8 @@
     "translit": "(chōris)",
     "parse": "Preposition",
     "str": "Strong's 5565:  ",
-    "str2": "Apart from, separately from; without. Adverb from chora; at a space, i.e. Separately or apart from."
+    "str2": "Apart from, separately from; without. Adverb from chora; at a space, i.e. Separately or apart from.",
+    "num": 5565
   },
   {
     "word": "blood,",
@@ -93,7 +104,8 @@
     "translit": "(haimatos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 129:  ",
-    "str2": "Blood, literally, figuratively or specially; by implication, bloodshed, also kindred."
+    "str2": "Blood, literally, figuratively or specially; by implication, bloodshed, also kindred.",
+    "num": 129
   },
   {
     "word": "which",
@@ -101,7 +113,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "he offered",
@@ -109,7 +122,8 @@
     "translit": "(prospherei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 4374:  ",
-    "str2": "From pros and phero; to bear towards, i.e. Lead to, tender, treat."
+    "str2": "From pros and phero; to bear towards, i.e. Lead to, tender, treat.",
+    "num": 4374
   },
   {
     "word": "for",
@@ -117,7 +131,8 @@
     "translit": "(hyper)",
     "parse": "Preposition",
     "str": "Strong's 5228:  ",
-    "str2": "Gen: in behalf of; acc: above. "
+    "str2": "Gen: in behalf of; acc: above. ",
+    "num": 5228
   },
   {
     "word": "himself",
@@ -125,7 +140,8 @@
     "translit": "(heautou)",
     "parse": "Reflexive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 1438:  ",
-    "str2": "Himself, herself, itself. "
+    "str2": "Himself, herself, itself. ",
+    "num": 1438
   },
   {
     "word": "and",
@@ -133,7 +149,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "for the",
@@ -141,7 +158,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "sins the people had committed in ignorance.",
@@ -149,6 +167,7 @@
     "translit": "(agnoēmatōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 51:  ",
-    "str2": "From agnoeo; a thing ignored, i.e. Shortcoming."
+    "str2": "From agnoeo; a thing ignored, i.e. Shortcoming.",
+    "num": 51
   }
 ]

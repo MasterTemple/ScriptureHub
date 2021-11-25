@@ -5,7 +5,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "like",
@@ -13,7 +14,8 @@
     "translit": "(homoios)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3664:  ",
-    "str2": "Like, similar to, resembling, of equal rank. From the base of homou; similar."
+    "str2": "Like, similar to, resembling, of equal rank. From the base of homou; similar.",
+    "num": 3664
   },
   {
     "word": "a man",
@@ -21,7 +23,8 @@
     "translit": "(anthrōpō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "building",
@@ -29,7 +32,8 @@
     "translit": "(oikodomounti)",
     "parse": "Verb - Present Participle Active - Dative Masculine Singular",
     "str": "Strong's 3618:  ",
-    "str2": "From the same as oikodome; to be a house-builder, i.e. Construct or confirm."
+    "str2": "From the same as oikodome; to be a house-builder, i.e. Construct or confirm.",
+    "num": 3618
   },
   {
     "word": "a house,",
@@ -37,7 +41,8 @@
     "translit": "(oikian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3614:  ",
-    "str2": "From oikos; properly, residence, but usually an abode; by implication, a family."
+    "str2": "From oikos; properly, residence, but usually an abode; by implication, a family.",
+    "num": 3614
   },
   {
     "word": "who",
@@ -45,7 +50,8 @@
     "translit": "(hos)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "dug down",
@@ -53,7 +59,8 @@
     "translit": "(eskapsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 4626:  ",
-    "str2": "To dig, excavate. Apparently a primary verb; to dig."
+    "str2": "To dig, excavate. Apparently a primary verb; to dig.",
+    "num": 4626
   },
   {
     "word": "deep",
@@ -61,7 +68,8 @@
     "translit": "(ebathynen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 900:  ",
-    "str2": "To deepen, excavate. From bathus; to deepen."
+    "str2": "To deepen, excavate. From bathus; to deepen.",
+    "num": 900
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "laid",
@@ -77,7 +86,8 @@
     "translit": "(ethēken)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 5087:  ",
-    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place."
+    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place.",
+    "num": 5087
   },
   {
     "word": "[his] foundation",
@@ -85,7 +95,8 @@
     "translit": "(themelion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 2310:  ",
-    "str2": "From a derivative of tithemi; something put down, i.e. A substruction."
+    "str2": "From a derivative of tithemi; something put down, i.e. A substruction.",
+    "num": 2310
   },
   {
     "word": "on",
@@ -93,7 +104,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "rock.",
@@ -109,7 +122,8 @@
     "translit": "(petran)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4073:  ",
-    "str2": "A rock, ledge, cliff, cave, stony ground. Feminine of the same as Petros; a rock."
+    "str2": "A rock, ledge, cliff, cave, stony ground. Feminine of the same as Petros; a rock.",
+    "num": 4073
   },
   {
     "word": "When",
@@ -117,7 +131,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[the] flood",
@@ -125,7 +140,8 @@
     "translit": "(plēmmyrēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4132:  ",
-    "str2": "A flood. Prolonged from pletho; flood-tide, i.e. a freshet."
+    "str2": "A flood. Prolonged from pletho; flood-tide, i.e. a freshet.",
+    "num": 4132
   },
   {
     "word": "came,",
@@ -133,7 +149,8 @@
     "translit": "(genomenēs)",
     "parse": "Verb - Aorist Participle Middle - Genitive Feminine Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "the",
@@ -141,7 +158,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "torrent",
@@ -149,7 +167,8 @@
     "translit": "(potamos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4215:  ",
-    "str2": "A river, torrent, stream. Probably from a derivative of the alternate of pino; a current, brook or freshet, i.e. Running water."
+    "str2": "A river, torrent, stream. Probably from a derivative of the alternate of pino; a current, brook or freshet, i.e. Running water.",
+    "num": 4215
   },
   {
     "word": "crashed against",
@@ -157,7 +176,8 @@
     "translit": "(proserēxen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 4366:  ",
-    "str2": "To dash against, as waves. From pros and rhegnumi; to tear towards, i.e. Burst upon."
+    "str2": "To dash against, as waves. From pros and rhegnumi; to tear towards, i.e. Burst upon.",
+    "num": 4366
   },
   {
     "word": "that",
@@ -165,7 +185,8 @@
     "translit": "(ekeinē)",
     "parse": "Demonstrative Pronoun - Dative Feminine Singular",
     "str": "Strong's 1565:  ",
-    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed."
+    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed.",
+    "num": 1565
   },
   {
     "word": "house",
@@ -173,7 +194,8 @@
     "translit": "(oikia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3614:  ",
-    "str2": "From oikos; properly, residence, but usually an abode; by implication, a family."
+    "str2": "From oikos; properly, residence, but usually an abode; by implication, a family.",
+    "num": 3614
   },
   {
     "word": "but",
@@ -181,7 +203,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "could",
@@ -189,7 +212,8 @@
     "translit": "(ischysen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2480:  ",
-    "str2": "To have strength, be strong, be in full health and vigor, be able; meton: I prevail. From ischus; to have force."
+    "str2": "To have strength, be strong, be in full health and vigor, be able; meton: I prevail. From ischus; to have force.",
+    "num": 2480
   },
   {
     "word": "not",
@@ -197,7 +221,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "shake",
@@ -205,7 +230,8 @@
     "translit": "(saleusai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 4531:  ",
-    "str2": "From salos; to waver, i.e. Agitate, rock, topple or destroy; figuratively, to disturb, incite."
+    "str2": "From salos; to waver, i.e. Agitate, rock, topple or destroy; figuratively, to disturb, incite.",
+    "num": 4531
   },
   {
     "word": "it,",
@@ -213,7 +239,8 @@
     "translit": "(autēn)",
     "parse": "Personal / Possessive Pronoun - Accusative Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "because",
@@ -221,7 +248,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "it",
@@ -229,7 +257,8 @@
     "translit": "(autēn)",
     "parse": "Personal / Possessive Pronoun - Accusative Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "was well built.",
@@ -237,6 +266,7 @@
     "translit": "(oikodomēsthai)",
     "parse": "Verb - Perfect Infinitive Middle or Passive",
     "str": "Strong's 3618:  ",
-    "str2": "From the same as oikodome; to be a house-builder, i.e. Construct or confirm."
+    "str2": "From the same as oikodome; to be a house-builder, i.e. Construct or confirm.",
+    "num": 3618
   }
 ]

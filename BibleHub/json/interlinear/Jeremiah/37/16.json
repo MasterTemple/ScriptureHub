@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "Jeremiah",
@@ -13,7 +14,8 @@
     "translit": "(yir·mə·yā·hū)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3414:  ",
-    "str2": "Jeremiah -- 'Yah loosens', the name of a number of Israelites"
+    "str2": "Jeremiah -- 'Yah loosens', the name of a number of Israelites",
+    "num": 3414
   },
   {
     "word": "went",
@@ -21,7 +23,8 @@
     "translit": "(ḇā)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "into",
@@ -29,7 +32,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "a cell",
@@ -37,7 +41,8 @@
     "translit": "(bêṯ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "in",
@@ -45,7 +50,8 @@
     "translit": "(wə·’el-)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the dungeon",
@@ -53,7 +59,8 @@
     "translit": "(ha·ḥă·nu·yō·wṯ)",
     "parse": "Article | Noun - feminine plural",
     "str": "Strong's 2588:  ",
-    "str2": "A vault, cell, a prison"
+    "str2": "A vault, cell, a prison",
+    "num": 2588
   },
   {
     "word": "and remained",
@@ -61,7 +68,8 @@
     "translit": "(way·yê·šeḇ-)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "there",
@@ -69,7 +77,8 @@
     "translit": "(šām)",
     "parse": "Adverb",
     "str": "Strong's 8033:  ",
-    "str2": "There, then, thither"
+    "str2": "There, then, thither",
+    "num": 8033
   },
   {
     "word": "a long time.",
@@ -77,6 +86,7 @@
     "translit": "(rab·bîm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 7227:  ",
-    "str2": "Much, many, great"
+    "str2": "Much, many, great",
+    "num": 7227
   }
 ]

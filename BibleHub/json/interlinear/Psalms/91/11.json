@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "He will command",
@@ -13,7 +14,8 @@
     "translit": "(yə·ṣaw·weh-)",
     "parse": "Verb - Piel - Imperfect - third person masculine singular",
     "str": "Strong's 6680:  ",
-    "str2": "To lay charge (upon), give charge (to), command, order"
+    "str2": "To lay charge (upon), give charge (to), command, order",
+    "num": 6680
   },
   {
     "word": "His angels",
@@ -21,7 +23,8 @@
     "translit": "(mal·’ā·ḵāw)",
     "parse": "Noun - masculine plural construct | third person masculine singular",
     "str": "Strong's 4397:  ",
-    "str2": "A messenger, of God, an angel"
+    "str2": "A messenger, of God, an angel",
+    "num": 4397
   },
   {
     "word": "concerning you",
@@ -29,7 +32,8 @@
     "translit": "(lāḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "to guard you",
@@ -37,7 +41,8 @@
     "translit": "(liš·mā·rə·ḵā)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct | second person masculine singular",
     "str": "Strong's 8104:  ",
-    "str2": "To hedge about, guard, to protect, attend to"
+    "str2": "To hedge about, guard, to protect, attend to",
+    "num": 8104
   },
   {
     "word": "in all",
@@ -45,7 +50,8 @@
     "translit": "(bə·ḵāl)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "your ways.",
@@ -53,6 +59,7 @@
     "translit": "(də·rā·ḵe·ḵā)",
     "parse": "Noun - common plural construct | second person masculine singular",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   }
 ]

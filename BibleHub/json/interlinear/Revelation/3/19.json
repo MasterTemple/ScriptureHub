@@ -5,7 +5,8 @@
     "translit": "(hosous)",
     "parse": "Personal / Relative Pronoun - Accusative Masculine Plural",
     "str": "Strong's 3745:  ",
-    "str2": "How much, how great, how many, as great as, as much. By reduplication from hos; as As."
+    "str2": "How much, how great, how many, as great as, as much. By reduplication from hos; as As.",
+    "num": 3745
   },
   {
     "word": "I",
@@ -13,7 +14,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "love,",
@@ -21,7 +23,8 @@
     "translit": "(philō)",
     "parse": "Verb - Present Subjunctive Active - 1st Person Singular",
     "str": "Strong's 5368:  ",
-    "str2": "From philos; to be a friend to (an individual or an object), i.e. Have affection for; specially, to kiss."
+    "str2": "From philos; to be a friend to (an individual or an object), i.e. Have affection for; specially, to kiss.",
+    "num": 5368
   },
   {
     "word": "I rebuke",
@@ -29,7 +32,8 @@
     "translit": "(elenchō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 1651:  ",
-    "str2": "(a) I reprove, rebuke, discipline, (b) I expose, show to be guilty. Of uncertain affinity; to confute, admonish."
+    "str2": "(a) I reprove, rebuke, discipline, (b) I expose, show to be guilty. Of uncertain affinity; to confute, admonish.",
+    "num": 1651
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "discipline.",
@@ -45,7 +50,8 @@
     "translit": "(paideuō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 3811:  ",
-    "str2": "From pais; to train up a child, i.e. Educate, or, discipline."
+    "str2": "From pais; to train up a child, i.e. Educate, or, discipline.",
+    "num": 3811
   },
   {
     "word": "Therefore",
@@ -53,7 +59,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "be earnest",
@@ -61,7 +68,8 @@
     "translit": "(zēleue)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 2206:  ",
-    "str2": "From zelos; to have warmth of feeling for or against."
+    "str2": "From zelos; to have warmth of feeling for or against.",
+    "num": 2206
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "repent.",
@@ -77,6 +86,7 @@
     "translit": "(metanoēson)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 3340:  ",
-    "str2": "From meta and noieo; to think differently or afterwards, i.e. Reconsider."
+    "str2": "From meta and noieo; to think differently or afterwards, i.e. Reconsider.",
+    "num": 3340
   }
 ]

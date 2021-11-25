@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "there will be",
@@ -13,7 +14,8 @@
     "translit": "(yeš-)",
     "parse": "Adverb",
     "str": "Strong's 3426:  ",
-    "str2": "Being, substance, existence, is"
+    "str2": "Being, substance, existence, is",
+    "num": 3426
   },
   {
     "word": "a day",
@@ -21,7 +23,8 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "when watchmen",
@@ -29,7 +32,8 @@
     "translit": "(nō·ṣə·rîm)",
     "parse": "Verb - Qal - Participle - masculine plural",
     "str": "Strong's 5341:  ",
-    "str2": "To watch, guard, keep"
+    "str2": "To watch, guard, keep",
+    "num": 5341
   },
   {
     "word": "will call out",
@@ -37,7 +41,8 @@
     "translit": "(qā·rə·’ū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 7121:  ",
-    "str2": "To call, proclaim, read"
+    "str2": "To call, proclaim, read",
+    "num": 7121
   },
   {
     "word": "on the hills",
@@ -45,7 +50,8 @@
     "translit": "(bə·har)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 2022:  ",
-    "str2": "Mountain, hill, hill country"
+    "str2": "Mountain, hill, hill country",
+    "num": 2022
   },
   {
     "word": "of Ephraim,",
@@ -53,7 +59,8 @@
     "translit": "(’ep̄·rā·yim)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 669:  ",
-    "str2": "Ephraim -- a son of Joseph, also his descendants and their territory"
+    "str2": "Ephraim -- a son of Joseph, also his descendants and their territory",
+    "num": 669
   },
   {
     "word": "‘Arise,",
@@ -61,7 +68,8 @@
     "translit": "(qū·mū)",
     "parse": "Verb - Qal - Imperative - masculine plural",
     "str": "Strong's 6965:  ",
-    "str2": "To arise, stand up, stand"
+    "str2": "To arise, stand up, stand",
+    "num": 6965
   },
   {
     "word": "let us go up",
@@ -69,7 +77,8 @@
     "translit": "(wə·na·‘ă·leh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect Cohortative if contextual - first person common plural",
     "str": "Strong's 5927:  ",
-    "str2": "To ascend, in, actively"
+    "str2": "To ascend, in, actively",
+    "num": 5927
   },
   {
     "word": "to Zion,",
@@ -77,7 +86,8 @@
     "translit": "(ṣî·yō·wn)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 6726:  ",
-    "str2": "Zion -- a mountain in Jerusalem, also a name for Jerusalem"
+    "str2": "Zion -- a mountain in Jerusalem, also a name for Jerusalem",
+    "num": 6726
   },
   {
     "word": "to",
@@ -85,7 +95,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the LORD",
@@ -93,7 +104,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "our God!’”",
@@ -101,6 +113,7 @@
     "translit": "(’ĕ·lō·hê·nū)",
     "parse": "Noun - masculine plural construct | first person common plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   }
 ]

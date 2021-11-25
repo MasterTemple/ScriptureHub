@@ -5,7 +5,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "brothers,",
@@ -13,7 +14,8 @@
     "translit": "(adelphoi)",
     "parse": "Noun - Vocative Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "can",
@@ -21,7 +23,8 @@
     "translit": "(dynatai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1410:  ",
-    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible."
+    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible.",
+    "num": 1410
   },
   {
     "word": "a fig tree",
@@ -29,7 +32,8 @@
     "translit": "(sykē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4808:  ",
-    "str2": "A fig-tree. From sukon; a fig-tree."
+    "str2": "A fig-tree. From sukon; a fig-tree.",
+    "num": 4808
   },
   {
     "word": "grow",
@@ -37,7 +41,8 @@
     "translit": "(poiēsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "olives,",
@@ -45,7 +50,8 @@
     "translit": "(elaias)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 1636:  ",
-    "str2": "An olive tree; the Mount of Olives. Feminine of a presumed derivative from an obsolete primary; an olive."
+    "str2": "An olive tree; the Mount of Olives. Feminine of a presumed derivative from an obsolete primary; an olive.",
+    "num": 1636
   },
   {
     "word": "or",
@@ -53,7 +59,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "a grapevine",
@@ -61,7 +68,8 @@
     "translit": "(ampelos)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 288:  ",
-    "str2": "A vine, grape-vine. Probably from the base of amphoteros and that of halon; a vine."
+    "str2": "A vine, grape-vine. Probably from the base of amphoteros and that of halon; a vine.",
+    "num": 288
   },
   {
     "word": "[bear] figs?",
@@ -69,7 +77,8 @@
     "translit": "(syka)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 4810:  ",
-    "str2": "A (ripe) fig. Apparently a primary word; a fig."
+    "str2": "A (ripe) fig. Apparently a primary word; a fig.",
+    "num": 4810
   },
   {
     "word": "Neither [can]",
@@ -77,7 +86,8 @@
     "translit": "(oute)",
     "parse": "Conjunction",
     "str": "Strong's 3777:  ",
-    "str2": "And not, neither, nor. From ou and te; not too, i.e. Neither or nor; by analogy, not even."
+    "str2": "And not, neither, nor. From ou and te; not too, i.e. Neither or nor; by analogy, not even.",
+    "num": 3777
   },
   {
     "word": "a salt [spring]",
@@ -85,7 +95,8 @@
     "translit": "(halykon)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 252:  ",
-    "str2": "Salty, saltine, bitter. From hals; briny."
+    "str2": "Salty, saltine, bitter. From hals; briny.",
+    "num": 252
   },
   {
     "word": "produce",
@@ -93,7 +104,8 @@
     "translit": "(poiēsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "fresh",
@@ -101,7 +113,8 @@
     "translit": "(glyky)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 1099:  ",
-    "str2": "Sweet. Of uncertain affinity; sweet."
+    "str2": "Sweet. Of uncertain affinity; sweet.",
+    "num": 1099
   },
   {
     "word": "water.",
@@ -109,6 +122,7 @@
     "translit": "(hydōr)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 5204:  ",
-    "str2": "Water. And genitive case, hudatos, etc. From the base of huetos; water literally or figuratively."
+    "str2": "Water. And genitive case, hudatos, etc. From the base of huetos; water literally or figuratively.",
+    "num": 5204
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "they gave",
@@ -13,7 +14,8 @@
     "translit": "(epedōkan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1929:  ",
-    "str2": "(a) trans: I hand in, give up, (b) intrans: I give way (to the wind). From epi and didomi; to give over."
+    "str2": "(a) trans: I hand in, give up, (b) intrans: I give way (to the wind). From epi and didomi; to give over.",
+    "num": 1929
   },
   {
     "word": "Him",
@@ -21,7 +23,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "a piece",
@@ -29,7 +32,8 @@
     "translit": "(meros)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3313:  ",
-    "str2": "A part, portion, share. From an obsolete but more primary form of meiromai; a division or share."
+    "str2": "A part, portion, share. From an obsolete but more primary form of meiromai; a division or share.",
+    "num": 3313
   },
   {
     "word": "of broiled",
@@ -37,7 +41,8 @@
     "translit": "(optou)",
     "parse": "Adjective - Genitive Masculine Singular",
     "str": "Strong's 3702:  ",
-    "str2": "Roasted, broiled. From an obsolete verb akin to hepso; cooked, i.e. Roasted."
+    "str2": "Roasted, broiled. From an obsolete verb akin to hepso; cooked, i.e. Roasted.",
+    "num": 3702
   },
   {
     "word": "fish,",
@@ -45,6 +50,7 @@
     "translit": "(ichthyos)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2486:  ",
-    "str2": "A fish. Of uncertain affinity; a fish."
+    "str2": "A fish. Of uncertain affinity; a fish.",
+    "num": 2486
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "[the] mediator",
@@ -13,7 +14,8 @@
     "translit": "(mesitē)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 3316:  ",
-    "str2": "From mesos; a go-between, i.e. an internunciator, or a reconciler."
+    "str2": "From mesos; a go-between, i.e. an internunciator, or a reconciler.",
+    "num": 3316
   },
   {
     "word": "of a new",
@@ -21,7 +23,8 @@
     "translit": "(neas)",
     "parse": "Adjective - Genitive Feminine Singular",
     "str": "Strong's 3501:  ",
-    "str2": "(a) young, youthful, (b) new, fresh. "
+    "str2": "(a) young, youthful, (b) new, fresh. ",
+    "num": 3501
   },
   {
     "word": "covenant,",
@@ -29,7 +32,8 @@
     "translit": "(diathēkēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1242:  ",
-    "str2": "From diatithemai; properly, a disposition, i.e. a contract."
+    "str2": "From diatithemai; properly, a disposition, i.e. a contract.",
+    "num": 1242
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "to [the] sprinkled",
@@ -45,7 +50,8 @@
     "translit": "(rhantismou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 4473:  ",
-    "str2": "Sprinkling, purification. From rhantizo; aspersion."
+    "str2": "Sprinkling, purification. From rhantizo; aspersion.",
+    "num": 4473
   },
   {
     "word": "blood",
@@ -53,7 +59,8 @@
     "translit": "(haimati)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 129:  ",
-    "str2": "Blood, literally, figuratively or specially; by implication, bloodshed, also kindred."
+    "str2": "Blood, literally, figuratively or specially; by implication, bloodshed, also kindred.",
+    "num": 129
   },
   {
     "word": "that speaks",
@@ -61,7 +68,8 @@
     "translit": "(lalounti)",
     "parse": "Verb - Present Participle Active - Dative Masculine Singular",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "a better word",
@@ -69,7 +77,8 @@
     "translit": "(kreitton)",
     "parse": "Adjective - Accusative Neuter Singular - Comparative",
     "str": "Strong's 2909:  ",
-    "str2": "Stronger, more excellent. Comparative of a derivative of kratos; stronger, i.e. better, i.e. Nobler."
+    "str2": "Stronger, more excellent. Comparative of a derivative of kratos; stronger, i.e. better, i.e. Nobler.",
+    "num": 2909
   },
   {
     "word": "than",
@@ -77,7 +86,8 @@
     "translit": "(para)",
     "parse": "Preposition",
     "str": "Strong's 3844:  ",
-    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. "
+    "str2": "Gen: from; dat: beside, in the presence of; acc: alongside of. ",
+    "num": 3844
   },
   {
     "word": "[the blood] of",
@@ -85,7 +95,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Abel.",
@@ -93,6 +104,7 @@
     "translit": "(Habel)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 6:  ",
-    "str2": "Abel, second son of Adam and Eve, brother of Cain. Of Hebrew origin; Abel, the son of Adam."
+    "str2": "Abel, second son of Adam and Eve, brother of Cain. Of Hebrew origin; Abel, the son of Adam.",
+    "num": 6
   }
 ]

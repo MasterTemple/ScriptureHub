@@ -5,7 +5,8 @@
     "translit": "(Tote)",
     "parse": "Adverb",
     "str": "Strong's 5119:  ",
-    "str2": "Then, at that time. From ho and hote; the when, i.e. At the time that."
+    "str2": "Then, at that time. From ho and hote; the when, i.e. At the time that.",
+    "num": 5119
   },
   {
     "word": "[some] Pharisees",
@@ -13,7 +14,8 @@
     "translit": "(Pharisaioi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 5330:  ",
-    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary."
+    "str2": "Of Hebrew origin; a separatist, i.e. Exclusively religious; a Pharisean, i.e. Jewish sectary.",
+    "num": 5330
   },
   {
     "word": "and",
@@ -21,7 +23,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "scribes",
@@ -29,7 +32,8 @@
     "translit": "(grammateis)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 1122:  ",
-    "str2": "From gramma. A writer, i.e. scribe or secretary."
+    "str2": "From gramma. A writer, i.e. scribe or secretary.",
+    "num": 1122
   },
   {
     "word": "came",
@@ -37,7 +41,8 @@
     "translit": "(proserchontai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 4334:  ",
-    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to."
+    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to.",
+    "num": 4334
   },
   {
     "word": "to Jesus",
@@ -45,7 +50,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "from",
@@ -53,7 +59,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "Jerusalem",
@@ -61,7 +68,8 @@
     "translit": "(Hierosolymōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 2414:  ",
-    "str2": "The Greek form of the Hebrew name: Jerusalem. Of Hebrew origin; Hierosolyma"
+    "str2": "The Greek form of the Hebrew name: Jerusalem. Of Hebrew origin; Hierosolyma",
+    "num": 2414
   },
   {
     "word": "[and] asked,",
@@ -69,6 +77,7 @@
     "translit": "(legontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[some] men",
@@ -13,7 +14,8 @@
     "translit": "(andres)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "[came] carrying",
@@ -21,7 +23,8 @@
     "translit": "(pherontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 5342:  ",
-    "str2": "To carry, bear, bring; I conduct, lead; perhaps: I make publicly known. A primary verb."
+    "str2": "To carry, bear, bring; I conduct, lead; perhaps: I make publicly known. A primary verb.",
+    "num": 5342
   },
   {
     "word": "a paralyzed",
@@ -29,7 +32,8 @@
     "translit": "(paralelymenos)",
     "parse": "Verb - Perfect Participle Middle or Passive - Nominative Masculine Singular",
     "str": "Strong's 3886:  ",
-    "str2": "To relax, enfeeble, weaken. From para and luo; to loosen beside, i.e. Relax."
+    "str2": "To relax, enfeeble, weaken. From para and luo; to loosen beside, i.e. Relax.",
+    "num": 3886
   },
   {
     "word": "man",
@@ -37,7 +41,8 @@
     "translit": "(anthrōpon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "on",
@@ -45,7 +50,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "a mat.",
@@ -53,7 +59,8 @@
     "translit": "(klinēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2825:  ",
-    "str2": "A couch, bed, portable bed or mat, a couch for reclining at meals, possibly also a bier. From klino; a couch."
+    "str2": "A couch, bed, portable bed or mat, a couch for reclining at meals, possibly also a bier. From klino; a couch.",
+    "num": 2825
   },
   {
     "word": "They tried",
@@ -61,7 +68,8 @@
     "translit": "(ezētoun)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2212:  ",
-    "str2": "To seek, search for, desire, require, demand. Of uncertain affinity; to seek; specially, to worship, or to plot."
+    "str2": "To seek, search for, desire, require, demand. Of uncertain affinity; to seek; specially, to worship, or to plot.",
+    "num": 2212
   },
   {
     "word": "to bring him inside",
@@ -69,7 +77,8 @@
     "translit": "(eisenenkein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 1533:  ",
-    "str2": "To lead into, bring in, announce. From eis and phero; to carry inward."
+    "str2": "To lead into, bring in, announce. From eis and phero; to carry inward.",
+    "num": 1533
   },
   {
     "word": "to set",
@@ -77,7 +86,8 @@
     "translit": "(theinai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 5087:  ",
-    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place."
+    "str2": "To put, place, lay, set, fix, establish. A prolonged form of a primary theo to place.",
+    "num": 5087
   },
   {
     "word": "him",
@@ -85,7 +95,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "before",
@@ -93,7 +104,8 @@
     "translit": "(enōpion)",
     "parse": "Preposition",
     "str": "Strong's 1799:  ",
-    "str2": "Neuter of a compound of en and a derivative of optanomai; in the face of."
+    "str2": "Neuter of a compound of en and a derivative of optanomai; in the face of.",
+    "num": 1799
   },
   {
     "word": "[Jesus],",
@@ -101,6 +113,7 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

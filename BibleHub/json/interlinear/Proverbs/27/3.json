@@ -5,7 +5,8 @@
     "translit": "(’e·ḇen)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 68:  ",
-    "str2": "A stone"
+    "str2": "A stone",
+    "num": 68
   },
   {
     "word": "is heavy",
@@ -13,7 +14,8 @@
     "translit": "(kō·ḇeḏ-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3514:  ",
-    "str2": "Weight, multitude, vehemence"
+    "str2": "Weight, multitude, vehemence",
+    "num": 3514
   },
   {
     "word": "and sand",
@@ -21,7 +23,8 @@
     "translit": "(ha·ḥō·wl)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 2344:  ",
-    "str2": "Sand"
+    "str2": "Sand",
+    "num": 2344
   },
   {
     "word": "[is] a burden,",
@@ -29,7 +32,8 @@
     "translit": "(wə·nê·ṭel)",
     "parse": "Conjunctive waw | Noun - masculine singular construct",
     "str": "Strong's 5192:  ",
-    "str2": "Burden, weight"
+    "str2": "Burden, weight",
+    "num": 5192
   },
   {
     "word": "but aggravation",
@@ -37,7 +41,8 @@
     "translit": "(wə·ḵa·‘as)",
     "parse": "Conjunctive waw | Noun - masculine singular construct",
     "str": "Strong's 3708:  ",
-    "str2": "Vexation, anger"
+    "str2": "Vexation, anger",
+    "num": 3708
   },
   {
     "word": "from a fool",
@@ -45,7 +50,8 @@
     "translit": "(’ĕ·wîl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 191:  ",
-    "str2": "Foolish"
+    "str2": "Foolish",
+    "num": 191
   },
   {
     "word": "outweighs",
@@ -53,7 +59,8 @@
     "translit": "(kā·ḇêḏ)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 3515:  ",
-    "str2": "Heavy"
+    "str2": "Heavy",
+    "num": 3515
   },
   {
     "word": "them both.",
@@ -61,6 +68,7 @@
     "translit": "(miš·šə·nê·hem)",
     "parse": "Preposition-m | Number - mdc | third person masculine plural",
     "str": "Strong's 8147:  ",
-    "str2": "Two (a cardinal number)"
+    "str2": "Two (a cardinal number)",
+    "num": 8147
   }
 ]

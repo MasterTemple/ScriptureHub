@@ -5,7 +5,8 @@
     "translit": "(’ant)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 607:  ",
-    "str2": "You "
+    "str2": "You ",
+    "num": 607
   },
   {
     "word": "O king,",
@@ -13,7 +14,8 @@
     "translit": "(mal·kā)",
     "parse": "Noun - masculine singular determinate",
     "str": "Strong's 4430:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4430
   },
   {
     "word": "are the king",
@@ -21,7 +23,8 @@
     "translit": "(me·leḵ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4430:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4430
   },
   {
     "word": "of kings,",
@@ -29,7 +32,8 @@
     "translit": "(mal·ḵay·yā)",
     "parse": "Noun - masculine plural determinate",
     "str": "Strong's 4430:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4430
   },
   {
     "word": "to whom",
@@ -37,7 +41,8 @@
     "translit": "(dî)",
     "parse": "Pronoun - relative",
     "str": "Strong's 1768:  ",
-    "str2": "Who, which, that, because"
+    "str2": "Who, which, that, because",
+    "num": 1768
   },
   {
     "word": "the God",
@@ -45,7 +50,8 @@
     "translit": "(’ĕ·lāh)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 426:  ",
-    "str2": "God"
+    "str2": "God",
+    "num": 426
   },
   {
     "word": "of heaven",
@@ -53,7 +59,8 @@
     "translit": "(šə·may·yā)",
     "parse": "Noun - mdd",
     "str": "Strong's 8065:  ",
-    "str2": "The sky"
+    "str2": "The sky",
+    "num": 8065
   },
   {
     "word": "has given",
@@ -61,7 +68,8 @@
     "translit": "(yə·haḇ-)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 3052:  ",
-    "str2": "To give, to put, imperatively, come"
+    "str2": "To give, to put, imperatively, come",
+    "num": 3052
   },
   {
     "word": "sovereignty,",
@@ -69,7 +77,8 @@
     "translit": "(mal·ḵū·ṯā)",
     "parse": "Noun - feminine singular determinate",
     "str": "Strong's 4437:  ",
-    "str2": "Royalty, reign, kingdom"
+    "str2": "Royalty, reign, kingdom",
+    "num": 4437
   },
   {
     "word": "power,",
@@ -77,7 +86,8 @@
     "translit": "(ḥis·nā)",
     "parse": "Noun - masculine singular determinate",
     "str": "Strong's 2632:  ",
-    "str2": "(royal) power"
+    "str2": "(royal) power",
+    "num": 2632
   },
   {
     "word": "strength,",
@@ -85,7 +95,8 @@
     "translit": "(wə·ṯā·qə·pā)",
     "parse": "Conjunctive waw | Noun - masculine singular determinate",
     "str": "Strong's 8632:  ",
-    "str2": "Power"
+    "str2": "Power",
+    "num": 8632
   },
   {
     "word": "and glory.",
@@ -93,6 +104,7 @@
     "translit": "(wî·qā·rā)",
     "parse": "Conjunctive waw | Noun - masculine singular determinate",
     "str": "Strong's 3367:  ",
-    "str2": "Value, wealth, costliness, dignity"
+    "str2": "Value, wealth, costliness, dignity",
+    "num": 3367
   }
 ]

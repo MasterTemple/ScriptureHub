@@ -5,7 +5,8 @@
     "translit": "(‘ō·wḏ)",
     "parse": "Adverb",
     "str": "Strong's 5750:  ",
-    "str2": "Iteration, continuance, again, repeatedly, still, more"
+    "str2": "Iteration, continuance, again, repeatedly, still, more",
+    "num": 5750
   },
   {
     "word": "done",
@@ -13,7 +14,8 @@
     "translit": "(‘ā·śū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "to Me",
@@ -21,7 +23,8 @@
     "translit": "(lî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "this:",
@@ -29,7 +32,8 @@
     "translit": "(zōṯ)",
     "parse": "Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "On that very same",
@@ -37,7 +41,8 @@
     "translit": "(ha·hū)",
     "parse": "Article | Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "day",
@@ -45,7 +50,8 @@
     "translit": "(bay·yō·wm)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "they defiled",
@@ -53,7 +59,8 @@
     "translit": "(ṭim·mə·’ū)",
     "parse": "Verb - Piel - Perfect - third person common plural",
     "str": "Strong's 2930:  ",
-    "str2": "To be or become unclean"
+    "str2": "To be or become unclean",
+    "num": 2930
   },
   {
     "word": "My sanctuary",
@@ -61,7 +68,8 @@
     "translit": "(miq·dā·šî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 4720:  ",
-    "str2": "A consecrated thing, place, a palace, sanctuary, asylum"
+    "str2": "A consecrated thing, place, a palace, sanctuary, asylum",
+    "num": 4720
   },
   {
     "word": "and profaned",
@@ -69,7 +77,8 @@
     "translit": "(ḥil·lê·lū)",
     "parse": "Verb - Piel - Perfect - third person common plural",
     "str": "Strong's 2490:  ",
-    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play"
+    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play",
+    "num": 2490
   },
   {
     "word": "My Sabbaths.",
@@ -77,6 +86,7 @@
     "translit": "(šab·bə·ṯō·w·ṯay)",
     "parse": "Noun - common plural construct | first person common singular",
     "str": "Strong's 7676:  ",
-    "str2": "Intermission, the Sabbath"
+    "str2": "Intermission, the Sabbath",
+    "num": 7676
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(šā·lōš)",
     "parse": "Number - feminine singular",
     "str": "Strong's 7969:  ",
-    "str2": "Three, third, thrice"
+    "str2": "Three, third, thrice",
+    "num": 7969
   },
   {
     "word": "years",
@@ -13,7 +14,8 @@
     "translit": "(šā·nîm)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "passed",
@@ -21,7 +23,8 @@
     "translit": "(way·yê·šə·ḇū)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "without",
@@ -29,7 +32,8 @@
     "translit": "(’ên)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "war",
@@ -37,7 +41,8 @@
     "translit": "(mil·ḥā·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 4421:  ",
-    "str2": "A battle, war"
+    "str2": "A battle, war",
+    "num": 4421
   },
   {
     "word": "between",
@@ -45,7 +50,8 @@
     "translit": "(bên)",
     "parse": "Preposition",
     "str": "Strong's 996:  ",
-    "str2": "An interval, space between"
+    "str2": "An interval, space between",
+    "num": 996
   },
   {
     "word": "Aram",
@@ -53,7 +59,8 @@
     "translit": "(’ă·rām)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 758:  ",
-    "str2": "Aram -- Syria"
+    "str2": "Aram -- Syria",
+    "num": 758
   },
   {
     "word": "and Israel.",
@@ -61,6 +68,7 @@
     "translit": "(yiś·rā·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3478:  ",
-    "str2": "Israel -- 'God strives', another name of Jacob and his desc"
+    "str2": "Israel -- 'God strives', another name of Jacob and his desc",
+    "num": 3478
   }
 ]

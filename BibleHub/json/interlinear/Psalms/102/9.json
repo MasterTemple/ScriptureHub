@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I have eaten",
@@ -13,7 +14,8 @@
     "translit": "(’ā·ḵā·lə·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "ashes",
@@ -21,7 +23,8 @@
     "translit": "(’ê·p̄er)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 665:  ",
-    "str2": "Ashes"
+    "str2": "Ashes",
+    "num": 665
   },
   {
     "word": "like bread",
@@ -29,7 +32,8 @@
     "translit": "(kal·le·ḥem)",
     "parse": "Preposition-k, Article | Noun - masculine singular",
     "str": "Strong's 3899:  ",
-    "str2": "Food, bread, grain"
+    "str2": "Food, bread, grain",
+    "num": 3899
   },
   {
     "word": "and mixed",
@@ -37,7 +41,8 @@
     "translit": "(mā·sā·ḵə·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 4537:  ",
-    "str2": "To mix, produce by mixing"
+    "str2": "To mix, produce by mixing",
+    "num": 4537
   },
   {
     "word": "my drink",
@@ -45,7 +50,8 @@
     "translit": "(wə·šiq·qu·way)",
     "parse": "Conjunctive waw | Noun - masculine plural construct | first person common singular",
     "str": "Strong's 8249:  ",
-    "str2": "A draught"
+    "str2": "A draught",
+    "num": 8249
   },
   {
     "word": "with tears,",
@@ -53,6 +59,7 @@
     "translit": "(biḇ·ḵî)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 1065:  ",
-    "str2": "A weeping, a dripping"
+    "str2": "A weeping, a dripping",
+    "num": 1065
   }
 ]

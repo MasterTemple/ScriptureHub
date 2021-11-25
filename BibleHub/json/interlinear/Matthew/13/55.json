@@ -5,7 +5,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "this",
@@ -13,7 +14,8 @@
     "translit": "(houtos)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "not",
@@ -21,7 +23,8 @@
     "translit": "(ouch)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "carpenter’s",
@@ -37,7 +41,8 @@
     "translit": "(tektonos)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 5045:  ",
-    "str2": "A carpenter, an artisan. From the base of timoria; an artificer, i.e., a craftsman in wood."
+    "str2": "A carpenter, an artisan. From the base of timoria; an artificer, i.e., a craftsman in wood.",
+    "num": 5045
   },
   {
     "word": "son?",
@@ -45,7 +50,8 @@
     "translit": "(huios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   },
   {
     "word": "Isn’t",
@@ -53,7 +59,8 @@
     "translit": "(ouch)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "His",
@@ -61,7 +68,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "mother’s",
@@ -69,7 +77,8 @@
     "translit": "(mētēr)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3384:  ",
-    "str2": "A mother. Apparently a primary word; a 'mother'."
+    "str2": "A mother. Apparently a primary word; a 'mother'.",
+    "num": 3384
   },
   {
     "word": "name",
@@ -77,7 +86,8 @@
     "translit": "(legetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "Mary,",
@@ -85,7 +95,8 @@
     "translit": "(Mariam)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3137:  ",
-    "str2": "Or Mariam of Hebrew origin; Maria or Mariam, the name of six Christian females."
+    "str2": "Or Mariam of Hebrew origin; Maria or Mariam, the name of six Christian females.",
+    "num": 3137
   },
   {
     "word": "and [aren’t]",
@@ -93,7 +104,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "His",
@@ -101,7 +113,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "brothers",
@@ -109,7 +122,8 @@
     "translit": "(adelphoi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "James,",
@@ -117,7 +131,8 @@
     "translit": "(Iakōbos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2385:  ",
-    "str2": "The same as Iakob Graecized; Jacobus, the name of three Israelites."
+    "str2": "The same as Iakob Graecized; Jacobus, the name of three Israelites.",
+    "num": 2385
   },
   {
     "word": "Joseph,",
@@ -125,7 +140,8 @@
     "translit": "(Iōsēph)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2501:  ",
-    "str2": "Joseph, a proper name. Of Hebrew origin; Joseph, the name of seven Israelites."
+    "str2": "Joseph, a proper name. Of Hebrew origin; Joseph, the name of seven Israelites.",
+    "num": 2501
   },
   {
     "word": "Simon,",
@@ -133,7 +149,8 @@
     "translit": "(Simōn)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4613:  ",
-    "str2": "Simon. Of Hebrew origin; Simon, the name of nine Israelites."
+    "str2": "Simon. Of Hebrew origin; Simon, the name of nine Israelites.",
+    "num": 4613
   },
   {
     "word": "and",
@@ -141,7 +158,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Judas?",
@@ -149,6 +167,7 @@
     "translit": "(Ioudas)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2455:  ",
-    "str2": "Of Hebrew origin; Judas, the name of ten Israelites; also of the posterity of one of them and its region."
+    "str2": "Of Hebrew origin; Judas, the name of ten Israelites; also of the posterity of one of them and its region.",
+    "num": 2455
   }
 ]

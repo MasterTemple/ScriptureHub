@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "man",
@@ -21,7 +23,8 @@
     "translit": "(anthrōpos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "with",
@@ -29,7 +32,8 @@
     "translit": "(hō)",
     "parse": "Personal / Relative Pronoun - Dative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "evil",
@@ -45,7 +50,8 @@
     "translit": "(ponēron)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 4190:  ",
-    "str2": "Evil, bad, wicked, malicious, slothful. "
+    "str2": "Evil, bad, wicked, malicious, slothful. ",
+    "num": 4190
   },
   {
     "word": "spirit",
@@ -53,7 +59,8 @@
     "translit": "(pneuma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "jumped",
@@ -61,7 +68,8 @@
     "translit": "(ephalomenos)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Singular",
     "str": "Strong's 2177:  ",
-    "str2": "To leap upon, assault. From epi and hallomai; to spring upon."
+    "str2": "To leap upon, assault. From epi and hallomai; to spring upon.",
+    "num": 2177
   },
   {
     "word": "on",
@@ -69,7 +77,8 @@
     "translit": "(ep’)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "them",
@@ -77,7 +86,8 @@
     "translit": "(autous)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "[and] overpowered",
@@ -85,7 +95,8 @@
     "translit": "(katakyrieusas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2634:  ",
-    "str2": "To exercise authority over, overpower, master. From kata and kurieuo; to lord against, i.e. Control, subjugate."
+    "str2": "To exercise authority over, overpower, master. From kata and kurieuo; to lord against, i.e. Control, subjugate.",
+    "num": 2634
   },
   {
     "word": "them all.",
@@ -93,7 +104,8 @@
     "translit": "(amphoterōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 297:  ",
-    "str2": "Both (of two). Comparative of amphi; both."
+    "str2": "Both (of two). Comparative of amphi; both.",
+    "num": 297
   },
   {
     "word": "The attack",
@@ -101,7 +113,8 @@
     "translit": "(ischysen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2480:  ",
-    "str2": "To have strength, be strong, be in full health and vigor, be able; meton: I prevail. From ischus; to have force."
+    "str2": "To have strength, be strong, be in full health and vigor, be able; meton: I prevail. From ischus; to have force.",
+    "num": 2480
   },
   {
     "word": "was so violent",
@@ -109,7 +122,8 @@
     "translit": "(hōste)",
     "parse": "Conjunction",
     "str": "Strong's 5620:  ",
-    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore."
+    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore.",
+    "num": 5620
   },
   {
     "word": "that they ran",
@@ -117,7 +131,8 @@
     "translit": "(ekphygein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 1628:  ",
-    "str2": "To flee out, away, escape; with an acc: I escape something. From ek and pheugo; to flee out."
+    "str2": "To flee out, away, escape; with an acc: I escape something. From ek and pheugo; to flee out.",
+    "num": 1628
   },
   {
     "word": "out of",
@@ -125,7 +140,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "the",
@@ -133,7 +149,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "house,",
@@ -141,7 +158,8 @@
     "translit": "(oikou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3624:  ",
-    "str2": "A dwelling; by implication, a family."
+    "str2": "A dwelling; by implication, a family.",
+    "num": 3624
   },
   {
     "word": "naked",
@@ -149,7 +167,8 @@
     "translit": "(gymnous)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 1131:  ",
-    "str2": "Rarely: stark-naked; generally: wearing only the under-garment; bare, open, manifest; mere. Of uncertain affinity; nude."
+    "str2": "Rarely: stark-naked; generally: wearing only the under-garment; bare, open, manifest; mere. Of uncertain affinity; nude.",
+    "num": 1131
   },
   {
     "word": "and",
@@ -157,7 +176,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "wounded.",
@@ -165,6 +185,7 @@
     "translit": "(tetraumatismenous)",
     "parse": "Verb - Perfect Participle Middle or Passive - Accusative Masculine Plural",
     "str": "Strong's 5135:  ",
-    "str2": "To wound. From trauma; to inflict a wound."
+    "str2": "To wound. From trauma; to inflict a wound.",
+    "num": 5135
   }
 ]

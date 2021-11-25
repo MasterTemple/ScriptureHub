@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "unclean",
@@ -21,7 +23,8 @@
     "translit": "(akatharton)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 169:  ",
-    "str2": "Unclean, impure. Impure (lewd) or specially, (demonic)."
+    "str2": "Unclean, impure. Impure (lewd) or specially, (demonic).",
+    "num": 169
   },
   {
     "word": "spirit",
@@ -29,7 +32,8 @@
     "translit": "(pneuma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "threw [the man] into convulsions",
@@ -37,7 +41,8 @@
     "translit": "(sparaxan)",
     "parse": "Verb - Aorist Participle Active - Nominative Neuter Singular",
     "str": "Strong's 4682:  ",
-    "str2": "To convulse, throw into spasms. Prolongation from spairo; to mangle, i.e. Convluse with epilepsy."
+    "str2": "To convulse, throw into spasms. Prolongation from spairo; to mangle, i.e. Convluse with epilepsy.",
+    "num": 4682
   },
   {
     "word": "[and] came",
@@ -45,7 +50,8 @@
     "translit": "(exēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1831:  ",
-    "str2": "To go out, come out. From ek and erchomai; to issue."
+    "str2": "To go out, come out. From ek and erchomai; to issue.",
+    "num": 1831
   },
   {
     "word": "out",
@@ -53,7 +59,8 @@
     "translit": "(ex)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "with a loud shriek.",
@@ -61,6 +68,7 @@
     "translit": "(phōnē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 5456:  ",
-    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language."
+    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language.",
+    "num": 5456
   }
 ]

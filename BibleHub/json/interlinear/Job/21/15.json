@@ -5,7 +5,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "is the Almighty,",
@@ -13,7 +14,8 @@
     "translit": "(šad·day)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 7706:  ",
-    "str2": "The Almighty"
+    "str2": "The Almighty",
+    "num": 7706
   },
   {
     "word": "that",
@@ -21,7 +23,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "we should serve Him,",
@@ -29,7 +32,8 @@
     "translit": "(na·‘aḇ·ḏen·nū)",
     "parse": "Verb - Qal - Imperfect - first person common plural | third person masculine singular",
     "str": "Strong's 5647:  ",
-    "str2": "To work, to serve, till, enslave"
+    "str2": "To work, to serve, till, enslave",
+    "num": 5647
   },
   {
     "word": "and what",
@@ -37,7 +41,8 @@
     "translit": "(ū·mah-)",
     "parse": "Conjunctive waw | Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "would we gain",
@@ -45,7 +50,8 @@
     "translit": "(nō·w·‘îl)",
     "parse": "Verb - Hifil - Imperfect - first person common plural",
     "str": "Strong's 3276:  ",
-    "str2": "To confer or gain profit or benefit"
+    "str2": "To confer or gain profit or benefit",
+    "num": 3276
   },
   {
     "word": "if",
@@ -53,7 +59,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "we pray",
@@ -61,7 +68,8 @@
     "translit": "(nip̄·ga‘-)",
     "parse": "Verb - Qal - Imperfect - first person common plural",
     "str": "Strong's 6293:  ",
-    "str2": "To impinge, by accident, violence, by importunity"
+    "str2": "To impinge, by accident, violence, by importunity",
+    "num": 6293
   },
   {
     "word": "to Him?’",
@@ -69,6 +77,7 @@
     "translit": "(bōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

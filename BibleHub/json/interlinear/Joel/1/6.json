@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "a nation",
@@ -13,7 +14,8 @@
     "translit": "(ḡō·w)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1471:  ",
-    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts"
+    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+    "num": 1471
   },
   {
     "word": "has invaded",
@@ -21,7 +23,8 @@
     "translit": "(‘ā·lāh)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 5927:  ",
-    "str2": "To ascend, in, actively"
+    "str2": "To ascend, in, actively",
+    "num": 5927
   },
   {
     "word": "My land,",
@@ -29,7 +32,8 @@
     "translit": "(’ar·ṣî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "powerful",
@@ -37,7 +41,8 @@
     "translit": "(‘ā·ṣūm)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 6099:  ",
-    "str2": "Powerful, numerous"
+    "str2": "Powerful, numerous",
+    "num": 6099
   },
   {
     "word": "and without",
@@ -45,7 +50,8 @@
     "translit": "(wə·’ên)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "number;",
@@ -53,7 +59,8 @@
     "translit": "(mis·pār)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4557:  ",
-    "str2": "A number, definite, indefinite, narration"
+    "str2": "A number, definite, indefinite, narration",
+    "num": 4557
   },
   {
     "word": "its teeth",
@@ -61,7 +68,8 @@
     "translit": "(šin·nāw)",
     "parse": "Noun - cdc | third person masculine singular",
     "str": "Strong's 8127:  ",
-    "str2": "A tooth,   ivory, a cliff"
+    "str2": "A tooth,   ivory, a cliff",
+    "num": 8127
   },
   {
     "word": "are [those]",
@@ -69,7 +77,8 @@
     "translit": "(šin·nê)",
     "parse": "Noun - cdc",
     "str": "Strong's 8127:  ",
-    "str2": "A tooth,   ivory, a cliff"
+    "str2": "A tooth,   ivory, a cliff",
+    "num": 8127
   },
   {
     "word": "of a lion,",
@@ -77,7 +86,8 @@
     "translit": "(’ar·yêh)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 738:  ",
-    "str2": "A lion"
+    "str2": "A lion",
+    "num": 738
   },
   {
     "word": "and its fangs",
@@ -85,7 +95,8 @@
     "translit": "(ū·mə·ṯal·lə·‘ō·wṯ)",
     "parse": "Conjunctive waw | Noun - feminine plural construct",
     "str": "Strong's 4973:  ",
-    "str2": "A biter, a tooth"
+    "str2": "A biter, a tooth",
+    "num": 4973
   },
   {
     "word": "[are those] of a lioness.",
@@ -93,6 +104,7 @@
     "translit": "(lā·ḇî)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3833:  ",
-    "str2": "To roar, a lion,"
+    "str2": "To roar, a lion,",
+    "num": 3833
   }
 ]

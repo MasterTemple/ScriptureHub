@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "He",
@@ -13,7 +14,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "had",
@@ -21,7 +23,8 @@
     "translit": "(Edei)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1163:  ",
-    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary."
+    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary.",
+    "num": 1163
   },
   {
     "word": "to pass",
@@ -29,7 +32,8 @@
     "translit": "(dierchesthai)",
     "parse": "Verb - Present Infinitive Middle or Passive",
     "str": "Strong's 1330:  ",
-    "str2": "To pass through, spread (as a report). From dia and erchomai; to traverse."
+    "str2": "To pass through, spread (as a report). From dia and erchomai; to traverse.",
+    "num": 1330
   },
   {
     "word": "through",
@@ -37,7 +41,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "Samaria.",
@@ -45,6 +50,7 @@
     "translit": "(Samareias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4540:  ",
-    "str2": "Of Hebrew origin; Samaria, a city and region of Palestine."
+    "str2": "Of Hebrew origin; Samaria, a city and region of Palestine.",
+    "num": 4540
   }
 ]

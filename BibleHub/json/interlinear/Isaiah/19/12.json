@@ -5,7 +5,8 @@
     "translit": "(’ay·yām)",
     "parse": "Interrogative | third person masculine plural",
     "str": "Strong's 335:  ",
-    "str2": "Where?, how?"
+    "str2": "Where?, how?",
+    "num": 335
   },
   {
     "word": "are your wise men",
@@ -13,7 +14,8 @@
     "translit": "(ḥă·ḵā·me·ḵā)",
     "parse": "Adjective - masculine plural construct | second person masculine singular",
     "str": "Strong's 2450:  ",
-    "str2": "Wise"
+    "str2": "Wise",
+    "num": 2450
   },
   {
     "word": "now?",
@@ -21,7 +23,8 @@
     "translit": "(’ê·p̄ō·w)",
     "parse": "Conjunction",
     "str": "Strong's 645:  ",
-    "str2": "Here, now, then"
+    "str2": "Here, now, then",
+    "num": 645
   },
   {
     "word": "Let them tell you",
@@ -29,7 +32,8 @@
     "translit": "(wə·yag·gî·ḏū)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive imperfect - third person masculine plural",
     "str": "Strong's 5046:  ",
-    "str2": "To be conspicuous"
+    "str2": "To be conspicuous",
+    "num": 5046
   },
   {
     "word": "and reveal",
@@ -37,7 +41,8 @@
     "translit": "(wə·yê·ḏə·‘ū)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect - third person masculine plural",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "what",
@@ -45,7 +50,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "the LORD",
@@ -53,7 +59,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "of Hosts",
@@ -61,7 +68,8 @@
     "translit": "(ṣə·ḇā·’ō·wṯ)",
     "parse": "Noun - common plural",
     "str": "Strong's 6635:  ",
-    "str2": "A mass of persons, reg, organized for, war, a campaign"
+    "str2": "A mass of persons, reg, organized for, war, a campaign",
+    "num": 6635
   },
   {
     "word": "has planned",
@@ -69,7 +77,8 @@
     "translit": "(yā·‘aṣ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 3289:  ",
-    "str2": "To advise, to deliberate, resolve"
+    "str2": "To advise, to deliberate, resolve",
+    "num": 3289
   },
   {
     "word": "against",
@@ -77,7 +86,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "Egypt.",
@@ -85,6 +95,7 @@
     "translit": "(miṣ·rā·yim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 4714:  ",
-    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa"
+    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+    "num": 4714
   }
 ]

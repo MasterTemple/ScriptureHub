@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I lie down",
@@ -13,7 +14,8 @@
     "translit": "(šā·ḵaḇ·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 7901:  ",
-    "str2": "To lie down"
+    "str2": "To lie down",
+    "num": 7901
   },
   {
     "word": "I think:",
@@ -21,7 +23,8 @@
     "translit": "(wə·’ā·mar·tî)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - first person common singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘When",
@@ -29,7 +32,8 @@
     "translit": "(mā·ṯay)",
     "parse": "Interrogative",
     "str": "Strong's 4970:  ",
-    "str2": "Extent, when"
+    "str2": "Extent, when",
+    "num": 4970
   },
   {
     "word": "will I get up?’",
@@ -37,7 +41,8 @@
     "translit": "(’ā·qūm)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 6965:  ",
-    "str2": "To arise, stand up, stand"
+    "str2": "To arise, stand up, stand",
+    "num": 6965
   },
   {
     "word": "But the night",
@@ -45,7 +50,8 @@
     "translit": "(‘ā·reḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6153:  ",
-    "str2": "Evening"
+    "str2": "Evening",
+    "num": 6153
   },
   {
     "word": "drags on,",
@@ -53,7 +59,8 @@
     "translit": "(ū·mid·daḏ-)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 4059:  ",
-    "str2": "Be gone "
+    "str2": "Be gone ",
+    "num": 4059
   },
   {
     "word": "and I toss and turn",
@@ -61,7 +68,8 @@
     "translit": "(wə·śā·ḇa‘·tî)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - first person common singular",
     "str": "Strong's 7646:  ",
-    "str2": "To be sated, satisfied or surfeited"
+    "str2": "To be sated, satisfied or surfeited",
+    "num": 7646
   },
   {
     "word": "until",
@@ -69,7 +77,8 @@
     "translit": "(‘ă·ḏê-)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "dawn.",
@@ -77,6 +86,7 @@
     "translit": "(nā·šep̄)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5399:  ",
-    "str2": "A breeze, dusk"
+    "str2": "A breeze, dusk",
+    "num": 5399
   }
 ]

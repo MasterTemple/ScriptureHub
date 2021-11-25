@@ -5,7 +5,8 @@
     "translit": "(elalei)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "and",
@@ -13,7 +14,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "debated",
@@ -21,7 +23,8 @@
     "translit": "(synezētei)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 4802:  ",
-    "str2": "To seek together, discuss, dispute. From sun and zeteo; to investigate jointly, i.e. Discuss, controvert, cavil."
+    "str2": "To seek together, discuss, dispute. From sun and zeteo; to investigate jointly, i.e. Discuss, controvert, cavil.",
+    "num": 4802
   },
   {
     "word": "with",
@@ -29,7 +32,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Grecian Jews,",
@@ -45,7 +50,8 @@
     "translit": "(Hellēnistas)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 1675:  ",
-    "str2": "From a derivative of Hellen; a Hellenist or Greek-speaking Jew."
+    "str2": "From a derivative of Hellen; a Hellenist or Greek-speaking Jew.",
+    "num": 1675
   },
   {
     "word": "but",
@@ -53,7 +59,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "they tried",
@@ -61,7 +68,8 @@
     "translit": "(epecheiroun)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2021:  ",
-    "str2": "To take in hand, attempt. From epi and cheir; to put the hand upon, i.e. Undertake."
+    "str2": "To take in hand, attempt. From epi and cheir; to put the hand upon, i.e. Undertake.",
+    "num": 2021
   },
   {
     "word": "to kill",
@@ -69,7 +77,8 @@
     "translit": "(anelein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 337:  ",
-    "str2": "From ana and haireomai; to take up, i.e. Adopt; by implication, to take away, i.e. Abolish, murder."
+    "str2": "From ana and haireomai; to take up, i.e. Adopt; by implication, to take away, i.e. Abolish, murder.",
+    "num": 337
   },
   {
     "word": "him.",
@@ -77,6 +86,7 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(Teknia)",
     "parse": "Noun - Vocative Neuter Plural",
     "str": "Strong's 5040:  ",
-    "str2": "A little child. Diminutive of teknon; an infant, i.e. darlings."
+    "str2": "A little child. Diminutive of teknon; an infant, i.e. darlings.",
+    "num": 5040
   },
   {
     "word": "{let} no one",
@@ -13,7 +14,8 @@
     "translit": "(mēdeis)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3367:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3367
   },
   {
     "word": "deceive",
@@ -21,7 +23,8 @@
     "translit": "(planatō)",
     "parse": "Verb - Present Imperative Active - 3rd Person Singular",
     "str": "Strong's 4105:  ",
-    "str2": "To lead astray, deceive, cause to wander. From plane; to roam."
+    "str2": "To lead astray, deceive, cause to wander. From plane; to roam.",
+    "num": 4105
   },
   {
     "word": "you:",
@@ -29,7 +32,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "The [one who]",
@@ -37,7 +41,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "practices",
@@ -45,7 +50,8 @@
     "translit": "(poiōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "righteousness",
@@ -53,7 +59,8 @@
     "translit": "(dikaiosynēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1343:  ",
-    "str2": "From dikaios; equity; specially justification."
+    "str2": "From dikaios; equity; specially justification.",
+    "num": 1343
   },
   {
     "word": "is",
@@ -61,7 +68,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "righteous,",
@@ -69,7 +77,8 @@
     "translit": "(dikaios)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1342:  ",
-    "str2": "From dike; equitable; by implication, innocent, holy."
+    "str2": "From dike; equitable; by implication, innocent, holy.",
+    "num": 1342
   },
   {
     "word": "just as",
@@ -77,7 +86,8 @@
     "translit": "(kathōs)",
     "parse": "Adverb",
     "str": "Strong's 2531:  ",
-    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that."
+    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that.",
+    "num": 2531
   },
   {
     "word": "[Christ]",
@@ -85,7 +95,8 @@
     "translit": "(ekeinos)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 1565:  ",
-    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed."
+    "str2": "That, that one there, yonder. From ekei; that one (neuter) thing); often intensified by the article prefixed.",
+    "num": 1565
   },
   {
     "word": "is",
@@ -93,7 +104,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "righteous.",
@@ -101,6 +113,7 @@
     "translit": "(dikaios)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1342:  ",
-    "str2": "From dike; equitable; by implication, innocent, holy."
+    "str2": "From dike; equitable; by implication, innocent, holy.",
+    "num": 1342
   }
 ]

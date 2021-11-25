@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "people",
@@ -21,7 +23,8 @@
     "translit": "(laos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2992:  ",
-    "str2": "Apparently a primary word; a people."
+    "str2": "Apparently a primary word; a people.",
+    "num": 2992
   },
   {
     "word": "were",
@@ -29,7 +32,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "waiting for",
@@ -37,7 +41,8 @@
     "translit": "(prosdokōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4328:  ",
-    "str2": "To expect, wait for, await, think, anticipate. From pros and dokeuo; to anticipate; by implication, to await."
+    "str2": "To expect, wait for, await, think, anticipate. From pros and dokeuo; to anticipate; by implication, to await.",
+    "num": 4328
   },
   {
     "word": "Zechariah",
@@ -45,7 +50,8 @@
     "translit": "(Zacharian)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2197:  ",
-    "str2": "Of Hebrew origin; Zacharias, the name of two Israelites."
+    "str2": "Of Hebrew origin; Zacharias, the name of two Israelites.",
+    "num": 2197
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "wondering",
@@ -61,7 +68,8 @@
     "translit": "(ethaumazon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 2296:  ",
-    "str2": "(a) intrans: I wonder, marvel, (b) trans: I wonder at, admire. From thauma; to wonder; by implication, to admire."
+    "str2": "(a) intrans: I wonder, marvel, (b) trans: I wonder at, admire. From thauma; to wonder; by implication, to admire.",
+    "num": 2296
   },
   {
     "word": "why",
@@ -69,7 +77,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "he",
@@ -77,7 +86,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "took so long",
@@ -85,7 +95,8 @@
     "translit": "(chronizein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 5549:  ",
-    "str2": "To delay, tarry, linger, spend time. From chronos; to take time, i.e. Linger."
+    "str2": "To delay, tarry, linger, spend time. From chronos; to take time, i.e. Linger.",
+    "num": 5549
   },
   {
     "word": "in",
@@ -93,7 +104,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "temple.",
@@ -109,6 +122,7 @@
     "translit": "(naō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 3485:  ",
-    "str2": "A temple, a shrine, that part of the temple where God himself resides. From a primary naio; a fane, shrine, temple."
+    "str2": "A temple, a shrine, that part of the temple where God himself resides. From a primary naio; a fane, shrine, temple.",
+    "num": 3485
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "Yours;",
@@ -13,7 +14,8 @@
     "translit": "(lə·ḵā-)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "save me,",
@@ -21,7 +23,8 @@
     "translit": "(hō·wō·šî·‘ê·nî)",
     "parse": "Verb - Hifil - Imperative - masculine singular | first person common singular",
     "str": "Strong's 3467:  ",
-    "str2": "To be open, wide, free, to be safe, to free, succor"
+    "str2": "To be open, wide, free, to be safe, to free, succor",
+    "num": 3467
   },
   {
     "word": "for",
@@ -29,7 +32,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I have sought",
@@ -37,7 +41,8 @@
     "translit": "(ḏā·rā·šə·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 1875:  ",
-    "str2": "To tread, frequent, to follow, to seek, ask, to worship"
+    "str2": "To tread, frequent, to follow, to seek, ask, to worship",
+    "num": 1875
   },
   {
     "word": "Your precepts.",
@@ -45,6 +50,7 @@
     "translit": "(p̄iq·qū·ḏe·ḵā)",
     "parse": "Noun - masculine plural construct | second person masculine singular",
     "str": "Strong's 6490:  ",
-    "str2": "Appointed, a mandate"
+    "str2": "Appointed, a mandate",
+    "num": 6490
   }
 ]

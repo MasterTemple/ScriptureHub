@@ -5,7 +5,8 @@
     "translit": "(’a·ḥă·rāw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's 310:  ",
-    "str2": "The hind or following part"
+    "str2": "The hind or following part",
+    "num": 310
   },
   {
     "word": "Ibzan",
@@ -13,7 +14,8 @@
     "translit": "(’iḇ·ṣān)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 78:  ",
-    "str2": "Ibzan -- a judge of Israel"
+    "str2": "Ibzan -- a judge of Israel",
+    "num": 78
   },
   {
     "word": "of",
@@ -21,7 +23,8 @@
     "translit": "(mib·bêṯ)",
     "parse": "Preposition",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "Bethlehem",
@@ -29,7 +32,8 @@
     "translit": "(lā·ḥem)",
     "parse": "Preposition | Noun - proper - feminine singular",
     "str": "Strong's 1035:  ",
-    "str2": "Bethlehem -- 'place of bread', a city in Judah, also a city in Zebulun"
+    "str2": "Bethlehem -- 'place of bread', a city in Judah, also a city in Zebulun",
+    "num": 1035
   },
   {
     "word": "judged",
@@ -37,7 +41,8 @@
     "translit": "(way·yiš·pōṭ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 8199:  ",
-    "str2": "To judge, pronounce sentence, to vindicate, punish, to govern, to litigate"
+    "str2": "To judge, pronounce sentence, to vindicate, punish, to govern, to litigate",
+    "num": 8199
   },
   {
     "word": "Israel.",
@@ -45,6 +50,7 @@
     "translit": "(yiś·rā·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3478:  ",
-    "str2": "Israel -- 'God strives', another name of Jacob and his desc"
+    "str2": "Israel -- 'God strives', another name of Jacob and his desc",
+    "num": 3478
   }
 ]

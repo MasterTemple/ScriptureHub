@@ -5,7 +5,8 @@
     "translit": "(tis·pə·rū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 5608:  ",
-    "str2": "To count, recount, relate"
+    "str2": "To count, recount, relate",
+    "num": 5608
   },
   {
     "word": "fifty",
@@ -13,7 +14,8 @@
     "translit": "(ḥă·miš·šîm)",
     "parse": "Number - common plural",
     "str": "Strong's 2572:  ",
-    "str2": "Fifty"
+    "str2": "Fifty",
+    "num": 2572
   },
   {
     "word": "days",
@@ -21,7 +23,8 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "until",
@@ -29,7 +32,8 @@
     "translit": "(‘aḏ)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "the day after",
@@ -37,7 +41,8 @@
     "translit": "(mim·mā·ḥo·raṯ)",
     "parse": "Preposition-m | Noun - feminine singular construct",
     "str": "Strong's 4283:  ",
-    "str2": "The morrow, tomorrow"
+    "str2": "The morrow, tomorrow",
+    "num": 4283
   },
   {
     "word": "the seventh",
@@ -45,7 +50,8 @@
     "translit": "(haš·šə·ḇî·‘iṯ)",
     "parse": "Article | Number - ordinal feminine singular",
     "str": "Strong's 7637:  ",
-    "str2": "Seventh (an ordinal number)"
+    "str2": "Seventh (an ordinal number)",
+    "num": 7637
   },
   {
     "word": "Sabbath,",
@@ -53,7 +59,8 @@
     "translit": "(haš·šab·bāṯ)",
     "parse": "Article | Noun - common singular",
     "str": "Strong's 7676:  ",
-    "str2": "Intermission, the Sabbath"
+    "str2": "Intermission, the Sabbath",
+    "num": 7676
   },
   {
     "word": "and then present",
@@ -61,7 +68,8 @@
     "translit": "(wə·hiq·raḇ·tem)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - second person masculine plural",
     "str": "Strong's 7126:  ",
-    "str2": "To come near, approach"
+    "str2": "To come near, approach",
+    "num": 7126
   },
   {
     "word": "an offering of new",
@@ -69,7 +77,8 @@
     "translit": "(ḥă·ḏā·šāh)",
     "parse": "Adjective - feminine singular",
     "str": "Strong's 2319:  ",
-    "str2": "New"
+    "str2": "New",
+    "num": 2319
   },
   {
     "word": "grain",
@@ -77,7 +86,8 @@
     "translit": "(min·ḥāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 4503:  ",
-    "str2": "A donation, tribute, a sacrificial offering"
+    "str2": "A donation, tribute, a sacrificial offering",
+    "num": 4503
   },
   {
     "word": "to the LORD.",
@@ -85,6 +95,7 @@
     "translit": "(Yah·weh)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   }
 ]

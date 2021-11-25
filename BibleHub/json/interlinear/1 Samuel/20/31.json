@@ -5,7 +5,8 @@
     "translit": "(ḵāl)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "day",
@@ -13,7 +14,8 @@
     "translit": "(hay·yā·mîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "the son",
@@ -21,7 +23,8 @@
     "translit": "(ben-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of Jesse",
@@ -29,7 +32,8 @@
     "translit": "(yi·šay)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3448:  ",
-    "str2": "Jesse -- father of David"
+    "str2": "Jesse -- father of David",
+    "num": 3448
   },
   {
     "word": "lives",
@@ -37,7 +41,8 @@
     "translit": "(ḥay)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2416:  ",
-    "str2": "Alive, raw, fresh, strong, life"
+    "str2": "Alive, raw, fresh, strong, life",
+    "num": 2416
   },
   {
     "word": "on",
@@ -45,7 +50,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "earth,",
@@ -53,7 +59,8 @@
     "translit": "(hā·’ă·ḏā·māh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 127:  ",
-    "str2": "Ground, land"
+    "str2": "Ground, land",
+    "num": 127
   },
   {
     "word": "neither",
@@ -61,7 +68,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "you",
@@ -69,7 +77,8 @@
     "translit": "(’at·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "nor your kingship",
@@ -77,7 +86,8 @@
     "translit": "(ū·mal·ḵū·ṯe·ḵā)",
     "parse": "Conjunctive waw | Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 4438:  ",
-    "str2": "Royalty, royal power, reign, kingdom"
+    "str2": "Royalty, royal power, reign, kingdom",
+    "num": 4438
   },
   {
     "word": "shall be established.",
@@ -85,7 +95,8 @@
     "translit": "(ṯik·kō·wn)",
     "parse": "Verb - Nifal - Imperfect - second person masculine singular",
     "str": "Strong's 3559:  ",
-    "str2": "To be erect"
+    "str2": "To be erect",
+    "num": 3559
   },
   {
     "word": "Now",
@@ -93,7 +104,8 @@
     "translit": "(wə·‘at·tāh)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 6258:  ",
-    "str2": "At this time"
+    "str2": "At this time",
+    "num": 6258
   },
   {
     "word": "send for him",
@@ -101,7 +113,8 @@
     "translit": "(šə·laḥ)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 7971:  ",
-    "str2": "To send away, for, out"
+    "str2": "To send away, for, out",
+    "num": 7971
   },
   {
     "word": "and bring",
@@ -109,7 +122,8 @@
     "translit": "(wə·qaḥ)",
     "parse": "Conjunctive waw | Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 3947:  ",
-    "str2": "To take"
+    "str2": "To take",
+    "num": 3947
   },
   {
     "word": "him",
@@ -117,7 +131,8 @@
     "translit": "(’ō·ṯōw)",
     "parse": "Direct object marker | third person masculine singular",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "to me,",
@@ -125,7 +140,8 @@
     "translit": "(’ê·lay)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "for",
@@ -133,7 +149,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "he",
@@ -141,7 +158,8 @@
     "translit": "(hū)",
     "parse": "Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "must surely die!”",
@@ -149,6 +167,7 @@
     "translit": "(mā·weṯ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4194:  ",
-    "str2": "Death, the dead, their place, state, pestilence, ruin"
+    "str2": "Death, the dead, their place, state, pestilence, ruin",
+    "num": 4194
   }
 ]

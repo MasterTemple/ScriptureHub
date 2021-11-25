@@ -5,7 +5,8 @@
     "translit": "(pateres)",
     "parse": "Noun - Vocative Masculine Plural",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "{do} not",
@@ -13,7 +14,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "provoke",
@@ -21,7 +23,8 @@
     "translit": "(parorgizete)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 3949:  ",
-    "str2": "To provoke to anger, exasperate. From para and orgizo; to anger alongside, i.e. Enrage."
+    "str2": "To provoke to anger, exasperate. From para and orgizo; to anger alongside, i.e. Enrage.",
+    "num": 3949
   },
   {
     "word": "your",
@@ -29,7 +32,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "children {to anger};",
@@ -37,7 +41,8 @@
     "translit": "(tekna)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 5043:  ",
-    "str2": "A child, descendent, inhabitant. From the base of timoria; a child."
+    "str2": "A child, descendent, inhabitant. From the base of timoria; a child.",
+    "num": 5043
   },
   {
     "word": "instead,",
@@ -45,7 +50,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "bring them up",
@@ -53,7 +59,8 @@
     "translit": "(ektrephete)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 1625:  ",
-    "str2": "To nourish, nurture, bring up. From ek and trepho; to rear up to maturity, i.e. to cherish or train."
+    "str2": "To nourish, nurture, bring up. From ek and trepho; to rear up to maturity, i.e. to cherish or train.",
+    "num": 1625
   },
   {
     "word": "in",
@@ -61,7 +68,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[the] discipline",
@@ -69,7 +77,8 @@
     "translit": "(paideia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3809:  ",
-    "str2": "From paideuo; tutorage, i.e. Education or training; by implication, disciplinary correction."
+    "str2": "From paideuo; tutorage, i.e. Education or training; by implication, disciplinary correction.",
+    "num": 3809
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "instruction",
@@ -85,7 +95,8 @@
     "translit": "(nouthesia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3559:  ",
-    "str2": "A warning, admonition, counsel. From nous and a derivative of tithemi; calling attention to, i.e. mild rebuke or warning."
+    "str2": "A warning, admonition, counsel. From nous and a derivative of tithemi; calling attention to, i.e. mild rebuke or warning.",
+    "num": 3559
   },
   {
     "word": "of [the] Lord.",
@@ -93,6 +104,7 @@
     "translit": "(Kyriou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   }
 ]

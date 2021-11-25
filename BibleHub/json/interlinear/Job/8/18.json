@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "he is uprooted",
@@ -13,7 +14,8 @@
     "translit": "(yə·ḇal·lə·‘en·nū)",
     "parse": "Verb - Piel - Imperfect - third person masculine singular | third person masculine singular",
     "str": "Strong's 1104:  ",
-    "str2": "To swallow down, swallow up, engulf"
+    "str2": "To swallow down, swallow up, engulf",
+    "num": 1104
   },
   {
     "word": "from his place,",
@@ -21,7 +23,8 @@
     "translit": "(mim·mə·qō·w·mōw)",
     "parse": "Preposition-m | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 4725:  ",
-    "str2": "A standing, a spot, a condition"
+    "str2": "A standing, a spot, a condition",
+    "num": 4725
   },
   {
     "word": "it will disown",
@@ -29,7 +32,8 @@
     "translit": "(wə·ḵi·ḥeš)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 3584:  ",
-    "str2": "To disappoint, deceive, fail, grow lean"
+    "str2": "To disappoint, deceive, fail, grow lean",
+    "num": 3584
   },
   {
     "word": "him,",
@@ -37,7 +41,8 @@
     "translit": "(bōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "saying, ‘I never",
@@ -45,7 +50,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "saw you.’",
@@ -53,6 +59,7 @@
     "translit": "(rə·’î·ṯî·ḵā)",
     "parse": "Verb - Qal - Perfect - first person common singular | second person masculine singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   }
 ]

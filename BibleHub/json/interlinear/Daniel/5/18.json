@@ -5,7 +5,8 @@
     "translit": "(’ant)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 607:  ",
-    "str2": "You "
+    "str2": "You ",
+    "num": 607
   },
   {
     "word": "O king,",
@@ -13,7 +14,8 @@
     "translit": "(mal·kā)",
     "parse": "Noun - masculine singular determinate",
     "str": "Strong's 4430:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4430
   },
   {
     "word": "the Most High",
@@ -21,7 +23,8 @@
     "translit": "(‘il·lā·’āh)",
     "parse": "Adjective - masculine singular determinate",
     "str": "Strong's 5943:  ",
-    "str2": "highest', a name of God"
+    "str2": "highest', a name of God",
+    "num": 5943
   },
   {
     "word": "God",
@@ -29,7 +32,8 @@
     "translit": "(’ĕ·lā·hā)",
     "parse": "Noun - masculine singular determinate",
     "str": "Strong's 426:  ",
-    "str2": "God"
+    "str2": "God",
+    "num": 426
   },
   {
     "word": "gave",
@@ -37,7 +41,8 @@
     "translit": "(yə·haḇ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 3052:  ",
-    "str2": "To give, to put, imperatively, come"
+    "str2": "To give, to put, imperatively, come",
+    "num": 3052
   },
   {
     "word": "your father",
@@ -45,7 +50,8 @@
     "translit": "(’ă·ḇūḵ)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 2:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 2
   },
   {
     "word": "Nebuchadnezzar",
@@ -53,7 +59,8 @@
     "translit": "(lin·ḇu·ḵaḏ·neṣ·ṣar)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 5020:  ",
-    "str2": "Nebuchadnezzar -- a Babylonian king"
+    "str2": "Nebuchadnezzar -- a Babylonian king",
+    "num": 5020
   },
   {
     "word": "sovereignty",
@@ -61,7 +68,8 @@
     "translit": "(mal·ḵū·ṯā)",
     "parse": "Noun - feminine singular determinate",
     "str": "Strong's 4437:  ",
-    "str2": "Royalty, reign, kingdom"
+    "str2": "Royalty, reign, kingdom",
+    "num": 4437
   },
   {
     "word": "and greatness,",
@@ -69,7 +77,8 @@
     "translit": "(ū·rə·ḇū·ṯā)",
     "parse": "Conjunctive waw | Noun - feminine singular determinate",
     "str": "Strong's 7238:  ",
-    "str2": "Greatness"
+    "str2": "Greatness",
+    "num": 7238
   },
   {
     "word": "glory",
@@ -77,7 +86,8 @@
     "translit": "(wî·qā·rā)",
     "parse": "Conjunctive waw | Noun - masculine singular determinate",
     "str": "Strong's 3367:  ",
-    "str2": "Value, wealth, costliness, dignity"
+    "str2": "Value, wealth, costliness, dignity",
+    "num": 3367
   },
   {
     "word": "and honor.",
@@ -85,6 +95,7 @@
     "translit": "(wə·haḏ·rāh)",
     "parse": "Conjunctive waw | Noun - masculine singular determinate",
     "str": "Strong's 1923:  ",
-    "str2": "An honor, majesty"
+    "str2": "An honor, majesty",
+    "num": 1923
   }
 ]

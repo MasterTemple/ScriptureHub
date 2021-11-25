@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "this is what",
@@ -13,7 +14,8 @@
     "translit": "(ḵōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "says:",
@@ -29,7 +32,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“Behold,",
@@ -37,7 +41,8 @@
     "translit": "(hin·nêh)",
     "parse": "Interjection",
     "str": "Strong's 2009:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2009
   },
   {
     "word": "an eagle",
@@ -45,7 +50,8 @@
     "translit": "(ḵan·ne·šer)",
     "parse": "Preposition-k, Article | Noun - masculine singular",
     "str": "Strong's 5404:  ",
-    "str2": "The eagle"
+    "str2": "The eagle",
+    "num": 5404
   },
   {
     "word": "swoops down",
@@ -53,7 +59,8 @@
     "translit": "(yiḏ·’eh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1675:  ",
-    "str2": "To fly swiftly, dart through the air"
+    "str2": "To fly swiftly, dart through the air",
+    "num": 1675
   },
   {
     "word": "and spreads",
@@ -61,7 +68,8 @@
     "translit": "(ū·p̄ā·raś)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 6566:  ",
-    "str2": "To break apart, disperse"
+    "str2": "To break apart, disperse",
+    "num": 6566
   },
   {
     "word": "his wings",
@@ -69,7 +77,8 @@
     "translit": "(kə·nā·p̄āw)",
     "parse": "Noun - feminine plural construct | third person masculine singular",
     "str": "Strong's 3671:  ",
-    "str2": "An edge, extremity, a wing, a flap, a quarter, a pinnacle"
+    "str2": "An edge, extremity, a wing, a flap, a quarter, a pinnacle",
+    "num": 3671
   },
   {
     "word": "against",
@@ -77,7 +86,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "Moab.",
@@ -85,6 +95,7 @@
     "translit": "(mō·w·’āḇ)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 4124:  ",
-    "str2": "Moab -- a son of Lot,also his descendants and the territory where they settled"
+    "str2": "Moab -- a son of Lot,also his descendants and the territory where they settled",
+    "num": 4124
   }
 ]

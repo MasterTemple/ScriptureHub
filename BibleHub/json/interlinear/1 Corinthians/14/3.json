@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "he who",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "prophesies",
@@ -21,7 +23,8 @@
     "translit": "(prophēteuōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4395:  ",
-    "str2": "From prophetes; to foretell events, divine, speak under inspiration, exercise the prophetic office."
+    "str2": "From prophetes; to foretell events, divine, speak under inspiration, exercise the prophetic office.",
+    "num": 4395
   },
   {
     "word": "speaks",
@@ -29,7 +32,8 @@
     "translit": "(lalei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "to men",
@@ -37,7 +41,8 @@
     "translit": "(anthrōpois)",
     "parse": "Noun - Dative Masculine Plural",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "[for their] edification,",
@@ -45,7 +50,8 @@
     "translit": "(oikodomēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3619:  ",
-    "str2": "Feminine of a compound of oikos and the base of doma; architecture, i.e. a structure; figuratively, confirmation."
+    "str2": "Feminine of a compound of oikos and the base of doma; architecture, i.e. a structure; figuratively, confirmation.",
+    "num": 3619
   },
   {
     "word": "encouragement,",
@@ -53,7 +59,8 @@
     "translit": "(paraklēsin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3874:  ",
-    "str2": "From parakaleo; imploration, hortation, solace."
+    "str2": "From parakaleo; imploration, hortation, solace.",
+    "num": 3874
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "comfort.",
@@ -69,6 +77,7 @@
     "translit": "(paramythian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3889:  ",
-    "str2": "Encouragement, comfort, consolation, exhortation. From paramutheomai; consolation."
+    "str2": "Encouragement, comfort, consolation, exhortation. From paramutheomai; consolation.",
+    "num": 3889
   }
 ]

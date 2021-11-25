@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "anyone",
@@ -21,7 +23,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "walks",
@@ -29,7 +32,8 @@
     "translit": "(peripatē)",
     "parse": "Verb - Present Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 4043:  ",
-    "str2": "From peri and pateo; to tread all around, i.e. Walk at large; figuratively, to live, deport oneself, follow."
+    "str2": "From peri and pateo; to tread all around, i.e. Walk at large; figuratively, to live, deport oneself, follow.",
+    "num": 4043
   },
   {
     "word": "at",
@@ -37,7 +41,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "night,",
@@ -45,7 +50,8 @@
     "translit": "(nykti)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3571:  ",
-    "str2": "The night, night-time. A primary word; 'night'."
+    "str2": "The night, night-time. A primary word; 'night'.",
+    "num": 3571
   },
   {
     "word": "he will stumble,",
@@ -53,7 +59,8 @@
     "translit": "(proskoptei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 4350:  ",
-    "str2": "From pros and kopto; to strike at, i.e. Surge against; specially, to stub on, i.e. Trip up."
+    "str2": "From pros and kopto; to strike at, i.e. Surge against; specially, to stub on, i.e. Trip up.",
+    "num": 4350
   },
   {
     "word": "because",
@@ -61,7 +68,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "he",
@@ -69,7 +77,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "has",
@@ -77,7 +86,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "no",
@@ -85,7 +95,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "light.”",
@@ -93,6 +104,7 @@
     "translit": "(phōs)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 5457:  ",
-    "str2": "Light, a source of light, radiance. From an obsolete phao; luminousness."
+    "str2": "Light, a source of light, radiance. From an obsolete phao; luminousness.",
+    "num": 5457
   }
 ]

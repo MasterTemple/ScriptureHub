@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[Jesus]",
@@ -13,7 +14,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "was",
@@ -21,7 +23,8 @@
     "translit": "(ontos)",
     "parse": "Verb - Present Participle Active - Genitive Masculine Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "in",
@@ -29,7 +32,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "Bethany",
@@ -37,7 +41,8 @@
     "translit": "(Bēthania)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 963:  ",
-    "str2": "Of Chaldee origin; date-house; Beth-any, a place in Palestine."
+    "str2": "Of Chaldee origin; date-house; Beth-any, a place in Palestine.",
+    "num": 963
   },
   {
     "word": "reclining at the table",
@@ -45,7 +50,8 @@
     "translit": "(katakeimenou)",
     "parse": "Verb - Present Participle Middle or Passive - Genitive Masculine Singular",
     "str": "Strong's 2621:  ",
-    "str2": "From kata and keimai; to lie down, i.e. be sick; specially, to recline at a meal."
+    "str2": "From kata and keimai; to lie down, i.e. be sick; specially, to recline at a meal.",
+    "num": 2621
   },
   {
     "word": "in",
@@ -53,7 +59,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -61,7 +68,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "home",
@@ -69,7 +77,8 @@
     "translit": "(oikia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3614:  ",
-    "str2": "From oikos; properly, residence, but usually an abode; by implication, a family."
+    "str2": "From oikos; properly, residence, but usually an abode; by implication, a family.",
+    "num": 3614
   },
   {
     "word": "of Simon",
@@ -77,7 +86,8 @@
     "translit": "(Simōnos)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 4613:  ",
-    "str2": "Simon. Of Hebrew origin; Simon, the name of nine Israelites."
+    "str2": "Simon. Of Hebrew origin; Simon, the name of nine Israelites.",
+    "num": 4613
   },
   {
     "word": "the",
@@ -85,7 +95,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "leper,",
@@ -93,7 +104,8 @@
     "translit": "(leprou)",
     "parse": "Adjective - Genitive Masculine Singular",
     "str": "Strong's 3015:  ",
-    "str2": "A leprous person, a leper. From the same as lepra; scaly, i.e. Leprous."
+    "str2": "A leprous person, a leper. From the same as lepra; scaly, i.e. Leprous.",
+    "num": 3015
   },
   {
     "word": "a woman",
@@ -101,7 +113,8 @@
     "translit": "(gynē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1135:  ",
-    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife."
+    "str2": "A woman, wife, my lady. Probably from the base of ginomai; a woman; specially, a wife.",
+    "num": 1135
   },
   {
     "word": "came",
@@ -109,7 +122,8 @@
     "translit": "(ēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "[with]",
@@ -117,7 +131,8 @@
     "translit": "(echousa)",
     "parse": "Verb - Present Participle Active - Nominative Feminine Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "an alabaster jar",
@@ -125,7 +140,8 @@
     "translit": "(alabastron)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 211:  ",
-    "str2": "Neuter of alabastros, the name of a stone; properly, an 'alabaster' box, i.e. a perfume vase."
+    "str2": "Neuter of alabastros, the name of a stone; properly, an 'alabaster' box, i.e. a perfume vase.",
+    "num": 211
   },
   {
     "word": "of expensive",
@@ -133,7 +149,8 @@
     "translit": "(polytelous)",
     "parse": "Adjective - Genitive Feminine Singular",
     "str": "Strong's 4185:  ",
-    "str2": "Very costly, very precious, of great value. From polus and telos; extremely expensive."
+    "str2": "Very costly, very precious, of great value. From polus and telos; extremely expensive.",
+    "num": 4185
   },
   {
     "word": "perfume,",
@@ -141,7 +158,8 @@
     "translit": "(myrou)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 3464:  ",
-    "str2": "Anointing-oil, ointment. Probably of foreign origin; 'myrrh', i.e. perfumed oil."
+    "str2": "Anointing-oil, ointment. Probably of foreign origin; 'myrrh', i.e. perfumed oil.",
+    "num": 3464
   },
   {
     "word": "made of pure",
@@ -149,7 +167,8 @@
     "translit": "(pistikēs)",
     "parse": "Adjective - Genitive Feminine Singular",
     "str": "Strong's 4101:  ",
-    "str2": "Genuine, pure (of ointment), trustworthy. From pistis; trustworthy, i.e. Genuine."
+    "str2": "Genuine, pure (of ointment), trustworthy. From pistis; trustworthy, i.e. Genuine.",
+    "num": 4101
   },
   {
     "word": "nard.",
@@ -157,7 +176,8 @@
     "translit": "(nardou)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 3487:  ",
-    "str2": "Spikenard, a perfume made originally from a plant growing on the Himalayas. Of foreign origin; 'nard'."
+    "str2": "Spikenard, a perfume made originally from a plant growing on the Himalayas. Of foreign origin; 'nard'.",
+    "num": 3487
   },
   {
     "word": "She broke open",
@@ -165,7 +185,8 @@
     "translit": "(syntripsasa)",
     "parse": "Verb - Aorist Participle Active - Nominative Feminine Singular",
     "str": "Strong's 4937:  ",
-    "str2": "From sun and the base of tribos; to crush completely, i.e. To shatter."
+    "str2": "From sun and the base of tribos; to crush completely, i.e. To shatter.",
+    "num": 4937
   },
   {
     "word": "the",
@@ -173,7 +194,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "jar",
@@ -181,7 +203,8 @@
     "translit": "(alabastron)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 211:  ",
-    "str2": "Neuter of alabastros, the name of a stone; properly, an 'alabaster' box, i.e. a perfume vase."
+    "str2": "Neuter of alabastros, the name of a stone; properly, an 'alabaster' box, i.e. a perfume vase.",
+    "num": 211
   },
   {
     "word": "[and] poured [it] on",
@@ -189,7 +212,8 @@
     "translit": "(katecheen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2708:  ",
-    "str2": "To pour (down) upon. From kata and cheo; to pour down."
+    "str2": "To pour (down) upon. From kata and cheo; to pour down.",
+    "num": 2708
   },
   {
     "word": "[Jesus?]",
@@ -197,7 +221,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "head.",
@@ -205,6 +230,7 @@
     "translit": "(kephalēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2776:  ",
-    "str2": "From the primary kapto; the head, literally or figuratively."
+    "str2": "From the primary kapto; the head, literally or figuratively.",
+    "num": 2776
   }
 ]

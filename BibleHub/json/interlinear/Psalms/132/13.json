@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "has chosen",
@@ -21,7 +23,8 @@
     "translit": "(ḇā·ḥar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 977:  ",
-    "str2": "To try, select"
+    "str2": "To try, select",
+    "num": 977
   },
   {
     "word": "Zion;",
@@ -29,7 +32,8 @@
     "translit": "(bə·ṣî·yō·wn)",
     "parse": "Preposition-b | Noun - proper - feminine singular",
     "str": "Strong's 6726:  ",
-    "str2": "Zion -- a mountain in Jerusalem, also a name for Jerusalem"
+    "str2": "Zion -- a mountain in Jerusalem, also a name for Jerusalem",
+    "num": 6726
   },
   {
     "word": "He has desired",
@@ -37,7 +41,8 @@
     "translit": "(’iw·wāh)",
     "parse": "Verb - Piel - Perfect - third person masculine singular | third person feminine singular",
     "str": "Strong's 183:  ",
-    "str2": "To incline, desire"
+    "str2": "To incline, desire",
+    "num": 183
   },
   {
     "word": "it for His home:",
@@ -45,6 +50,7 @@
     "translit": "(lə·mō·wō·šāḇ)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 4186:  ",
-    "str2": "A seat, assembly, dwelling place, dwelling, dwellers"
+    "str2": "A seat, assembly, dwelling place, dwelling, dwellers",
+    "num": 4186
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "crowd",
@@ -21,7 +23,8 @@
     "translit": "(ochlos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3793:  ",
-    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot."
+    "str2": "From a derivative of echo; a throng; by implication, the rabble; by extension, a class of people; figuratively, a riot.",
+    "num": 3793
   },
   {
     "word": "went up",
@@ -29,7 +32,8 @@
     "translit": "(anabas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 305:  ",
-    "str2": "To go up, mount, ascend; of things: I rise, spring up, come up. From ana and the base of basis; to go up."
+    "str2": "To go up, mount, ascend; of things: I rise, spring up, come up. From ana and the base of basis; to go up.",
+    "num": 305
   },
   {
     "word": "[and] began",
@@ -37,7 +41,8 @@
     "translit": "(ērxato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 756:  ",
-    "str2": "To begin. Middle voice of archo; to commence."
+    "str2": "To begin. Middle voice of archo; to commence.",
+    "num": 756
   },
   {
     "word": "asking [Pilate]",
@@ -45,7 +50,8 @@
     "translit": "(aiteisthai)",
     "parse": "Verb - Present Infinitive Middle",
     "str": "Strong's 154:  ",
-    "str2": "To ask, request, petition, demand. Of uncertain derivation; to ask."
+    "str2": "To ask, request, petition, demand. Of uncertain derivation; to ask.",
+    "num": 154
   },
   {
     "word": "to keep his custom.",
@@ -53,6 +59,7 @@
     "translit": "(kathōs)",
     "parse": "Adverb",
     "str": "Strong's 2531:  ",
-    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that."
+    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that.",
+    "num": 2531
   }
 ]

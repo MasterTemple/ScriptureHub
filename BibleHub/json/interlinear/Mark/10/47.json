@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he heard",
@@ -13,7 +14,8 @@
     "translit": "(akousas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "that",
@@ -21,7 +23,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "it was",
@@ -29,7 +32,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "Jesus",
@@ -37,7 +41,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "of",
@@ -45,7 +50,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Nazareth,",
@@ -53,7 +59,8 @@
     "translit": "(Nazarēnos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3479:  ",
-    "str2": "Of Nazareth, a Nazarene. From Nazareth; a Nazarene, i.e. Inhabitant of Nazareth."
+    "str2": "Of Nazareth, a Nazarene. From Nazareth; a Nazarene, i.e. Inhabitant of Nazareth.",
+    "num": 3479
   },
   {
     "word": "he began",
@@ -61,7 +68,8 @@
     "translit": "(ērxato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 756:  ",
-    "str2": "To begin. Middle voice of archo; to commence."
+    "str2": "To begin. Middle voice of archo; to commence.",
+    "num": 756
   },
   {
     "word": "to cry out,",
@@ -69,7 +77,8 @@
     "translit": "(krazein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2896:  ",
-    "str2": "To cry aloud, shriek. A primary verb; properly, to 'croak' or scream, i.e. to call aloud."
+    "str2": "To cry aloud, shriek. A primary verb; properly, to 'croak' or scream, i.e. to call aloud.",
+    "num": 2896
   },
   {
     "word": "“Jesus,",
@@ -77,7 +86,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "Son",
@@ -85,7 +95,8 @@
     "translit": "(Huie)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   },
   {
     "word": "of David,",
@@ -93,7 +104,8 @@
     "translit": "(Dauid)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 1138:  ",
-    "str2": "David, King of Israel. Of Hebrew origin; Dabid, the Israelite king."
+    "str2": "David, King of Israel. Of Hebrew origin; Dabid, the Israelite king.",
+    "num": 1138
   },
   {
     "word": "have mercy on",
@@ -101,7 +113,8 @@
     "translit": "(eleēson)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 1653:  ",
-    "str2": "To pity, have mercy on. From eleos; to compassionate."
+    "str2": "To pity, have mercy on. From eleos; to compassionate.",
+    "num": 1653
   },
   {
     "word": "me!”",
@@ -109,6 +122,7 @@
     "translit": "(me)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   }
 ]

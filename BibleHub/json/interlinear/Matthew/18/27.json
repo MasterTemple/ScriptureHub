@@ -5,7 +5,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "master",
@@ -13,7 +14,8 @@
     "translit": "(kyrios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "had compassion [on him],",
@@ -21,7 +23,8 @@
     "translit": "(Splanchnistheis)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Singular",
     "str": "Strong's 4697:  ",
-    "str2": "To feel compassion, have pity on, be moved. "
+    "str2": "To feel compassion, have pity on, be moved. ",
+    "num": 4697
   },
   {
     "word": "forgave",
@@ -29,7 +32,8 @@
     "translit": "(aphēken)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 863:  ",
-    "str2": "From apo and hiemi; to send forth, in various applications."
+    "str2": "From apo and hiemi; to send forth, in various applications.",
+    "num": 863
   },
   {
     "word": "his",
@@ -37,7 +41,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "debt,",
@@ -45,7 +50,8 @@
     "translit": "(daneion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 1156:  ",
-    "str2": "A loan, debt. From danos; probably akin to the base of didomi; a loan."
+    "str2": "A loan, debt. From danos; probably akin to the base of didomi; a loan.",
+    "num": 1156
   },
   {
     "word": "[and] released",
@@ -53,7 +59,8 @@
     "translit": "(apelysen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 630:  ",
-    "str2": "From apo and luo; to free fully, i.e. relieve, release, dismiss, or let die, pardon or divorce."
+    "str2": "From apo and luo; to free fully, i.e. relieve, release, dismiss, or let die, pardon or divorce.",
+    "num": 630
   },
   {
     "word": "him.",
@@ -61,6 +68,7 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "king",
@@ -21,7 +23,8 @@
     "translit": "(basileus)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 935:  ",
-    "str2": "A king, ruler, but in some passages clearly to be translated: emperor. Probably from basis; a sovereign."
+    "str2": "A king, ruler, but in some passages clearly to be translated: emperor. Probably from basis; a sovereign.",
+    "num": 935
   },
   {
     "word": "came in",
@@ -29,7 +32,8 @@
     "translit": "(Eiselthōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "to see",
@@ -37,7 +41,8 @@
     "translit": "(theasasthai)",
     "parse": "Verb - Aorist Infinitive Middle",
     "str": "Strong's 2300:  ",
-    "str2": "A prolonged form of a primary verb; to look closely at, i.e. perceive; by extension to visit."
+    "str2": "A prolonged form of a primary verb; to look closely at, i.e. perceive; by extension to visit.",
+    "num": 2300
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "guests,",
@@ -53,7 +59,8 @@
     "translit": "(anakeimenous)",
     "parse": "Verb - Present Participle Middle or Passive - Accusative Masculine Plural",
     "str": "Strong's 345:  ",
-    "str2": "To recline, especially at a dinner-table. From ana and keimai; to recline."
+    "str2": "To recline, especially at a dinner-table. From ana and keimai; to recline.",
+    "num": 345
   },
   {
     "word": "he spotted",
@@ -61,7 +68,8 @@
     "translit": "(eiden)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "a man",
@@ -69,7 +77,8 @@
     "translit": "(anthrōpon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "[who was] not",
@@ -77,7 +86,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "dressed",
@@ -85,7 +95,8 @@
     "translit": "(endedymenon)",
     "parse": "Verb - Perfect Participle Middle - Accusative Masculine Singular",
     "str": "Strong's 1746:  ",
-    "str2": "To put on, clothe (another). From en and duno; to invest with clothing."
+    "str2": "To put on, clothe (another). From en and duno; to invest with clothing.",
+    "num": 1746
   },
   {
     "word": "in wedding",
@@ -93,7 +104,8 @@
     "translit": "(gamou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 1062:  ",
-    "str2": "A marriage, wedding, wedding-ceremony; plur: a wedding-feast. Of uncertain affinity; nuptials."
+    "str2": "A marriage, wedding, wedding-ceremony; plur: a wedding-feast. Of uncertain affinity; nuptials.",
+    "num": 1062
   },
   {
     "word": "clothes.",
@@ -101,6 +113,7 @@
     "translit": "(endyma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 1742:  ",
-    "str2": "A garment, raiment, clothing. From enduo; apparel."
+    "str2": "A garment, raiment, clothing. From enduo; apparel.",
+    "num": 1742
   }
 ]

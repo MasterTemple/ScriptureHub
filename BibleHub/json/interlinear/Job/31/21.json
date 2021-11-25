@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I have lifted",
@@ -13,7 +14,8 @@
     "translit": "(hă·nî·p̄ō·w·ṯî)",
     "parse": "Verb - Hifil - Perfect - first person common singular",
     "str": "Strong's 5130:  ",
-    "str2": "To move to and fro, wave, sprinkle"
+    "str2": "To move to and fro, wave, sprinkle",
+    "num": 5130
   },
   {
     "word": "up my hand",
@@ -21,7 +23,8 @@
     "translit": "(yā·ḏî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "against",
@@ -29,7 +32,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the fatherless",
@@ -37,7 +41,8 @@
     "translit": "(yā·ṯō·wm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3490:  ",
-    "str2": "A bereaved person"
+    "str2": "A bereaved person",
+    "num": 3490
   },
   {
     "word": "because",
@@ -45,7 +50,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I saw",
@@ -53,7 +59,8 @@
     "translit": "(’er·’eh)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "that I had support",
@@ -61,7 +68,8 @@
     "translit": "(‘ez·rā·ṯî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 5833:  ",
-    "str2": "Help, helper, assistance"
+    "str2": "Help, helper, assistance",
+    "num": 5833
   },
   {
     "word": "in the gate,",
@@ -69,6 +77,7 @@
     "translit": "(ḇaš·ša·‘ar)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 8179:  ",
-    "str2": "An opening, door, gate"
+    "str2": "An opening, door, gate",
+    "num": 8179
   }
 ]

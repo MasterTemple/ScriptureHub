@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "there is",
@@ -13,7 +14,8 @@
     "translit": "(yêš)",
     "parse": "Adverb",
     "str": "Strong's 3426:  ",
-    "str2": "Being, substance, existence, is"
+    "str2": "Being, substance, existence, is",
+    "num": 3426
   },
   {
     "word": "a messenger",
@@ -21,7 +23,8 @@
     "translit": "(mal·’āḵ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4397:  ",
-    "str2": "A messenger, of God, an angel"
+    "str2": "A messenger, of God, an angel",
+    "num": 4397
   },
   {
     "word": "on his side,",
@@ -29,7 +32,8 @@
     "translit": "(‘ā·lāw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "one",
@@ -37,7 +41,8 @@
     "translit": "(’e·ḥāḏ)",
     "parse": "Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "mediator",
@@ -45,7 +50,8 @@
     "translit": "(mê·lîṣ)",
     "parse": "Verb - Hifil - Participle - masculine singular",
     "str": "Strong's 3887:  ",
-    "str2": "Ambassador, have in derision, interpreter, make a mock, mocker"
+    "str2": "Ambassador, have in derision, interpreter, make a mock, mocker",
+    "num": 3887
   },
   {
     "word": "out of",
@@ -53,7 +59,8 @@
     "translit": "(min·nî-)",
     "parse": "Preposition",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "a thousand,",
@@ -61,7 +68,8 @@
     "translit": "(’ā·lep̄)",
     "parse": "Number - masculine singular",
     "str": "Strong's 505:  ",
-    "str2": "A thousand"
+    "str2": "A thousand",
+    "num": 505
   },
   {
     "word": "to tell",
@@ -69,7 +77,8 @@
     "translit": "(lə·hag·gîḏ)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct",
     "str": "Strong's 5046:  ",
-    "str2": "To be conspicuous"
+    "str2": "To be conspicuous",
+    "num": 5046
   },
   {
     "word": "a man",
@@ -77,7 +86,8 @@
     "translit": "(lə·’ā·ḏām)",
     "parse": "Preposition-l | Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   },
   {
     "word": "what is right for him,",
@@ -85,6 +95,7 @@
     "translit": "(yā·šə·rōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 3476:  ",
-    "str2": "Straightness, uprightness"
+    "str2": "Straightness, uprightness",
+    "num": 3476
   }
 ]

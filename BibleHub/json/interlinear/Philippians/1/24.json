@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[it is] more necessary",
@@ -13,7 +14,8 @@
     "translit": "(anankaioteron)",
     "parse": "Adjective - Nominative Neuter Singular - Comparative",
     "str": "Strong's 316:  ",
-    "str2": "Necessary, essential, intimate, right, proper. From anagke; necessary; by implication, close."
+    "str2": "Necessary, essential, intimate, right, proper. From anagke; necessary; by implication, close.",
+    "num": 316
   },
   {
     "word": "for",
@@ -21,7 +23,8 @@
     "translit": "(di’)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "you",
@@ -29,7 +32,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "that I remain",
@@ -37,7 +41,8 @@
     "translit": "(epimenein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 1961:  ",
-    "str2": "(a) I remain, tarry, (b) I remain in, persist in. From epi and meno; to stay over, i.e. Remain."
+    "str2": "(a) I remain, tarry, (b) I remain in, persist in. From epi and meno; to stay over, i.e. Remain.",
+    "num": 1961
   },
   {
     "word": "in",
@@ -45,7 +50,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "body.",
@@ -61,6 +68,7 @@
     "translit": "(sarki)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4561:  ",
-    "str2": "Flesh, body, human nature, materiality; kindred. "
+    "str2": "Flesh, body, human nature, materiality; kindred. ",
+    "num": 4561
   }
 ]

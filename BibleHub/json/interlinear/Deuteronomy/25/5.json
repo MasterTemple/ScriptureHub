@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "brothers",
@@ -13,7 +14,8 @@
     "translit": "(’a·ḥîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 251:  ",
-    "str2": "A brother, )"
+    "str2": "A brother, )",
+    "num": 251
   },
   {
     "word": "dwell",
@@ -21,7 +23,8 @@
     "translit": "(yê·šə·ḇū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "together",
@@ -29,7 +32,8 @@
     "translit": "(yaḥ·dāw)",
     "parse": "Adverb",
     "str": "Strong's 3162:  ",
-    "str2": "A unit, unitedly"
+    "str2": "A unit, unitedly",
+    "num": 3162
   },
   {
     "word": "and one",
@@ -37,7 +41,8 @@
     "translit": "(’a·ḥaḏ)",
     "parse": "Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "of them",
@@ -45,7 +50,8 @@
     "translit": "(mê·hem)",
     "parse": "Preposition-m | Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "dies",
@@ -53,7 +59,8 @@
     "translit": "(ū·mêṯ)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   },
   {
     "word": "without",
@@ -61,7 +68,8 @@
     "translit": "(’ên-)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "a son,",
@@ -69,7 +77,8 @@
     "translit": "(ū·ḇên)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "the widow",
@@ -77,7 +86,8 @@
     "translit": "(’ê·šeṯ-)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 802:  ",
-    "str2": "Woman, wife, female"
+    "str2": "Woman, wife, female",
+    "num": 802
   },
   {
     "word": "must not",
@@ -85,7 +95,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "marry",
@@ -93,7 +104,8 @@
     "translit": "(ṯih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "outside [the family].",
@@ -101,7 +113,8 @@
     "translit": "(ha·ḥū·ṣāh)",
     "parse": "Article | Noun - masculine singular | third person feminine singular",
     "str": "Strong's 2351:  ",
-    "str2": "Separate by a, wall, outside, outdoors"
+    "str2": "Separate by a, wall, outside, outdoors",
+    "num": 2351
   },
   {
     "word": "Her husband’s brother",
@@ -109,7 +122,8 @@
     "translit": "(yə·ḇā·māh)",
     "parse": "Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 2993:  ",
-    "str2": "Husband's brother"
+    "str2": "Husband's brother",
+    "num": 2993
   },
   {
     "word": "is to take her",
@@ -117,7 +131,8 @@
     "translit": "(ū·lə·qā·ḥāh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular | third person feminine singular",
     "str": "Strong's 3947:  ",
-    "str2": "To take"
+    "str2": "To take",
+    "num": 3947
   },
   {
     "word": "as his",
@@ -125,7 +140,8 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "wife",
@@ -133,7 +149,8 @@
     "translit": "(lə·’iš·šāh)",
     "parse": "Preposition-l | Noun - feminine singular",
     "str": "Strong's 802:  ",
-    "str2": "Woman, wife, female"
+    "str2": "Woman, wife, female",
+    "num": 802
   },
   {
     "word": "and fulfill the duty of a brother-in-law for her.",
@@ -141,6 +158,7 @@
     "translit": "(wə·yib·bə·māh)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive perfect - third person masculine singular | third person feminine singular",
     "str": "Strong's 2992:  ",
-    "str2": "To perform the duty of a husband's brother"
+    "str2": "To perform the duty of a husband's brother",
+    "num": 2992
   }
 ]

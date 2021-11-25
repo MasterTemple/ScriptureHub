@@ -5,7 +5,8 @@
     "translit": "(‘ă·mōḏ)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 5975:  ",
-    "str2": "To stand, in various relations"
+    "str2": "To stand, in various relations",
+    "num": 5975
   },
   {
     "word": "at the entrance",
@@ -13,7 +14,8 @@
     "translit": "(pe·ṯaḥ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 6607:  ",
-    "str2": "An opening, door, entrance way"
+    "str2": "An opening, door, entrance way",
+    "num": 6607
   },
   {
     "word": "to the tent,”",
@@ -21,7 +23,8 @@
     "translit": "(hā·’ō·hel)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 168:  ",
-    "str2": "A tent"
+    "str2": "A tent",
+    "num": 168
   },
   {
     "word": "he said,",
@@ -29,7 +32,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“and",
@@ -37,7 +41,8 @@
     "translit": "(wə·hā·yāh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "if",
@@ -45,7 +50,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "anyone",
@@ -53,7 +59,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "comes",
@@ -61,7 +68,8 @@
     "translit": "(yā·ḇō·w)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "and asks you,",
@@ -69,7 +77,8 @@
     "translit": "(ū·šə·’ê·lêḵ)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular | second person feminine singular",
     "str": "Strong's 7592:  ",
-    "str2": "To inquire, to request, to demand"
+    "str2": "To inquire, to request, to demand",
+    "num": 7592
   },
   {
     "word": "‘Is there",
@@ -77,7 +86,8 @@
     "translit": "(hă·yêš-)",
     "parse": "Adverb",
     "str": "Strong's 3426:  ",
-    "str2": "Being, substance, existence, is"
+    "str2": "Being, substance, existence, is",
+    "num": 3426
   },
   {
     "word": "a man",
@@ -85,7 +95,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "here?’",
@@ -93,7 +104,8 @@
     "translit": "(pōh)",
     "parse": "Adverb",
     "str": "Strong's 6311:  ",
-    "str2": "This place, here"
+    "str2": "This place, here",
+    "num": 6311
   },
   {
     "word": "say,",
@@ -101,7 +113,8 @@
     "translit": "(wə·’ā·mar)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘No.’”",
@@ -109,6 +122,7 @@
     "translit": "(’ā·yin)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   }
 ]

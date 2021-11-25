@@ -5,7 +5,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "is your",
@@ -13,7 +14,8 @@
     "translit": "(’at·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "request?”",
@@ -21,7 +23,8 @@
     "translit": "(mə·ḇaq·qêš)",
     "parse": "Verb - Piel - Participle - masculine singular",
     "str": "Strong's 1245:  ",
-    "str2": "To search out, to strive after"
+    "str2": "To search out, to strive after",
+    "num": 1245
   },
   {
     "word": "replied",
@@ -29,7 +32,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "the king.",
@@ -37,7 +41,8 @@
     "translit": "(ham·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "So I prayed",
@@ -45,7 +50,8 @@
     "translit": "(wā·’eṯ·pal·lêl)",
     "parse": "Conjunctive waw | Verb - Hitpael - Consecutive imperfect - first person common singular",
     "str": "Strong's 6419:  ",
-    "str2": "To judge, to intercede, pray"
+    "str2": "To judge, to intercede, pray",
+    "num": 6419
   },
   {
     "word": "to",
@@ -53,7 +59,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the God",
@@ -61,7 +68,8 @@
     "translit": "(’ĕ·lō·hê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "of heaven",
@@ -69,6 +77,7 @@
     "translit": "(haš·šā·mā·yim)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 8064:  ",
-    "str2": "Heaven, sky"
+    "str2": "Heaven, sky",
+    "num": 8064
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "surely",
@@ -13,7 +14,8 @@
     "translit": "(dē)",
     "parse": "Particle",
     "str": "Strong's 1211:  ",
-    "str2": "Probably akin to de; a particle of emphasis or explicitness; now, then, etc."
+    "str2": "Probably akin to de; a particle of emphasis or explicitness; now, then, etc.",
+    "num": 1211
   },
   {
     "word": "[it is] not",
@@ -21,7 +23,8 @@
     "translit": "(Ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "[the] angels",
@@ -29,7 +32,8 @@
     "translit": "(angelōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 32:  ",
-    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor."
+    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor.",
+    "num": 32
   },
   {
     "word": "He helps,",
@@ -37,7 +41,8 @@
     "translit": "(epilambanetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1949:  ",
-    "str2": "To lay hold of, take hold of, seize (sometimes with beneficent, sometimes with hostile, intent). "
+    "str2": "To lay hold of, take hold of, seize (sometimes with beneficent, sometimes with hostile, intent). ",
+    "num": 1949
   },
   {
     "word": "but",
@@ -45,7 +50,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "[the] descendants",
@@ -53,7 +59,8 @@
     "translit": "(spermatos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 4690:  ",
-    "str2": "From speiro; something sown, i.e. Seed; by implication, offspring; specially, a remnant."
+    "str2": "From speiro; something sown, i.e. Seed; by implication, offspring; specially, a remnant.",
+    "num": 4690
   },
   {
     "word": "of Abraham.",
@@ -61,6 +68,7 @@
     "translit": "(Abraam)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 11:  ",
-    "str2": "Abraham, progenitor of the Hebrew race. Of Hebrew origin; Abraham, the Hebrew patriarch."
+    "str2": "Abraham, progenitor of the Hebrew race. Of Hebrew origin; Abraham, the Hebrew patriarch.",
+    "num": 11
   }
 ]

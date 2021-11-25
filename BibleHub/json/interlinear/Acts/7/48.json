@@ -5,7 +5,8 @@
     "translit": "(All’)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Most High",
@@ -21,7 +23,8 @@
     "translit": "(Hypsistos)",
     "parse": "Adjective - Nominative Masculine Singular - Superlative",
     "str": "Strong's 5310:  ",
-    "str2": "Highest, most high, the heights. Superlative from the base of hupsos; highest, i.e. the Supreme, or the heavens."
+    "str2": "Highest, most high, the heights. Superlative from the base of hupsos; highest, i.e. the Supreme, or the heavens.",
+    "num": 5310
   },
   {
     "word": "{does} not",
@@ -29,7 +32,8 @@
     "translit": "(ouch)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "live",
@@ -37,7 +41,8 @@
     "translit": "(katoikei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2730:  ",
-    "str2": "To dwell in, settle in, be established in (permanently), inhabit. From kata and oikeo; to house permanently, i.e. Reside."
+    "str2": "To dwell in, settle in, be established in (permanently), inhabit. From kata and oikeo; to house permanently, i.e. Reside.",
+    "num": 2730
   },
   {
     "word": "in",
@@ -45,7 +50,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[houses] made by human hands.",
@@ -53,7 +59,8 @@
     "translit": "(cheiropoiētois)",
     "parse": "Adjective - Dative Masculine Plural",
     "str": "Strong's 5499:  ",
-    "str2": "Done or made with hands, artificial. From cheir and a derivative of poieo; manufactured, i.e. Of human construction."
+    "str2": "Done or made with hands, artificial. From cheir and a derivative of poieo; manufactured, i.e. Of human construction.",
+    "num": 5499
   },
   {
     "word": "As",
@@ -61,7 +68,8 @@
     "translit": "(kathōs)",
     "parse": "Adverb",
     "str": "Strong's 2531:  ",
-    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that."
+    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that.",
+    "num": 2531
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "prophet",
@@ -77,7 +86,8 @@
     "translit": "(prophētēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4396:  ",
-    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet."
+    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet.",
+    "num": 4396
   },
   {
     "word": "says:",
@@ -85,6 +95,7 @@
     "translit": "(legei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   }
 ]

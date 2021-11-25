@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A weak adversative particle, generally placed second in its clause; but, on the other hand, and."
+    "str2": "A weak adversative particle, generally placed second in its clause; but, on the other hand, and.",
+    "num": 1161
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(Ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If."
+    "str2": "If.",
+    "num": 1487
   },
   {
     "word": "you",
@@ -21,7 +23,8 @@
     "translit": "(hymeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You."
+    "str2": "You.",
+    "num": 4771
   },
   {
     "word": "{do} not",
@@ -29,7 +32,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not."
+    "str2": "No, not.",
+    "num": 3756
   },
   {
     "word": "forgive,",
@@ -37,7 +41,8 @@
     "translit": "(aphiete)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 863:  ",
-    "str2": "(a) to send away, (b) to let go, release, permit to depart, (c) to remit, forgive, (d) to permit, suffer."
+    "str2": "(a) to send away, (b) to let go, release, permit to depart, (c) to remit, forgive, (d) to permit, suffer.",
+    "num": 863
   },
   {
     "word": "neither",
@@ -45,7 +50,8 @@
     "translit": "(oude)",
     "parse": "Conjunction",
     "str": "Strong's 3761:  ",
-    "str2": "Neither, nor, not even, and not."
+    "str2": "Neither, nor, not even, and not.",
+    "num": 3761
   },
   {
     "word": "Father",
@@ -53,7 +59,8 @@
     "translit": "(patēr)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior.",
+    "num": 3962
   },
   {
     "word": "{will} your",
@@ -61,7 +68,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You."
+    "str2": "You.",
+    "num": 4771
   },
   {
     "word": "who [is]",
@@ -69,7 +77,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article."
+    "str2": "The, the definite article.",
+    "num": 3588
   },
   {
     "word": "in",
@@ -77,7 +86,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among."
+    "str2": "In, on, among.",
+    "num": 1722
   },
   {
     "word": "heaven",
@@ -85,7 +95,8 @@
     "translit": "(ouranois)",
     "parse": "Noun - Dative Masculine Plural",
     "str": "Strong's 3772:  ",
-    "str2": "Heaven, (a) the visible heavens: the atmosphere, the sky, the starry heavens, (b) the spiritual heavens."
+    "str2": "Heaven, (a) the visible heavens: the atmosphere, the sky, the starry heavens, (b) the spiritual heavens.",
+    "num": 3772
   },
   {
     "word": "forgive",
@@ -93,7 +104,8 @@
     "translit": "(aphēsei)",
     "parse": "Verb - Future Indicative Active - 3rd Person Singular",
     "str": "Strong's 863:  ",
-    "str2": "(a) to send away, (b) to let go, release, permit to depart, (c) to remit, forgive, (d) to permit, suffer."
+    "str2": "(a) to send away, (b) to let go, release, permit to depart, (c) to remit, forgive, (d) to permit, suffer.",
+    "num": 863
   },
   {
     "word": "your",
@@ -101,7 +113,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You."
+    "str2": "You.",
+    "num": 4771
   },
   {
     "word": "trespasses.",
@@ -109,6 +122,7 @@
     "translit": "(paraptōmata)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 3900:  ",
-    "str2": "A falling away, lapse, slip, false step, trespass, sin."
+    "str2": "A falling away, lapse, slip, false step, trespass, sin.",
+    "num": 3900
   }
 ]

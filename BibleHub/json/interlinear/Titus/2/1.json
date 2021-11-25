@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[as for] you,",
@@ -13,7 +14,8 @@
     "translit": "(Sy)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "speak",
@@ -21,7 +23,8 @@
     "translit": "(lalei)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "the things that",
@@ -29,7 +32,8 @@
     "translit": "(ha)",
     "parse": "Personal / Relative Pronoun - Nominative Neuter Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "are consistent with",
@@ -37,7 +41,8 @@
     "translit": "(prepei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 4241:  ",
-    "str2": "It becomes, is fitting to, is right. Apparently a primary verb; to tower up, i.e. to be suitable or proper."
+    "str2": "It becomes, is fitting to, is right. Apparently a primary verb; to tower up, i.e. to be suitable or proper.",
+    "num": 4241
   },
   {
     "word": "sound",
@@ -45,7 +50,8 @@
     "translit": "(hygiainousē)",
     "parse": "Verb - Present Participle Active - Dative Feminine Singular",
     "str": "Strong's 5198:  ",
-    "str2": "From hugies; to have sound health, i.e. Be well; figuratively, to be uncorrupt."
+    "str2": "From hugies; to have sound health, i.e. Be well; figuratively, to be uncorrupt.",
+    "num": 5198
   },
   {
     "word": "doctrine.",
@@ -53,6 +59,7 @@
     "translit": "(didaskalia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 1319:  ",
-    "str2": "Instruction, teaching. From didaskalos; instruction."
+    "str2": "Instruction, teaching. From didaskalos; instruction.",
+    "num": 1319
   }
 ]

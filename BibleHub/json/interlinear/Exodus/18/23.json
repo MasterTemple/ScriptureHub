@@ -5,7 +5,8 @@
     "translit": "(’im)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you follow",
@@ -13,7 +14,8 @@
     "translit": "(ta·‘ă·śeh)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "this",
@@ -21,7 +23,8 @@
     "translit": "(haz·zeh)",
     "parse": "Article | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "advice",
@@ -29,7 +32,8 @@
     "translit": "(had·dā·ḇār)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "and God",
@@ -37,7 +41,8 @@
     "translit": "(’ĕ·lō·hîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "so directs you,",
@@ -45,7 +50,8 @@
     "translit": "(wə·ṣiw·wə·ḵā)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive perfect - third person masculine singular | second person masculine singular",
     "str": "Strong's 6680:  ",
-    "str2": "To lay charge (upon), give charge (to), command, order"
+    "str2": "To lay charge (upon), give charge (to), command, order",
+    "num": 6680
   },
   {
     "word": "you will be able",
@@ -53,7 +59,8 @@
     "translit": "(wə·yā·ḵā·lə·tā)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - second person masculine singular",
     "str": "Strong's 3201:  ",
-    "str2": "To be able, have power"
+    "str2": "To be able, have power",
+    "num": 3201
   },
   {
     "word": "to endure,",
@@ -61,7 +68,8 @@
     "translit": "(‘ă·mōḏ)",
     "parse": "Verb - Qal - Infinitive construct",
     "str": "Strong's 5975:  ",
-    "str2": "To stand, in various relations"
+    "str2": "To stand, in various relations",
+    "num": 5975
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(wə·ḡam)",
     "parse": "Conjunctive waw | Conjunction",
     "str": "Strong's 1571:  ",
-    "str2": "Assemblage, also, even, yea, though, both, and"
+    "str2": "Assemblage, also, even, yea, though, both, and",
+    "num": 1571
   },
   {
     "word": "all",
@@ -77,7 +86,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "these",
@@ -85,7 +95,8 @@
     "translit": "(haz·zeh)",
     "parse": "Article | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "people",
@@ -93,7 +104,8 @@
     "translit": "(hā·‘ām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "can go",
@@ -101,7 +113,8 @@
     "translit": "(yā·ḇō)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "home",
@@ -109,7 +122,8 @@
     "translit": "(mə·qō·mōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 4725:  ",
-    "str2": "A standing, a spot, a condition"
+    "str2": "A standing, a spot, a condition",
+    "num": 4725
   },
   {
     "word": "in peace.”",
@@ -117,6 +131,7 @@
     "translit": "(ḇə·šā·lō·wm)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 7965:  ",
-    "str2": "Safe, well, happy, friendly, welfare, health, prosperity, peace"
+    "str2": "Safe, well, happy, friendly, welfare, health, prosperity, peace",
+    "num": 7965
   }
 ]

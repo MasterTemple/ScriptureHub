@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "father",
@@ -21,7 +23,8 @@
     "translit": "(patēr)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "said",
@@ -29,7 +32,8 @@
     "translit": "(Eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "to",
@@ -37,7 +41,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "his",
@@ -45,7 +50,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "servants,",
@@ -53,7 +59,8 @@
     "translit": "(doulous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 1401:  ",
-    "str2": "(a) (as adj.) enslaved, (b) (as noun) a (male) slave. From deo; a slave."
+    "str2": "(a) (as adj.) enslaved, (b) (as noun) a (male) slave. From deo; a slave.",
+    "num": 1401
   },
   {
     "word": "‘Quick!",
@@ -61,7 +68,8 @@
     "translit": "(Tachy)",
     "parse": "Adverb",
     "str": "Strong's 5035:  ",
-    "str2": "Quickly, speedily. Neuter singular of tachus; shortly, i.e. Without delay, soon, or suddenly, or readily."
+    "str2": "Quickly, speedily. Neuter singular of tachus; shortly, i.e. Without delay, soon, or suddenly, or readily.",
+    "num": 5035
   },
   {
     "word": "Bring",
@@ -69,7 +77,8 @@
     "translit": "(exenenkate)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 1627:  ",
-    "str2": "To bring out, carry out, sometimes out of the city for burial; I bring forth, bear, produce. From ek and phero; to bear out."
+    "str2": "To bring out, carry out, sometimes out of the city for burial; I bring forth, bear, produce. From ek and phero; to bear out.",
+    "num": 1627
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "best",
@@ -85,7 +95,8 @@
     "translit": "(prōtēn)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 4413:  ",
-    "str2": "First, before, principal, most important. Contracted superlative of pro; foremost."
+    "str2": "First, before, principal, most important. Contracted superlative of pro; foremost.",
+    "num": 4413
   },
   {
     "word": "robe",
@@ -93,7 +104,8 @@
     "translit": "(stolēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4749:  ",
-    "str2": "A long robe, worn by the upper classes in the East. From stello; equipment, i.e., a 'stole' or long-fitting gown."
+    "str2": "A long robe, worn by the upper classes in the East. From stello; equipment, i.e., a 'stole' or long-fitting gown.",
+    "num": 4749
   },
   {
     "word": "and",
@@ -101,7 +113,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "put it on",
@@ -109,7 +122,8 @@
     "translit": "(endysate)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 1746:  ",
-    "str2": "To put on, clothe (another). From en and duno; to invest with clothing."
+    "str2": "To put on, clothe (another). From en and duno; to invest with clothing.",
+    "num": 1746
   },
   {
     "word": "him.",
@@ -117,7 +131,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "Put",
@@ -125,7 +140,8 @@
     "translit": "(dote)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "a ring",
@@ -133,7 +149,8 @@
     "translit": "(daktylion)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 1146:  ",
-    "str2": "A finger-ring. From daktulos; a finger-ring."
+    "str2": "A finger-ring. From daktulos; a finger-ring.",
+    "num": 1146
   },
   {
     "word": "on",
@@ -141,7 +158,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "his",
@@ -149,7 +167,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "finger",
@@ -157,7 +176,8 @@
     "translit": "(cheira)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5495:  ",
-    "str2": "A hand. "
+    "str2": "A hand. ",
+    "num": 5495
   },
   {
     "word": "and",
@@ -165,7 +185,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "sandals",
@@ -173,7 +194,8 @@
     "translit": "(hypodēmata)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 5266:  ",
-    "str2": "A sandal; anything bound under. From hupodeo; something bound under the feet, i.e. A shoe or sandal."
+    "str2": "A sandal; anything bound under. From hupodeo; something bound under the feet, i.e. A shoe or sandal.",
+    "num": 5266
   },
   {
     "word": "on",
@@ -181,7 +203,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "his",
@@ -189,7 +212,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "feet.",
@@ -197,6 +221,7 @@
     "translit": "(podas)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 4228:  ",
-    "str2": "The foot. A primary word; a 'foot'."
+    "str2": "The foot. A primary word; a 'foot'.",
+    "num": 4228
   }
 ]

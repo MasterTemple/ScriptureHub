@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "a trumpet",
@@ -13,7 +14,8 @@
     "translit": "(šō·w·p̄ār)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7782:  ",
-    "str2": "A cornet, curved horn"
+    "str2": "A cornet, curved horn",
+    "num": 7782
   },
   {
     "word": "sounds",
@@ -21,7 +23,8 @@
     "translit": "(yit·tā·qa‘)",
     "parse": "Verb - Nifal - Imperfect - third person masculine singular",
     "str": "Strong's 8628:  ",
-    "str2": "To clatter, slap, clang, to drive, to become bondsman"
+    "str2": "To clatter, slap, clang, to drive, to become bondsman",
+    "num": 8628
   },
   {
     "word": "in a city,",
@@ -29,7 +32,8 @@
     "translit": "(bə·‘îr)",
     "parse": "Preposition-b | Noun - feminine singular",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "will the people",
@@ -37,7 +41,8 @@
     "translit": "(wə·‘ām)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "not",
@@ -45,7 +50,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "tremble?",
@@ -53,7 +59,8 @@
     "translit": "(ye·ḥĕ·rā·ḏū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 2729:  ",
-    "str2": "To shudder with terror, to fear, to hasten"
+    "str2": "To shudder with terror, to fear, to hasten",
+    "num": 2729
   },
   {
     "word": "If",
@@ -61,7 +68,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "calamity",
@@ -69,7 +77,8 @@
     "translit": "(rā·‘āh)",
     "parse": "Adjective - feminine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "comes",
@@ -77,7 +86,8 @@
     "translit": "(tih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "to a city,",
@@ -85,7 +95,8 @@
     "translit": "(bə·‘îr)",
     "parse": "Preposition-b | Noun - feminine singular",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "has not",
@@ -93,7 +104,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "the LORD",
@@ -101,7 +113,8 @@
     "translit": "(Yah·weh)",
     "parse": "Conjunctive waw | Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "caused it?",
@@ -109,6 +122,7 @@
     "translit": "(‘ā·śāh)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   }
 ]

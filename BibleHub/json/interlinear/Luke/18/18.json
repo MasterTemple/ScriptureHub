@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "a certain",
@@ -13,7 +14,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "ruler",
@@ -21,7 +23,8 @@
     "translit": "(archōn)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 758:  ",
-    "str2": "Present participle of archo; a first."
+    "str2": "Present participle of archo; a first.",
+    "num": 758
   },
   {
     "word": "asked",
@@ -29,7 +32,8 @@
     "translit": "(epērōtēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1905:  ",
-    "str2": "To interrogate, question, demand of. From epi and erotao; to ask for, i.e. Inquire, seek."
+    "str2": "To interrogate, question, demand of. From epi and erotao; to ask for, i.e. Inquire, seek.",
+    "num": 1905
   },
   {
     "word": "Him,",
@@ -37,7 +41,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“Good",
@@ -45,7 +50,8 @@
     "translit": "(agathe)",
     "parse": "Adjective - Vocative Masculine Singular",
     "str": "Strong's 18:  ",
-    "str2": "A primary word; 'good'."
+    "str2": "A primary word; 'good'.",
+    "num": 18
   },
   {
     "word": "Teacher,",
@@ -53,7 +59,8 @@
     "translit": "(Didaskale)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 1320:  ",
-    "str2": "A teacher, master. From didasko; an instructor."
+    "str2": "A teacher, master. From didasko; an instructor.",
+    "num": 1320
   },
   {
     "word": "what",
@@ -61,7 +68,8 @@
     "translit": "(ti)",
     "parse": "Interrogative / Indefinite Pronoun - Accusative Neuter Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "must I do",
@@ -69,7 +77,8 @@
     "translit": "(poiēsas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "to inherit",
@@ -77,7 +86,8 @@
     "translit": "(klēronomēsō)",
     "parse": "Verb - Future Indicative Active - 1st Person Singular",
     "str": "Strong's 2816:  ",
-    "str2": "To inherit, obtain (possess) by inheritance, acquire. From kleronomos; to be an heir to."
+    "str2": "To inherit, obtain (possess) by inheritance, acquire. From kleronomos; to be an heir to.",
+    "num": 2816
   },
   {
     "word": "eternal",
@@ -85,7 +95,8 @@
     "translit": "(aiōnion)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 166:  ",
-    "str2": "From aion; perpetual."
+    "str2": "From aion; perpetual.",
+    "num": 166
   },
   {
     "word": "life?”",
@@ -93,6 +104,7 @@
     "translit": "(zōēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2222:  ",
-    "str2": "Life, both of physical (present) and of spiritual (particularly future) existence. From zao; life."
+    "str2": "Life, both of physical (present) and of spiritual (particularly future) existence. From zao; life.",
+    "num": 2222
   }
 ]

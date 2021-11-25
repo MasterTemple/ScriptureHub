@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "when [I broke]",
@@ -13,7 +14,8 @@
     "translit": "(Hote)",
     "parse": "Adverb",
     "str": "Strong's 3753:  ",
-    "str2": "When, at which time. From hos and te; at which too, i.e. When."
+    "str2": "When, at which time. From hos and te; at which too, i.e. When.",
+    "num": 3753
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "seven [loaves]",
@@ -29,7 +32,8 @@
     "translit": "(hepta)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 2033:  ",
-    "str2": "Seven. A primary number; seven."
+    "str2": "Seven. A primary number; seven.",
+    "num": 2033
   },
   {
     "word": "for",
@@ -37,7 +41,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "four thousand,",
@@ -53,7 +59,8 @@
     "translit": "(tetrakischilious)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 5070:  ",
-    "str2": "Four thousand. From the multiplicative adverb of tessares and chilioi; four times a thousand."
+    "str2": "Four thousand. From the multiplicative adverb of tessares and chilioi; four times a thousand.",
+    "num": 5070
   },
   {
     "word": "how many",
@@ -61,7 +68,8 @@
     "translit": "(posōn)",
     "parse": "Interrogative / Indefinite Pronoun - Genitive Feminine Plural",
     "str": "Strong's 4214:  ",
-    "str2": "How much, how great, how many. From an absolute pos and hos; interrogative pronoun how much (plural) many)."
+    "str2": "How much, how great, how many. From an absolute pos and hos; interrogative pronoun how much (plural) many).",
+    "num": 4214
   },
   {
     "word": "basketfuls",
@@ -69,7 +77,8 @@
     "translit": "(spyridōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 4711:  ",
-    "str2": "A plaited basket. From speiro; a hamper or lunch-receptacle."
+    "str2": "A plaited basket. From speiro; a hamper or lunch-receptacle.",
+    "num": 4711
   },
   {
     "word": "of broken pieces",
@@ -77,7 +86,8 @@
     "translit": "(klasmatōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 2801:  ",
-    "str2": "A fragment, broken piece. From klao; a piece."
+    "str2": "A fragment, broken piece. From klao; a piece.",
+    "num": 2801
   },
   {
     "word": "did you collect?”",
@@ -85,7 +95,8 @@
     "translit": "(ērate)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Plural",
     "str": "Strong's 142:  ",
-    "str2": "To raise, lift up, take away, remove. "
+    "str2": "To raise, lift up, take away, remove. ",
+    "num": 142
   },
   {
     "word": "“Seven,”",
@@ -93,7 +104,8 @@
     "translit": "(Hepta)",
     "parse": "Adjective - Accusative Feminine Plural",
     "str": "Strong's 2033:  ",
-    "str2": "Seven. A primary number; seven."
+    "str2": "Seven. A primary number; seven.",
+    "num": 2033
   },
   {
     "word": "they",
@@ -101,7 +113,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "said.",
@@ -109,6 +122,7 @@
     "translit": "(legousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   }
 ]

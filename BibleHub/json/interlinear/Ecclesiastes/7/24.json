@@ -5,7 +5,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "exists",
@@ -13,7 +14,8 @@
     "translit": "(še·hā·yāh)",
     "parse": "Pronoun - relative | Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "is out of reach",
@@ -21,7 +23,8 @@
     "translit": "(rā·ḥō·wq)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 7350:  ",
-    "str2": "Remote, of place, time, precious"
+    "str2": "Remote, of place, time, precious",
+    "num": 7350
   },
   {
     "word": "and very deep.",
@@ -29,7 +32,8 @@
     "translit": "(wə·‘ā·mōq)",
     "parse": "Conjunctive waw | Adjective - masculine singular",
     "str": "Strong's 6013:  ",
-    "str2": "Deep"
+    "str2": "Deep",
+    "num": 6013
   },
   {
     "word": "Who",
@@ -37,7 +41,8 @@
     "translit": "(mî)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "can fathom it?",
@@ -45,6 +50,7 @@
     "translit": "(yim·ṣā·’en·nū)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular | third person masculine singular",
     "str": "Strong's 4672:  ",
-    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present"
+    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present",
+    "num": 4672
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "does a man",
@@ -13,7 +14,8 @@
     "translit": "(lā·’ā·ḏām)",
     "parse": "Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   },
   {
     "word": "gain",
@@ -21,7 +23,8 @@
     "translit": "(yiṯ·rō·wn)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3504:  ",
-    "str2": "Preeminence, gain"
+    "str2": "Preeminence, gain",
+    "num": 3504
   },
   {
     "word": "from all",
@@ -29,7 +32,8 @@
     "translit": "(bə·ḵāl)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "his labor,",
@@ -37,7 +41,8 @@
     "translit": "(‘ă·mā·lōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 5999:  ",
-    "str2": "Toil, wearing effort, worry, wheth, of body, mind"
+    "str2": "Toil, wearing effort, worry, wheth, of body, mind",
+    "num": 5999
   },
   {
     "word": "at which he toils",
@@ -45,7 +50,8 @@
     "translit": "(še·ya·‘ă·mōl)",
     "parse": "Pronoun - relative | Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5998:  ",
-    "str2": "To toil, work severely and with irksomeness"
+    "str2": "To toil, work severely and with irksomeness",
+    "num": 5998
   },
   {
     "word": "under",
@@ -53,7 +59,8 @@
     "translit": "(ta·ḥaṯ)",
     "parse": "Preposition",
     "str": "Strong's 8478:  ",
-    "str2": "The bottom, below, in lieu of"
+    "str2": "The bottom, below, in lieu of",
+    "num": 8478
   },
   {
     "word": "the sun?",
@@ -61,6 +68,7 @@
     "translit": "(haš·šā·meš)",
     "parse": "Article | Noun - common singular",
     "str": "Strong's 8121:  ",
-    "str2": "The sun, the east, a ray, a notched battlement"
+    "str2": "The sun, the east, a ray, a notched battlement",
+    "num": 8121
   }
 ]

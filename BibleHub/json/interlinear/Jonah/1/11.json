@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the sea",
@@ -13,7 +14,8 @@
     "translit": "(hay·yām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3220:  ",
-    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin"
+    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin",
+    "num": 3220
   },
   {
     "word": "was growing worse",
@@ -21,7 +23,8 @@
     "translit": "(hō·w·lêḵ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "and worse,",
@@ -29,7 +32,8 @@
     "translit": "(wə·sō·‘êr)",
     "parse": "Conjunctive waw | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 5590:  ",
-    "str2": "To rush upon, to toss"
+    "str2": "To rush upon, to toss",
+    "num": 5590
   },
   {
     "word": "so they said",
@@ -37,7 +41,8 @@
     "translit": "(way·yō·mə·rū)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "to [Jonah],",
@@ -45,7 +50,8 @@
     "translit": "(’ê·lāw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "“What",
@@ -53,7 +59,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "must we do",
@@ -61,7 +68,8 @@
     "translit": "(na·‘ă·śeh)",
     "parse": "Verb - Qal - Imperfect - first person common plural",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "to you",
@@ -69,7 +77,8 @@
     "translit": "(lāḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "to calm",
@@ -77,7 +86,8 @@
     "translit": "(wə·yiš·tōq)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect - third person masculine singular",
     "str": "Strong's 8367:  ",
-    "str2": "To be quiet"
+    "str2": "To be quiet",
+    "num": 8367
   },
   {
     "word": "this sea",
@@ -85,7 +95,8 @@
     "translit": "(hay·yām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3220:  ",
-    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin"
+    "str2": "A sea, the Mediterranean Sea, large river, an artifical basin",
+    "num": 3220
   },
   {
     "word": "for us?”",
@@ -93,6 +104,7 @@
     "translit": "(mê·‘ā·lê·nū)",
     "parse": "Preposition-m | first person common plural",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   }
 ]

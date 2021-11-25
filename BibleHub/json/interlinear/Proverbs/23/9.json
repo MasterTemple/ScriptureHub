@@ -5,7 +5,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "speak",
@@ -13,7 +14,8 @@
     "translit": "(tə·ḏab·bêr)",
     "parse": "Verb - Piel - Imperfect - second person masculine singular",
     "str": "Strong's 1696:  ",
-    "str2": "To arrange, to speak, to subdue"
+    "str2": "To arrange, to speak, to subdue",
+    "num": 1696
   },
   {
     "word": "to a fool,",
@@ -21,7 +23,8 @@
     "translit": "(ḵə·sîl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3684:  ",
-    "str2": "Stupid fellow, dullard, fool"
+    "str2": "Stupid fellow, dullard, fool",
+    "num": 3684
   },
   {
     "word": "for",
@@ -29,7 +32,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "he will despise",
@@ -37,7 +41,8 @@
     "translit": "(yā·ḇūz)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 936:  ",
-    "str2": "To disrespect"
+    "str2": "To disrespect",
+    "num": 936
   },
   {
     "word": "the wisdom",
@@ -45,7 +50,8 @@
     "translit": "(lə·śê·ḵel)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 7922:  ",
-    "str2": "Intelligence, success"
+    "str2": "Intelligence, success",
+    "num": 7922
   },
   {
     "word": "of your words.",
@@ -53,6 +59,7 @@
     "translit": "(mil·le·ḵā)",
     "parse": "Noun - feminine plural construct | second person masculine singular",
     "str": "Strong's 4405:  ",
-    "str2": "A word, a discourse, a topic"
+    "str2": "A word, a discourse, a topic",
+    "num": 4405
   }
 ]

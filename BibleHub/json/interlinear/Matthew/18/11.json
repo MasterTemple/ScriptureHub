@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For."
+    "str2": "For.",
+    "num": 1063
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article."
+    "str2": "The, the definite article.",
+    "num": 3588
   },
   {
     "word": "Son",
@@ -21,7 +23,8 @@
     "translit": "(huios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent."
+    "str2": "A son, descendent.",
+    "num": 5207
   },
   {
     "word": "of Man",
@@ -29,7 +32,8 @@
     "translit": "(anthrōpou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race."
+    "str2": "A man, one of the human race.",
+    "num": 444
   },
   {
     "word": "has come",
@@ -37,7 +41,8 @@
     "translit": "(Ēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go."
+    "str2": "To come, go.",
+    "num": 2064
   },
   {
     "word": "to save",
@@ -45,7 +50,8 @@
     "translit": "(sōsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 4982:  ",
-    "str2": "To save, heal, preserve, rescue."
+    "str2": "To save, heal, preserve, rescue.",
+    "num": 4982
   },
   {
     "word": "that which",
@@ -53,7 +59,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article."
+    "str2": "The, the definite article.",
+    "num": 3588
   },
   {
     "word": "has been lost.",
@@ -61,6 +68,7 @@
     "translit": "(apolōlos)",
     "parse": "Verb - Perfect Participle Active - Accusative Neuter Singular",
     "str": "Strong's 622:  ",
-    "str2": "(a) to kill, destroy, (b) to lose, to be perishing (the resultant death being viewed as certain)."
+    "str2": "(a) to kill, destroy, (b) to lose, to be perishing (the resultant death being viewed as certain).",
+    "num": 622
   }
 ]

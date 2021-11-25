@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[Jesus]",
@@ -13,7 +14,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "had entered",
@@ -21,7 +23,8 @@
     "translit": "(Eiselthontos)",
     "parse": "Verb - Aorist Participle Active - Genitive Masculine Singular",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "Capernaum,",
@@ -29,7 +32,8 @@
     "translit": "(Kapharnaoum)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2584:  ",
-    "str2": "Capernaum, a town of Galilee. Of Hebrew origin; Capernaum, a place in Palestine."
+    "str2": "Capernaum, a town of Galilee. Of Hebrew origin; Capernaum, a place in Palestine.",
+    "num": 2584
   },
   {
     "word": "a centurion",
@@ -37,7 +41,8 @@
     "translit": "(hekatontarchos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 1543:  ",
-    "str2": "A centurion of the Roman army. Or hekatontarchos hek-at-on'-tar-khos; from hekaton and archo; the captain of one hundred men."
+    "str2": "A centurion of the Roman army. Or hekatontarchos hek-at-on'-tar-khos; from hekaton and archo; the captain of one hundred men.",
+    "num": 1543
   },
   {
     "word": "came",
@@ -45,7 +50,8 @@
     "translit": "(prosēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 4334:  ",
-    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to."
+    "str2": "From pros and erchomai; to approach, i.e. come near, visit, or worship, assent to.",
+    "num": 4334
   },
   {
     "word": "[and] pleaded",
@@ -53,7 +59,8 @@
     "translit": "(parakalōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3870:  ",
-    "str2": "From para and kaleo; to call near, i.e. Invite, invoke."
+    "str2": "From para and kaleo; to call near, i.e. Invite, invoke.",
+    "num": 3870
   },
   {
     "word": "with Him,",
@@ -61,6 +68,7 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

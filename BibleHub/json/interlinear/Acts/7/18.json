@@ -5,7 +5,8 @@
     "translit": "(achri)",
     "parse": "Preposition",
     "str": "Strong's 891:  ",
-    "str2": "As far as, up to, until, during. Or achris akh'-rece; akin to akron; until or up to."
+    "str2": "As far as, up to, until, during. Or achris akh'-rece; akin to akron; until or up to.",
+    "num": 891
   },
   {
     "word": "another",
@@ -13,7 +14,8 @@
     "translit": "(heteros)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 2087:  ",
-    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different."
+    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different.",
+    "num": 2087
   },
   {
     "word": "king,",
@@ -21,7 +23,8 @@
     "translit": "(basileus)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 935:  ",
-    "str2": "A king, ruler, but in some passages clearly to be translated: emperor. Probably from basis; a sovereign."
+    "str2": "A king, ruler, but in some passages clearly to be translated: emperor. Probably from basis; a sovereign.",
+    "num": 935
   },
   {
     "word": "who",
@@ -29,7 +32,8 @@
     "translit": "(hos)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "knew",
@@ -37,7 +41,8 @@
     "translit": "(ēdei)",
     "parse": "Verb - Pluperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "nothing",
@@ -45,7 +50,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "of Joseph,",
@@ -53,7 +59,8 @@
     "translit": "(Iōsēph)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2501:  ",
-    "str2": "Joseph, a proper name. Of Hebrew origin; Joseph, the name of seven Israelites."
+    "str2": "Joseph, a proper name. Of Hebrew origin; Joseph, the name of seven Israelites.",
+    "num": 2501
   },
   {
     "word": "arose",
@@ -61,7 +68,8 @@
     "translit": "(anestē)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 450:  ",
-    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up."
+    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up.",
+    "num": 450
   },
   {
     "word": "over",
@@ -69,7 +77,8 @@
     "translit": "(ep’)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "Egypt.",
@@ -77,6 +86,7 @@
     "translit": "(Aigypton)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 125:  ",
-    "str2": "Egypt. Of uncertain derivation."
+    "str2": "Egypt. Of uncertain derivation.",
+    "num": 125
   }
 ]

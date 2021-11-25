@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(Hai)",
     "parse": "Article - Nominative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "churches",
@@ -21,7 +23,8 @@
     "translit": "(ekklēsiai)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 1577:  ",
-    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation."
+    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation.",
+    "num": 1577
   },
   {
     "word": "were strengthened",
@@ -29,7 +32,8 @@
     "translit": "(estereounto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 4732:  ",
-    "str2": "To strengthen, confirm, establish, settle. From stereos; to solidify, i.e. Confirm."
+    "str2": "To strengthen, confirm, establish, settle. From stereos; to solidify, i.e. Confirm.",
+    "num": 4732
   },
   {
     "word": "in the",
@@ -37,7 +41,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "faith",
@@ -45,7 +50,8 @@
     "translit": "(pistei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4102:  ",
-    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. "
+    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. ",
+    "num": 4102
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "grew",
@@ -61,7 +68,8 @@
     "translit": "(eperisseuon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 4052:  ",
-    "str2": "From perissos; to superabound, be in excess, be superfluous; also to cause to superabound or excel."
+    "str2": "From perissos; to superabound, be in excess, be superfluous; also to cause to superabound or excel.",
+    "num": 4052
   },
   {
     "word": "daily",
@@ -69,7 +77,8 @@
     "translit": "(hēmeran)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "in numbers.",
@@ -77,6 +86,7 @@
     "translit": "(arithmō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 706:  ",
-    "str2": "A number, total. From airo; a number."
+    "str2": "A number, total. From airo; a number.",
+    "num": 706
   }
 ]

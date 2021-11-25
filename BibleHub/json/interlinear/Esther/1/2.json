@@ -5,7 +5,8 @@
     "translit": "(hā·hêm)",
     "parse": "Article | Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "days",
@@ -13,7 +14,8 @@
     "translit": "(bay·yā·mîm)",
     "parse": "Preposition-b, Article | Noun - masculine plural",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "King",
@@ -21,7 +23,8 @@
     "translit": "(ham·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "Xerxes",
@@ -29,7 +32,8 @@
     "translit": "(’ă·ḥaš·wê·rō·wōš)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 325:  ",
-    "str2": "Ahasuerus -- king of Persia"
+    "str2": "Ahasuerus -- king of Persia",
+    "num": 325
   },
   {
     "word": "sat",
@@ -37,7 +41,8 @@
     "translit": "(kə·še·ḇeṯ)",
     "parse": "Preposition-k | Verb - Qal - Infinitive construct",
     "str": "Strong's 7675:  ",
-    "str2": "Session, an abode, locality"
+    "str2": "Session, an abode, locality",
+    "num": 7675
   },
   {
     "word": "on",
@@ -45,7 +50,8 @@
     "translit": "(‘al)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "his royal",
@@ -53,7 +59,8 @@
     "translit": "(mal·ḵū·ṯōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 4438:  ",
-    "str2": "Royalty, royal power, reign, kingdom"
+    "str2": "Royalty, royal power, reign, kingdom",
+    "num": 4438
   },
   {
     "word": "throne",
@@ -61,7 +68,8 @@
     "translit": "(kis·sê)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3678:  ",
-    "str2": "Seat of honor, throne"
+    "str2": "Seat of honor, throne",
+    "num": 3678
   },
   {
     "word": "in the citadel",
@@ -69,7 +77,8 @@
     "translit": "(hab·bî·rāh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 1002:  ",
-    "str2": "A castle, palace"
+    "str2": "A castle, palace",
+    "num": 1002
   },
   {
     "word": "of Susa.",
@@ -77,6 +86,7 @@
     "translit": "(bə·šū·šan)",
     "parse": "Preposition-b | Noun - proper - masculine singular",
     "str": "Strong's 7800:  ",
-    "str2": "Susa -- residence of person kings"
+    "str2": "Susa -- residence of person kings",
+    "num": 7800
   }
 ]

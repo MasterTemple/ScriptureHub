@@ -5,7 +5,8 @@
     "translit": "(mō·šeh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 4872:  ",
-    "str2": "Moses -- a great Israelite leader, prophet and lawgiver"
+    "str2": "Moses -- a great Israelite leader, prophet and lawgiver",
+    "num": 4872
   },
   {
     "word": "and Aaron",
@@ -13,7 +14,8 @@
     "translit": "(wə·’a·hă·rōn)",
     "parse": "Conjunctive waw | Noun - proper - masculine singular",
     "str": "Strong's 175:  ",
-    "str2": "Aaron -- an elder brother of Moses"
+    "str2": "Aaron -- an elder brother of Moses",
+    "num": 175
   },
   {
     "word": "said",
@@ -21,7 +23,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "to",
@@ -29,7 +32,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "all",
@@ -37,7 +41,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the Israelites,",
@@ -45,7 +50,8 @@
     "translit": "(bə·nê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "“This evening",
@@ -53,7 +59,8 @@
     "translit": "(‘e·reḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6153:  ",
-    "str2": "Evening"
+    "str2": "Evening",
+    "num": 6153
   },
   {
     "word": "you will know",
@@ -61,7 +68,8 @@
     "translit": "(wî·ḏa‘·tem)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - second person masculine plural",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "it was the LORD",
@@ -69,7 +77,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "who brought",
@@ -77,7 +86,8 @@
     "translit": "(hō·w·ṣî)",
     "parse": "Verb - Hifil - Perfect - third person masculine singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "you",
@@ -85,7 +95,8 @@
     "translit": "(’eṯ·ḵem)",
     "parse": "Direct object marker | second person masculine plural",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "out of the land",
@@ -93,7 +104,8 @@
     "translit": "(mê·’e·reṣ)",
     "parse": "Preposition-m | Noun - feminine singular construct",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "of Egypt,",
@@ -101,6 +113,7 @@
     "translit": "(miṣ·rā·yim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 4714:  ",
-    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa"
+    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+    "num": 4714
   }
 ]

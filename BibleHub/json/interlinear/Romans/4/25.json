@@ -5,7 +5,8 @@
     "translit": "(hos)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "was delivered over to death",
@@ -13,7 +14,8 @@
     "translit": "(paredothē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 3860:  ",
-    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit."
+    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit.",
+    "num": 3860
   },
   {
     "word": "for",
@@ -21,7 +23,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "our",
@@ -29,7 +32,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "trespasses",
@@ -37,7 +41,8 @@
     "translit": "(paraptōmata)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 3900:  ",
-    "str2": "A falling away, lapse, slip, false step, trespass, sin. From parapipto; a side-slip, i.e. error or transgression."
+    "str2": "A falling away, lapse, slip, false step, trespass, sin. From parapipto; a side-slip, i.e. error or transgression.",
+    "num": 3900
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "was raised to life",
@@ -53,7 +59,8 @@
     "translit": "(ēgerthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 1453:  ",
-    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse."
+    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse.",
+    "num": 1453
   },
   {
     "word": "for",
@@ -61,7 +68,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "our",
@@ -69,7 +77,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "justification.",
@@ -77,6 +86,7 @@
     "translit": "(dikaiōsin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1347:  ",
-    "str2": "Acquittal, justifying, justification, a process of absolution. From dikaioo; aquittal."
+    "str2": "Acquittal, justifying, justification, a process of absolution. From dikaioo; aquittal.",
+    "num": 1347
   }
 ]

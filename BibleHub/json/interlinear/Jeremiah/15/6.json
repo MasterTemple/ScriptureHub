@@ -5,7 +5,8 @@
     "translit": "(’at)",
     "parse": "Pronoun - second person feminine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "have forsaken",
@@ -13,7 +14,8 @@
     "translit": "(nā·ṭašt)",
     "parse": "Verb - Qal - Perfect - second person feminine singular",
     "str": "Strong's 5203:  ",
-    "str2": "To pound, smite, to disperse, to thrust off, down, out, upon"
+    "str2": "To pound, smite, to disperse, to thrust off, down, out, upon",
+    "num": 5203
   },
   {
     "word": "Me,",
@@ -21,7 +23,8 @@
     "translit": "(’ō·ṯî)",
     "parse": "Direct object marker | first person common singular",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "declares",
@@ -29,7 +32,8 @@
     "translit": "(nə·’um-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 5002:  ",
-    "str2": "An oracle"
+    "str2": "An oracle",
+    "num": 5002
   },
   {
     "word": "the LORD.",
@@ -37,7 +41,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "You have turned your back,",
@@ -45,7 +50,8 @@
     "translit": "(’ā·ḥō·wr)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 268:  ",
-    "str2": "The hinder part, behind, backward, the West"
+    "str2": "The hinder part, behind, backward, the West",
+    "num": 268
   },
   {
     "word": "so I have stretched out",
@@ -53,7 +59,8 @@
     "translit": "(wā·’aṭ)",
     "parse": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - first person common singular",
     "str": "Strong's 5186:  ",
-    "str2": "To stretch out, spread out, extend, incline, bend"
+    "str2": "To stretch out, spread out, extend, incline, bend",
+    "num": 5186
   },
   {
     "word": "My hand",
@@ -61,7 +68,8 @@
     "translit": "(yā·ḏî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "against you",
@@ -69,7 +77,8 @@
     "translit": "(‘ā·la·yiḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "to destroy you;",
@@ -77,7 +86,8 @@
     "translit": "(wā·’aš·ḥî·ṯêḵ)",
     "parse": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - first person common singular | second person feminine singular",
     "str": "Strong's 7843:  ",
-    "str2": "Perhaps to go to ruin"
+    "str2": "Perhaps to go to ruin",
+    "num": 7843
   },
   {
     "word": "I am weary",
@@ -85,7 +95,8 @@
     "translit": "(nil·’ê·ṯî)",
     "parse": "Verb - Nifal - Perfect - first person common singular",
     "str": "Strong's 3811:  ",
-    "str2": "To tire, to be, disgusted"
+    "str2": "To tire, to be, disgusted",
+    "num": 3811
   },
   {
     "word": "of showing compassion.",
@@ -93,6 +104,7 @@
     "translit": "(hin·nā·ḥêm)",
     "parse": "Verb - Nifal - Infinitive construct",
     "str": "Strong's 5162:  ",
-    "str2": "To sigh, breathe strongly, to be sorry, to pity, console, rue, to avenge"
+    "str2": "To sigh, breathe strongly, to be sorry, to pity, console, rue, to avenge",
+    "num": 5162
   }
 ]

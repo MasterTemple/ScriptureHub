@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "through [wisdom]",
@@ -13,7 +14,8 @@
     "translit": "(ḇî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "your days",
@@ -21,7 +23,8 @@
     "translit": "(yā·me·ḵā)",
     "parse": "Noun - masculine plural construct | second person masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "will be multiplied,",
@@ -29,7 +32,8 @@
     "translit": "(yir·bū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 7235:  ",
-    "str2": "To be or become much, many or great"
+    "str2": "To be or become much, many or great",
+    "num": 7235
   },
   {
     "word": "and years",
@@ -37,7 +41,8 @@
     "translit": "(šə·nō·wṯ)",
     "parse": "Noun - feminine plural construct",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "will be added",
@@ -45,7 +50,8 @@
     "translit": "(wə·yō·w·sî·p̄ū)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive imperfect - third person masculine plural",
     "str": "Strong's 3254:  ",
-    "str2": "To add, augment"
+    "str2": "To add, augment",
+    "num": 3254
   },
   {
     "word": "to your life.",
@@ -53,6 +59,7 @@
     "translit": "(ḥay·yîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 2416:  ",
-    "str2": "Alive, raw, fresh, strong, life"
+    "str2": "Alive, raw, fresh, strong, life",
+    "num": 2416
   }
 ]

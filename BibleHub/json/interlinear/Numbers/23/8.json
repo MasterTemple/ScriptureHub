@@ -5,7 +5,8 @@
     "translit": "(māh)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "can I curse [what]",
@@ -13,7 +14,8 @@
     "translit": "(qab·bōh)",
     "parse": "Verb - Qal - Perfect - third person masculine singular | third person masculine singular",
     "str": "Strong's 6895:  ",
-    "str2": "To scoop out, to malign, execrate"
+    "str2": "To scoop out, to malign, execrate",
+    "num": 6895
   },
   {
     "word": "God",
@@ -21,7 +23,8 @@
     "translit": "(’êl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 410:  ",
-    "str2": "Strength -- as adjective, mighty, the Almighty"
+    "str2": "Strength -- as adjective, mighty, the Almighty",
+    "num": 410
   },
   {
     "word": "has not",
@@ -29,7 +32,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "cursed?",
@@ -37,7 +41,8 @@
     "translit": "(’eq·qōḇ)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 5344:  ",
-    "str2": "To puncture"
+    "str2": "To puncture",
+    "num": 5344
   },
   {
     "word": "How",
@@ -45,7 +50,8 @@
     "translit": "(ū·māh)",
     "parse": "Conjunctive waw | Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "can I denounce [what]",
@@ -53,7 +59,8 @@
     "translit": "(’ez·‘ōm)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 2194:  ",
-    "str2": "To foam at the mouth, to be enraged"
+    "str2": "To foam at the mouth, to be enraged",
+    "num": 2194
   },
   {
     "word": "the LORD",
@@ -61,7 +68,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "has not",
@@ -69,7 +77,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "denounced?",
@@ -77,6 +86,7 @@
     "translit": "(zā·‘am)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 2194:  ",
-    "str2": "To foam at the mouth, to be enraged"
+    "str2": "To foam at the mouth, to be enraged",
+    "num": 2194
   }
 ]

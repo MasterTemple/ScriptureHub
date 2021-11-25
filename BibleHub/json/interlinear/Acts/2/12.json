@@ -5,7 +5,8 @@
     "translit": "(Existanto)",
     "parse": "Verb - Imperfect Indicative Middle - 3rd Person Plural",
     "str": "Strong's 1839:  ",
-    "str2": "From ek and histemi; to put out of wits, i.e. Astound, or become astounded, insane."
+    "str2": "From ek and histemi; to put out of wits, i.e. Astound, or become astounded, insane.",
+    "num": 1839
   },
   {
     "word": "and",
@@ -13,7 +14,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "perplexed,",
@@ -21,7 +23,8 @@
     "translit": "(diēporoun)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 1280:  ",
-    "str2": "To be in trouble, doubt, difficulty; To be at a loss. From dia and aporeo; to be thoroughly nonplussed."
+    "str2": "To be in trouble, doubt, difficulty; To be at a loss. From dia and aporeo; to be thoroughly nonplussed.",
+    "num": 1280
   },
   {
     "word": "they asked",
@@ -29,7 +32,8 @@
     "translit": "(legontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "one another,",
@@ -37,7 +41,8 @@
     "translit": "(allos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 243:  ",
-    "str2": "Other, another (of more than two), different. A primary word; 'else, ' i.e. Different."
+    "str2": "Other, another (of more than two), different. A primary word; 'else, ' i.e. Different.",
+    "num": 243
   },
   {
     "word": "“What",
@@ -45,7 +50,8 @@
     "translit": "(Ti)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Neuter Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "does",
@@ -53,7 +59,8 @@
     "translit": "(thelei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "this",
@@ -61,7 +68,8 @@
     "translit": "(touto)",
     "parse": "Demonstrative Pronoun - Nominative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "mean?”",
@@ -69,6 +77,7 @@
     "translit": "(einai)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "He did not spare",
@@ -13,7 +14,8 @@
     "translit": "(epheisato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 5339:  ",
-    "str2": "To spare, abstain, forbear. Of uncertain affinity; to be chary of, i.e. to abstain or to treat leniently."
+    "str2": "To spare, abstain, forbear. Of uncertain affinity; to be chary of, i.e. to abstain or to treat leniently.",
+    "num": 5339
   },
   {
     "word": "[the] ancient",
@@ -21,7 +23,8 @@
     "translit": "(archaiou)",
     "parse": "Adjective - Genitive Masculine Singular",
     "str": "Strong's 744:  ",
-    "str2": "Original, primitive, ancient. From arche; original or primeval."
+    "str2": "Original, primitive, ancient. From arche; original or primeval.",
+    "num": 744
   },
   {
     "word": "world",
@@ -29,7 +32,8 @@
     "translit": "(kosmou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2889:  ",
-    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally)."
+    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally).",
+    "num": 2889
   },
   {
     "word": "when He brought",
@@ -37,7 +41,8 @@
     "translit": "(epaxas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1863:  ",
-    "str2": "To bring upon; meet: I cause to be imputed to. From epi and ago; to superinduce, i.e. Inflict, charge."
+    "str2": "To bring upon; meet: I cause to be imputed to. From epi and ago; to superinduce, i.e. Inflict, charge.",
+    "num": 1863
   },
   {
     "word": "[the] flood",
@@ -45,7 +50,8 @@
     "translit": "(kataklysmon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2627:  ",
-    "str2": "A deluge, flood. From katakluzo; an inundation."
+    "str2": "A deluge, flood. From katakluzo; an inundation.",
+    "num": 2627
   },
   {
     "word": "[on its]",
@@ -53,7 +59,8 @@
     "translit": "(kosmō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2889:  ",
-    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally)."
+    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally).",
+    "num": 2889
   },
   {
     "word": "ungodly [people],",
@@ -61,7 +68,8 @@
     "translit": "(asebōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 765:  ",
-    "str2": "Impious, ungodly, wicked. Irreverent, i.e. impious or wicked."
+    "str2": "Impious, ungodly, wicked. Irreverent, i.e. impious or wicked.",
+    "num": 765
   },
   {
     "word": "but",
@@ -69,7 +77,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "preserved",
@@ -77,7 +86,8 @@
     "translit": "(ephylaxen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 5442:  ",
-    "str2": "Probably from phule through the idea of isolation; to watch, i.e. Be on guard; by implication, to preserve, obey, avoid."
+    "str2": "Probably from phule through the idea of isolation; to watch, i.e. Be on guard; by implication, to preserve, obey, avoid.",
+    "num": 5442
   },
   {
     "word": "Noah,",
@@ -85,7 +95,8 @@
     "translit": "(Nōe)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3575:  ",
-    "str2": "(Hebrew) Noah. Of Hebrew origin; Noe, a patriarch."
+    "str2": "(Hebrew) Noah. Of Hebrew origin; Noe, a patriarch.",
+    "num": 3575
   },
   {
     "word": "a preacher",
@@ -93,7 +104,8 @@
     "translit": "(kēryka)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2783:  ",
-    "str2": "A herald, preacher, proclaimer. From kerusso; a herald, i.e. Of divine truth."
+    "str2": "A herald, preacher, proclaimer. From kerusso; a herald, i.e. Of divine truth.",
+    "num": 2783
   },
   {
     "word": "of righteousness,",
@@ -101,7 +113,8 @@
     "translit": "(dikaiosynēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1343:  ",
-    "str2": "From dikaios; equity; specially justification."
+    "str2": "From dikaios; equity; specially justification.",
+    "num": 1343
   },
   {
     "word": "among the eight;",
@@ -109,6 +122,7 @@
     "translit": "(ogdoon)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 3590:  ",
-    "str2": "The eighth, one of eight, with seven others. From oktos; the eighth."
+    "str2": "The eighth, one of eight, with seven others. From oktos; the eighth.",
+    "num": 3590
   }
 ]

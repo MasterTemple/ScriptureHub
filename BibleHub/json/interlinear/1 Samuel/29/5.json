@@ -5,7 +5,8 @@
     "translit": "(zeh)",
     "parse": "Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "not",
@@ -13,7 +14,8 @@
     "translit": "(hă·lō·w-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "the David",
@@ -21,7 +23,8 @@
     "translit": "(ḏā·wiḏ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 1732:  ",
-    "str2": "David -- perhaps 'beloved one', a son of Jesse"
+    "str2": "David -- perhaps 'beloved one', a son of Jesse",
+    "num": 1732
   },
   {
     "word": "about whom",
@@ -29,7 +32,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "they sing",
@@ -37,7 +41,8 @@
     "translit": "(ya·‘ă·nū-)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 6030:  ",
-    "str2": "To answer, respond"
+    "str2": "To answer, respond",
+    "num": 6030
   },
   {
     "word": "in their dances:",
@@ -45,7 +50,8 @@
     "translit": "(bam·mə·ḥō·lō·wṯ)",
     "parse": "Preposition-b, Article | Noun - feminine plural",
     "str": "Strong's 4246:  ",
-    "str2": "A dance"
+    "str2": "A dance",
+    "num": 4246
   },
   {
     "word": "‘Saul",
@@ -53,7 +59,8 @@
     "translit": "(šā·’ūl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 7586:  ",
-    "str2": "Saul -- first king of Israel, also an Edomite and two Israelites"
+    "str2": "Saul -- first king of Israel, also an Edomite and two Israelites",
+    "num": 7586
   },
   {
     "word": "has slain",
@@ -61,7 +68,8 @@
     "translit": "(hik·kāh)",
     "parse": "Verb - Hifil - Perfect - third person masculine singular",
     "str": "Strong's 5221:  ",
-    "str2": "To strike"
+    "str2": "To strike",
+    "num": 5221
   },
   {
     "word": "[his] thousands,",
@@ -69,7 +77,8 @@
     "translit": "(ba·’ă·lā·p̄āw)",
     "parse": "Preposition-b | Number - masculine plural construct | third person masculine singular",
     "str": "Strong's 505:  ",
-    "str2": "A thousand"
+    "str2": "A thousand",
+    "num": 505
   },
   {
     "word": "and David",
@@ -77,7 +86,8 @@
     "translit": "(wə·ḏā·wiḏ)",
     "parse": "Conjunctive waw | Noun - proper - masculine singular",
     "str": "Strong's 1732:  ",
-    "str2": "David -- perhaps 'beloved one', a son of Jesse"
+    "str2": "David -- perhaps 'beloved one', a son of Jesse",
+    "num": 1732
   },
   {
     "word": "his tens of thousands’?”",
@@ -85,6 +95,7 @@
     "translit": "(bə·riḇ·ḇō·ṯāw)",
     "parse": "Preposition-b | Number - feminine plural construct | third person masculine singular",
     "str": "Strong's 7233:  ",
-    "str2": "Multitude, myriad, ten thousand"
+    "str2": "Multitude, myriad, ten thousand",
+    "num": 7233
   }
 ]

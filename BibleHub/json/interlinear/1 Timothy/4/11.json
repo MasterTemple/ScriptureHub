@@ -5,7 +5,8 @@
     "translit": "(Parangelle)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 3853:  ",
-    "str2": "To notify, command, charge, entreat solemnly. From para and the base of aggelos; to transmit a message, i.e. to enjoin."
+    "str2": "To notify, command, charge, entreat solemnly. From para and the base of aggelos; to transmit a message, i.e. to enjoin.",
+    "num": 3853
   },
   {
     "word": "and",
@@ -13,7 +14,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "teach",
@@ -21,7 +23,8 @@
     "translit": "(didaske)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 1321:  ",
-    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach."
+    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach.",
+    "num": 1321
   },
   {
     "word": "these things.",
@@ -29,6 +32,7 @@
     "translit": "(tauta)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   }
 ]

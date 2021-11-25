@@ -5,7 +5,8 @@
     "translit": "(wa·’ă·šer)",
     "parse": "Conjunctive waw | Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "He did",
@@ -13,7 +14,8 @@
     "translit": "(‘ā·śāh)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "for you",
@@ -21,7 +23,8 @@
     "translit": "(lā·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "in the wilderness",
@@ -29,7 +32,8 @@
     "translit": "(bam·miḏ·bār)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 4057:  ",
-    "str2": "A pasture, a desert, speech"
+    "str2": "A pasture, a desert, speech",
+    "num": 4057
   },
   {
     "word": "until",
@@ -37,7 +41,8 @@
     "translit": "(‘aḏ-)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "you reached",
@@ -45,7 +50,8 @@
     "translit": "(bō·’ă·ḵem)",
     "parse": "Verb - Qal - Infinitive construct | second person masculine plural",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "this",
@@ -53,7 +59,8 @@
     "translit": "(haz·zeh)",
     "parse": "Article | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "place;",
@@ -61,6 +68,7 @@
     "translit": "(ham·mā·qō·wm)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4725:  ",
-    "str2": "A standing, a spot, a condition"
+    "str2": "A standing, a spot, a condition",
+    "num": 4725
   }
 ]

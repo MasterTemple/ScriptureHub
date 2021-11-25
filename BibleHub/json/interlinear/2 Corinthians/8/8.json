@@ -5,7 +5,8 @@
     "translit": "(legō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "a demand,",
@@ -13,7 +14,8 @@
     "translit": "(epitagēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2003:  ",
-    "str2": "Instruction, command, order, authority. From epitasso; an injunction or decree; by implication, authoritativeness."
+    "str2": "Instruction, command, order, authority. From epitasso; an injunction or decree; by implication, authoritativeness.",
+    "num": 2003
   },
   {
     "word": "but",
@@ -21,7 +23,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "I am testing",
@@ -29,7 +32,8 @@
     "translit": "(dokimazōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1381:  ",
-    "str2": "From dokimos; to test; by implication, to approve."
+    "str2": "From dokimos; to test; by implication, to approve.",
+    "num": 1381
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "sincerity",
@@ -45,7 +50,8 @@
     "translit": "(gnēsion)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 1103:  ",
-    "str2": "From the same as genesia; legitimate, i.e. Genuine."
+    "str2": "From the same as genesia; legitimate, i.e. Genuine.",
+    "num": 1103
   },
   {
     "word": "of your",
@@ -53,7 +59,8 @@
     "translit": "(hymeteras)",
     "parse": "Personal / Possessive Pronoun - Genitive Feminine 2nd Person Plural",
     "str": "Strong's 5212:  ",
-    "str2": "Your, yours. From humeis; yours, i.e. Pertaining to you."
+    "str2": "Your, yours. From humeis; yours, i.e. Pertaining to you.",
+    "num": 5212
   },
   {
     "word": "love",
@@ -61,7 +68,8 @@
     "translit": "(agapēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 26:  ",
-    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast."
+    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast.",
+    "num": 26
   },
   {
     "word": "in comparison to",
@@ -69,7 +77,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "earnestness",
@@ -85,7 +95,8 @@
     "translit": "(spoudēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4710:  ",
-    "str2": "(a) speed, haste, (b) diligence, earnestness, enthusiasm. From speudo; 'speed', i.e. despatch, eagerness, earnestness."
+    "str2": "(a) speed, haste, (b) diligence, earnestness, enthusiasm. From speudo; 'speed', i.e. despatch, eagerness, earnestness.",
+    "num": 4710
   },
   {
     "word": "of others.",
@@ -93,6 +104,7 @@
     "translit": "(heterōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 2087:  ",
-    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different."
+    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different.",
+    "num": 2087
   }
 ]

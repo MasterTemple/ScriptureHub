@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the Lord",
@@ -13,7 +14,8 @@
     "translit": "(la·ḏō·nāy)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "of Hosts",
@@ -29,7 +32,8 @@
     "translit": "(ṣə·ḇā·’ō·wṯ)",
     "parse": "Noun - common plural",
     "str": "Strong's 6635:  ",
-    "str2": "A mass of persons, reg, organized for, war, a campaign"
+    "str2": "A mass of persons, reg, organized for, war, a campaign",
+    "num": 6635
   },
   {
     "word": "has [set] a day",
@@ -37,7 +41,8 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "of tumult",
@@ -45,7 +50,8 @@
     "translit": "(mə·hū·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 4103:  ",
-    "str2": "Tumult, confusion, disquietude, discomfiture"
+    "str2": "Tumult, confusion, disquietude, discomfiture",
+    "num": 4103
   },
   {
     "word": "and trampling",
@@ -53,7 +59,8 @@
     "translit": "(ū·mə·ḇū·sāh)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 4001:  ",
-    "str2": "A treading down, subjugation"
+    "str2": "A treading down, subjugation",
+    "num": 4001
   },
   {
     "word": "and confusion",
@@ -61,7 +68,8 @@
     "translit": "(ū·mə·ḇū·ḵāh)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 3998:  ",
-    "str2": "Confusion, confounding"
+    "str2": "Confusion, confounding",
+    "num": 3998
   },
   {
     "word": "in the Valley",
@@ -69,7 +77,8 @@
     "translit": "(bə·ḡê)",
     "parse": "Preposition-b | Noun - common singular construct",
     "str": "Strong's 1516:  ",
-    "str2": "A valley"
+    "str2": "A valley",
+    "num": 1516
   },
   {
     "word": "of Vision—",
@@ -77,7 +86,8 @@
     "translit": "(ḥiz·zā·yō·wn)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2384:  ",
-    "str2": "A revelation, dream"
+    "str2": "A revelation, dream",
+    "num": 2384
   },
   {
     "word": "of breaking",
@@ -85,7 +95,8 @@
     "translit": "(mə·qar·qar)",
     "parse": "Verb - Piel - Participle - masculine singular construct",
     "str": "Strong's 6979:  ",
-    "str2": "To trench, to throw forth,   to wall up"
+    "str2": "To trench, to throw forth,   to wall up",
+    "num": 6979
   },
   {
     "word": "down the walls",
@@ -93,7 +104,8 @@
     "translit": "(qir)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7023:  ",
-    "str2": "A wall"
+    "str2": "A wall",
+    "num": 7023
   },
   {
     "word": "and crying",
@@ -101,7 +113,8 @@
     "translit": "(wə·šō·w·a‘)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 7771:  ",
-    "str2": "A noble, liberal, opulent, a halloo"
+    "str2": "A noble, liberal, opulent, a halloo",
+    "num": 7771
   },
   {
     "word": "to",
@@ -109,7 +122,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the mountains.",
@@ -117,6 +131,7 @@
     "translit": "(hā·hār)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 2022:  ",
-    "str2": "Mountain, hill, hill country"
+    "str2": "Mountain, hill, hill country",
+    "num": 2022
   }
 ]

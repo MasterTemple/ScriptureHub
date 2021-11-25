@@ -5,7 +5,8 @@
     "translit": "(ka·’ă·šer)",
     "parse": "Preposition-k | Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "the wall",
@@ -13,7 +14,8 @@
     "translit": "(ha·ḥō·w·māh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 2346:  ",
-    "str2": "A wall of protection"
+    "str2": "A wall of protection",
+    "num": 2346
   },
   {
     "word": "had been rebuilt",
@@ -21,7 +23,8 @@
     "translit": "(niḇ·nə·ṯāh)",
     "parse": "Verb - Nifal - Perfect - third person feminine singular",
     "str": "Strong's 1129:  ",
-    "str2": "To build"
+    "str2": "To build",
+    "num": 1129
   },
   {
     "word": "and I had set the doors",
@@ -29,7 +32,8 @@
     "translit": "(had·də·lā·ṯō·wṯ)",
     "parse": "Article | Noun - feminine plural",
     "str": "Strong's 1817:  ",
-    "str2": "Something swinging, the valve of a, door"
+    "str2": "Something swinging, the valve of a, door",
+    "num": 1817
   },
   {
     "word": "in place,",
@@ -37,7 +41,8 @@
     "translit": "(wā·’a·‘ă·mîḏ)",
     "parse": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - first person common singular",
     "str": "Strong's 5975:  ",
-    "str2": "To stand, in various relations"
+    "str2": "To stand, in various relations",
+    "num": 5975
   },
   {
     "word": "the gatekeepers,",
@@ -45,7 +50,8 @@
     "translit": "(haš·šō·w·‘ă·rîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 7778:  ",
-    "str2": "A gatekeeper"
+    "str2": "A gatekeeper",
+    "num": 7778
   },
   {
     "word": "singers,",
@@ -53,7 +59,8 @@
     "translit": "(wə·ham·šō·rə·rîm)",
     "parse": "Conjunctive waw, Article | Verb - Piel - Participle - masculine plural",
     "str": "Strong's 7891:  ",
-    "str2": "To sing"
+    "str2": "To sing",
+    "num": 7891
   },
   {
     "word": "and Levites",
@@ -61,7 +68,8 @@
     "translit": "(wə·hal·wî·yim)",
     "parse": "Conjunctive waw, Article | Noun - proper - masculine plural",
     "str": "Strong's 3881:  ",
-    "str2": "Levites -- descendant of Levi"
+    "str2": "Levites -- descendant of Levi",
+    "num": 3881
   },
   {
     "word": "were appointed.",
@@ -69,6 +77,7 @@
     "translit": "(way·yip·pā·qə·ḏū)",
     "parse": "Conjunctive waw | Verb - Nifal - Consecutive imperfect - third person masculine plural",
     "str": "Strong's 6485:  ",
-    "str2": "To visit, to oversee, muster, charge, care for, miss, deposit"
+    "str2": "To visit, to oversee, muster, charge, care for, miss, deposit",
+    "num": 6485
   }
 ]

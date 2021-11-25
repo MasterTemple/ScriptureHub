@@ -5,7 +5,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "beautiful",
@@ -13,7 +14,8 @@
     "translit": "(ṭō·ḇū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 2895:  ",
-    "str2": "To be pleasing or good"
+    "str2": "To be pleasing or good",
+    "num": 2895
   },
   {
     "word": "are your tents,",
@@ -21,7 +23,8 @@
     "translit": "(’ō·hā·le·ḵā)",
     "parse": "Noun - masculine plural construct | second person masculine singular",
     "str": "Strong's 168:  ",
-    "str2": "A tent"
+    "str2": "A tent",
+    "num": 168
   },
   {
     "word": "O Jacob,",
@@ -29,7 +32,8 @@
     "translit": "(ya·‘ă·qōḇ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3290:  ",
-    "str2": "Jacob -- a son of Isaac, also his desc"
+    "str2": "Jacob -- a son of Isaac, also his desc",
+    "num": 3290
   },
   {
     "word": "your dwellings,",
@@ -37,7 +41,8 @@
     "translit": "(miš·kə·nō·ṯe·ḵā)",
     "parse": "Noun - masculine plural construct | second person masculine singular",
     "str": "Strong's 4908:  ",
-    "str2": "A residence, the Tabernacle"
+    "str2": "A residence, the Tabernacle",
+    "num": 4908
   },
   {
     "word": "O Israel!",
@@ -45,6 +50,7 @@
     "translit": "(yiś·rā·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3478:  ",
-    "str2": "Israel -- 'God strives', another name of Jacob and his desc"
+    "str2": "Israel -- 'God strives', another name of Jacob and his desc",
+    "num": 3478
   }
 ]

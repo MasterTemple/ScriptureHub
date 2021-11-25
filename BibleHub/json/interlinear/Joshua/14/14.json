@@ -5,7 +5,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "Hebron",
@@ -13,7 +14,8 @@
     "translit": "(ḥeḇ·rō·wn)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 2275:  ",
-    "str2": "Hebron -- 'association, league', a city in southern Judah"
+    "str2": "Hebron -- 'association, league', a city in southern Judah",
+    "num": 2275
   },
   {
     "word": "belongs to",
@@ -21,7 +23,8 @@
     "translit": "(hā·yə·ṯāh-)",
     "parse": "Verb - Qal - Perfect - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "Caleb",
@@ -29,7 +32,8 @@
     "translit": "(lə·ḵā·lêḇ)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3612:  ",
-    "str2": "Caleb -- a son of Jephunneh and sent by Moses to spy out the land"
+    "str2": "Caleb -- a son of Jephunneh and sent by Moses to spy out the land",
+    "num": 3612
   },
   {
     "word": "son",
@@ -37,7 +41,8 @@
     "translit": "(ben-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of Jephunneh",
@@ -45,7 +50,8 @@
     "translit": "(yə·p̄un·neh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3312:  ",
-    "str2": "Jephunneh -- father of Caleb, also an Asherite"
+    "str2": "Jephunneh -- father of Caleb, also an Asherite",
+    "num": 3312
   },
   {
     "word": "the Kenizzite",
@@ -53,7 +59,8 @@
     "translit": "(haq·qə·niz·zî)",
     "parse": "Article | Noun - proper - masculine singular",
     "str": "Strong's 7074:  ",
-    "str2": "Kenizzite -- descendant of Kenaz"
+    "str2": "Kenizzite -- descendant of Kenaz",
+    "num": 7074
   },
   {
     "word": "as an inheritance",
@@ -61,7 +68,8 @@
     "translit": "(lə·na·ḥă·lāh)",
     "parse": "Preposition-l | Noun - feminine singular",
     "str": "Strong's 5159:  ",
-    "str2": "Something inherited, occupancy, an heirloom, an estate, patrimony, portion"
+    "str2": "Something inherited, occupancy, an heirloom, an estate, patrimony, portion",
+    "num": 5159
   },
   {
     "word": "to",
@@ -69,7 +77,8 @@
     "translit": "(‘aḏ)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "this",
@@ -77,7 +86,8 @@
     "translit": "(haz·zeh)",
     "parse": "Article | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "day,",
@@ -85,7 +95,8 @@
     "translit": "(hay·yō·wm)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "because",
@@ -93,7 +104,8 @@
     "translit": "(ya·‘an)",
     "parse": "Adverb",
     "str": "Strong's 3282:  ",
-    "str2": "Heed, purpose, to indicate the reason, cause"
+    "str2": "Heed, purpose, to indicate the reason, cause",
+    "num": 3282
   },
   {
     "word": "he wholly",
@@ -101,7 +113,8 @@
     "translit": "(mil·lê)",
     "parse": "Verb - Piel - Perfect - third person masculine singular",
     "str": "Strong's 4390:  ",
-    "str2": "To fill, be full of"
+    "str2": "To fill, be full of",
+    "num": 4390
   },
   {
     "word": "followed",
@@ -109,7 +122,8 @@
     "translit": "(’a·ḥă·rê)",
     "parse": "Preposition",
     "str": "Strong's 310:  ",
-    "str2": "The hind or following part"
+    "str2": "The hind or following part",
+    "num": 310
   },
   {
     "word": "the LORD,",
@@ -117,7 +131,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "the God",
@@ -125,7 +140,8 @@
     "translit": "(’ĕ·lō·hê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "of Israel.",
@@ -133,6 +149,7 @@
     "translit": "(yiś·rā·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3478:  ",
-    "str2": "Israel -- 'God strives', another name of Jacob and his desc"
+    "str2": "Israel -- 'God strives', another name of Jacob and his desc",
+    "num": 3478
   }
 ]

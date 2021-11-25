@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[the people] read [it],",
@@ -13,7 +14,8 @@
     "translit": "(anagnontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 314:  ",
-    "str2": "To read, know again, know certainly, recognize, discern. From ana and ginosko; to know again, i.e. to read."
+    "str2": "To read, know again, know certainly, recognize, discern. From ana and ginosko; to know again, i.e. to read.",
+    "num": 314
   },
   {
     "word": "they rejoiced",
@@ -21,7 +23,8 @@
     "translit": "(echarēsan)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Plural",
     "str": "Strong's 5463:  ",
-    "str2": "A primary verb; to be 'cheer'ful, i.e. Calmly happy or well-off; impersonally, especially as salutation, be well."
+    "str2": "A primary verb; to be 'cheer'ful, i.e. Calmly happy or well-off; impersonally, especially as salutation, be well.",
+    "num": 5463
   },
   {
     "word": "at",
@@ -29,7 +32,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "[its]",
@@ -37,7 +41,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "encouraging message.",
@@ -45,6 +50,7 @@
     "translit": "(paraklēsei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3874:  ",
-    "str2": "From parakaleo; imploration, hortation, solace."
+    "str2": "From parakaleo; imploration, hortation, solace.",
+    "num": 3874
   }
 ]

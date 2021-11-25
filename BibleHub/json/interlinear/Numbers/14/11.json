@@ -5,7 +5,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "said",
@@ -13,7 +14,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "Moses,",
@@ -29,7 +32,8 @@
     "translit": "(mō·šeh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 4872:  ",
-    "str2": "Moses -- a great Israelite leader, prophet and lawgiver"
+    "str2": "Moses -- a great Israelite leader, prophet and lawgiver",
+    "num": 4872
   },
   {
     "word": "“How long",
@@ -37,7 +41,8 @@
     "translit": "(‘aḏ-)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "will this",
@@ -45,7 +50,8 @@
     "translit": "(haz·zeh)",
     "parse": "Article | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "people",
@@ -53,7 +59,8 @@
     "translit": "(hā·‘ām)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "treat Me with contempt?",
@@ -61,7 +68,8 @@
     "translit": "(yə·na·’ă·ṣu·nî)",
     "parse": "Verb - Piel - Imperfect - third person masculine plural | first person common singular",
     "str": "Strong's 5006:  ",
-    "str2": "To spurn, treat with contempt"
+    "str2": "To spurn, treat with contempt",
+    "num": 5006
   },
   {
     "word": "How long",
@@ -69,7 +77,8 @@
     "translit": "(wə·‘aḏ-)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "will they refuse",
@@ -77,7 +86,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "to believe",
@@ -85,7 +95,8 @@
     "translit": "(ya·’ă·mî·nū)",
     "parse": "Verb - Hifil - Imperfect - third person masculine plural",
     "str": "Strong's 539:  ",
-    "str2": "To confirm, support"
+    "str2": "To confirm, support",
+    "num": 539
   },
   {
     "word": "in Me,",
@@ -93,7 +104,8 @@
     "translit": "(ḇî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "despite all",
@@ -101,7 +113,8 @@
     "translit": "(bə·ḵōl)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the signs",
@@ -109,7 +122,8 @@
     "translit": "(hā·’ō·ṯō·wṯ)",
     "parse": "Article | Noun - common plural",
     "str": "Strong's 226:  ",
-    "str2": "A signal, as a, flag, beacon, monument, omen, prodigy, evidence"
+    "str2": "A signal, as a, flag, beacon, monument, omen, prodigy, evidence",
+    "num": 226
   },
   {
     "word": "I have performed",
@@ -117,7 +131,8 @@
     "translit": "(‘ā·śî·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "among them?",
@@ -125,6 +140,7 @@
     "translit": "(bə·qir·bōw)",
     "parse": "Preposition-b | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 7130:  ",
-    "str2": "The nearest part, the center"
+    "str2": "The nearest part, the center",
+    "num": 7130
   }
 ]

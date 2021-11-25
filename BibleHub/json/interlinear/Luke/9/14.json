@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "There were",
@@ -13,7 +14,8 @@
     "translit": "(ēsan)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "about",
@@ -21,7 +23,8 @@
     "translit": "(hōsei)",
     "parse": "Adverb",
     "str": "Strong's 5616:  ",
-    "str2": "As if, as it were, like; with numbers: about. From hos and ei; as if."
+    "str2": "As if, as it were, like; with numbers: about. From hos and ei; as if.",
+    "num": 5616
   },
   {
     "word": "five thousand",
@@ -29,7 +32,8 @@
     "translit": "(pentakischilioi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 4000:  ",
-    "str2": "Five thousand. From pentakis and chilioi; five times a thousand."
+    "str2": "Five thousand. From pentakis and chilioi; five times a thousand.",
+    "num": 4000
   },
   {
     "word": "men.)",
@@ -37,7 +41,8 @@
     "translit": "(andres)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "He told",
@@ -45,7 +50,8 @@
     "translit": "(Eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "His",
@@ -53,7 +59,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "disciples,",
@@ -61,7 +68,8 @@
     "translit": "(mathētas)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   },
   {
     "word": "“Have them sit down",
@@ -69,7 +77,8 @@
     "translit": "(Kataklinate)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 2625:  ",
-    "str2": "From kata and klino; to recline down, i.e. to take a place at table."
+    "str2": "From kata and klino; to recline down, i.e. to take a place at table.",
+    "num": 2625
   },
   {
     "word": "in",
@@ -77,7 +86,8 @@
     "translit": "(ana)",
     "parse": "Adverb",
     "str": "Strong's 303:  ",
-    "str2": "A primary preposition and adverb; properly, up; but used severally, or at."
+    "str2": "A primary preposition and adverb; properly, up; but used severally, or at.",
+    "num": 303
   },
   {
     "word": "groups",
@@ -85,7 +95,8 @@
     "translit": "(klisias)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 2828:  ",
-    "str2": "From a derivative of klino; properly, reclination, i.e., a party at a meal."
+    "str2": "From a derivative of klino; properly, reclination, i.e., a party at a meal.",
+    "num": 2828
   },
   {
     "word": "of about",
@@ -93,7 +104,8 @@
     "translit": "(hōsei)",
     "parse": "Adverb",
     "str": "Strong's 5616:  ",
-    "str2": "As if, as it were, like; with numbers: about. From hos and ei; as if."
+    "str2": "As if, as it were, like; with numbers: about. From hos and ei; as if.",
+    "num": 5616
   },
   {
     "word": "fifty {each}.”",
@@ -101,6 +113,7 @@
     "translit": "(pentēkonta)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 4004:  ",
-    "str2": "Fifty. Multiplicative of pente; fifty."
+    "str2": "Fifty. Multiplicative of pente; fifty.",
+    "num": 4004
   }
 ]

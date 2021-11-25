@@ -5,7 +5,8 @@
     "translit": "(ara)",
     "parse": "Conjunction",
     "str": "Strong's 686:  ",
-    "str2": "Then, therefore, since. Probably from airo; a particle denoting an inference more or less decisive."
+    "str2": "Then, therefore, since. Probably from airo; a particle denoting an inference more or less decisive.",
+    "num": 686
   },
   {
     "word": "those",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "also",
@@ -21,7 +23,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "{who} have fallen asleep",
@@ -29,7 +32,8 @@
     "translit": "(koimēthentes)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Plural",
     "str": "Strong's 2837:  ",
-    "str2": "From keimai; to put to sleep, i.e. to slumber; figuratively, to decease."
+    "str2": "From keimai; to put to sleep, i.e. to slumber; figuratively, to decease.",
+    "num": 2837
   },
   {
     "word": "in",
@@ -37,7 +41,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "Christ",
@@ -45,7 +50,8 @@
     "translit": "(Christō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "have perished.",
@@ -53,6 +59,7 @@
     "translit": "(apōlonto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Plural",
     "str": "Strong's 622:  ",
-    "str2": "From apo and the base of olethros; to destroy fully, literally or figuratively."
+    "str2": "From apo and the base of olethros; to destroy fully, literally or figuratively.",
+    "num": 622
   }
 ]

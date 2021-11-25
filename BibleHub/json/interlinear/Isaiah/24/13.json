@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "will it be",
@@ -13,7 +14,8 @@
     "translit": "(yih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "on",
@@ -21,7 +23,8 @@
     "translit": "(bə·qe·reḇ)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 7130:  ",
-    "str2": "The nearest part, the center"
+    "str2": "The nearest part, the center",
+    "num": 7130
   },
   {
     "word": "the earth",
@@ -29,7 +32,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "[and] among",
@@ -37,7 +41,8 @@
     "translit": "(bə·ṯō·wḵ)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 8432:  ",
-    "str2": "A bisection, the centre"
+    "str2": "A bisection, the centre",
+    "num": 8432
   },
   {
     "word": "the nations:",
@@ -45,7 +50,8 @@
     "translit": "(hā·‘am·mîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "like a harvested",
@@ -53,7 +59,8 @@
     "translit": "(kə·nō·qep̄)",
     "parse": "Preposition-k | Noun - masculine singular construct",
     "str": "Strong's 5363:  ",
-    "str2": "A striking off"
+    "str2": "A striking off",
+    "num": 5363
   },
   {
     "word": "olive tree,",
@@ -61,7 +68,8 @@
     "translit": "(za·yiṯ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2132:  ",
-    "str2": "An olive, the tree, the branch, the berry"
+    "str2": "An olive, the tree, the branch, the berry",
+    "num": 2132
   },
   {
     "word": "like a gleaning",
@@ -69,7 +77,8 @@
     "translit": "(kə·‘ō·w·lê·lōṯ)",
     "parse": "Preposition-k | Noun - feminine plural",
     "str": "Strong's 5955:  ",
-    "str2": "Gleanings, gleaning-time"
+    "str2": "Gleanings, gleaning-time",
+    "num": 5955
   },
   {
     "word": "after",
@@ -77,7 +86,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "a grape harvest.",
@@ -85,6 +95,7 @@
     "translit": "(ḇā·ṣîr)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1210:  ",
-    "str2": "Clipped, the grape crop"
+    "str2": "Clipped, the grape crop",
+    "num": 1210
   }
 ]

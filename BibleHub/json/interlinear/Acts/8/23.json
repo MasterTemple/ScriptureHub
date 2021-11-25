@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "I see that",
@@ -13,7 +14,8 @@
     "translit": "(horō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "you",
@@ -21,7 +23,8 @@
     "translit": "(se)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "are",
@@ -29,7 +32,8 @@
     "translit": "(onta)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "poisoned",
@@ -37,7 +41,8 @@
     "translit": "(cholēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5521:  ",
-    "str2": "Gall, bitter herbs. Feminine of an equivalent perhaps akin to the same as Chloe; 'gall' or bile, i.e. poison or an anodyne."
+    "str2": "Gall, bitter herbs. Feminine of an equivalent perhaps akin to the same as Chloe; 'gall' or bile, i.e. poison or an anodyne.",
+    "num": 5521
   },
   {
     "word": "by bitterness",
@@ -45,7 +50,8 @@
     "translit": "(pikrias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4088:  ",
-    "str2": "Bitterness, harshness, hence met: an embittered (resentful) spirit. From pikros; acridity, literally or figuratively."
+    "str2": "Bitterness, harshness, hence met: an embittered (resentful) spirit. From pikros; acridity, literally or figuratively.",
+    "num": 4088
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "captive",
@@ -61,7 +68,8 @@
     "translit": "(syndesmon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 4886:  ",
-    "str2": "That which binds together; a band, bond. From sun and desmon; a joint tie, i.e. Ligament, uniting principle, control."
+    "str2": "That which binds together; a band, bond. From sun and desmon; a joint tie, i.e. Ligament, uniting principle, control.",
+    "num": 4886
   },
   {
     "word": "to iniquity.”",
@@ -69,6 +77,7 @@
     "translit": "(adikias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 93:  ",
-    "str2": "Injustice, unrighteousness, hurt. From adikos; injustice; morally, wrongfulness."
+    "str2": "Injustice, unrighteousness, hurt. From adikos; injustice; morally, wrongfulness.",
+    "num": 93
   }
 ]

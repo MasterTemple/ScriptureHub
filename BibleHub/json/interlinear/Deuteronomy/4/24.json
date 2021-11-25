@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "your God",
@@ -21,7 +23,8 @@
     "translit": "(’ĕ·lō·he·ḵā)",
     "parse": "Noun - masculine plural construct | second person masculine singular",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "is a consuming",
@@ -29,7 +32,8 @@
     "translit": "(’ō·ḵə·lāh)",
     "parse": "Verb - Qal - Participle - feminine singular",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "fire,",
@@ -37,7 +41,8 @@
     "translit": "(’êš)",
     "parse": "Noun - common singular",
     "str": "Strong's 784:  ",
-    "str2": "A fire"
+    "str2": "A fire",
+    "num": 784
   },
   {
     "word": "a jealous",
@@ -45,7 +50,8 @@
     "translit": "(qan·nā)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 7067:  ",
-    "str2": "Jealous"
+    "str2": "Jealous",
+    "num": 7067
   },
   {
     "word": "God.",
@@ -53,6 +59,7 @@
     "translit": "(’êl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 410:  ",
-    "str2": "Strength -- as adjective, mighty, the Almighty"
+    "str2": "Strength -- as adjective, mighty, the Almighty",
+    "num": 410
   }
 ]

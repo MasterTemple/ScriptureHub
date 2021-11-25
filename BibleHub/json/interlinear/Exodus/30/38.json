@@ -5,7 +5,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "who",
@@ -13,7 +14,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "makes",
@@ -21,7 +23,8 @@
     "translit": "(ya·‘ă·śeh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "something like",
@@ -29,7 +32,8 @@
     "translit": "(ḵā·mō·w·hā)",
     "parse": "Preposition | third person feminine singular",
     "str": "Strong's 3644:  ",
-    "str2": "Like, as, when"
+    "str2": "Like, as, when",
+    "num": 3644
   },
   {
     "word": "it to enjoy",
@@ -37,7 +41,8 @@
     "translit": "(lə·hā·rî·aḥ)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct",
     "str": "Strong's 7306:  ",
-    "str2": "Accept, smell, touch, make of quick understanding "
+    "str2": "Accept, smell, touch, make of quick understanding ",
+    "num": 7306
   },
   {
     "word": "its fragrance",
@@ -45,7 +50,8 @@
     "translit": "(bāh)",
     "parse": "Preposition | third person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "shall be cut off",
@@ -53,7 +59,8 @@
     "translit": "(wə·niḵ·raṯ)",
     "parse": "Conjunctive waw | Verb - Nifal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 3772:  ",
-    "str2": "To cut, to destroy, consume, to covenant"
+    "str2": "To cut, to destroy, consume, to covenant",
+    "num": 3772
   },
   {
     "word": "from his people.”",
@@ -61,6 +68,7 @@
     "translit": "(mê·‘am·māw)",
     "parse": "Preposition-m | Noun - masculine plural construct | third person masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   }
 ]

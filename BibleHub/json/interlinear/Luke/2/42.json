@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "when",
@@ -13,7 +14,8 @@
     "translit": "(hote)",
     "parse": "Adverb",
     "str": "Strong's 3753:  ",
-    "str2": "When, at which time. From hos and te; at which too, i.e. When."
+    "str2": "When, at which time. From hos and te; at which too, i.e. When.",
+    "num": 3753
   },
   {
     "word": "He was",
@@ -21,7 +23,8 @@
     "translit": "(egeneto)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "twelve",
@@ -29,7 +32,8 @@
     "translit": "(dōdeka)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 1427:  ",
-    "str2": "Twelve; the usual way in which the Twelve apostles of Jesus are referred to. From duo and deka; two and ten, i.e. A dozen."
+    "str2": "Twelve; the usual way in which the Twelve apostles of Jesus are referred to. From duo and deka; two and ten, i.e. A dozen.",
+    "num": 1427
   },
   {
     "word": "years [old],",
@@ -37,7 +41,8 @@
     "translit": "(etōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 2094:  ",
-    "str2": "A year. Apparently a primary word; a year."
+    "str2": "A year. Apparently a primary word; a year.",
+    "num": 2094
   },
   {
     "word": "they",
@@ -45,7 +50,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "went up",
@@ -53,7 +59,8 @@
     "translit": "(anabainontōn)",
     "parse": "Verb - Present Participle Active - Genitive Masculine Plural",
     "str": "Strong's 305:  ",
-    "str2": "To go up, mount, ascend; of things: I rise, spring up, come up. From ana and the base of basis; to go up."
+    "str2": "To go up, mount, ascend; of things: I rise, spring up, come up. From ana and the base of basis; to go up.",
+    "num": 305
   },
   {
     "word": "according to",
@@ -61,7 +68,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "custom",
@@ -77,7 +86,8 @@
     "translit": "(ethos)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 1485:  ",
-    "str2": "A custom, habit; an institute, rite. From etho; a usage."
+    "str2": "A custom, habit; an institute, rite. From etho; a usage.",
+    "num": 1485
   },
   {
     "word": "of the",
@@ -85,7 +95,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Feast.",
@@ -93,6 +104,7 @@
     "translit": "(heortēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1859:  ",
-    "str2": "A festival, feast, periodically recurring. Of uncertain affinity; a festival."
+    "str2": "A festival, feast, periodically recurring. Of uncertain affinity; a festival.",
+    "num": 1859
   }
 ]

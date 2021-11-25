@@ -5,7 +5,8 @@
     "translit": "(’a·ḥă·rāw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's 310:  ",
-    "str2": "The hind or following part"
+    "str2": "The hind or following part",
+    "num": 310
   },
   {
     "word": "the Tekoites",
@@ -13,7 +14,8 @@
     "translit": "(hat·tə·qō·‘îm)",
     "parse": "Article | Noun - proper - masculine plural",
     "str": "Strong's 8621:  ",
-    "str2": "Tekoite -- inhabitant of Tekoa"
+    "str2": "Tekoite -- inhabitant of Tekoa",
+    "num": 8621
   },
   {
     "word": "made repairs",
@@ -21,7 +23,8 @@
     "translit": "(he·ḥĕ·zî·qū)",
     "parse": "Verb - Hifil - Perfect - third person common plural",
     "str": "Strong's 2388:  ",
-    "str2": "To fasten upon, to seize, be strong, obstinate, to bind, restrain, conquer"
+    "str2": "To fasten upon, to seize, be strong, obstinate, to bind, restrain, conquer",
+    "num": 2388
   },
   {
     "word": "to another",
@@ -29,7 +32,8 @@
     "translit": "(šê·nîṯ)",
     "parse": "Number - ordinal feminine singular",
     "str": "Strong's 8145:  ",
-    "str2": "Second (an ordinal number)"
+    "str2": "Second (an ordinal number)",
+    "num": 8145
   },
   {
     "word": "section,",
@@ -37,7 +41,8 @@
     "translit": "(mid·dāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 4060:  ",
-    "str2": "Extension, height, breadth, a measure, a portion, a vestment, tribute"
+    "str2": "Extension, height, breadth, a measure, a portion, a vestment, tribute",
+    "num": 4060
   },
   {
     "word": "from a point opposite",
@@ -45,7 +50,8 @@
     "translit": "(min·ne·ḡeḏ)",
     "parse": "Preposition-m",
     "str": "Strong's 5048:  ",
-    "str2": "A front, part opposite, a counterpart, mate, over against, before"
+    "str2": "A front, part opposite, a counterpart, mate, over against, before",
+    "num": 5048
   },
   {
     "word": "the great",
@@ -53,7 +59,8 @@
     "translit": "(hag·gā·ḏō·wl)",
     "parse": "Article | Adjective - masculine singular",
     "str": "Strong's 1419:  ",
-    "str2": "Great, older, insolent"
+    "str2": "Great, older, insolent",
+    "num": 1419
   },
   {
     "word": "tower",
@@ -61,7 +68,8 @@
     "translit": "(ham·miḡ·dāl)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4026:  ",
-    "str2": "A tower, a rostrum, a, bed of flowers"
+    "str2": "A tower, a rostrum, a, bed of flowers",
+    "num": 4026
   },
   {
     "word": "that juts out",
@@ -69,7 +77,8 @@
     "translit": "(hay·yō·w·ṣê)",
     "parse": "Article | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "to",
@@ -77,7 +86,8 @@
     "translit": "(wə·‘aḏ)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "the wall",
@@ -85,7 +95,8 @@
     "translit": "(ḥō·w·maṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 2346:  ",
-    "str2": "A wall of protection"
+    "str2": "A wall of protection",
+    "num": 2346
   },
   {
     "word": "of Ophel.",
@@ -93,6 +104,7 @@
     "translit": "(hā·‘ō·p̄el)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 6077:  ",
-    "str2": "Ophel -- a fortified mound or hill in Jerusalem"
+    "str2": "Ophel -- a fortified mound or hill in Jerusalem",
+    "num": 6077
   }
 ]

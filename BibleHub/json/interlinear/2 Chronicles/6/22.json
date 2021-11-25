@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "a man",
@@ -13,7 +14,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "sins",
@@ -21,7 +23,8 @@
     "translit": "(ye·ḥĕ·ṭā)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 2398:  ",
-    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn"
+    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn",
+    "num": 2398
   },
   {
     "word": "against his neighbor",
@@ -29,7 +32,8 @@
     "translit": "(lə·rê·‘ê·hū)",
     "parse": "Preposition-l | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 7453:  ",
-    "str2": "Friend, companion, fellow"
+    "str2": "Friend, companion, fellow",
+    "num": 7453
   },
   {
     "word": "and is required",
@@ -37,7 +41,8 @@
     "translit": "(wə·nā·šā-)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 5375:  ",
-    "str2": "To lift, carry, take"
+    "str2": "To lift, carry, take",
+    "num": 5375
   },
   {
     "word": "to take an oath,",
@@ -45,7 +50,8 @@
     "translit": "(’ā·lāh)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 422:  ",
-    "str2": "To adjure, imprecate"
+    "str2": "To adjure, imprecate",
+    "num": 422
   },
   {
     "word": "and he comes",
@@ -53,7 +59,8 @@
     "translit": "(ū·ḇā)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "to take an oath",
@@ -61,7 +68,8 @@
     "translit": "(lə·ha·’ă·lō·ṯōw)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct | third person masculine singular",
     "str": "Strong's 423:  ",
-    "str2": "An imprecation"
+    "str2": "An imprecation",
+    "num": 423
   },
   {
     "word": "before",
@@ -69,7 +77,8 @@
     "translit": "(lip̄·nê)",
     "parse": "Preposition-l | Noun - common plural construct",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "Your altar",
@@ -77,7 +86,8 @@
     "translit": "(miz·ba·ḥă·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 4196:  ",
-    "str2": "An altar"
+    "str2": "An altar",
+    "num": 4196
   },
   {
     "word": "in this",
@@ -85,7 +95,8 @@
     "translit": "(haz·zeh)",
     "parse": "Article | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "temple,",
@@ -93,6 +104,7 @@
     "translit": "(bab·ba·yiṯ)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   }
 ]

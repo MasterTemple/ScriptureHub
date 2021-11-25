@@ -5,7 +5,8 @@
     "translit": "(hên)",
     "parse": "Interjection",
     "str": "Strong's 2005:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2005
   },
   {
     "word": "He holds back",
@@ -13,7 +14,8 @@
     "translit": "(ya‘·ṣōr)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 6113:  ",
-    "str2": "To inclose, to hold back, to maintain, rule, assemble"
+    "str2": "To inclose, to hold back, to maintain, rule, assemble",
+    "num": 6113
   },
   {
     "word": "the waters,",
@@ -21,7 +23,8 @@
     "translit": "(bam·ma·yim)",
     "parse": "Preposition-b, Article | Noun - masculine plural",
     "str": "Strong's 4325:  ",
-    "str2": "Water, juice, urine, semen"
+    "str2": "Water, juice, urine, semen",
+    "num": 4325
   },
   {
     "word": "they dry up,",
@@ -29,7 +32,8 @@
     "translit": "(wə·yi·ḇā·šū)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect - third person masculine plural",
     "str": "Strong's 3001:  ",
-    "str2": "To be ashamed, confused, disappointed, to dry up, wither"
+    "str2": "To be ashamed, confused, disappointed, to dry up, wither",
+    "num": 3001
   },
   {
     "word": "and if He releases them,",
@@ -37,7 +41,8 @@
     "translit": "(wî·šal·lə·ḥêm)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive imperfect - third person masculine singular | third person masculine plural",
     "str": "Strong's 7971:  ",
-    "str2": "To send away, for, out"
+    "str2": "To send away, for, out",
+    "num": 7971
   },
   {
     "word": "they overwhelm",
@@ -45,7 +50,8 @@
     "translit": "(wə·ya·hap̄·ḵū)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect - third person masculine plural",
     "str": "Strong's 2015:  ",
-    "str2": "To turn about, over, to change, overturn, return, pervert"
+    "str2": "To turn about, over, to change, overturn, return, pervert",
+    "num": 2015
   },
   {
     "word": "the land.",
@@ -53,6 +59,7 @@
     "translit": "(’ā·reṣ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   }
 ]

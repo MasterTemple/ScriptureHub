@@ -5,7 +5,8 @@
     "translit": "(šə·lō·mōh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 8010:  ",
-    "str2": "Solomon -- David's son and successor to his throne"
+    "str2": "Solomon -- David's son and successor to his throne",
+    "num": 8010
   },
   {
     "word": "built",
@@ -13,7 +14,8 @@
     "translit": "(way·yi·ḇen)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 1129:  ",
-    "str2": "To build"
+    "str2": "To build",
+    "num": 1129
   },
   {
     "word": "the temple",
@@ -21,7 +23,8 @@
     "translit": "(hab·ba·yiṯ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "and finished",
@@ -29,7 +32,8 @@
     "translit": "(way·ḵal·lê·hū)",
     "parse": "Conjunctive waw | Verb - Piel - Consecutive imperfect - third person masculine singular | third person masculine singular",
     "str": "Strong's 3615:  ",
-    "str2": "To be complete, at an end, finished, accomplished, or spent"
+    "str2": "To be complete, at an end, finished, accomplished, or spent",
+    "num": 3615
   },
   {
     "word": "it.",
@@ -37,6 +41,7 @@
     "translit": "(’eṯ-)",
     "parse": "Direct object marker",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   }
 ]

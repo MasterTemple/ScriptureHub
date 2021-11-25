@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[Jesus] was passing by,",
@@ -13,7 +14,8 @@
     "translit": "(paragōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3855:  ",
-    "str2": "To pass by, depart, pass away. From para and ago; to lead near, i.e. to go along or away."
+    "str2": "To pass by, depart, pass away. From para and ago; to lead near, i.e. to go along or away.",
+    "num": 3855
   },
   {
     "word": "He saw",
@@ -21,7 +23,8 @@
     "translit": "(eiden)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "a man",
@@ -29,7 +32,8 @@
     "translit": "(anthrōpon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "blind",
@@ -37,7 +41,8 @@
     "translit": "(typhlon)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 5185:  ",
-    "str2": "Blind, physically or mentally. From, tuphoo; opaque, i.e. blind."
+    "str2": "Blind, physically or mentally. From, tuphoo; opaque, i.e. blind.",
+    "num": 5185
   },
   {
     "word": "from",
@@ -45,7 +50,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "birth,",
@@ -53,6 +59,7 @@
     "translit": "(genetēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1079:  ",
-    "str2": "Birth. Feminine of a presumed derivative of the base of genea; birth."
+    "str2": "Birth. Feminine of a presumed derivative of the base of genea; birth.",
+    "num": 1079
   }
 ]

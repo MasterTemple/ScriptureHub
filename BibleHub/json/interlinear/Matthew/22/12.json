@@ -5,7 +5,8 @@
     "translit": "(Hetaire)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2083:  ",
-    "str2": "A companion, comrade, friend. From etes; a comrade."
+    "str2": "A companion, comrade, friend. From etes; a comrade.",
+    "num": 2083
   },
   {
     "word": "he asked,",
@@ -13,7 +14,8 @@
     "translit": "(legei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "‘how",
@@ -21,7 +23,8 @@
     "translit": "(pōs)",
     "parse": "Adverb",
     "str": "Strong's 4459:  ",
-    "str2": "Adverb from the base of pou; an interrogative particle of manner; in what way?; also as exclamation, how much!"
+    "str2": "Adverb from the base of pou; an interrogative particle of manner; in what way?; also as exclamation, how much!",
+    "num": 4459
   },
   {
     "word": "did you get in",
@@ -29,7 +32,8 @@
     "translit": "(eisēlthes)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Singular",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "here",
@@ -37,7 +41,8 @@
     "translit": "(hōde)",
     "parse": "Adverb",
     "str": "Strong's 5602:  ",
-    "str2": "From an adverb form of hode; in this same spot, i.e. Here or hither."
+    "str2": "From an adverb form of hode; in this same spot, i.e. Here or hither.",
+    "num": 5602
   },
   {
     "word": "without",
@@ -45,7 +50,8 @@
     "translit": "(echōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "wedding",
@@ -53,7 +59,8 @@
     "translit": "(gamou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 1062:  ",
-    "str2": "A marriage, wedding, wedding-ceremony; plur: a wedding-feast. Of uncertain affinity; nuptials."
+    "str2": "A marriage, wedding, wedding-ceremony; plur: a wedding-feast. Of uncertain affinity; nuptials.",
+    "num": 1062
   },
   {
     "word": "clothes?’",
@@ -61,7 +68,8 @@
     "translit": "(endyma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 1742:  ",
-    "str2": "A garment, raiment, clothing. From enduo; apparel."
+    "str2": "A garment, raiment, clothing. From enduo; apparel.",
+    "num": 1742
   },
   {
     "word": "But",
@@ -69,7 +77,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[the man] was speechless.",
@@ -77,6 +86,7 @@
     "translit": "(ephimōthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 5392:  ",
-    "str2": "To muzzle, silence. From phimos; to muzzle."
+    "str2": "To muzzle, silence. From phimos; to muzzle.",
+    "num": 5392
   }
 ]

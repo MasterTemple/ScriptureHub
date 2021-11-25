@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "unbelieving",
@@ -21,7 +23,8 @@
     "translit": "(apeithēsantes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 544:  ",
-    "str2": "To disobey, rebel, be disloyal, refuse conformity. From apeithes; to disbelieve."
+    "str2": "To disobey, rebel, be disloyal, refuse conformity. From apeithes; to disbelieve.",
+    "num": 544
   },
   {
     "word": "Jews",
@@ -29,7 +32,8 @@
     "translit": "(Ioudaioi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 2453:  ",
-    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah."
+    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah.",
+    "num": 2453
   },
   {
     "word": "stirred up",
@@ -37,7 +41,8 @@
     "translit": "(epēgeiran)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1892:  ",
-    "str2": "To arouse, stimulate, excite against. From epi and egeiro; to rouse upon, i.e. to excite against."
+    "str2": "To arouse, stimulate, excite against. From epi and egeiro; to rouse upon, i.e. to excite against.",
+    "num": 1892
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Gentiles",
@@ -53,7 +59,8 @@
     "translit": "(ethnōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 1484:  ",
-    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one."
+    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one.",
+    "num": 1484
   },
   {
     "word": "and",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "poisoned",
@@ -69,7 +77,8 @@
     "translit": "(ekakōsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2559:  ",
-    "str2": "To treat badly, afflict, embitter, make angry. From kakos; to injure; figuratively, to exasperate."
+    "str2": "To treat badly, afflict, embitter, make angry. From kakos; to injure; figuratively, to exasperate.",
+    "num": 2559
   },
   {
     "word": "[their]",
@@ -77,7 +86,8 @@
     "translit": "(tas)",
     "parse": "Article - Accusative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "minds",
@@ -85,7 +95,8 @@
     "translit": "(psychas)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 5590:  ",
-    "str2": "From psucho; breath, i.e. spirit, abstractly or concretely."
+    "str2": "From psucho; breath, i.e. spirit, abstractly or concretely.",
+    "num": 5590
   },
   {
     "word": "against",
@@ -93,7 +104,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "brothers.",
@@ -109,6 +122,7 @@
     "translit": "(adelphōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   }
 ]

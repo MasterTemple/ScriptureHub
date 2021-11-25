@@ -5,7 +5,8 @@
     "translit": "(’e·ḥāḏ)",
     "parse": "Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "day",
@@ -13,7 +14,8 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "of his walk,",
@@ -21,7 +23,8 @@
     "translit": "(ma·hă·laḵ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4109:  ",
-    "str2": "A walk, a passage, a distance"
+    "str2": "A walk, a passage, a distance",
+    "num": 4109
   },
   {
     "word": "Jonah",
@@ -29,7 +32,8 @@
     "translit": "(yō·w·nāh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3124:  ",
-    "str2": "Jonah -- an Israelite prophet"
+    "str2": "Jonah -- an Israelite prophet",
+    "num": 3124
   },
   {
     "word": "set out",
@@ -37,7 +41,8 @@
     "translit": "(way·yā·ḥel)",
     "parse": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 2490:  ",
-    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play"
+    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play",
+    "num": 2490
   },
   {
     "word": "into the city",
@@ -45,7 +50,8 @@
     "translit": "(ḇā·‘îr)",
     "parse": "Preposition-b, Article | Noun - feminine singular",
     "str": "Strong's 5892:  ",
-    "str2": "Excitement"
+    "str2": "Excitement",
+    "num": 5892
   },
   {
     "word": "and proclaimed,",
@@ -53,7 +59,8 @@
     "translit": "(way·yiq·rā)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 7121:  ",
-    "str2": "To call, proclaim, read"
+    "str2": "To call, proclaim, read",
+    "num": 7121
   },
   {
     "word": "“Forty",
@@ -61,7 +68,8 @@
     "translit": "(’ar·bā·‘îm)",
     "parse": "Number - common plural",
     "str": "Strong's 705:  ",
-    "str2": "Forty"
+    "str2": "Forty",
+    "num": 705
   },
   {
     "word": "more",
@@ -69,7 +77,8 @@
     "translit": "(‘ō·wḏ)",
     "parse": "Adverb",
     "str": "Strong's 5750:  ",
-    "str2": "Iteration, continuance, again, repeatedly, still, more"
+    "str2": "Iteration, continuance, again, repeatedly, still, more",
+    "num": 5750
   },
   {
     "word": "days",
@@ -77,7 +86,8 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "and Nineveh",
@@ -85,7 +95,8 @@
     "translit": "(wə·nî·nə·wêh)",
     "parse": "Conjunctive waw | Noun - proper - feminine singular",
     "str": "Strong's 5210:  ",
-    "str2": "Nineveh -- capital of Assyr"
+    "str2": "Nineveh -- capital of Assyr",
+    "num": 5210
   },
   {
     "word": "will be overturned!”",
@@ -93,6 +104,7 @@
     "translit": "(neh·pā·ḵeṯ)",
     "parse": "Verb - Nifal - Participle - feminine singular",
     "str": "Strong's 2015:  ",
-    "str2": "To turn about, over, to change, overturn, return, pervert"
+    "str2": "To turn about, over, to change, overturn, return, pervert",
+    "num": 2015
   }
 ]

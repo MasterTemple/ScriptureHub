@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "evil",
@@ -13,7 +14,8 @@
     "translit": "(rā·‘āh)",
     "parse": "Adjective - feminine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "is sweet",
@@ -21,7 +23,8 @@
     "translit": "(tam·tîq)",
     "parse": "Verb - Hifil - Imperfect - third person feminine singular",
     "str": "Strong's 4985:  ",
-    "str2": "To become or be sweet or pleasant"
+    "str2": "To become or be sweet or pleasant",
+    "num": 4985
   },
   {
     "word": "in his mouth",
@@ -29,7 +32,8 @@
     "translit": "(bə·p̄îw)",
     "parse": "Preposition-b | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 6310:  ",
-    "str2": "The mouth, edge, portion, side, according to"
+    "str2": "The mouth, edge, portion, side, according to",
+    "num": 6310
   },
   {
     "word": "and he conceals",
@@ -37,7 +41,8 @@
     "translit": "(yaḵ·ḥî·ḏen·nāh)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular | third person feminine singular",
     "str": "Strong's 3582:  ",
-    "str2": "To secrete, by act, word, to destroy"
+    "str2": "To secrete, by act, word, to destroy",
+    "num": 3582
   },
   {
     "word": "it under",
@@ -45,7 +50,8 @@
     "translit": "(ta·ḥaṯ)",
     "parse": "Preposition",
     "str": "Strong's 8478:  ",
-    "str2": "The bottom, below, in lieu of"
+    "str2": "The bottom, below, in lieu of",
+    "num": 8478
   },
   {
     "word": "his tongue,",
@@ -53,6 +59,7 @@
     "translit": "(lə·šō·w·nōw)",
     "parse": "Noun - common singular construct | third person masculine singular",
     "str": "Strong's 3956:  ",
-    "str2": "The tongue"
+    "str2": "The tongue",
+    "num": 3956
   }
 ]

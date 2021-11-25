@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "he loves",
@@ -13,7 +14,8 @@
     "translit": "(agapa)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 25:  ",
-    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love."
+    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love.",
+    "num": 25
   },
   {
     "word": "our",
@@ -21,7 +23,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "nation",
@@ -29,7 +32,8 @@
     "translit": "(ethnos)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 1484:  ",
-    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one."
+    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one.",
+    "num": 1484
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "has built",
@@ -45,7 +50,8 @@
     "translit": "(ōkodomēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3618:  ",
-    "str2": "From the same as oikodome; to be a house-builder, i.e. Construct or confirm."
+    "str2": "From the same as oikodome; to be a house-builder, i.e. Construct or confirm.",
+    "num": 3618
   },
   {
     "word": "our",
@@ -53,7 +59,8 @@
     "translit": "(hēmin)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "synagogue.”",
@@ -61,6 +68,7 @@
     "translit": "(synagōgēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4864:  ",
-    "str2": "From sunago; an assemblage of persons; specially, a Jewish 'synagogue'; by analogy, a Christian church."
+    "str2": "From sunago; an assemblage of persons; specially, a Jewish 'synagogue'; by analogy, a Christian church.",
+    "num": 4864
   }
 ]

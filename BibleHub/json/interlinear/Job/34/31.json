@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "someone says",
@@ -13,7 +14,8 @@
     "translit": "(he·’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "God,",
@@ -29,7 +32,8 @@
     "translit": "(’êl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 410:  ",
-    "str2": "Strength -- as adjective, mighty, the Almighty"
+    "str2": "Strength -- as adjective, mighty, the Almighty",
+    "num": 410
   },
   {
     "word": "‘I have endured my punishment;",
@@ -37,7 +41,8 @@
     "translit": "(nā·śā·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 5375:  ",
-    "str2": "To lift, carry, take"
+    "str2": "To lift, carry, take",
+    "num": 5375
   },
   {
     "word": "I will offend",
@@ -45,7 +50,8 @@
     "translit": "(’eḥ·bōl)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 2254:  ",
-    "str2": "To wind tightly, to bind, a pledge, to pervert, destroy, to writhe in pain"
+    "str2": "To wind tightly, to bind, a pledge, to pervert, destroy, to writhe in pain",
+    "num": 2254
   },
   {
     "word": "no more.",
@@ -53,6 +59,7 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   }
 ]

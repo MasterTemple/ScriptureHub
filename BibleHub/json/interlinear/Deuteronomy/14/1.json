@@ -5,7 +5,8 @@
     "translit": "(’at·tem)",
     "parse": "Pronoun - second person masculine plural",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "are sons",
@@ -13,7 +14,8 @@
     "translit": "(bā·nîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of the LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "your God;",
@@ -29,7 +32,8 @@
     "translit": "(’ĕ·lō·hê·ḵem)",
     "parse": "Noun - masculine plural construct | second person masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "do not",
@@ -37,7 +41,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "cut",
@@ -45,7 +50,8 @@
     "translit": "(ṯiṯ·gō·ḏə·ḏū)",
     "parse": "Verb - Hitpael - Imperfect - second person masculine plural",
     "str": "Strong's 1413:  ",
-    "str2": "To crowd, to gash"
+    "str2": "To crowd, to gash",
+    "num": 1413
   },
   {
     "word": "yourselves",
@@ -53,7 +59,8 @@
     "translit": "(wə·lō-)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "or shave",
@@ -61,7 +68,8 @@
     "translit": "(ṯā·śî·mū)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural",
     "str": "Strong's 7760:  ",
-    "str2": "Put -- to put, place, set"
+    "str2": "Put -- to put, place, set",
+    "num": 7760
   },
   {
     "word": "your forehead",
@@ -69,7 +77,8 @@
     "translit": "(bên)",
     "parse": "Preposition",
     "str": "Strong's 996:  ",
-    "str2": "An interval, space between"
+    "str2": "An interval, space between",
+    "num": 996
   },
   {
     "word": "on behalf of the dead,",
@@ -77,6 +86,7 @@
     "translit": "(lā·mêṯ)",
     "parse": "Preposition-l | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   }
 ]

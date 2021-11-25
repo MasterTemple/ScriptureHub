@@ -5,7 +5,8 @@
     "translit": "(hên)",
     "parse": "Conjunction",
     "str": "Strong's 2006:  ",
-    "str2": "Lo!, there, less, whether, but, if"
+    "str2": "Lo!, there, less, whether, but, if",
+    "num": 2006
   },
   {
     "word": "the God",
@@ -13,7 +14,8 @@
     "translit": "(’ĕ·lā·ha·nā)",
     "parse": "Noun - masculine singular construct | first person common plural",
     "str": "Strong's 426:  ",
-    "str2": "God"
+    "str2": "God",
+    "num": 426
   },
   {
     "word": "whom",
@@ -21,7 +23,8 @@
     "translit": "(dî-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 1768:  ",
-    "str2": "Who, which, that, because"
+    "str2": "Who, which, that, because",
+    "num": 1768
   },
   {
     "word": "we",
@@ -29,7 +32,8 @@
     "translit": "(’ă·naḥ·nā)",
     "parse": "Pronoun - first person common plural",
     "str": "Strong's 586:  ",
-    "str2": "We"
+    "str2": "We",
+    "num": 586
   },
   {
     "word": "serve",
@@ -37,7 +41,8 @@
     "translit": "(p̄ā·lə·ḥîn)",
     "parse": "Verb - Qal - Participle - masculine plural",
     "str": "Strong's 6399:  ",
-    "str2": "To pay reverence to, serve"
+    "str2": "To pay reverence to, serve",
+    "num": 6399
   },
   {
     "word": "exists,",
@@ -45,7 +50,8 @@
     "translit": "(’î·ṯay)",
     "parse": "Adverb",
     "str": "Strong's 383:  ",
-    "str2": "Entity, as a, particle of affirmation, there is"
+    "str2": "Entity, as a, particle of affirmation, there is",
+    "num": 383
   },
   {
     "word": "then He is able",
@@ -53,7 +59,8 @@
     "translit": "(yā·ḵil)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 3202:  ",
-    "str2": "To be able"
+    "str2": "To be able",
+    "num": 3202
   },
   {
     "word": "to deliver us",
@@ -61,7 +68,8 @@
     "translit": "(lə·šê·zā·ḇū·ṯa·nā)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct | first person common plural",
     "str": "Strong's 7804:  ",
-    "str2": "To leave, free"
+    "str2": "To leave, free",
+    "num": 7804
   },
   {
     "word": "from",
@@ -69,7 +77,8 @@
     "translit": "(min-)",
     "parse": "Preposition",
     "str": "Strong's 4481:  ",
-    "str2": "From, out of, by, by reason of, at, more than"
+    "str2": "From, out of, by, by reason of, at, more than",
+    "num": 4481
   },
   {
     "word": "the burning",
@@ -77,7 +86,8 @@
     "translit": "(yā·qiḏ·tā)",
     "parse": "Verb - Qal - Participle - feminine singular determinate",
     "str": "Strong's 3345:  ",
-    "str2": "To burn"
+    "str2": "To burn",
+    "num": 3345
   },
   {
     "word": "fiery",
@@ -85,7 +95,8 @@
     "translit": "(nū·rā)",
     "parse": "Noun - common singulard",
     "str": "Strong's 5135:  ",
-    "str2": "A fire"
+    "str2": "A fire",
+    "num": 5135
   },
   {
     "word": "furnace",
@@ -93,7 +104,8 @@
     "translit": "(’at·tūn)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 861:  ",
-    "str2": "A fire-place, furnace"
+    "str2": "A fire-place, furnace",
+    "num": 861
   },
   {
     "word": "and from",
@@ -101,7 +113,8 @@
     "translit": "(ū·min-)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 4481:  ",
-    "str2": "From, out of, by, by reason of, at, more than"
+    "str2": "From, out of, by, by reason of, at, more than",
+    "num": 4481
   },
   {
     "word": "your hand,",
@@ -109,7 +122,8 @@
     "translit": "(yə·ḏāḵ)",
     "parse": "Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 3028:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3028
   },
   {
     "word": "O king.",
@@ -117,6 +131,7 @@
     "translit": "(mal·kā)",
     "parse": "Noun - masculine singular determinate",
     "str": "Strong's 4430:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4430
   }
 ]

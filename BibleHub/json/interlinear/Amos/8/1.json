@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the Lord",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "showed me:",
@@ -29,7 +32,8 @@
     "translit": "(hir·’a·nî)",
     "parse": "Verb - Hifil - Perfect - third person masculine singular | first person common singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "I saw",
@@ -37,7 +41,8 @@
     "translit": "(wə·hin·nêh)",
     "parse": "Conjunctive waw | Interjection",
     "str": "Strong's 2009:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2009
   },
   {
     "word": "a basket",
@@ -45,7 +50,8 @@
     "translit": "(kə·lūḇ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3619:  ",
-    "str2": "A bird-trap, a basket"
+    "str2": "A bird-trap, a basket",
+    "num": 3619
   },
   {
     "word": "of summer fruit.",
@@ -53,6 +59,7 @@
     "translit": "(qā·yiṣ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7019:  ",
-    "str2": "To awake"
+    "str2": "To awake",
+    "num": 7019
   }
 ]

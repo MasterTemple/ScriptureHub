@@ -5,7 +5,8 @@
     "translit": "(’ă·ḇad·dō·wn)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 11:  ",
-    "str2": "Abaddon -- (place of) destruction or ruin, Abaddon"
+    "str2": "Abaddon -- (place of) destruction or ruin, Abaddon",
+    "num": 11
   },
   {
     "word": "and Death",
@@ -13,7 +14,8 @@
     "translit": "(wā·mā·weṯ)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 4194:  ",
-    "str2": "Death, the dead, their place, state, pestilence, ruin"
+    "str2": "Death, the dead, their place, state, pestilence, ruin",
+    "num": 4194
   },
   {
     "word": "say,",
@@ -21,7 +23,8 @@
     "translit": "(’ā·mə·rū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘We have heard",
@@ -29,7 +32,8 @@
     "translit": "(šā·ma‘·nū)",
     "parse": "Verb - Qal - Perfect - first person common plural",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "a rumor about it.’",
@@ -37,6 +41,7 @@
     "translit": "(šim·‘āh)",
     "parse": "Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 8088:  ",
-    "str2": "Something heard, a sound, rumor, announcement, audience"
+    "str2": "Something heard, a sound, rumor, announcement, audience",
+    "num": 8088
   }
 ]

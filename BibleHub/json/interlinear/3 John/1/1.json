@@ -5,7 +5,8 @@
     "translit": "(Ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "elder,",
@@ -13,7 +14,8 @@
     "translit": "(presbyteros)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 4245:  ",
-    "str2": "Comparative of presbus; older; as noun, a senior; specially, an Israelite Sanhedrist or Christian 'presbyter'."
+    "str2": "Comparative of presbus; older; as noun, a senior; specially, an Israelite Sanhedrist or Christian 'presbyter'.",
+    "num": 4245
   },
   {
     "word": "To the",
@@ -21,7 +23,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "beloved",
@@ -29,7 +32,8 @@
     "translit": "(agapētō)",
     "parse": "Adjective - Dative Masculine Singular",
     "str": "Strong's 27:  ",
-    "str2": "From agapao; beloved."
+    "str2": "From agapao; beloved.",
+    "num": 27
   },
   {
     "word": "Gaius,",
@@ -37,7 +41,8 @@
     "translit": "(Gaiō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 1050:  ",
-    "str2": "Gaius, (a) a Corinthian, (b) a Macedonian, (c) a citizen of Derbe, (d) an Ephesian. Of Latin origin; Gaius, a Christian."
+    "str2": "Gaius, (a) a Corinthian, (b) a Macedonian, (c) a citizen of Derbe, (d) an Ephesian. Of Latin origin; Gaius, a Christian.",
+    "num": 1050
   },
   {
     "word": "whom",
@@ -45,7 +50,8 @@
     "translit": "(hon)",
     "parse": "Personal / Relative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "I",
@@ -53,7 +59,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "love",
@@ -61,7 +68,8 @@
     "translit": "(agapō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 25:  ",
-    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love."
+    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love.",
+    "num": 25
   },
   {
     "word": "in",
@@ -69,7 +77,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[the] truth:",
@@ -77,6 +86,7 @@
     "translit": "(alētheia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 225:  ",
-    "str2": "From alethes; truth."
+    "str2": "From alethes; truth.",
+    "num": 225
   }
 ]

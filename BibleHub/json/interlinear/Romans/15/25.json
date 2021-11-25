@@ -5,7 +5,8 @@
     "translit": "(Nyni)",
     "parse": "Adverb",
     "str": "Strong's 3570:  ",
-    "str2": "A prolonged form of nun for emphasis; just now."
+    "str2": "A prolonged form of nun for emphasis; just now.",
+    "num": 3570
   },
   {
     "word": "however,",
@@ -13,7 +14,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "I am on my way",
@@ -21,7 +23,8 @@
     "translit": "(poreuomai)",
     "parse": "Verb - Present Indicative Middle or Passive - 1st Person Singular",
     "str": "Strong's 4198:  ",
-    "str2": "To travel, journey, go, die. "
+    "str2": "To travel, journey, go, die. ",
+    "num": 4198
   },
   {
     "word": "to",
@@ -29,7 +32,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "Jerusalem",
@@ -37,7 +41,8 @@
     "translit": "(Ierousalēm)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2419:  ",
-    "str2": "Of Hebrew origin; Hierusalem, the capitol of Palestine."
+    "str2": "Of Hebrew origin; Hierusalem, the capitol of Palestine.",
+    "num": 2419
   },
   {
     "word": "to serve",
@@ -45,7 +50,8 @@
     "translit": "(diakonōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 1247:  ",
-    "str2": "From diakonos; to be an attendant, i.e. Wait upon (figuratively) teacher; technically, to act as a Christian deacon."
+    "str2": "From diakonos; to be an attendant, i.e. Wait upon (figuratively) teacher; technically, to act as a Christian deacon.",
+    "num": 1247
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "saints [there].",
@@ -61,6 +68,7 @@
     "translit": "(hagiois)",
     "parse": "Adjective - Dative Masculine Plural",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   }
 ]

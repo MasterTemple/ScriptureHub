@@ -5,7 +5,8 @@
     "translit": "(hên-)",
     "parse": "Interjection",
     "str": "Strong's 2005:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2005
   },
   {
     "word": "I was brought forth",
@@ -13,7 +14,8 @@
     "translit": "(ḥō·w·lā·lə·tî)",
     "parse": "Verb - Pual - Perfect - first person common singular",
     "str": "Strong's 2342:  ",
-    "str2": "To twist, whirl, to dance, to writhe in pain, fear, to wait, to pervert"
+    "str2": "To twist, whirl, to dance, to writhe in pain, fear, to wait, to pervert",
+    "num": 2342
   },
   {
     "word": "in iniquity;",
@@ -21,7 +23,8 @@
     "translit": "(bə·‘ā·wō·wn)",
     "parse": "Preposition-b | Noun - common singular",
     "str": "Strong's 5771:  ",
-    "str2": "Iniquity, guilt, punishment for iniquity"
+    "str2": "Iniquity, guilt, punishment for iniquity",
+    "num": 5771
   },
   {
     "word": "I was sinful",
@@ -29,7 +32,8 @@
     "translit": "(ū·ḇə·ḥêṭ)",
     "parse": "Conjunctive waw, Preposition-b | Noun - masculine singular",
     "str": "Strong's 2399:  ",
-    "str2": "A crime, its penalty"
+    "str2": "A crime, its penalty",
+    "num": 2399
   },
   {
     "word": "when my mother",
@@ -37,7 +41,8 @@
     "translit": "(’im·mî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "conceived me.",
@@ -45,6 +50,7 @@
     "translit": "(ye·ḥĕ·maṯ·nî)",
     "parse": "Verb - Piel - Perfect - third person feminine singular | first person common singular",
     "str": "Strong's 3179:  ",
-    "str2": "To be hot, to conceive"
+    "str2": "To be hot, to conceive",
+    "num": 3179
   }
 ]

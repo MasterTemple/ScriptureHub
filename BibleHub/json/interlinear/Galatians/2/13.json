@@ -5,7 +5,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "other",
@@ -13,7 +14,8 @@
     "translit": "(loipoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3062:  ",
-    "str2": "Left, left behind, the remainder, the rest, the others. Masculine plural of a derivative of leipo; remaining ones."
+    "str2": "Left, left behind, the remainder, the rest, the others. Masculine plural of a derivative of leipo; remaining ones.",
+    "num": 3062
   },
   {
     "word": "Jews",
@@ -21,7 +23,8 @@
     "translit": "(Ioudaioi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 2453:  ",
-    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah."
+    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah.",
+    "num": 2453
   },
   {
     "word": "joined in his hypocrisy,",
@@ -29,7 +32,8 @@
     "translit": "(synypekrithēsan)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Plural",
     "str": "Strong's 4942:  ",
-    "str2": "To dissemble with, play a part with. From sun and hupokrinomai; to act hypocritically in concert with."
+    "str2": "To dissemble with, play a part with. From sun and hupokrinomai; to act hypocritically in concert with.",
+    "num": 4942
   },
   {
     "word": "so that",
@@ -37,7 +41,8 @@
     "translit": "(hōste)",
     "parse": "Conjunction",
     "str": "Strong's 5620:  ",
-    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore."
+    "str2": "So that, therefore, so then, so as to. From hos and te; so too, i.e. Thus therefore.",
+    "num": 5620
   },
   {
     "word": "by",
@@ -45,7 +50,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "their",
@@ -53,7 +59,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "hypocrisy",
@@ -61,7 +68,8 @@
     "translit": "(hypokrisei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 5272:  ",
-    "str2": "From hupokrinomai; acting under a feigned part, i.e. deceit."
+    "str2": "From hupokrinomai; acting under a feigned part, i.e. deceit.",
+    "num": 5272
   },
   {
     "word": "even",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Barnabas",
@@ -77,7 +86,8 @@
     "translit": "(Barnabas)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 921:  ",
-    "str2": "Of Chaldee origin; son of Nabas; Barnabas, an Israelite."
+    "str2": "Of Chaldee origin; son of Nabas; Barnabas, an Israelite.",
+    "num": 921
   },
   {
     "word": "was led astray.",
@@ -85,6 +95,7 @@
     "translit": "(synapēchthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 4879:  ",
-    "str2": "From sun and apago; to take off together, i.e. Transport with."
+    "str2": "From sun and apago; to take off together, i.e. Transport with.",
+    "num": 4879
   }
 ]

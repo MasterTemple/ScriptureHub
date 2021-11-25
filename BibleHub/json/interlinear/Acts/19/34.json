@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "when they realized",
@@ -13,7 +14,8 @@
     "translit": "(epignontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 1921:  ",
-    "str2": "From epi and ginosko; to know upon some mark, i.e. Recognize; by implication, to become fully acquainted with, to acknowledge."
+    "str2": "From epi and ginosko; to know upon some mark, i.e. Recognize; by implication, to become fully acquainted with, to acknowledge.",
+    "num": 1921
   },
   {
     "word": "that",
@@ -21,7 +23,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "he was",
@@ -29,7 +32,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "a Jew,",
@@ -37,7 +41,8 @@
     "translit": "(Ioudaios)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 2453:  ",
-    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah."
+    "str2": "Jewish. From Iouda; Judaean, i.e. Belonging to Jehudah.",
+    "num": 2453
   },
   {
     "word": "they all shouted in unison",
@@ -45,7 +50,8 @@
     "translit": "(phōnē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 5456:  ",
-    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language."
+    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language.",
+    "num": 5456
   },
   {
     "word": "for",
@@ -53,7 +59,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "about",
@@ -61,7 +68,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "two",
@@ -69,7 +77,8 @@
     "translit": "(dyo)",
     "parse": "Adjective - Accusative Feminine Plural",
     "str": "Strong's 1417:  ",
-    "str2": "Two. A primary numeral; 'two'."
+    "str2": "Two. A primary numeral; 'two'.",
+    "num": 1417
   },
   {
     "word": "hours:",
@@ -77,7 +86,8 @@
     "translit": "(hōras)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 5610:  ",
-    "str2": "Apparently a primary word; an 'hour'."
+    "str2": "Apparently a primary word; an 'hour'.",
+    "num": 5610
   },
   {
     "word": "“Great [is]",
@@ -85,7 +95,8 @@
     "translit": "(Megalē)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 3173:  ",
-    "str2": "Large, great, in the widest sense. "
+    "str2": "Large, great, in the widest sense. ",
+    "num": 3173
   },
   {
     "word": "Artemis",
@@ -93,7 +104,8 @@
     "translit": "(Artemis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 735:  ",
-    "str2": "Probably from the same as artemon; prompt; Artemis, the name of a Grecian goddess borrowed by the Asiatics for one of their deities."
+    "str2": "Probably from the same as artemon; prompt; Artemis, the name of a Grecian goddess borrowed by the Asiatics for one of their deities.",
+    "num": 735
   },
   {
     "word": "of [the] Ephesians!”",
@@ -101,6 +113,7 @@
     "translit": "(Ephesiōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 2180:  ",
-    "str2": "Ephesian, of Ephesus. From Ephesos; an Ephesian or inhabitant of Ephesus."
+    "str2": "Ephesian, of Ephesus. From Ephesos; an Ephesian or inhabitant of Ephesus.",
+    "num": 2180
   }
 ]

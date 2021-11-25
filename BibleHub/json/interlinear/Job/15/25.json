@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "he has stretched out",
@@ -13,7 +14,8 @@
     "translit": "(nā·ṭāh)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 5186:  ",
-    "str2": "To stretch out, spread out, extend, incline, bend"
+    "str2": "To stretch out, spread out, extend, incline, bend",
+    "num": 5186
   },
   {
     "word": "his hand",
@@ -21,7 +23,8 @@
     "translit": "(yā·ḏōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "against",
@@ -29,7 +32,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "God",
@@ -37,7 +41,8 @@
     "translit": "(’êl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 410:  ",
-    "str2": "Strength -- as adjective, mighty, the Almighty"
+    "str2": "Strength -- as adjective, mighty, the Almighty",
+    "num": 410
   },
   {
     "word": "and has vaunted himself",
@@ -45,7 +50,8 @@
     "translit": "(yiṯ·gab·bār)",
     "parse": "Verb - Hitpael - Imperfect - third person masculine singular",
     "str": "Strong's 1396:  ",
-    "str2": "To be strong, to prevail, act insolently"
+    "str2": "To be strong, to prevail, act insolently",
+    "num": 1396
   },
   {
     "word": "against",
@@ -53,7 +59,8 @@
     "translit": "(wə·’e·lō·ša-)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the Almighty,",
@@ -61,6 +68,7 @@
     "translit": "(day)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 7706:  ",
-    "str2": "The Almighty"
+    "str2": "The Almighty",
+    "num": 7706
   }
 ]

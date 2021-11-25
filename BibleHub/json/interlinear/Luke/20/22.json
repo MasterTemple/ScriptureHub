@@ -5,7 +5,8 @@
     "translit": "(exestin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1832:  ",
-    "str2": "It is permitted, lawful, possible. "
+    "str2": "It is permitted, lawful, possible. ",
+    "num": 1832
   },
   {
     "word": "for us",
@@ -13,7 +14,8 @@
     "translit": "(hēmas)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "to pay",
@@ -21,7 +23,8 @@
     "translit": "(dounai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "taxes",
@@ -29,7 +32,8 @@
     "translit": "(phoron)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 5411:  ",
-    "str2": "A tax, tribute, especially on persons. From phero; a load, i.e. a tax."
+    "str2": "A tax, tribute, especially on persons. From phero; a load, i.e. a tax.",
+    "num": 5411
   },
   {
     "word": "to Caesar",
@@ -37,7 +41,8 @@
     "translit": "(Kaisari)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2541:  ",
-    "str2": "Of Latin origin; Caesar, a title of the Roman emperor."
+    "str2": "Of Latin origin; Caesar, a title of the Roman emperor.",
+    "num": 2541
   },
   {
     "word": "or",
@@ -45,7 +50,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "not?”",
@@ -53,6 +59,7 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   }
 ]

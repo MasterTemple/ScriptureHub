@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "{do} not",
@@ -13,7 +14,8 @@
     "translit": "(Mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "be surprised,",
@@ -21,7 +23,8 @@
     "translit": "(thaumazete)",
     "parse": "Verb - Present Imperative Active - 2nd Person Plural",
     "str": "Strong's 2296:  ",
-    "str2": "(a) intrans: I wonder, marvel, (b) trans: I wonder at, admire. From thauma; to wonder; by implication, to admire."
+    "str2": "(a) intrans: I wonder, marvel, (b) trans: I wonder at, admire. From thauma; to wonder; by implication, to admire.",
+    "num": 2296
   },
   {
     "word": "brothers,",
@@ -29,7 +32,8 @@
     "translit": "(adelphoi)",
     "parse": "Noun - Vocative Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "if",
@@ -37,7 +41,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "world",
@@ -53,7 +59,8 @@
     "translit": "(kosmos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2889:  ",
-    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally)."
+    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally).",
+    "num": 2889
   },
   {
     "word": "hates",
@@ -61,7 +68,8 @@
     "translit": "(misei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3404:  ",
-    "str2": "To hate, detest, love less, esteem less. From a primary misos; to detest; by extension, to love less."
+    "str2": "To hate, detest, love less, esteem less. From a primary misos; to detest; by extension, to love less.",
+    "num": 3404
   },
   {
     "word": "you.",
@@ -69,6 +77,7 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   }
 ]

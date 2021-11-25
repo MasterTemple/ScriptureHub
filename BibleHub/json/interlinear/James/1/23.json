@@ -5,7 +5,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "anyone",
@@ -13,7 +14,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "who hears",
@@ -21,7 +23,8 @@
     "translit": "(akroatēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 202:  ",
-    "str2": "A hearer of, a listener to. From akroaomai; a hearer."
+    "str2": "A hearer of, a listener to. From akroaomai; a hearer.",
+    "num": 202
   },
   {
     "word": "[the] word",
@@ -29,7 +32,8 @@
     "translit": "(logou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "but",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "does not carry it out",
@@ -45,7 +50,8 @@
     "translit": "(poiētēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4163:  ",
-    "str2": "(a) a maker, poet, (b) a doer, carrier out, performer. From poieo; a performer; specially, a 'poet'."
+    "str2": "(a) a maker, poet, (b) a doer, carrier out, performer. From poieo; a performer; specially, a 'poet'.",
+    "num": 4163
   },
   {
     "word": "is like",
@@ -53,7 +59,8 @@
     "translit": "(eoiken)",
     "parse": "Verb - Perfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1503:  ",
-    "str2": "To be like, resemble. Apparently a primary verb; to resemble."
+    "str2": "To be like, resemble. Apparently a primary verb; to resemble.",
+    "num": 1503
   },
   {
     "word": "a man [who]",
@@ -61,7 +68,8 @@
     "translit": "(andri)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "looks",
@@ -69,7 +77,8 @@
     "translit": "(katanoounti)",
     "parse": "Verb - Present Participle Active - Dative Masculine Singular",
     "str": "Strong's 2657:  ",
-    "str2": "To take note of, perceive, consider carefully, discern, detect, make account of. From kata and noieo; to observe fully."
+    "str2": "To take note of, perceive, consider carefully, discern, detect, make account of. From kata and noieo; to observe fully.",
+    "num": 2657
   },
   {
     "word": "at his",
@@ -77,7 +86,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "face",
@@ -85,7 +95,8 @@
     "translit": "(prosōpon)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4383:  ",
-    "str2": "From pros and ops; the front, i.e. The countenance, aspect, appearance, surface; by implication, presence, person."
+    "str2": "From pros and ops; the front, i.e. The countenance, aspect, appearance, surface; by implication, presence, person.",
+    "num": 4383
   },
   {
     "word": "in",
@@ -93,7 +104,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "a mirror,",
@@ -101,6 +113,7 @@
     "translit": "(esoptrō)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 2072:  ",
-    "str2": "A mirror, looking-glass (made of highly polished metal). From eis and a presumed derivative of optanomai; a mirror."
+    "str2": "A mirror, looking-glass (made of highly polished metal). From eis and a presumed derivative of optanomai; a mirror.",
+    "num": 2072
   }
 ]

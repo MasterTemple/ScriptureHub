@@ -5,7 +5,8 @@
     "translit": "(’e·ḥāḏ)",
     "parse": "Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "of the sons",
@@ -13,7 +14,8 @@
     "translit": "(bên-)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of Ahimelech",
@@ -21,7 +23,8 @@
     "translit": "(la·’ă·ḥî·me·leḵ)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 288:  ",
-    "str2": "Ahimelech -- 'brother of a king', an Israelite name, also a Hittite name"
+    "str2": "Ahimelech -- 'brother of a king', an Israelite name, also a Hittite name",
+    "num": 288
   },
   {
     "word": "son",
@@ -29,7 +32,8 @@
     "translit": "(ben-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of Ahitub",
@@ -37,7 +41,8 @@
     "translit": "(’ă·ḥi·ṭūḇ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 285:  ",
-    "str2": "Ahitub -- 'my brother is goodness', two Israelites"
+    "str2": "Ahitub -- 'my brother is goodness', two Israelites",
+    "num": 285
   },
   {
     "word": "escaped.",
@@ -45,7 +50,8 @@
     "translit": "(way·yim·mā·lêṭ)",
     "parse": "Conjunctive waw | Verb - Nifal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 4422:  ",
-    "str2": "To be smooth, to escape, to release, rescue, to bring forth young, emit sparks"
+    "str2": "To be smooth, to escape, to release, rescue, to bring forth young, emit sparks",
+    "num": 4422
   },
   {
     "word": "His name",
@@ -53,7 +59,8 @@
     "translit": "(ū·šə·mōw)",
     "parse": "Conjunctive waw | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 8034:  ",
-    "str2": "A name"
+    "str2": "A name",
+    "num": 8034
   },
   {
     "word": "was Abiathar,",
@@ -61,7 +68,8 @@
     "translit": "(’eḇ·yā·ṯār)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 54:  ",
-    "str2": "Abiathar -- 'the great one is father', an Israelite priest"
+    "str2": "Abiathar -- 'the great one is father', an Israelite priest",
+    "num": 54
   },
   {
     "word": "and he fled",
@@ -69,7 +77,8 @@
     "translit": "(way·yiḇ·raḥ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 1272:  ",
-    "str2": "To bolt, to flee suddenly"
+    "str2": "To bolt, to flee suddenly",
+    "num": 1272
   },
   {
     "word": "to",
@@ -77,7 +86,8 @@
     "translit": "(’a·ḥă·rê)",
     "parse": "Preposition",
     "str": "Strong's 310:  ",
-    "str2": "The hind or following part"
+    "str2": "The hind or following part",
+    "num": 310
   },
   {
     "word": "David.",
@@ -85,6 +95,7 @@
     "translit": "(ḏā·wiḏ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 1732:  ",
-    "str2": "David -- perhaps 'beloved one', a son of Jesse"
+    "str2": "David -- perhaps 'beloved one', a son of Jesse",
+    "num": 1732
   }
 ]

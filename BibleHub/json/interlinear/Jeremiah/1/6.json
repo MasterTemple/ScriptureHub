@@ -5,7 +5,8 @@
     "translit": "(’ă·hāh)",
     "parse": "Interjection",
     "str": "Strong's 162:  ",
-    "str2": "Alas!"
+    "str2": "Alas!",
+    "num": 162
   },
   {
     "word": "Lord",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD,”",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "I said,",
@@ -29,7 +32,8 @@
     "translit": "(wā·’ō·mar)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - first person common singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“I surely",
@@ -37,7 +41,8 @@
     "translit": "(hin·nêh)",
     "parse": "Interjection",
     "str": "Strong's 2009:  ",
-    "str2": "Lo! behold!"
+    "str2": "Lo! behold!",
+    "num": 2009
   },
   {
     "word": "do not",
@@ -45,7 +50,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "know",
@@ -53,7 +59,8 @@
     "translit": "(yā·ḏa‘·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "how to speak,",
@@ -61,7 +68,8 @@
     "translit": "(dab·bêr)",
     "parse": "Verb - Piel - Infinitive construct",
     "str": "Strong's 1696:  ",
-    "str2": "To arrange, to speak, to subdue"
+    "str2": "To arrange, to speak, to subdue",
+    "num": 1696
   },
   {
     "word": "for",
@@ -69,7 +77,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I [am]",
@@ -77,7 +86,8 @@
     "translit": "(’ā·nō·ḵî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "only a child!”",
@@ -85,6 +95,7 @@
     "translit": "(na·‘ar)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5288:  ",
-    "str2": "A boy, lad, youth, retainer"
+    "str2": "A boy, lad, youth, retainer",
+    "num": 5288
   }
 ]

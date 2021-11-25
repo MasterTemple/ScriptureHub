@@ -5,7 +5,8 @@
     "translit": "(dio)",
     "parse": "Conjunction",
     "str": "Strong's 1352:  ",
-    "str2": "Wherefore, on which account, therefore. From dia and hos; through which thing, i.e. Consequently."
+    "str2": "Wherefore, on which account, therefore. From dia and hos; through which thing, i.e. Consequently.",
+    "num": 1352
   },
   {
     "word": "I urge",
@@ -13,7 +14,8 @@
     "translit": "(parakalō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 3870:  ",
-    "str2": "From para and kaleo; to call near, i.e. Invite, invoke."
+    "str2": "From para and kaleo; to call near, i.e. Invite, invoke.",
+    "num": 3870
   },
   {
     "word": "you",
@@ -21,7 +23,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "to reaffirm",
@@ -29,7 +32,8 @@
     "translit": "(kyrōsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2964:  ",
-    "str2": "To ratify, confirm, make valid, reaffirm, assure. From the same as kurios; to make authoritative, i.e. Ratify."
+    "str2": "To ratify, confirm, make valid, reaffirm, assure. From the same as kurios; to make authoritative, i.e. Ratify.",
+    "num": 2964
   },
   {
     "word": "[your] love",
@@ -37,7 +41,8 @@
     "translit": "(agapēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 26:  ",
-    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast."
+    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast.",
+    "num": 26
   },
   {
     "word": "for",
@@ -45,7 +50,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "him.",
@@ -53,6 +59,7 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

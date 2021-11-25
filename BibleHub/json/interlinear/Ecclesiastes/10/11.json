@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "the snake",
@@ -13,7 +14,8 @@
     "translit": "(han·nā·ḥāš)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 5175:  ",
-    "str2": "A serpent"
+    "str2": "A serpent",
+    "num": 5175
   },
   {
     "word": "bites",
@@ -21,7 +23,8 @@
     "translit": "(yiš·šōḵ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5391:  ",
-    "str2": "To strike with a, sting, to oppress with usury"
+    "str2": "To strike with a, sting, to oppress with usury",
+    "num": 5391
   },
   {
     "word": "before",
@@ -29,7 +32,8 @@
     "translit": "(bə·lō·w-)",
     "parse": "Preposition-b | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "it is charmed,",
@@ -37,7 +41,8 @@
     "translit": "(lā·ḥaš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3908:  ",
-    "str2": "A whisper, a private prayer, an incantation, an amulet"
+    "str2": "A whisper, a private prayer, an incantation, an amulet",
+    "num": 3908
   },
   {
     "word": "there is no",
@@ -45,7 +50,8 @@
     "translit": "(wə·’ên)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "profit",
@@ -53,7 +59,8 @@
     "translit": "(yiṯ·rō·wn)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3504:  ",
-    "str2": "Preeminence, gain"
+    "str2": "Preeminence, gain",
+    "num": 3504
   },
   {
     "word": "for the charmer.",
@@ -61,6 +68,7 @@
     "translit": "(lə·ḇa·‘al)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 1167:  ",
-    "str2": "A master, a husband, owner"
+    "str2": "A master, a husband, owner",
+    "num": 1167
   }
 ]

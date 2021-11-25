@@ -5,7 +5,8 @@
     "translit": "(adelphoi)",
     "parse": "Noun - Vocative Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "I",
@@ -13,7 +14,8 @@
     "translit": "(Kagō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 2504:  ",
-    "str2": "To also, I too, but I. From kai and ego; so also the dative case kamoi, and accusative case kame and I, me."
+    "str2": "To also, I too, but I. From kai and ego; so also the dative case kamoi, and accusative case kame and I, me.",
+    "num": 2504
   },
   {
     "word": "could not",
@@ -21,7 +23,8 @@
     "translit": "(ēdynēthēn)",
     "parse": "Verb - Aorist Indicative Passive - 1st Person Singular",
     "str": "Strong's 1410:  ",
-    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible."
+    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible.",
+    "num": 1410
   },
   {
     "word": "address",
@@ -29,7 +32,8 @@
     "translit": "(lalēsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "you",
@@ -37,7 +41,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "as",
@@ -45,7 +50,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "spiritual,",
@@ -53,7 +59,8 @@
     "translit": "(pneumatikois)",
     "parse": "Adjective - Dative Masculine Plural",
     "str": "Strong's 4152:  ",
-    "str2": "Spiritual. From pneuma; non-carnal, i.e. ethereal, or a spirit, or supernatural, regenerate, religious."
+    "str2": "Spiritual. From pneuma; non-carnal, i.e. ethereal, or a spirit, or supernatural, regenerate, religious.",
+    "num": 4152
   },
   {
     "word": "but",
@@ -61,7 +68,8 @@
     "translit": "(all’)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "as",
@@ -69,7 +77,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "worldly—",
@@ -77,7 +86,8 @@
     "translit": "(sarkinois)",
     "parse": "Adjective - Dative Masculine Plural",
     "str": "Strong's 4560:  ",
-    "str2": "Fleshly, consisting of flesh, carnal. From sarx; similar to flesh, i.e. soft."
+    "str2": "Fleshly, consisting of flesh, carnal. From sarx; similar to flesh, i.e. soft.",
+    "num": 4560
   },
   {
     "word": "as",
@@ -85,7 +95,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "infants",
@@ -93,7 +104,8 @@
     "translit": "(nēpiois)",
     "parse": "Adjective - Dative Masculine Plural",
     "str": "Strong's 3516:  ",
-    "str2": "From an obsolete particle ne- and epos; not speaking, i.e. An infant; figuratively, a simple-minded person, an immature Christian."
+    "str2": "From an obsolete particle ne- and epos; not speaking, i.e. An infant; figuratively, a simple-minded person, an immature Christian.",
+    "num": 3516
   },
   {
     "word": "in",
@@ -101,7 +113,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "Christ.",
@@ -109,6 +122,7 @@
     "translit": "(Christō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   }
 ]

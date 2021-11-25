@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "He",
@@ -13,7 +14,8 @@
     "translit": "(hū)",
     "parse": "Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "wounds,",
@@ -21,7 +23,8 @@
     "translit": "(yaḵ·’îḇ)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular",
     "str": "Strong's 3510:  ",
-    "str2": "To feel pain, to grieve, to spoil"
+    "str2": "To feel pain, to grieve, to spoil",
+    "num": 3510
   },
   {
     "word": "but also binds;",
@@ -29,7 +32,8 @@
     "translit": "(wə·yeḥ·bāš)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect - third person masculine singular",
     "str": "Strong's 2280:  ",
-    "str2": "To wrap firmly, to stop, to rule"
+    "str2": "To wrap firmly, to stop, to rule",
+    "num": 2280
   },
   {
     "word": "He strikes,",
@@ -37,7 +41,8 @@
     "translit": "(yim·ḥaṣ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 4272:  ",
-    "str2": "To dash asunder, to crush, smash, violently plunge, to subdue, destroy"
+    "str2": "To dash asunder, to crush, smash, violently plunge, to subdue, destroy",
+    "num": 4272
   },
   {
     "word": "but His hands",
@@ -45,7 +50,8 @@
     "translit": "(wə·yā·ḏāw)",
     "parse": "Conjunctive waw | Noun - fdc | third person masculine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "also heal.",
@@ -53,6 +59,7 @@
     "translit": "(tir·pe·nāh)",
     "parse": "Verb - Qal - Imperfect - third person feminine plural",
     "str": "Strong's 7495:  ",
-    "str2": "To mend, to cure"
+    "str2": "To mend, to cure",
+    "num": 7495
   }
 ]

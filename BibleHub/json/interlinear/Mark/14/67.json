@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "saw",
@@ -13,7 +14,8 @@
     "translit": "(idousa)",
     "parse": "Verb - Aorist Participle Active - Nominative Feminine Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "[him]",
@@ -21,7 +23,8 @@
     "translit": "(Petron)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 4074:  ",
-    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle."
+    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle.",
+    "num": 4074
   },
   {
     "word": "warming himself [there].",
@@ -29,7 +32,8 @@
     "translit": "(thermainomenon)",
     "parse": "Verb - Present Participle Middle - Accusative Masculine Singular",
     "str": "Strong's 2328:  ",
-    "str2": "To warm; mid: I warm myself. From therme; to heat."
+    "str2": "To warm; mid: I warm myself. From therme; to heat.",
+    "num": 2328
   },
   {
     "word": "She looked at",
@@ -37,7 +41,8 @@
     "translit": "(emblepsasa)",
     "parse": "Verb - Aorist Participle Active - Nominative Feminine Singular",
     "str": "Strong's 1689:  ",
-    "str2": "From en and blepo; to look on, i.e. to observe fixedly, or to discern clearly."
+    "str2": "From en and blepo; to look on, i.e. to observe fixedly, or to discern clearly.",
+    "num": 1689
   },
   {
     "word": "[Peter]",
@@ -45,7 +50,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "[and] said,",
@@ -53,7 +59,8 @@
     "translit": "(legei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“You",
@@ -61,7 +68,8 @@
     "translit": "(sy)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "also",
@@ -69,7 +77,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "were",
@@ -77,7 +86,8 @@
     "translit": "(ēstha)",
     "parse": "Verb - Imperfect Indicative Middle - 2nd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "with",
@@ -85,7 +95,8 @@
     "translit": "(meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "Jesus",
@@ -93,7 +104,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "the",
@@ -101,7 +113,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Nazarene.”",
@@ -109,6 +122,7 @@
     "translit": "(Nazarēnou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3479:  ",
-    "str2": "Of Nazareth, a Nazarene. From Nazareth; a Nazarene, i.e. Inhabitant of Nazareth."
+    "str2": "Of Nazareth, a Nazarene. From Nazareth; a Nazarene, i.e. Inhabitant of Nazareth.",
+    "num": 3479
   }
 ]

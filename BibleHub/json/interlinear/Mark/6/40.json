@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they sat down",
@@ -13,7 +14,8 @@
     "translit": "(anepesan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 377:  ",
-    "str2": "From ana and pipto; to fall back, i.e. Lie down, lean back."
+    "str2": "From ana and pipto; to fall back, i.e. Lie down, lean back.",
+    "num": 377
   },
   {
     "word": "in groups",
@@ -21,7 +23,8 @@
     "translit": "(prasiai)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 4237:  ",
-    "str2": "A company formed into divisions (like garden-beds). Perhaps from prason; a garden plot, i.e. a row."
+    "str2": "A company formed into divisions (like garden-beds). Perhaps from prason; a garden plot, i.e. a row.",
+    "num": 4237
   },
   {
     "word": "of",
@@ -29,7 +32,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "hundreds",
@@ -37,7 +41,8 @@
     "translit": "(hekaton)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 1540:  ",
-    "str2": "One hundred. Of uncertain affinity; a hundred."
+    "str2": "One hundred. Of uncertain affinity; a hundred.",
+    "num": 1540
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "fifties.",
@@ -53,6 +59,7 @@
     "translit": "(pentēkonta)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 4004:  ",
-    "str2": "Fifty. Multiplicative of pente; fifty."
+    "str2": "Fifty. Multiplicative of pente; fifty.",
+    "num": 4004
   }
 ]

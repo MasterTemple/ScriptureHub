@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you are wise,",
@@ -13,7 +14,8 @@
     "translit": "(ḥā·ḵam·tā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 2449:  ",
-    "str2": "To be wise"
+    "str2": "To be wise",
+    "num": 2449
   },
   {
     "word": "you are wise",
@@ -21,7 +23,8 @@
     "translit": "(ḥā·ḵam·tā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 2449:  ",
-    "str2": "To be wise"
+    "str2": "To be wise",
+    "num": 2449
   },
   {
     "word": "to your own advantage;",
@@ -29,7 +32,8 @@
     "translit": "(lāḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "but if you scoff,",
@@ -37,7 +41,8 @@
     "translit": "(wə·laṣ·tā)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - second person masculine singular",
     "str": "Strong's 3887:  ",
-    "str2": "Ambassador, have in derision, interpreter, make a mock, mocker"
+    "str2": "Ambassador, have in derision, interpreter, make a mock, mocker",
+    "num": 3887
   },
   {
     "word": "you alone",
@@ -45,7 +50,8 @@
     "translit": "(lə·ḇad·də·ḵā)",
     "parse": "Preposition-l | Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 905:  ",
-    "str2": "Separation, a part of the body, branch of a, tree, bar for, carrying, chief of"
+    "str2": "Separation, a part of the body, branch of a, tree, bar for, carrying, chief of",
+    "num": 905
   },
   {
     "word": "will bear [the consequences].",
@@ -53,6 +59,7 @@
     "translit": "(ṯiś·śā)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 5375:  ",
-    "str2": "To lift, carry, take"
+    "str2": "To lift, carry, take",
+    "num": 5375
   }
 ]

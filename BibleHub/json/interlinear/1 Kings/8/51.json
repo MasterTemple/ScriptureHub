@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "they",
@@ -13,7 +14,8 @@
     "translit": "(hêm)",
     "parse": "Pronoun - third person masculine plural",
     "str": "Strong's 1992:  ",
-    "str2": "They"
+    "str2": "They",
+    "num": 1992
   },
   {
     "word": "are Your people",
@@ -21,7 +23,8 @@
     "translit": "(‘am·mə·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "and Your inheritance;",
@@ -29,7 +32,8 @@
     "translit": "(wə·na·ḥă·lā·ṯə·ḵā)",
     "parse": "Conjunctive waw | Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 5159:  ",
-    "str2": "Something inherited, occupancy, an heirloom, an estate, patrimony, portion"
+    "str2": "Something inherited, occupancy, an heirloom, an estate, patrimony, portion",
+    "num": 5159
   },
   {
     "word": "You brought them",
@@ -37,7 +41,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "out",
@@ -45,7 +50,8 @@
     "translit": "(hō·w·ṣê·ṯā)",
     "parse": "Verb - Hifil - Perfect - second person masculine singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "of Egypt,",
@@ -53,7 +59,8 @@
     "translit": "(mim·miṣ·ra·yim)",
     "parse": "Preposition-m | Noun - proper - feminine singular",
     "str": "Strong's 4714:  ",
-    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa"
+    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+    "num": 4714
   },
   {
     "word": "out",
@@ -61,7 +68,8 @@
     "translit": "(mit·tō·wḵ)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 8432:  ",
-    "str2": "A bisection, the centre"
+    "str2": "A bisection, the centre",
+    "num": 8432
   },
   {
     "word": "of the furnace",
@@ -69,7 +77,8 @@
     "translit": "(kūr)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3564:  ",
-    "str2": "Smelting pot or furnace"
+    "str2": "Smelting pot or furnace",
+    "num": 3564
   },
   {
     "word": "for iron.",
@@ -77,6 +86,7 @@
     "translit": "(hab·bar·zel)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1270:  ",
-    "str2": "Iron, an iron implement"
+    "str2": "Iron, an iron implement",
+    "num": 1270
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(lə·ḵā)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "shall have",
@@ -13,7 +14,8 @@
     "translit": "(yih·yeh-)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "no",
@@ -21,7 +23,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "other",
@@ -29,7 +32,8 @@
     "translit": "(’ă·ḥê·rîm)",
     "parse": "Adjective - masculine plural",
     "str": "Strong's 312:  ",
-    "str2": "Hinder, next, other"
+    "str2": "Hinder, next, other",
+    "num": 312
   },
   {
     "word": "gods",
@@ -37,7 +41,8 @@
     "translit": "(’ĕ·lō·hîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "before",
@@ -45,7 +50,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "Me.",
@@ -53,6 +59,7 @@
     "translit": "(pā·nā·ya)",
     "parse": "Noun - masculine plural construct | first person common singular",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   }
 ]

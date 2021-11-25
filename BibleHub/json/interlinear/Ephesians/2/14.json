@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "He Himself",
@@ -13,7 +14,8 @@
     "translit": "(Autos)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "is",
@@ -21,7 +23,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "our",
@@ -29,7 +32,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "peace,",
@@ -37,7 +41,8 @@
     "translit": "(eirēnē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1515:  ",
-    "str2": "Probably from a primary verb eiro; peace; by implication, prosperity."
+    "str2": "Probably from a primary verb eiro; peace; by implication, prosperity.",
+    "num": 1515
   },
   {
     "word": "who",
@@ -45,7 +50,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "has made",
@@ -53,7 +59,8 @@
     "translit": "(poiēsas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "the two",
@@ -61,7 +68,8 @@
     "translit": "(amphotera)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 297:  ",
-    "str2": "Both (of two). Comparative of amphi; both."
+    "str2": "Both (of two). Comparative of amphi; both.",
+    "num": 297
   },
   {
     "word": "one",
@@ -69,7 +77,8 @@
     "translit": "(hen)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 1520:  ",
-    "str2": "One. (including the neuter Hen); a primary numeral; one."
+    "str2": "One. (including the neuter Hen); a primary numeral; one.",
+    "num": 1520
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "has torn down",
@@ -85,7 +95,8 @@
     "translit": "(lysas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3089:  ",
-    "str2": "A primary verb; to 'loosen'."
+    "str2": "A primary verb; to 'loosen'.",
+    "num": 3089
   },
   {
     "word": "the",
@@ -93,7 +104,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "dividing",
@@ -101,7 +113,8 @@
     "translit": "(mesotoichon)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3320:  ",
-    "str2": "A middle wall, partition wall, barrier. From mesos and toichos; a partition."
+    "str2": "A middle wall, partition wall, barrier. From mesos and toichos; a partition.",
+    "num": 3320
   },
   {
     "word": "wall",
@@ -109,7 +122,8 @@
     "translit": "(phragmou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 5418:  ",
-    "str2": "A hedge, fence, partition. From phrasso; a fence, or inclosing barrier."
+    "str2": "A hedge, fence, partition. From phrasso; a fence, or inclosing barrier.",
+    "num": 5418
   },
   {
     "word": "of hostility",
@@ -117,6 +131,7 @@
     "translit": "(echthran)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2189:  ",
-    "str2": "Enmity, hostility, alienation. Feminine of echthros; hostility; by implication, a reason for opposition."
+    "str2": "Enmity, hostility, alienation. Feminine of echthros; hostility; by implication, a reason for opposition.",
+    "num": 2189
   }
 ]

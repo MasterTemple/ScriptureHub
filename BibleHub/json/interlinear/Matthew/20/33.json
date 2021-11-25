@@ -5,7 +5,8 @@
     "translit": "(Kyrie)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "they answered,",
@@ -13,7 +14,8 @@
     "translit": "(Legousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "“let",
@@ -21,7 +23,8 @@
     "translit": "(hina)",
     "parse": "Conjunction",
     "str": "Strong's 2443:  ",
-    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that."
+    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that.",
+    "num": 2443
   },
   {
     "word": "our",
@@ -29,7 +32,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "eyes",
@@ -37,7 +41,8 @@
     "translit": "(ophthalmoi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3788:  ",
-    "str2": "The eye; fig: the mind's eye. From optanomai; the eye; by implication, vision; figuratively, envy."
+    "str2": "The eye; fig: the mind's eye. From optanomai; the eye; by implication, vision; figuratively, envy.",
+    "num": 3788
   },
   {
     "word": "be opened.”",
@@ -45,6 +50,7 @@
     "translit": "(anoigōsin)",
     "parse": "Verb - Aorist Subjunctive Passive - 3rd Person Plural",
     "str": "Strong's 455:  ",
-    "str2": "To open. From ana and oigo; to open up."
+    "str2": "To open. From ana and oigo; to open up.",
+    "num": 455
   }
 ]

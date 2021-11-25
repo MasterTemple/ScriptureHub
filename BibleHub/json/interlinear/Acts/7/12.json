@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Jacob",
@@ -13,7 +14,8 @@
     "translit": "(Iakōb)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2384:  ",
-    "str2": "Of Hebrew origin; Jacob, the progenitor of the Israelites."
+    "str2": "Of Hebrew origin; Jacob, the progenitor of the Israelites.",
+    "num": 2384
   },
   {
     "word": "heard that",
@@ -21,7 +23,8 @@
     "translit": "(akousas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "[there] was",
@@ -29,7 +32,8 @@
     "translit": "(onta)",
     "parse": "Verb - Present Participle Active - Accusative Neuter Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "grain",
@@ -37,7 +41,8 @@
     "translit": "(sitia)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 4621:  ",
-    "str2": "Wheat, grain. Also plural irregular neuter sita of uncertain derivation; grain, especially wheat."
+    "str2": "Wheat, grain. Also plural irregular neuter sita of uncertain derivation; grain, especially wheat.",
+    "num": 4621
   },
   {
     "word": "in",
@@ -45,7 +50,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "Egypt,",
@@ -53,7 +59,8 @@
     "translit": "(Aigypton)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 125:  ",
-    "str2": "Egypt. Of uncertain derivation."
+    "str2": "Egypt. Of uncertain derivation.",
+    "num": 125
   },
   {
     "word": "he sent",
@@ -61,7 +68,8 @@
     "translit": "(exapesteilen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1821:  ",
-    "str2": "From ek and apostello; to send away forth, i.e. to despatch, or to dismiss."
+    "str2": "From ek and apostello; to send away forth, i.e. to despatch, or to dismiss.",
+    "num": 1821
   },
   {
     "word": "our",
@@ -69,7 +77,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "fathers",
@@ -77,7 +86,8 @@
     "translit": "(pateras)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "[on their] first [visit].",
@@ -85,6 +95,7 @@
     "translit": "(prōton)",
     "parse": "Adverb - Superlative",
     "str": "Strong's 4412:  ",
-    "str2": "First, in the first place, before, formerly. Neuter of protos as adverb; firstly."
+    "str2": "First, in the first place, before, formerly. Neuter of protos as adverb; firstly.",
+    "num": 4412
   }
 ]

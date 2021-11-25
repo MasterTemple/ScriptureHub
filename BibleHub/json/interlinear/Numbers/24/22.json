@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "Kain",
@@ -13,7 +14,8 @@
     "translit": "(qā·yin)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 7014:  ",
-    "str2": "Cain -- a city in southern Judah"
+    "str2": "Cain -- a city in southern Judah",
+    "num": 7014
   },
   {
     "word": "will be",
@@ -21,7 +23,8 @@
     "translit": "(yih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "destroyed",
@@ -29,7 +32,8 @@
     "translit": "(lə·ḇā·‘êr)",
     "parse": "Preposition-l | Verb - Piel - Infinitive construct",
     "str": "Strong's 1197:  ",
-    "str2": "To kindle, consume,   to be, brutish"
+    "str2": "To kindle, consume,   to be, brutish",
+    "num": 1197
   },
   {
     "word": "when",
@@ -37,7 +41,8 @@
     "translit": "(‘aḏ-)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "Asshur",
@@ -45,7 +50,8 @@
     "translit": "(’aš·šūr)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 804:  ",
-    "str2": "Ashshur"
+    "str2": "Ashshur",
+    "num": 804
   },
   {
     "word": "takes you captive.”",
@@ -53,6 +59,7 @@
     "translit": "(tiš·be·kā)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular | second person masculine singular",
     "str": "Strong's 7617:  ",
-    "str2": "To transport into captivity"
+    "str2": "To transport into captivity",
+    "num": 7617
   }
 ]

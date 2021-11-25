@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "as",
@@ -13,7 +14,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "you eat,",
@@ -21,7 +23,8 @@
     "translit": "(phagein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 5315:  ",
-    "str2": "A primary verb; to eat."
+    "str2": "A primary verb; to eat.",
+    "num": 5315
   },
   {
     "word": "many [of you]",
@@ -29,7 +32,8 @@
     "translit": "(hekastos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1538:  ",
-    "str2": "Each (of more than two), every one. As if a superlative of hekas; each or every."
+    "str2": "Each (of more than two), every one. As if a superlative of hekas; each or every.",
+    "num": 1538
   },
   {
     "word": "proceed with",
@@ -37,7 +41,8 @@
     "translit": "(prolambanei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 4301:  ",
-    "str2": "From pro and lambano; to take in advance, i.e. eat before others have an opportunity; to anticipate, surprise."
+    "str2": "From pro and lambano; to take in advance, i.e. eat before others have an opportunity; to anticipate, surprise.",
+    "num": 4301
   },
   {
     "word": "[your]",
@@ -45,7 +50,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "own",
@@ -53,7 +59,8 @@
     "translit": "(idion)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 2398:  ",
-    "str2": "Pertaining to self, i.e. One's own; by implication, private or separate."
+    "str2": "Pertaining to self, i.e. One's own; by implication, private or separate.",
+    "num": 2398
   },
   {
     "word": "meal {to the exclusion of others}.",
@@ -61,7 +68,8 @@
     "translit": "(deipnon)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 1173:  ",
-    "str2": "A dinner, an afternoon or evening meal. From the same as dapane; dinner, i.e. The chief meal."
+    "str2": "A dinner, an afternoon or evening meal. From the same as dapane; dinner, i.e. The chief meal.",
+    "num": 1173
   },
   {
     "word": "While",
@@ -69,7 +77,8 @@
     "translit": "(men)",
     "parse": "Conjunction",
     "str": "Strong's 3303:  ",
-    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de."
+    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de.",
+    "num": 3303
   },
   {
     "word": "[one]",
@@ -77,7 +86,8 @@
     "translit": "(hos)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "remains hungry,",
@@ -85,7 +95,8 @@
     "translit": "(peina)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3983:  ",
-    "str2": "To be hungry, needy, desire earnestly. From the same as penes; to famish; figuratively, to crave."
+    "str2": "To be hungry, needy, desire earnestly. From the same as penes; to famish; figuratively, to crave.",
+    "num": 3983
   },
   {
     "word": "[another]",
@@ -93,7 +104,8 @@
     "translit": "(hos)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "gets drunk.",
@@ -101,6 +113,7 @@
     "translit": "(methyei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3184:  ",
-    "str2": "To be intoxicated with wine, be drunk. From another form of methe; to drink to intoxication, i.e. Get drunk."
+    "str2": "To be intoxicated with wine, be drunk. From another form of methe; to drink to intoxication, i.e. Get drunk.",
+    "num": 3184
   }
 ]

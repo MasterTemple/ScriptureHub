@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "our",
@@ -13,7 +14,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "fathers",
@@ -21,7 +23,8 @@
     "translit": "(pateres)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "who",
@@ -29,7 +32,8 @@
     "translit": "(hēn)",
     "parse": "Personal / Relative Pronoun - Accusative Feminine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "received it",
@@ -37,7 +41,8 @@
     "translit": "(diadexamenoi)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Plural",
     "str": "Strong's 1237:  ",
-    "str2": "To receive in my turn, receive through another. From dia and dechomai; to receive in turn, i.e. succeed to."
+    "str2": "To receive in my turn, receive through another. From dia and dechomai; to receive in turn, i.e. succeed to.",
+    "num": 1237
   },
   {
     "word": "brought [it in]",
@@ -45,7 +50,8 @@
     "translit": "(eisēgagon)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1521:  ",
-    "str2": "To lead in, bring in, introduce. From eis and ago; to introduce."
+    "str2": "To lead in, bring in, introduce. From eis and ago; to introduce.",
+    "num": 1521
   },
   {
     "word": "with",
@@ -53,7 +59,8 @@
     "translit": "(meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "Joshua",
@@ -61,7 +68,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "[when]",
@@ -69,7 +77,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "they dispossessed",
@@ -77,7 +86,8 @@
     "translit": "(kataschesei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 2697:  ",
-    "str2": "A possession, holding fast. From katecho; a holding down, i.e. Occupancy."
+    "str2": "A possession, holding fast. From katecho; a holding down, i.e. Occupancy.",
+    "num": 2697
   },
   {
     "word": "the",
@@ -85,7 +95,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "nations",
@@ -93,7 +104,8 @@
     "translit": "(ethnōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 1484:  ",
-    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one."
+    "str2": "Probably from etho; a race, i.e. A tribe; specially, a foreign one.",
+    "num": 1484
   },
   {
     "word": "God",
@@ -101,7 +113,8 @@
     "translit": "(Theos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "drove out",
@@ -109,7 +122,8 @@
     "translit": "(exōsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1856:  ",
-    "str2": "Or exotho ex-o'-tho from ek and otheo; to expel; by implication, to propel."
+    "str2": "Or exotho ex-o'-tho from ek and otheo; to expel; by implication, to propel.",
+    "num": 1856
   },
   {
     "word": "before",
@@ -117,7 +131,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "[them].",
@@ -125,7 +140,8 @@
     "translit": "(paterōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "[It remained] until",
@@ -133,7 +149,8 @@
     "translit": "(heōs)",
     "parse": "Preposition",
     "str": "Strong's 2193:  ",
-    "str2": "A conjunction, preposition and adverb of continuance, until."
+    "str2": "A conjunction, preposition and adverb of continuance, until.",
+    "num": 2193
   },
   {
     "word": "the",
@@ -141,7 +158,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "time",
@@ -149,7 +167,8 @@
     "translit": "(hēmerōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "of David,",
@@ -157,6 +176,7 @@
     "translit": "(Dauid)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 1138:  ",
-    "str2": "David, King of Israel. Of Hebrew origin; Dabid, the Israelite king."
+    "str2": "David, King of Israel. Of Hebrew origin; Dabid, the Israelite king.",
+    "num": 1138
   }
 ]

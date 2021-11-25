@@ -3,8 +3,17 @@ var rightContent = "interlinear"
 async function get(url){
   return new Promise( (resolve, reject) => {
       fetch(url)
-      .then(response => response.json())
-      .then(data => resolve(data));
+      .then(response => {
+        try{
+          // response.json()
+          let res = response.json()
+          resolve(res)
+        }
+        catch{
+          resolve()
+        }
+      })
+      // .then(data => resolve(data));
   })
 }
 
@@ -30,7 +39,7 @@ async function searchVerse(verse) {
   //   <p>${str2}</p>
   //   `
   // })
-  let translations = ["web", "kjv", "bbe", "oeb-us"]
+  let translations = ["web", "kjv", "bbe", ]//"oeb-us"]
   let left = document.querySelector(".first")
   left.innerHTML = ""
   for(let translation of translations){
@@ -82,9 +91,11 @@ async function updateInterLinearContent(verse) {
 }
 
 function changeRightContent(iconClicked) {
-  document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(40%) opacity(0.7)";
+  // document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(40%) opacity(0.7)";
+  document.getElementById(`${rightContent}-icon`).classList.remove("selected")
   rightContent = iconClicked
-  document.getElementById(`${iconClicked}-icon`).style.filter = "grayscale(0%) opacity(1)";
+  // document.getElementById(`${iconClicked}-icon`).style.filter = "grayscale(0%) opacity(1)";
+  document.getElementById(`${iconClicked}-icon`).classList.add("selected")
 
   // document.getElementById(`${iconClicked}-icon`).value // IM HERE
   updateRightContent(document.getElementById("search").value)
@@ -94,7 +105,9 @@ document.querySelector("div.passage-col.version-NKJV > div.passage-text > div > 
 document.addEventListener("DOMContentLoaded", async() => {
   searchVerse("John 1:1")
   document.getElementById("search").value = "John 1:1"
-  document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(0%) opacity(1)";
+  // document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(0%) opacity(1)";
+  document.getElementById(`${rightContent}-icon`).classList.add("selected")
+  console.log(document.getElementById(`${rightContent}-icon`).classList);
   // document.getElementById(`${rightContent}-icon`).style.color = "var(--accent-color)"
   // document.getElementById(`${rightContent}-icon`).style["border-bottom"] = "2px solid var(--accent-color);"
 })

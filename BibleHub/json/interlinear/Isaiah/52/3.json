@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "this is what",
@@ -13,7 +14,8 @@
     "translit": "(ḵōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the LORD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "says:",
@@ -29,7 +32,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“You were sold",
@@ -37,7 +41,8 @@
     "translit": "(nim·kar·tem)",
     "parse": "Verb - Nifal - Perfect - second person masculine plural",
     "str": "Strong's 4376:  ",
-    "str2": "To sell"
+    "str2": "To sell",
+    "num": 4376
   },
   {
     "word": "for nothing,",
@@ -45,7 +50,8 @@
     "translit": "(ḥin·nām)",
     "parse": "Adverb",
     "str": "Strong's 2600:  ",
-    "str2": "Gratis, devoid of cost, reason, advantage"
+    "str2": "Gratis, devoid of cost, reason, advantage",
+    "num": 2600
   },
   {
     "word": "and without",
@@ -53,7 +59,8 @@
     "translit": "(wə·lō)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "money",
@@ -61,7 +68,8 @@
     "translit": "(ḇə·ḵe·sep̄)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 3701:  ",
-    "str2": "Silver, money"
+    "str2": "Silver, money",
+    "num": 3701
   },
   {
     "word": "you will be redeemed.",
@@ -69,6 +77,7 @@
     "translit": "(tig·gā·’ê·lū)",
     "parse": "Verb - Nifal - Imperfect - second person masculine plural",
     "str": "Strong's 1350:  ",
-    "str2": "To redeem, act as kinsman"
+    "str2": "To redeem, act as kinsman",
+    "num": 1350
   }
 ]

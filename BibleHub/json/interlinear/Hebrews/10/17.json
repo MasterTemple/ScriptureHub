@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "“Their",
@@ -13,7 +14,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "sins",
@@ -21,7 +23,8 @@
     "translit": "(hamartiōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 266:  ",
-    "str2": "From hamartano; a sin."
+    "str2": "From hamartano; a sin.",
+    "num": 266
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "lawless acts",
@@ -37,7 +41,8 @@
     "translit": "(anomiōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 458:  ",
-    "str2": "Lawlessness, iniquity, disobedience, sin. From anomos; illegality, i.e. Violation of law or wickedness."
+    "str2": "Lawlessness, iniquity, disobedience, sin. From anomos; illegality, i.e. Violation of law or wickedness.",
+    "num": 458
   },
   {
     "word": "I will remember",
@@ -45,7 +50,8 @@
     "translit": "(mnēsthēsomai)",
     "parse": "Verb - Future Indicative Passive - 1st Person Singular",
     "str": "Strong's 3403:  ",
-    "str2": "To remember, call to mind, recall, mention. A prolonged form of mnaomai; to remind, i.e. to recall to mind."
+    "str2": "To remember, call to mind, recall, mention. A prolonged form of mnaomai; to remind, i.e. to recall to mind.",
+    "num": 3403
   },
   {
     "word": "no",
@@ -53,7 +59,8 @@
     "translit": "(ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "more.”",
@@ -61,6 +68,7 @@
     "translit": "(eti)",
     "parse": "Adverb",
     "str": "Strong's 2089:  ",
-    "str2": "(a) of time: still, yet, even now, (b) of degree: even, further, more, in addition. Perhaps akin to etos; 'yet, ' still."
+    "str2": "(a) of time: still, yet, even now, (b) of degree: even, further, more, in addition. Perhaps akin to etos; 'yet, ' still.",
+    "num": 2089
   }
 ]

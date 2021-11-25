@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "someone",
@@ -13,7 +14,8 @@
     "translit": "(ne·p̄eš)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   },
   {
     "word": "sins",
@@ -21,7 +23,8 @@
     "translit": "(ṯe·ḥĕ·ṭā)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 2398:  ",
-    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn"
+    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn",
+    "num": 2398
   },
   {
     "word": "and acts",
@@ -29,7 +32,8 @@
     "translit": "(ū·mā·‘ă·lāh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person feminine singular",
     "str": "Strong's 4603:  ",
-    "str2": "To cover up, to act covertly, treacherously"
+    "str2": "To cover up, to act covertly, treacherously",
+    "num": 4603
   },
   {
     "word": "unfaithfully",
@@ -37,7 +41,8 @@
     "translit": "(ma·‘al)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4604:  ",
-    "str2": "An unfaithful or treacherous act"
+    "str2": "An unfaithful or treacherous act",
+    "num": 4604
   },
   {
     "word": "against the LORD",
@@ -45,7 +50,8 @@
     "translit": "(Yah·weh)",
     "parse": "Preposition-b | Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "by deceiving",
@@ -53,7 +59,8 @@
     "translit": "(wə·ḵi·ḥêš)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 3584:  ",
-    "str2": "To disappoint, deceive, fail, grow lean"
+    "str2": "To disappoint, deceive, fail, grow lean",
+    "num": 3584
   },
   {
     "word": "his neighbor",
@@ -61,7 +68,8 @@
     "translit": "(ba·‘ă·mî·ṯōw)",
     "parse": "Preposition-b | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 5997:  ",
-    "str2": "Companionship, a comrade, kindred man"
+    "str2": "Companionship, a comrade, kindred man",
+    "num": 5997
   },
   {
     "word": "in regard to a deposit",
@@ -69,7 +77,8 @@
     "translit": "(bə·p̄iq·qā·ḏō·wn)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 6487:  ",
-    "str2": "A deposit, store"
+    "str2": "A deposit, store",
+    "num": 6487
   },
   {
     "word": "or security",
@@ -77,7 +86,8 @@
     "translit": "(ḇiṯ·śū·meṯ)",
     "parse": "Preposition-b | Noun - feminine singular construct",
     "str": "Strong's 8667:  ",
-    "str2": "A deposit, pledging"
+    "str2": "A deposit, pledging",
+    "num": 8667
   },
   {
     "word": "entrusted to him",
@@ -85,7 +95,8 @@
     "translit": "(yāḏ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "or",
@@ -93,7 +104,8 @@
     "translit": "(’ōw-)",
     "parse": "Conjunction",
     "str": "Strong's 176:  ",
-    "str2": "Desire, if"
+    "str2": "Desire, if",
+    "num": 176
   },
   {
     "word": "stolen,",
@@ -101,7 +113,8 @@
     "translit": "(ḇə·ḡā·zêl)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 1498:  ",
-    "str2": "Robbery, plunder"
+    "str2": "Robbery, plunder",
+    "num": 1498
   },
   {
     "word": "or",
@@ -109,7 +122,8 @@
     "translit": "(’ōw)",
     "parse": "Conjunction",
     "str": "Strong's 176:  ",
-    "str2": "Desire, if"
+    "str2": "Desire, if",
+    "num": 176
   },
   {
     "word": "if he extorts",
@@ -117,7 +131,8 @@
     "translit": "(‘ā·šaq)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 6231:  ",
-    "str2": "To press upon, oppress, defraud, violate, overflow"
+    "str2": "To press upon, oppress, defraud, violate, overflow",
+    "num": 6231
   },
   {
     "word": "his neighbor",
@@ -125,6 +140,7 @@
     "translit": "(‘ă·mî·ṯōw)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 5997:  ",
-    "str2": "Companionship, a comrade, kindred man"
+    "str2": "Companionship, a comrade, kindred man",
+    "num": 5997
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Herod",
@@ -13,7 +14,8 @@
     "translit": "(Hērōdēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2264:  ",
-    "str2": "Compound of heros and eidos; heroic; Herod, the name of four Jewish kings."
+    "str2": "Compound of heros and eidos; heroic; Herod, the name of four Jewish kings.",
+    "num": 2264
   },
   {
     "word": "heard this,",
@@ -21,7 +23,8 @@
     "translit": "(Akousas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "he said,",
@@ -29,7 +32,8 @@
     "translit": "(elegen)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“John,",
@@ -37,7 +41,8 @@
     "translit": "(Iōannēn)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2491:  ",
-    "str2": "Of Hebrew origin; Joannes, the name of four Israelites."
+    "str2": "Of Hebrew origin; Joannes, the name of four Israelites.",
+    "num": 2491
   },
   {
     "word": "whom",
@@ -45,7 +50,8 @@
     "translit": "(Hon)",
     "parse": "Personal / Relative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "I",
@@ -53,7 +59,8 @@
     "translit": "(egō)",
     "parse": "Personal / Possessive Pronoun - Nominative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "beheaded,",
@@ -61,7 +68,8 @@
     "translit": "(apekephalisa)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 607:  ",
-    "str2": "To behead. From apo and kephale; to decapitate."
+    "str2": "To behead. From apo and kephale; to decapitate.",
+    "num": 607
   },
   {
     "word": "has been raised [from the dead]!”",
@@ -69,6 +77,7 @@
     "translit": "(ēgerthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 1453:  ",
-    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse."
+    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse.",
+    "num": 1453
   }
 ]

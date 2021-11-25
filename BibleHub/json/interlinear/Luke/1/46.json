@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Mary",
@@ -13,7 +14,8 @@
     "translit": "(Mariam)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 3137:  ",
-    "str2": "Or Mariam of Hebrew origin; Maria or Mariam, the name of six Christian females."
+    "str2": "Or Mariam of Hebrew origin; Maria or Mariam, the name of six Christian females.",
+    "num": 3137
   },
   {
     "word": "said:",
@@ -21,7 +23,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“My",
@@ -29,7 +32,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "soul",
@@ -37,7 +41,8 @@
     "translit": "(psychē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 5590:  ",
-    "str2": "From psucho; breath, i.e. spirit, abstractly or concretely."
+    "str2": "From psucho; breath, i.e. spirit, abstractly or concretely.",
+    "num": 5590
   },
   {
     "word": "magnifies",
@@ -45,7 +50,8 @@
     "translit": "(Megalynei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3170:  ",
-    "str2": "(a) I enlarge, lengthen, (b) I increase, magnify, extol. From megas; to make great, i.e. Increase or extol."
+    "str2": "(a) I enlarge, lengthen, (b) I increase, magnify, extol. From megas; to make great, i.e. Increase or extol.",
+    "num": 3170
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord,",
@@ -61,6 +68,7 @@
     "translit": "(Kyrion)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   }
 ]

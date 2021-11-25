@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Philip",
@@ -13,7 +14,8 @@
     "translit": "(Philippos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5376:  ",
-    "str2": "From philos and hippos; fond of horses; Philippus, the name of four Israelites."
+    "str2": "From philos and hippos; fond of horses; Philippus, the name of four Israelites.",
+    "num": 5376
   },
   {
     "word": "was",
@@ -21,7 +23,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "from",
@@ -29,7 +32,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "Bethsaida,",
@@ -37,7 +41,8 @@
     "translit": "(Bēthsaida)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 966:  ",
-    "str2": "Of Chaldee origin; fishing-house; Bethsaida, a place in Palestine."
+    "str2": "Of Chaldee origin; fishing-house; Bethsaida, a place in Palestine.",
+    "num": 966
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "[same] town",
@@ -53,7 +59,8 @@
     "translit": "(poleōs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4172:  ",
-    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town."
+    "str2": "A city, the inhabitants of a city. Probably from the same as polemos, or perhaps from polus; a town.",
+    "num": 4172
   },
   {
     "word": "as Andrew",
@@ -61,7 +68,8 @@
     "translit": "(Andreou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 406:  ",
-    "str2": "From aner; manly; Andreas, an Israelite."
+    "str2": "From aner; manly; Andreas, an Israelite.",
+    "num": 406
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Peter.",
@@ -77,6 +86,7 @@
     "translit": "(Petrou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 4074:  ",
-    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle."
+    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle.",
+    "num": 4074
   }
 ]

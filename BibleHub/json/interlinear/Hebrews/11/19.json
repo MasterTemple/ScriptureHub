@@ -5,7 +5,8 @@
     "translit": "(logisamenos)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Singular",
     "str": "Strong's 3049:  ",
-    "str2": "To reckon, count, charge with; reason, decide, conclude; think, suppose. "
+    "str2": "To reckon, count, charge with; reason, decide, conclude; think, suppose. ",
+    "num": 3049
   },
   {
     "word": "that",
@@ -13,7 +14,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "God",
@@ -21,7 +23,8 @@
     "translit": "(Theos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "could",
@@ -29,7 +32,8 @@
     "translit": "(dynatos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 1415:  ",
-    "str2": "(a) of persons: powerful, able, (b) of things: possible. From dunamai; powerful or capable; neuter possible."
+    "str2": "(a) of persons: powerful, able, (b) of things: possible. From dunamai; powerful or capable; neuter possible.",
+    "num": 1415
   },
   {
     "word": "raise",
@@ -37,7 +41,8 @@
     "translit": "(egeirein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 1453:  ",
-    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse."
+    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse.",
+    "num": 1453
   },
   {
     "word": "[the] dead,",
@@ -45,7 +50,8 @@
     "translit": "(nekrōn)",
     "parse": "Adjective - Genitive Masculine Plural",
     "str": "Strong's 3498:  ",
-    "str2": "(a) adj: dead, lifeless, subject to death, mortal, (b) noun: a dead body, a corpse. From an apparently primary nekus; dead."
+    "str2": "(a) adj: dead, lifeless, subject to death, mortal, (b) noun: a dead body, a corpse. From an apparently primary nekus; dead.",
+    "num": 3498
   },
   {
     "word": "[and] in",
@@ -53,7 +59,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "a sense,",
@@ -61,7 +68,8 @@
     "translit": "(parabolē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3850:  ",
-    "str2": "From paraballo; a similitude, i.e. fictitious narrative, apothegm or adage."
+    "str2": "From paraballo; a similitude, i.e. fictitious narrative, apothegm or adage.",
+    "num": 3850
   },
   {
     "word": "he did receive",
@@ -69,7 +77,8 @@
     "translit": "(ekomisato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 2865:  ",
-    "str2": "From a primary komeo; properly, to provide for, i.e. to carry off."
+    "str2": "From a primary komeo; properly, to provide for, i.e. to carry off.",
+    "num": 2865
   },
   {
     "word": "[Isaac]",
@@ -77,7 +86,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "back",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "from [death].",
@@ -93,6 +104,7 @@
     "translit": "(hothen)",
     "parse": "Adverb",
     "str": "Strong's 3606:  ",
-    "str2": "From hos with the directive enclitic of source; from which place or source or cause."
+    "str2": "From hos with the directive enclitic of source; from which place or source or cause.",
+    "num": 3606
   }
 ]

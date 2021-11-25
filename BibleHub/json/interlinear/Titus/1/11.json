@@ -5,7 +5,8 @@
     "translit": "(hous)",
     "parse": "Personal / Relative Pronoun - Accusative Masculine Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "must",
@@ -13,7 +14,8 @@
     "translit": "(dei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1163:  ",
-    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary."
+    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary.",
+    "num": 1163
   },
   {
     "word": "be silenced.",
@@ -21,7 +23,8 @@
     "translit": "(epistomizein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 1993:  ",
-    "str2": "To muzzle, silence, stop the mouth. From epi and stoma; to put something over the mouth, i.e. to silence."
+    "str2": "To muzzle, silence, stop the mouth. From epi and stoma; to put something over the mouth, i.e. to silence.",
+    "num": 1993
   },
   {
     "word": "For [the] sake of",
@@ -29,7 +32,8 @@
     "translit": "(charin)",
     "parse": "Preposition",
     "str": "Strong's 5484:  ",
-    "str2": "Accusative case of charis as preposition; through favor of, i.e. On account of."
+    "str2": "Accusative case of charis as preposition; through favor of, i.e. On account of.",
+    "num": 5484
   },
   {
     "word": "dishonorable",
@@ -37,7 +41,8 @@
     "translit": "(aischrou)",
     "parse": "Adjective - Genitive Neuter Singular",
     "str": "Strong's 150:  ",
-    "str2": "Base, disgraceful. From the same as aischunomai; shameful, i.e. Base."
+    "str2": "Base, disgraceful. From the same as aischunomai; shameful, i.e. Base.",
+    "num": 150
   },
   {
     "word": "gain,",
@@ -45,7 +50,8 @@
     "translit": "(kerdous)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 2771:  ",
-    "str2": "Gain, advantage, profit. Of uncertain affinity; gain."
+    "str2": "Gain, advantage, profit. Of uncertain affinity; gain.",
+    "num": 2771
   },
   {
     "word": "[they]",
@@ -53,7 +59,8 @@
     "translit": "(hoitines)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3748:  ",
-    "str2": "Whosoever, whichsoever, whatsoever. "
+    "str2": "Whosoever, whichsoever, whatsoever. ",
+    "num": 3748
   },
   {
     "word": "undermine",
@@ -61,7 +68,8 @@
     "translit": "(anatrepousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 396:  ",
-    "str2": "To overturn (lit. or met.), subvert, overthrow, corrupt. From ana and the base of trope; to overturn."
+    "str2": "To overturn (lit. or met.), subvert, overthrow, corrupt. From ana and the base of trope; to overturn.",
+    "num": 396
   },
   {
     "word": "entire",
@@ -69,7 +77,8 @@
     "translit": "(holous)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 3650:  ",
-    "str2": "All, the whole, entire, complete. A primary word; 'whole' or 'all', i.e. Complete, especially as noun or adverb."
+    "str2": "All, the whole, entire, complete. A primary word; 'whole' or 'all', i.e. Complete, especially as noun or adverb.",
+    "num": 3650
   },
   {
     "word": "households",
@@ -77,7 +86,8 @@
     "translit": "(oikous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 3624:  ",
-    "str2": "A dwelling; by implication, a family."
+    "str2": "A dwelling; by implication, a family.",
+    "num": 3624
   },
   {
     "word": "[and] teach",
@@ -85,7 +95,8 @@
     "translit": "(didaskontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 1321:  ",
-    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach."
+    "str2": "To teach, direct, admonish. A prolonged form of a primary verb dao; to teach.",
+    "num": 1321
   },
   {
     "word": "things",
@@ -93,7 +104,8 @@
     "translit": "(ha)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "they should",
@@ -101,7 +113,8 @@
     "translit": "(dei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1163:  ",
-    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary."
+    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary.",
+    "num": 1163
   },
   {
     "word": "not.",
@@ -109,6 +122,7 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   }
 ]

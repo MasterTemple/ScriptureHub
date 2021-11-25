@@ -5,7 +5,8 @@
     "translit": "(ham·mal·kāh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 4436:  ",
-    "str2": "Queen -- a queen"
+    "str2": "Queen -- a queen",
+    "num": 4436
   },
   {
     "word": "Esther",
@@ -13,7 +14,8 @@
     "translit": "(’es·têr)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 635:  ",
-    "str2": "Esther -- 'star', Ahasuerus' queen who delivered Israel"
+    "str2": "Esther -- 'star', Ahasuerus' queen who delivered Israel",
+    "num": 635
   },
   {
     "word": "daughter",
@@ -21,7 +23,8 @@
     "translit": "(ḇaṯ-)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 1323:  ",
-    "str2": "A daughter"
+    "str2": "A daughter",
+    "num": 1323
   },
   {
     "word": "of Abihail,",
@@ -29,7 +32,8 @@
     "translit": "(’ă·ḇî·ḥa·yil)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 32:  ",
-    "str2": "Abihail -- 'my father is might', an Israelite name"
+    "str2": "Abihail -- 'my father is might', an Israelite name",
+    "num": 32
   },
   {
     "word": "along with Mordecai",
@@ -37,7 +41,8 @@
     "translit": "(ū·mā·rə·do·ḵay)",
     "parse": "Conjunctive waw | Noun - proper - masculine singular",
     "str": "Strong's 4782:  ",
-    "str2": "Mordecai -- a companion of Zerubbabel, also a cousin of Esther"
+    "str2": "Mordecai -- a companion of Zerubbabel, also a cousin of Esther",
+    "num": 4782
   },
   {
     "word": "the Jew,",
@@ -45,7 +50,8 @@
     "translit": "(hay·yə·hū·ḏî)",
     "parse": "Article | Noun - proper - masculine singular",
     "str": "Strong's 3064:  ",
-    "str2": "Jews -- Jewish"
+    "str2": "Jews -- Jewish",
+    "num": 3064
   },
   {
     "word": "wrote",
@@ -53,7 +59,8 @@
     "translit": "(wat·tiḵ·tōḇ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
     "str": "Strong's 3789:  ",
-    "str2": "To grave, to write"
+    "str2": "To grave, to write",
+    "num": 3789
   },
   {
     "word": "with full",
@@ -61,7 +68,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "authority",
@@ -69,7 +77,8 @@
     "translit": "(tō·qep̄)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 8633:  ",
-    "str2": "Power, strength, energy"
+    "str2": "Power, strength, energy",
+    "num": 8633
   },
   {
     "word": "to confirm",
@@ -77,7 +86,8 @@
     "translit": "(lə·qay·yêm)",
     "parse": "Preposition-l | Verb - Piel - Infinitive construct",
     "str": "Strong's 6965:  ",
-    "str2": "To arise, stand up, stand"
+    "str2": "To arise, stand up, stand",
+    "num": 6965
   },
   {
     "word": "this",
@@ -85,7 +95,8 @@
     "translit": "(haz·zōṯ)",
     "parse": "Article | Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "second",
@@ -93,7 +104,8 @@
     "translit": "(haš·šê·nîṯ)",
     "parse": "Article | Number - ordinal feminine singular",
     "str": "Strong's 8145:  ",
-    "str2": "Second (an ordinal number)"
+    "str2": "Second (an ordinal number)",
+    "num": 8145
   },
   {
     "word": "letter",
@@ -101,7 +113,8 @@
     "translit": "(’ig·ge·reṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 107:  ",
-    "str2": "An epistle"
+    "str2": "An epistle",
+    "num": 107
   },
   {
     "word": "concerning Purim.",
@@ -109,6 +122,7 @@
     "translit": "(hap·pū·rîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 6332:  ",
-    "str2": "a lot', a Jewish feast"
+    "str2": "a lot', a Jewish feast",
+    "num": 6332
   }
 ]

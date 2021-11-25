@@ -5,7 +5,8 @@
     "translit": "(’aḵ)",
     "parse": "Adverb",
     "str": "Strong's 389:  ",
-    "str2": "A particle of affirmation, surely"
+    "str2": "A particle of affirmation, surely",
+    "num": 389
   },
   {
     "word": "no one",
@@ -13,7 +14,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "stretches out",
@@ -21,7 +23,8 @@
     "translit": "(yiš·laḥ-)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 7971:  ",
-    "str2": "To send away, for, out"
+    "str2": "To send away, for, out",
+    "num": 7971
   },
   {
     "word": "his hand",
@@ -29,7 +32,8 @@
     "translit": "(yāḏ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "to a ruined man",
@@ -37,7 +41,8 @@
     "translit": "(ḇə·‘î)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 1164:  ",
-    "str2": "A prayer"
+    "str2": "A prayer",
+    "num": 1164
   },
   {
     "word": "when",
@@ -45,7 +50,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "he cries for help",
@@ -53,7 +59,8 @@
     "translit": "(šū·a‘)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7769:  ",
-    "str2": "A cry for help"
+    "str2": "A cry for help",
+    "num": 7769
   },
   {
     "word": "in his distress.",
@@ -61,6 +68,7 @@
     "translit": "(bə·p̄î·ḏōw)",
     "parse": "Preposition-b | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 6365:  ",
-    "str2": "Ruin, disaster"
+    "str2": "Ruin, disaster",
+    "num": 6365
   }
 ]

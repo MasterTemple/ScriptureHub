@@ -5,7 +5,8 @@
     "translit": "(’ă·nî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "knew you",
@@ -13,7 +14,8 @@
     "translit": "(yə·ḏa‘·tî·ḵā)",
     "parse": "Verb - Qal - Perfect - first person common singular | second person masculine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "in the wilderness,",
@@ -21,7 +23,8 @@
     "translit": "(bam·miḏ·bār)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 4057:  ",
-    "str2": "A pasture, a desert, speech"
+    "str2": "A pasture, a desert, speech",
+    "num": 4057
   },
   {
     "word": "in the land",
@@ -29,7 +32,8 @@
     "translit": "(bə·’e·reṣ)",
     "parse": "Preposition-b | Noun - feminine singular construct",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "of drought.",
@@ -37,6 +41,7 @@
     "translit": "(tal·’u·ḇō·wṯ)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 8514:  ",
-    "str2": "Desiccation"
+    "str2": "Desiccation",
+    "num": 8514
   }
 ]

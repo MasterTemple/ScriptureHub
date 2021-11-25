@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "the ox",
@@ -13,7 +14,8 @@
     "translit": "(haš·šō·wr)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 7794:  ",
-    "str2": "A head of cattle (bullock, ox, etcetera)"
+    "str2": "A head of cattle (bullock, ox, etcetera)",
+    "num": 7794
   },
   {
     "word": "gores",
@@ -21,7 +23,8 @@
     "translit": "(yig·gaḥ)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5055:  ",
-    "str2": "To butt with the horns, to war against"
+    "str2": "To butt with the horns, to war against",
+    "num": 5055
   },
   {
     "word": "a manservant",
@@ -29,7 +32,8 @@
     "translit": "(‘e·ḇeḏ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5650:  ",
-    "str2": "Slave, servant"
+    "str2": "Slave, servant",
+    "num": 5650
   },
   {
     "word": "or",
@@ -37,7 +41,8 @@
     "translit": "(’ōw)",
     "parse": "Conjunction",
     "str": "Strong's 176:  ",
-    "str2": "Desire, if"
+    "str2": "Desire, if",
+    "num": 176
   },
   {
     "word": "maidservant,",
@@ -45,7 +50,8 @@
     "translit": "(’ā·māh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 519:  ",
-    "str2": "A maidservant, female slave"
+    "str2": "A maidservant, female slave",
+    "num": 519
   },
   {
     "word": "[the owner] must pay",
@@ -53,7 +59,8 @@
     "translit": "(yit·tên)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "thirty",
@@ -61,7 +68,8 @@
     "translit": "(šə·lō·šîm)",
     "parse": "Number - common plural",
     "str": "Strong's 7970:  ",
-    "str2": "Thirty, thirtieth"
+    "str2": "Thirty, thirtieth",
+    "num": 7970
   },
   {
     "word": "shekels",
@@ -69,7 +77,8 @@
     "translit": "(šə·qā·lîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 8255:  ",
-    "str2": "A weight, a commercial standard"
+    "str2": "A weight, a commercial standard",
+    "num": 8255
   },
   {
     "word": "of silver",
@@ -77,7 +86,8 @@
     "translit": "(ke·sep̄)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3701:  ",
-    "str2": "Silver, money"
+    "str2": "Silver, money",
+    "num": 3701
   },
   {
     "word": "to the master of that servant,",
@@ -85,7 +95,8 @@
     "translit": "(la·ḏō·nāw)",
     "parse": "Preposition-l | Noun - masculine plural construct | third person masculine singular",
     "str": "Strong's 113:  ",
-    "str2": "Sovereign, controller"
+    "str2": "Sovereign, controller",
+    "num": 113
   },
   {
     "word": "and the ox",
@@ -93,7 +104,8 @@
     "translit": "(wə·haš·šō·wr)",
     "parse": "Conjunctive waw, Article | Noun - masculine singular",
     "str": "Strong's 7794:  ",
-    "str2": "A head of cattle (bullock, ox, etcetera)"
+    "str2": "A head of cattle (bullock, ox, etcetera)",
+    "num": 7794
   },
   {
     "word": "must be stoned.",
@@ -101,6 +113,7 @@
     "translit": "(yis·sā·qêl)",
     "parse": "Verb - Nifal - Imperfect - third person masculine singular",
     "str": "Strong's 5619:  ",
-    "str2": "To stone, put to death by stoning"
+    "str2": "To stone, put to death by stoning",
+    "num": 5619
   }
 ]

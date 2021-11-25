@@ -5,7 +5,8 @@
     "translit": "(‘al)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the rivers",
@@ -13,7 +14,8 @@
     "translit": "(na·hă·rō·wṯ)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 5104:  ",
-    "str2": "A stream, prosperity"
+    "str2": "A stream, prosperity",
+    "num": 5104
   },
   {
     "word": "of Babylon",
@@ -21,7 +23,8 @@
     "translit": "(bā·ḇel)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 894:  ",
-    "str2": "Babylon -- an eastern Mediterranean empire and its capital city"
+    "str2": "Babylon -- an eastern Mediterranean empire and its capital city",
+    "num": 894
   },
   {
     "word": "we sat",
@@ -29,7 +32,8 @@
     "translit": "(yā·šaḇ·nū)",
     "parse": "Verb - Qal - Perfect - first person common plural",
     "str": "Strong's 3427:  ",
-    "str2": "To sit down, to dwell, to remain, to settle, to marry"
+    "str2": "To sit down, to dwell, to remain, to settle, to marry",
+    "num": 3427
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(gam-)",
     "parse": "Conjunction",
     "str": "Strong's 1571:  ",
-    "str2": "Assemblage, also, even, yea, though, both, and"
+    "str2": "Assemblage, also, even, yea, though, both, and",
+    "num": 1571
   },
   {
     "word": "wept",
@@ -45,7 +50,8 @@
     "translit": "(bā·ḵî·nū)",
     "parse": "Verb - Qal - Perfect - first person common plural",
     "str": "Strong's 1058:  ",
-    "str2": "To weep, to bemoan"
+    "str2": "To weep, to bemoan",
+    "num": 1058
   },
   {
     "word": "when we remembered",
@@ -53,7 +59,8 @@
     "translit": "(bə·zā·ḵə·rê·nū)",
     "parse": "Preposition-b | Verb - Qal - Infinitive construct | first person common plural",
     "str": "Strong's 2142:  ",
-    "str2": "To mark, to remember, to mention,   to be male"
+    "str2": "To mark, to remember, to mention,   to be male",
+    "num": 2142
   },
   {
     "word": "Zion.",
@@ -61,6 +68,7 @@
     "translit": "(ṣî·yō·wn)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 6726:  ",
-    "str2": "Zion -- a mountain in Jerusalem, also a name for Jerusalem"
+    "str2": "Zion -- a mountain in Jerusalem, also a name for Jerusalem",
+    "num": 6726
   }
 ]

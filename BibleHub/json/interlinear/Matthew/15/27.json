@@ -5,7 +5,8 @@
     "translit": "(Nai)",
     "parse": "Particle",
     "str": "Strong's 3483:  ",
-    "str2": "Yes, certainly, even so. A primary particle of strong affirmation; yes."
+    "str2": "Yes, certainly, even so. A primary particle of strong affirmation; yes.",
+    "num": 3483
   },
   {
     "word": "Lord,”",
@@ -13,7 +14,8 @@
     "translit": "(kyrie)",
     "parse": "Noun - Vocative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "she said,",
@@ -21,7 +23,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "“even",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(ta)",
     "parse": "Article - Nominative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "dogs",
@@ -45,7 +50,8 @@
     "translit": "(kynaria)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 2952:  ",
-    "str2": "A little dog, a house dog. Neuter of a presumed derivative of kuon; a puppy."
+    "str2": "A little dog, a house dog. Neuter of a presumed derivative of kuon; a puppy.",
+    "num": 2952
   },
   {
     "word": "eat",
@@ -53,7 +59,8 @@
     "translit": "(esthiei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2068:  ",
-    "str2": "Strengthened for a primary edo; used only in certain tenses, the rest being supplied by phago; to eat."
+    "str2": "Strengthened for a primary edo; used only in certain tenses, the rest being supplied by phago; to eat.",
+    "num": 2068
   },
   {
     "word": "the",
@@ -61,7 +68,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "crumbs",
@@ -69,7 +77,8 @@
     "translit": "(psichiōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 5589:  ",
-    "str2": "A crumb. Diminutive from a derivative of the base of psallo; a little bit or morsel."
+    "str2": "A crumb. Diminutive from a derivative of the base of psallo; a little bit or morsel.",
+    "num": 5589
   },
   {
     "word": "that fall",
@@ -77,7 +86,8 @@
     "translit": "(piptontōn)",
     "parse": "Verb - Present Participle Active - Genitive Neuter Plural",
     "str": "Strong's 4098:  ",
-    "str2": "A reduplicated and contracted form of peto; probably akin to petomai through the idea of alighting; to fall."
+    "str2": "A reduplicated and contracted form of peto; probably akin to petomai through the idea of alighting; to fall.",
+    "num": 4098
   },
   {
     "word": "from",
@@ -85,7 +95,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "their",
@@ -93,7 +104,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "master’s",
@@ -101,7 +113,8 @@
     "translit": "(kyriōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "table.”",
@@ -109,6 +122,7 @@
     "translit": "(trapezēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 5132:  ",
-    "str2": "Probably contracted from tessares and peze; a table or stool, usually for food; also a counter for money."
+    "str2": "Probably contracted from tessares and peze; a table or stool, usually for food; also a counter for money.",
+    "num": 5132
   }
 ]

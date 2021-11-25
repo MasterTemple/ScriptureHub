@@ -5,7 +5,8 @@
     "translit": "(ouchi)",
     "parse": "Adverb",
     "str": "Strong's 3780:  ",
-    "str2": "By no means, not at all. Intensive of ou; not indeed."
+    "str2": "By no means, not at all. Intensive of ou; not indeed.",
+    "num": 3780
   },
   {
     "word": "I tell",
@@ -13,7 +14,8 @@
     "translit": "(legō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "you.",
@@ -21,7 +23,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "But",
@@ -29,7 +32,8 @@
     "translit": "(all’)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "unless",
@@ -37,7 +41,8 @@
     "translit": "(ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "you repent,",
@@ -45,7 +50,8 @@
     "translit": "(metanoēte)",
     "parse": "Verb - Present Subjunctive Active - 2nd Person Plural",
     "str": "Strong's 3340:  ",
-    "str2": "From meta and noieo; to think differently or afterwards, i.e. Reconsider."
+    "str2": "From meta and noieo; to think differently or afterwards, i.e. Reconsider.",
+    "num": 3340
   },
   {
     "word": "you too will all perish.”",
@@ -53,6 +59,7 @@
     "translit": "(apoleisthe)",
     "parse": "Verb - Future Indicative Middle - 2nd Person Plural",
     "str": "Strong's 622:  ",
-    "str2": "From apo and the base of olethros; to destroy fully, literally or figuratively."
+    "str2": "From apo and the base of olethros; to destroy fully, literally or figuratively.",
+    "num": 622
   }
 ]

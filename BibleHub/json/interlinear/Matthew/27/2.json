@@ -5,7 +5,8 @@
     "translit": "(dēsantes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 1210:  ",
-    "str2": "To bind, tie, fasten; I impel, compel; I declare to be prohibited and unlawful. A primary verb; to bind."
+    "str2": "To bind, tie, fasten; I impel, compel; I declare to be prohibited and unlawful. A primary verb; to bind.",
+    "num": 1210
   },
   {
     "word": "Him,",
@@ -13,7 +14,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "led [Him] away,",
@@ -21,7 +23,8 @@
     "translit": "(apēgagon)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 520:  ",
-    "str2": "To lead, carry, take away; met: To be led astray, seduced. From apo and ago; to take off."
+    "str2": "To lead, carry, take away; met: To be led astray, seduced. From apo and ago; to take off.",
+    "num": 520
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "handed [Him] over to",
@@ -37,7 +41,8 @@
     "translit": "(paredōkan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 3860:  ",
-    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit."
+    "str2": "From para and didomi; to surrender, i.e yield up, intrust, transmit.",
+    "num": 3860
   },
   {
     "word": "Pilate",
@@ -45,7 +50,8 @@
     "translit": "(Pilatō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 4091:  ",
-    "str2": "Pilate. Of Latin origin; close-pressed, i.e. Firm; Pilatus, a Roman."
+    "str2": "Pilate. Of Latin origin; close-pressed, i.e. Firm; Pilatus, a Roman.",
+    "num": 4091
   },
   {
     "word": "the",
@@ -53,7 +59,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "governor.",
@@ -61,6 +68,7 @@
     "translit": "(hēgemoni)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2232:  ",
-    "str2": "From hegeomai; a leader, i.e. Chief person of a province."
+    "str2": "From hegeomai; a leader, i.e. Chief person of a province.",
+    "num": 2232
   }
 ]

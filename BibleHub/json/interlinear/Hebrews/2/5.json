@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "[it is] not",
@@ -13,7 +14,8 @@
     "translit": "(Ou)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "to angels",
@@ -21,7 +23,8 @@
     "translit": "(angelois)",
     "parse": "Noun - Dative Masculine Plural",
     "str": "Strong's 32:  ",
-    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor."
+    "str2": "From aggello; a messenger; especially an 'angel'; by implication, a pastor.",
+    "num": 32
   },
   {
     "word": "that He has subjected",
@@ -29,7 +32,8 @@
     "translit": "(hypetaxen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 5293:  ",
-    "str2": "From hupo and tasso; to subordinate; reflexively, to obey."
+    "str2": "From hupo and tasso; to subordinate; reflexively, to obey.",
+    "num": 5293
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "world",
@@ -45,7 +50,8 @@
     "translit": "(oikoumenēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3625:  ",
-    "str2": "Feminine participle present passive of oikeo; land, i.e. The globe; specially, the Roman empire."
+    "str2": "Feminine participle present passive of oikeo; land, i.e. The globe; specially, the Roman empire.",
+    "num": 3625
   },
   {
     "word": "to come,",
@@ -53,7 +59,8 @@
     "translit": "(mellousan)",
     "parse": "Verb - Present Participle Active - Accusative Feminine Singular",
     "str": "Strong's 3195:  ",
-    "str2": "A strengthened form of melo; to intend, i.e. Be about to be, do, or suffer something."
+    "str2": "A strengthened form of melo; to intend, i.e. Be about to be, do, or suffer something.",
+    "num": 3195
   },
   {
     "word": "about",
@@ -61,7 +68,8 @@
     "translit": "(peri)",
     "parse": "Preposition",
     "str": "Strong's 4012:  ",
-    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time.",
+    "num": 4012
   },
   {
     "word": "which",
@@ -69,7 +77,8 @@
     "translit": "(hēs)",
     "parse": "Personal / Relative Pronoun - Genitive Feminine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "we are speaking.",
@@ -77,6 +86,7 @@
     "translit": "(laloumen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   }
 ]

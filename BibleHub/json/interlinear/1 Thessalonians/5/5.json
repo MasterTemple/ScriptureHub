@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "you",
@@ -13,7 +14,8 @@
     "translit": "(hymeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "are",
@@ -21,7 +23,8 @@
     "translit": "(este)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "all",
@@ -29,7 +32,8 @@
     "translit": "(pantes)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "sons",
@@ -37,7 +41,8 @@
     "translit": "(huioi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   },
   {
     "word": "of [the] light",
@@ -45,7 +50,8 @@
     "translit": "(phōtos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 5457:  ",
-    "str2": "Light, a source of light, radiance. From an obsolete phao; luminousness."
+    "str2": "Light, a source of light, radiance. From an obsolete phao; luminousness.",
+    "num": 5457
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "sons",
@@ -61,7 +68,8 @@
     "translit": "(huioi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   },
   {
     "word": "of [the] day;",
@@ -69,7 +77,8 @@
     "translit": "(hēmeras)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "we do not belong",
@@ -77,7 +86,8 @@
     "translit": "(esmen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "to [the] night",
@@ -85,7 +95,8 @@
     "translit": "(nyktos)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 3571:  ",
-    "str2": "The night, night-time. A primary word; 'night'."
+    "str2": "The night, night-time. A primary word; 'night'.",
+    "num": 3571
   },
   {
     "word": "[or]",
@@ -93,7 +104,8 @@
     "translit": "(oude)",
     "parse": "Conjunction",
     "str": "Strong's 3761:  ",
-    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even."
+    "str2": "Neither, nor, not even, and not. From ou and de; not however, i.e. Neither, nor, not even.",
+    "num": 3761
   },
   {
     "word": "to [the] darkness.",
@@ -101,6 +113,7 @@
     "translit": "(skotous)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 4655:  ",
-    "str2": "Darkness, either physical or moral. From the base of skia; shadiness, i.e. Obscurity."
+    "str2": "Darkness, either physical or moral. From the base of skia; shadiness, i.e. Obscurity.",
+    "num": 4655
   }
 ]

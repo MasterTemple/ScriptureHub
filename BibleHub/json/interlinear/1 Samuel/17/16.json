@@ -5,7 +5,8 @@
     "translit": "(’ar·bā·‘îm)",
     "parse": "Number - common plural",
     "str": "Strong's 705:  ",
-    "str2": "Forty"
+    "str2": "Forty",
+    "num": 705
   },
   {
     "word": "days",
@@ -13,7 +14,8 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "the Philistine",
@@ -21,7 +23,8 @@
     "translit": "(hap·pə·liš·tî)",
     "parse": "Article | Noun - proper - masculine singular",
     "str": "Strong's 6430:  ",
-    "str2": "Philistines -- inhabitants of Philistia"
+    "str2": "Philistines -- inhabitants of Philistia",
+    "num": 6430
   },
   {
     "word": "came forward",
@@ -29,7 +32,8 @@
     "translit": "(way·yig·gaš)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 5066:  ",
-    "str2": "To draw near, approach"
+    "str2": "To draw near, approach",
+    "num": 5066
   },
   {
     "word": "every morning",
@@ -37,7 +41,8 @@
     "translit": "(haš·kêm)",
     "parse": "Verb - Hifil - Infinitive absolute",
     "str": "Strong's 7925:  ",
-    "str2": "To load up, to start early in the morning"
+    "str2": "To load up, to start early in the morning",
+    "num": 7925
   },
   {
     "word": "and evening",
@@ -45,7 +50,8 @@
     "translit": "(wə·ha·‘ă·rêḇ)",
     "parse": "Conjunctive waw | Verb - Hifil - Infinitive absolute",
     "str": "Strong's 6150:  ",
-    "str2": "To become evening, grow dark"
+    "str2": "To become evening, grow dark",
+    "num": 6150
   },
   {
     "word": "to take his stand.",
@@ -53,6 +59,7 @@
     "translit": "(way·yiṯ·yaṣ·ṣêḇ)",
     "parse": "Conjunctive waw | Verb - Hitpael - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 3320:  ",
-    "str2": "To set or station oneself, take one's stand"
+    "str2": "To set or station oneself, take one's stand",
+    "num": 3320
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "where",
@@ -13,7 +14,8 @@
     "translit": "(hopou)",
     "parse": "Adverb",
     "str": "Strong's 3699:  ",
-    "str2": "Where, whither, in what place. From hos and pou; what(-ever) where, i.e. At whichever spot."
+    "str2": "Where, whither, in what place. From hos and pou; what(-ever) where, i.e. At whichever spot.",
+    "num": 3699
   },
   {
     "word": "your",
@@ -21,7 +23,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "treasure",
@@ -29,7 +32,8 @@
     "translit": "(thēsauros)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2344:  ",
-    "str2": "A store-house for precious things; hence: a treasure, a store. From tithemi; a deposit, i.e. Wealth."
+    "str2": "A store-house for precious things; hence: a treasure, a store. From tithemi; a deposit, i.e. Wealth.",
+    "num": 2344
   },
   {
     "word": "is,",
@@ -37,7 +41,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "there",
@@ -45,7 +50,8 @@
     "translit": "(ekei)",
     "parse": "Adverb",
     "str": "Strong's 1563:  ",
-    "str2": "(a) there, yonder, in that place, (b) thither, there. Of uncertain affinity; there; by extension, thither."
+    "str2": "(a) there, yonder, in that place, (b) thither, there. Of uncertain affinity; there; by extension, thither.",
+    "num": 1563
   },
   {
     "word": "your",
@@ -53,7 +59,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "heart",
@@ -61,7 +68,8 @@
     "translit": "(kardia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 2588:  ",
-    "str2": "Prolonged from a primary kar; the heart, i.e. the thoughts or feelings; also the middle."
+    "str2": "Prolonged from a primary kar; the heart, i.e. the thoughts or feelings; also the middle.",
+    "num": 2588
   },
   {
     "word": "will be",
@@ -69,7 +77,8 @@
     "translit": "(estai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "also.",
@@ -77,6 +86,7 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   }
 ]

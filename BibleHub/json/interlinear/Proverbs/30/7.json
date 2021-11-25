@@ -5,7 +5,8 @@
     "translit": "(ta·yim)",
     "parse": "Number - fd",
     "str": "Strong's 8147:  ",
-    "str2": "Two (a cardinal number)"
+    "str2": "Two (a cardinal number)",
+    "num": 8147
   },
   {
     "word": "things I ask",
@@ -13,7 +14,8 @@
     "translit": "(šā·’al·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 7592:  ",
-    "str2": "To inquire, to request, to demand"
+    "str2": "To inquire, to request, to demand",
+    "num": 7592
   },
   {
     "word": "of You—",
@@ -21,7 +23,8 @@
     "translit": "(mim·men·nî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "do not",
@@ -29,7 +32,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "refuse me",
@@ -37,7 +41,8 @@
     "translit": "(tim·na‘)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 4513:  ",
-    "str2": "To debar, from benefit, injury"
+    "str2": "To debar, from benefit, injury",
+    "num": 4513
   },
   {
     "word": "before",
@@ -45,7 +50,8 @@
     "translit": "(bə·ṭe·rem)",
     "parse": "Preposition-b | Adverb",
     "str": "Strong's 2962:  ",
-    "str2": "Non-occurrence, not yet, before"
+    "str2": "Non-occurrence, not yet, before",
+    "num": 2962
   },
   {
     "word": "I die:",
@@ -53,6 +59,7 @@
     "translit": "(’ā·mūṯ)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   }
 ]

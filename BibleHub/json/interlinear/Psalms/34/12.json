@@ -5,7 +5,8 @@
     "translit": "(mî-)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "is the man",
@@ -13,7 +14,8 @@
     "translit": "(hā·’îš)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "who delights in",
@@ -21,7 +23,8 @@
     "translit": "(he·ḥā·p̄êṣ)",
     "parse": "Article | Adjective - masculine singular",
     "str": "Strong's 2655:  ",
-    "str2": "Delighting in, having pleasure in"
+    "str2": "Delighting in, having pleasure in",
+    "num": 2655
   },
   {
     "word": "life,",
@@ -29,7 +32,8 @@
     "translit": "(ḥay·yîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 2416:  ",
-    "str2": "Alive, raw, fresh, strong, life"
+    "str2": "Alive, raw, fresh, strong, life",
+    "num": 2416
   },
   {
     "word": "who desires",
@@ -37,7 +41,8 @@
     "translit": "(’ō·hêḇ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 157:  ",
-    "str2": "To have affection f"
+    "str2": "To have affection f",
+    "num": 157
   },
   {
     "word": "to see [many]",
@@ -45,7 +50,8 @@
     "translit": "(lir·’ō·wṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "good",
@@ -53,7 +59,8 @@
     "translit": "(ṭō·wḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2896:  ",
-    "str2": "Pleasant, agreeable, good"
+    "str2": "Pleasant, agreeable, good",
+    "num": 2896
   },
   {
     "word": "days?",
@@ -61,6 +68,7 @@
     "translit": "(yā·mîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   }
 ]

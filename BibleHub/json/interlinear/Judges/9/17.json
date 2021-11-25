@@ -5,7 +5,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "my father",
@@ -13,7 +14,8 @@
     "translit": "(’ā·ḇî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "fought",
@@ -21,7 +23,8 @@
     "translit": "(nil·ḥam)",
     "parse": "Verb - Nifal - Perfect - third person masculine singular",
     "str": "Strong's 3898:  ",
-    "str2": "To feed on, to consume, to battle"
+    "str2": "To feed on, to consume, to battle",
+    "num": 3898
   },
   {
     "word": "for you",
@@ -29,7 +32,8 @@
     "translit": "(‘ă·lê·ḵem)",
     "parse": "Preposition | second person masculine plural",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "and risked",
@@ -37,7 +41,8 @@
     "translit": "(way·yaš·lêḵ)",
     "parse": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 7993:  ",
-    "str2": "To throw out, down, away"
+    "str2": "To throw out, down, away",
+    "num": 7993
   },
   {
     "word": "his life",
@@ -45,7 +50,8 @@
     "translit": "(nap̄·šōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   },
   {
     "word": "to deliver",
@@ -53,7 +59,8 @@
     "translit": "(way·yaṣ·ṣêl)",
     "parse": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 5337:  ",
-    "str2": "To strip, plunder, deliver oneself, be delivered, snatch away, deliver"
+    "str2": "To strip, plunder, deliver oneself, be delivered, snatch away, deliver",
+    "num": 5337
   },
   {
     "word": "you",
@@ -61,7 +68,8 @@
     "translit": "(’eṯ·ḵem)",
     "parse": "Direct object marker | second person masculine plural",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "from the hand",
@@ -69,7 +77,8 @@
     "translit": "(mî·yaḏ)",
     "parse": "Preposition-m | Noun - feminine singular construct",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "of Midian,",
@@ -77,6 +86,7 @@
     "translit": "(miḏ·yān)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 4080:  ",
-    "str2": "Midian -- a son of Abraham and Keturah, also his descendants and the region where they settled "
+    "str2": "Midian -- a son of Abraham and Keturah, also his descendants and the region where they settled ",
+    "num": 4080
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(ean)",
     "parse": "Conjunction",
     "str": "Strong's 1437:  ",
-    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc."
+    "str2": "If. From ei and an; a conditional particle; in case that, provided, etc.",
+    "num": 1437
   },
   {
     "word": "a brother",
@@ -13,7 +14,8 @@
     "translit": "(adelphos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "or",
@@ -21,7 +23,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "sister",
@@ -29,7 +32,8 @@
     "translit": "(adelphē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 79:  ",
-    "str2": "A sister, a woman (fellow-)member of a church, a Christian woman. Fem of adephos; a sister."
+    "str2": "A sister, a woman (fellow-)member of a church, a Christian woman. Fem of adephos; a sister.",
+    "num": 79
   },
   {
     "word": "is",
@@ -37,7 +41,8 @@
     "translit": "(hyparchōsin)",
     "parse": "Verb - Present Subjunctive Active - 3rd Person Plural",
     "str": "Strong's 5225:  ",
-    "str2": "To begin, am, exist, be in possession. From hupo and archomai; to begin under, i.e. Come into existence; expletively, to exist (verb)."
+    "str2": "To begin, am, exist, be in possession. From hupo and archomai; to begin under, i.e. Come into existence; expletively, to exist (verb).",
+    "num": 5225
   },
   {
     "word": "without clothes",
@@ -45,7 +50,8 @@
     "translit": "(gymnoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 1131:  ",
-    "str2": "Rarely: stark-naked; generally: wearing only the under-garment; bare, open, manifest; mere. Of uncertain affinity; nude."
+    "str2": "Rarely: stark-naked; generally: wearing only the under-garment; bare, open, manifest; mere. Of uncertain affinity; nude.",
+    "num": 1131
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "daily",
@@ -61,7 +68,8 @@
     "translit": "(ephēmerou)",
     "parse": "Adjective - Genitive Feminine Singular",
     "str": "Strong's 2184:  ",
-    "str2": "For the day, daily, necessary for every day. From epi and hemera; for a day, i.e. Diurnal."
+    "str2": "For the day, daily, necessary for every day. From epi and hemera; for a day, i.e. Diurnal.",
+    "num": 2184
   },
   {
     "word": "food.",
@@ -69,6 +77,7 @@
     "translit": "(trophēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 5160:  ",
-    "str2": "Food, nourishment, maintenance. From trepho; nourishment; by implication, rations."
+    "str2": "Food, nourishment, maintenance. From trepho; nourishment; by implication, rations.",
+    "num": 5160
   }
 ]

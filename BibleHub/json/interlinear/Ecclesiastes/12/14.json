@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "God",
@@ -13,7 +14,8 @@
     "translit": "(hā·’ĕ·lō·hîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "will bring",
@@ -21,7 +23,8 @@
     "translit": "(yā·ḇi)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "every",
@@ -29,7 +32,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "deed",
@@ -37,7 +41,8 @@
     "translit": "(ma·‘ă·śeh)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4639:  ",
-    "str2": "An action, a transaction, activity, a product, property"
+    "str2": "An action, a transaction, activity, a product, property",
+    "num": 4639
   },
   {
     "word": "into judgment,",
@@ -45,7 +50,8 @@
     "translit": "(ḇə·miš·pāṭ)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 4941:  ",
-    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style"
+    "str2": "A verdict, a sentence, formal decree, divine law, penalty, justice, privilege, style",
+    "num": 4941
   },
   {
     "word": "along with",
@@ -53,7 +59,8 @@
     "translit": "(‘al)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "every hidden",
@@ -61,7 +68,8 @@
     "translit": "(ne‘·lām)",
     "parse": "Verb - Nifal - Participle - masculine singular",
     "str": "Strong's 5956:  ",
-    "str2": "To veil from sight, conceal"
+    "str2": "To veil from sight, conceal",
+    "num": 5956
   },
   {
     "word": "thing,",
@@ -69,7 +77,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "whether",
@@ -77,7 +86,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "good",
@@ -85,7 +95,8 @@
     "translit": "(ṭō·wḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2896:  ",
-    "str2": "Pleasant, agreeable, good"
+    "str2": "Pleasant, agreeable, good",
+    "num": 2896
   },
   {
     "word": "or",
@@ -93,7 +104,8 @@
     "translit": "(wə·’im-)",
     "parse": "Conjunctive waw | Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "evil.",
@@ -101,6 +113,7 @@
     "translit": "(rā‘)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   }
 ]

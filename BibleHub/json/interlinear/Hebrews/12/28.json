@@ -5,7 +5,8 @@
     "translit": "(Dio)",
     "parse": "Conjunction",
     "str": "Strong's 1352:  ",
-    "str2": "Wherefore, on which account, therefore. From dia and hos; through which thing, i.e. Consequently."
+    "str2": "Wherefore, on which account, therefore. From dia and hos; through which thing, i.e. Consequently.",
+    "num": 1352
   },
   {
     "word": "[since] we are receiving",
@@ -13,7 +14,8 @@
     "translit": "(paralambanontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 3880:  ",
-    "str2": "From para and lambano; to receive near, i.e. Associate with oneself; by analogy, to assume an office; figuratively, to learn."
+    "str2": "From para and lambano; to receive near, i.e. Associate with oneself; by analogy, to assume an office; figuratively, to learn.",
+    "num": 3880
   },
   {
     "word": "an unshakable",
@@ -21,7 +23,8 @@
     "translit": "(asaleuton)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 761:  ",
-    "str2": "Unshaken, immovable. Unshaken, i.e. immovable."
+    "str2": "Unshaken, immovable. Unshaken, i.e. immovable.",
+    "num": 761
   },
   {
     "word": "kingdom,",
@@ -29,7 +32,8 @@
     "translit": "(basileian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 932:  ",
-    "str2": "From basileus; properly, royalty, i.e. rule, or a realm."
+    "str2": "From basileus; properly, royalty, i.e. rule, or a realm.",
+    "num": 932
   },
   {
     "word": "let us be filled with",
@@ -37,7 +41,8 @@
     "translit": "(echōmen)",
     "parse": "Verb - Present Subjunctive Active - 1st Person Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "gratitude,",
@@ -45,7 +50,8 @@
     "translit": "(charin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5485:  ",
-    "str2": "From chairo; graciousness, of manner or act."
+    "str2": "From chairo; graciousness, of manner or act.",
+    "num": 5485
   },
   {
     "word": "[and so]",
@@ -53,7 +59,8 @@
     "translit": "(di’)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "worship",
@@ -61,7 +68,8 @@
     "translit": "(latreuōmen)",
     "parse": "Verb - Present Subjunctive Active - 1st Person Plural",
     "str": "Strong's 3000:  ",
-    "str2": "To serve, especially God, perhaps simply: I worship. From latris; to minister, i.e. Render religious homage."
+    "str2": "To serve, especially God, perhaps simply: I worship. From latris; to minister, i.e. Render religious homage.",
+    "num": 3000
   },
   {
     "word": "God",
@@ -69,7 +77,8 @@
     "translit": "(Theō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "acceptably",
@@ -77,7 +86,8 @@
     "translit": "(euarestōs)",
     "parse": "Adverb",
     "str": "Strong's 2102:  ",
-    "str2": "Acceptably, in a well-pleasing way. Adverb from euarestos; quite agreeably."
+    "str2": "Acceptably, in a well-pleasing way. Adverb from euarestos; quite agreeably.",
+    "num": 2102
   },
   {
     "word": "with",
@@ -85,7 +95,8 @@
     "translit": "(meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "reverence",
@@ -93,7 +104,8 @@
     "translit": "(eulabeias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2124:  ",
-    "str2": "Reverence, fear of God, piety. From eulabes; properly, caution, i.e. reverence; by implication, dread."
+    "str2": "Reverence, fear of God, piety. From eulabes; properly, caution, i.e. reverence; by implication, dread.",
+    "num": 2124
   },
   {
     "word": "and",
@@ -101,7 +113,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "awe.",
@@ -109,6 +122,7 @@
     "translit": "(deous)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 1169:  ",
-    "str2": "Cowardly, timid, fearful. From deos; timid, i.e. faithless."
+    "str2": "Cowardly, timid, fearful. From deos; timid, i.e. faithless.",
+    "num": 1169
   }
 ]

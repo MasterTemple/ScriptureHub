@@ -5,7 +5,8 @@
     "translit": "(’êl·leh)",
     "parse": "Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   },
   {
     "word": "are the statutes",
@@ -13,7 +14,8 @@
     "translit": "(ha·ḥuq·qîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 2706:  ",
-    "str2": "Something prescribed or owed, a statute"
+    "str2": "Something prescribed or owed, a statute",
+    "num": 2706
   },
   {
     "word": "that",
@@ -21,7 +23,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "the LORD",
@@ -29,7 +32,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "commanded",
@@ -37,7 +41,8 @@
     "translit": "(ṣiw·wāh)",
     "parse": "Verb - Piel - Perfect - third person masculine singular",
     "str": "Strong's 6680:  ",
-    "str2": "To lay charge (upon), give charge (to), command, order"
+    "str2": "To lay charge (upon), give charge (to), command, order",
+    "num": 6680
   },
   {
     "word": "Moses",
@@ -45,7 +50,8 @@
     "translit": "(mō·šeh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 4872:  ",
-    "str2": "Moses -- a great Israelite leader, prophet and lawgiver"
+    "str2": "Moses -- a great Israelite leader, prophet and lawgiver",
+    "num": 4872
   },
   {
     "word": "concerning relationships between",
@@ -53,7 +59,8 @@
     "translit": "(bên)",
     "parse": "Preposition",
     "str": "Strong's 996:  ",
-    "str2": "An interval, space between"
+    "str2": "An interval, space between",
+    "num": 996
   },
   {
     "word": "a man",
@@ -61,7 +68,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "and his wife,",
@@ -69,7 +77,8 @@
     "translit": "(lə·’iš·tōw)",
     "parse": "Preposition-l | Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 802:  ",
-    "str2": "Woman, wife, female"
+    "str2": "Woman, wife, female",
+    "num": 802
   },
   {
     "word": "and between",
@@ -77,7 +86,8 @@
     "translit": "(bên-)",
     "parse": "Preposition",
     "str": "Strong's 996:  ",
-    "str2": "An interval, space between"
+    "str2": "An interval, space between",
+    "num": 996
   },
   {
     "word": "a father",
@@ -85,7 +95,8 @@
     "translit": "(’āḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "and a young daughter",
@@ -93,7 +104,8 @@
     "translit": "(lə·ḇit·tōw)",
     "parse": "Preposition-l | Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 1323:  ",
-    "str2": "A daughter"
+    "str2": "A daughter",
+    "num": 1323
   },
   {
     "word": "still in his",
@@ -101,7 +113,8 @@
     "translit": "(’ā·ḇî·hā)",
     "parse": "Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "home.",
@@ -109,6 +122,7 @@
     "translit": "(bêṯ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   }
 ]

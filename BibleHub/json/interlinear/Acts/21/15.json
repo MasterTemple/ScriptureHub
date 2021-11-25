@@ -5,7 +5,8 @@
     "translit": "(Meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "these",
@@ -13,7 +14,8 @@
     "translit": "(tautas)",
     "parse": "Demonstrative Pronoun - Accusative Feminine Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "days,",
@@ -21,7 +23,8 @@
     "translit": "(hēmeras)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "we packed up",
@@ -29,7 +32,8 @@
     "translit": "(episkeuasamenoi)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Plural",
     "str": "Strong's 643:  ",
-    "str2": "To prepare for a journey, depart. From apo and a derivative of skeuos; to pack up baggage."
+    "str2": "To prepare for a journey, depart. From apo and a derivative of skeuos; to pack up baggage.",
+    "num": 643
   },
   {
     "word": "[and] went on",
@@ -37,7 +41,8 @@
     "translit": "(anebainomen)",
     "parse": "Verb - Imperfect Indicative Active - 1st Person Plural",
     "str": "Strong's 305:  ",
-    "str2": "To go up, mount, ascend; of things: I rise, spring up, come up. From ana and the base of basis; to go up."
+    "str2": "To go up, mount, ascend; of things: I rise, spring up, come up. From ana and the base of basis; to go up.",
+    "num": 305
   },
   {
     "word": "to",
@@ -45,7 +50,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "Jerusalem.",
@@ -53,6 +59,7 @@
     "translit": "(Hierosolyma)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 2414:  ",
-    "str2": "The Greek form of the Hebrew name: Jerusalem. Of Hebrew origin; Hierosolyma"
+    "str2": "The Greek form of the Hebrew name: Jerusalem. Of Hebrew origin; Hierosolyma",
+    "num": 2414
   }
 ]

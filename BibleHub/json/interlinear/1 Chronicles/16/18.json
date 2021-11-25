@@ -5,7 +5,8 @@
     "translit": "(’et·tên)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "you",
@@ -13,7 +14,8 @@
     "translit": "(lə·ḵā)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "the land",
@@ -21,7 +23,8 @@
     "translit": "(’e·reṣ-)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "of Canaan",
@@ -29,7 +32,8 @@
     "translit": "(kə·nā·‘an)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3667:  ",
-    "str2": "Canaan -- a son of Ham, also his descendants and their land West of the Jordan"
+    "str2": "Canaan -- a son of Ham, also his descendants and their land West of the Jordan",
+    "num": 3667
   },
   {
     "word": "as the portion",
@@ -37,7 +41,8 @@
     "translit": "(ḥe·ḇel)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 2256:  ",
-    "str2": "A rope, a measuring line, a district, inheritance, a noose, a company, a throe, ruin"
+    "str2": "A rope, a measuring line, a district, inheritance, a noose, a company, a throe, ruin",
+    "num": 2256
   },
   {
     "word": "of your inheritance.’",
@@ -45,6 +50,7 @@
     "translit": "(na·ḥă·laṯ·ḵem)",
     "parse": "Noun - feminine singular construct | second person masculine plural",
     "str": "Strong's 5159:  ",
-    "str2": "Something inherited, occupancy, an heirloom, an estate, patrimony, portion"
+    "str2": "Something inherited, occupancy, an heirloom, an estate, patrimony, portion",
+    "num": 5159
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the king",
@@ -13,7 +14,8 @@
     "translit": "(me·leḵ-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "of Babylon",
@@ -21,7 +23,8 @@
     "translit": "(bā·ḇel)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 894:  ",
-    "str2": "Babylon -- an eastern Mediterranean empire and its capital city"
+    "str2": "Babylon -- an eastern Mediterranean empire and its capital city",
+    "num": 894
   },
   {
     "word": "stands",
@@ -29,7 +32,8 @@
     "translit": "(‘ā·maḏ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 5975:  ",
-    "str2": "To stand, in various relations"
+    "str2": "To stand, in various relations",
+    "num": 5975
   },
   {
     "word": "at",
@@ -37,7 +41,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the fork",
@@ -45,7 +50,8 @@
     "translit": "(’êm)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "in the road,",
@@ -53,7 +59,8 @@
     "translit": "(had·de·reḵ)",
     "parse": "Article | Noun - common singular",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   },
   {
     "word": "at the junction",
@@ -61,7 +68,8 @@
     "translit": "(bə·rōš)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 7218:  ",
-    "str2": "The head"
+    "str2": "The head",
+    "num": 7218
   },
   {
     "word": "of the two",
@@ -69,7 +77,8 @@
     "translit": "(šə·nê)",
     "parse": "Number - mdc",
     "str": "Strong's 8147:  ",
-    "str2": "Two (a cardinal number)"
+    "str2": "Two (a cardinal number)",
+    "num": 8147
   },
   {
     "word": "roads,",
@@ -77,7 +86,8 @@
     "translit": "(had·də·rā·ḵîm)",
     "parse": "Article | Noun - common plural",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   },
   {
     "word": "to seek",
@@ -85,7 +95,8 @@
     "translit": "(liq·sām-)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 7080:  ",
-    "str2": "To distribute, determine by lot, magical scroll, to divine"
+    "str2": "To distribute, determine by lot, magical scroll, to divine",
+    "num": 7080
   },
   {
     "word": "an omen:",
@@ -93,7 +104,8 @@
     "translit": "(qā·sem)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7081:  ",
-    "str2": "A lot, divination, oracle"
+    "str2": "A lot, divination, oracle",
+    "num": 7081
   },
   {
     "word": "He shakes",
@@ -101,7 +113,8 @@
     "translit": "(qil·qal)",
     "parse": "Verb - Piel - Perfect - third person masculine singular",
     "str": "Strong's 7043:  ",
-    "str2": "To be slight, swift or trifling"
+    "str2": "To be slight, swift or trifling",
+    "num": 7043
   },
   {
     "word": "the arrows,",
@@ -109,7 +122,8 @@
     "translit": "(ba·ḥiṣ·ṣîm)",
     "parse": "Preposition-b, Article | Noun - masculine plural",
     "str": "Strong's 2671:  ",
-    "str2": "A piercer, an arrow, a wound, thunderbolt, the shaft of a, spear"
+    "str2": "A piercer, an arrow, a wound, thunderbolt, the shaft of a, spear",
+    "num": 2671
   },
   {
     "word": "he consults",
@@ -117,7 +131,8 @@
     "translit": "(šā·’al)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 7592:  ",
-    "str2": "To inquire, to request, to demand"
+    "str2": "To inquire, to request, to demand",
+    "num": 7592
   },
   {
     "word": "the idols,",
@@ -125,7 +140,8 @@
     "translit": "(bat·tə·rā·p̄îm)",
     "parse": "Preposition-b, Article | Noun - masculine plural",
     "str": "Strong's 8655:  ",
-    "str2": "(a kind of idol) perhaps household idol"
+    "str2": "(a kind of idol) perhaps household idol",
+    "num": 8655
   },
   {
     "word": "he examines",
@@ -133,7 +149,8 @@
     "translit": "(rā·’āh)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "the liver.",
@@ -141,6 +158,7 @@
     "translit": "(bak·kā·ḇêḏ)",
     "parse": "Preposition-b, Article | Noun - feminine singular",
     "str": "Strong's 3516:  ",
-    "str2": "The liver"
+    "str2": "The liver",
+    "num": 3516
   }
 ]

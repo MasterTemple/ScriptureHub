@@ -5,7 +5,8 @@
     "translit": "(’ên)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "longer",
@@ -13,7 +14,8 @@
     "translit": "(‘ō·wḏ)",
     "parse": "Adverb",
     "str": "Strong's 5750:  ",
-    "str2": "Iteration, continuance, again, repeatedly, still, more"
+    "str2": "Iteration, continuance, again, repeatedly, still, more",
+    "num": 5750
   },
   {
     "word": "praise",
@@ -21,7 +23,8 @@
     "translit": "(tə·hil·laṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 8416:  ",
-    "str2": "Praise, song of praise"
+    "str2": "Praise, song of praise",
+    "num": 8416
   },
   {
     "word": "for Moab;",
@@ -29,7 +32,8 @@
     "translit": "(mō·w·’āḇ)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 4124:  ",
-    "str2": "Moab -- a son of Lot,also his descendants and the territory where they settled"
+    "str2": "Moab -- a son of Lot,also his descendants and the territory where they settled",
+    "num": 4124
   },
   {
     "word": "in Heshbon",
@@ -37,7 +41,8 @@
     "translit": "(bə·ḥeš·bō·wn)",
     "parse": "Preposition-b | Noun - proper - feminine singular",
     "str": "Strong's 2809:  ",
-    "str2": "Heshbon -- a place East of the Jordan"
+    "str2": "Heshbon -- a place East of the Jordan",
+    "num": 2809
   },
   {
     "word": "they devise",
@@ -45,7 +50,8 @@
     "translit": "(ḥā·šə·ḇū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 2803:  ",
-    "str2": "To think, account"
+    "str2": "To think, account",
+    "num": 2803
   },
   {
     "word": "evil",
@@ -53,7 +59,8 @@
     "translit": "(rā·‘āh)",
     "parse": "Adjective - feminine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "against her:",
@@ -61,7 +68,8 @@
     "translit": "(‘ā·le·hā)",
     "parse": "Preposition | third person feminine singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "‘Come,",
@@ -69,7 +77,8 @@
     "translit": "(lə·ḵū)",
     "parse": "Verb - Qal - Imperative - masculine plural",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "let us cut her off",
@@ -77,7 +86,8 @@
     "translit": "(wə·naḵ·rî·ṯen·nāh)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive imperfect Cohortative if contextual - first person common plural | third person feminine singular",
     "str": "Strong's 3772:  ",
-    "str2": "To cut, to destroy, consume, to covenant"
+    "str2": "To cut, to destroy, consume, to covenant",
+    "num": 3772
   },
   {
     "word": "from nationhood.’",
@@ -85,7 +95,8 @@
     "translit": "(mig·gō·w)",
     "parse": "Preposition-m | Noun - masculine singular",
     "str": "Strong's 1471:  ",
-    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts"
+    "str2": "A foreign nation, a Gentile, a troop of animals, a flight of locusts",
+    "num": 1471
   },
   {
     "word": "You too,",
@@ -93,7 +104,8 @@
     "translit": "(gam-)",
     "parse": "Conjunction",
     "str": "Strong's 1571:  ",
-    "str2": "Assemblage, also, even, yea, though, both, and"
+    "str2": "Assemblage, also, even, yea, though, both, and",
+    "num": 1571
   },
   {
     "word": "O [people of] Madmen,",
@@ -101,7 +113,8 @@
     "translit": "(maḏ·mên)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 4086:  ",
-    "str2": "Madmen -- a place in Moab"
+    "str2": "Madmen -- a place in Moab",
+    "num": 4086
   },
   {
     "word": "will be silenced;",
@@ -109,7 +122,8 @@
     "translit": "(tid·dōm·mî)",
     "parse": "Verb - Qal - Imperfect - second person feminine singular",
     "str": "Strong's 1826:  ",
-    "str2": "To be dumb, to be astonished, to stop, to perish"
+    "str2": "To be dumb, to be astonished, to stop, to perish",
+    "num": 1826
   },
   {
     "word": "the sword",
@@ -117,7 +131,8 @@
     "translit": "(ḥā·reḇ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 2719:  ",
-    "str2": "Drought, a cutting instrument, as a, knife, sword"
+    "str2": "Drought, a cutting instrument, as a, knife, sword",
+    "num": 2719
   },
   {
     "word": "will pursue",
@@ -125,7 +140,8 @@
     "translit": "(’a·ḥă·ra·yiḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's 310:  ",
-    "str2": "The hind or following part"
+    "str2": "The hind or following part",
+    "num": 310
   },
   {
     "word": "you.",
@@ -133,6 +149,7 @@
     "translit": "(tê·leḵ)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   }
 ]

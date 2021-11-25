@@ -5,7 +5,8 @@
     "translit": "(’a·ḥaṯ)",
     "parse": "Number - feminine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "year",
@@ -13,7 +14,8 @@
     "translit": "(biš·naṯ)",
     "parse": "Preposition-b | Noun - feminine singular construct",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "of Darius",
@@ -21,7 +23,8 @@
     "translit": "(lə·ḏā·rə·yā·weš)",
     "parse": "Preposition-l | Noun - proper - masculine singular",
     "str": "Strong's 1867:  ",
-    "str2": "Darius -- the name of several person kings"
+    "str2": "Darius -- the name of several person kings",
+    "num": 1867
   },
   {
     "word": "son",
@@ -29,7 +32,8 @@
     "translit": "(ben-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of Xerxes,",
@@ -37,7 +41,8 @@
     "translit": "(’ă·ḥaš·wê·rō·wōš)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 325:  ",
-    "str2": "Ahasuerus -- king of Persia"
+    "str2": "Ahasuerus -- king of Persia",
+    "num": 325
   },
   {
     "word": "a Mede",
@@ -45,7 +50,8 @@
     "translit": "(mā·ḏāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 4074:  ",
-    "str2": "Media -- a son of Japheth, also his descendants and their land"
+    "str2": "Media -- a son of Japheth, also his descendants and their land",
+    "num": 4074
   },
   {
     "word": "by descent,",
@@ -53,7 +59,8 @@
     "translit": "(miz·ze·ra‘)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 2233:  ",
-    "str2": "Seed, fruit, plant, sowing-time, posterity"
+    "str2": "Seed, fruit, plant, sowing-time, posterity",
+    "num": 2233
   },
   {
     "word": "who",
@@ -61,7 +68,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "was made ruler",
@@ -69,7 +77,8 @@
     "translit": "(hā·mə·laḵ)",
     "parse": "Verb - Hofal - Perfect - third person masculine singular",
     "str": "Strong's 4427:  ",
-    "str2": "To reign, inceptively, to ascend the throne, to induct into royalty, to take counsel"
+    "str2": "To reign, inceptively, to ascend the throne, to induct into royalty, to take counsel",
+    "num": 4427
   },
   {
     "word": "over",
@@ -77,7 +86,8 @@
     "translit": "(‘al)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the kingdom",
@@ -85,7 +95,8 @@
     "translit": "(mal·ḵūṯ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 4438:  ",
-    "str2": "Royalty, royal power, reign, kingdom"
+    "str2": "Royalty, royal power, reign, kingdom",
+    "num": 4438
   },
   {
     "word": "of the Chaldeans—",
@@ -93,6 +104,7 @@
     "translit": "(kaś·dîm)",
     "parse": "Noun - proper - masculine plural",
     "str": "Strong's 3778:  ",
-    "str2": "Chaldeans -- a region of southern Babylon and its inhab"
+    "str2": "Chaldeans -- a region of southern Babylon and its inhab",
+    "num": 3778
   }
 ]

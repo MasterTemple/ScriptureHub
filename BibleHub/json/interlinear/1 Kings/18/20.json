@@ -5,7 +5,8 @@
     "translit": "(’aḥ·’āḇ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 256:  ",
-    "str2": "Ahab -- 'father's brother', a king of Israel, also a false prophet"
+    "str2": "Ahab -- 'father's brother', a king of Israel, also a false prophet",
+    "num": 256
   },
   {
     "word": "summoned",
@@ -13,7 +14,8 @@
     "translit": "(way·yiš·laḥ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 7971:  ",
-    "str2": "To send away, for, out"
+    "str2": "To send away, for, out",
+    "num": 7971
   },
   {
     "word": "all",
@@ -21,7 +23,8 @@
     "translit": "(bə·ḵāl)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the Israelites",
@@ -29,7 +32,8 @@
     "translit": "(bə·nê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "and assembled",
@@ -37,7 +41,8 @@
     "translit": "(way·yiq·bōṣ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 6908:  ",
-    "str2": "To gather, collect"
+    "str2": "To gather, collect",
+    "num": 6908
   },
   {
     "word": "the prophets",
@@ -45,7 +50,8 @@
     "translit": "(han·nə·ḇî·’îm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 5030:  ",
-    "str2": "A spokesman, speaker, prophet"
+    "str2": "A spokesman, speaker, prophet",
+    "num": 5030
   },
   {
     "word": "on",
@@ -53,7 +59,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "Mount",
@@ -61,7 +68,8 @@
     "translit": "(har)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 2022:  ",
-    "str2": "Mountain, hill, hill country"
+    "str2": "Mountain, hill, hill country",
+    "num": 2022
   },
   {
     "word": "Carmel.",
@@ -69,6 +77,7 @@
     "translit": "(hak·kar·mel)",
     "parse": "Article | Noun - proper - feminine singular",
     "str": "Strong's 3760:  ",
-    "str2": "Carmel -- a mountain promontory on the Mediterranean, also a city near Hebron"
+    "str2": "Carmel -- a mountain promontory on the Mediterranean, also a city near Hebron",
+    "num": 3760
   }
 ]

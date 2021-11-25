@@ -5,7 +5,8 @@
     "translit": "(’at)",
     "parse": "Pronoun - second person feminine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "because of the blood",
@@ -13,7 +14,8 @@
     "translit": "(bə·ḏam-)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 1818:  ",
-    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed"
+    "str2": "Blood, of man, an animal, the juice of the grape, bloodshed",
+    "num": 1818
   },
   {
     "word": "of [My] covenant,",
@@ -21,7 +23,8 @@
     "translit": "(bə·rî·ṯêḵ)",
     "parse": "Noun - feminine singular construct | second person feminine singular",
     "str": "Strong's 1285:  ",
-    "str2": "A covenant"
+    "str2": "A covenant",
+    "num": 1285
   },
   {
     "word": "I will release",
@@ -29,7 +32,8 @@
     "translit": "(šil·laḥ·tî)",
     "parse": "Verb - Piel - Perfect - first person common singular",
     "str": "Strong's 7971:  ",
-    "str2": "To send away, for, out"
+    "str2": "To send away, for, out",
+    "num": 7971
   },
   {
     "word": "your prisoners",
@@ -37,7 +41,8 @@
     "translit": "(’ă·sî·ra·yiḵ)",
     "parse": "Noun - masculine plural construct | second person feminine singular",
     "str": "Strong's 615:  ",
-    "str2": "A bondman, prisoner"
+    "str2": "A bondman, prisoner",
+    "num": 615
   },
   {
     "word": "from the waterless",
@@ -45,7 +50,8 @@
     "translit": "(’ên)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "pit.",
@@ -53,6 +59,7 @@
     "translit": "(mib·bō·wr)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 953:  ",
-    "str2": "A pit, cistern, well"
+    "str2": "A pit, cistern, well",
+    "num": 953
   }
 ]

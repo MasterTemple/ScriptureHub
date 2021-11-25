@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[Jesus] turned",
@@ -13,7 +14,8 @@
     "translit": "(strapheis)",
     "parse": "Verb - Aorist Participle Passive - Nominative Masculine Singular",
     "str": "Strong's 4762:  ",
-    "str2": "Strengthened from the base of trope; to twist, i.e. Turn quite around or reverse."
+    "str2": "Strengthened from the base of trope; to twist, i.e. Turn quite around or reverse.",
+    "num": 4762
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "disciples",
@@ -37,7 +41,8 @@
     "translit": "(mathētas)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 3101:  ",
-    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil."
+    "str2": "A learner, disciple, pupil. From manthano; a learner, i.e. Pupil.",
+    "num": 3101
   },
   {
     "word": "[and] said",
@@ -45,7 +50,8 @@
     "translit": "(eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "privately,",
@@ -53,7 +59,8 @@
     "translit": "(idian)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 2398:  ",
-    "str2": "Pertaining to self, i.e. One's own; by implication, private or separate."
+    "str2": "Pertaining to self, i.e. One's own; by implication, private or separate.",
+    "num": 2398
   },
   {
     "word": "“Blessed [are]",
@@ -61,7 +68,8 @@
     "translit": "(Makarioi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 3107:  ",
-    "str2": "Happy, blessed, to be envied. A prolonged form of the poetical makar; supremely blest; by extension, fortunate, well off."
+    "str2": "Happy, blessed, to be envied. A prolonged form of the poetical makar; supremely blest; by extension, fortunate, well off.",
+    "num": 3107
   },
   {
     "word": "the",
@@ -69,7 +77,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "eyes",
@@ -77,7 +86,8 @@
     "translit": "(ophthalmoi)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 3788:  ",
-    "str2": "The eye; fig: the mind's eye. From optanomai; the eye; by implication, vision; figuratively, envy."
+    "str2": "The eye; fig: the mind's eye. From optanomai; the eye; by implication, vision; figuratively, envy.",
+    "num": 3788
   },
   {
     "word": "that",
@@ -85,7 +95,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "see",
@@ -93,7 +104,8 @@
     "translit": "(blepontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 991:  ",
-    "str2": "(primarily physical), I look, see, perceive, discern. A primary verb; to look at."
+    "str2": "(primarily physical), I look, see, perceive, discern. A primary verb; to look at.",
+    "num": 991
   },
   {
     "word": "what",
@@ -101,7 +113,8 @@
     "translit": "(ha)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "you see.",
@@ -109,6 +122,7 @@
     "translit": "(blepete)",
     "parse": "Verb - Present Indicative Active - 2nd Person Plural",
     "str": "Strong's 991:  ",
-    "str2": "(primarily physical), I look, see, perceive, discern. A primary verb; to look at."
+    "str2": "(primarily physical), I look, see, perceive, discern. A primary verb; to look at.",
+    "num": 991
   }
 ]

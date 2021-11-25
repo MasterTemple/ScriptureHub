@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the Lord",
@@ -13,7 +14,8 @@
     "translit": "(’ă·ḏō·nāy)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 136:  ",
-    "str2": "The Lord"
+    "str2": "The Lord",
+    "num": 136
   },
   {
     "word": "GOD",
@@ -21,7 +23,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3069:  ",
-    "str2": "YHWH"
+    "str2": "YHWH",
+    "num": 3069
   },
   {
     "word": "says:",
@@ -29,7 +32,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "Woe",
@@ -37,7 +41,8 @@
     "translit": "(hō·w)",
     "parse": "Interjection",
     "str": "Strong's 1945:  ",
-    "str2": "Ah! alas! ha!"
+    "str2": "Ah! alas! ha!",
+    "num": 1945
   },
   {
     "word": "to",
@@ -45,7 +50,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the foolish",
@@ -53,7 +59,8 @@
     "translit": "(han·nə·ḇā·lîm)",
     "parse": "Article | Adjective - masculine plural",
     "str": "Strong's 5036:  ",
-    "str2": "Foolish, senseless"
+    "str2": "Foolish, senseless",
+    "num": 5036
   },
   {
     "word": "prophets",
@@ -61,7 +68,8 @@
     "translit": "(han·nə·ḇî·’îm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 5030:  ",
-    "str2": "A spokesman, speaker, prophet"
+    "str2": "A spokesman, speaker, prophet",
+    "num": 5030
   },
   {
     "word": "who",
@@ -69,7 +77,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "follow",
@@ -77,7 +86,8 @@
     "translit": "(hō·lə·ḵîm)",
     "parse": "Verb - Qal - Participle - masculine plural",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "their own spirit,",
@@ -85,7 +95,8 @@
     "translit": "(rū·ḥām)",
     "parse": "Noun - common singular construct | third person masculine plural",
     "str": "Strong's 7307:  ",
-    "str2": "Wind, breath, exhalation, life, anger, unsubstantiality, a region of the sky, spirit"
+    "str2": "Wind, breath, exhalation, life, anger, unsubstantiality, a region of the sky, spirit",
+    "num": 7307
   },
   {
     "word": "yet have seen",
@@ -93,7 +104,8 @@
     "translit": "(rā·’ū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "nothing.",
@@ -101,6 +113,7 @@
     "translit": "(ū·lə·ḇil·tî)",
     "parse": "Conjunctive waw, Preposition-l",
     "str": "Strong's 1115:  ",
-    "str2": "A failure of, not, except, without, unless, besides, because not, until"
+    "str2": "A failure of, not, except, without, unless, besides, because not, until",
+    "num": 1115
   }
 ]

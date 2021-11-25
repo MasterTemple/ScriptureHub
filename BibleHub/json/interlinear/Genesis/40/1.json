@@ -5,7 +5,8 @@
     "translit": "(’a·ḥar)",
     "parse": "Adverb",
     "str": "Strong's 310:  ",
-    "str2": "The hind or following part"
+    "str2": "The hind or following part",
+    "num": 310
   },
   {
     "word": "the king’s",
@@ -13,7 +14,8 @@
     "translit": "(me·leḵ-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "cupbearer",
@@ -21,7 +23,8 @@
     "translit": "(maš·qêh)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4945:  ",
-    "str2": "Causing to drink, a butler, drink, a well-watered region"
+    "str2": "Causing to drink, a butler, drink, a well-watered region",
+    "num": 4945
   },
   {
     "word": "and baker",
@@ -29,7 +32,8 @@
     "translit": "(wə·hā·’ō·p̄eh)",
     "parse": "Conjunctive waw, Article | Verb - Qal - Participle - masculine singular",
     "str": "Strong's 644:  ",
-    "str2": "To cook, to bake"
+    "str2": "To cook, to bake",
+    "num": 644
   },
   {
     "word": "offended",
@@ -37,7 +41,8 @@
     "translit": "(ḥā·ṭə·’ū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 2398:  ",
-    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn"
+    "str2": "To miss, to sin, to forfeit, lack, expiate, repent, lead astray, condemn",
+    "num": 2398
   },
   {
     "word": "their master,",
@@ -45,7 +50,8 @@
     "translit": "(la·’ă·ḏō·nê·hem)",
     "parse": "Preposition-l | Noun - masculine plural construct | third person masculine plural",
     "str": "Strong's 113:  ",
-    "str2": "Sovereign, controller"
+    "str2": "Sovereign, controller",
+    "num": 113
   },
   {
     "word": "the king",
@@ -53,7 +59,8 @@
     "translit": "(lə·me·leḵ)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "of Egypt.",
@@ -61,6 +68,7 @@
     "translit": "(miṣ·rā·yim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 4714:  ",
-    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa"
+    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+    "num": 4714
   }
 ]

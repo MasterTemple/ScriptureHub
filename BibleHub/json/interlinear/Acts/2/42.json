@@ -5,7 +5,8 @@
     "translit": "(Ēsan)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "devoted themselves",
@@ -13,7 +14,8 @@
     "translit": "(proskarterountes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 4342:  ",
-    "str2": "To persist, persevere in, continue steadfast in; I wait upon. "
+    "str2": "To persist, persevere in, continue steadfast in; I wait upon. ",
+    "num": 4342
   },
   {
     "word": "to",
@@ -21,7 +23,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "apostles’",
@@ -37,7 +41,8 @@
     "translit": "(apostolōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 652:  ",
-    "str2": "From apostello; a delegate; specially, an ambassador of the Gospel; officially a commissioner of Christ."
+    "str2": "From apostello; a delegate; specially, an ambassador of the Gospel; officially a commissioner of Christ.",
+    "num": 652
   },
   {
     "word": "teaching",
@@ -45,7 +50,8 @@
     "translit": "(didachē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 1322:  ",
-    "str2": "Teaching, doctrine, what is taught. From didasko; instruction."
+    "str2": "Teaching, doctrine, what is taught. From didasko; instruction.",
+    "num": 1322
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "to the",
@@ -61,7 +68,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "fellowship,",
@@ -69,7 +77,8 @@
     "translit": "(koinōnia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 2842:  ",
-    "str2": "From koinonos; partnership, i.e. participation, or intercourse, or benefaction."
+    "str2": "From koinonos; partnership, i.e. participation, or intercourse, or benefaction.",
+    "num": 2842
   },
   {
     "word": "to the",
@@ -77,7 +86,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "breaking",
@@ -85,7 +95,8 @@
     "translit": "(klasei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 2800:  ",
-    "str2": "A breaking. From klao; fracture."
+    "str2": "A breaking. From klao; fracture.",
+    "num": 2800
   },
   {
     "word": "of bread",
@@ -93,7 +104,8 @@
     "translit": "(artou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 740:  ",
-    "str2": "Bread, a loaf, food. From airo; bread or a loaf."
+    "str2": "Bread, a loaf, food. From airo; bread or a loaf.",
+    "num": 740
   },
   {
     "word": "and",
@@ -101,7 +113,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "to",
@@ -109,7 +122,8 @@
     "translit": "(tais)",
     "parse": "Article - Dative Feminine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "prayer.",
@@ -117,6 +131,7 @@
     "translit": "(proseuchais)",
     "parse": "Noun - Dative Feminine Plural",
     "str": "Strong's 4335:  ",
-    "str2": "From proseuchomai; prayer; by implication, an oratory."
+    "str2": "From proseuchomai; prayer; by implication, an oratory.",
+    "num": 4335
   }
 ]

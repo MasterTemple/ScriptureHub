@@ -5,7 +5,8 @@
     "translit": "(oun)",
     "parse": "Conjunction",
     "str": "Strong's 3767:  ",
-    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly."
+    "str2": "Therefore, then. Apparently a primary word; certainly, or accordingly.",
+    "num": 3767
   },
   {
     "word": "you",
@@ -13,7 +14,8 @@
     "translit": "(se)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "should",
@@ -21,7 +23,8 @@
     "translit": "(edei)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1163:  ",
-    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary."
+    "str2": "Third person singular active present of deo; also deon deh-on'; neuter active participle of the same; both used impersonally; it is Necessary.",
+    "num": 1163
   },
   {
     "word": "have deposited",
@@ -29,7 +32,8 @@
     "translit": "(balein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 906:  ",
-    "str2": "(a) I cast, throw, rush, (b) often, in the weaker sense: I place, put, drop. A primary verb; to throw."
+    "str2": "(a) I cast, throw, rush, (b) often, in the weaker sense: I place, put, drop. A primary verb; to throw.",
+    "num": 906
   },
   {
     "word": "my",
@@ -37,7 +41,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "money",
@@ -45,7 +50,8 @@
     "translit": "(argyria)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 694:  ",
-    "str2": "Neuter of a presumed derivative of arguros; silvery, i.e. cash; specially, a silverling."
+    "str2": "Neuter of a presumed derivative of arguros; silvery, i.e. cash; specially, a silverling.",
+    "num": 694
   },
   {
     "word": "with the",
@@ -53,7 +59,8 @@
     "translit": "(tois)",
     "parse": "Article - Dative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "bankers,",
@@ -61,7 +68,8 @@
     "translit": "(trapezitais)",
     "parse": "Noun - Dative Masculine Plural",
     "str": "Strong's 5133:  ",
-    "str2": "A money-changer, banker. From trapeza; a money-broker or banker."
+    "str2": "A money-changer, banker. From trapeza; a money-broker or banker.",
+    "num": 5133
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "on my return",
@@ -77,7 +86,8 @@
     "translit": "(elthōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "I would have received",
@@ -85,7 +95,8 @@
     "translit": "(ekomisamēn)",
     "parse": "Verb - Aorist Indicative Middle - 1st Person Singular",
     "str": "Strong's 2865:  ",
-    "str2": "From a primary komeo; properly, to provide for, i.e. to carry off."
+    "str2": "From a primary komeo; properly, to provide for, i.e. to carry off.",
+    "num": 2865
   },
   {
     "word": "it {back}",
@@ -93,7 +104,8 @@
     "translit": "(emon)",
     "parse": "Personal / Possessive Pronoun - Accusative Neuter 1st Person Singular",
     "str": "Strong's 1699:  ",
-    "str2": "My, mine. From the oblique cases of ego; my."
+    "str2": "My, mine. From the oblique cases of ego; my.",
+    "num": 1699
   },
   {
     "word": "with",
@@ -101,7 +113,8 @@
     "translit": "(syn)",
     "parse": "Preposition",
     "str": "Strong's 4862:  ",
-    "str2": "With. A primary preposition denoting union; with or together."
+    "str2": "With. A primary preposition denoting union; with or together.",
+    "num": 4862
   },
   {
     "word": "interest.",
@@ -109,6 +122,7 @@
     "translit": "(tokō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 5110:  ",
-    "str2": "Interest, usury. From the base of tikto; interest on money loaned."
+    "str2": "Interest, usury. From the base of tikto; interest on money loaned.",
+    "num": 5110
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(hū)",
     "parse": "Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "is a bear",
@@ -13,7 +14,8 @@
     "translit": "(dōḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1677:  ",
-    "str2": "The bear"
+    "str2": "The bear",
+    "num": 1677
   },
   {
     "word": "lying in wait,",
@@ -21,7 +23,8 @@
     "translit": "(’ō·rêḇ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 693:  ",
-    "str2": "To lie in wait"
+    "str2": "To lie in wait",
+    "num": 693
   },
   {
     "word": "a lion",
@@ -29,7 +32,8 @@
     "translit": "(’ă·rî)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 738:  ",
-    "str2": "A lion"
+    "str2": "A lion",
+    "num": 738
   },
   {
     "word": "in hiding.",
@@ -37,6 +41,7 @@
     "translit": "(bə·mis·tā·rîm)",
     "parse": "Preposition-b | Noun - masculine plural",
     "str": "Strong's 4565:  ",
-    "str2": "A secret place, hiding place"
+    "str2": "A secret place, hiding place",
+    "num": 4565
   }
 ]

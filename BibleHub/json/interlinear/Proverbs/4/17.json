@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "they eat",
@@ -13,7 +14,8 @@
     "translit": "(lā·ḥă·mū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 3898:  ",
-    "str2": "To feed on, to consume, to battle"
+    "str2": "To feed on, to consume, to battle",
+    "num": 3898
   },
   {
     "word": "the bread",
@@ -21,7 +23,8 @@
     "translit": "(le·ḥem)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3899:  ",
-    "str2": "Food, bread, grain"
+    "str2": "Food, bread, grain",
+    "num": 3899
   },
   {
     "word": "of wickedness",
@@ -29,7 +32,8 @@
     "translit": "(re·ša‘)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7562:  ",
-    "str2": "Wickedness"
+    "str2": "Wickedness",
+    "num": 7562
   },
   {
     "word": "and drink",
@@ -37,7 +41,8 @@
     "translit": "(yiš·tū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 8354:  ",
-    "str2": "To imbibe"
+    "str2": "To imbibe",
+    "num": 8354
   },
   {
     "word": "the wine",
@@ -45,7 +50,8 @@
     "translit": "(wə·yên)",
     "parse": "Conjunctive waw | Noun - masculine singular construct",
     "str": "Strong's 3196:  ",
-    "str2": "Wine, intoxication"
+    "str2": "Wine, intoxication",
+    "num": 3196
   },
   {
     "word": "of violence.",
@@ -53,6 +59,7 @@
     "translit": "(ḥă·mā·sîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 2555:  ",
-    "str2": "Violence, wrong, by meton, unjust gain"
+    "str2": "Violence, wrong, by meton, unjust gain",
+    "num": 2555
   }
 ]

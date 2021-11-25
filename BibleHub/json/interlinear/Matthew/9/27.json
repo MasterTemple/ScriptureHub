@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Jesus",
@@ -13,7 +14,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "went on",
@@ -21,7 +23,8 @@
     "translit": "(paragonti)",
     "parse": "Verb - Present Participle Active - Dative Masculine Singular",
     "str": "Strong's 3855:  ",
-    "str2": "To pass by, depart, pass away. From para and ago; to lead near, i.e. to go along or away."
+    "str2": "To pass by, depart, pass away. From para and ago; to lead near, i.e. to go along or away.",
+    "num": 3855
   },
   {
     "word": "from there,",
@@ -29,7 +32,8 @@
     "translit": "(ekeithen)",
     "parse": "Adverb",
     "str": "Strong's 1564:  ",
-    "str2": "Thence, from that place. From ekei; thence."
+    "str2": "Thence, from that place. From ekei; thence.",
+    "num": 1564
   },
   {
     "word": "two",
@@ -37,7 +41,8 @@
     "translit": "(dyo)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 1417:  ",
-    "str2": "Two. A primary numeral; 'two'."
+    "str2": "Two. A primary numeral; 'two'.",
+    "num": 1417
   },
   {
     "word": "blind [men]",
@@ -45,7 +50,8 @@
     "translit": "(typhloi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 5185:  ",
-    "str2": "Blind, physically or mentally. From, tuphoo; opaque, i.e. blind."
+    "str2": "Blind, physically or mentally. From, tuphoo; opaque, i.e. blind.",
+    "num": 5185
   },
   {
     "word": "followed",
@@ -53,7 +59,8 @@
     "translit": "(ēkolouthēsan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 190:  ",
-    "str2": "To accompany, attend, follow. Properly, to be in the same way with, i.e. To accompany."
+    "str2": "To accompany, attend, follow. Properly, to be in the same way with, i.e. To accompany.",
+    "num": 190
   },
   {
     "word": "Him,",
@@ -61,7 +68,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "crying out,",
@@ -69,7 +77,8 @@
     "translit": "(krazontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2896:  ",
-    "str2": "To cry aloud, shriek. A primary verb; properly, to 'croak' or scream, i.e. to call aloud."
+    "str2": "To cry aloud, shriek. A primary verb; properly, to 'croak' or scream, i.e. to call aloud.",
+    "num": 2896
   },
   {
     "word": "“Have mercy on",
@@ -77,7 +86,8 @@
     "translit": "(Eleēson)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 1653:  ",
-    "str2": "To pity, have mercy on. From eleos; to compassionate."
+    "str2": "To pity, have mercy on. From eleos; to compassionate.",
+    "num": 1653
   },
   {
     "word": "us,",
@@ -85,7 +95,8 @@
     "translit": "(hēmas)",
     "parse": "Personal / Possessive Pronoun - Accusative 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "Son",
@@ -93,7 +104,8 @@
     "translit": "(huios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5207:  ",
-    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship."
+    "str2": "A son, descendent. Apparently a primary word; a 'son', used very widely of immediate, remote or figuratively, kinship.",
+    "num": 5207
   },
   {
     "word": "of David!”",
@@ -101,6 +113,7 @@
     "translit": "(Dauid)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 1138:  ",
-    "str2": "David, King of Israel. Of Hebrew origin; Dabid, the Israelite king."
+    "str2": "David, King of Israel. Of Hebrew origin; Dabid, the Israelite king.",
+    "num": 1138
   }
 ]

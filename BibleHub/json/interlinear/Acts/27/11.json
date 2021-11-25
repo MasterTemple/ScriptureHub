@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "contrary to",
@@ -13,7 +14,8 @@
     "translit": "(mallon)",
     "parse": "Adverb",
     "str": "Strong's 3123:  ",
-    "str2": "More, rather. Neuter of the comparative of the same as malista; more) or rather."
+    "str2": "More, rather. Neuter of the comparative of the same as malista; more) or rather.",
+    "num": 3123
   },
   {
     "word": "Paul’s",
@@ -21,7 +23,8 @@
     "translit": "(Paulou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3972:  ",
-    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle."
+    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle.",
+    "num": 3972
   },
   {
     "word": "advice,",
@@ -29,7 +32,8 @@
     "translit": "(legomenois)",
     "parse": "Verb - Present Participle Middle or Passive - Dative Neuter Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(Ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "centurion",
@@ -45,7 +50,8 @@
     "translit": "(hekatontarchēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 1543:  ",
-    "str2": "A centurion of the Roman army. Or hekatontarchos hek-at-on'-tar-khos; from hekaton and archo; the captain of one hundred men."
+    "str2": "A centurion of the Roman army. Or hekatontarchos hek-at-on'-tar-khos; from hekaton and archo; the captain of one hundred men.",
+    "num": 1543
   },
   {
     "word": "was persuaded",
@@ -53,7 +59,8 @@
     "translit": "(epeitheto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 3982:  ",
-    "str2": "A primary verb; to convince; by analogy, to pacify or conciliate; reflexively or passively, to assent, to rely."
+    "str2": "A primary verb; to convince; by analogy, to pacify or conciliate; reflexively or passively, to assent, to rely.",
+    "num": 3982
   },
   {
     "word": "by the",
@@ -61,7 +68,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "pilot",
@@ -69,7 +77,8 @@
     "translit": "(kybernētē)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2942:  ",
-    "str2": "A steersman, pilot; met: a guide, governor. From the same as kubernesis; helmsman, i.e. captain."
+    "str2": "A steersman, pilot; met: a guide, governor. From the same as kubernesis; helmsman, i.e. captain.",
+    "num": 2942
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -85,7 +95,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "owner of the ship.",
@@ -93,6 +104,7 @@
     "translit": "(nauklērō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 3490:  ",
-    "str2": "A captain (master) of a ship, ship-owner. From naus and kleros; a captain."
+    "str2": "A captain (master) of a ship, ship-owner. From naus and kleros; a captain.",
+    "num": 3490
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’il·lên)",
     "parse": "Pronoun - common plural",
     "str": "Strong's 459:  ",
-    "str2": "These"
+    "str2": "These",
+    "num": 459
   },
   {
     "word": "four",
@@ -13,7 +14,8 @@
     "translit": "(’ar·ba‘)",
     "parse": "Number - feminine singular",
     "str": "Strong's 703:  ",
-    "str2": "Four"
+    "str2": "Four",
+    "num": 703
   },
   {
     "word": "great",
@@ -21,7 +23,8 @@
     "translit": "(raḇ·rə·ḇā·ṯā)",
     "parse": "Adjective - feminine plural determinate",
     "str": "Strong's 7260:  ",
-    "str2": "Very great things "
+    "str2": "Very great things ",
+    "num": 7260
   },
   {
     "word": "beasts",
@@ -29,7 +32,8 @@
     "translit": "(ḥê·wā·ṯā)",
     "parse": "Noun - feminine plural determinate",
     "str": "Strong's 2423:  ",
-    "str2": "An animal"
+    "str2": "An animal",
+    "num": 2423
   },
   {
     "word": "are",
@@ -37,7 +41,8 @@
     "translit": "(’in·nîn)",
     "parse": "Pronoun - third person feminine plural",
     "str": "Strong's 581:  ",
-    "str2": "They, those"
+    "str2": "They, those",
+    "num": 581
   },
   {
     "word": "four",
@@ -45,7 +50,8 @@
     "translit": "(’ar·bə·‘āh)",
     "parse": "Number - masculine singular",
     "str": "Strong's 703:  ",
-    "str2": "Four"
+    "str2": "Four",
+    "num": 703
   },
   {
     "word": "kings",
@@ -53,7 +59,8 @@
     "translit": "(mal·ḵîn)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 4430:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4430
   },
   {
     "word": "[who] will arise",
@@ -61,7 +68,8 @@
     "translit": "(yə·qū·mūn)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 6966:  ",
-    "str2": "To arise, stand"
+    "str2": "To arise, stand",
+    "num": 6966
   },
   {
     "word": "from",
@@ -69,7 +77,8 @@
     "translit": "(min-)",
     "parse": "Preposition",
     "str": "Strong's 4481:  ",
-    "str2": "From, out of, by, by reason of, at, more than"
+    "str2": "From, out of, by, by reason of, at, more than",
+    "num": 4481
   },
   {
     "word": "the earth.",
@@ -77,6 +86,7 @@
     "translit": "(’ar·‘ā)",
     "parse": "Noun - feminine singular determinate",
     "str": "Strong's 772:  ",
-    "str2": "The earth, low"
+    "str2": "The earth, low",
+    "num": 772
   }
 ]

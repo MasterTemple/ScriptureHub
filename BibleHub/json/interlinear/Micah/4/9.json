@@ -5,7 +5,8 @@
     "translit": "(lām·māh)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "do you now",
@@ -13,7 +14,8 @@
     "translit": "(‘at·tāh)",
     "parse": "Adverb",
     "str": "Strong's 6258:  ",
-    "str2": "At this time"
+    "str2": "At this time",
+    "num": 6258
   },
   {
     "word": "cry",
@@ -21,7 +23,8 @@
     "translit": "(ṯā·rî·‘î)",
     "parse": "Verb - Hifil - Imperfect - second person feminine singular",
     "str": "Strong's 7321:  ",
-    "str2": "To mar, to split the ears, shout"
+    "str2": "To mar, to split the ears, shout",
+    "num": 7321
   },
   {
     "word": "aloud?",
@@ -29,7 +32,8 @@
     "translit": "(rê·a‘)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7452:  ",
-    "str2": "Perhaps shouting, roar"
+    "str2": "Perhaps shouting, roar",
+    "num": 7452
   },
   {
     "word": "Is there no",
@@ -37,7 +41,8 @@
     "translit": "(’ên-)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "king",
@@ -45,7 +50,8 @@
     "translit": "(hă·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "among you?",
@@ -53,7 +59,8 @@
     "translit": "(bāḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "Has",
@@ -61,7 +68,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "your counselor",
@@ -69,7 +77,8 @@
     "translit": "(yō·w·‘ă·ṣêḵ)",
     "parse": "Verb - Qal - Participle - masculine singular construct | second person feminine singular",
     "str": "Strong's 3289:  ",
-    "str2": "To advise, to deliberate, resolve"
+    "str2": "To advise, to deliberate, resolve",
+    "num": 3289
   },
   {
     "word": "perished",
@@ -77,7 +86,8 @@
     "translit": "(’ā·ḇāḏ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 6:  ",
-    "str2": "To wander away, lose oneself, to perish"
+    "str2": "To wander away, lose oneself, to perish",
+    "num": 6
   },
   {
     "word": "so that",
@@ -85,7 +95,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "anguish",
@@ -93,7 +104,8 @@
     "translit": "(ḥîl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2427:  ",
-    "str2": "A writhing, anguish"
+    "str2": "A writhing, anguish",
+    "num": 2427
   },
   {
     "word": "grips you",
@@ -101,7 +113,8 @@
     "translit": "(he·ḥĕ·zî·qêḵ)",
     "parse": "Verb - Hifil - Perfect - third person masculine singular | second person feminine singular",
     "str": "Strong's 2388:  ",
-    "str2": "To fasten upon, to seize, be strong, obstinate, to bind, restrain, conquer"
+    "str2": "To fasten upon, to seize, be strong, obstinate, to bind, restrain, conquer",
+    "num": 2388
   },
   {
     "word": "like a woman in labor?",
@@ -109,6 +122,7 @@
     "translit": "(kay·yō·w·lê·ḏāh)",
     "parse": "Preposition-k, Article | Verb - Qal - Participle - feminine singular",
     "str": "Strong's 3205:  ",
-    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage"
+    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage",
+    "num": 3205
   }
 ]

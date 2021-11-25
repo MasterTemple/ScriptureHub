@@ -5,7 +5,8 @@
     "translit": "(way·yā·ḇō·’ū)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine plural",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "into a covenant",
@@ -13,7 +14,8 @@
     "translit": "(ḇab·bə·rîṯ)",
     "parse": "Preposition-b, Article | Noun - feminine singular",
     "str": "Strong's 1285:  ",
-    "str2": "A covenant"
+    "str2": "A covenant",
+    "num": 1285
   },
   {
     "word": "to seek",
@@ -21,7 +23,8 @@
     "translit": "(liḏ·rō·wōš)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 1875:  ",
-    "str2": "To tread, frequent, to follow, to seek, ask, to worship"
+    "str2": "To tread, frequent, to follow, to seek, ask, to worship",
+    "num": 1875
   },
   {
     "word": "the LORD,",
@@ -29,7 +32,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "the God",
@@ -37,7 +41,8 @@
     "translit": "(’ĕ·lō·hê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "of their fathers,",
@@ -45,7 +50,8 @@
     "translit": "(’ă·ḇō·w·ṯê·hem)",
     "parse": "Noun - masculine plural construct | third person masculine plural",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "with all",
@@ -53,7 +59,8 @@
     "translit": "(bə·ḵāl)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "their heart",
@@ -61,7 +68,8 @@
     "translit": "(lə·ḇā·ḇām)",
     "parse": "Noun - masculine singular construct | third person masculine plural",
     "str": "Strong's 3824:  ",
-    "str2": "Inner man, mind, will, heart"
+    "str2": "Inner man, mind, will, heart",
+    "num": 3824
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(ū·ḇə·ḵāl)",
     "parse": "Conjunctive waw, Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "soul.",
@@ -77,6 +86,7 @@
     "translit": "(nap̄·šām)",
     "parse": "Noun - feminine singular construct | third person masculine plural",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   }
 ]

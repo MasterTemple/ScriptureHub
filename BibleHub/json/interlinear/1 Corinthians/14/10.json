@@ -5,7 +5,8 @@
     "translit": "(tychoi)",
     "parse": "Verb - Aorist Optative Active - 3rd Person Singular",
     "str": "Strong's 5177:  ",
-    "str2": "(a) gen: I obtain, (b) absol: I chance, happen; ordinary, everyday, it may chance, perhaps. "
+    "str2": "(a) gen: I obtain, (b) absol: I chance, happen; ordinary, everyday, it may chance, perhaps. ",
+    "num": 5177
   },
   {
     "word": "there are",
@@ -13,7 +14,8 @@
     "translit": "(eisin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "many",
@@ -21,7 +23,8 @@
     "translit": "(Tosauta)",
     "parse": "Demonstrative Pronoun - Nominative Neuter Plural",
     "str": "Strong's 5118:  ",
-    "str2": "So great, so large, so long, so many. From tosos and houtos; so vast as this, i.e. Such."
+    "str2": "So great, so large, so long, so many. From tosos and houtos; so vast as this, i.e. Such.",
+    "num": 5118
   },
   {
     "word": "different",
@@ -29,7 +32,8 @@
     "translit": "(genē)",
     "parse": "Noun - Nominative Neuter Plural",
     "str": "Strong's 1085:  ",
-    "str2": "Offspring, family, race, nation, kind. From ginomai; 'kin'."
+    "str2": "Offspring, family, race, nation, kind. From ginomai; 'kin'.",
+    "num": 1085
   },
   {
     "word": "languages",
@@ -37,7 +41,8 @@
     "translit": "(phōnōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 5456:  ",
-    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language."
+    "str2": "Probably akin to phaino through the idea of disclosure; a tone; by implication, an address, saying or language.",
+    "num": 5456
   },
   {
     "word": "in",
@@ -45,7 +50,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[the] world,",
@@ -53,7 +59,8 @@
     "translit": "(kosmō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2889:  ",
-    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally)."
+    "str2": "Probably from the base of komizo; orderly arrangement, i.e. Decoration; by implication, the world (morally).",
+    "num": 2889
   },
   {
     "word": "yet",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "none [of them is]",
@@ -69,7 +77,8 @@
     "translit": "(ouden)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 3762:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3762
   },
   {
     "word": "without meaning.",
@@ -77,6 +86,7 @@
     "translit": "(aphōnon)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 880:  ",
-    "str2": "Soundless, voiceless, speechless, dumb. Figuratively, unmeaning."
+    "str2": "Soundless, voiceless, speechless, dumb. Figuratively, unmeaning.",
+    "num": 880
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "I do not",
@@ -13,7 +14,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "know how",
@@ -21,7 +23,8 @@
     "translit": "(yā·ḏa‘·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "to flatter,",
@@ -29,7 +32,8 @@
     "translit": "(’ă·ḵan·neh)",
     "parse": "Verb - Piel - Imperfect - first person common singular",
     "str": "Strong's 3655:  ",
-    "str2": "To address by an additional name, to eulogize"
+    "str2": "To address by an additional name, to eulogize",
+    "num": 3655
   },
   {
     "word": "or my Maker",
@@ -37,7 +41,8 @@
     "translit": "(‘ō·śê·nî)",
     "parse": "Verb - Qal - Participle - masculine singular construct | first person common singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "would remove me",
@@ -45,7 +50,8 @@
     "translit": "(yiś·śā·’ê·nî)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular | first person common singular",
     "str": "Strong's 5375:  ",
-    "str2": "To lift, carry, take"
+    "str2": "To lift, carry, take",
+    "num": 5375
   },
   {
     "word": "in an instant.",
@@ -53,6 +59,7 @@
     "translit": "(kim·‘aṭ)",
     "parse": "Preposition-k | Adjective - masculine singular",
     "str": "Strong's 4592:  ",
-    "str2": "A little, fewness, a few"
+    "str2": "A little, fewness, a few",
+    "num": 4592
   }
 ]

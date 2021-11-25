@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "news",
@@ -13,7 +14,8 @@
     "translit": "(logos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "of",
@@ -21,7 +23,8 @@
     "translit": "(peri)",
     "parse": "Preposition",
     "str": "Strong's 4012:  ",
-    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time."
+    "str2": "From the base of peran; properly, through, i.e. Around; figuratively with respect to; used in various applications, of place, cause or time.",
+    "num": 4012
   },
   {
     "word": "this",
@@ -29,7 +32,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "[reached]",
@@ -37,7 +41,8 @@
     "translit": "(Ēkousthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(ta)",
     "parse": "Article - Accusative Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "ears",
@@ -53,7 +59,8 @@
     "translit": "(ōta)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 3775:  ",
-    "str2": "(a) the ear, (b) met: the faculty of perception. Apparently a primary word; the ear."
+    "str2": "(a) the ear, (b) met: the faculty of perception. Apparently a primary word; the ear.",
+    "num": 3775
   },
   {
     "word": "of the",
@@ -61,7 +68,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "church",
@@ -69,7 +77,8 @@
     "translit": "(ekklēsias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1577:  ",
-    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation."
+    "str2": "From a compound of ek and a derivative of kaleo; a calling out, i.e. a popular meeting, especially a religious congregation.",
+    "num": 1577
   },
   {
     "word": "in",
@@ -77,7 +86,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "Jerusalem,",
@@ -85,7 +95,8 @@
     "translit": "(Ierousalēm)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 2419:  ",
-    "str2": "Of Hebrew origin; Hierusalem, the capitol of Palestine."
+    "str2": "Of Hebrew origin; Hierusalem, the capitol of Palestine.",
+    "num": 2419
   },
   {
     "word": "they sent",
@@ -93,7 +104,8 @@
     "translit": "(exapesteilan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1821:  ",
-    "str2": "From ek and apostello; to send away forth, i.e. to despatch, or to dismiss."
+    "str2": "From ek and apostello; to send away forth, i.e. to despatch, or to dismiss.",
+    "num": 1821
   },
   {
     "word": "Barnabas",
@@ -101,7 +113,8 @@
     "translit": "(Barnaban)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 921:  ",
-    "str2": "Of Chaldee origin; son of Nabas; Barnabas, an Israelite."
+    "str2": "Of Chaldee origin; son of Nabas; Barnabas, an Israelite.",
+    "num": 921
   },
   {
     "word": "to",
@@ -109,7 +122,8 @@
     "translit": "(dielthein)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 1330:  ",
-    "str2": "To pass through, spread (as a report). From dia and erchomai; to traverse."
+    "str2": "To pass through, spread (as a report). From dia and erchomai; to traverse.",
+    "num": 1330
   },
   {
     "word": "Antioch.",
@@ -117,6 +131,7 @@
     "translit": "(Antiocheias)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 490:  ",
-    "str2": "From Antiochus; Antiochia, a place in Syria."
+    "str2": "From Antiochus; Antiochia, a place in Syria.",
+    "num": 490
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(Tima)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 5091:  ",
-    "str2": "From timios; to prize, i.e. Fix a valuation upon; by implication, to revere."
+    "str2": "From timios; to prize, i.e. Fix a valuation upon; by implication, to revere.",
+    "num": 5091
   },
   {
     "word": "your",
@@ -13,7 +14,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "father",
@@ -21,7 +23,8 @@
     "translit": "(patera)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "mother”",
@@ -37,7 +41,8 @@
     "translit": "(mētera)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3384:  ",
-    "str2": "A mother. Apparently a primary word; a 'mother'."
+    "str2": "A mother. Apparently a primary word; a 'mother'.",
+    "num": 3384
   },
   {
     "word": "(which",
@@ -45,7 +50,8 @@
     "translit": "(hētis)",
     "parse": "Personal / Relative Pronoun - Nominative Feminine Singular",
     "str": "Strong's 3748:  ",
-    "str2": "Whosoever, whichsoever, whatsoever. "
+    "str2": "Whosoever, whichsoever, whatsoever. ",
+    "num": 3748
   },
   {
     "word": "is",
@@ -53,7 +59,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "the first",
@@ -61,7 +68,8 @@
     "translit": "(prōtē)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 4413:  ",
-    "str2": "First, before, principal, most important. Contracted superlative of pro; foremost."
+    "str2": "First, before, principal, most important. Contracted superlative of pro; foremost.",
+    "num": 4413
   },
   {
     "word": "commandment",
@@ -69,7 +77,8 @@
     "translit": "(entolē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1785:  ",
-    "str2": "An ordinance, injunction, command, law. From entellomai; injunction, i.e. An authoritative prescription."
+    "str2": "An ordinance, injunction, command, law. From entellomai; injunction, i.e. An authoritative prescription.",
+    "num": 1785
   },
   {
     "word": "with",
@@ -77,7 +86,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "a promise),",
@@ -85,6 +95,7 @@
     "translit": "(epangelia)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 1860:  ",
-    "str2": "A promise. From epaggello; an announcement."
+    "str2": "A promise. From epaggello; an announcement.",
+    "num": 1860
   }
 ]

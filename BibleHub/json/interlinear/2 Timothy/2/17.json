@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "talk",
@@ -21,7 +23,8 @@
     "translit": "(logos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "of [such men]",
@@ -29,7 +32,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "will",
@@ -37,7 +41,8 @@
     "translit": "(hexei)",
     "parse": "Verb - Future Indicative Active - 3rd Person Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "spread",
@@ -45,7 +50,8 @@
     "translit": "(nomēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3542:  ",
-    "str2": "(a) pasture, pasturage, (b) met: growth, increase. Feminine from the same as nomos; pasture, i.e. feeding, or pasturage."
+    "str2": "(a) pasture, pasturage, (b) met: growth, increase. Feminine from the same as nomos; pasture, i.e. feeding, or pasturage.",
+    "num": 3542
   },
   {
     "word": "like",
@@ -53,7 +59,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "gangrene.",
@@ -61,7 +68,8 @@
     "translit": "(gangraina)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1044:  ",
-    "str2": "Gangrene, mortification. From graino; an ulcer."
+    "str2": "Gangrene, mortification. From graino; an ulcer.",
+    "num": 1044
   },
   {
     "word": "Among [them]",
@@ -69,7 +77,8 @@
     "translit": "(hōn)",
     "parse": "Personal / Relative Pronoun - Genitive Masculine Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "are",
@@ -77,7 +86,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "Hymenaeus",
@@ -85,7 +95,8 @@
     "translit": "(Hymenaios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5211:  ",
-    "str2": "Hymenaeus. From Humen; 'hymeneal'; Hymeneus, an opponent of Christianity."
+    "str2": "Hymenaeus. From Humen; 'hymeneal'; Hymeneus, an opponent of Christianity.",
+    "num": 5211
   },
   {
     "word": "and",
@@ -93,7 +104,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Philetus,",
@@ -101,6 +113,7 @@
     "translit": "(Philētos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 5372:  ",
-    "str2": "Philetus, a Christian at Rome. From phileo; amiable; Philetus, an opposer of Christianity."
+    "str2": "Philetus, a Christian at Rome. From phileo; amiable; Philetus, an opposer of Christianity.",
+    "num": 5372
   }
 ]

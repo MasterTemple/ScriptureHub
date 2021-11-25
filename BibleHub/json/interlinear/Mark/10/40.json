@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "to sit",
@@ -13,7 +14,8 @@
     "translit": "(kathisai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2523:  ",
-    "str2": "Another form for kathezomai; to seat down, i.e. Set; intransitively, to sit; figuratively, to settle."
+    "str2": "Another form for kathezomai; to seat down, i.e. Set; intransitively, to sit; figuratively, to settle.",
+    "num": 2523
   },
   {
     "word": "at",
@@ -21,7 +23,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "My",
@@ -29,7 +32,8 @@
     "translit": "(mou)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "right",
@@ -37,7 +41,8 @@
     "translit": "(dexiōn)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 1188:  ",
-    "str2": "On the right hand, right hand, right. From dechomai; the right side or hand."
+    "str2": "On the right hand, right hand, right. From dechomai; the right side or hand.",
+    "num": 1188
   },
   {
     "word": "or",
@@ -45,7 +50,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "[My] left",
@@ -53,7 +59,8 @@
     "translit": "(euōnymōn)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 2176:  ",
-    "str2": "From eu and onoma; properly, well-named, i.e. The left; neuter as adverbial, at the left hand."
+    "str2": "From eu and onoma; properly, well-named, i.e. The left; neuter as adverbial, at the left hand.",
+    "num": 2176
   },
   {
     "word": "is",
@@ -61,7 +68,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "not",
@@ -69,7 +77,8 @@
     "translit": "(ouk)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "Mine",
@@ -77,7 +86,8 @@
     "translit": "(emon)",
     "parse": "Personal / Possessive Pronoun - Nominative Neuter 1st Person Singular",
     "str": "Strong's 1699:  ",
-    "str2": "My, mine. From the oblique cases of ego; my."
+    "str2": "My, mine. From the oblique cases of ego; my.",
+    "num": 1699
   },
   {
     "word": "to grant.",
@@ -85,7 +95,8 @@
     "translit": "(dounai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 1325:  ",
-    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give."
+    "str2": "To offer, give; I put, place. A prolonged form of a primary verb; to give.",
+    "num": 1325
   },
   {
     "word": "[These places belong] to those for whom",
@@ -93,7 +104,8 @@
     "translit": "(hois)",
     "parse": "Personal / Relative Pronoun - Dative Masculine Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "they have been prepared.”",
@@ -101,6 +113,7 @@
     "translit": "(hētoimastai)",
     "parse": "Verb - Perfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 2090:  ",
-    "str2": "To make ready, prepare. From hetoimos; to prepare."
+    "str2": "To make ready, prepare. From hetoimos; to prepare.",
+    "num": 2090
   }
 ]

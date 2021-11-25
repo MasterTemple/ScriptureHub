@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "night",
@@ -13,7 +14,8 @@
     "translit": "(nykti)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3571:  ",
-    "str2": "The night, night-time. A primary word; 'night'."
+    "str2": "The night, night-time. A primary word; 'night'.",
+    "num": 3571
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord",
@@ -29,7 +32,8 @@
     "translit": "(Kyrios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "spoke",
@@ -37,7 +41,8 @@
     "translit": "(Eipen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2036:  ",
-    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say."
+    "str2": "Answer, bid, bring word, command. A primary verb; to speak or say.",
+    "num": 2036
   },
   {
     "word": "to Paul",
@@ -45,7 +50,8 @@
     "translit": "(Paulō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 3972:  ",
-    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle."
+    "str2": "Paul, Paulus. Of Latin origin; Paulus, the name of a Roman and of an apostle.",
+    "num": 3972
   },
   {
     "word": "in",
@@ -53,7 +59,8 @@
     "translit": "(di’)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "a vision:",
@@ -61,7 +68,8 @@
     "translit": "(horamatos)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 3705:  ",
-    "str2": "A spectacle, vision, that which is seen. From horao; something gazed at, i.e. A spectacle."
+    "str2": "A spectacle, vision, that which is seen. From horao; something gazed at, i.e. A spectacle.",
+    "num": 3705
   },
   {
     "word": "“{Do} not",
@@ -69,7 +77,8 @@
     "translit": "(Mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "be afraid;",
@@ -77,7 +86,8 @@
     "translit": "(phobou)",
     "parse": "Verb - Present Imperative Middle or Passive - 2nd Person Singular",
     "str": "Strong's 5399:  ",
-    "str2": "From phobos; to frighten, i.e. to be alarmed; by analogy, to be in awe of, i.e. Revere."
+    "str2": "From phobos; to frighten, i.e. to be alarmed; by analogy, to be in awe of, i.e. Revere.",
+    "num": 5399
   },
   {
     "word": "keep on speaking;",
@@ -85,7 +95,8 @@
     "translit": "(lalei)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 2980:  ",
-    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words."
+    "str2": "A prolonged form of an otherwise obsolete verb; to talk, i.e. Utter words.",
+    "num": 2980
   },
   {
     "word": "{do} not",
@@ -93,7 +104,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "be silent.",
@@ -101,6 +113,7 @@
     "translit": "(siōpēsēs)",
     "parse": "Verb - Aorist Subjunctive Active - 2nd Person Singular",
     "str": "Strong's 4623:  ",
-    "str2": "To keep silence, be silent, either voluntarily or involuntarily. From siope; to be dumb; figuratively, to be calm."
+    "str2": "To keep silence, be silent, either voluntarily or involuntarily. From siope; to be dumb; figuratively, to be calm.",
+    "num": 4623
   }
 ]

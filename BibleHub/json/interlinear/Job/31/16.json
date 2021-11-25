@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I have denied",
@@ -13,7 +14,8 @@
     "translit": "(’em·na‘)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 4513:  ",
-    "str2": "To debar, from benefit, injury"
+    "str2": "To debar, from benefit, injury",
+    "num": 4513
   },
   {
     "word": "the desires",
@@ -21,7 +23,8 @@
     "translit": "(mê·ḥê·p̄eṣ)",
     "parse": "Preposition-m | Noun - masculine singular construct",
     "str": "Strong's 2656:  ",
-    "str2": "Pleasure, desire, a valuable thing, a matter"
+    "str2": "Pleasure, desire, a valuable thing, a matter",
+    "num": 2656
   },
   {
     "word": "of the poor",
@@ -29,7 +32,8 @@
     "translit": "(dal·lîm)",
     "parse": "Adjective - masculine plural construct",
     "str": "Strong's 1800:  ",
-    "str2": "Dangling, weak, thin"
+    "str2": "Dangling, weak, thin",
+    "num": 1800
   },
   {
     "word": "or allowed the widow’s",
@@ -37,7 +41,8 @@
     "translit": "(’al·mā·nāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 490:  ",
-    "str2": "A widow, a desolate place"
+    "str2": "A widow, a desolate place",
+    "num": 490
   },
   {
     "word": "eyes",
@@ -45,7 +50,8 @@
     "translit": "(wə·‘ê·nê)",
     "parse": "Conjunctive waw | Noun - cdc",
     "str": "Strong's 5869:  ",
-    "str2": "An eye, a fountain"
+    "str2": "An eye, a fountain",
+    "num": 5869
   },
   {
     "word": "to fail,",
@@ -53,6 +59,7 @@
     "translit": "(’ă·ḵal·leh)",
     "parse": "Verb - Piel - Imperfect - first person common singular",
     "str": "Strong's 3615:  ",
-    "str2": "To be complete, at an end, finished, accomplished, or spent"
+    "str2": "To be complete, at an end, finished, accomplished, or spent",
+    "num": 3615
   }
 ]

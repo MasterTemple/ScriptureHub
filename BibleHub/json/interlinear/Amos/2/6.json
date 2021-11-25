@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "says:",
@@ -21,7 +23,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“For",
@@ -29,7 +32,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "three",
@@ -37,7 +41,8 @@
     "translit": "(šə·lō·šāh)",
     "parse": "Number - masculine singular",
     "str": "Strong's 7969:  ",
-    "str2": "Three, third, thrice"
+    "str2": "Three, third, thrice",
+    "num": 7969
   },
   {
     "word": "transgressions",
@@ -45,7 +50,8 @@
     "translit": "(piš·‘ê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 6588:  ",
-    "str2": "Transgression"
+    "str2": "Transgression",
+    "num": 6588
   },
   {
     "word": "of Israel,",
@@ -53,7 +59,8 @@
     "translit": "(yiś·rā·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3478:  ",
-    "str2": "Israel -- 'God strives', another name of Jacob and his desc"
+    "str2": "Israel -- 'God strives', another name of Jacob and his desc",
+    "num": 3478
   },
   {
     "word": "even",
@@ -61,7 +68,8 @@
     "translit": "(wə·‘al-)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "four,",
@@ -69,7 +77,8 @@
     "translit": "(’ar·bā·‘āh)",
     "parse": "Number - masculine singular",
     "str": "Strong's 702:  ",
-    "str2": "Four"
+    "str2": "Four",
+    "num": 702
   },
   {
     "word": "I will not",
@@ -77,7 +86,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "revoke [My judgment],",
@@ -85,7 +95,8 @@
     "translit": "(’ă·šî·ḇen·nū)",
     "parse": "Verb - Hifil - Imperfect - first person common singular | third person masculine singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "because",
@@ -93,7 +104,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "they sell",
@@ -101,7 +113,8 @@
     "translit": "(miḵ·rām)",
     "parse": "Verb - Qal - Infinitive construct | third person masculine plural",
     "str": "Strong's 4376:  ",
-    "str2": "To sell"
+    "str2": "To sell",
+    "num": 4376
   },
   {
     "word": "the righteous",
@@ -109,7 +122,8 @@
     "translit": "(ṣad·dîq)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 6662:  ",
-    "str2": "Just, righteous"
+    "str2": "Just, righteous",
+    "num": 6662
   },
   {
     "word": "for silver",
@@ -117,7 +131,8 @@
     "translit": "(bak·ke·sep̄)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 3701:  ",
-    "str2": "Silver, money"
+    "str2": "Silver, money",
+    "num": 3701
   },
   {
     "word": "and the needy",
@@ -125,7 +140,8 @@
     "translit": "(wə·’eḇ·yō·wn)",
     "parse": "Conjunctive waw | Adjective - masculine singular",
     "str": "Strong's 34:  ",
-    "str2": "In want, needy, poor"
+    "str2": "In want, needy, poor",
+    "num": 34
   },
   {
     "word": "for",
@@ -133,7 +149,8 @@
     "translit": "(ba·‘ă·ḇūr)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 5668:  ",
-    "str2": "Crossed, transit, on account of, in order that"
+    "str2": "Crossed, transit, on account of, in order that",
+    "num": 5668
   },
   {
     "word": "a pair of sandals.",
@@ -141,6 +158,7 @@
     "translit": "(na·‘ă·lā·yim)",
     "parse": "Noun - fd",
     "str": "Strong's 5275:  ",
-    "str2": "A sandal tongue, a sandal, slipper"
+    "str2": "A sandal tongue, a sandal, slipper",
+    "num": 5275
   }
 ]

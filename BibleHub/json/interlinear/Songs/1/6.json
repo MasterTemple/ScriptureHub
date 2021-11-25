@@ -5,7 +5,8 @@
     "translit": "(’al-)",
     "parse": "Adverb",
     "str": "Strong's 408:  ",
-    "str2": "Not"
+    "str2": "Not",
+    "num": 408
   },
   {
     "word": "stare",
@@ -13,7 +14,8 @@
     "translit": "(tir·’ū·nî)",
     "parse": "Verb - Qal - Imperfect - second person masculine plural | first person common singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "because I",
@@ -21,7 +23,8 @@
     "translit": "(še·’ă·nî)",
     "parse": "Pronoun - relative | Pronoun - first person common singular",
     "str": "Strong's 589:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 589
   },
   {
     "word": "am dark,",
@@ -29,7 +32,8 @@
     "translit": "(šə·ḥar·ḥō·reṯ)",
     "parse": "Adjective - feminine singular",
     "str": "Strong's 7840:  ",
-    "str2": "Blackish"
+    "str2": "Blackish",
+    "num": 7840
   },
   {
     "word": "for the sun",
@@ -37,7 +41,8 @@
     "translit": "(haš·šā·meš)",
     "parse": "Article | Noun - common singular",
     "str": "Strong's 8121:  ",
-    "str2": "The sun, the east, a ray, a notched battlement"
+    "str2": "The sun, the east, a ray, a notched battlement",
+    "num": 8121
   },
   {
     "word": "has looked upon me.",
@@ -45,7 +50,8 @@
     "translit": "(šeš·šĕ·zā·p̄aṯ·nî)",
     "parse": "Pronoun - relative | Verb - Qal - Perfect - third person feminine singular | first person common singular",
     "str": "Strong's 7805:  ",
-    "str2": "To catch sight of, look on"
+    "str2": "To catch sight of, look on",
+    "num": 7805
   },
   {
     "word": "My mother’s",
@@ -53,7 +59,8 @@
     "translit": "(’im·mî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "sons",
@@ -61,7 +68,8 @@
     "translit": "(bə·nê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "were angry",
@@ -69,7 +77,8 @@
     "translit": "(ni·ḥă·rū-)",
     "parse": "Verb - Nifal - Perfect - third person common plural",
     "str": "Strong's 2787:  ",
-    "str2": "To be hot or scorched, to burn"
+    "str2": "To be hot or scorched, to burn",
+    "num": 2787
   },
   {
     "word": "with me;",
@@ -77,7 +86,8 @@
     "translit": "(ḇî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "they made",
@@ -85,7 +95,8 @@
     "translit": "(śā·mu·nî)",
     "parse": "Verb - Qal - Perfect - third person common plural | first person common singular",
     "str": "Strong's 7760:  ",
-    "str2": "Put -- to put, place, set"
+    "str2": "Put -- to put, place, set",
+    "num": 7760
   },
   {
     "word": "me a keeper",
@@ -93,7 +104,8 @@
     "translit": "(nō·ṭê·rāh)",
     "parse": "Verb - Qal - Participle - feminine singular",
     "str": "Strong's 5201:  ",
-    "str2": "To guard, to cherish"
+    "str2": "To guard, to cherish",
+    "num": 5201
   },
   {
     "word": "of the vineyards,",
@@ -101,7 +113,8 @@
     "translit": "(hak·kə·rā·mîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 3754:  ",
-    "str2": "A garden, vineyard"
+    "str2": "A garden, vineyard",
+    "num": 3754
   },
   {
     "word": "[but] my own vineyard",
@@ -109,7 +122,8 @@
     "translit": "(kar·mî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 3754:  ",
-    "str2": "A garden, vineyard"
+    "str2": "A garden, vineyard",
+    "num": 3754
   },
   {
     "word": "I have neglected.",
@@ -117,6 +131,7 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   }
 ]

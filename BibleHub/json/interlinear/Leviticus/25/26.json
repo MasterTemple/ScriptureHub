@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "a man",
@@ -13,7 +14,8 @@
     "translit": "(wə·’îš)",
     "parse": "Conjunctive waw | Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "has",
@@ -21,7 +23,8 @@
     "translit": "(yih·yeh-)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "no one",
@@ -29,7 +32,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "to redeem it",
@@ -37,7 +41,8 @@
     "translit": "(gō·’êl)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 1350:  ",
-    "str2": "To redeem, act as kinsman"
+    "str2": "To redeem, act as kinsman",
+    "num": 1350
   },
   {
     "word": "for him,",
@@ -45,7 +50,8 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "but he prospers",
@@ -53,7 +59,8 @@
     "translit": "(wə·hiś·śî·ḡāh)",
     "parse": "Conjunctive waw | Verb - Hifil - Conjunctive perfect - third person feminine singular",
     "str": "Strong's 5381:  ",
-    "str2": "To reach, overtake"
+    "str2": "To reach, overtake",
+    "num": 5381
   },
   {
     "word": "and acquires",
@@ -61,7 +68,8 @@
     "translit": "(ū·mā·ṣā)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 4672:  ",
-    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present"
+    "str2": "To come forth to, appear, exist, to attain, find, acquire, to occur, meet, be present",
+    "num": 4672
   },
   {
     "word": "enough",
@@ -69,7 +77,8 @@
     "translit": "(kə·ḏê)",
     "parse": "Preposition-k | Noun - masculine singular construct",
     "str": "Strong's 1767:  ",
-    "str2": "Sufficiency, enough"
+    "str2": "Sufficiency, enough",
+    "num": 1767
   },
   {
     "word": "to redeem his land,",
@@ -77,6 +86,7 @@
     "translit": "(ḡə·’ul·lā·ṯōw)",
     "parse": "Noun - feminine singular construct | third person masculine singular",
     "str": "Strong's 1353:  ",
-    "str2": "Redemption, relationship"
+    "str2": "Redemption, relationship",
+    "num": 1353
   }
 ]

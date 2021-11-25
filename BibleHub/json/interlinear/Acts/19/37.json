@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "you have brought",
@@ -13,7 +14,8 @@
     "translit": "(ēgagete)",
     "parse": "Verb - Aorist Indicative Active - 2nd Person Plural",
     "str": "Strong's 71:  ",
-    "str2": "A primary verb; properly, to lead; by implication, to bring, drive, go, pass, or induce."
+    "str2": "A primary verb; properly, to lead; by implication, to bring, drive, go, pass, or induce.",
+    "num": 71
   },
   {
     "word": "these",
@@ -21,7 +23,8 @@
     "translit": "(toutous)",
     "parse": "Demonstrative Pronoun - Accusative Masculine Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "men {here},",
@@ -29,7 +32,8 @@
     "translit": "(andras)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "[though they have] neither",
@@ -37,7 +41,8 @@
     "translit": "(oute)",
     "parse": "Conjunction",
     "str": "Strong's 3777:  ",
-    "str2": "And not, neither, nor. From ou and te; not too, i.e. Neither or nor; by analogy, not even."
+    "str2": "And not, neither, nor. From ou and te; not too, i.e. Neither or nor; by analogy, not even.",
+    "num": 3777
   },
   {
     "word": "robbed [our] temple",
@@ -45,7 +50,8 @@
     "translit": "(hierosylous)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 2417:  ",
-    "str2": "Robbing temples, but possibly simply: sacrilegious. From hieron and sulao; a temple-despoiler."
+    "str2": "Robbing temples, but possibly simply: sacrilegious. From hieron and sulao; a temple-despoiler.",
+    "num": 2417
   },
   {
     "word": "nor",
@@ -53,7 +59,8 @@
     "translit": "(oute)",
     "parse": "Conjunction",
     "str": "Strong's 3777:  ",
-    "str2": "And not, neither, nor. From ou and te; not too, i.e. Neither or nor; by analogy, not even."
+    "str2": "And not, neither, nor. From ou and te; not too, i.e. Neither or nor; by analogy, not even.",
+    "num": 3777
   },
   {
     "word": "blasphemed",
@@ -61,7 +68,8 @@
     "translit": "(blasphēmountas)",
     "parse": "Verb - Present Participle Active - Accusative Masculine Plural",
     "str": "Strong's 987:  ",
-    "str2": "From blasphemos; to vilify; specially, to speak impiously."
+    "str2": "From blasphemos; to vilify; specially, to speak impiously.",
+    "num": 987
   },
   {
     "word": "our",
@@ -69,7 +77,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "goddess.",
@@ -77,6 +86,7 @@
     "translit": "(theon)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

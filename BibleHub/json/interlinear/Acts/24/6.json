@@ -5,7 +5,8 @@
     "translit": "(hos)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "even",
@@ -13,7 +14,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "tried",
@@ -21,7 +23,8 @@
     "translit": "(epeirasen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 3985:  ",
-    "str2": "To try, tempt, test. From peira; to test, i.e. Endeavor, scrutinize, entice, discipline."
+    "str2": "To try, tempt, test. From peira; to test, i.e. Endeavor, scrutinize, entice, discipline.",
+    "num": 3985
   },
   {
     "word": "to desecrate",
@@ -29,7 +32,8 @@
     "translit": "(bebēlōsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 953:  ",
-    "str2": "To profane, pollute, violate. From bebelos; to desecrate."
+    "str2": "To profane, pollute, violate. From bebelos; to desecrate.",
+    "num": 953
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "temple;",
@@ -45,7 +50,8 @@
     "translit": "(hieron)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 2411:  ",
-    "str2": "Neuter of hieros; a sacred place, i.e. The entire precincts of the Temple."
+    "str2": "Neuter of hieros; a sacred place, i.e. The entire precincts of the Temple.",
+    "num": 2411
   },
   {
     "word": "[so]",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "we seized",
@@ -61,7 +68,8 @@
     "translit": "(ekratēsamen)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Plural",
     "str": "Strong's 2902:  ",
-    "str2": "From kratos; to use strength, i.e. Seize or retain."
+    "str2": "From kratos; to use strength, i.e. Seize or retain.",
+    "num": 2902
   },
   {
     "word": "[him].",
@@ -69,6 +77,7 @@
     "translit": "(hon)",
     "parse": "Personal / Relative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(’ĕ·ḏa·yin)",
     "parse": "Adverb",
     "str": "Strong's 116:  ",
-    "str2": "Then, thereupon"
+    "str2": "Then, thereupon",
+    "num": 116
   },
   {
     "word": "this",
@@ -13,7 +14,8 @@
     "translit": "(dêḵ)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 1791:  ",
-    "str2": "This"
+    "str2": "This",
+    "num": 1791
   },
   {
     "word": "Sheshbazzar",
@@ -21,7 +23,8 @@
     "translit": "(šê·šə·baṣ·ṣar)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 8340:  ",
-    "str2": "Sheshbazzar -- a prince of Judah"
+    "str2": "Sheshbazzar -- a prince of Judah",
+    "num": 8340
   },
   {
     "word": "came",
@@ -29,7 +32,8 @@
     "translit": "(’ă·ṯā)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 858:  ",
-    "str2": "To arrive"
+    "str2": "To arrive",
+    "num": 858
   },
   {
     "word": "and laid",
@@ -37,7 +41,8 @@
     "translit": "(yə·haḇ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 3052:  ",
-    "str2": "To give, to put, imperatively, come"
+    "str2": "To give, to put, imperatively, come",
+    "num": 3052
   },
   {
     "word": "the foundation",
@@ -45,7 +50,8 @@
     "translit": "(’uš·šay·yā)",
     "parse": "Noun - masculine plural determinate",
     "str": "Strong's 787:  ",
-    "str2": "A foundation"
+    "str2": "A foundation",
+    "num": 787
   },
   {
     "word": "of",
@@ -53,7 +59,8 @@
     "translit": "(dî-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 1768:  ",
-    "str2": "Who, which, that, because"
+    "str2": "Who, which, that, because",
+    "num": 1768
   },
   {
     "word": "the house",
@@ -61,7 +68,8 @@
     "translit": "(ḇêṯ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1005:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1005
   },
   {
     "word": "of God",
@@ -69,7 +77,8 @@
     "translit": "(’ĕ·lā·hā)",
     "parse": "Noun - masculine singular determinate",
     "str": "Strong's 426:  ",
-    "str2": "God"
+    "str2": "God",
+    "num": 426
   },
   {
     "word": "in Jerusalem,",
@@ -77,7 +86,8 @@
     "translit": "(ḇî·rū·šə·lem)",
     "parse": "Preposition-b | Noun - proper - feminine singular",
     "str": "Strong's 3390:  ",
-    "str2": "Jerusalem -- the capital city of all Israel"
+    "str2": "Jerusalem -- the capital city of all Israel",
+    "num": 3390
   },
   {
     "word": "and from",
@@ -85,7 +95,8 @@
     "translit": "(ū·min-)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 4481:  ",
-    "str2": "From, out of, by, by reason of, at, more than"
+    "str2": "From, out of, by, by reason of, at, more than",
+    "num": 4481
   },
   {
     "word": "that time",
@@ -93,7 +104,8 @@
     "translit": "(’ĕ·ḏa·yin)",
     "parse": "Adverb",
     "str": "Strong's 116:  ",
-    "str2": "Then, thereupon"
+    "str2": "Then, thereupon",
+    "num": 116
   },
   {
     "word": "until",
@@ -101,7 +113,8 @@
     "translit": "(wə·‘aḏ-)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 5705:  ",
-    "str2": "Even to, until"
+    "str2": "Even to, until",
+    "num": 5705
   },
   {
     "word": "now",
@@ -109,7 +122,8 @@
     "translit": "(kə·‘an)",
     "parse": "Adverb",
     "str": "Strong's 3705:  ",
-    "str2": "Now"
+    "str2": "Now",
+    "num": 3705
   },
   {
     "word": "it has been under construction,",
@@ -117,7 +131,8 @@
     "translit": "(miṯ·bə·nê)",
     "parse": "Verb - Hitpael - Participle - masculine singular",
     "str": "Strong's 1124:  ",
-    "str2": "To build"
+    "str2": "To build",
+    "num": 1124
   },
   {
     "word": "but is not",
@@ -125,7 +140,8 @@
     "translit": "(wə·lā)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3809:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3809
   },
   {
     "word": "yet completed.”",
@@ -133,6 +149,7 @@
     "translit": "(šə·lim)",
     "parse": "Verb - Qal - QalPassParticiple - masculine singular",
     "str": "Strong's 8000:  ",
-    "str2": "To complete, to restore"
+    "str2": "To complete, to restore",
+    "num": 8000
   }
 ]

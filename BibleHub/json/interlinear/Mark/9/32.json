@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "they did not understand",
@@ -13,7 +14,8 @@
     "translit": "(ēgnooun)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 50:  ",
-    "str2": "To do not know, be ignorant of, sometimes with the idea of willful ignorance. "
+    "str2": "To do not know, be ignorant of, sometimes with the idea of willful ignorance. ",
+    "num": 50
   },
   {
     "word": "this",
@@ -21,7 +23,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "statement,",
@@ -29,7 +32,8 @@
     "translit": "(rhēma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4487:  ",
-    "str2": "From rheo; an utterance, ; by implication, a matter or topic; with a negative naught whatever."
+    "str2": "From rheo; an utterance, ; by implication, a matter or topic; with a negative naught whatever.",
+    "num": 4487
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they were afraid",
@@ -45,7 +50,8 @@
     "translit": "(ephobounto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 5399:  ",
-    "str2": "From phobos; to frighten, i.e. to be alarmed; by analogy, to be in awe of, i.e. Revere."
+    "str2": "From phobos; to frighten, i.e. to be alarmed; by analogy, to be in awe of, i.e. Revere.",
+    "num": 5399
   },
   {
     "word": "to ask",
@@ -53,7 +59,8 @@
     "translit": "(eperōtēsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 1905:  ",
-    "str2": "To interrogate, question, demand of. From epi and erotao; to ask for, i.e. Inquire, seek."
+    "str2": "To interrogate, question, demand of. From epi and erotao; to ask for, i.e. Inquire, seek.",
+    "num": 1905
   },
   {
     "word": "Him.",
@@ -61,6 +68,7 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

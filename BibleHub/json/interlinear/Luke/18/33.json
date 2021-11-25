@@ -5,7 +5,8 @@
     "translit": "(mastigōsantes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 3146:  ",
-    "str2": "To flog, scourge, the victim being strapped to a pole or frame; met: I chastise. From mastix; to flog."
+    "str2": "To flog, scourge, the victim being strapped to a pole or frame; met: I chastise. From mastix; to flog.",
+    "num": 3146
   },
   {
     "word": "[and] kill",
@@ -13,7 +14,8 @@
     "translit": "(apoktenousin)",
     "parse": "Verb - Future Indicative Active - 3rd Person Plural",
     "str": "Strong's 615:  ",
-    "str2": "To put to death, kill; fig: I abolish. From apo and kteino; to kill outright; figuratively, to destroy."
+    "str2": "To put to death, kill; fig: I abolish. From apo and kteino; to kill outright; figuratively, to destroy.",
+    "num": 615
   },
   {
     "word": "Him,",
@@ -21,7 +23,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "on the",
@@ -37,7 +41,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "third",
@@ -45,7 +50,8 @@
     "translit": "(tritē)",
     "parse": "Adjective - Dative Feminine Singular",
     "str": "Strong's 5154:  ",
-    "str2": "Third. Ordinal from treis; third; neuter a third part, or a third time, thirdly."
+    "str2": "Third. Ordinal from treis; third; neuter a third part, or a third time, thirdly.",
+    "num": 5154
   },
   {
     "word": "day",
@@ -53,7 +59,8 @@
     "translit": "(hēmera)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "He will rise again.”",
@@ -61,6 +68,7 @@
     "translit": "(anastēsetai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Singular",
     "str": "Strong's 450:  ",
-    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up."
+    "str2": "To raise up, set up; I rise from among (the) dead; I arise, appear. From ana and histemi; to stand up.",
+    "num": 450
   }
 ]

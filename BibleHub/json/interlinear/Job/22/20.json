@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "our foes",
@@ -13,7 +14,8 @@
     "translit": "(qî·mā·nū)",
     "parse": "Noun - masculine singular construct | first person common plural",
     "str": "Strong's 7009:  ",
-    "str2": "An opponent, enemies"
+    "str2": "An opponent, enemies",
+    "num": 7009
   },
   {
     "word": "are destroyed,",
@@ -21,7 +23,8 @@
     "translit": "(niḵ·ḥaḏ)",
     "parse": "Verb - Nifal - Perfect - third person masculine singular",
     "str": "Strong's 3582:  ",
-    "str2": "To secrete, by act, word, to destroy"
+    "str2": "To secrete, by act, word, to destroy",
+    "num": 3582
   },
   {
     "word": "and fire",
@@ -29,7 +32,8 @@
     "translit": "(’êš)",
     "parse": "Noun - common singular",
     "str": "Strong's 784:  ",
-    "str2": "A fire"
+    "str2": "A fire",
+    "num": 784
   },
   {
     "word": "has consumed",
@@ -37,7 +41,8 @@
     "translit": "(’ā·ḵə·lāh)",
     "parse": "Verb - Qal - Perfect - third person feminine singular",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "their excess.’",
@@ -45,6 +50,7 @@
     "translit": "(wə·yiṯ·rām)",
     "parse": "Conjunctive waw | Noun - masculine singular construct | third person masculine plural",
     "str": "Strong's 3499:  ",
-    "str2": "An overhanging, an excess, superiority, remainder, a small rope"
+    "str2": "An overhanging, an excess, superiority, remainder, a small rope",
+    "num": 3499
   }
 ]

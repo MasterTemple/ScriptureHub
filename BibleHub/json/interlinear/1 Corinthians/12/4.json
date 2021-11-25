@@ -5,7 +5,8 @@
     "translit": "(eisin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "different",
@@ -13,7 +14,8 @@
     "translit": "(Diaireseis)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 1243:  ",
-    "str2": "Division, distribution, difference, distinction. From diaireo; a distinction or variety."
+    "str2": "Division, distribution, difference, distinction. From diaireo; a distinction or variety.",
+    "num": 1243
   },
   {
     "word": "gifts,",
@@ -21,7 +23,8 @@
     "translit": "(charismatōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 5486:  ",
-    "str2": "From charizomai; a gratuity, i.e. Deliverance;, a endowment, i.e. religious qualification, or miraculous faculty."
+    "str2": "From charizomai; a gratuity, i.e. Deliverance;, a endowment, i.e. religious qualification, or miraculous faculty.",
+    "num": 5486
   },
   {
     "word": "but",
@@ -29,7 +32,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "same",
@@ -45,7 +50,8 @@
     "translit": "(auto)",
     "parse": "Personal / Possessive Pronoun - Nominative Neuter 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "Spirit.",
@@ -53,6 +59,7 @@
     "translit": "(Pneuma)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   }
 ]

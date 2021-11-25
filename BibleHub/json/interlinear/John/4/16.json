@@ -5,7 +5,8 @@
     "translit": "(Legei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "her,",
@@ -13,7 +14,8 @@
     "translit": "(autē)",
     "parse": "Personal / Possessive Pronoun - Dative Feminine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "“Go,",
@@ -21,7 +23,8 @@
     "translit": "(Hypage)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 5217:  ",
-    "str2": "To go away, depart, begone, die. From hupo and ago; to lead under, i.e. Withdraw or retire, literally or figuratively."
+    "str2": "To go away, depart, begone, die. From hupo and ago; to lead under, i.e. Withdraw or retire, literally or figuratively.",
+    "num": 5217
   },
   {
     "word": "call",
@@ -29,7 +32,8 @@
     "translit": "(phōnēson)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 5455:  ",
-    "str2": "From phone; to emit a sound; by implication, to address in words or by name, also in imitation."
+    "str2": "From phone; to emit a sound; by implication, to address in words or by name, also in imitation.",
+    "num": 5455
   },
   {
     "word": "your",
@@ -37,7 +41,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "husband",
@@ -45,7 +50,8 @@
     "translit": "(andra)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 435:  ",
-    "str2": "A male human being; a man, husband. A primary word; a man."
+    "str2": "A male human being; a man, husband. A primary word; a man.",
+    "num": 435
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "come",
@@ -61,7 +68,8 @@
     "translit": "(elthe)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "[back].”",
@@ -69,6 +77,7 @@
     "translit": "(enthade)",
     "parse": "Adverb",
     "str": "Strong's 1759:  ",
-    "str2": "Here, in this place. From a prolonged form of en; properly, within, i.e. here, hither."
+    "str2": "Here, in this place. From a prolonged form of en; properly, within, i.e. here, hither.",
+    "num": 1759
   }
 ]

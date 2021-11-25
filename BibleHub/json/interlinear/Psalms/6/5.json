@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "there is no",
@@ -13,7 +14,8 @@
     "translit": "(’ên)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "mention of You",
@@ -21,7 +23,8 @@
     "translit": "(ziḵ·re·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 2143:  ",
-    "str2": "A memento, recollection, commemoration"
+    "str2": "A memento, recollection, commemoration",
+    "num": 2143
   },
   {
     "word": "in death;",
@@ -29,7 +32,8 @@
     "translit": "(bam·mā·weṯ)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 4194:  ",
-    "str2": "Death, the dead, their place, state, pestilence, ruin"
+    "str2": "Death, the dead, their place, state, pestilence, ruin",
+    "num": 4194
   },
   {
     "word": "who",
@@ -37,7 +41,8 @@
     "translit": "(mî)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "can praise",
@@ -45,7 +50,8 @@
     "translit": "(yō·w·ḏeh-)",
     "parse": "Verb - Hifil - Imperfect - third person masculine singular",
     "str": "Strong's 3034:  ",
-    "str2": "To throw, at, away, to revere, worship, to bemoan"
+    "str2": "To throw, at, away, to revere, worship, to bemoan",
+    "num": 3034
   },
   {
     "word": "You",
@@ -53,7 +59,8 @@
     "translit": "(lāḵ)",
     "parse": "Preposition | second person feminine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "from Sheol?",
@@ -61,6 +68,7 @@
     "translit": "(biš·’ō·wl)",
     "parse": "Preposition-b | Noun - common singular",
     "str": "Strong's 7585:  ",
-    "str2": "Underworld (place to which people descend at death)"
+    "str2": "Underworld (place to which people descend at death)",
+    "num": 7585
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "those who",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "say",
@@ -21,7 +23,8 @@
     "translit": "(legontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 3004:  ",
-    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. "
+    "str2": "(a) I say, speak; I mean, mention, tell, (b) I call, name, especially in the pass., (c) I tell, command. ",
+    "num": 3004
   },
   {
     "word": "such things",
@@ -29,7 +32,8 @@
     "translit": "(toiauta)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Plural",
     "str": "Strong's 5108:  ",
-    "str2": "(including the other inflections); from toi and houtos; truly this, i.e. Of this sort (to denote character or individuality)."
+    "str2": "(including the other inflections); from toi and houtos; truly this, i.e. Of this sort (to denote character or individuality).",
+    "num": 5108
   },
   {
     "word": "show",
@@ -37,7 +41,8 @@
     "translit": "(emphanizousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 1718:  ",
-    "str2": "To make visible (manifest); hence: I report (inform) against; pass: I appear before. From emphanes; to exhibit or disclose."
+    "str2": "To make visible (manifest); hence: I report (inform) against; pass: I appear before. From emphanes; to exhibit or disclose.",
+    "num": 1718
   },
   {
     "word": "that",
@@ -45,7 +50,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "they are seeking",
@@ -53,7 +59,8 @@
     "translit": "(epizētousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 1934:  ",
-    "str2": "To seek after, desire, search for, make inquiries about. From epi and zeteo; to search for; intensively, to demand, to crave."
+    "str2": "To seek after, desire, search for, make inquiries about. From epi and zeteo; to search for; intensively, to demand, to crave.",
+    "num": 1934
   },
   {
     "word": "a country of their own.",
@@ -61,6 +68,7 @@
     "translit": "(patrida)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3968:  ",
-    "str2": "Fatherland, one's native place. From parasemos; a father-land, i.e. Native town; heavenly home."
+    "str2": "Fatherland, one's native place. From parasemos; a father-land, i.e. Native town; heavenly home.",
+    "num": 3968
   }
 ]

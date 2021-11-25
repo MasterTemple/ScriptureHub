@@ -5,7 +5,8 @@
     "translit": "(Epeita)",
     "parse": "Adverb",
     "str": "Strong's 1899:  ",
-    "str2": "Then, thereafter, afterwards. From epi and eita; thereafter."
+    "str2": "Then, thereafter, afterwards. From epi and eita; thereafter.",
+    "num": 1899
   },
   {
     "word": "three",
@@ -13,7 +14,8 @@
     "translit": "(tria)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 5140:  ",
-    "str2": "Three. Or neuter tria a primary number; 'three'."
+    "str2": "Three. Or neuter tria a primary number; 'three'.",
+    "num": 5140
   },
   {
     "word": "years",
@@ -21,7 +23,8 @@
     "translit": "(etē)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 2094:  ",
-    "str2": "A year. Apparently a primary word; a year."
+    "str2": "A year. Apparently a primary word; a year.",
+    "num": 2094
   },
   {
     "word": "did I go up",
@@ -29,7 +32,8 @@
     "translit": "(anēlthon)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 424:  ",
-    "str2": "To come up, go up, ascend. From ana and erchomai; to ascend."
+    "str2": "To come up, go up, ascend. From ana and erchomai; to ascend.",
+    "num": 424
   },
   {
     "word": "to",
@@ -37,7 +41,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "Jerusalem",
@@ -45,7 +50,8 @@
     "translit": "(Hierosolyma)",
     "parse": "Noun - Accusative Neuter Plural",
     "str": "Strong's 2414:  ",
-    "str2": "The Greek form of the Hebrew name: Jerusalem. Of Hebrew origin; Hierosolyma"
+    "str2": "The Greek form of the Hebrew name: Jerusalem. Of Hebrew origin; Hierosolyma",
+    "num": 2414
   },
   {
     "word": "to confer with",
@@ -53,7 +59,8 @@
     "translit": "(historēsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2477:  ",
-    "str2": "To get acquainted with, visit. From a derivative of eido; to be knowing, i.e. to visit for information."
+    "str2": "To get acquainted with, visit. From a derivative of eido; to be knowing, i.e. to visit for information.",
+    "num": 2477
   },
   {
     "word": "Cephas,",
@@ -61,7 +68,8 @@
     "translit": "(Kēphan)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2786:  ",
-    "str2": "Of Chaldee origin; the Rock; Cephas, a surname of Peter."
+    "str2": "Of Chaldee origin; the Rock; Cephas, a surname of Peter.",
+    "num": 2786
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "I stayed",
@@ -77,7 +86,8 @@
     "translit": "(epemeina)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 1961:  ",
-    "str2": "(a) I remain, tarry, (b) I remain in, persist in. From epi and meno; to stay over, i.e. Remain."
+    "str2": "(a) I remain, tarry, (b) I remain in, persist in. From epi and meno; to stay over, i.e. Remain.",
+    "num": 1961
   },
   {
     "word": "with",
@@ -85,7 +95,8 @@
     "translit": "(pros)",
     "parse": "Preposition",
     "str": "Strong's 4314:  ",
-    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward."
+    "str2": "To, towards, with. A strengthened form of pro; a preposition of direction; forward to, i.e. Toward.",
+    "num": 4314
   },
   {
     "word": "him",
@@ -93,7 +104,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "fifteen",
@@ -101,7 +113,8 @@
     "translit": "(dekapente)",
     "parse": "Adjective - Accusative Feminine Plural",
     "str": "Strong's 1178:  ",
-    "str2": "Fifteen. From deka and pente; ten and five, i.e. Fifteen."
+    "str2": "Fifteen. From deka and pente; ten and five, i.e. Fifteen.",
+    "num": 1178
   },
   {
     "word": "days.",
@@ -109,6 +122,7 @@
     "translit": "(hēmeras)",
     "parse": "Noun - Accusative Feminine Plural",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   }
 ]

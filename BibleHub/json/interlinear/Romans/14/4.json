@@ -5,7 +5,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5101:  ",
-    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what."
+    "str2": "Who, which, what, why. Probably emphatic of tis; an interrogative pronoun, who, which or what.",
+    "num": 5101
   },
   {
     "word": "are",
@@ -13,7 +14,8 @@
     "translit": "(ei)",
     "parse": "Verb - Present Indicative Active - 2nd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "you",
@@ -21,7 +23,8 @@
     "translit": "(sy)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "to judge",
@@ -29,7 +32,8 @@
     "translit": "(krinōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2919:  ",
-    "str2": "Properly, to distinguish, i.e. Decide; by implication, to try, condemn, punish."
+    "str2": "Properly, to distinguish, i.e. Decide; by implication, to try, condemn, punish.",
+    "num": 2919
   },
   {
     "word": "someone else’s",
@@ -37,7 +41,8 @@
     "translit": "(allotrion)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 245:  ",
-    "str2": "From allos; another's, i.e. Not one's own; by extension foreign, not akin, hostile."
+    "str2": "From allos; another's, i.e. Not one's own; by extension foreign, not akin, hostile.",
+    "num": 245
   },
   {
     "word": "servant?",
@@ -45,7 +50,8 @@
     "translit": "(oiketēn)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3610:  ",
-    "str2": "A household servant. From oikeo; a fellow resident, i.e. Menial domestic."
+    "str2": "A household servant. From oikeo; a fellow resident, i.e. Menial domestic.",
+    "num": 3610
   },
   {
     "word": "To [his]",
@@ -53,7 +59,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "own",
@@ -61,7 +68,8 @@
     "translit": "(idiō)",
     "parse": "Adjective - Dative Masculine Singular",
     "str": "Strong's 2398:  ",
-    "str2": "Pertaining to self, i.e. One's own; by implication, private or separate."
+    "str2": "Pertaining to self, i.e. One's own; by implication, private or separate.",
+    "num": 2398
   },
   {
     "word": "master",
@@ -69,7 +77,8 @@
     "translit": "(kyriō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "he stands",
@@ -77,7 +86,8 @@
     "translit": "(stēkei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 4739:  ",
-    "str2": "To stand fast, stand firm, persevere. From the perfect tense of histemi; to be stationary, i.e. to persevere."
+    "str2": "To stand fast, stand firm, persevere. From the perfect tense of histemi; to be stationary, i.e. to persevere.",
+    "num": 4739
   },
   {
     "word": "or",
@@ -85,7 +95,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "falls.",
@@ -93,7 +104,8 @@
     "translit": "(piptei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 4098:  ",
-    "str2": "A reduplicated and contracted form of peto; probably akin to petomai through the idea of alighting; to fall."
+    "str2": "A reduplicated and contracted form of peto; probably akin to petomai through the idea of alighting; to fall.",
+    "num": 4098
   },
   {
     "word": "And",
@@ -101,7 +113,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "he will stand,",
@@ -109,7 +122,8 @@
     "translit": "(stathēsetai)",
     "parse": "Verb - Future Indicative Passive - 3rd Person Singular",
     "str": "Strong's 2476:  ",
-    "str2": "A prolonged form of a primary stao stah'-o; to stand, used in various applications."
+    "str2": "A prolonged form of a primary stao stah'-o; to stand, used in various applications.",
+    "num": 2476
   },
   {
     "word": "for",
@@ -117,7 +131,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "the",
@@ -125,7 +140,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Lord",
@@ -133,7 +149,8 @@
     "translit": "(Kyrios)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   },
   {
     "word": "is able",
@@ -141,7 +158,8 @@
     "translit": "(dynatei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1414:  ",
-    "str2": "To be powerful, have power, be able, be mighty. From dunatos; to be efficient."
+    "str2": "To be powerful, have power, be able, be mighty. From dunatos; to be efficient.",
+    "num": 1414
   },
   {
     "word": "to make him stand.",
@@ -149,6 +167,7 @@
     "translit": "(stēsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 2476:  ",
-    "str2": "A prolonged form of a primary stao stah'-o; to stand, used in various applications."
+    "str2": "A prolonged form of a primary stao stah'-o; to stand, used in various applications.",
+    "num": 2476
   }
 ]

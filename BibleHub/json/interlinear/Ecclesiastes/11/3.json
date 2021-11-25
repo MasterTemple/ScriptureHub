@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "the clouds",
@@ -13,7 +14,8 @@
     "translit": "(he·‘ā·ḇîm)",
     "parse": "Article | Noun - common plural",
     "str": "Strong's 5645:  ",
-    "str2": "An envelope, darkness, a, cloud, a copse"
+    "str2": "An envelope, darkness, a, cloud, a copse",
+    "num": 5645
   },
   {
     "word": "are full,",
@@ -21,7 +23,8 @@
     "translit": "(yim·mā·lə·’ū)",
     "parse": "Verb - Nifal - Imperfect - third person masculine plural",
     "str": "Strong's 4390:  ",
-    "str2": "To fill, be full of"
+    "str2": "To fill, be full of",
+    "num": 4390
   },
   {
     "word": "they will pour out",
@@ -29,7 +32,8 @@
     "translit": "(yā·rî·qū)",
     "parse": "Verb - Hifil - Imperfect - third person masculine plural",
     "str": "Strong's 7324:  ",
-    "str2": "Arm, cast out, draw out, make empty, pour forth out "
+    "str2": "Arm, cast out, draw out, make empty, pour forth out ",
+    "num": 7324
   },
   {
     "word": "rain",
@@ -37,7 +41,8 @@
     "translit": "(ge·šem)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1653:  ",
-    "str2": "Rain, shower"
+    "str2": "Rain, shower",
+    "num": 1653
   },
   {
     "word": "upon",
@@ -45,7 +50,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "the earth;",
@@ -53,7 +59,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "whether",
@@ -61,7 +68,8 @@
     "translit": "(wə·’im-)",
     "parse": "Conjunctive waw | Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "a tree",
@@ -69,7 +77,8 @@
     "translit": "(‘êṣ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6086:  ",
-    "str2": "Tree, trees, wood"
+    "str2": "Tree, trees, wood",
+    "num": 6086
   },
   {
     "word": "falls",
@@ -77,7 +86,8 @@
     "translit": "(yip·pō·wl)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5307:  ",
-    "str2": "To fall, lie"
+    "str2": "To fall, lie",
+    "num": 5307
   },
   {
     "word": "to the south",
@@ -85,7 +95,8 @@
     "translit": "(bad·dā·rō·wm)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 1864:  ",
-    "str2": "The south, poet, the south wind"
+    "str2": "The south, poet, the south wind",
+    "num": 1864
   },
   {
     "word": "or",
@@ -93,7 +104,8 @@
     "translit": "(wə·’im)",
     "parse": "Conjunctive waw | Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "the north,",
@@ -101,7 +113,8 @@
     "translit": "(baṣ·ṣā·p̄ō·wn)",
     "parse": "Preposition-b, Article | Noun - feminine singular",
     "str": "Strong's 6828:  ",
-    "str2": "Hidden, dark, the north as a, quarter"
+    "str2": "Hidden, dark, the north as a, quarter",
+    "num": 6828
   },
   {
     "word": "in the place",
@@ -109,7 +122,8 @@
     "translit": "(mə·qō·wm)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4725:  ",
-    "str2": "A standing, a spot, a condition"
+    "str2": "A standing, a spot, a condition",
+    "num": 4725
   },
   {
     "word": "where [it]",
@@ -117,7 +131,8 @@
     "translit": "(hā·‘êṣ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 6086:  ",
-    "str2": "Tree, trees, wood"
+    "str2": "Tree, trees, wood",
+    "num": 6086
   },
   {
     "word": "falls,",
@@ -125,7 +140,8 @@
     "translit": "(še·yip·pō·wl)",
     "parse": "Pronoun - relative | Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5307:  ",
-    "str2": "To fall, lie"
+    "str2": "To fall, lie",
+    "num": 5307
   },
   {
     "word": "there",
@@ -133,7 +149,8 @@
     "translit": "(šām)",
     "parse": "Adverb",
     "str": "Strong's 8033:  ",
-    "str2": "There, then, thither"
+    "str2": "There, then, thither",
+    "num": 8033
   },
   {
     "word": "it will lie.",
@@ -141,6 +158,7 @@
     "translit": "(yə·hū)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1933:  ",
-    "str2": "To fall"
+    "str2": "To fall",
+    "num": 1933
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "from",
@@ -13,7 +14,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "Perga,",
@@ -21,7 +23,8 @@
     "translit": "(Pergēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4011:  ",
-    "str2": "Probably from the same as Pergamos; a tower; Perga, a place in Asia Minor."
+    "str2": "Probably from the same as Pergamos; a tower; Perga, a place in Asia Minor.",
+    "num": 4011
   },
   {
     "word": "they",
@@ -29,7 +32,8 @@
     "translit": "(Autoi)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "traveled inland",
@@ -37,7 +41,8 @@
     "translit": "(dielthontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 1330:  ",
-    "str2": "To pass through, spread (as a report). From dia and erchomai; to traverse."
+    "str2": "To pass through, spread (as a report). From dia and erchomai; to traverse.",
+    "num": 1330
   },
   {
     "word": "to",
@@ -45,7 +50,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "Pisidian",
@@ -53,7 +59,8 @@
     "translit": "(Pisidian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4099:  ",
-    "str2": "Probably of foreign origin; Pisidia, a region of Asia Minor."
+    "str2": "Probably of foreign origin; Pisidia, a region of Asia Minor.",
+    "num": 4099
   },
   {
     "word": "Antioch,",
@@ -61,7 +68,8 @@
     "translit": "(Antiocheian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 490:  ",
-    "str2": "From Antiochus; Antiochia, a place in Syria."
+    "str2": "From Antiochus; Antiochia, a place in Syria.",
+    "num": 490
   },
   {
     "word": "where",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they entered",
@@ -77,7 +86,8 @@
     "translit": "(eiselthontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "the",
@@ -85,7 +95,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "synagogue",
@@ -93,7 +104,8 @@
     "translit": "(synagōgēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4864:  ",
-    "str2": "From sunago; an assemblage of persons; specially, a Jewish 'synagogue'; by analogy, a Christian church."
+    "str2": "From sunago; an assemblage of persons; specially, a Jewish 'synagogue'; by analogy, a Christian church.",
+    "num": 4864
   },
   {
     "word": "on the",
@@ -101,7 +113,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Sabbath",
@@ -109,7 +122,8 @@
     "translit": "(sabbatōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 4521:  ",
-    "str2": "The Sabbath, a week. "
+    "str2": "The Sabbath, a week. ",
+    "num": 4521
   },
   {
     "word": "[and] sat down.",
@@ -117,6 +131,7 @@
     "translit": "(ekathisan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2523:  ",
-    "str2": "Another form for kathezomai; to seat down, i.e. Set; intransitively, to sit; figuratively, to settle."
+    "str2": "Another form for kathezomai; to seat down, i.e. Set; intransitively, to sit; figuratively, to settle.",
+    "num": 2523
   }
 ]

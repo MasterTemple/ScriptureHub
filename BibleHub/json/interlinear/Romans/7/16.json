@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(ei)",
     "parse": "Conjunction",
     "str": "Strong's 1487:  ",
-    "str2": "If. A primary particle of conditionality; if, whether, that, etc."
+    "str2": "If. A primary particle of conditionality; if, whether, that, etc.",
+    "num": 1487
   },
   {
     "word": "I do",
@@ -21,7 +23,8 @@
     "translit": "(poiō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 4160:  ",
-    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do."
+    "str2": "(a) I make, manufacture, construct, (b) I do, act, cause. Apparently a prolonged form of an obsolete primary; to make or do.",
+    "num": 4160
   },
   {
     "word": "what",
@@ -29,7 +32,8 @@
     "translit": "(ho)",
     "parse": "Personal / Relative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "I do not desire,",
@@ -37,7 +41,8 @@
     "translit": "(thelō)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 2309:  ",
-    "str2": "To will, wish, desire, be willing, intend, design. "
+    "str2": "To will, wish, desire, be willing, intend, design. ",
+    "num": 2309
   },
   {
     "word": "I admit",
@@ -45,7 +50,8 @@
     "translit": "(symphēmi)",
     "parse": "Verb - Present Indicative Active - 1st Person Singular",
     "str": "Strong's 4852:  ",
-    "str2": "To assent to, consent, confess, agree with. From sun and phemi; to say jointly, i.e. Assent to."
+    "str2": "To assent to, consent, confess, agree with. From sun and phemi; to say jointly, i.e. Assent to.",
+    "num": 4852
   },
   {
     "word": "that",
@@ -53,7 +59,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "the",
@@ -61,7 +68,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "Law",
@@ -69,7 +77,8 @@
     "translit": "(nomō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 3551:  ",
-    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively."
+    "str2": "From a primary nemo; law, genitive case, specially, (including the volume); also of the Gospel), or figuratively.",
+    "num": 3551
   },
   {
     "word": "[is] good.",
@@ -77,6 +86,7 @@
     "translit": "(kalos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 2570:  ",
-    "str2": "Properly, beautiful, but chiefly good, i.e. Valuable or virtuous."
+    "str2": "Properly, beautiful, but chiefly good, i.e. Valuable or virtuous.",
+    "num": 2570
   }
 ]

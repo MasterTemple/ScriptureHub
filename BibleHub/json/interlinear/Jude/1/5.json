@@ -5,7 +5,8 @@
     "translit": "(eidotas)",
     "parse": "Verb - Perfect Participle Active - Accusative Masculine Plural",
     "str": "Strong's 1492:  ",
-    "str2": "To know, remember, appreciate. "
+    "str2": "To know, remember, appreciate. ",
+    "num": 1492
   },
   {
     "word": "I want",
@@ -13,7 +14,8 @@
     "translit": "(boulomai)",
     "parse": "Verb - Present Indicative Middle or Passive - 1st Person Singular",
     "str": "Strong's 1014:  ",
-    "str2": "To will, intend, desire, wish. Middle voice of a primary verb; to 'will, ' i.e. be willing."
+    "str2": "To will, intend, desire, wish. Middle voice of a primary verb; to 'will, ' i.e. be willing.",
+    "num": 1014
   },
   {
     "word": "to remind",
@@ -21,7 +23,8 @@
     "translit": "(Hypomnēsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 5279:  ",
-    "str2": "To remind, remember, call to mind. From hupo and mimnesko; to remind quietly, i.e. Suggest to the memory."
+    "str2": "To remind, remember, call to mind. From hupo and mimnesko; to remind quietly, i.e. Suggest to the memory.",
+    "num": 5279
   },
   {
     "word": "you",
@@ -29,7 +32,8 @@
     "translit": "(hymas)",
     "parse": "Personal / Possessive Pronoun - Accusative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "that",
@@ -37,7 +41,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "after",
@@ -45,7 +50,8 @@
     "translit": "(deuteron)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 1208:  ",
-    "str2": "Second; with the article: in the second place, for the second time. As the compare of duo; second."
+    "str2": "Second; with the article: in the second place, for the second time. As the compare of duo; second.",
+    "num": 1208
   },
   {
     "word": "Jesus",
@@ -53,7 +59,8 @@
     "translit": "(Iēsous)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "had delivered",
@@ -61,7 +68,8 @@
     "translit": "(sōsas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4982:  ",
-    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect."
+    "str2": "To save, heal, preserve, rescue. From a primary sos; to save, i.e. Deliver or protect.",
+    "num": 4982
   },
   {
     "word": "[His] people",
@@ -69,7 +77,8 @@
     "translit": "(laon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2992:  ",
-    "str2": "Apparently a primary word; a people."
+    "str2": "Apparently a primary word; a people.",
+    "num": 2992
   },
   {
     "word": "out of",
@@ -77,7 +86,8 @@
     "translit": "(ek)",
     "parse": "Preposition",
     "str": "Strong's 1537:  ",
-    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out."
+    "str2": "From out, out from among, from, suggesting from the interior outwards. A primary preposition denoting origin, from, out.",
+    "num": 1537
   },
   {
     "word": "[the] land",
@@ -85,7 +95,8 @@
     "translit": "(gēs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 1093:  ",
-    "str2": "Contracted from a primary word; soil; by extension a region, or the solid part or the whole of the terrene globe."
+    "str2": "Contracted from a primary word; soil; by extension a region, or the solid part or the whole of the terrene globe.",
+    "num": 1093
   },
   {
     "word": "of Egypt,",
@@ -93,7 +104,8 @@
     "translit": "(Aigyptou)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 125:  ",
-    "str2": "Egypt. Of uncertain derivation."
+    "str2": "Egypt. Of uncertain derivation.",
+    "num": 125
   },
   {
     "word": "He destroyed",
@@ -101,7 +113,8 @@
     "translit": "(apōlesen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 622:  ",
-    "str2": "From apo and the base of olethros; to destroy fully, literally or figuratively."
+    "str2": "From apo and the base of olethros; to destroy fully, literally or figuratively.",
+    "num": 622
   },
   {
     "word": "those who",
@@ -109,7 +122,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "did not believe.",
@@ -117,6 +131,7 @@
     "translit": "(pisteusantas)",
     "parse": "Verb - Aorist Participle Active - Accusative Masculine Plural",
     "str": "Strong's 4100:  ",
-    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust."
+    "str2": "From pistis; to have faith, i.e. Credit; by implication, to entrust.",
+    "num": 4100
   }
 ]

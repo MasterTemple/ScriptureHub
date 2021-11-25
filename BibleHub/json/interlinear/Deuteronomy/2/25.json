@@ -5,7 +5,8 @@
     "translit": "(haz·zeh)",
     "parse": "Article | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "day",
@@ -13,7 +14,8 @@
     "translit": "(hay·yō·wm)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "I will begin",
@@ -21,7 +23,8 @@
     "translit": "(’ā·ḥêl)",
     "parse": "Verb - Hifil - Imperfect - first person common singular",
     "str": "Strong's 2490:  ",
-    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play"
+    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play",
+    "num": 2490
   },
   {
     "word": "to put",
@@ -29,7 +32,8 @@
     "translit": "(têṯ)",
     "parse": "Verb - Qal - Infinitive construct",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "the dread",
@@ -37,7 +41,8 @@
     "translit": "(paḥ·də·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 6343:  ",
-    "str2": "A, alarm"
+    "str2": "A, alarm",
+    "num": 6343
   },
   {
     "word": "and fear",
@@ -45,7 +50,8 @@
     "translit": "(wə·yir·’ā·ṯə·ḵā)",
     "parse": "Conjunctive waw | Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 3374:  ",
-    "str2": "Fear, reverence"
+    "str2": "Fear, reverence",
+    "num": 3374
   },
   {
     "word": "of you",
@@ -53,7 +59,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "upon all",
@@ -61,7 +68,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the nations",
@@ -69,7 +77,8 @@
     "translit": "(hā·‘am·mîm)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "under",
@@ -77,7 +86,8 @@
     "translit": "(ta·ḥaṯ)",
     "parse": "Preposition",
     "str": "Strong's 8478:  ",
-    "str2": "The bottom, below, in lieu of"
+    "str2": "The bottom, below, in lieu of",
+    "num": 8478
   },
   {
     "word": "heaven.",
@@ -85,7 +95,8 @@
     "translit": "(haš·šā·mā·yim)",
     "parse": "Article | Noun - masculine plural",
     "str": "Strong's 8064:  ",
-    "str2": "Heaven, sky"
+    "str2": "Heaven, sky",
+    "num": 8064
   },
   {
     "word": "They will hear",
@@ -93,7 +104,8 @@
     "translit": "(yiš·mə·‘ūn)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural | Paragogic nun",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "the reports of you",
@@ -101,7 +113,8 @@
     "translit": "(šim·‘ă·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 8088:  ",
-    "str2": "Something heard, a sound, rumor, announcement, audience"
+    "str2": "Something heard, a sound, rumor, announcement, audience",
+    "num": 8088
   },
   {
     "word": "and tremble",
@@ -109,7 +122,8 @@
     "translit": "(wə·rā·ḡə·zū)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person common plural",
     "str": "Strong's 7264:  ",
-    "str2": "To be agitated, quiver, quake, be excited, perturbed"
+    "str2": "To be agitated, quiver, quake, be excited, perturbed",
+    "num": 7264
   },
   {
     "word": "in anguish",
@@ -117,7 +131,8 @@
     "translit": "(wə·ḥā·lū)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person common plural",
     "str": "Strong's 2342:  ",
-    "str2": "To twist, whirl, to dance, to writhe in pain, fear, to wait, to pervert"
+    "str2": "To twist, whirl, to dance, to writhe in pain, fear, to wait, to pervert",
+    "num": 2342
   },
   {
     "word": "because of you.”",
@@ -125,6 +140,7 @@
     "translit": "(mip·pā·ne·ḵā)",
     "parse": "Preposition-m | Noun - common plural construct | second person masculine singular",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   }
 ]

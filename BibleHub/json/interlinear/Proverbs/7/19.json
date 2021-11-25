@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "my husband",
@@ -13,7 +14,8 @@
     "translit": "(hā·’îš)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "is not",
@@ -21,7 +23,8 @@
     "translit": "(’ên)",
     "parse": "Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "at home;",
@@ -29,7 +32,8 @@
     "translit": "(bə·ḇê·ṯōw)",
     "parse": "Preposition-b | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "he has gone",
@@ -37,7 +41,8 @@
     "translit": "(hā·laḵ)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 1980:  ",
-    "str2": "To go, come, walk"
+    "str2": "To go, come, walk",
+    "num": 1980
   },
   {
     "word": "on a long",
@@ -45,7 +50,8 @@
     "translit": "(mê·rā·ḥō·wq)",
     "parse": "Preposition-m | Adjective - masculine singular",
     "str": "Strong's 7350:  ",
-    "str2": "Remote, of place, time, precious"
+    "str2": "Remote, of place, time, precious",
+    "num": 7350
   },
   {
     "word": "journey.",
@@ -53,6 +59,7 @@
     "translit": "(bə·ḏe·reḵ)",
     "parse": "Preposition-b | Noun - common singular",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   }
 ]

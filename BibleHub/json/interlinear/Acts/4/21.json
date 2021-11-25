@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[the Council members] threatened them further",
@@ -13,7 +14,8 @@
     "translit": "(prosapeilēsamenoi)",
     "parse": "Verb - Aorist Participle Middle - Nominative Masculine Plural",
     "str": "Strong's 4324:  ",
-    "str2": "To utter additional threats. From pros and apeileo; to menace additionally."
+    "str2": "To utter additional threats. From pros and apeileo; to menace additionally.",
+    "num": 4324
   },
   {
     "word": "[and] let them go.",
@@ -21,7 +23,8 @@
     "translit": "(apelysan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 630:  ",
-    "str2": "From apo and luo; to free fully, i.e. relieve, release, dismiss, or let die, pardon or divorce."
+    "str2": "From apo and luo; to free fully, i.e. relieve, release, dismiss, or let die, pardon or divorce.",
+    "num": 630
   },
   {
     "word": "They could not find a way",
@@ -29,7 +32,8 @@
     "translit": "(heuriskontes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2147:  ",
-    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find."
+    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find.",
+    "num": 2147
   },
   {
     "word": "to punish",
@@ -37,7 +41,8 @@
     "translit": "(kolasōntai)",
     "parse": "Verb - Aorist Subjunctive Middle - 3rd Person Plural",
     "str": "Strong's 2849:  ",
-    "str2": "To chastise, curtail, punish; mid: I cause to be punished. From kolos; properly, to curtail, i.e. to chastise."
+    "str2": "To chastise, curtail, punish; mid: I cause to be punished. From kolos; properly, to curtail, i.e. to chastise.",
+    "num": 2849
   },
   {
     "word": "them,",
@@ -45,7 +50,8 @@
     "translit": "(autous)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "because",
@@ -53,7 +59,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "{all} the",
@@ -61,7 +68,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "people",
@@ -69,7 +77,8 @@
     "translit": "(laon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2992:  ",
-    "str2": "Apparently a primary word; a people."
+    "str2": "Apparently a primary word; a people.",
+    "num": 2992
   },
   {
     "word": "were glorifying",
@@ -77,7 +86,8 @@
     "translit": "(edoxazon)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Plural",
     "str": "Strong's 1392:  ",
-    "str2": "To glorify, honor, bestow glory on. From doxa; to render glorious."
+    "str2": "To glorify, honor, bestow glory on. From doxa; to render glorious.",
+    "num": 1392
   },
   {
     "word": "God",
@@ -85,7 +95,8 @@
     "translit": "(Theon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "for",
@@ -93,7 +104,8 @@
     "translit": "(epi)",
     "parse": "Preposition",
     "str": "Strong's 1909:  ",
-    "str2": "On, to, against, on the basis of, at. "
+    "str2": "On, to, against, on the basis of, at. ",
+    "num": 1909
   },
   {
     "word": "what",
@@ -101,7 +113,8 @@
     "translit": "(tō)",
     "parse": "Article - Dative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "had happened.",
@@ -109,6 +122,7 @@
     "translit": "(gegonoti)",
     "parse": "Verb - Perfect Participle Active - Dative Neuter Singular",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   }
 ]

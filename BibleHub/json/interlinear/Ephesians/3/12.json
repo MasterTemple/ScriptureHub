@@ -5,7 +5,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "Him",
@@ -13,7 +14,8 @@
     "translit": "(hō)",
     "parse": "Personal / Relative Pronoun - Dative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "[and] through",
@@ -21,7 +23,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "faith",
@@ -29,7 +32,8 @@
     "translit": "(pisteōs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 4102:  ",
-    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. "
+    "str2": "Faith, belief, trust, confidence; fidelity, faithfulness. ",
+    "num": 4102
   },
   {
     "word": "in Him",
@@ -37,7 +41,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "we may",
@@ -45,7 +50,8 @@
     "translit": "(echomen)",
     "parse": "Verb - Present Indicative Active - 1st Person Plural",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "enter [ God’s ] presence",
@@ -53,7 +59,8 @@
     "translit": "(prosagōgēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 4318:  ",
-    "str2": "Approach, access, admission. From prosago; admission."
+    "str2": "Approach, access, admission. From prosago; admission.",
+    "num": 4318
   },
   {
     "word": "with boldness",
@@ -61,7 +68,8 @@
     "translit": "(parrēsian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3954:  ",
-    "str2": "From pas and a derivative of rheo; all out-spokenness, i.e. Frankness, bluntness, publicity; by implication, assurance."
+    "str2": "From pas and a derivative of rheo; all out-spokenness, i.e. Frankness, bluntness, publicity; by implication, assurance.",
+    "num": 3954
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "confidence.",
@@ -77,6 +86,7 @@
     "translit": "(pepoithēsei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4006:  ",
-    "str2": "Confidence, trust, reliance. From the perfect of the alternate of pascho; reliance."
+    "str2": "Confidence, trust, reliance. From the perfect of the alternate of pascho; reliance.",
+    "num": 4006
   }
 ]

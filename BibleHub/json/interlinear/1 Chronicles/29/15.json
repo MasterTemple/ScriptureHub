@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "we",
@@ -13,7 +14,8 @@
     "translit": "(’ă·naḥ·nū)",
     "parse": "Pronoun - first person common plural",
     "str": "Strong's 587:  ",
-    "str2": "We"
+    "str2": "We",
+    "num": 587
   },
   {
     "word": "[are] foreigners",
@@ -21,7 +23,8 @@
     "translit": "(ḡê·rîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 1616:  ",
-    "str2": "A guest, a foreigner"
+    "str2": "A guest, a foreigner",
+    "num": 1616
   },
   {
     "word": "and sojourners",
@@ -29,7 +32,8 @@
     "translit": "(wə·ṯō·wō·šā·ḇîm)",
     "parse": "Conjunctive waw | Noun - masculine plural",
     "str": "Strong's 8453:  ",
-    "str2": "Resident alien"
+    "str2": "Resident alien",
+    "num": 8453
   },
   {
     "word": "in Your presence,",
@@ -37,7 +41,8 @@
     "translit": "(lə·p̄ā·ne·ḵā)",
     "parse": "Preposition-l | Noun - common plural construct | second person masculine singular",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "as were all",
@@ -45,7 +50,8 @@
     "translit": "(kə·ḵāl-)",
     "parse": "Preposition-k | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "our forefathers.",
@@ -53,7 +59,8 @@
     "translit": "(’ă·ḇō·ṯê·nū)",
     "parse": "Noun - masculine plural construct | first person common plural",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "Our days",
@@ -61,7 +68,8 @@
     "translit": "(yā·mê·nū)",
     "parse": "Noun - masculine plural construct | first person common plural",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "on",
@@ -69,7 +77,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "earth",
@@ -77,7 +86,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "are like a shadow,",
@@ -85,7 +95,8 @@
     "translit": "(kaṣ·ṣêl)",
     "parse": "Preposition-k, Article | Noun - masculine singular",
     "str": "Strong's 6738:  ",
-    "str2": "A shadow"
+    "str2": "A shadow",
+    "num": 6738
   },
   {
     "word": "without",
@@ -93,7 +104,8 @@
     "translit": "(wə·’ên)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "hope.",
@@ -101,6 +113,7 @@
     "translit": "(miq·weh)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4723:  ",
-    "str2": "Something waited for, confidence, a collection, a pond, a caravan, drove"
+    "str2": "Something waited for, confidence, a collection, a pond, a caravan, drove",
+    "num": 4723
   }
 ]

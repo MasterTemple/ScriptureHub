@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "a",
@@ -13,7 +14,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "Samaritan",
@@ -21,7 +23,8 @@
     "translit": "(Samaritēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4541:  ",
-    "str2": "A Samaritan. From Samareia; a Samarite, i.e. Inhabitant of Samaria."
+    "str2": "A Samaritan. From Samareia; a Samarite, i.e. Inhabitant of Samaria.",
+    "num": 4541
   },
   {
     "word": "on a journey",
@@ -29,7 +32,8 @@
     "translit": "(hodeuōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3593:  ",
-    "str2": "To journey, travel. From hodos; to travel."
+    "str2": "To journey, travel. From hodos; to travel.",
+    "num": 3593
   },
   {
     "word": "came",
@@ -37,7 +41,8 @@
     "translit": "(ēlthen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "upon",
@@ -45,7 +50,8 @@
     "translit": "(kat’)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "him,",
@@ -53,7 +59,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "he looked at [him]",
@@ -61,7 +68,8 @@
     "translit": "(idōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "[and] had compassion.",
@@ -69,6 +77,7 @@
     "translit": "(esplanchnisthē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 4697:  ",
-    "str2": "To feel compassion, have pity on, be moved. "
+    "str2": "To feel compassion, have pity on, be moved. ",
+    "num": 4697
   }
 ]

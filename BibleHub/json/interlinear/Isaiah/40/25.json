@@ -5,7 +5,8 @@
     "translit": "(mî)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "will you compare",
@@ -13,7 +14,8 @@
     "translit": "(ṯə·ḏam·mə·yū·nî)",
     "parse": "Verb - Piel - Imperfect - second person masculine plural | first person common singular",
     "str": "Strong's 1819:  ",
-    "str2": "To compare, to resemble, liken, consider"
+    "str2": "To compare, to resemble, liken, consider",
+    "num": 1819
   },
   {
     "word": "Me,",
@@ -21,7 +23,8 @@
     "translit": "(wə·’el-)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "or who is My equal?”",
@@ -29,7 +32,8 @@
     "translit": "(wə·’eš·weh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect Cohortative if contextual - first person common singular",
     "str": "Strong's 7737:  ",
-    "str2": "To level, equalize, to resemble, to adjust"
+    "str2": "To level, equalize, to resemble, to adjust",
+    "num": 7737
   },
   {
     "word": "asks",
@@ -37,7 +41,8 @@
     "translit": "(yō·mar)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "the Holy One.",
@@ -45,6 +50,7 @@
     "translit": "(qā·ḏō·wōš)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 6918:  ",
-    "str2": "Sacred, God, an angel, a saint, a sanctuary"
+    "str2": "Sacred, God, an angel, a saint, a sanctuary",
+    "num": 6918
   }
 ]

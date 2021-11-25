@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "there",
@@ -13,7 +14,8 @@
     "translit": "(eisin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "have been",
@@ -21,7 +23,8 @@
     "translit": "(gegonotes)",
     "parse": "Verb - Perfect Participle Active - Nominative Masculine Plural",
     "str": "Strong's 1096:  ",
-    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude."
+    "str2": "A prolongation and middle voice form of a primary verb; to cause to be, i.e. to become, used with great latitude.",
+    "num": 1096
   },
   {
     "word": "many",
@@ -29,7 +32,8 @@
     "translit": "(pleiones)",
     "parse": "Adjective - Nominative Masculine Plural - Comparative",
     "str": "Strong's 4119:  ",
-    "str2": "Or neuter pleion, or pleon comparative of polus; more in quantity, number, or quality; also the major portion."
+    "str2": "Or neuter pleion, or pleon comparative of polus; more in quantity, number, or quality; also the major portion.",
+    "num": 4119
   },
   {
     "word": "[other]",
@@ -37,7 +41,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "priests,",
@@ -45,7 +50,8 @@
     "translit": "(hiereis)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 2409:  ",
-    "str2": "A priest, one who offers sacrifice to a god (in Jewish and pagan religions; of Christians only met.). From hieros; a priest."
+    "str2": "A priest, one who offers sacrifice to a god (in Jewish and pagan religions; of Christians only met.). From hieros; a priest.",
+    "num": 2409
   },
   {
     "word": "since",
@@ -53,7 +59,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "death",
@@ -61,7 +68,8 @@
     "translit": "(thanatō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2288:  ",
-    "str2": "Death, physical or spiritual. From thnesko; death."
+    "str2": "Death, physical or spiritual. From thnesko; death.",
+    "num": 2288
   },
   {
     "word": "prevented them from",
@@ -69,7 +77,8 @@
     "translit": "(kōlyesthai)",
     "parse": "Verb - Present Infinitive Middle or Passive",
     "str": "Strong's 2967:  ",
-    "str2": "To prevent, debar, hinder; with infin: from doing so and so. From the base of kolazo; to estop, i.e. Prevent."
+    "str2": "To prevent, debar, hinder; with infin: from doing so and so. From the base of kolazo; to estop, i.e. Prevent.",
+    "num": 2967
   },
   {
     "word": "continuing [in office].",
@@ -77,6 +86,7 @@
     "translit": "(paramenein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 3887:  ",
-    "str2": "To remain by, abide with; met: I persevere in. From para and meno; to stay near, i.e. Remain."
+    "str2": "To remain by, abide with; met: I persevere in. From para and meno; to stay near, i.e. Remain.",
+    "num": 3887
   }
 ]

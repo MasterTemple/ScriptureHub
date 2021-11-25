@@ -5,7 +5,8 @@
     "translit": "(Mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "this [man],”",
@@ -13,7 +14,8 @@
     "translit": "(touton)",
     "parse": "Demonstrative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "they shouted,",
@@ -21,7 +23,8 @@
     "translit": "(Ekraugasan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2905:  ",
-    "str2": "To cry aloud, shout, exclaim. From krauge; to clamor."
+    "str2": "To cry aloud, shout, exclaim. From krauge; to clamor.",
+    "num": 2905
   },
   {
     "word": "“but",
@@ -29,7 +32,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "Barabbas!”",
@@ -37,7 +41,8 @@
     "translit": "(Barabban)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 912:  ",
-    "str2": "Barabbas. Of Chaldee origin; son of Abba; Bar-abbas, an Israelite."
+    "str2": "Barabbas. Of Chaldee origin; son of Abba; Bar-abbas, an Israelite.",
+    "num": 912
   },
   {
     "word": "(Now",
@@ -45,7 +50,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "Barabbas",
@@ -53,7 +59,8 @@
     "translit": "(Barabbas)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 912:  ",
-    "str2": "Barabbas. Of Chaldee origin; son of Abba; Bar-abbas, an Israelite."
+    "str2": "Barabbas. Of Chaldee origin; son of Abba; Bar-abbas, an Israelite.",
+    "num": 912
   },
   {
     "word": "was",
@@ -61,7 +68,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "an insurrectionist.)",
@@ -69,6 +77,7 @@
     "translit": "(lēstēs)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3027:  ",
-    "str2": "A robber, brigand, bandit. From leizomai; a brigand."
+    "str2": "A robber, brigand, bandit. From leizomai; a brigand.",
+    "num": 3027
   }
 ]

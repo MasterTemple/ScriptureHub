@@ -5,7 +5,8 @@
     "translit": "(še·ḇa‘)",
     "parse": "Number - feminine singular",
     "str": "Strong's 7651:  ",
-    "str2": "Seven, seven times, a week, an indefinite number"
+    "str2": "Seven, seven times, a week, an indefinite number",
+    "num": 7651
   },
   {
     "word": "years",
@@ -13,7 +14,8 @@
     "translit": "(šə·nê)",
     "parse": "Noun - feminine plural construct",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "of famine",
@@ -21,7 +23,8 @@
     "translit": "(hā·rā·‘āḇ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 7458:  ",
-    "str2": "Famine, hunger"
+    "str2": "Famine, hunger",
+    "num": 7458
   },
   {
     "word": "began,",
@@ -29,7 +32,8 @@
     "translit": "(wat·tə·ḥil·le·nāh)",
     "parse": "Conjunctive waw | Verb - Hifil - Consecutive imperfect - third person feminine plural",
     "str": "Strong's 2490:  ",
-    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play"
+    "str2": "To bore, to wound, to dissolve, to profane, to break, to begin, to play",
+    "num": 2490
   },
   {
     "word": "just as",
@@ -37,7 +41,8 @@
     "translit": "(ka·’ă·šer)",
     "parse": "Preposition-k | Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "Joseph",
@@ -45,7 +50,8 @@
     "translit": "(yō·w·sêp̄)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3130:  ",
-    "str2": "Joseph -- 'he increases', a son of Jacob, also the name of several Israelites"
+    "str2": "Joseph -- 'he increases', a son of Jacob, also the name of several Israelites",
+    "num": 3130
   },
   {
     "word": "had said.",
@@ -53,7 +59,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "And although there was",
@@ -61,7 +68,8 @@
     "translit": "(way·hî)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "famine",
@@ -69,7 +77,8 @@
     "translit": "(rā·‘āḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7458:  ",
-    "str2": "Famine, hunger"
+    "str2": "Famine, hunger",
+    "num": 7458
   },
   {
     "word": "in every",
@@ -77,7 +86,8 @@
     "translit": "(bə·ḵāl)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "country,",
@@ -85,7 +95,8 @@
     "translit": "(hā·’ă·rā·ṣō·wṯ)",
     "parse": "Article | Noun - feminine plural",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "there was",
@@ -93,7 +104,8 @@
     "translit": "(hā·yāh)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "food",
@@ -101,7 +113,8 @@
     "translit": "(lā·ḥem)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3899:  ",
-    "str2": "Food, bread, grain"
+    "str2": "Food, bread, grain",
+    "num": 3899
   },
   {
     "word": "throughout",
@@ -109,7 +122,8 @@
     "translit": "(ū·ḇə·ḵāl)",
     "parse": "Conjunctive waw, Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the land",
@@ -117,7 +131,8 @@
     "translit": "(’e·reṣ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "of Egypt.",
@@ -125,6 +140,7 @@
     "translit": "(miṣ·ra·yim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 4714:  ",
-    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa"
+    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+    "num": 4714
   }
 ]

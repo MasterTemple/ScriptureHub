@@ -5,7 +5,8 @@
     "translit": "(’ū·lay)",
     "parse": "Adverb",
     "str": "Strong's 194:  ",
-    "str2": "Perhaps"
+    "str2": "Perhaps",
+    "num": 194
   },
   {
     "word": "when the people",
@@ -13,7 +14,8 @@
     "translit": "(bêṯ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "of Judah",
@@ -21,7 +23,8 @@
     "translit": "(yə·hū·ḏāh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3063:  ",
-    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites"
+    "str2": "Judah -- 'praised', a son of Jacob, also the southern kingdom, also four Israelites",
+    "num": 3063
   },
   {
     "word": "hear",
@@ -29,7 +32,8 @@
     "translit": "(yiš·mə·‘ū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "about all",
@@ -37,7 +41,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the calamity",
@@ -45,7 +50,8 @@
     "translit": "(hā·rā·‘āh)",
     "parse": "Article | Adjective - feminine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "I",
@@ -53,7 +59,8 @@
     "translit": "(’ā·nō·ḵî)",
     "parse": "Pronoun - first person common singular",
     "str": "Strong's 595:  ",
-    "str2": "I"
+    "str2": "I",
+    "num": 595
   },
   {
     "word": "plan",
@@ -61,7 +68,8 @@
     "translit": "(ḥō·šêḇ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 2803:  ",
-    "str2": "To think, account"
+    "str2": "To think, account",
+    "num": 2803
   },
   {
     "word": "to bring",
@@ -69,7 +77,8 @@
     "translit": "(la·‘ă·śō·wṯ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "upon them,",
@@ -77,7 +86,8 @@
     "translit": "(lā·hem)",
     "parse": "Preposition | third person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "each of them",
@@ -85,7 +95,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "will turn",
@@ -93,7 +104,8 @@
     "translit": "(yā·šū·ḇū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "from his wicked",
@@ -101,7 +113,8 @@
     "translit": "(hā·rā·‘āh)",
     "parse": "Article | Adjective - feminine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "way.",
@@ -109,7 +122,8 @@
     "translit": "(mid·dar·kōw)",
     "parse": "Preposition-m | Noun - common singular construct | third person masculine singular",
     "str": "Strong's 1870:  ",
-    "str2": "A road, a course of life, mode of action"
+    "str2": "A road, a course of life, mode of action",
+    "num": 1870
   },
   {
     "word": "Then I will forgive",
@@ -117,7 +131,8 @@
     "translit": "(wə·sā·laḥ·tî)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - first person common singular",
     "str": "Strong's 5545:  ",
-    "str2": "To forgive, pardon"
+    "str2": "To forgive, pardon",
+    "num": 5545
   },
   {
     "word": "their iniquity",
@@ -125,7 +140,8 @@
     "translit": "(la·‘ă·wō·nām)",
     "parse": "Preposition-l | Noun - common singular construct | third person masculine plural",
     "str": "Strong's 5771:  ",
-    "str2": "Iniquity, guilt, punishment for iniquity"
+    "str2": "Iniquity, guilt, punishment for iniquity",
+    "num": 5771
   },
   {
     "word": "and their sin.”",
@@ -133,6 +149,7 @@
     "translit": "(ū·lə·ḥaṭ·ṭā·ṯām)",
     "parse": "Conjunctive waw, Preposition-l | Noun - feminine singular construct | third person masculine plural",
     "str": "Strong's 2403:  ",
-    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender"
+    "str2": "An offence, its penalty, occasion, sacrifice, expiation, an offender",
+    "num": 2403
   }
 ]

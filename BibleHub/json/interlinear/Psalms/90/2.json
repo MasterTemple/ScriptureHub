@@ -5,7 +5,8 @@
     "translit": "(bə·ṭe·rem)",
     "parse": "Preposition-b | Adverb",
     "str": "Strong's 2962:  ",
-    "str2": "Non-occurrence, not yet, before"
+    "str2": "Non-occurrence, not yet, before",
+    "num": 2962
   },
   {
     "word": "the mountains",
@@ -13,7 +14,8 @@
     "translit": "(hā·rîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 2022:  ",
-    "str2": "Mountain, hill, hill country"
+    "str2": "Mountain, hill, hill country",
+    "num": 2022
   },
   {
     "word": "were born,",
@@ -21,7 +23,8 @@
     "translit": "(yul·lā·ḏū)",
     "parse": "Verb - QalPass - Perfect - third person common plural",
     "str": "Strong's 3205:  ",
-    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage"
+    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage",
+    "num": 3205
   },
   {
     "word": "or You brought forth",
@@ -29,7 +32,8 @@
     "translit": "(wat·tə·ḥō·w·lêl)",
     "parse": "Conjunctive waw | Verb - Piel - Consecutive imperfect - second person masculine singular",
     "str": "Strong's 2342:  ",
-    "str2": "To twist, whirl, to dance, to writhe in pain, fear, to wait, to pervert"
+    "str2": "To twist, whirl, to dance, to writhe in pain, fear, to wait, to pervert",
+    "num": 2342
   },
   {
     "word": "the earth",
@@ -37,7 +41,8 @@
     "translit": "(’e·reṣ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "and world,",
@@ -45,7 +50,8 @@
     "translit": "(wə·ṯê·ḇêl)",
     "parse": "Conjunctive waw | Noun - feminine singular",
     "str": "Strong's 8398:  ",
-    "str2": "The earth, the globe, its inhabitants, a particular land"
+    "str2": "The earth, the globe, its inhabitants, a particular land",
+    "num": 8398
   },
   {
     "word": "from everlasting",
@@ -53,7 +59,8 @@
     "translit": "(ū·mê·‘ō·w·lām)",
     "parse": "Conjunctive waw, Preposition-m | Noun - masculine singular",
     "str": "Strong's 5769:  ",
-    "str2": "Concealed, eternity, frequentatively, always"
+    "str2": "Concealed, eternity, frequentatively, always",
+    "num": 5769
   },
   {
     "word": "to everlasting,",
@@ -61,7 +68,8 @@
     "translit": "(‘ō·w·lām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5769:  ",
-    "str2": "Concealed, eternity, frequentatively, always"
+    "str2": "Concealed, eternity, frequentatively, always",
+    "num": 5769
   },
   {
     "word": "You",
@@ -69,7 +77,8 @@
     "translit": "(’at·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "are God.",
@@ -77,6 +86,7 @@
     "translit": "(’êl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 410:  ",
-    "str2": "Strength -- as adjective, mighty, the Almighty"
+    "str2": "Strength -- as adjective, mighty, the Almighty",
+    "num": 410
   }
 ]

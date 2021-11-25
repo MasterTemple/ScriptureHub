@@ -5,7 +5,8 @@
     "translit": "(biblion)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 975:  ",
-    "str2": "A papyrus roll. A diminutive of biblos; a roll."
+    "str2": "A papyrus roll. A diminutive of biblos; a roll.",
+    "num": 975
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "prophet",
@@ -21,7 +23,8 @@
     "translit": "(prophētou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 4396:  ",
-    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet."
+    "str2": "From a compound of pro and phemi; a foreteller; by analogy, an inspired speaker; by extension, a poet.",
+    "num": 4396
   },
   {
     "word": "Isaiah",
@@ -29,7 +32,8 @@
     "translit": "(Ēsaiou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2268:  ",
-    "str2": "Isaiah, the prophet. Of Hebrew origin; Hesaias, an Israelite."
+    "str2": "Isaiah, the prophet. Of Hebrew origin; Hesaias, an Israelite.",
+    "num": 2268
   },
   {
     "word": "was handed",
@@ -37,7 +41,8 @@
     "translit": "(epedothē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 1929:  ",
-    "str2": "(a) trans: I hand in, give up, (b) intrans: I give way (to the wind). From epi and didomi; to give over."
+    "str2": "(a) trans: I hand in, give up, (b) intrans: I give way (to the wind). From epi and didomi; to give over.",
+    "num": 1929
   },
   {
     "word": "to Him.",
@@ -45,7 +50,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "Unrolling",
@@ -53,7 +59,8 @@
     "translit": "(anaptyxas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 380:  ",
-    "str2": "To unroll, roll back, unfold. From ana and ptusso; to unroll."
+    "str2": "To unroll, roll back, unfold. From ana and ptusso; to unroll.",
+    "num": 380
   },
   {
     "word": "[it],",
@@ -61,7 +68,8 @@
     "translit": "(biblion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 975:  ",
-    "str2": "A papyrus roll. A diminutive of biblos; a roll."
+    "str2": "A papyrus roll. A diminutive of biblos; a roll.",
+    "num": 975
   },
   {
     "word": "He found",
@@ -69,7 +77,8 @@
     "translit": "(heuren)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2147:  ",
-    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find."
+    "str2": "A prolonged form of a primary heuro, which heureo is used for it in all the tenses except the present and imperfect to find.",
+    "num": 2147
   },
   {
     "word": "the",
@@ -77,7 +86,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "place",
@@ -85,7 +95,8 @@
     "translit": "(topon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 5117:  ",
-    "str2": "Apparently a primary word; a spot, i.e. Location; figuratively, condition, opportunity; specially, a scabbard."
+    "str2": "Apparently a primary word; a spot, i.e. Location; figuratively, condition, opportunity; specially, a scabbard.",
+    "num": 5117
   },
   {
     "word": "where",
@@ -93,7 +104,8 @@
     "translit": "(hou)",
     "parse": "Adverb",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "it was",
@@ -101,7 +113,8 @@
     "translit": "(ēn)",
     "parse": "Verb - Imperfect Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "written:",
@@ -109,6 +122,7 @@
     "translit": "(gegrammenon)",
     "parse": "Verb - Perfect Participle Middle or Passive - Nominative Neuter Singular",
     "str": "Strong's 1125:  ",
-    "str2": "A primary verb; to 'grave', especially to write; figuratively, to describe."
+    "str2": "A primary verb; to 'grave', especially to write; figuratively, to describe.",
+    "num": 1125
   }
 ]

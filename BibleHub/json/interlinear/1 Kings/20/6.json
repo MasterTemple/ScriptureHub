@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "about",
@@ -13,7 +14,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "this time",
@@ -21,7 +23,8 @@
     "translit": "(kā·‘êṯ)",
     "parse": "Preposition-k, Article | Noun - common singular",
     "str": "Strong's 6256:  ",
-    "str2": "Time, now, when"
+    "str2": "Time, now, when",
+    "num": 6256
   },
   {
     "word": "tomorrow",
@@ -29,7 +32,8 @@
     "translit": "(mā·ḥār)",
     "parse": "Adverb",
     "str": "Strong's 4279:  ",
-    "str2": "Deferred, the morrow, tomorrow, hereafter"
+    "str2": "Deferred, the morrow, tomorrow, hereafter",
+    "num": 4279
   },
   {
     "word": "I will send",
@@ -37,7 +41,8 @@
     "translit": "(’eš·laḥ)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 7971:  ",
-    "str2": "To send away, for, out"
+    "str2": "To send away, for, out",
+    "num": 7971
   },
   {
     "word": "my servants",
@@ -45,7 +50,8 @@
     "translit": "(‘ă·ḇā·ḏay)",
     "parse": "Noun - masculine plural construct | first person common singular",
     "str": "Strong's 5650:  ",
-    "str2": "Slave, servant"
+    "str2": "Slave, servant",
+    "num": 5650
   },
   {
     "word": "to search",
@@ -53,7 +59,8 @@
     "translit": "(wə·ḥip·pə·śū)",
     "parse": "Conjunctive waw | Verb - Piel - Conjunctive perfect - third person common plural",
     "str": "Strong's 2664:  ",
-    "str2": "To seek, to conceal oneself, mask"
+    "str2": "To seek, to conceal oneself, mask",
+    "num": 2664
   },
   {
     "word": "your palace",
@@ -61,7 +68,8 @@
     "translit": "(bê·ṯə·ḵā)",
     "parse": "Noun - masculine singular construct | second person masculine singular",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(wə·’êṯ)",
     "parse": "Conjunctive waw | Direct object marker",
     "str": "Strong's 853:  ",
-    "str2": "Untranslatable mark of the accusative case"
+    "str2": "Untranslatable mark of the accusative case",
+    "num": 853
   },
   {
     "word": "the houses",
@@ -77,7 +86,8 @@
     "translit": "(bāt·tê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "of your servants.",
@@ -85,7 +95,8 @@
     "translit": "(‘ă·ḇā·ḏe·ḵā)",
     "parse": "Noun - masculine plural construct | second person masculine singular",
     "str": "Strong's 5650:  ",
-    "str2": "Slave, servant"
+    "str2": "Slave, servant",
+    "num": 5650
   },
   {
     "word": "They will seize",
@@ -93,7 +104,8 @@
     "translit": "(yā·śî·mū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 7760:  ",
-    "str2": "Put -- to put, place, set"
+    "str2": "Put -- to put, place, set",
+    "num": 7760
   },
   {
     "word": "and take away",
@@ -101,7 +113,8 @@
     "translit": "(wə·lā·qā·ḥū)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person common plural",
     "str": "Strong's 3947:  ",
-    "str2": "To take"
+    "str2": "To take",
+    "num": 3947
   },
   {
     "word": "all that",
@@ -109,7 +122,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "is",
@@ -117,7 +131,8 @@
     "translit": "(wə·hā·yāh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "precious",
@@ -125,7 +140,8 @@
     "translit": "(maḥ·maḏ)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4261:  ",
-    "str2": "Delightful, a delight, object of affection, desire"
+    "str2": "Delightful, a delight, object of affection, desire",
+    "num": 4261
   },
   {
     "word": "to you.’”",
@@ -133,6 +149,7 @@
     "translit": "(‘ê·ne·ḵā)",
     "parse": "Noun - cdc | second person masculine singular",
     "str": "Strong's 5869:  ",
-    "str2": "An eye, a fountain"
+    "str2": "An eye, a fountain",
+    "num": 5869
   }
 ]

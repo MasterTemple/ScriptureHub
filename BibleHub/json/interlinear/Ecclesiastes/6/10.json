@@ -5,7 +5,8 @@
     "translit": "(mah-)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "exists",
@@ -13,7 +14,8 @@
     "translit": "(še·hā·yāh)",
     "parse": "Pronoun - relative | Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "was named",
@@ -21,7 +23,8 @@
     "translit": "(niq·rā)",
     "parse": "Verb - Nifal - Perfect - third person masculine singular",
     "str": "Strong's 7121:  ",
-    "str2": "To call, proclaim, read"
+    "str2": "To call, proclaim, read",
+    "num": 7121
   },
   {
     "word": "long ago,",
@@ -29,7 +32,8 @@
     "translit": "(kə·ḇār)",
     "parse": "Adverb",
     "str": "Strong's 3528:  ",
-    "str2": "Extent of time, a great while, long ago, formerly, hitherto"
+    "str2": "Extent of time, a great while, long ago, formerly, hitherto",
+    "num": 3528
   },
   {
     "word": "and what [happens]",
@@ -37,7 +41,8 @@
     "translit": "(’ă·šer-)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "to a man",
@@ -45,7 +50,8 @@
     "translit": "(’ā·ḏām)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 120:  ",
-    "str2": "Ruddy, a human being"
+    "str2": "Ruddy, a human being",
+    "num": 120
   },
   {
     "word": "is foreknown;",
@@ -53,7 +59,8 @@
     "translit": "(wə·nō·w·ḏā‘)",
     "parse": "Conjunctive waw | Verb - Nifal - Participle - masculine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "but he",
@@ -61,7 +68,8 @@
     "translit": "(hū)",
     "parse": "Pronoun - third person masculine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "cannot",
@@ -69,7 +77,8 @@
     "translit": "(wə·lō-)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "contend",
@@ -77,7 +86,8 @@
     "translit": "(lā·ḏîn)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 1777:  ",
-    "str2": "A straight course, sail direct"
+    "str2": "A straight course, sail direct",
+    "num": 1777
   },
   {
     "word": "with",
@@ -85,7 +95,8 @@
     "translit": "(‘im)",
     "parse": "Preposition",
     "str": "Strong's 5973:  ",
-    "str2": "With, equally with"
+    "str2": "With, equally with",
+    "num": 5973
   },
   {
     "word": "one stronger",
@@ -93,7 +104,8 @@
     "translit": "(šet·taq·qîp̄)",
     "parse": "Pronoun - relative | Adjective - masculine singular",
     "str": "Strong's 8630:  ",
-    "str2": "To prevail over, overpower"
+    "str2": "To prevail over, overpower",
+    "num": 8630
   },
   {
     "word": "than he.",
@@ -101,6 +113,7 @@
     "translit": "(mim·men·nū)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   }
 ]

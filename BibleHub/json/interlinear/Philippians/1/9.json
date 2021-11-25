@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "this [is]",
@@ -13,7 +14,8 @@
     "translit": "(touto)",
     "parse": "Demonstrative Pronoun - Accusative Neuter Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "my prayer:",
@@ -21,7 +23,8 @@
     "translit": "(proseuchomai)",
     "parse": "Verb - Present Indicative Middle or Passive - 1st Person Singular",
     "str": "Strong's 4336:  ",
-    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship."
+    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship.",
+    "num": 4336
   },
   {
     "word": "that",
@@ -29,7 +32,8 @@
     "translit": "(hina)",
     "parse": "Conjunction",
     "str": "Strong's 2443:  ",
-    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that."
+    "str2": "In order that, so that. Probably from the same as the former part of heautou; in order that.",
+    "num": 2443
   },
   {
     "word": "your",
@@ -37,7 +41,8 @@
     "translit": "(hymōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "love",
@@ -45,7 +50,8 @@
     "translit": "(agapē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 26:  ",
-    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast."
+    "str2": "From agapao; love, i.e. Affection or benevolence; specially a love-feast.",
+    "num": 26
   },
   {
     "word": "may abound",
@@ -53,7 +59,8 @@
     "translit": "(perisseuē)",
     "parse": "Verb - Present Subjunctive Active - 3rd Person Singular",
     "str": "Strong's 4052:  ",
-    "str2": "From perissos; to superabound, be in excess, be superfluous; also to cause to superabound or excel."
+    "str2": "From perissos; to superabound, be in excess, be superfluous; also to cause to superabound or excel.",
+    "num": 4052
   },
   {
     "word": "more",
@@ -61,7 +68,8 @@
     "translit": "(mallon)",
     "parse": "Adverb",
     "str": "Strong's 3123:  ",
-    "str2": "More, rather. Neuter of the comparative of the same as malista; more) or rather."
+    "str2": "More, rather. Neuter of the comparative of the same as malista; more) or rather.",
+    "num": 3123
   },
   {
     "word": "and",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "more",
@@ -77,7 +86,8 @@
     "translit": "(mallon)",
     "parse": "Adverb",
     "str": "Strong's 3123:  ",
-    "str2": "More, rather. Neuter of the comparative of the same as malista; more) or rather."
+    "str2": "More, rather. Neuter of the comparative of the same as malista; more) or rather.",
+    "num": 3123
   },
   {
     "word": "in",
@@ -85,7 +95,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "knowledge",
@@ -93,7 +104,8 @@
     "translit": "(epignōsei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 1922:  ",
-    "str2": "From epiginosko; recognition, i.e. full discernment, acknowledgement."
+    "str2": "From epiginosko; recognition, i.e. full discernment, acknowledgement.",
+    "num": 1922
   },
   {
     "word": "and",
@@ -101,7 +113,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "profound",
@@ -109,7 +122,8 @@
     "translit": "(pasē)",
     "parse": "Adjective - Dative Feminine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "insight,",
@@ -117,6 +131,7 @@
     "translit": "(aisthēsei)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 144:  ",
-    "str2": "Perception, understanding, discernment. From aisthanomai; perception, i.e. discernment."
+    "str2": "Perception, understanding, discernment. From aisthanomai; perception, i.e. discernment.",
+    "num": 144
   }
 ]

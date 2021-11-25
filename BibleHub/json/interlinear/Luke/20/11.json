@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "he sent",
@@ -13,7 +14,8 @@
     "translit": "(pempsai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 3992:  ",
-    "str2": "To send, transmit, permit to go, put forth. "
+    "str2": "To send, transmit, permit to go, put forth. ",
+    "num": 3992
   },
   {
     "word": "another",
@@ -21,7 +23,8 @@
     "translit": "(heteron)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 2087:  ",
-    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different."
+    "str2": "(a) of two: another, a second, (b) other, different, (c) one's neighbor. Of uncertain affinity; other or different.",
+    "num": 2087
   },
   {
     "word": "servant,",
@@ -29,7 +32,8 @@
     "translit": "(doulon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 1401:  ",
-    "str2": "(a) (as adj.) enslaved, (b) (as noun) a (male) slave. From deo; a slave."
+    "str2": "(a) (as adj.) enslaved, (b) (as noun) a (male) slave. From deo; a slave.",
+    "num": 1401
   },
   {
     "word": "but",
@@ -37,7 +41,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "they beat [him]",
@@ -45,7 +50,8 @@
     "translit": "(deirantes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 1194:  ",
-    "str2": "To flay, flog, scourge, beat. A primary verb; properly, to flay, i.e. to scourge, or to thrash."
+    "str2": "To flay, flog, scourge, beat. A primary verb; properly, to flay, i.e. to scourge, or to thrash.",
+    "num": 1194
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "humiliated",
@@ -61,7 +68,8 @@
     "translit": "(atimasantes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 818:  ",
-    "str2": "To disgrace, treat disgracefully, dishonor, insult; I despise. From atimos; to render infamous, i.e. contemn or maltreat."
+    "str2": "To disgrace, treat disgracefully, dishonor, insult; I despise. From atimos; to render infamous, i.e. contemn or maltreat.",
+    "num": 818
   },
   {
     "word": "him,",
@@ -69,7 +77,8 @@
     "translit": "(kakeinon)",
     "parse": "Demonstrative Pronoun - Accusative Masculine Singular",
     "str": "Strong's 2548:  ",
-    "str2": "And he, she, it, and that. From kai and ekeinos; likewise that."
+    "str2": "And he, she, it, and that. From kai and ekeinos; likewise that.",
+    "num": 2548
   },
   {
     "word": "sending [him] away",
@@ -77,7 +86,8 @@
     "translit": "(exapesteilan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1821:  ",
-    "str2": "From ek and apostello; to send away forth, i.e. to despatch, or to dismiss."
+    "str2": "From ek and apostello; to send away forth, i.e. to despatch, or to dismiss.",
+    "num": 1821
   },
   {
     "word": "empty-handed.",
@@ -85,6 +95,7 @@
     "translit": "(kenon)",
     "parse": "Adjective - Accusative Masculine Singular",
     "str": "Strong's 2756:  ",
-    "str2": "Apparently a primary word; empty."
+    "str2": "Apparently a primary word; empty.",
+    "num": 2756
   }
 ]

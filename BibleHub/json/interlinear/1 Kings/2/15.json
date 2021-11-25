@@ -5,7 +5,8 @@
     "translit": "(’at)",
     "parse": "Pronoun - second person feminine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "know",
@@ -13,7 +14,8 @@
     "translit": "(yā·ḏa·‘at)",
     "parse": "Verb - Qal - Perfect - second person feminine singular",
     "str": "Strong's 3045:  ",
-    "str2": "To know"
+    "str2": "To know",
+    "num": 3045
   },
   {
     "word": "that",
@@ -21,7 +23,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the kingship",
@@ -29,7 +32,8 @@
     "translit": "(ham·mə·lū·ḵāh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 4410:  ",
-    "str2": "Something ruled, a realm"
+    "str2": "Something ruled, a realm",
+    "num": 4410
   },
   {
     "word": "was mine,”",
@@ -37,7 +41,8 @@
     "translit": "(hā·yə·ṯāh)",
     "parse": "Verb - Qal - Perfect - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "he said.",
@@ -45,7 +50,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“All",
@@ -53,7 +59,8 @@
     "translit": "(ḵāl)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "Israel",
@@ -61,7 +68,8 @@
     "translit": "(yiś·rā·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3478:  ",
-    "str2": "Israel -- 'God strives', another name of Jacob and his desc"
+    "str2": "Israel -- 'God strives', another name of Jacob and his desc",
+    "num": 3478
   },
   {
     "word": "expected",
@@ -69,7 +77,8 @@
     "translit": "(wə·‘ā·lay)",
     "parse": "Conjunctive waw | Preposition | first person common singular",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "that I should reign,",
@@ -77,7 +86,8 @@
     "translit": "(lim·lōḵ)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 4427:  ",
-    "str2": "To reign, inceptively, to ascend the throne, to induct into royalty, to take counsel"
+    "str2": "To reign, inceptively, to ascend the throne, to induct into royalty, to take counsel",
+    "num": 4427
   },
   {
     "word": "but the kingship",
@@ -85,7 +95,8 @@
     "translit": "(ham·mə·lū·ḵāh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 4410:  ",
-    "str2": "Something ruled, a realm"
+    "str2": "Something ruled, a realm",
+    "num": 4410
   },
   {
     "word": "has turned",
@@ -93,7 +104,8 @@
     "translit": "(wat·tis·sōḇ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
     "str": "Strong's 5437:  ",
-    "str2": "To turn about, go around, surround"
+    "str2": "To turn about, go around, surround",
+    "num": 5437
   },
   {
     "word": "to my brother,",
@@ -101,7 +113,8 @@
     "translit": "(lə·’ā·ḥî)",
     "parse": "Preposition-l | Noun - masculine singular construct | first person common singular",
     "str": "Strong's 251:  ",
-    "str2": "A brother, )"
+    "str2": "A brother, )",
+    "num": 251
   },
   {
     "word": "for",
@@ -109,7 +122,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "it has come",
@@ -117,7 +131,8 @@
     "translit": "(hā·yə·ṯāh)",
     "parse": "Verb - Qal - Perfect - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "to him",
@@ -125,7 +140,8 @@
     "translit": "(wat·tə·hî)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "from the LORD.",
@@ -133,6 +149,7 @@
     "translit": "(Yah·weh)",
     "parse": "Preposition-m | Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   }
 ]

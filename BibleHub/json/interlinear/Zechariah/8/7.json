@@ -5,7 +5,8 @@
     "translit": "(kōh)",
     "parse": "Adverb",
     "str": "Strong's 3541:  ",
-    "str2": "Like this, thus, here, now"
+    "str2": "Like this, thus, here, now",
+    "num": 3541
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "of Hosts",
@@ -21,7 +23,8 @@
     "translit": "(ṣə·ḇā·’ō·wṯ)",
     "parse": "Noun - common plural",
     "str": "Strong's 6635:  ",
-    "str2": "A mass of persons, reg, organized for, war, a campaign"
+    "str2": "A mass of persons, reg, organized for, war, a campaign",
+    "num": 6635
   },
   {
     "word": "says:",
@@ -29,7 +32,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“I will save",
@@ -37,7 +41,8 @@
     "translit": "(mō·wō·šî·a‘)",
     "parse": "Verb - Hifil - Participle - masculine singular",
     "str": "Strong's 3467:  ",
-    "str2": "To be open, wide, free, to be safe, to free, succor"
+    "str2": "To be open, wide, free, to be safe, to free, succor",
+    "num": 3467
   },
   {
     "word": "My people",
@@ -45,7 +50,8 @@
     "translit": "(‘am·mî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 5971:  ",
-    "str2": "A people, a tribe, troops, attendants, a flock"
+    "str2": "A people, a tribe, troops, attendants, a flock",
+    "num": 5971
   },
   {
     "word": "from the land",
@@ -53,7 +59,8 @@
     "translit": "(mê·’e·reṣ)",
     "parse": "Preposition-m | Noun - feminine singular construct",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "of the east",
@@ -61,7 +68,8 @@
     "translit": "(miz·rāḥ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4217:  ",
-    "str2": "Place of sunrise, the east"
+    "str2": "Place of sunrise, the east",
+    "num": 4217
   },
   {
     "word": "and the land",
@@ -69,7 +77,8 @@
     "translit": "(ū·mê·’e·reṣ)",
     "parse": "Conjunctive waw, Preposition-m | Noun - feminine singular construct",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "of the west.",
@@ -77,6 +86,7 @@
     "translit": "(mə·ḇō·w)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3996:  ",
-    "str2": "An entrance, sunset, the west, towards"
+    "str2": "An entrance, sunset, the west, towards",
+    "num": 3996
   }
 ]

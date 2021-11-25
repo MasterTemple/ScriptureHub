@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "wages",
@@ -21,7 +23,8 @@
     "translit": "(misthos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 3408:  ",
-    "str2": "(a) pay, wages, salary, (b) reward, recompense, punishment. Apparently a primary word; pay for service, good or bad."
+    "str2": "(a) pay, wages, salary, (b) reward, recompense, punishment. Apparently a primary word; pay for service, good or bad.",
+    "num": 3408
   },
   {
     "word": "of",
@@ -29,7 +32,8 @@
     "translit": "(Tō)",
     "parse": "Article - Dative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "[the] worker",
@@ -37,7 +41,8 @@
     "translit": "(ergazomenō)",
     "parse": "Verb - Present Participle Middle or Passive - Dative Masculine Singular",
     "str": "Strong's 2038:  ",
-    "str2": "To work, trade, perform, do, practice, commit, acquire by labor. "
+    "str2": "To work, trade, perform, do, practice, commit, acquire by labor. ",
+    "num": 2038
   },
   {
     "word": "are not credited",
@@ -45,7 +50,8 @@
     "translit": "(logizetai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 3049:  ",
-    "str2": "To reckon, count, charge with; reason, decide, conclude; think, suppose. "
+    "str2": "To reckon, count, charge with; reason, decide, conclude; think, suppose. ",
+    "num": 3049
   },
   {
     "word": "as",
@@ -53,7 +59,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "a gift,",
@@ -61,7 +68,8 @@
     "translit": "(charin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 5485:  ",
-    "str2": "From chairo; graciousness, of manner or act."
+    "str2": "From chairo; graciousness, of manner or act.",
+    "num": 5485
   },
   {
     "word": "but",
@@ -69,7 +77,8 @@
     "translit": "(alla)",
     "parse": "Conjunction",
     "str": "Strong's 235:  ",
-    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise."
+    "str2": "But, except, however. Neuter plural of allos; properly, other things, i.e. contrariwise.",
+    "num": 235
   },
   {
     "word": "as",
@@ -77,7 +86,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "an obligation.",
@@ -85,6 +95,7 @@
     "translit": "(opheilēma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3783:  ",
-    "str2": "A debt, offense, sin. From opheilo; something owed, i.e. a due; morally, a fault."
+    "str2": "A debt, offense, sin. From opheilo; something owed, i.e. a due; morally, a fault.",
+    "num": 3783
   }
 ]

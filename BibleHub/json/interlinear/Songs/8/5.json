@@ -5,7 +5,8 @@
     "translit": "(mî)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "is this",
@@ -13,7 +14,8 @@
     "translit": "(zōṯ)",
     "parse": "Pronoun - feminine singular",
     "str": "Strong's 2063:  ",
-    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, "
+    "str2": "Hereby in it, likewise, the one other, same, she, so much, such deed, that, ",
+    "num": 2063
   },
   {
     "word": "coming up",
@@ -21,7 +23,8 @@
     "translit": "(‘ō·lāh)",
     "parse": "Verb - Qal - Participle - feminine singular",
     "str": "Strong's 5927:  ",
-    "str2": "To ascend, in, actively"
+    "str2": "To ascend, in, actively",
+    "num": 5927
   },
   {
     "word": "from",
@@ -29,7 +32,8 @@
     "translit": "(min-)",
     "parse": "Preposition",
     "str": "Strong's 4480:  ",
-    "str2": "A part of, from, out of"
+    "str2": "A part of, from, out of",
+    "num": 4480
   },
   {
     "word": "the wilderness,",
@@ -37,7 +41,8 @@
     "translit": "(ham·miḏ·bār)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4057:  ",
-    "str2": "A pasture, a desert, speech"
+    "str2": "A pasture, a desert, speech",
+    "num": 4057
   },
   {
     "word": "leaning",
@@ -45,7 +50,8 @@
     "translit": "(miṯ·rap·pe·qeṯ)",
     "parse": "Verb - Hitpael - Participle - feminine singular",
     "str": "Strong's 7514:  ",
-    "str2": "To shake, rock"
+    "str2": "To shake, rock",
+    "num": 7514
   },
   {
     "word": "on her",
@@ -53,7 +59,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "beloved?",
@@ -61,7 +68,8 @@
     "translit": "(dō·w·ḏāh)",
     "parse": "Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 1730:  ",
-    "str2": "To love, a love-token, lover, friend, an uncle"
+    "str2": "To love, a love-token, lover, friend, an uncle",
+    "num": 1730
   },
   {
     "word": "I roused you",
@@ -69,7 +77,8 @@
     "translit": "(‘ō·w·rar·tî·ḵā)",
     "parse": "Verb - Piel - Perfect - first person common singular | second person masculine singular",
     "str": "Strong's 5782:  ",
-    "str2": "To rouse oneself, awake"
+    "str2": "To rouse oneself, awake",
+    "num": 5782
   },
   {
     "word": "under",
@@ -77,7 +86,8 @@
     "translit": "(ta·ḥaṯ)",
     "parse": "Preposition",
     "str": "Strong's 8478:  ",
-    "str2": "The bottom, below, in lieu of"
+    "str2": "The bottom, below, in lieu of",
+    "num": 8478
   },
   {
     "word": "the apple tree;",
@@ -85,7 +95,8 @@
     "translit": "(hat·tap·pū·aḥ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 8598:  ",
-    "str2": "An apple, the fruit, the tree"
+    "str2": "An apple, the fruit, the tree",
+    "num": 8598
   },
   {
     "word": "there",
@@ -93,7 +104,8 @@
     "translit": "(māh)",
     "parse": "Adverb | third person feminine singular",
     "str": "Strong's 8033:  ",
-    "str2": "There, then, thither"
+    "str2": "There, then, thither",
+    "num": 8033
   },
   {
     "word": "your mother",
@@ -101,7 +113,8 @@
     "translit": "(’im·me·ḵā)",
     "parse": "Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "conceived you,",
@@ -109,7 +122,8 @@
     "translit": "(ḥib·bə·laṯ·ḵā)",
     "parse": "Verb - Piel - Perfect - second person feminine singular | second person masculine singular",
     "str": "Strong's 2254:  ",
-    "str2": "To wind tightly, to bind, a pledge, to pervert, destroy, to writhe in pain"
+    "str2": "To wind tightly, to bind, a pledge, to pervert, destroy, to writhe in pain",
+    "num": 2254
   },
   {
     "word": "there",
@@ -117,7 +131,8 @@
     "translit": "(šām·māh)",
     "parse": "Adverb | third person feminine singular",
     "str": "Strong's 8033:  ",
-    "str2": "There, then, thither"
+    "str2": "There, then, thither",
+    "num": 8033
   },
   {
     "word": "she travailed",
@@ -125,7 +140,8 @@
     "translit": "(ḥib·bə·lāh)",
     "parse": "Verb - Piel - Perfect - third person feminine singular",
     "str": "Strong's 2254:  ",
-    "str2": "To wind tightly, to bind, a pledge, to pervert, destroy, to writhe in pain"
+    "str2": "To wind tightly, to bind, a pledge, to pervert, destroy, to writhe in pain",
+    "num": 2254
   },
   {
     "word": "and brought you forth.",
@@ -133,6 +149,7 @@
     "translit": "(yə·lā·ḏaṯ·ḵā)",
     "parse": "Verb - Qal - Perfect - third person feminine singular | second person masculine singular",
     "str": "Strong's 3205:  ",
-    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage"
+    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage",
+    "num": 3205
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "the [one who]",
@@ -13,7 +14,8 @@
     "translit": "(ho)",
     "parse": "Article - Nominative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "enters",
@@ -21,7 +23,8 @@
     "translit": "(eiserchomenos)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Masculine Singular",
     "str": "Strong's 1525:  ",
-    "str2": "To go in, come in, enter. From eis and erchomai; to enter."
+    "str2": "To go in, come in, enter. From eis and erchomai; to enter.",
+    "num": 1525
   },
   {
     "word": "by",
@@ -29,7 +32,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "the",
@@ -37,7 +41,8 @@
     "translit": "(tēs)",
     "parse": "Article - Genitive Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "gate",
@@ -45,7 +50,8 @@
     "translit": "(thyras)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2374:  ",
-    "str2": "(a) a door, (b) met: an opportunity. Apparently a primary word; a portal or entrance."
+    "str2": "(a) a door, (b) met: an opportunity. Apparently a primary word; a portal or entrance.",
+    "num": 2374
   },
   {
     "word": "is",
@@ -53,7 +59,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "[the] shepherd",
@@ -61,7 +68,8 @@
     "translit": "(poimēn)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 4166:  ",
-    "str2": "A shepherd; hence met: of the feeder, protector, and ruler of a flock of men. Of uncertain affinity; a shepherd."
+    "str2": "A shepherd; hence met: of the feeder, protector, and ruler of a flock of men. Of uncertain affinity; a shepherd.",
+    "num": 4166
   },
   {
     "word": "of the",
@@ -69,7 +77,8 @@
     "translit": "(tōn)",
     "parse": "Article - Genitive Neuter Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "sheep.",
@@ -77,6 +86,7 @@
     "translit": "(probatōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 4263:  ",
-    "str2": "A sheep. Probably neuter of a presumed derivative of probaino; something that walks forward, i.e., a sheep."
+    "str2": "A sheep. Probably neuter of a presumed derivative of probaino; something that walks forward, i.e., a sheep.",
+    "num": 4263
   }
 ]

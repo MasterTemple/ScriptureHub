@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "original [workers]",
@@ -21,7 +23,8 @@
     "translit": "(prōtoi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 4413:  ",
-    "str2": "First, before, principal, most important. Contracted superlative of pro; foremost."
+    "str2": "First, before, principal, most important. Contracted superlative of pro; foremost.",
+    "num": 4413
   },
   {
     "word": "came,",
@@ -29,7 +32,8 @@
     "translit": "(elthontes)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "they assumed",
@@ -37,7 +41,8 @@
     "translit": "(enomisan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 3543:  ",
-    "str2": "From nomos; properly, to do by law, i.e. To accustom; by extension, to deem or regard."
+    "str2": "From nomos; properly, to do by law, i.e. To accustom; by extension, to deem or regard.",
+    "num": 3543
   },
   {
     "word": "they would receive",
@@ -45,7 +50,8 @@
     "translit": "(lēmpsontai)",
     "parse": "Verb - Future Indicative Middle - 3rd Person Plural",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "more.",
@@ -53,7 +59,8 @@
     "translit": "(pleion)",
     "parse": "Adjective - Accusative Neuter Singular - Comparative",
     "str": "Strong's 4119:  ",
-    "str2": "Or neuter pleion, or pleon comparative of polus; more in quantity, number, or quality; also the major portion."
+    "str2": "Or neuter pleion, or pleon comparative of polus; more in quantity, number, or quality; also the major portion.",
+    "num": 4119
   },
   {
     "word": "But",
@@ -61,7 +68,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "each",
@@ -69,7 +77,8 @@
     "translit": "(ana)",
     "parse": "Adverb",
     "str": "Strong's 303:  ",
-    "str2": "A primary preposition and adverb; properly, up; but used severally, or at."
+    "str2": "A primary preposition and adverb; properly, up; but used severally, or at.",
+    "num": 303
   },
   {
     "word": "of them",
@@ -77,7 +86,8 @@
     "translit": "(autoi)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "also",
@@ -85,7 +95,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "received",
@@ -93,7 +104,8 @@
     "translit": "(elabon)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "a denarius.",
@@ -101,6 +113,7 @@
     "translit": "(dēnarion)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 1220:  ",
-    "str2": "A denarius, a small Roman silver coin. Of Latin origin; a denarius."
+    "str2": "A denarius, a small Roman silver coin. Of Latin origin; a denarius.",
+    "num": 1220
   }
 ]

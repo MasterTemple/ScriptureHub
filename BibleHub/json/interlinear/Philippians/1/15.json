@@ -5,7 +5,8 @@
     "translit": "(men)",
     "parse": "Conjunction",
     "str": "Strong's 3303:  ",
-    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de."
+    "str2": "A primary particle; properly, indicative of affirmation or concession; usually followed by a contrasted clause with de.",
+    "num": 3303
   },
   {
     "word": "some",
@@ -13,7 +14,8 @@
     "translit": "(Tines)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Plural",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "preach",
@@ -21,7 +23,8 @@
     "translit": "(kēryssousin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 2784:  ",
-    "str2": "To proclaim, herald, preach. Of uncertain affinity; to herald, especially divine truth."
+    "str2": "To proclaim, herald, preach. Of uncertain affinity; to herald, especially divine truth.",
+    "num": 2784
   },
   {
     "word": "Christ",
@@ -29,7 +32,8 @@
     "translit": "(Christon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "out of",
@@ -37,7 +41,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "envy",
@@ -45,7 +50,8 @@
     "translit": "(phthonon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 5355:  ",
-    "str2": "Envy, a grudge, spite. Probably akin to the base of phtheiro; ill-will, i.e. Jealousy."
+    "str2": "Envy, a grudge, spite. Probably akin to the base of phtheiro; ill-will, i.e. Jealousy.",
+    "num": 5355
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "rivalry,",
@@ -61,7 +68,8 @@
     "translit": "(erin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2054:  ",
-    "str2": "Contention, strife, wrangling. Of uncertain affinity; a quarrel, i.e. wrangling."
+    "str2": "Contention, strife, wrangling. Of uncertain affinity; a quarrel, i.e. wrangling.",
+    "num": 2054
   },
   {
     "word": "but",
@@ -69,7 +77,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "[others]",
@@ -77,7 +86,8 @@
     "translit": "(tines)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Masculine Plural",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "out of",
@@ -85,7 +95,8 @@
     "translit": "(di’)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "goodwill.",
@@ -93,6 +104,7 @@
     "translit": "(eudokian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2107:  ",
-    "str2": "From a presumed compound of eu and the base of dokeo; satisfaction, i.e. delight, or kindness, wish, purpose."
+    "str2": "From a presumed compound of eu and the base of dokeo; satisfaction, i.e. delight, or kindness, wish, purpose.",
+    "num": 2107
   }
 ]

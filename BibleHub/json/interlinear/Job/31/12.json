@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "it",
@@ -13,7 +14,8 @@
     "translit": "(hî)",
     "parse": "Pronoun - third person feminine singular",
     "str": "Strong's 1931:  ",
-    "str2": "He, self, the same, this, that, as, are"
+    "str2": "He, self, the same, this, that, as, are",
+    "num": 1931
   },
   {
     "word": "is a fire",
@@ -21,7 +23,8 @@
     "translit": "(’êš)",
     "parse": "Noun - common singular",
     "str": "Strong's 784:  ",
-    "str2": "A fire"
+    "str2": "A fire",
+    "num": 784
   },
   {
     "word": "that burns",
@@ -29,7 +32,8 @@
     "translit": "(tō·ḵêl)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "down to",
@@ -37,7 +41,8 @@
     "translit": "(‘aḏ-)",
     "parse": "Preposition",
     "str": "Strong's 5704:  ",
-    "str2": "As far as, even to, up to, until, while"
+    "str2": "As far as, even to, up to, until, while",
+    "num": 5704
   },
   {
     "word": "Abaddon;",
@@ -45,7 +50,8 @@
     "translit": "(’ă·ḇad·dō·wn)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 11:  ",
-    "str2": "Abaddon -- (place of) destruction or ruin, Abaddon"
+    "str2": "Abaddon -- (place of) destruction or ruin, Abaddon",
+    "num": 11
   },
   {
     "word": "it would root out",
@@ -53,7 +59,8 @@
     "translit": "(ṯə·šā·rêš)",
     "parse": "Verb - Piel - Imperfect - third person feminine singular",
     "str": "Strong's 8327:  ",
-    "str2": "To root, strike into the soil, to pluck from it"
+    "str2": "To root, strike into the soil, to pluck from it",
+    "num": 8327
   },
   {
     "word": "my entire",
@@ -61,7 +68,8 @@
     "translit": "(ū·ḇə·ḵāl)",
     "parse": "Conjunctive waw, Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "harvest.",
@@ -69,6 +77,7 @@
     "translit": "(tə·ḇū·’ā·ṯî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 8393:  ",
-    "str2": "Product, revenue"
+    "str2": "Product, revenue",
+    "num": 8393
   }
 ]

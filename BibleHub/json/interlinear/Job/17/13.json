@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I look",
@@ -13,7 +14,8 @@
     "translit": "(’ă·qaw·weh)",
     "parse": "Verb - Piel - Imperfect - first person common singular",
     "str": "Strong's 6960:  ",
-    "str2": "To bind together, collect, to expect"
+    "str2": "To bind together, collect, to expect",
+    "num": 6960
   },
   {
     "word": "for Sheol",
@@ -21,7 +23,8 @@
     "translit": "(šə·’ō·wl)",
     "parse": "Noun - common singular",
     "str": "Strong's 7585:  ",
-    "str2": "Underworld (place to which people descend at death)"
+    "str2": "Underworld (place to which people descend at death)",
+    "num": 7585
   },
   {
     "word": "as my home,",
@@ -29,7 +32,8 @@
     "translit": "(bê·ṯî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "if I spread out",
@@ -37,7 +41,8 @@
     "translit": "(rip·paḏ·tî)",
     "parse": "Verb - Piel - Perfect - first person common singular",
     "str": "Strong's 7502:  ",
-    "str2": "To spread, to refresh"
+    "str2": "To spread, to refresh",
+    "num": 7502
   },
   {
     "word": "my bed",
@@ -45,7 +50,8 @@
     "translit": "(yə·ṣū·‘āy)",
     "parse": "Noun - masculine plural construct | first person common singular",
     "str": "Strong's 3326:  ",
-    "str2": "Spread, a bed, an extension, wing, lean-to"
+    "str2": "Spread, a bed, an extension, wing, lean-to",
+    "num": 3326
   },
   {
     "word": "in darkness,",
@@ -53,6 +59,7 @@
     "translit": "(ba·ḥō·šeḵ)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 2822:  ",
-    "str2": "The dark, darkness, misery, destruction, death, ignorance, sorrow, wickedness"
+    "str2": "The dark, darkness, misery, destruction, death, ignorance, sorrow, wickedness",
+    "num": 2822
   }
 ]

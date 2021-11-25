@@ -5,7 +5,8 @@
     "translit": "(hōsei)",
     "parse": "Adverb",
     "str": "Strong's 5616:  ",
-    "str2": "As if, as it were, like; with numbers: about. From hos and ei; as if."
+    "str2": "As if, as it were, like; with numbers: about. From hos and ei; as if.",
+    "num": 5616
   },
   {
     "word": "eight",
@@ -13,7 +14,8 @@
     "translit": "(oktō)",
     "parse": "Adjective - Nominative Feminine Plural",
     "str": "Strong's 3638:  ",
-    "str2": "Eight. A primary numeral; 'eight'."
+    "str2": "Eight. A primary numeral; 'eight'.",
+    "num": 3638
   },
   {
     "word": "days",
@@ -21,7 +23,8 @@
     "translit": "(hēmerai)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 2250:  ",
-    "str2": "A day, the period from sunrise to sunset. "
+    "str2": "A day, the period from sunrise to sunset. ",
+    "num": 2250
   },
   {
     "word": "after",
@@ -29,7 +32,8 @@
     "translit": "(meta)",
     "parse": "Preposition",
     "str": "Strong's 3326:  ",
-    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. "
+    "str2": "(a) gen: with, in company with, (b) acc: (1) behind, beyond, after, of place, (2) after, of time, with nouns, neut. of adjectives. ",
+    "num": 3326
   },
   {
     "word": "[Jesus] had said",
@@ -37,7 +41,8 @@
     "translit": "(logous)",
     "parse": "Noun - Accusative Masculine Plural",
     "str": "Strong's 3056:  ",
-    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression."
+    "str2": "From lego; something said; by implication, a topic, also reasoning or motive; by extension, a computation; specially, the Divine Expression.",
+    "num": 3056
   },
   {
     "word": "these things,",
@@ -45,7 +50,8 @@
     "translit": "(toutous)",
     "parse": "Demonstrative Pronoun - Accusative Masculine Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "He took",
@@ -53,7 +59,8 @@
     "translit": "(paralabōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3880:  ",
-    "str2": "From para and lambano; to receive near, i.e. Associate with oneself; by analogy, to assume an office; figuratively, to learn."
+    "str2": "From para and lambano; to receive near, i.e. Associate with oneself; by analogy, to assume an office; figuratively, to learn.",
+    "num": 3880
   },
   {
     "word": "Peter,",
@@ -61,7 +68,8 @@
     "translit": "(Petron)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 4074:  ",
-    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle."
+    "str2": "Peter, a Greek name meaning rock. Apparently a primary word; a rock; as a name, Petrus, an apostle.",
+    "num": 4074
   },
   {
     "word": "John,",
@@ -69,7 +77,8 @@
     "translit": "(Iōannēn)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2491:  ",
-    "str2": "Of Hebrew origin; Joannes, the name of four Israelites."
+    "str2": "Of Hebrew origin; Joannes, the name of four Israelites.",
+    "num": 2491
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "James,",
@@ -85,7 +95,8 @@
     "translit": "(Iakōbon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2385:  ",
-    "str2": "The same as Iakob Graecized; Jacobus, the name of three Israelites."
+    "str2": "The same as Iakob Graecized; Jacobus, the name of three Israelites.",
+    "num": 2385
   },
   {
     "word": "[and] went up",
@@ -93,7 +104,8 @@
     "translit": "(anebē)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 305:  ",
-    "str2": "To go up, mount, ascend; of things: I rise, spring up, come up. From ana and the base of basis; to go up."
+    "str2": "To go up, mount, ascend; of things: I rise, spring up, come up. From ana and the base of basis; to go up.",
+    "num": 305
   },
   {
     "word": "on",
@@ -101,7 +113,8 @@
     "translit": "(eis)",
     "parse": "Preposition",
     "str": "Strong's 1519:  ",
-    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases."
+    "str2": "A primary preposition; to or into, of place, time, or purpose; also in adverbial phrases.",
+    "num": 1519
   },
   {
     "word": "a mountain",
@@ -109,7 +122,8 @@
     "translit": "(oros)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 3735:  ",
-    "str2": "A mountain, hill. Probably from an obsolete oro; a mountain: -hill, mount(-ain)."
+    "str2": "A mountain, hill. Probably from an obsolete oro; a mountain: -hill, mount(-ain).",
+    "num": 3735
   },
   {
     "word": "to pray.",
@@ -117,6 +131,7 @@
     "translit": "(proseuxasthai)",
     "parse": "Verb - Aorist Infinitive Middle",
     "str": "Strong's 4336:  ",
-    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship."
+    "str2": "To pray, pray for, offer prayer. From pros and euchomai; to pray to God, i.e. Supplicate, worship.",
+    "num": 4336
   }
 ]

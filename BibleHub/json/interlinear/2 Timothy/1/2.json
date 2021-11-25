@@ -5,7 +5,8 @@
     "translit": "(Timotheō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 5095:  ",
-    "str2": "Timothy, a Christian of Lystra, helper of Paul. From time and theos; dear to God; Timotheus, a Christian."
+    "str2": "Timothy, a Christian of Lystra, helper of Paul. From time and theos; dear to God; Timotheus, a Christian.",
+    "num": 5095
   },
   {
     "word": "[my] beloved",
@@ -13,7 +14,8 @@
     "translit": "(agapētō)",
     "parse": "Adjective - Dative Neuter Singular",
     "str": "Strong's 27:  ",
-    "str2": "From agapao; beloved."
+    "str2": "From agapao; beloved.",
+    "num": 27
   },
   {
     "word": "child:",
@@ -21,7 +23,8 @@
     "translit": "(teknō)",
     "parse": "Noun - Dative Neuter Singular",
     "str": "Strong's 5043:  ",
-    "str2": "A child, descendent, inhabitant. From the base of timoria; a child."
+    "str2": "A child, descendent, inhabitant. From the base of timoria; a child.",
+    "num": 5043
   },
   {
     "word": "Grace,",
@@ -29,7 +32,8 @@
     "translit": "(Charis)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 5485:  ",
-    "str2": "From chairo; graciousness, of manner or act."
+    "str2": "From chairo; graciousness, of manner or act.",
+    "num": 5485
   },
   {
     "word": "mercy,",
@@ -37,7 +41,8 @@
     "translit": "(eleos)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 1656:  ",
-    "str2": "Pity, mercy, compassion. Of uncertain affinity; compassion."
+    "str2": "Pity, mercy, compassion. Of uncertain affinity; compassion.",
+    "num": 1656
   },
   {
     "word": "[and] peace",
@@ -45,7 +50,8 @@
     "translit": "(eirēnē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1515:  ",
-    "str2": "Probably from a primary verb eiro; peace; by implication, prosperity."
+    "str2": "Probably from a primary verb eiro; peace; by implication, prosperity.",
+    "num": 1515
   },
   {
     "word": "from",
@@ -53,7 +59,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "God",
@@ -61,7 +68,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "[the] Father",
@@ -69,7 +77,8 @@
     "translit": "(Patros)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Christ",
@@ -85,7 +95,8 @@
     "translit": "(Christou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 5547:  ",
-    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus."
+    "str2": "Anointed One; the Messiah, the Christ. From chrio; Anointed One, i.e. The Messiah, an epithet of Jesus.",
+    "num": 5547
   },
   {
     "word": "Jesus",
@@ -93,7 +104,8 @@
     "translit": "(Iēsou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "our",
@@ -101,7 +113,8 @@
     "translit": "(hēmōn)",
     "parse": "Personal / Possessive Pronoun - Genitive 1st Person Plural",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "Lord.",
@@ -109,6 +122,7 @@
     "translit": "(Kyriou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2962:  ",
-    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master."
+    "str2": "Lord, master, sir; the Lord. From kuros; supreme in authority, i.e. controller; by implication, Master.",
+    "num": 2962
   }
 ]

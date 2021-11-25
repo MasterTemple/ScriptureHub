@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "who",
@@ -13,7 +14,8 @@
     "translit": "(mî)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "is God",
@@ -21,7 +23,8 @@
     "translit": "(’ĕ·lō·w·ah)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 433:  ",
-    "str2": "God -- a deity, the Deity"
+    "str2": "God -- a deity, the Deity",
+    "num": 433
   },
   {
     "word": "besides",
@@ -29,7 +32,8 @@
     "translit": "(mib·bal·‘ă·ḏê)",
     "parse": "Preposition-m",
     "str": "Strong's 1107:  ",
-    "str2": "Apart from, except, without"
+    "str2": "Apart from, except, without",
+    "num": 1107
   },
   {
     "word": "the LORD?",
@@ -37,7 +41,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "And who",
@@ -45,7 +50,8 @@
     "translit": "(ū·mî)",
     "parse": "Conjunctive waw | Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "[is] the rock",
@@ -53,7 +59,8 @@
     "translit": "(ṣūr)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 6697:  ",
-    "str2": "A cliff, a rock, boulder, a refuge, an edge"
+    "str2": "A cliff, a rock, boulder, a refuge, an edge",
+    "num": 6697
   },
   {
     "word": "except",
@@ -61,7 +68,8 @@
     "translit": "(zū·lā·ṯî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 2108:  ",
-    "str2": "Scattering, removal, except"
+    "str2": "Scattering, removal, except",
+    "num": 2108
   },
   {
     "word": "our God?",
@@ -69,6 +77,7 @@
     "translit": "(’ĕ·lō·hê·nū)",
     "parse": "Noun - masculine plural construct | first person common plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   }
 ]

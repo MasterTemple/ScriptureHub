@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "the king",
@@ -13,7 +14,8 @@
     "translit": "(ham·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "approves,",
@@ -21,7 +23,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "let [a decree] be issued",
@@ -29,7 +32,8 @@
     "translit": "(yik·kā·ṯêḇ)",
     "parse": "Verb - Nifal - Imperfect - third person masculine singular",
     "str": "Strong's 3789:  ",
-    "str2": "To grave, to write"
+    "str2": "To grave, to write",
+    "num": 3789
   },
   {
     "word": "to destroy them,",
@@ -37,7 +41,8 @@
     "translit": "(lə·’ab·bə·ḏām)",
     "parse": "Preposition-l | Verb - Piel - Infinitive construct | third person masculine plural",
     "str": "Strong's 6:  ",
-    "str2": "To wander away, lose oneself, to perish"
+    "str2": "To wander away, lose oneself, to perish",
+    "num": 6
   },
   {
     "word": "and I will deposit",
@@ -45,7 +50,8 @@
     "translit": "(lə·hā·ḇî)",
     "parse": "Preposition-l | Verb - Hifil - Infinitive construct",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "ten",
@@ -53,7 +59,8 @@
     "translit": "(wa·‘ă·śe·reṯ)",
     "parse": "Conjunctive waw | Number - masculine singular construct",
     "str": "Strong's 6235:  ",
-    "str2": "Ten"
+    "str2": "Ten",
+    "num": 6235
   },
   {
     "word": "thousand",
@@ -61,7 +68,8 @@
     "translit": "(’ă·lā·p̄îm)",
     "parse": "Number - masculine plural",
     "str": "Strong's 505:  ",
-    "str2": "A thousand"
+    "str2": "A thousand",
+    "num": 505
   },
   {
     "word": "talents",
@@ -69,7 +77,8 @@
     "translit": "(kik·kar-)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 3603:  ",
-    "str2": "A round, a round district, a round loaf, a round weight, a talent (a measure of weight or money)"
+    "str2": "A round, a round district, a round loaf, a round weight, a talent (a measure of weight or money)",
+    "num": 3603
   },
   {
     "word": "of silver",
@@ -77,7 +86,8 @@
     "translit": "(ke·sep̄)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3701:  ",
-    "str2": "Silver, money"
+    "str2": "Silver, money",
+    "num": 3701
   },
   {
     "word": "into",
@@ -85,7 +95,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the royal",
@@ -93,7 +104,8 @@
     "translit": "(ham·me·leḵ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 4428:  ",
-    "str2": "A king"
+    "str2": "A king",
+    "num": 4428
   },
   {
     "word": "treasury",
@@ -101,7 +113,8 @@
     "translit": "(gin·zê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 1595:  ",
-    "str2": "Treasury, perhaps chests"
+    "str2": "Treasury, perhaps chests",
+    "num": 1595
   },
   {
     "word": "to pay",
@@ -109,7 +122,8 @@
     "translit": "(’eš·qō·wl)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 8254:  ",
-    "str2": "To suspend, poise"
+    "str2": "To suspend, poise",
+    "num": 8254
   },
   {
     "word": "those who carry this out.”",
@@ -117,6 +131,7 @@
     "translit": "(‘ō·śê)",
     "parse": "Verb - Qal - Participle - masculine plural construct",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   }
 ]

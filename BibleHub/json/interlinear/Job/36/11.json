@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "they obey",
@@ -13,7 +14,8 @@
     "translit": "(yiš·mə·‘ū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "and serve [Him],",
@@ -21,7 +23,8 @@
     "translit": "(wə·ya·‘ă·ḇō·ḏū)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive imperfect - third person masculine plural",
     "str": "Strong's 5647:  ",
-    "str2": "To work, to serve, till, enslave"
+    "str2": "To work, to serve, till, enslave",
+    "num": 5647
   },
   {
     "word": "they will end",
@@ -29,7 +32,8 @@
     "translit": "(yə·ḵal·lū)",
     "parse": "Verb - Piel - Imperfect - third person masculine plural",
     "str": "Strong's 3615:  ",
-    "str2": "To be complete, at an end, finished, accomplished, or spent"
+    "str2": "To be complete, at an end, finished, accomplished, or spent",
+    "num": 3615
   },
   {
     "word": "their days",
@@ -37,7 +41,8 @@
     "translit": "(yə·mê·hem)",
     "parse": "Noun - masculine plural construct | third person masculine plural",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "in prosperity",
@@ -45,7 +50,8 @@
     "translit": "(baṭ·ṭō·wḇ)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 2896:  ",
-    "str2": "Pleasant, agreeable, good"
+    "str2": "Pleasant, agreeable, good",
+    "num": 2896
   },
   {
     "word": "and their years",
@@ -53,7 +59,8 @@
     "translit": "(ū·šə·nê·hem)",
     "parse": "Conjunctive waw | Noun - feminine plural construct | third person masculine plural",
     "str": "Strong's 8141:  ",
-    "str2": "A year"
+    "str2": "A year",
+    "num": 8141
   },
   {
     "word": "in happiness.",
@@ -61,6 +68,7 @@
     "translit": "(ban·nə·‘î·mîm)",
     "parse": "Preposition-b, Article | Adjective - masculine plural",
     "str": "Strong's 5273:  ",
-    "str2": "Pleasant, delightful"
+    "str2": "Pleasant, delightful",
+    "num": 5273
   }
 ]

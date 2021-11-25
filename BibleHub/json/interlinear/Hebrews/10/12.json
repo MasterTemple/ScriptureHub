@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "this [Priest]",
@@ -13,7 +14,8 @@
     "translit": "(houtos)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "had offered",
@@ -21,7 +23,8 @@
     "translit": "(prosenenkas)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 4374:  ",
-    "str2": "From pros and phero; to bear towards, i.e. Lead to, tender, treat."
+    "str2": "From pros and phero; to bear towards, i.e. Lead to, tender, treat.",
+    "num": 4374
   },
   {
     "word": "for all time",
@@ -29,7 +32,8 @@
     "translit": "(diēnekes)",
     "parse": "Adjective - Accusative Neuter Singular",
     "str": "Strong's 1336:  ",
-    "str2": "Neuter of a compound of dia and a derivative of an alternate of phero; carried through, i.e. perpetually."
+    "str2": "Neuter of a compound of dia and a derivative of an alternate of phero; carried through, i.e. perpetually.",
+    "num": 1336
   },
   {
     "word": "one",
@@ -37,7 +41,8 @@
     "translit": "(mian)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 1520:  ",
-    "str2": "One. (including the neuter Hen); a primary numeral; one."
+    "str2": "One. (including the neuter Hen); a primary numeral; one.",
+    "num": 1520
   },
   {
     "word": "sacrifice",
@@ -45,7 +50,8 @@
     "translit": "(thysian)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2378:  ",
-    "str2": "Abstr. and concr: sacrifice; a sacrifice, offering. From thuo; sacrifice."
+    "str2": "Abstr. and concr: sacrifice; a sacrifice, offering. From thuo; sacrifice.",
+    "num": 2378
   },
   {
     "word": "for",
@@ -53,7 +59,8 @@
     "translit": "(hyper)",
     "parse": "Preposition",
     "str": "Strong's 5228:  ",
-    "str2": "Gen: in behalf of; acc: above. "
+    "str2": "Gen: in behalf of; acc: above. ",
+    "num": 5228
   },
   {
     "word": "sins,",
@@ -61,7 +68,8 @@
     "translit": "(hamartiōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 266:  ",
-    "str2": "From hamartano; a sin."
+    "str2": "From hamartano; a sin.",
+    "num": 266
   },
   {
     "word": "He sat down",
@@ -69,7 +77,8 @@
     "translit": "(ekathisen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 2523:  ",
-    "str2": "Another form for kathezomai; to seat down, i.e. Set; intransitively, to sit; figuratively, to settle."
+    "str2": "Another form for kathezomai; to seat down, i.e. Set; intransitively, to sit; figuratively, to settle.",
+    "num": 2523
   },
   {
     "word": "at",
@@ -77,7 +86,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[the] right hand",
@@ -85,7 +95,8 @@
     "translit": "(dexia)",
     "parse": "Adjective - Dative Feminine Singular",
     "str": "Strong's 1188:  ",
-    "str2": "On the right hand, right hand, right. From dechomai; the right side or hand."
+    "str2": "On the right hand, right hand, right. From dechomai; the right side or hand.",
+    "num": 1188
   },
   {
     "word": "of God.",
@@ -93,6 +104,7 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   }
 ]

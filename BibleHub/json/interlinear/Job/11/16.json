@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you",
@@ -13,7 +14,8 @@
     "translit": "(’at·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "will forget",
@@ -21,7 +23,8 @@
     "translit": "(tiš·kāḥ)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 7911:  ",
-    "str2": "To mislay, to be oblivious of, from want of memory, attention"
+    "str2": "To mislay, to be oblivious of, from want of memory, attention",
+    "num": 7911
   },
   {
     "word": "[your] misery,",
@@ -29,7 +32,8 @@
     "translit": "(‘ā·māl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 5999:  ",
-    "str2": "Toil, wearing effort, worry, wheth, of body, mind"
+    "str2": "Toil, wearing effort, worry, wheth, of body, mind",
+    "num": 5999
   },
   {
     "word": "recalling",
@@ -37,7 +41,8 @@
     "translit": "(ṯiz·kōr)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 2142:  ",
-    "str2": "To mark, to remember, to mention,   to be male"
+    "str2": "To mark, to remember, to mention,   to be male",
+    "num": 2142
   },
   {
     "word": "it only as waters",
@@ -45,7 +50,8 @@
     "translit": "(kə·ma·yim)",
     "parse": "Preposition-k | Noun - masculine plural",
     "str": "Strong's 4325:  ",
-    "str2": "Water, juice, urine, semen"
+    "str2": "Water, juice, urine, semen",
+    "num": 4325
   },
   {
     "word": "gone by.",
@@ -53,6 +59,7 @@
     "translit": "(‘ā·ḇə·rū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 5674:  ",
-    "str2": "To pass over, through, or by, pass on"
+    "str2": "To pass over, through, or by, pass on",
+    "num": 5674
   }
 ]

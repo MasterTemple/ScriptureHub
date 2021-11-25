@@ -5,7 +5,8 @@
     "translit": "(wə·lām·māh)",
     "parse": "Conjunctive waw | Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "did you not",
@@ -13,7 +14,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "obey",
@@ -21,7 +23,8 @@
     "translit": "(šā·ma‘·tā)",
     "parse": "Verb - Qal - Perfect - second person masculine singular",
     "str": "Strong's 8085:  ",
-    "str2": "To hear intelligently"
+    "str2": "To hear intelligently",
+    "num": 8085
   },
   {
     "word": "the LORD?",
@@ -29,7 +32,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "Why did you rush",
@@ -37,7 +41,8 @@
     "translit": "(wat·ta·‘aṭ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - second person masculine singular",
     "str": "Strong's 5860:  ",
-    "str2": "To swoop down upon"
+    "str2": "To swoop down upon",
+    "num": 5860
   },
   {
     "word": "upon",
@@ -45,7 +50,8 @@
     "translit": "(’el-)",
     "parse": "Preposition",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "the plunder",
@@ -53,7 +59,8 @@
     "translit": "(haš·šā·lāl)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 7998:  ",
-    "str2": "A prey, spoil, plunder, booty"
+    "str2": "A prey, spoil, plunder, booty",
+    "num": 7998
   },
   {
     "word": "and do",
@@ -61,7 +68,8 @@
     "translit": "(wat·ta·‘aś)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - second person masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "evil",
@@ -69,7 +77,8 @@
     "translit": "(hā·ra‘)",
     "parse": "Article | Adjective - masculine singular",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "in the sight",
@@ -77,7 +86,8 @@
     "translit": "(bə·‘ê·nê)",
     "parse": "Preposition-b | Noun - cdc",
     "str": "Strong's 5869:  ",
-    "str2": "An eye, a fountain"
+    "str2": "An eye, a fountain",
+    "num": 5869
   },
   {
     "word": "of the LORD?”",
@@ -85,6 +95,7 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   }
 ]

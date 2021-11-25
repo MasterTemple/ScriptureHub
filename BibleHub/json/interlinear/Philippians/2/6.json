@@ -5,7 +5,8 @@
     "translit": "(Hos)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "existing",
@@ -13,7 +14,8 @@
     "translit": "(hyparchōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 5225:  ",
-    "str2": "To begin, am, exist, be in possession. From hupo and archomai; to begin under, i.e. Come into existence; expletively, to exist (verb)."
+    "str2": "To begin, am, exist, be in possession. From hupo and archomai; to begin under, i.e. Come into existence; expletively, to exist (verb).",
+    "num": 5225
   },
   {
     "word": "in",
@@ -21,7 +23,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "[the] form",
@@ -29,7 +32,8 @@
     "translit": "(morphē)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 3444:  ",
-    "str2": "Form, shape, outward appearance. Perhaps from the base of meros; shape; figuratively, nature."
+    "str2": "Form, shape, outward appearance. Perhaps from the base of meros; shape; figuratively, nature.",
+    "num": 3444
   },
   {
     "word": "of God,",
@@ -37,7 +41,8 @@
     "translit": "(Theou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "{did} not",
@@ -45,7 +50,8 @@
     "translit": "(ouch)",
     "parse": "Adverb",
     "str": "Strong's 3756:  ",
-    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not."
+    "str2": "No, not. Also ouk, and ouch a primary word; the absolute negative adverb; no or not.",
+    "num": 3756
   },
   {
     "word": "consider",
@@ -53,7 +59,8 @@
     "translit": "(hēgēsato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 2233:  ",
-    "str2": "(a) To lead, (b) To think, be of opinion, suppose, consider. "
+    "str2": "(a) To lead, (b) To think, be of opinion, suppose, consider. ",
+    "num": 2233
   },
   {
     "word": "equality",
@@ -61,7 +68,8 @@
     "translit": "(isa)",
     "parse": "Adjective - Accusative Neuter Plural",
     "str": "Strong's 2470:  ",
-    "str2": "Equal, equivalent, identical. Probably from eido; similar."
+    "str2": "Equal, equivalent, identical. Probably from eido; similar.",
+    "num": 2470
   },
   {
     "word": "with God",
@@ -69,7 +77,8 @@
     "translit": "(Theō)",
     "parse": "Noun - Dative Masculine Singular",
     "str": "Strong's 2316:  ",
-    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very."
+    "str2": "A deity, especially the supreme Divinity; figuratively, a magistrate; by Hebraism, very.",
+    "num": 2316
   },
   {
     "word": "something to be grasped,",
@@ -77,6 +86,7 @@
     "translit": "(harpagmon)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 725:  ",
-    "str2": "Spoil, an object of eager desire, a prize. From harpazo; plunder."
+    "str2": "Spoil, an object of eager desire, a prize. From harpazo; plunder.",
+    "num": 725
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(hoi)",
     "parse": "Personal / Relative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "had come",
@@ -13,7 +14,8 @@
     "translit": "(ēlthon)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 2064:  ",
-    "str2": "To come, go. "
+    "str2": "To come, go. ",
+    "num": 2064
   },
   {
     "word": "to hear",
@@ -21,7 +23,8 @@
     "translit": "(akousai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 191:  ",
-    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear."
+    "str2": "To hear, listen, comprehend by hearing; pass: is heard, reported. A primary verb; to hear.",
+    "num": 191
   },
   {
     "word": "Him",
@@ -29,7 +32,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "to be healed",
@@ -45,7 +50,8 @@
     "translit": "(iathēnai)",
     "parse": "Verb - Aorist Infinitive Passive",
     "str": "Strong's 2390:  ",
-    "str2": "To heal, generally of the physical, sometimes of spiritual, disease. Middle voice of apparently a primary verb; to cure."
+    "str2": "To heal, generally of the physical, sometimes of spiritual, disease. Middle voice of apparently a primary verb; to cure.",
+    "num": 2390
   },
   {
     "word": "of",
@@ -53,7 +59,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "their",
@@ -61,7 +68,8 @@
     "translit": "(autōn)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "diseases,",
@@ -69,7 +77,8 @@
     "translit": "(nosōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 3554:  ",
-    "str2": "A disease, malady, sickness. Of uncertain affinity; a malady."
+    "str2": "A disease, malady, sickness. Of uncertain affinity; a malady.",
+    "num": 3554
   },
   {
     "word": "and",
@@ -77,7 +86,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "those",
@@ -85,7 +95,8 @@
     "translit": "(hoi)",
     "parse": "Article - Nominative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "troubled",
@@ -93,7 +104,8 @@
     "translit": "(enochloumenoi)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Masculine Plural",
     "str": "Strong's 1776:  ",
-    "str2": "To disturb, cause tumult, trouble, annoy. From en and ochleo; to crowd in, i.e. to annoy."
+    "str2": "To disturb, cause tumult, trouble, annoy. From en and ochleo; to crowd in, i.e. to annoy.",
+    "num": 1776
   },
   {
     "word": "by",
@@ -101,7 +113,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "unclean",
@@ -109,7 +122,8 @@
     "translit": "(akathartōn)",
     "parse": "Adjective - Genitive Neuter Plural",
     "str": "Strong's 169:  ",
-    "str2": "Unclean, impure. Impure (lewd) or specially, (demonic)."
+    "str2": "Unclean, impure. Impure (lewd) or specially, (demonic).",
+    "num": 169
   },
   {
     "word": "spirits",
@@ -117,7 +131,8 @@
     "translit": "(pneumatōn)",
     "parse": "Noun - Genitive Neuter Plural",
     "str": "Strong's 4151:  ",
-    "str2": "Wind, breath, spirit. "
+    "str2": "Wind, breath, spirit. ",
+    "num": 4151
   },
   {
     "word": "were healed.",
@@ -125,6 +140,7 @@
     "translit": "(etherapeuonto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 2323:  ",
-    "str2": "From the same as therapon; to wait upon menially, i.e. to adore, or to relieve."
+    "str2": "From the same as therapon; to wait upon menially, i.e. to adore, or to relieve.",
+    "num": 2323
   }
 ]

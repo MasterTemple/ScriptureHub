@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "her father",
@@ -13,7 +14,8 @@
     "translit": "(’ā·ḇî·hā)",
     "parse": "Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 1:  ",
-    "str2": "Father"
+    "str2": "Father",
+    "num": 1
   },
   {
     "word": "absolutely refuses",
@@ -21,7 +23,8 @@
     "translit": "(mā·’ên)",
     "parse": "Verb - Piel - Infinitive absolute",
     "str": "Strong's 3985:  ",
-    "str2": "To refuse"
+    "str2": "To refuse",
+    "num": 3985
   },
   {
     "word": "to give her",
@@ -29,7 +32,8 @@
     "translit": "(lə·ṯit·tāh)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct | third person feminine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "to him,",
@@ -37,7 +41,8 @@
     "translit": "(lōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "he still must pay",
@@ -45,7 +50,8 @@
     "translit": "(yiš·qōl)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 8254:  ",
-    "str2": "To suspend, poise"
+    "str2": "To suspend, poise",
+    "num": 8254
   },
   {
     "word": "an amount comparable",
@@ -53,7 +59,8 @@
     "translit": "(ke·sep̄)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3701:  ",
-    "str2": "Silver, money"
+    "str2": "Silver, money",
+    "num": 3701
   },
   {
     "word": "to the bridal price",
@@ -61,7 +68,8 @@
     "translit": "(kə·mō·har)",
     "parse": "Preposition-k | Noun - masculine singular construct",
     "str": "Strong's 4119:  ",
-    "str2": "Purchase price (of a wife)"
+    "str2": "Purchase price (of a wife)",
+    "num": 4119
   },
   {
     "word": "of a virgin.",
@@ -69,6 +77,7 @@
     "translit": "(hab·bə·ṯū·lōṯ)",
     "parse": "Article | Noun - feminine plural",
     "str": "Strong's 1330:  ",
-    "str2": "A virgin, sometimes, a bride"
+    "str2": "A virgin, sometimes, a bride",
+    "num": 1330
   }
 ]

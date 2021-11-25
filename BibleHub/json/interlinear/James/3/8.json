@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "no",
@@ -13,7 +14,8 @@
     "translit": "(oudeis)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 3762:  ",
-    "str2": "No one, none, nothing. "
+    "str2": "No one, none, nothing. ",
+    "num": 3762
   },
   {
     "word": "man",
@@ -21,7 +23,8 @@
     "translit": "(anthrōpōn)",
     "parse": "Noun - Genitive Masculine Plural",
     "str": "Strong's 444:  ",
-    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being."
+    "str2": "A man, one of the human race. From aner and ops; man-faced, i.e. A human being.",
+    "num": 444
   },
   {
     "word": "can",
@@ -29,7 +32,8 @@
     "translit": "(dynatai)",
     "parse": "Verb - Present Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 1410:  ",
-    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible."
+    "str2": "(a) I am powerful, have (the) power, (b) I am able, I can. Of uncertain affinity; to be able or possible.",
+    "num": 1410
   },
   {
     "word": "tame",
@@ -37,7 +41,8 @@
     "translit": "(damasai)",
     "parse": "Verb - Aorist Infinitive Active",
     "str": "Strong's 1150:  ",
-    "str2": "To tame, subdue, involving obedience and restraint. A variation of an obsolete primary of the same meaning; to tame."
+    "str2": "To tame, subdue, involving obedience and restraint. A variation of an obsolete primary of the same meaning; to tame.",
+    "num": 1150
   },
   {
     "word": "the",
@@ -45,7 +50,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "tongue.",
@@ -53,7 +59,8 @@
     "translit": "(glōssan)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 1100:  ",
-    "str2": "The tongue; by implication, a language."
+    "str2": "The tongue; by implication, a language.",
+    "num": 1100
   },
   {
     "word": "[It is] a restless",
@@ -61,7 +68,8 @@
     "translit": "(akatastaton)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 182:  ",
-    "str2": "Unsettled, unstable (though these are hardly strong enough equivalents), almost anarchic. Inconstant."
+    "str2": "Unsettled, unstable (though these are hardly strong enough equivalents), almost anarchic. Inconstant.",
+    "num": 182
   },
   {
     "word": "evil,",
@@ -69,7 +77,8 @@
     "translit": "(kakon)",
     "parse": "Adjective - Nominative Neuter Singular",
     "str": "Strong's 2556:  ",
-    "str2": "Bad, evil, in the widest sense. Apparently a primary word; worthless, i.e. depraved, or injurious."
+    "str2": "Bad, evil, in the widest sense. Apparently a primary word; worthless, i.e. depraved, or injurious.",
+    "num": 2556
   },
   {
     "word": "full",
@@ -77,7 +86,8 @@
     "translit": "(mestē)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 3324:  ",
-    "str2": "Full, filled with. Of uncertain derivation."
+    "str2": "Full, filled with. Of uncertain derivation.",
+    "num": 3324
   },
   {
     "word": "of deadly",
@@ -85,7 +95,8 @@
     "translit": "(thanatēphorou)",
     "parse": "Adjective - Genitive Masculine Singular",
     "str": "Strong's 2287:  ",
-    "str2": "Death-bringing, deadly. From thanatos and phero; death-bearing, i.e. Fatal."
+    "str2": "Death-bringing, deadly. From thanatos and phero; death-bearing, i.e. Fatal.",
+    "num": 2287
   },
   {
     "word": "poison.",
@@ -93,6 +104,7 @@
     "translit": "(iou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2447:  ",
-    "str2": "Poison, rust; an arrow. Perhaps from eimi or hiemi; rust; also venom."
+    "str2": "Poison, rust; an arrow. Perhaps from eimi or hiemi; rust; also venom.",
+    "num": 2447
   }
 ]

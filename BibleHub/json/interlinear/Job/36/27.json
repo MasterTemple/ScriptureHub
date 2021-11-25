@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "He draws up",
@@ -13,7 +14,8 @@
     "translit": "(yə·ḡā·ra‘)",
     "parse": "Verb - Piel - Imperfect - third person masculine singular",
     "str": "Strong's 1639:  ",
-    "str2": "To scrape off, to shave, remove, lessen, withhold"
+    "str2": "To scrape off, to shave, remove, lessen, withhold",
+    "num": 1639
   },
   {
     "word": "drops",
@@ -21,7 +23,8 @@
     "translit": "(niṭ·p̄ê-)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 5198:  ",
-    "str2": "A drop, an aromatic gum"
+    "str2": "A drop, an aromatic gum",
+    "num": 5198
   },
   {
     "word": "of water",
@@ -29,7 +32,8 @@
     "translit": "(mā·yim)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 4325:  ",
-    "str2": "Water, juice, urine, semen"
+    "str2": "Water, juice, urine, semen",
+    "num": 4325
   },
   {
     "word": "which distill",
@@ -37,7 +41,8 @@
     "translit": "(yā·zōq·qū)",
     "parse": "Verb - Qal - Imperfect - third person masculine plural",
     "str": "Strong's 2212:  ",
-    "str2": "To strain, extract, clarify"
+    "str2": "To strain, extract, clarify",
+    "num": 2212
   },
   {
     "word": "the rain",
@@ -45,7 +50,8 @@
     "translit": "(mā·ṭār)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4306:  ",
-    "str2": "Rain"
+    "str2": "Rain",
+    "num": 4306
   },
   {
     "word": "from the mist,",
@@ -53,6 +59,7 @@
     "translit": "(lə·’ê·ḏōw)",
     "parse": "Preposition-l | Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 108:  ",
-    "str2": "A mist"
+    "str2": "A mist",
+    "num": 108
   }
 ]

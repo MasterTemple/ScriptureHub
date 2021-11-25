@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "now",
@@ -13,7 +14,8 @@
     "translit": "(‘at·tāh)",
     "parse": "Adverb",
     "str": "Strong's 6258:  ",
-    "str2": "At this time"
+    "str2": "At this time",
+    "num": 6258
   },
   {
     "word": "it has come",
@@ -21,7 +23,8 @@
     "translit": "(tā·ḇō·w)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "upon you,",
@@ -29,7 +32,8 @@
     "translit": "(’ê·le·ḵā)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's 413:  ",
-    "str2": "Near, with, among, to"
+    "str2": "Near, with, among, to",
+    "num": 413
   },
   {
     "word": "and you are weary.",
@@ -37,7 +41,8 @@
     "translit": "(wat·tê·le)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - second person masculine singular",
     "str": "Strong's 3811:  ",
-    "str2": "To tire, to be, disgusted"
+    "str2": "To tire, to be, disgusted",
+    "num": 3811
   },
   {
     "word": "It strikes you,",
@@ -45,7 +50,8 @@
     "translit": "(tig·ga‘)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 5060:  ",
-    "str2": "To touch, lay the hand upon, to reach, violently, to strike"
+    "str2": "To touch, lay the hand upon, to reach, violently, to strike",
+    "num": 5060
   },
   {
     "word": "and you are dismayed.",
@@ -53,6 +59,7 @@
     "translit": "(wat·tib·bā·hêl)",
     "parse": "Conjunctive waw | Verb - Nifal - Consecutive imperfect - second person masculine singular",
     "str": "Strong's 926:  ",
-    "str2": "To tremble inwardly, be, alarmed, agitated, to hasten anxiously"
+    "str2": "To tremble inwardly, be, alarmed, agitated, to hasten anxiously",
+    "num": 926
   }
 ]

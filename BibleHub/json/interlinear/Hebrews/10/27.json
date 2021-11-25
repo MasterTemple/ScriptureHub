@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "a",
@@ -13,7 +14,8 @@
     "translit": "(tis)",
     "parse": "Interrogative / Indefinite Pronoun - Nominative Feminine Singular",
     "str": "Strong's 5100:  ",
-    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object."
+    "str2": "Any one, some one, a certain one or thing. An enclitic indefinite pronoun; some or any person or object.",
+    "num": 5100
   },
   {
     "word": "fearful",
@@ -21,7 +23,8 @@
     "translit": "(phobera)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 5398:  ",
-    "str2": "Fearful, dreadful, terrible. From phobos; frightful, i.e. formidable."
+    "str2": "Fearful, dreadful, terrible. From phobos; frightful, i.e. formidable.",
+    "num": 5398
   },
   {
     "word": "expectation",
@@ -29,7 +32,8 @@
     "translit": "(ekdochē)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 1561:  ",
-    "str2": "A waiting for, expectation. From ekdechomai; expectation."
+    "str2": "A waiting for, expectation. From ekdechomai; expectation.",
+    "num": 1561
   },
   {
     "word": "of judgment",
@@ -37,7 +41,8 @@
     "translit": "(kriseōs)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2920:  ",
-    "str2": "Decision; by extension, a tribunal; by implication, justice."
+    "str2": "Decision; by extension, a tribunal; by implication, justice.",
+    "num": 2920
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "raging",
@@ -53,7 +59,8 @@
     "translit": "(zēlos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2205:  ",
-    "str2": "From zeo; properly, heat, i.e. 'zeal' (figuratively, of God), or an enemy, malice)."
+    "str2": "From zeo; properly, heat, i.e. 'zeal' (figuratively, of God), or an enemy, malice).",
+    "num": 2205
   },
   {
     "word": "fire",
@@ -61,7 +68,8 @@
     "translit": "(pyros)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 4442:  ",
-    "str2": "Fire; the heat of the sun, lightning; fig: strife, trials; the eternal fire. A primary word; 'fire'."
+    "str2": "Fire; the heat of the sun, lightning; fig: strife, trials; the eternal fire. A primary word; 'fire'.",
+    "num": 4442
   },
   {
     "word": "that will",
@@ -69,7 +77,8 @@
     "translit": "(mellontos)",
     "parse": "Verb - Present Participle Active - Genitive Neuter Singular",
     "str": "Strong's 3195:  ",
-    "str2": "A strengthened form of melo; to intend, i.e. Be about to be, do, or suffer something."
+    "str2": "A strengthened form of melo; to intend, i.e. Be about to be, do, or suffer something.",
+    "num": 3195
   },
   {
     "word": "consume",
@@ -77,7 +86,8 @@
     "translit": "(esthiein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 2068:  ",
-    "str2": "Strengthened for a primary edo; used only in certain tenses, the rest being supplied by phago; to eat."
+    "str2": "Strengthened for a primary edo; used only in certain tenses, the rest being supplied by phago; to eat.",
+    "num": 2068
   },
   {
     "word": "[all]",
@@ -85,7 +95,8 @@
     "translit": "(tous)",
     "parse": "Article - Accusative Masculine Plural",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "adversaries.",
@@ -93,6 +104,7 @@
     "translit": "(hypenantious)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 5227:  ",
-    "str2": "Opposite to, adverse; subst: an adversary. From hupo and enantios; under contrary to, i.e. Opposed or an opponent."
+    "str2": "Opposite to, adverse; subst: an adversary. From hupo and enantios; under contrary to, i.e. Opposed or an opponent.",
+    "num": 5227
   }
 ]

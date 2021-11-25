@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "among",
@@ -13,7 +14,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "you,",
@@ -21,7 +23,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "as",
@@ -29,7 +32,8 @@
     "translit": "(kathōs)",
     "parse": "Adverb",
     "str": "Strong's 2531:  ",
-    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that."
+    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that.",
+    "num": 2531
   },
   {
     "word": "is proper",
@@ -37,7 +41,8 @@
     "translit": "(prepei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 4241:  ",
-    "str2": "It becomes, is fitting to, is right. Apparently a primary verb; to tower up, i.e. to be suitable or proper."
+    "str2": "It becomes, is fitting to, is right. Apparently a primary verb; to tower up, i.e. to be suitable or proper.",
+    "num": 4241
   },
   {
     "word": "among the saints,",
@@ -45,7 +50,8 @@
     "translit": "(hagiois)",
     "parse": "Adjective - Dative Masculine Plural",
     "str": "Strong's 40:  ",
-    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred."
+    "str2": "Set apart by (or for) God, holy, sacred. From hagos; sacred.",
+    "num": 40
   },
   {
     "word": "there must not be even a hint",
@@ -53,7 +59,8 @@
     "translit": "(onomazesthō)",
     "parse": "Verb - Present Imperative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 3687:  ",
-    "str2": "From onoma; to name, i.e. Assign an appellation; by extension, to utter, mention, profess."
+    "str2": "From onoma; to name, i.e. Assign an appellation; by extension, to utter, mention, profess.",
+    "num": 3687
   },
   {
     "word": "of sexual immorality,",
@@ -61,7 +68,8 @@
     "translit": "(Porneia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4202:  ",
-    "str2": "Fornication, whoredom; met: idolatry. From porneuo; harlotry; figuratively, idolatry."
+    "str2": "Fornication, whoredom; met: idolatry. From porneuo; harlotry; figuratively, idolatry.",
+    "num": 4202
   },
   {
     "word": "[or]",
@@ -69,7 +77,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "of any kind",
@@ -77,7 +86,8 @@
     "translit": "(pasa)",
     "parse": "Adjective - Nominative Feminine Singular",
     "str": "Strong's 3956:  ",
-    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole."
+    "str2": "All, the whole, every kind of. Including all the forms of declension; apparently a primary word; all, any, every, the whole.",
+    "num": 3956
   },
   {
     "word": "of impurity,",
@@ -85,7 +95,8 @@
     "translit": "(akatharsia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 167:  ",
-    "str2": "Uncleanness, impurity. From akathartos; impurity, physically or morally."
+    "str2": "Uncleanness, impurity. From akathartos; impurity, physically or morally.",
+    "num": 167
   },
   {
     "word": "or",
@@ -93,7 +104,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "of greed.",
@@ -101,6 +113,7 @@
     "translit": "(pleonexia)",
     "parse": "Noun - Nominative Feminine Singular",
     "str": "Strong's 4124:  ",
-    "str2": "Covetousness, avarice, aggression, desire for advantage. From pleonektes; avarice, i.e. fraudulency, extortion."
+    "str2": "Covetousness, avarice, aggression, desire for advantage. From pleonektes; avarice, i.e. fraudulency, extortion.",
+    "num": 4124
   }
 ]

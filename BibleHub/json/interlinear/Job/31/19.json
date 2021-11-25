@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I have seen",
@@ -13,7 +14,8 @@
     "translit": "(’er·’eh)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "one perish",
@@ -21,7 +23,8 @@
     "translit": "(’ō·w·ḇêḏ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 6:  ",
-    "str2": "To wander away, lose oneself, to perish"
+    "str2": "To wander away, lose oneself, to perish",
+    "num": 6
   },
   {
     "word": "for lack",
@@ -29,7 +32,8 @@
     "translit": "(mib·bə·lî)",
     "parse": "Preposition-m | Adverb",
     "str": "Strong's 1097:  ",
-    "str2": "Failure, nothing, destruction, without, not yet, because not, as long as"
+    "str2": "Failure, nothing, destruction, without, not yet, because not, as long as",
+    "num": 1097
   },
   {
     "word": "of clothing,",
@@ -37,7 +41,8 @@
     "translit": "(lə·ḇūš)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3830:  ",
-    "str2": "A garment, clothing, raiment"
+    "str2": "A garment, clothing, raiment",
+    "num": 3830
   },
   {
     "word": "or a needy man",
@@ -45,7 +50,8 @@
     "translit": "(lā·’eḇ·yō·wn)",
     "parse": "Preposition-l, Article | Adjective - masculine singular",
     "str": "Strong's 34:  ",
-    "str2": "In want, needy, poor"
+    "str2": "In want, needy, poor",
+    "num": 34
   },
   {
     "word": "without",
@@ -53,7 +59,8 @@
     "translit": "(wə·’ên)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "a cloak,",
@@ -61,6 +68,7 @@
     "translit": "(kə·sūṯ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 3682:  ",
-    "str2": "A cover, a veiling"
+    "str2": "A cover, a veiling",
+    "num": 3682
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the men",
@@ -13,7 +14,8 @@
     "translit": "(’an·šê-)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "who were in the land",
@@ -21,7 +23,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "before you",
@@ -29,7 +32,8 @@
     "translit": "(lip̄·nê·ḵem)",
     "parse": "Preposition-l | Noun - masculine plural construct | second person masculine plural",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "committed",
@@ -37,7 +41,8 @@
     "translit": "(‘ā·śū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "all",
@@ -45,7 +50,8 @@
     "translit": "(kāl-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "these",
@@ -53,7 +59,8 @@
     "translit": "(hā·’êl)",
     "parse": "Article | Pronoun - common plural",
     "str": "Strong's 411:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 411
   },
   {
     "word": "abominations,",
@@ -61,7 +68,8 @@
     "translit": "(hat·tō·w·‘ê·ḇōṯ)",
     "parse": "Article | Noun - feminine plural",
     "str": "Strong's 8441:  ",
-    "str2": "Something disgusting, an abhorrence, idolatry, an idol"
+    "str2": "Something disgusting, an abhorrence, idolatry, an idol",
+    "num": 8441
   },
   {
     "word": "and the land",
@@ -69,7 +77,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "has become defiled.",
@@ -77,6 +86,7 @@
     "translit": "(wat·tiṭ·mā)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person feminine singular",
     "str": "Strong's 2930:  ",
-    "str2": "To be or become unclean"
+    "str2": "To be or become unclean",
+    "num": 2930
   }
 ]

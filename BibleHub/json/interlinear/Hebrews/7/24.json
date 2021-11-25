@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "because",
@@ -13,7 +14,8 @@
     "translit": "(dia)",
     "parse": "Preposition",
     "str": "Strong's 1223:  ",
-    "str2": "A primary preposition denoting the channel of an act; through."
+    "str2": "A primary preposition denoting the channel of an act; through.",
+    "num": 1223
   },
   {
     "word": "[Jesus]",
@@ -21,7 +23,8 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "lives",
@@ -29,7 +32,8 @@
     "translit": "(menein)",
     "parse": "Verb - Present Infinitive Active",
     "str": "Strong's 3306:  ",
-    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay."
+    "str2": "To remain, abide, stay, wait; with acc: I wait for, await. A primary verb; to stay.",
+    "num": 3306
   },
   {
     "word": "forever,",
@@ -37,7 +41,8 @@
     "translit": "(aiōna)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 165:  ",
-    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period."
+    "str2": "From the same as aei; properly, an age; by extension, perpetuity; by implication, the world; specially a Messianic period.",
+    "num": 165
   },
   {
     "word": "He has",
@@ -45,7 +50,8 @@
     "translit": "(echei)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 2192:  ",
-    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold."
+    "str2": "To have, hold, possess. Including an alternate form scheo skheh'-o; a primary verb; to hold.",
+    "num": 2192
   },
   {
     "word": "a permanent",
@@ -53,7 +59,8 @@
     "translit": "(aparabaton)",
     "parse": "Adjective - Accusative Feminine Singular",
     "str": "Strong's 531:  ",
-    "str2": "Inviolable, unchangeable. Not passing away, i.e. Untransferable."
+    "str2": "Inviolable, unchangeable. Not passing away, i.e. Untransferable.",
+    "num": 531
   },
   {
     "word": "priesthood.",
@@ -61,6 +68,7 @@
     "translit": "(hierōsynēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2420:  ",
-    "str2": "The abstract notion of the priestly office. From hieros; sacredness, i.e. the priestly office."
+    "str2": "The abstract notion of the priestly office. From hieros; sacredness, i.e. the priestly office.",
+    "num": 2420
   }
 ]

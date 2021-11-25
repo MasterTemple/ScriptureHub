@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "many",
@@ -13,7 +14,8 @@
     "translit": "(polloi)",
     "parse": "Adjective - Nominative Masculine Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   },
   {
     "word": "false prophets",
@@ -21,7 +23,8 @@
     "translit": "(pseudoprophētai)",
     "parse": "Noun - Nominative Masculine Plural",
     "str": "Strong's 5578:  ",
-    "str2": "From pseudes and prophetes; a spurious prophet, i.e. Pretended foreteller or religious impostor."
+    "str2": "From pseudes and prophetes; a spurious prophet, i.e. Pretended foreteller or religious impostor.",
+    "num": 5578
   },
   {
     "word": "will arise",
@@ -29,7 +32,8 @@
     "translit": "(egerthēsontai)",
     "parse": "Verb - Future Indicative Passive - 3rd Person Plural",
     "str": "Strong's 1453:  ",
-    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse."
+    "str2": "(a) I wake, arouse, (b) I raise up. Probably akin to the base of agora; to waken, i.e. Rouse.",
+    "num": 1453
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "mislead",
@@ -45,7 +50,8 @@
     "translit": "(planēsousin)",
     "parse": "Verb - Future Indicative Active - 3rd Person Plural",
     "str": "Strong's 4105:  ",
-    "str2": "To lead astray, deceive, cause to wander. From plane; to roam."
+    "str2": "To lead astray, deceive, cause to wander. From plane; to roam.",
+    "num": 4105
   },
   {
     "word": "many.",
@@ -53,6 +59,7 @@
     "translit": "(pollous)",
     "parse": "Adjective - Accusative Masculine Plural",
     "str": "Strong's 4183:  ",
-    "str2": "Much, many; often. "
+    "str2": "Much, many; often. ",
+    "num": 4183
   }
 ]

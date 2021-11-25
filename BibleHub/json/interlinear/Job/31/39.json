@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "I have devoured",
@@ -13,7 +14,8 @@
     "translit": "(’ā·ḵal·tî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   },
   {
     "word": "its produce",
@@ -21,7 +23,8 @@
     "translit": "(kō·ḥāh)",
     "parse": "Noun - masculine singular construct | third person feminine singular",
     "str": "Strong's 3581:  ",
-    "str2": "A small reptile (of unknown species)"
+    "str2": "A small reptile (of unknown species)",
+    "num": 3581
   },
   {
     "word": "without",
@@ -29,7 +32,8 @@
     "translit": "(ḇə·lî-)",
     "parse": "Adverb",
     "str": "Strong's 1097:  ",
-    "str2": "Failure, nothing, destruction, without, not yet, because not, as long as"
+    "str2": "Failure, nothing, destruction, without, not yet, because not, as long as",
+    "num": 1097
   },
   {
     "word": "payment",
@@ -37,7 +41,8 @@
     "translit": "(ḵā·sep̄)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3701:  ",
-    "str2": "Silver, money"
+    "str2": "Silver, money",
+    "num": 3701
   },
   {
     "word": "or broken the spirit",
@@ -45,7 +50,8 @@
     "translit": "(wə·ne·p̄eš)",
     "parse": "Conjunctive waw | Noun - feminine singular construct",
     "str": "Strong's 5315:  ",
-    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion "
+    "str2": "A soul, living being, life, self, person, desire, passion, appetite, emotion ",
+    "num": 5315
   },
   {
     "word": "of its tenants,",
@@ -53,6 +59,7 @@
     "translit": "(bə·‘ā·le·hā)",
     "parse": "Noun - masculine plural construct | third person feminine singular",
     "str": "Strong's 1167:  ",
-    "str2": "A master, a husband, owner"
+    "str2": "A master, a husband, owner",
+    "num": 1167
   }
 ]

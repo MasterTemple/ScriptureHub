@@ -5,7 +5,8 @@
     "translit": "(ē)",
     "parse": "Conjunction",
     "str": "Strong's 2228:  ",
-    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than."
+    "str2": "Or, than. A primary particle of distinction between two connected terms; disjunctive, or; comparative, than.",
+    "num": 2228
   },
   {
     "word": "[if] he asks for",
@@ -13,7 +14,8 @@
     "translit": "(aitēsei)",
     "parse": "Verb - Future Indicative Active - 3rd Person Singular",
     "str": "Strong's 154:  ",
-    "str2": "To ask, request, petition, demand. Of uncertain derivation; to ask."
+    "str2": "To ask, request, petition, demand. Of uncertain derivation; to ask.",
+    "num": 154
   },
   {
     "word": "an egg,",
@@ -21,7 +23,8 @@
     "translit": "(ōon)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 5609:  ",
-    "str2": "An egg. Apparently a primary word; an 'egg'."
+    "str2": "An egg. Apparently a primary word; an 'egg'.",
+    "num": 5609
   },
   {
     "word": "will give",
@@ -29,7 +32,8 @@
     "translit": "(epidōsei)",
     "parse": "Verb - Future Indicative Active - 3rd Person Singular",
     "str": "Strong's 1929:  ",
-    "str2": "(a) trans: I hand in, give up, (b) intrans: I give way (to the wind). From epi and didomi; to give over."
+    "str2": "(a) trans: I hand in, give up, (b) intrans: I give way (to the wind). From epi and didomi; to give over.",
+    "num": 1929
   },
   {
     "word": "him",
@@ -37,7 +41,8 @@
     "translit": "(autō)",
     "parse": "Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "a scorpion?",
@@ -45,6 +50,7 @@
     "translit": "(skorpion)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 4651:  ",
-    "str2": "A scorpion. Probably from an obsolete skerpo; a 'scorpion'."
+    "str2": "A scorpion. Probably from an obsolete skerpo; a 'scorpion'.",
+    "num": 4651
   }
 ]

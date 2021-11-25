@@ -5,7 +5,8 @@
     "translit": "(ka·’ă·šer)",
     "parse": "Preposition-k | Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "the old",
@@ -13,7 +14,8 @@
     "translit": "(haq·qaḏ·mō·nî)",
     "parse": "Article | Adjective - masculine singular",
     "str": "Strong's 6931:  ",
-    "str2": "Anterior, oriental"
+    "str2": "Anterior, oriental",
+    "num": 6931
   },
   {
     "word": "proverb",
@@ -21,7 +23,8 @@
     "translit": "(mə·šal)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 4912:  ",
-    "str2": "A pithy maxim, a simile"
+    "str2": "A pithy maxim, a simile",
+    "num": 4912
   },
   {
     "word": "says,",
@@ -29,7 +32,8 @@
     "translit": "(yō·mar)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘Wickedness",
@@ -37,7 +41,8 @@
     "translit": "(re·ša‘)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7562:  ",
-    "str2": "Wickedness"
+    "str2": "Wickedness",
+    "num": 7562
   },
   {
     "word": "proceeds",
@@ -45,7 +50,8 @@
     "translit": "(yê·ṣê)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 3318:  ",
-    "str2": "To go, bring, out, direct and proxim"
+    "str2": "To go, bring, out, direct and proxim",
+    "num": 3318
   },
   {
     "word": "from the wicked.’",
@@ -53,7 +59,8 @@
     "translit": "(mê·rə·šā·‘îm)",
     "parse": "Preposition-m | Adjective - masculine plural",
     "str": "Strong's 7561:  ",
-    "str2": "To be, wrong, to disturb, violate"
+    "str2": "To be, wrong, to disturb, violate",
+    "num": 7561
   },
   {
     "word": "But my hand",
@@ -61,7 +68,8 @@
     "translit": "(wə·yā·ḏî)",
     "parse": "Conjunctive waw | Noun - feminine singular construct | first person common singular",
     "str": "Strong's 3027:  ",
-    "str2": "A hand"
+    "str2": "A hand",
+    "num": 3027
   },
   {
     "word": "will never",
@@ -69,7 +77,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "be",
@@ -77,7 +86,8 @@
     "translit": "(ṯih·yeh-)",
     "parse": "Verb - Qal - Imperfect - third person feminine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "against you.",
@@ -85,6 +95,7 @@
     "translit": "(bāḵ)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

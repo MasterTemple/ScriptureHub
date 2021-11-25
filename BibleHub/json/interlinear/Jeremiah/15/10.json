@@ -5,7 +5,8 @@
     "translit": "(’ō·w-)",
     "parse": "Interjection",
     "str": "Strong's 188:  ",
-    "str2": "Lamentation, Oh!"
+    "str2": "Lamentation, Oh!",
+    "num": 188
   },
   {
     "word": "my mother,",
@@ -13,7 +14,8 @@
     "translit": "(’im·mî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 517:  ",
-    "str2": "A mother, )"
+    "str2": "A mother, )",
+    "num": 517
   },
   {
     "word": "that",
@@ -21,7 +23,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "you have borne me,",
@@ -29,7 +32,8 @@
     "translit": "(yə·liḏ·ti·nî)",
     "parse": "Verb - Qal - Perfect - second person feminine singular | first person common singular",
     "str": "Strong's 3205:  ",
-    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage"
+    "str2": "To bear young, to beget, medically, to act as midwife, to show lineage",
+    "num": 3205
   },
   {
     "word": "a man",
@@ -37,7 +41,8 @@
     "translit": "(’îš)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "of strife",
@@ -45,7 +50,8 @@
     "translit": "(rîḇ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 7379:  ",
-    "str2": "Strife, dispute"
+    "str2": "Strife, dispute",
+    "num": 7379
   },
   {
     "word": "and conflict",
@@ -53,7 +59,8 @@
     "translit": "(mā·ḏō·wn)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 4066:  ",
-    "str2": "A contest, quarrel"
+    "str2": "A contest, quarrel",
+    "num": 4066
   },
   {
     "word": "in all",
@@ -61,7 +68,8 @@
     "translit": "(lə·ḵāl)",
     "parse": "Preposition-l | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the land.",
@@ -69,7 +77,8 @@
     "translit": "(hā·’ā·reṣ)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "I have neither",
@@ -77,7 +86,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "lent",
@@ -85,7 +95,8 @@
     "translit": "(nā·šî·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 5383:  ",
-    "str2": "To lend, borrow on security, interest"
+    "str2": "To lend, borrow on security, interest",
+    "num": 5383
   },
   {
     "word": "nor",
@@ -93,7 +104,8 @@
     "translit": "(wə·lō-)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "borrowed,",
@@ -101,7 +113,8 @@
     "translit": "(nā·šū-)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 5383:  ",
-    "str2": "To lend, borrow on security, interest"
+    "str2": "To lend, borrow on security, interest",
+    "num": 5383
   },
   {
     "word": "yet everyone",
@@ -109,7 +122,8 @@
     "translit": "(kul·lōh)",
     "parse": "Noun - masculine singular construct | third person masculine singular",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "curses me.",
@@ -117,6 +131,7 @@
     "translit": "(mə·qal·la·w·nî)",
     "parse": "Verb - Piel - Participle - masculine plural construct | first person common singular",
     "str": "Strong's 7043:  ",
-    "str2": "To be slight, swift or trifling"
+    "str2": "To be slight, swift or trifling",
+    "num": 7043
   }
 ]

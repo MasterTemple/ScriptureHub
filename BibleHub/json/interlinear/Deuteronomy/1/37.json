@@ -5,7 +5,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "was also angry",
@@ -13,7 +14,8 @@
     "translit": "(hiṯ·’an·nap̄)",
     "parse": "Verb - Hitpael - Perfect - third person masculine singular",
     "str": "Strong's 599:  ",
-    "str2": "To breathe hard, be enraged"
+    "str2": "To breathe hard, be enraged",
+    "num": 599
   },
   {
     "word": "with me",
@@ -21,7 +23,8 @@
     "translit": "(bî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "on your account,",
@@ -29,7 +32,8 @@
     "translit": "(biḡ·lal·ḵem)",
     "parse": "Preposition-b | Noun - masculine singular construct | second person masculine plural",
     "str": "Strong's 1558:  ",
-    "str2": "A circumstance, on account of"
+    "str2": "A circumstance, on account of",
+    "num": 1558
   },
   {
     "word": "and He said,",
@@ -37,7 +41,8 @@
     "translit": "(lê·mōr)",
     "parse": "Preposition-l | Verb - Qal - Infinitive construct",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“Not",
@@ -45,7 +50,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "even",
@@ -53,7 +59,8 @@
     "translit": "(gam-)",
     "parse": "Conjunction",
     "str": "Strong's 1571:  ",
-    "str2": "Assemblage, also, even, yea, though, both, and"
+    "str2": "Assemblage, also, even, yea, though, both, and",
+    "num": 1571
   },
   {
     "word": "you",
@@ -61,7 +68,8 @@
     "translit": "(’at·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "shall enter",
@@ -69,7 +77,8 @@
     "translit": "(ṯā·ḇō)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "[the land].",
@@ -77,6 +86,7 @@
     "translit": "(šām)",
     "parse": "Adverb",
     "str": "Strong's 8033:  ",
-    "str2": "There, then, thither"
+    "str2": "There, then, thither",
+    "num": 8033
   }
 ]

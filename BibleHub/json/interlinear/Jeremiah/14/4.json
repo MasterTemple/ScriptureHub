@@ -5,7 +5,8 @@
     "translit": "(hā·’ă·ḏā·māh)",
     "parse": "Article | Noun - feminine singular",
     "str": "Strong's 127:  ",
-    "str2": "Ground, land"
+    "str2": "Ground, land",
+    "num": 127
   },
   {
     "word": "is cracked",
@@ -13,7 +14,8 @@
     "translit": "(ḥat·tāh)",
     "parse": "Verb - Qal - Perfect - third person feminine singular",
     "str": "Strong's 2865:  ",
-    "str2": "To prostrate, to break down, either, by violence, by confusion and fear"
+    "str2": "To prostrate, to break down, either, by violence, by confusion and fear",
+    "num": 2865
   },
   {
     "word": "because",
@@ -21,7 +23,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "no",
@@ -29,7 +32,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "rain",
@@ -37,7 +41,8 @@
     "translit": "(ḡe·šem)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 1653:  ",
-    "str2": "Rain, shower"
+    "str2": "Rain, shower",
+    "num": 1653
   },
   {
     "word": "has fallen on the land.",
@@ -45,7 +50,8 @@
     "translit": "(bā·’ā·reṣ)",
     "parse": "Preposition-b, Article | Noun - feminine singular",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "The farmers",
@@ -53,7 +59,8 @@
     "translit": "(’ik·kā·rîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 406:  ",
-    "str2": "A plowman, husbandman"
+    "str2": "A plowman, husbandman",
+    "num": 406
   },
   {
     "word": "are ashamed;",
@@ -61,7 +68,8 @@
     "translit": "(bō·šū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 954:  ",
-    "str2": "To pale, to be ashamed, to be disappointed, delayed"
+    "str2": "To pale, to be ashamed, to be disappointed, delayed",
+    "num": 954
   },
   {
     "word": "they cover",
@@ -69,7 +77,8 @@
     "translit": "(ḥā·p̄ū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 2645:  ",
-    "str2": "To cover, to veil, to encase, protect"
+    "str2": "To cover, to veil, to encase, protect",
+    "num": 2645
   },
   {
     "word": "their heads.",
@@ -77,6 +86,7 @@
     "translit": "(rō·šām)",
     "parse": "Noun - masculine singular construct | third person masculine plural",
     "str": "Strong's 7218:  ",
-    "str2": "The head"
+    "str2": "The head",
+    "num": 7218
   }
 ]

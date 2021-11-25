@@ -5,7 +5,8 @@
     "translit": "(Tima)",
     "parse": "Verb - Present Imperative Active - 2nd Person Singular",
     "str": "Strong's 5091:  ",
-    "str2": "From timios; to prize, i.e. Fix a valuation upon; by implication, to revere."
+    "str2": "From timios; to prize, i.e. Fix a valuation upon; by implication, to revere.",
+    "num": 5091
   },
   {
     "word": "[your]",
@@ -13,7 +14,8 @@
     "translit": "(ton)",
     "parse": "Article - Accusative Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "father",
@@ -21,7 +23,8 @@
     "translit": "(patera)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 3962:  ",
-    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'."
+    "str2": "Father, (Heavenly) Father, ancestor, elder, senior. Apparently a primary word; a 'father'.",
+    "num": 3962
   },
   {
     "word": "and",
@@ -29,7 +32,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "mother,",
@@ -37,7 +41,8 @@
     "translit": "(mētera)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3384:  ",
-    "str2": "A mother. Apparently a primary word; a 'mother'."
+    "str2": "A mother. Apparently a primary word; a 'mother'.",
+    "num": 3384
   },
   {
     "word": "and",
@@ -45,7 +50,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "love",
@@ -53,7 +59,8 @@
     "translit": "(Agapēseis)",
     "parse": "Verb - Future Indicative Active - 2nd Person Singular",
     "str": "Strong's 25:  ",
-    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love."
+    "str2": "To love, wish well to, take pleasure in, long for; denotes the love of reason, esteem. Perhaps from agan; to love.",
+    "num": 25
   },
   {
     "word": "your",
@@ -61,7 +68,8 @@
     "translit": "(sou)",
     "parse": "Personal / Possessive Pronoun - Genitive 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "neighbor",
@@ -69,7 +77,8 @@
     "translit": "(plēsion)",
     "parse": "Adverb",
     "str": "Strong's 4139:  ",
-    "str2": "Near, nearby, a neighbor. Neuter of a derivative of pelas; close by; as noun, a neighbor, i.e. Fellow."
+    "str2": "Near, nearby, a neighbor. Neuter of a derivative of pelas; close by; as noun, a neighbor, i.e. Fellow.",
+    "num": 4139
   },
   {
     "word": "as",
@@ -77,7 +86,8 @@
     "translit": "(hōs)",
     "parse": "Adverb",
     "str": "Strong's 5613:  ",
-    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner."
+    "str2": "Probably adverb of comparative from hos; which how, i.e. In that manner.",
+    "num": 5613
   },
   {
     "word": "yourself.’”",
@@ -85,6 +95,7 @@
     "translit": "(seauton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 2nd Person Singular",
     "str": "Strong's 4572:  ",
-    "str2": "Of yourself. "
+    "str2": "Of yourself. ",
+    "num": 4572
   }
 ]

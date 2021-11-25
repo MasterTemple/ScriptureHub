@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "the men",
@@ -13,7 +14,8 @@
     "translit": "(mə·ṯê)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 4962:  ",
-    "str2": "An adult, a man"
+    "str2": "An adult, a man",
+    "num": 4962
   },
   {
     "word": "of my house",
@@ -21,7 +23,8 @@
     "translit": "(’ā·ho·lî)",
     "parse": "Noun - masculine singular construct | first person common singular",
     "str": "Strong's 168:  ",
-    "str2": "A tent"
+    "str2": "A tent",
+    "num": 168
   },
   {
     "word": "have not",
@@ -29,7 +32,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "said,",
@@ -37,7 +41,8 @@
     "translit": "(’ā·mə·rū)",
     "parse": "Verb - Qal - Perfect - third person common plural",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "‘Who",
@@ -45,7 +50,8 @@
     "translit": "(mî-)",
     "parse": "Interjection",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "is there",
@@ -53,7 +59,8 @@
     "translit": "(yit·tên)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "who has not",
@@ -61,7 +68,8 @@
     "translit": "(lō)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "had his fill?’—",
@@ -69,6 +77,7 @@
     "translit": "(niś·bā‘)",
     "parse": "Verb - Nifal - Participle - masculine singular",
     "str": "Strong's 7646:  ",
-    "str2": "To be sated, satisfied or surfeited"
+    "str2": "To be sated, satisfied or surfeited",
+    "num": 7646
   }
 ]

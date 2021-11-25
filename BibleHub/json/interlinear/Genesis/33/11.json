@@ -5,7 +5,8 @@
     "translit": "(nā)",
     "parse": "Interjection",
     "str": "Strong's 4994:  ",
-    "str2": "I pray', 'now', 'then'"
+    "str2": "I pray', 'now', 'then'",
+    "num": 4994
   },
   {
     "word": "take",
@@ -13,7 +14,8 @@
     "translit": "(qaḥ-)",
     "parse": "Verb - Qal - Imperative - masculine singular",
     "str": "Strong's 3947:  ",
-    "str2": "To take"
+    "str2": "To take",
+    "num": 3947
   },
   {
     "word": "my present",
@@ -21,7 +23,8 @@
     "translit": "(bir·ḵā·ṯî)",
     "parse": "Noun - feminine singular construct | first person common singular",
     "str": "Strong's 1293:  ",
-    "str2": "Benediction, prosperity"
+    "str2": "Benediction, prosperity",
+    "num": 1293
   },
   {
     "word": "that",
@@ -29,7 +32,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "was brought to you,",
@@ -37,7 +41,8 @@
     "translit": "(hu·ḇāṯ)",
     "parse": "Verb - Hofal - Perfect - third person feminine singular",
     "str": "Strong's 935:  ",
-    "str2": "To come in, come, go in, go"
+    "str2": "To come in, come, go in, go",
+    "num": 935
   },
   {
     "word": "because",
@@ -45,7 +50,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "God",
@@ -53,7 +59,8 @@
     "translit": "(’ĕ·lō·hîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "has been gracious",
@@ -61,7 +68,8 @@
     "translit": "(ḥan·na·nî)",
     "parse": "Verb - Qal - Perfect - third person masculine singular | first person common singular",
     "str": "Strong's 2603:  ",
-    "str2": "To bend, stoop in kindness to an inferior, to favor, bestow, to implore"
+    "str2": "To bend, stoop in kindness to an inferior, to favor, bestow, to implore",
+    "num": 2603
   },
   {
     "word": "to me",
@@ -69,7 +77,8 @@
     "translit": "(lî-)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "and I have",
@@ -77,7 +86,8 @@
     "translit": "(yeš-)",
     "parse": "Adverb",
     "str": "Strong's 3426:  ",
-    "str2": "Being, substance, existence, is"
+    "str2": "Being, substance, existence, is",
+    "num": 3426
   },
   {
     "word": "all I need.",
@@ -85,7 +95,8 @@
     "translit": "(ḵōl)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "So Jacob pressed",
@@ -93,7 +104,8 @@
     "translit": "(way·yip̄·ṣar-)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 6484:  ",
-    "str2": "To peck at, stun, dull"
+    "str2": "To peck at, stun, dull",
+    "num": 6484
   },
   {
     "word": "him",
@@ -101,7 +113,8 @@
     "translit": "(bōw)",
     "parse": "Preposition | third person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "until he accepted.",
@@ -109,6 +122,7 @@
     "translit": "(way·yiq·qāḥ)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 3947:  ",
-    "str2": "To take"
+    "str2": "To take",
+    "num": 3947
   }
 ]

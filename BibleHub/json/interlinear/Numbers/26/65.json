@@ -5,7 +5,8 @@
     "translit": "(kî-)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "the LORD",
@@ -13,7 +14,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "had told",
@@ -21,7 +23,8 @@
     "translit": "(’ā·mar)",
     "parse": "Verb - Qal - Perfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "them",
@@ -29,7 +32,8 @@
     "translit": "(lā·hem)",
     "parse": "Preposition | third person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "that they would surely die",
@@ -37,7 +41,8 @@
     "translit": "(mō·wṯ)",
     "parse": "Verb - Qal - Infinitive absolute",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   },
   {
     "word": "in the wilderness.",
@@ -45,7 +50,8 @@
     "translit": "(bam·miḏ·bār)",
     "parse": "Preposition-b, Article | Noun - masculine singular",
     "str": "Strong's 4057:  ",
-    "str2": "A pasture, a desert, speech"
+    "str2": "A pasture, a desert, speech",
+    "num": 4057
   },
   {
     "word": "Not one",
@@ -53,7 +59,8 @@
     "translit": "(wə·lō-)",
     "parse": "Conjunctive waw | Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "was left",
@@ -61,7 +68,8 @@
     "translit": "(nō·w·ṯar)",
     "parse": "Verb - Nifal - Perfect - third person masculine singular",
     "str": "Strong's 3498:  ",
-    "str2": "To jut over, exceed, to excel, to remain, be left, to leave, cause to abound, preserve"
+    "str2": "To jut over, exceed, to excel, to remain, be left, to leave, cause to abound, preserve",
+    "num": 3498
   },
   {
     "word": "except",
@@ -69,7 +77,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "Caleb",
@@ -77,7 +86,8 @@
     "translit": "(kā·lêḇ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3612:  ",
-    "str2": "Caleb -- a son of Jephunneh and sent by Moses to spy out the land"
+    "str2": "Caleb -- a son of Jephunneh and sent by Moses to spy out the land",
+    "num": 3612
   },
   {
     "word": "son",
@@ -85,7 +95,8 @@
     "translit": "(ben-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of Jephunneh",
@@ -93,7 +104,8 @@
     "translit": "(yə·p̄un·neh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3312:  ",
-    "str2": "Jephunneh -- father of Caleb, also an Asherite"
+    "str2": "Jephunneh -- father of Caleb, also an Asherite",
+    "num": 3312
   },
   {
     "word": "and Joshua",
@@ -101,7 +113,8 @@
     "translit": "(wî·hō·wō·šu·a‘)",
     "parse": "Conjunctive waw | Noun - proper - masculine singular",
     "str": "Strong's 3091:  ",
-    "str2": "Joshua -- 'the LORD is salvation', Moses' successor, also the name of a number of Israelites"
+    "str2": "Joshua -- 'the LORD is salvation', Moses' successor, also the name of a number of Israelites",
+    "num": 3091
   },
   {
     "word": "son",
@@ -109,7 +122,8 @@
     "translit": "(bin-)",
     "parse": "Noun - masculine singular construct",
     "str": "Strong's 1121:  ",
-    "str2": "A son"
+    "str2": "A son",
+    "num": 1121
   },
   {
     "word": "of Nun.",
@@ -117,6 +131,7 @@
     "translit": "(nūn)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 5126:  ",
-    "str2": "Nun -- father of Joshua"
+    "str2": "Nun -- father of Joshua",
+    "num": 5126
   }
 ]

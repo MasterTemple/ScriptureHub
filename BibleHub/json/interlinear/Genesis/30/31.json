@@ -5,7 +5,8 @@
     "translit": "(māh)",
     "parse": "Interrogative",
     "str": "Strong's 4100:  ",
-    "str2": "What?, what!, indefinitely what"
+    "str2": "What?, what!, indefinitely what",
+    "num": 4100
   },
   {
     "word": "can I give",
@@ -13,7 +14,8 @@
     "translit": "(’et·ten-)",
     "parse": "Verb - Qal - Imperfect - first person common singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "you?”",
@@ -21,7 +23,8 @@
     "translit": "(lāḵ)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "Laban asked.",
@@ -29,7 +32,8 @@
     "translit": "(way·yō·mer)",
     "parse": "Conjunctive waw | Verb - Qal - Consecutive imperfect - third person masculine singular",
     "str": "Strong's 559:  ",
-    "str2": "To utter, say"
+    "str2": "To utter, say",
+    "num": 559
   },
   {
     "word": "“You do not",
@@ -37,7 +41,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "need to give",
@@ -45,7 +50,8 @@
     "translit": "(ṯit·ten-)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 5414:  ",
-    "str2": "To give, put, set"
+    "str2": "To give, put, set",
+    "num": 5414
   },
   {
     "word": "me",
@@ -53,7 +59,8 @@
     "translit": "(lî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "anything,”",
@@ -61,7 +68,8 @@
     "translit": "(mə·’ū·māh)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3972:  ",
-    "str2": "A speck, point, nothing"
+    "str2": "A speck, point, nothing",
+    "num": 3972
   },
   {
     "word": "Jacob replied.",
@@ -69,7 +77,8 @@
     "translit": "(ya·‘ă·qōḇ)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3290:  ",
-    "str2": "Jacob -- a son of Isaac, also his desc"
+    "str2": "Jacob -- a son of Isaac, also his desc",
+    "num": 3290
   },
   {
     "word": "“If",
@@ -77,7 +86,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you do",
@@ -85,7 +95,8 @@
     "translit": "(ta·‘ă·śeh-)",
     "parse": "Verb - Qal - Imperfect - second person masculine singular",
     "str": "Strong's 6213:  ",
-    "str2": "To do, make"
+    "str2": "To do, make",
+    "num": 6213
   },
   {
     "word": "this",
@@ -93,7 +104,8 @@
     "translit": "(haz·zeh)",
     "parse": "Article | Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "one thing",
@@ -101,7 +113,8 @@
     "translit": "(had·dā·ḇār)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 1697:  ",
-    "str2": "A word, a matter, thing, a cause"
+    "str2": "A word, a matter, thing, a cause",
+    "num": 1697
   },
   {
     "word": "for me,",
@@ -109,7 +122,8 @@
     "translit": "(lî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "I will keep on",
@@ -117,7 +131,8 @@
     "translit": "(’ā·šū·ḇāh)",
     "parse": "Verb - Qal - Imperfect Cohortative - first person common singular",
     "str": "Strong's 7725:  ",
-    "str2": "To turn back, in, to retreat, again"
+    "str2": "To turn back, in, to retreat, again",
+    "num": 7725
   },
   {
     "word": "shepherding",
@@ -125,7 +140,8 @@
     "translit": "(’er·‘eh)",
     "parse": "Verb - Qal - Imperfect Cohortative if contextual - first person common singular",
     "str": "Strong's 7462:  ",
-    "str2": "To tend a, flock, pasture it, in, to graze, to rule, to associate with"
+    "str2": "To tend a, flock, pasture it, in, to graze, to rule, to associate with",
+    "num": 7462
   },
   {
     "word": "and keeping",
@@ -133,7 +149,8 @@
     "translit": "(’eš·mōr)",
     "parse": "Verb - Qal - Imperfect Cohortative if contextual - first person common singular",
     "str": "Strong's 8104:  ",
-    "str2": "To hedge about, guard, to protect, attend to"
+    "str2": "To hedge about, guard, to protect, attend to",
+    "num": 8104
   },
   {
     "word": "your flock.",
@@ -141,6 +158,7 @@
     "translit": "(ṣō·nə·ḵā)",
     "parse": "Noun - feminine singular construct | second person masculine singular",
     "str": "Strong's 6629:  ",
-    "str2": "Small cattle, sheep and goats, flock"
+    "str2": "Small cattle, sheep and goats, flock",
+    "num": 6629
   }
 ]

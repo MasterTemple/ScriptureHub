@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "Joseph",
@@ -13,7 +14,8 @@
     "translit": "(Iōsēph)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2501:  ",
-    "str2": "Joseph, a proper name. Of Hebrew origin; Joseph, the name of seven Israelites."
+    "str2": "Joseph, a proper name. Of Hebrew origin; Joseph, the name of seven Israelites.",
+    "num": 2501
   },
   {
     "word": "took",
@@ -21,7 +23,8 @@
     "translit": "(labōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 2983:  ",
-    "str2": "(a) I receive, get, (b) I take, lay hold of. "
+    "str2": "(a) I receive, get, (b) I take, lay hold of. ",
+    "num": 2983
   },
   {
     "word": "the",
@@ -29,7 +32,8 @@
     "translit": "(to)",
     "parse": "Article - Accusative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "body,",
@@ -37,7 +41,8 @@
     "translit": "(sōma)",
     "parse": "Noun - Accusative Neuter Singular",
     "str": "Strong's 4983:  ",
-    "str2": "Body, flesh; the body of the Church. From sozo; the body, used in a very wide application, literally or figuratively."
+    "str2": "Body, flesh; the body of the Church. From sozo; the body, used in a very wide application, literally or figuratively.",
+    "num": 4983
   },
   {
     "word": "wrapped",
@@ -45,7 +50,8 @@
     "translit": "(enetylixen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 1794:  ",
-    "str2": "To wrap up, roll round, envelop. From en and tulisso; to entwine, i.e. Wind up in."
+    "str2": "To wrap up, roll round, envelop. From en and tulisso; to entwine, i.e. Wind up in.",
+    "num": 1794
   },
   {
     "word": "it",
@@ -53,7 +59,8 @@
     "translit": "(auto)",
     "parse": "Personal / Possessive Pronoun - Accusative Neuter 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "in",
@@ -61,7 +68,8 @@
     "translit": "(en)",
     "parse": "Preposition",
     "str": "Strong's 1722:  ",
-    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc."
+    "str2": "In, on, among. A primary preposition denoting position, and instrumentality, i.e. A relation of rest; 'in, ' at, on, by, etc.",
+    "num": 1722
   },
   {
     "word": "a clean",
@@ -69,7 +77,8 @@
     "translit": "(kathara)",
     "parse": "Adjective - Dative Feminine Singular",
     "str": "Strong's 2513:  ",
-    "str2": "Clean."
+    "str2": "Clean.",
+    "num": 2513
   },
   {
     "word": "linen cloth,",
@@ -77,6 +86,7 @@
     "translit": "(sindoni)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 4616:  ",
-    "str2": "Fine linen, a linen cloth. Of uncertain origin; byssos, i.e. Bleached linen."
+    "str2": "Fine linen, a linen cloth. Of uncertain origin; byssos, i.e. Bleached linen.",
+    "num": 4616
   }
 ]

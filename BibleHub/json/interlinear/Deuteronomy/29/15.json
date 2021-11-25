@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "also with",
@@ -13,7 +14,8 @@
     "translit": "(’eṯ-)",
     "parse": "Preposition",
     "str": "Strong's 854:  ",
-    "str2": "Nearness, near, with, by, at, among"
+    "str2": "Nearness, near, with, by, at, among",
+    "num": 854
   },
   {
     "word": "those who",
@@ -21,7 +23,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "are standing",
@@ -29,7 +32,8 @@
     "translit": "(‘ō·mêḏ)",
     "parse": "Verb - Qal - Participle - masculine singular",
     "str": "Strong's 5975:  ",
-    "str2": "To stand, in various relations"
+    "str2": "To stand, in various relations",
+    "num": 5975
   },
   {
     "word": "here",
@@ -37,7 +41,8 @@
     "translit": "(pōh)",
     "parse": "Adverb",
     "str": "Strong's 6311:  ",
-    "str2": "This place, here"
+    "str2": "This place, here",
+    "num": 6311
   },
   {
     "word": "with us",
@@ -45,7 +50,8 @@
     "translit": "(‘im·mā·nū)",
     "parse": "Preposition | first person common plural",
     "str": "Strong's 5973:  ",
-    "str2": "With, equally with"
+    "str2": "With, equally with",
+    "num": 5973
   },
   {
     "word": "today",
@@ -53,7 +59,8 @@
     "translit": "(hay·yō·wm)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "in the presence",
@@ -61,7 +68,8 @@
     "translit": "(lip̄·nê)",
     "parse": "Preposition-l | Noun - common plural construct",
     "str": "Strong's 6440:  ",
-    "str2": "The face"
+    "str2": "The face",
+    "num": 6440
   },
   {
     "word": "of the LORD",
@@ -69,7 +77,8 @@
     "translit": "(Yah·weh)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 3068:  ",
-    "str2": "LORD -- the proper name of the God of Israel"
+    "str2": "LORD -- the proper name of the God of Israel",
+    "num": 3068
   },
   {
     "word": "our God,",
@@ -77,7 +86,8 @@
     "translit": "(’ĕ·lō·hê·nū)",
     "parse": "Noun - masculine plural construct | first person common plural",
     "str": "Strong's 430:  ",
-    "str2": "gods -- the supreme God, magistrates, a superlative"
+    "str2": "gods -- the supreme God, magistrates, a superlative",
+    "num": 430
   },
   {
     "word": "as well as",
@@ -85,7 +95,8 @@
     "translit": "(wə·’êṯ)",
     "parse": "Conjunctive waw | Preposition",
     "str": "Strong's 854:  ",
-    "str2": "Nearness, near, with, by, at, among"
+    "str2": "Nearness, near, with, by, at, among",
+    "num": 854
   },
   {
     "word": "with those who",
@@ -93,7 +104,8 @@
     "translit": "(’ă·šer)",
     "parse": "Pronoun - relative",
     "str": "Strong's 834:  ",
-    "str2": "Who, which, what, that, when, where, how, because, in order that"
+    "str2": "Who, which, what, that, when, where, how, because, in order that",
+    "num": 834
   },
   {
     "word": "are not",
@@ -101,7 +113,8 @@
     "translit": "(’ê·nen·nū)",
     "parse": "Adverb | third person masculine singular",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "here today.",
@@ -109,6 +122,7 @@
     "translit": "(pōh)",
     "parse": "Adverb",
     "str": "Strong's 6311:  ",
-    "str2": "This place, here"
+    "str2": "This place, here",
+    "num": 6311
   }
 ]

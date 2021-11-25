@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "they approached",
@@ -13,7 +14,8 @@
     "translit": "(ēngisan)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Plural",
     "str": "Strong's 1448:  ",
-    "str2": "Trans: I bring near; intrans: I come near, approach. From eggus; to make near, i.e. approach."
+    "str2": "Trans: I bring near; intrans: I come near, approach. From eggus; to make near, i.e. approach.",
+    "num": 1448
   },
   {
     "word": "the",
@@ -21,7 +23,8 @@
     "translit": "(tēn)",
     "parse": "Article - Accusative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "village",
@@ -29,7 +32,8 @@
     "translit": "(kōmēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 2968:  ",
-    "str2": "A village, country town. From keimai; a hamlet."
+    "str2": "A village, country town. From keimai; a hamlet.",
+    "num": 2968
   },
   {
     "word": "where",
@@ -37,7 +41,8 @@
     "translit": "(hou)",
     "parse": "Adverb",
     "str": "Strong's 3757:  ",
-    "str2": "Where, whither, when, in what place. Genitive case of hos as adverb; at which place, i.e. Where."
+    "str2": "Where, whither, when, in what place. Genitive case of hos as adverb; at which place, i.e. Where.",
+    "num": 3757
   },
   {
     "word": "they were headed,",
@@ -45,7 +50,8 @@
     "translit": "(eporeuonto)",
     "parse": "Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural",
     "str": "Strong's 4198:  ",
-    "str2": "To travel, journey, go, die. "
+    "str2": "To travel, journey, go, die. ",
+    "num": 4198
   },
   {
     "word": "He",
@@ -53,7 +59,8 @@
     "translit": "(autos)",
     "parse": "Personal / Possessive Pronoun - Nominative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "seemed",
@@ -61,7 +68,8 @@
     "translit": "(prosepoiēsato)",
     "parse": "Verb - Aorist Indicative Middle - 3rd Person Singular",
     "str": "Strong's 4364:  ",
-    "str2": "To pretend, regard, make a show of. Middle voice from pros and poieo; to do forward for oneself, i.e. Pretend."
+    "str2": "To pretend, regard, make a show of. Middle voice from pros and poieo; to do forward for oneself, i.e. Pretend.",
+    "num": 4364
   },
   {
     "word": "to be going",
@@ -69,7 +77,8 @@
     "translit": "(poreuesthai)",
     "parse": "Verb - Present Infinitive Middle or Passive",
     "str": "Strong's 4198:  ",
-    "str2": "To travel, journey, go, die. "
+    "str2": "To travel, journey, go, die. ",
+    "num": 4198
   },
   {
     "word": "farther.",
@@ -77,6 +86,7 @@
     "translit": "(porrōteron)",
     "parse": "Adverb",
     "str": "Strong's 4206:  ",
-    "str2": "Far, far off, at a distance. Adverb from pro; forwards, i.e. At a distance."
+    "str2": "Far, far off, at a distance. Adverb from pro; forwards, i.e. At a distance.",
+    "num": 4206
   }
 ]

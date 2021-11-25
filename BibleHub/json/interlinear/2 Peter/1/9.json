@@ -5,7 +5,8 @@
     "translit": "(gar)",
     "parse": "Conjunction",
     "str": "Strong's 1063:  ",
-    "str2": "For. A primary particle; properly, assigning a reason."
+    "str2": "For. A primary particle; properly, assigning a reason.",
+    "num": 1063
   },
   {
     "word": "whoever",
@@ -13,7 +14,8 @@
     "translit": "(hō)",
     "parse": "Personal / Relative Pronoun - Dative Masculine Singular",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   },
   {
     "word": "lacks",
@@ -21,7 +23,8 @@
     "translit": "(parestin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 3918:  ",
-    "str2": "From para and eimi; to be near, i.e. At hand; neuter present participle time being, or property."
+    "str2": "From para and eimi; to be near, i.e. At hand; neuter present participle time being, or property.",
+    "num": 3918
   },
   {
     "word": "these [ traits ]",
@@ -29,7 +32,8 @@
     "translit": "(tauta)",
     "parse": "Demonstrative Pronoun - Nominative Neuter Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "is",
@@ -37,7 +41,8 @@
     "translit": "(estin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Singular",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "nearsighted",
@@ -45,7 +50,8 @@
     "translit": "(myōpazōn)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3467:  ",
-    "str2": "To be short-sighted, blink, see dimly. From a compound of the base of musterion and ops; to shut the eyes, i.e. Blink."
+    "str2": "To be short-sighted, blink, see dimly. From a compound of the base of musterion and ops; to shut the eyes, i.e. Blink.",
+    "num": 3467
   },
   {
     "word": "to the point of blindness,",
@@ -53,7 +59,8 @@
     "translit": "(typhlos)",
     "parse": "Adjective - Nominative Masculine Singular",
     "str": "Strong's 5185:  ",
-    "str2": "Blind, physically or mentally. From, tuphoo; opaque, i.e. blind."
+    "str2": "Blind, physically or mentally. From, tuphoo; opaque, i.e. blind.",
+    "num": 5185
   },
   {
     "word": "having forgotten",
@@ -61,7 +68,8 @@
     "translit": "(lēthēn)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 3024:  ",
-    "str2": "Forgetfulness, oblivion. From lanthano; forgetfulness."
+    "str2": "Forgetfulness, oblivion. From lanthano; forgetfulness.",
+    "num": 3024
   },
   {
     "word": "that",
@@ -69,7 +77,8 @@
     "translit": "(tou)",
     "parse": "Article - Genitive Masculine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "he has been cleansed",
@@ -77,7 +86,8 @@
     "translit": "(katharismou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 2512:  ",
-    "str2": "From katharizo; a washing off, i.e. ablution, expiation."
+    "str2": "From katharizo; a washing off, i.e. ablution, expiation.",
+    "num": 2512
   },
   {
     "word": "from his",
@@ -85,7 +95,8 @@
     "translit": "(autou)",
     "parse": "Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   },
   {
     "word": "past",
@@ -93,7 +104,8 @@
     "translit": "(palai)",
     "parse": "Adverb",
     "str": "Strong's 3819:  ",
-    "str2": "Of old, long ago, in times past, former. Probably another form for palin; formerly, or sometime since; ancient."
+    "str2": "Of old, long ago, in times past, former. Probably another form for palin; formerly, or sometime since; ancient.",
+    "num": 3819
   },
   {
     "word": "sins.",
@@ -101,6 +113,7 @@
     "translit": "(hamartiōn)",
     "parse": "Noun - Genitive Feminine Plural",
     "str": "Strong's 266:  ",
-    "str2": "From hamartano; a sin."
+    "str2": "From hamartano; a sin.",
+    "num": 266
   }
 ]

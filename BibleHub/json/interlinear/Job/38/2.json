@@ -5,7 +5,8 @@
     "translit": "(mî)",
     "parse": "Interrogative",
     "str": "Strong's 4310:  ",
-    "str2": "Who?, whoever, in oblique construction with prefix, suffix"
+    "str2": "Who?, whoever, in oblique construction with prefix, suffix",
+    "num": 4310
   },
   {
     "word": "is this",
@@ -13,7 +14,8 @@
     "translit": "(zeh)",
     "parse": "Pronoun - masculine singular",
     "str": "Strong's 2088:  ",
-    "str2": "This, that"
+    "str2": "This, that",
+    "num": 2088
   },
   {
     "word": "who obscures",
@@ -21,7 +23,8 @@
     "translit": "(maḥ·šîḵ)",
     "parse": "Verb - Hifil - Participle - masculine singular",
     "str": "Strong's 2821:  ",
-    "str2": "To be dark, to darken"
+    "str2": "To be dark, to darken",
+    "num": 2821
   },
   {
     "word": "My counsel",
@@ -29,7 +32,8 @@
     "translit": "(‘ê·ṣāh)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 6098:  ",
-    "str2": "Advice, plan, prudence"
+    "str2": "Advice, plan, prudence",
+    "num": 6098
   },
   {
     "word": "by words",
@@ -37,7 +41,8 @@
     "translit": "(ḇə·mil·lîn)",
     "parse": "Preposition-b | Noun - feminine plural",
     "str": "Strong's 4405:  ",
-    "str2": "A word, a discourse, a topic"
+    "str2": "A word, a discourse, a topic",
+    "num": 4405
   },
   {
     "word": "without",
@@ -45,7 +50,8 @@
     "translit": "(bə·lî-)",
     "parse": "Adverb",
     "str": "Strong's 1097:  ",
-    "str2": "Failure, nothing, destruction, without, not yet, because not, as long as"
+    "str2": "Failure, nothing, destruction, without, not yet, because not, as long as",
+    "num": 1097
   },
   {
     "word": "knowledge?",
@@ -53,6 +59,7 @@
     "translit": "(ḏā·‘aṯ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 1847:  ",
-    "str2": "Knowledge"
+    "str2": "Knowledge",
+    "num": 1847
   }
 ]

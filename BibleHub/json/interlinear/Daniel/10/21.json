@@ -5,7 +5,8 @@
     "translit": "(’ă·ḇāl)",
     "parse": "Adverb",
     "str": "Strong's 61:  ",
-    "str2": "Verily, of a truth"
+    "str2": "Verily, of a truth",
+    "num": 61
   },
   {
     "word": "I will tell",
@@ -13,7 +14,8 @@
     "translit": "(’ag·gîḏ)",
     "parse": "Verb - Hifil - Imperfect - first person common singular",
     "str": "Strong's 5046:  ",
-    "str2": "To be conspicuous"
+    "str2": "To be conspicuous",
+    "num": 5046
   },
   {
     "word": "you",
@@ -21,7 +23,8 @@
     "translit": "(lə·ḵā)",
     "parse": "Preposition | second person masculine singular",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   },
   {
     "word": "what is inscribed",
@@ -29,7 +32,8 @@
     "translit": "(hā·rā·šūm)",
     "parse": "Article | Verb - Qal - QalPassParticiple - masculine singular",
     "str": "Strong's 7559:  ",
-    "str2": "To inscribe, note"
+    "str2": "To inscribe, note",
+    "num": 7559
   },
   {
     "word": "in the book",
@@ -37,7 +41,8 @@
     "translit": "(biḵ·ṯāḇ)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3791:  ",
-    "str2": "Something written, a writing, record, book"
+    "str2": "Something written, a writing, record, book",
+    "num": 3791
   },
   {
     "word": "of truth.",
@@ -45,7 +50,8 @@
     "translit": "(’ĕ·meṯ)",
     "parse": "Noun - feminine singular",
     "str": "Strong's 571:  ",
-    "str2": "Stability, certainty, truth, trustworthiness"
+    "str2": "Stability, certainty, truth, trustworthiness",
+    "num": 571
   },
   {
     "word": "Yet no",
@@ -53,7 +59,8 @@
     "translit": "(wə·’ên)",
     "parse": "Conjunctive waw | Adverb",
     "str": "Strong's 369:  ",
-    "str2": "A non-entity, a negative particle"
+    "str2": "A non-entity, a negative particle",
+    "num": 369
   },
   {
     "word": "one",
@@ -61,7 +68,8 @@
     "translit": "(’e·ḥāḏ)",
     "parse": "Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "has the courage",
@@ -69,7 +77,8 @@
     "translit": "(miṯ·ḥaz·zêq)",
     "parse": "Verb - Hitpael - Participle - masculine singular",
     "str": "Strong's 2388:  ",
-    "str2": "To fasten upon, to seize, be strong, obstinate, to bind, restrain, conquer"
+    "str2": "To fasten upon, to seize, be strong, obstinate, to bind, restrain, conquer",
+    "num": 2388
   },
   {
     "word": "to support me",
@@ -77,7 +86,8 @@
     "translit": "(‘im·mî)",
     "parse": "Preposition | first person common singular",
     "str": "Strong's 5973:  ",
-    "str2": "With, equally with"
+    "str2": "With, equally with",
+    "num": 5973
   },
   {
     "word": "against",
@@ -85,7 +95,8 @@
     "translit": "(‘al-)",
     "parse": "Preposition",
     "str": "Strong's 5921:  ",
-    "str2": "Above, over, upon, against"
+    "str2": "Above, over, upon, against",
+    "num": 5921
   },
   {
     "word": "these,",
@@ -93,7 +104,8 @@
     "translit": "(’êl·leh)",
     "parse": "Pronoun - common plural",
     "str": "Strong's 428:  ",
-    "str2": "These, those"
+    "str2": "These, those",
+    "num": 428
   },
   {
     "word": "except",
@@ -101,7 +113,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "Michael,",
@@ -109,7 +122,8 @@
     "translit": "(mî·ḵā·’êl)",
     "parse": "Noun - proper - masculine singular",
     "str": "Strong's 4317:  ",
-    "str2": "Michael -- 'Who is like God?' an angel, also a number of Israelites"
+    "str2": "Michael -- 'Who is like God?' an angel, also a number of Israelites",
+    "num": 4317
   },
   {
     "word": "your prince.",
@@ -117,6 +131,7 @@
     "translit": "(śar·ḵem)",
     "parse": "Noun - masculine singular construct | second person masculine plural",
     "str": "Strong's 8269:  ",
-    "str2": "Chieftain, chief, ruler, official, captain, prince"
+    "str2": "Chieftain, chief, ruler, official, captain, prince",
+    "num": 8269
   }
 ]

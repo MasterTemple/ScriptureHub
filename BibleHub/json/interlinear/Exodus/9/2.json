@@ -5,7 +5,8 @@
     "translit": "(kî)",
     "parse": "Conjunction",
     "str": "Strong's 3588:  ",
-    "str2": "A relative conjunction"
+    "str2": "A relative conjunction",
+    "num": 3588
   },
   {
     "word": "if",
@@ -13,7 +14,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "you",
@@ -21,7 +23,8 @@
     "translit": "(’at·tāh)",
     "parse": "Pronoun - second person masculine singular",
     "str": "Strong's 859:  ",
-    "str2": "Thou and thee, ye and you"
+    "str2": "Thou and thee, ye and you",
+    "num": 859
   },
   {
     "word": "refuse",
@@ -29,7 +32,8 @@
     "translit": "(mā·’ên)",
     "parse": "Adjective - masculine singular",
     "str": "Strong's 3986:  ",
-    "str2": "Unwilling"
+    "str2": "Unwilling",
+    "num": 3986
   },
   {
     "word": "to let them go",
@@ -37,7 +41,8 @@
     "translit": "(lə·šal·lê·aḥ)",
     "parse": "Preposition-l | Verb - Piel - Infinitive construct",
     "str": "Strong's 7971:  ",
-    "str2": "To send away, for, out"
+    "str2": "To send away, for, out",
+    "num": 7971
   },
   {
     "word": "and continue",
@@ -45,7 +50,8 @@
     "translit": "(wə·‘ō·wḏ·ḵā)",
     "parse": "Conjunctive waw | Adverb | second person masculine singular",
     "str": "Strong's 5750:  ",
-    "str2": "Iteration, continuance, again, repeatedly, still, more"
+    "str2": "Iteration, continuance, again, repeatedly, still, more",
+    "num": 5750
   },
   {
     "word": "to restrain",
@@ -53,7 +59,8 @@
     "translit": "(ma·ḥă·zîq)",
     "parse": "Verb - Hifil - Participle - masculine singular",
     "str": "Strong's 2388:  ",
-    "str2": "To fasten upon, to seize, be strong, obstinate, to bind, restrain, conquer"
+    "str2": "To fasten upon, to seize, be strong, obstinate, to bind, restrain, conquer",
+    "num": 2388
   },
   {
     "word": "them,",
@@ -61,6 +68,7 @@
     "translit": "(bām)",
     "parse": "Preposition | third person masculine plural",
     "str": "Strong's Hebrew ",
-    "str2": ""
+    "str2": "",
+    "num": 0
   }
 ]

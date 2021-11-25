@@ -5,7 +5,8 @@
     "translit": "(’a·ḥă·rê·hen)",
     "parse": "Preposition | third person feminine plural",
     "str": "Strong's 310:  ",
-    "str2": "The hind or following part"
+    "str2": "The hind or following part",
+    "num": 310
   },
   {
     "word": "seven",
@@ -13,7 +14,8 @@
     "translit": "(še·ḇa‘-)",
     "parse": "Number - feminine singular",
     "str": "Strong's 7651:  ",
-    "str2": "Seven, seven times, a week, an indefinite number"
+    "str2": "Seven, seven times, a week, an indefinite number",
+    "num": 7651
   },
   {
     "word": "other",
@@ -21,7 +23,8 @@
     "translit": "(’ă·ḥê·rō·wṯ)",
     "parse": "Adjective - feminine plural",
     "str": "Strong's 312:  ",
-    "str2": "Hinder, next, other"
+    "str2": "Hinder, next, other",
+    "num": 312
   },
   {
     "word": "cows,",
@@ -29,7 +32,8 @@
     "translit": "(pā·rō·wṯ)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 6510:  ",
-    "str2": "A heifer, cow"
+    "str2": "A heifer, cow",
+    "num": 6510
   },
   {
     "word": "sickly,",
@@ -37,7 +41,8 @@
     "translit": "(wə·rā·‘ō·wṯ)",
     "parse": "Conjunctive waw | Adjective - feminine plural construct",
     "str": "Strong's 7451:  ",
-    "str2": "Bad, evil"
+    "str2": "Bad, evil",
+    "num": 7451
   },
   {
     "word": "ugly,",
@@ -45,7 +50,8 @@
     "translit": "(tō·’ar)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 8389:  ",
-    "str2": "Outline, figure, appearance"
+    "str2": "Outline, figure, appearance",
+    "num": 8389
   },
   {
     "word": "and thin,",
@@ -53,7 +59,8 @@
     "translit": "(wə·raq·qō·wṯ)",
     "parse": "Conjunctive waw | Adjective - feminine plural construct",
     "str": "Strong's 7534:  ",
-    "str2": "Thin, only, altogether, surely"
+    "str2": "Thin, only, altogether, surely",
+    "num": 7534
   },
   {
     "word": "came up.",
@@ -61,7 +68,8 @@
     "translit": "(‘ō·lō·wṯ)",
     "parse": "Verb - Qal - Participle - feminine plural",
     "str": "Strong's 5927:  ",
-    "str2": "To ascend, in, actively"
+    "str2": "To ascend, in, actively",
+    "num": 5927
   },
   {
     "word": "I have never",
@@ -69,7 +77,8 @@
     "translit": "(lō-)",
     "parse": "Adverb - Negative particle",
     "str": "Strong's 3808:  ",
-    "str2": "Not, no"
+    "str2": "Not, no",
+    "num": 3808
   },
   {
     "word": "seen",
@@ -77,7 +86,8 @@
     "translit": "(rā·’î·ṯî)",
     "parse": "Verb - Qal - Perfect - first person common singular",
     "str": "Strong's 7200:  ",
-    "str2": "To see"
+    "str2": "To see",
+    "num": 7200
   },
   {
     "word": "such ugly",
@@ -85,7 +95,8 @@
     "translit": "(lā·rō·a‘)",
     "parse": "Preposition-l, Article | Noun - masculine singular",
     "str": "Strong's 7455:  ",
-    "str2": "Badness, evil"
+    "str2": "Badness, evil",
+    "num": 7455
   },
   {
     "word": "[cows]",
@@ -93,7 +104,8 @@
     "translit": "(ḵā·hên·nāh)",
     "parse": "Preposition-k | Pronoun - third person feminine plural",
     "str": "Strong's 2007:  ",
-    "str2": "Themselves"
+    "str2": "Themselves",
+    "num": 2007
   },
   {
     "word": "in all",
@@ -101,7 +113,8 @@
     "translit": "(bə·ḵāl)",
     "parse": "Preposition-b | Noun - masculine singular construct",
     "str": "Strong's 3605:  ",
-    "str2": "The whole, all, any, every"
+    "str2": "The whole, all, any, every",
+    "num": 3605
   },
   {
     "word": "the land",
@@ -109,7 +122,8 @@
     "translit": "(’e·reṣ)",
     "parse": "Noun - feminine singular construct",
     "str": "Strong's 776:  ",
-    "str2": "Earth, land"
+    "str2": "Earth, land",
+    "num": 776
   },
   {
     "word": "of Egypt!",
@@ -117,6 +131,7 @@
     "translit": "(miṣ·ra·yim)",
     "parse": "Noun - proper - feminine singular",
     "str": "Strong's 4714:  ",
-    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa"
+    "str2": "Egypt -- a son of Ham, also his descendants and their country in Northwest Africa",
+    "num": 4714
   }
 ]

@@ -5,7 +5,8 @@
     "translit": "(Kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "[the man] saw",
@@ -13,7 +14,8 @@
     "translit": "(idōn)",
     "parse": "Verb - Aorist Participle Active - Nominative Masculine Singular",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "Jesus",
@@ -21,7 +23,8 @@
     "translit": "(Iēsoun)",
     "parse": "Noun - Accusative Masculine Singular",
     "str": "Strong's 2424:  ",
-    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites."
+    "str2": "Of Hebrew origin; Jesus, the name of our Lord and two other Israelites.",
+    "num": 2424
   },
   {
     "word": "from",
@@ -29,7 +32,8 @@
     "translit": "(apo)",
     "parse": "Preposition",
     "str": "Strong's 575:  ",
-    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses."
+    "str2": "From, away from. A primary particle; 'off, ' i.e. Away, in various senses.",
+    "num": 575
   },
   {
     "word": "a distance,",
@@ -37,7 +41,8 @@
     "translit": "(makrothen)",
     "parse": "Adverb",
     "str": "Strong's 3113:  ",
-    "str2": "From a (long) distance, afar. Adverb from makros; from a distance or afar."
+    "str2": "From a (long) distance, afar. Adverb from makros; from a distance or afar.",
+    "num": 3113
   },
   {
     "word": "he ran",
@@ -45,7 +50,8 @@
     "translit": "(edramen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 5143:  ",
-    "str2": "Apparently a primary verb; which uses dremo drem'-o as alternate in certain tenses; to run or walk hastily."
+    "str2": "Apparently a primary verb; which uses dremo drem'-o as alternate in certain tenses; to run or walk hastily.",
+    "num": 5143
   },
   {
     "word": "and",
@@ -53,7 +59,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "fell on his knees",
@@ -61,7 +68,8 @@
     "translit": "(prosekynēsen)",
     "parse": "Verb - Aorist Indicative Active - 3rd Person Singular",
     "str": "Strong's 4352:  ",
-    "str2": "From pros and a probable derivative of kuon; to fawn or crouch to, i.e. prostrate oneself in homage."
+    "str2": "From pros and a probable derivative of kuon; to fawn or crouch to, i.e. prostrate oneself in homage.",
+    "num": 4352
   },
   {
     "word": "before Him.",
@@ -69,6 +77,7 @@
     "translit": "(auton)",
     "parse": "Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular",
     "str": "Strong's 846:  ",
-    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons."
+    "str2": "He, she, it, they, them, same. From the particle au; the reflexive pronoun self, used of the third person, and of the other persons.",
+    "num": 846
   }
 ]

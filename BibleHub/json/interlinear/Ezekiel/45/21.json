@@ -5,7 +5,8 @@
     "translit": "(bə·’ar·bā·‘āh)",
     "parse": "Preposition-b | Number - masculine singular",
     "str": "Strong's 702:  ",
-    "str2": "Four"
+    "str2": "Four",
+    "num": 702
   },
   {
     "word": "day",
@@ -13,7 +14,8 @@
     "translit": "(yō·wm)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "of the first month",
@@ -21,7 +23,8 @@
     "translit": "(bā·ri·šō·wn)",
     "parse": "Preposition-b, Article | Adjective - masculine singular",
     "str": "Strong's 7223:  ",
-    "str2": "First, in place, time, rank"
+    "str2": "First, in place, time, rank",
+    "num": 7223
   },
   {
     "word": "you are to observe",
@@ -29,7 +32,8 @@
     "translit": "(yih·yeh)",
     "parse": "Verb - Qal - Imperfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "the Passover,",
@@ -37,7 +41,8 @@
     "translit": "(hap·pā·saḥ)",
     "parse": "Article | Noun - masculine singular",
     "str": "Strong's 6453:  ",
-    "str2": "A pretermission, exemption, Passover"
+    "str2": "A pretermission, exemption, Passover",
+    "num": 6453
   },
   {
     "word": "a feast",
@@ -45,7 +50,8 @@
     "translit": "(ḥāḡ)",
     "parse": "Noun - masculine singular",
     "str": "Strong's 2282:  ",
-    "str2": "A festival gathering, feast, pilgrim feast"
+    "str2": "A festival gathering, feast, pilgrim feast",
+    "num": 2282
   },
   {
     "word": "of seven",
@@ -53,7 +59,8 @@
     "translit": "(šə·ḇu·‘ō·wṯ)",
     "parse": "Noun - masculine plural construct",
     "str": "Strong's 7620:  ",
-    "str2": "A period of seven (days, years), heptad, week"
+    "str2": "A period of seven (days, years), heptad, week",
+    "num": 7620
   },
   {
     "word": "days,",
@@ -61,7 +68,8 @@
     "translit": "(yā·mîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 3117:  ",
-    "str2": "A day"
+    "str2": "A day",
+    "num": 3117
   },
   {
     "word": "during which unleavened bread",
@@ -69,7 +77,8 @@
     "translit": "(maṣ·ṣō·wṯ)",
     "parse": "Noun - feminine plural",
     "str": "Strong's 4682:  ",
-    "str2": "Sweetness, sweet, an unfermented cake, loaf, the festival of Passover"
+    "str2": "Sweetness, sweet, an unfermented cake, loaf, the festival of Passover",
+    "num": 4682
   },
   {
     "word": "shall be eaten.",
@@ -77,6 +86,7 @@
     "translit": "(yê·’ā·ḵêl)",
     "parse": "Verb - Nifal - Imperfect - third person masculine singular",
     "str": "Strong's 398:  ",
-    "str2": "To eat"
+    "str2": "To eat",
+    "num": 398
   }
 ]

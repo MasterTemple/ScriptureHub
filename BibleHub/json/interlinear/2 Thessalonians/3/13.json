@@ -5,7 +5,8 @@
     "translit": "(de)",
     "parse": "Conjunction",
     "str": "Strong's 1161:  ",
-    "str2": "A primary particle; but, and, etc."
+    "str2": "A primary particle; but, and, etc.",
+    "num": 1161
   },
   {
     "word": "you,",
@@ -13,7 +14,8 @@
     "translit": "(Hymeis)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "brothers,",
@@ -21,7 +23,8 @@
     "translit": "(adelphoi)",
     "parse": "Noun - Vocative Masculine Plural",
     "str": "Strong's 80:  ",
-    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote."
+    "str2": "A brother, member of the same religious community, especially a fellow-Christian. A brother near or remote.",
+    "num": 80
   },
   {
     "word": "{do} not",
@@ -29,7 +32,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "grow weary",
@@ -37,7 +41,8 @@
     "translit": "(enkakēsēte)",
     "parse": "Verb - Aorist Subjunctive Active - 2nd Person Plural",
     "str": "Strong's 1573:  ",
-    "str2": "To be faint, be weary. From ek and kakos; to be weak, i.e. to fail."
+    "str2": "To be faint, be weary. From ek and kakos; to be weak, i.e. to fail.",
+    "num": 1573
   },
   {
     "word": "[in] well-doing.",
@@ -45,6 +50,7 @@
     "translit": "(kalopoiountes)",
     "parse": "Verb - Present Participle Active - Nominative Masculine Plural",
     "str": "Strong's 2569:  ",
-    "str2": "To do well, act honorably, do what is right. From kalos and poieo; to do well, i.e. Live virtuously."
+    "str2": "To do well, act honorably, do what is right. From kalos and poieo; to do well, i.e. Live virtuously.",
+    "num": 2569
   }
 ]

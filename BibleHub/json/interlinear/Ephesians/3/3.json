@@ -5,7 +5,8 @@
     "translit": "(hoti)",
     "parse": "Conjunction",
     "str": "Strong's 3754:  ",
-    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because."
+    "str2": "Neuter of hostis as conjunction; demonstrative, that; causative, because.",
+    "num": 3754
   },
   {
     "word": "the",
@@ -13,7 +14,8 @@
     "translit": "(to)",
     "parse": "Article - Nominative Neuter Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "mystery",
@@ -21,7 +23,8 @@
     "translit": "(mystērion)",
     "parse": "Noun - Nominative Neuter Singular",
     "str": "Strong's 3466:  ",
-    "str2": "From a derivative of muo; a secret or 'mystery'."
+    "str2": "From a derivative of muo; a secret or 'mystery'.",
+    "num": 3466
   },
   {
     "word": "made known",
@@ -29,7 +32,8 @@
     "translit": "(egnōristhē)",
     "parse": "Verb - Aorist Indicative Passive - 3rd Person Singular",
     "str": "Strong's 1107:  ",
-    "str2": "To make known, declare, know, discover. From a derivative of ginosko; to make known; subjectively, to know."
+    "str2": "To make known, declare, know, discover. From a derivative of ginosko; to make known; subjectively, to know.",
+    "num": 1107
   },
   {
     "word": "to me",
@@ -37,7 +41,8 @@
     "translit": "(moi)",
     "parse": "Personal / Possessive Pronoun - Dative 1st Person Singular",
     "str": "Strong's 1473:  ",
-    "str2": "I, the first-person pronoun. A primary pronoun of the first person I."
+    "str2": "I, the first-person pronoun. A primary pronoun of the first person I.",
+    "num": 1473
   },
   {
     "word": "by",
@@ -45,7 +50,8 @@
     "translit": "(kata)",
     "parse": "Preposition",
     "str": "Strong's 2596:  ",
-    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined)."
+    "str2": "A primary particle; down, in varied relations (genitive, dative or accusative) with which it is joined).",
+    "num": 2596
   },
   {
     "word": "revelation,",
@@ -53,7 +59,8 @@
     "translit": "(apokalypsin)",
     "parse": "Noun - Accusative Feminine Singular",
     "str": "Strong's 602:  ",
-    "str2": "An unveiling, uncovering, revealing, revelation. From apokalupto; disclosure."
+    "str2": "An unveiling, uncovering, revealing, revelation. From apokalupto; disclosure.",
+    "num": 602
   },
   {
     "word": "as",
@@ -61,7 +68,8 @@
     "translit": "(kathōs)",
     "parse": "Adverb",
     "str": "Strong's 2531:  ",
-    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that."
+    "str2": "According to the manner in which, in the degree that, just as, as. From kata and hos; just as, that.",
+    "num": 2531
   },
   {
     "word": "I have already written",
@@ -69,7 +77,8 @@
     "translit": "(proegrapsa)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 4270:  ",
-    "str2": "From pro and grapho; to write previously; figuratively, to announce, prescribe."
+    "str2": "From pro and grapho; to write previously; figuratively, to announce, prescribe.",
+    "num": 4270
   },
   {
     "word": "briefly.",
@@ -77,6 +86,7 @@
     "translit": "(oligō)",
     "parse": "Adjective - Dative Neuter Singular",
     "str": "Strong's 3641:  ",
-    "str2": "Puny; especially neuter somewhat."
+    "str2": "Puny; especially neuter somewhat.",
+    "num": 3641
   }
 ]

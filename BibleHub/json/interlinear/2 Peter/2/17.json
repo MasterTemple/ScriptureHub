@@ -5,7 +5,8 @@
     "translit": "(Houtoi)",
     "parse": "Demonstrative Pronoun - Nominative Masculine Plural",
     "str": "Strong's 3778:  ",
-    "str2": "This; he, she, it. "
+    "str2": "This; he, she, it. ",
+    "num": 3778
   },
   {
     "word": "are",
@@ -13,7 +14,8 @@
     "translit": "(eisin)",
     "parse": "Verb - Present Indicative Active - 3rd Person Plural",
     "str": "Strong's 1510:  ",
-    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist."
+    "str2": "I am, exist. The first person singular present indicative; a prolonged form of a primary and defective verb; I exist.",
+    "num": 1510
   },
   {
     "word": "springs",
@@ -21,7 +23,8 @@
     "translit": "(pēgai)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 4077:  ",
-    "str2": "A fountain, spring, well, issue, flow. Probably from pegnumi; a fount, i.e. Source or supply."
+    "str2": "A fountain, spring, well, issue, flow. Probably from pegnumi; a fount, i.e. Source or supply.",
+    "num": 4077
   },
   {
     "word": "without water",
@@ -29,7 +32,8 @@
     "translit": "(anydroi)",
     "parse": "Adjective - Nominative Feminine Plural",
     "str": "Strong's 504:  ",
-    "str2": "Without water, dry; subst: dry places, desert. Waterless, i.e. Dry."
+    "str2": "Without water, dry; subst: dry places, desert. Waterless, i.e. Dry.",
+    "num": 504
   },
   {
     "word": "and",
@@ -37,7 +41,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "mists",
@@ -45,7 +50,8 @@
     "translit": "(homichlai)",
     "parse": "Noun - Nominative Feminine Plural",
     "str": "Strong's 887:  ",
-    "str2": "A mist, dimness, darkening. Of uncertain derivation; dimness of sight, i.e. a cataract."
+    "str2": "A mist, dimness, darkening. Of uncertain derivation; dimness of sight, i.e. a cataract.",
+    "num": 887
   },
   {
     "word": "driven",
@@ -53,7 +59,8 @@
     "translit": "(elaunomenai)",
     "parse": "Verb - Present Participle Middle or Passive - Nominative Feminine Plural",
     "str": "Strong's 1643:  ",
-    "str2": "(a) trans: I drive (on), propel, (b) intrans: I row. A prolonged form of a primary verb of uncertain affinity; to push."
+    "str2": "(a) trans: I drive (on), propel, (b) intrans: I row. A prolonged form of a primary verb of uncertain affinity; to push.",
+    "num": 1643
   },
   {
     "word": "by",
@@ -61,7 +68,8 @@
     "translit": "(hypo)",
     "parse": "Preposition",
     "str": "Strong's 5259:  ",
-    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when)."
+    "str2": "A primary preposition; under, i.e. of place, or with verbs; of place (underneath) or where (below) or time (when).",
+    "num": 5259
   },
   {
     "word": "a storm.",
@@ -69,7 +77,8 @@
     "translit": "(lailapos)",
     "parse": "Noun - Genitive Feminine Singular",
     "str": "Strong's 2978:  ",
-    "str2": "A sudden storm, squall, whirlwind, hurricane. Of uncertain derivation; a whirlwind."
+    "str2": "A sudden storm, squall, whirlwind, hurricane. Of uncertain derivation; a whirlwind.",
+    "num": 2978
   },
   {
     "word": "Blackest",
@@ -77,7 +86,8 @@
     "translit": "(zophos)",
     "parse": "Noun - Nominative Masculine Singular",
     "str": "Strong's 2217:  ",
-    "str2": "Darkness, murkiness, gloom. Akin to the base of nephos; gloom."
+    "str2": "Darkness, murkiness, gloom. Akin to the base of nephos; gloom.",
+    "num": 2217
   },
   {
     "word": "darkness",
@@ -85,7 +95,8 @@
     "translit": "(skotous)",
     "parse": "Noun - Genitive Neuter Singular",
     "str": "Strong's 4655:  ",
-    "str2": "Darkness, either physical or moral. From the base of skia; shadiness, i.e. Obscurity."
+    "str2": "Darkness, either physical or moral. From the base of skia; shadiness, i.e. Obscurity.",
+    "num": 4655
   },
   {
     "word": "is reserved",
@@ -93,7 +104,8 @@
     "translit": "(tetērētai)",
     "parse": "Verb - Perfect Indicative Middle or Passive - 3rd Person Singular",
     "str": "Strong's 5083:  ",
-    "str2": "From teros; to guard, i.e. To note; by implication, to detain; by extension, to withhold; by extension, to withhold."
+    "str2": "From teros; to guard, i.e. To note; by implication, to detain; by extension, to withhold; by extension, to withhold.",
+    "num": 5083
   },
   {
     "word": "for them.",
@@ -101,6 +113,7 @@
     "translit": "(hois)",
     "parse": "Personal / Relative Pronoun - Dative Masculine Plural",
     "str": "Strong's 3739:  ",
-    "str2": "Who, which, what, that. "
+    "str2": "Who, which, what, that. ",
+    "num": 3739
   }
 ]

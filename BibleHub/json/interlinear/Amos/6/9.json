@@ -5,7 +5,8 @@
     "translit": "(’im-)",
     "parse": "Conjunction",
     "str": "Strong's 518:  ",
-    "str2": "Lo!, whether?, if, although, Oh that!, when, not"
+    "str2": "Lo!, whether?, if, although, Oh that!, when, not",
+    "num": 518
   },
   {
     "word": "there are",
@@ -13,7 +14,8 @@
     "translit": "(wə·hā·yāh)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person masculine singular",
     "str": "Strong's 1961:  ",
-    "str2": "To fall out, come to pass, become, be"
+    "str2": "To fall out, come to pass, become, be",
+    "num": 1961
   },
   {
     "word": "ten",
@@ -21,7 +23,8 @@
     "translit": "(‘ă·śā·rāh)",
     "parse": "Number - masculine singular",
     "str": "Strong's 6235:  ",
-    "str2": "Ten"
+    "str2": "Ten",
+    "num": 6235
   },
   {
     "word": "men",
@@ -29,7 +32,8 @@
     "translit": "(’ă·nā·šîm)",
     "parse": "Noun - masculine plural",
     "str": "Strong's 376:  ",
-    "str2": "A man as an individual, a male person"
+    "str2": "A man as an individual, a male person",
+    "num": 376
   },
   {
     "word": "left",
@@ -37,7 +41,8 @@
     "translit": "(yiw·wā·ṯə·rū)",
     "parse": "Verb - Nifal - Imperfect - third person masculine plural",
     "str": "Strong's 3498:  ",
-    "str2": "To jut over, exceed, to excel, to remain, be left, to leave, cause to abound, preserve"
+    "str2": "To jut over, exceed, to excel, to remain, be left, to leave, cause to abound, preserve",
+    "num": 3498
   },
   {
     "word": "in one",
@@ -45,7 +50,8 @@
     "translit": "(’e·ḥāḏ)",
     "parse": "Number - masculine singular",
     "str": "Strong's 259:  ",
-    "str2": "United, one, first"
+    "str2": "United, one, first",
+    "num": 259
   },
   {
     "word": "house,",
@@ -53,7 +59,8 @@
     "translit": "(bə·ḇa·yiṯ)",
     "parse": "Preposition-b | Noun - masculine singular",
     "str": "Strong's 1004:  ",
-    "str2": "A house"
+    "str2": "A house",
+    "num": 1004
   },
   {
     "word": "they too will die.",
@@ -61,6 +68,7 @@
     "translit": "(wā·mê·ṯū)",
     "parse": "Conjunctive waw | Verb - Qal - Conjunctive perfect - third person common plural",
     "str": "Strong's 4191:  ",
-    "str2": "To die, to kill"
+    "str2": "To die, to kill",
+    "num": 4191
   }
 ]

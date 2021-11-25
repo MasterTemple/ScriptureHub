@@ -5,7 +5,8 @@
     "translit": "(Idete)",
     "parse": "Verb - Aorist Imperative Active - 2nd Person Plural",
     "str": "Strong's 3708:  ",
-    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear."
+    "str2": "Properly, to stare at, i.e. to discern clearly; by extension, to attend to; by Hebraism, to experience; passively, to appear.",
+    "num": 3708
   },
   {
     "word": "[what] large",
@@ -13,7 +14,8 @@
     "translit": "(pēlikois)",
     "parse": "Adjective - Dative Neuter Plural",
     "str": "Strong's 4080:  ",
-    "str2": "How large, how great. A quantitative form of the base of pou; how much, i.e. In size or dignity."
+    "str2": "How large, how great. A quantitative form of the base of pou; how much, i.e. In size or dignity.",
+    "num": 4080
   },
   {
     "word": "letters",
@@ -21,7 +23,8 @@
     "translit": "(grammasin)",
     "parse": "Noun - Dative Neuter Plural",
     "str": "Strong's 1121:  ",
-    "str2": "From grapho; a writing, i.e. A letter, note, epistle, book, etc. plural learning."
+    "str2": "From grapho; a writing, i.e. A letter, note, epistle, book, etc. plural learning.",
+    "num": 1121
   },
   {
     "word": "I am using to write",
@@ -29,7 +32,8 @@
     "translit": "(egrapsa)",
     "parse": "Verb - Aorist Indicative Active - 1st Person Singular",
     "str": "Strong's 1125:  ",
-    "str2": "A primary verb; to 'grave', especially to write; figuratively, to describe."
+    "str2": "A primary verb; to 'grave', especially to write; figuratively, to describe.",
+    "num": 1125
   },
   {
     "word": "to you",
@@ -37,7 +41,8 @@
     "translit": "(hymin)",
     "parse": "Personal / Possessive Pronoun - Dative 2nd Person Plural",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "with",
@@ -45,7 +50,8 @@
     "translit": "(tē)",
     "parse": "Article - Dative Feminine Singular",
     "str": "Strong's 3588:  ",
-    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the."
+    "str2": "The, the definite article. Including the feminine he, and the neuter to in all their inflections; the definite article; the.",
+    "num": 3588
   },
   {
     "word": "my own",
@@ -53,7 +59,8 @@
     "translit": "(emē)",
     "parse": "Personal / Possessive Pronoun - Dative Feminine 1st Person Singular",
     "str": "Strong's 1699:  ",
-    "str2": "My, mine. From the oblique cases of ego; my."
+    "str2": "My, mine. From the oblique cases of ego; my.",
+    "num": 1699
   },
   {
     "word": "hand!",
@@ -61,6 +68,7 @@
     "translit": "(cheiri)",
     "parse": "Noun - Dative Feminine Singular",
     "str": "Strong's 5495:  ",
-    "str2": "A hand. "
+    "str2": "A hand. ",
+    "num": 5495
   }
 ]

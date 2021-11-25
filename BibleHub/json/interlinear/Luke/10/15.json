@@ -5,7 +5,8 @@
     "translit": "(kai)",
     "parse": "Conjunction",
     "str": "Strong's 2532:  ",
-    "str2": "And, even, also, namely. "
+    "str2": "And, even, also, namely. ",
+    "num": 2532
   },
   {
     "word": "you,",
@@ -13,7 +14,8 @@
     "translit": "(sy)",
     "parse": "Personal / Possessive Pronoun - Nominative 2nd Person Singular",
     "str": "Strong's 4771:  ",
-    "str2": "You. The person pronoun of the second person singular; thou."
+    "str2": "You. The person pronoun of the second person singular; thou.",
+    "num": 4771
   },
   {
     "word": "Capernaum,",
@@ -21,7 +23,8 @@
     "translit": "(Kapharnaoum)",
     "parse": "Noun - Vocative Feminine Singular",
     "str": "Strong's 2584:  ",
-    "str2": "Capernaum, a town of Galilee. Of Hebrew origin; Capernaum, a place in Palestine."
+    "str2": "Capernaum, a town of Galilee. Of Hebrew origin; Capernaum, a place in Palestine.",
+    "num": 2584
   },
   {
     "word": "will you be lifted up",
@@ -29,7 +32,8 @@
     "translit": "(hypsōthēsē)",
     "parse": "Verb - Future Indicative Passive - 2nd Person Singular",
     "str": "Strong's 5312:  ",
-    "str2": "(a) I raise on high, lift up, (b) I exalt, set on high. From hupsos; to elevate."
+    "str2": "(a) I raise on high, lift up, (b) I exalt, set on high. From hupsos; to elevate.",
+    "num": 5312
   },
   {
     "word": "to",
@@ -37,7 +41,8 @@
     "translit": "(heōs)",
     "parse": "Preposition",
     "str": "Strong's 2193:  ",
-    "str2": "A conjunction, preposition and adverb of continuance, until."
+    "str2": "A conjunction, preposition and adverb of continuance, until.",
+    "num": 2193
   },
   {
     "word": "heaven?",
@@ -45,7 +50,8 @@
     "translit": "(ouranou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 3772:  ",
-    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel."
+    "str2": "Perhaps from the same as oros; the sky; by extension, heaven; by implication, happiness, power, eternity; specially, the Gospel.",
+    "num": 3772
   },
   {
     "word": "No,",
@@ -53,7 +59,8 @@
     "translit": "(mē)",
     "parse": "Adverb",
     "str": "Strong's 3361:  ",
-    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether."
+    "str2": "Not, lest. A primary particle of qualified negation; not, lest; also (whereas ou expects an affirmative one) whether.",
+    "num": 3361
   },
   {
     "word": "you will go down",
@@ -61,7 +68,8 @@
     "translit": "(katabēsē)",
     "parse": "Verb - Future Indicative Middle - 2nd Person Singular",
     "str": "Strong's 2597:  ",
-    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend."
+    "str2": "To go down, come down, either from the sky or from higher land, descend. From kata and the base of basis; to descend.",
+    "num": 2597
   },
   {
     "word": "to",
@@ -69,7 +77,8 @@
     "translit": "(heōs)",
     "parse": "Preposition",
     "str": "Strong's 2193:  ",
-    "str2": "A conjunction, preposition and adverb of continuance, until."
+    "str2": "A conjunction, preposition and adverb of continuance, until.",
+    "num": 2193
   },
   {
     "word": "Hades!",
@@ -77,6 +86,7 @@
     "translit": "(hadou)",
     "parse": "Noun - Genitive Masculine Singular",
     "str": "Strong's 86:  ",
-    "str2": "Hades, the unseen world. Properly, unseen, i.e. 'Hades' or the place of departed souls."
+    "str2": "Hades, the unseen world. Properly, unseen, i.e. 'Hades' or the place of departed souls.",
+    "num": 86
   }
 ]
