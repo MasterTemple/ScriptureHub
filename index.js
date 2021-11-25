@@ -4,7 +4,7 @@ let getLocalVerseData = require('./getLocalVerseData')
 let getStrongsData = require('./getStrongsData')
 let getStrongsJSON = require('./getStrongsJSON')
 let references = require('./references.json')
-
+let getCommentaryData = require('./getCommentaryData')
 // classes are not necessary, but I thought I might use it cause I never do :)
 /*
 let referenceList = require('./referenceList.json')
@@ -85,8 +85,6 @@ async function getDataFromWebsiteThreaded(references) {
     }
   })
 }
-
-
 async function getAllStrongsDataFromWebsite() {
   for(let i=1;i<=8674;i++){
     if(fs.existsSync(`./BibleHub/strongs/html/hebrew/${i}.htm`)) continue;
@@ -99,7 +97,6 @@ async function getAllStrongsDataFromWebsite() {
     await getStrongsData("greek", i)
   }
 }
-
 async function createStrongsJSON() {
 for(let i=1;i<=8674;i++){
   if(!fs.existsSync(`./BibleHub/strongs/html/hebrew/${i}.htm`)) continue;
@@ -112,12 +109,60 @@ for(let i=1;i<=8674;i++){
     getStrongsJSON("greek", i)
   }
 }
+async function createCommentariesFromWebsite(references){
+    for(const {book, chapter, verse: verseCount} of references){
 
+      fs.mkdir(`./BibleHub/commentaries/html/${book}/${chapter}`, { recursive: true }, ()=>{})
+      fs.mkdir(`./BibleHub/json/commentaries/${book}/${chapter}`, { recursive: true }, ()=>{})
+
+      for(let verse = 1; verse <= verseCount; verse++){
+
+        // if(fs.existsSync(`./BibleHub/json/commentaries/${book}/${chapter}/${verse}.json`)) continue;
+        if(fs.existsSync(`./BibleHub/commentaries/html/${book}/${chapter}/${verse}.htm`)) continue;
+
+        console.log(`Downloading ${book} ${chapter}:${verse} Commentary`);
+        await getCommentaryData(book, chapter, verse)
+        // let data = await getCommentaryData(book, chapter, verse)
+
+        // fs.writeFileSync(`./BibleHub/json/commentaries/${book}/${chapter}/${verse}.json`, JSON.stringify(data, null, 2))
+
+      }
+    }
+  }
+async function parseCommentary() {
+  /*
+  classes with data to get from children
+    comtype: overall commentary type, ?
+    vheading2: commentary name, ? (more fields are included like links)
+    cmt_sub_title: subtitle,
+    cmt_word: golden(commentary) word,
+    ital: italics
+    accented: bold,
+    note_emph: (1)
+  theres also hrefs in <a>
+  */
+  let data = {}
+  let currentCommentary = ""
+  let childNodes = [...document.querySelector(".padleft").childNodes]
+  childNodes.forEach((child) => {
+    if(child.className === "vheading2"){
+      currentCommentary = child.textContent
+      data[currentCommentary] = []
+    }else{
+      try{
+        data[currentCommentary].push(child.textContent)
+      }catch{}
+    }
+  })
+  console.log(data)
+
+}
 // getDataFromWebsite(references)
 
 // getAllStrongsDataFromWebsite()
 // fs = fs.promises
-setTimeout(() => {
-  getData(references)
-}, 5000)
+// setTimeout(() => {
+//   getData(references)
+// }, 5000)
 // createStrongsJSON()
+createCommentariesFromWebsite(references)
