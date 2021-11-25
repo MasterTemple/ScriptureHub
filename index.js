@@ -5,6 +5,7 @@ let getStrongsData = require('./getStrongsData')
 let getStrongsJSON = require('./getStrongsJSON')
 let references = require('./references.json')
 let getCommentaryData = require('./getCommentaryData')
+let parseCommentary = require('./parseCommentary')
 // classes are not necessary, but I thought I might use it cause I never do :)
 /*
 let referenceList = require('./referenceList.json')
@@ -129,7 +130,7 @@ async function createCommentariesFromWebsite(references){
       }
     }
   }
-async function parseCommentary() {
+async function parseAllCommentaries(references) {
   /*
   classes with data to get from children
     comtype: overall commentary type, ?
@@ -141,20 +142,13 @@ async function parseCommentary() {
     note_emph: (1)
   theres also hrefs in <a>
   */
-  let data = {}
-  let currentCommentary = ""
-  let childNodes = [...document.querySelector(".padleft").childNodes]
-  childNodes.forEach((child) => {
-    if(child.className === "vheading2"){
-      currentCommentary = child.textContent
-      data[currentCommentary] = []
-    }else{
-      try{
-        data[currentCommentary].push(child.textContent)
-      }catch{}
+  for(const {book, chapter, verse: verseCount} of references){
+    for(let verse = 1; verse <= verseCount; verse++){
+      console.log(`Parsing ${book} ${chapter}:${verse} Commentary`);
+      parseCommentary(book, chapter, verse)
+
     }
-  })
-  console.log(data)
+  }
 
 }
 // getDataFromWebsite(references)
@@ -165,4 +159,6 @@ async function parseCommentary() {
 //   getData(references)
 // }, 5000)
 // createStrongsJSON()
-createCommentariesFromWebsite(references)
+// createCommentariesFromWebsite(references)
+references = [{book: "John", chapter: 1, verse: 1}]
+parseAllCommentaries(references)
