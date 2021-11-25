@@ -1,6 +1,8 @@
-const fs = require('fs')
+let fs = require('fs')
 let getVerseData = require('./getVerseData')
+let getLocalVerseData = require('./getLocalVerseData')
 let getStrongsData = require('./getStrongsData')
+let getStrongsJSON = require('./getStrongsJSON')
 let references = require('./references.json')
 
 // classes are not necessary, but I thought I might use it cause I never do :)
@@ -45,7 +47,25 @@ async function getDataFromWebsite(references) {
     }
   }
 }
+async function getData(references) {
+  for(const {book, chapter, verse: verseCount} of references){
 
+    // fs.mkdir(`./BibleHub/json/${book}/${chapter}`, { recursive: true }, ()=>{})
+
+    for(let verse = 1; verse <= verseCount; verse++){
+
+      // if(fs.existsSync(`./BibleHub/json/${book}/${chapter}/${verse}.json`)) continue;
+
+      console.log(`Updating: ${book} ${chapter}:${verse}`);
+
+      let data = await getLocalVerseData(book, chapter, verse)
+
+      fs.writeFile(`./BibleHub/json/interlinear/${book}/${chapter}/${verse}.json`, JSON.stringify(data, null, 2))
+      // fs.writeFileSync(`./BibleHub/json/interlinear/${book}/${chapter}/${verse}.json`, JSON.stringify(data, null, 2))
+
+    }
+  }
+}
 async function getDataFromWebsiteThreaded(references) {
     references.forEach(({book, chapter, verse: verseCount}) =>{
 
@@ -67,7 +87,7 @@ async function getDataFromWebsiteThreaded(references) {
 }
 
 
-async function getAllStrongsData() {
+async function getAllStrongsDataFromWebsite() {
   for(let i=1;i<=8674;i++){
     if(fs.existsSync(`./BibleHub/strongs/html/hebrew/${i}.htm`)) continue;
     console.log(`Downloading: Strongs hebrew #${i}`);
@@ -80,6 +100,23 @@ async function getAllStrongsData() {
   }
 }
 
+async function createStrongsJSON() {
+for(let i=1;i<=8674;i++){
+  if(!fs.existsSync(`./BibleHub/strongs/html/hebrew/${i}.htm`)) continue;
+  if(fs.existsSync(`./BibleHub/json/strongs/hebrew/${i}.json`)) continue;
+  getStrongsJSON("hebrew", i)
+}
+  for(let i=1;i<=5624;i++){
+    if(!fs.existsSync(`./BibleHub/strongs/html/greek/${i}.htm`)) continue;
+    if(fs.existsSync(`./BibleHub/json/strongs/greek/${i}.json`)) continue;
+    getStrongsJSON("greek", i)
+  }
+}
+
 // getDataFromWebsite(references)
 
-getAllStrongsData()
+// getAllStrongsDataFromWebsite()
+fs = fs.promises
+
+getData(references)
+// createStrongsJSON()

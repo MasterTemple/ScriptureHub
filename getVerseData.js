@@ -23,6 +23,7 @@ module.exports = async(book, chapter, verse) => {
       const parse = [...document.querySelectorAll(".parse")].map(e => e.textContent)
       const str = [...document.querySelectorAll(".str")].map(e => e.textContent)
       const str2 = [...document.querySelectorAll(".str2")].map(e => e.textContent)
+      const num = [...document.querySelectorAll(".str")].map(e => e.textContent.match(/\d+/g)[0])
 
       for(let i=0; i<word.length;i++){
         data.push({
@@ -33,6 +34,7 @@ module.exports = async(book, chapter, verse) => {
           parse: parse[i],
           str: str[i],
           str2: str2[i],
+          num: num[i]
         })
       }
 
