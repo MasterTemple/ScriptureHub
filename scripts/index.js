@@ -24,6 +24,11 @@ async function get(url){
 
 async function searchVerse(verse) {
   // let verse = document.getElementById("search").value
+  apiData = {
+    interlinear: [],
+    commentary: [],
+    context: []
+  }
   console.log(verse);
   document.title = `ScriptureHub - ${verse}`
   // let {book, chapter, start_verse, end_verse} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):(?<start_verse>\d{1,3})-?(?<end_verse>\d{1,3})?/gim
@@ -60,15 +65,23 @@ async function searchVerse(verse) {
 
 async function updateRightContent(verse) {
   // let verse = document.getElementById("search").value
+  // document.querySelector("main > .first").style.width = "50%";
+  // document.querySelector("main > .second").style.width = "50%";
   verse[0] = verse[0].toUpperCase()
   // document.getElementById("second").innerHTML = ""
   if(rightContent === "interlinear"){
+    document.querySelector("main > .first").style.width = "50%";
+    document.querySelector("main > .second").style.width = "50%";
     updateInterLinearContent(verse)
   }
   else if(rightContent === "commentary"){
+    document.querySelector("main > .first").style.width = "40%";
+    document.querySelector("main > .second").style.width = "60%";
     updateCommentaryContent(verse)
   }
   else if(rightContent === "context"){
+    document.querySelector("main > .first").style.width = "50%";
+    document.querySelector("main > .second").style.width = "50%";
     updateContextContent(verse)
   }
 }
@@ -78,9 +91,11 @@ async function updateInterLinearContent(verse) {
     )]?.[0]?.groups
 
   // let interlinear = await get(`./../BibleHub/json/interlinear/${book.to}/${chapter}/${start_verse}.json`)
-  let json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
-  apiData['interlinear'] = json
-
+  let json = apiData.interlinear
+  if(json.length === 0)  {
+    json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
+    apiData['interlinear'] = json
+  }
   // console.log(json);
   let int = document.getElementById(rightContent)
   // console.log(int);
@@ -107,9 +122,11 @@ async function updateCommentaryContent(verse) {
     )]?.[0]?.groups
 
   // let interlinear = await get(`./../BibleHub/json/interlinear/${book.to}/${chapter}/${start_verse}.json`)
-  let json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
-  apiData['commentary'] = json
-
+  let json = apiData.commentary
+  if(json.length === 0)  {
+    json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
+    apiData['commentary'] = json
+  }
   // console.log(json);
   let int = document.getElementById(rightContent)
   // console.log(int);
