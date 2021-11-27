@@ -169,7 +169,7 @@ async function updateContextContent(verse) {
   // console.log(json);
   let int = document.getElementById(rightContent)
   // console.log(int);
-  int.innerHTML = `<h2>${book} ${chapter}</h2>`
+  int.innerHTML = `<h2 id="book-title">${book} ${chapter}</h2>`
   json.verses.forEach( ({verse, text}) => {
 
     int.innerHTML += `
