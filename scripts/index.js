@@ -64,6 +64,9 @@ async function searchVerse(verse) {
 }
 
 async function updateRightContent(verse) {
+
+  // passing verse parameter is unnecessary
+
   // let verse = document.getElementById("search").value
   // document.querySelector("main > .first").style.width = "50%";
   // document.querySelector("main > .second").style.width = "50%";
@@ -80,8 +83,8 @@ async function updateRightContent(verse) {
     updateCommentaryContent(verse)
   }
   else if(rightContent === "context"){
-    document.querySelector("main > .first").style.width = "50%";
-    document.querySelector("main > .second").style.width = "50%";
+    document.querySelector("main > .first").style.width = "30%";
+    document.querySelector("main > .second").style.width = "70%";
     updateContextContent(verse)
   }
 }
@@ -140,11 +143,11 @@ async function updateCommentaryContent(verse) {
     // }
     int.innerHTML += `
     <article class="commentary-card">
-    <div class="commentary-header cmt-${c}">
+    <div class="commentary-header cmt-${c}" onclick="commentaryDropDown(${c})">
     <div class="commentary-content">
     <h3>${name}</h3>
     </div>
-    <svg class="fill-svg arrow" onclick="commentaryDropDown(${c})" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
+    <svg class="fill-svg arrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
     </div>
     <div class="commentary-text" id="commentary-text-${c}"></div>
     </article>
@@ -157,27 +160,27 @@ async function updateContextContent(verse) {
 
   // let interlinear = await get(`./../BibleHub/json/interlinear/${book.to}/${chapter}/${start_verse}.json`)
   // let json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
+  let json = apiData.context
+  if(json.length === 0)  {
+    json = await get(`https://bible-api.com/${book}%20${chapter}`)
+    apiData['context'] = json
+  }
 
   // console.log(json);
   let int = document.getElementById(rightContent)
   // console.log(int);
-  int.innerHTML = ""
-  // json.forEach( ({word, grk, heb, translit, str, str2, parse, num}) => {
-  //   let strongs = ""
-  //   if(num){
-  //     strongs = ` [${num}]`
-  //   }
-  //   int.innerHTML += `
-  //   <article class="interlinear-card">
-  //   <div class="interlinear-content">
-  //   <h3>${word} - <span class="accent">${grk || heb} ${translit} </span></h3>
-  //   <h4 class="parse"><span class="accent">${parse}</span>${strongs}</h4>
-  //   <p class="definition">${str2}</p>
-  //   </div>
-  //   <svg class="fill-svg arrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
-  //   </article>
-  //   `
-  // })
+  int.innerHTML = `<h2>${book} ${chapter}</h2>`
+  json.verses.forEach( ({verse, text}) => {
+
+    int.innerHTML += `
+    <article class="context-card">
+    <div class="context-content">
+    <p class="context-verse" id="verse${verse}"><span class="accent verse-num">${verse} </span><span class="verse-text">${text}</span></p>
+    </div>
+    </article>
+    `
+    //    <svg class="fill-svg arrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
+  })
 }
 function commentaryDropDown(c) {
   // console.log(document.querySelector(`.cmt-${c} > svg`).style.transform);

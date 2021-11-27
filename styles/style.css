@@ -11,6 +11,8 @@
   --horizontal-nav-width: 4rem; */
   --vertical-nav-width: 8vw;
   --horizontal-nav-width: 8vh;
+  /* transition: var(--transition-speed); */
+
 }
 html {
   margin: 0;
@@ -234,10 +236,14 @@ select:-webkit-autofill:focus {
   fill: var(--bg-secondary);
   stroke: var(--bg-secondary);
 }
-.arrow:hover > path {
+.commentary-header:hover > .arrow > path, .arrow:hover > path {
   fill: var(--accent-color);
   stroke: var(--accent-color);
 }
 .selected {
   filter:grayscale(0%) opacity(1) !important;
+}
+
+.verse-num {
+  font-weight: bold;
 }
