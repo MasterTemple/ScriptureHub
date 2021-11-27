@@ -256,3 +256,6 @@ select:-webkit-autofill:focus {
   margin: none !important;
   /* margin-right: 1rem; */
 }
+.verse-link {
+  color: var(--accent-color)
+}

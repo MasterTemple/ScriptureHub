@@ -6,6 +6,7 @@ var apiData = {
   context: []
 }
 async function get(url){
+
   return new Promise( (resolve, reject) => {
       fetch(url)
       .then(response => {
@@ -23,6 +24,8 @@ async function get(url){
 }
 
 async function searchVerse(verse) {
+  // verse = verse.replace(/psalm(?=[^s])/gim, "Psalms")
+  // verse = verse.replace(/Songs? of Songs/gim, "Song of Songs")
   // let verse = document.getElementById("search").value
   apiData = {
     interlinear: [],
@@ -189,11 +192,19 @@ function commentaryDropDown(c) {
   if(document.querySelector(`.cmt-${c} > svg`).style.transform === "rotate(90deg)"){
     // document.querySelector(`.cmt-${c} > svg`).style.transform === "rotate(0deg)"
     document.querySelector(`.cmt-${c} > svg`).style.transform = "rotate(0deg)"
-    commentary.textContent = ""
+    // commentary.textContent = ""
+    commentary.innerHTML = ""
 
   }else{
     document.querySelector(`.cmt-${c} > svg`).style.transform = "rotate(90deg)"
-    commentary.textContent = apiData.commentary[c].text.join("")
+    // commentary.textContent = apiData.commentary[c].text.join("")
+    apiData.commentary[c].elements.forEach(e => {
+      commentary.innerHTML +=
+      `
+      <${e.element} class="${e.class}">${e.textContent}</${e.element}>
+      `
+
+    })
   }
   //  {
   //   transform: rotate(90deg);

@@ -1,10 +1,20 @@
 const fs = require("fs")
 const axios = require("axios")
 let jsdom = require('jsdom')
+class Element {
+  element;
+  class;
+  text;
+  constructor(e, c, t){
+    this.element = e
+    this.class = c
+    this.text = t
+  }
+}
 class Commentary {
   type;
   name;
-  text = [];
+  elements = [];
   constructor(type, name){
     this.type = type
     this.name = name
@@ -39,6 +49,8 @@ module.exports = async(book, chapter, verse) => {
       let childNodes = [...document.querySelector(`.pad${side}`).childNodes]
       // let currentCommentary = ""
       childNodes.forEach((child, c) => {
+        console.log(`${c}. ${child.localName}`);
+
         if(child.className === "vheading2"){
           if(obj) data.push(obj)
           obj = new Commentary(document.querySelector(`#${side}box > div > div.comtype`).textContent, child.textContent)
@@ -46,13 +58,22 @@ module.exports = async(book, chapter, verse) => {
           // data[currentCommentary] = []
 
         }else{
+          // try{
+          //     console.log(`${c}. ${child.localName}`);
+          //   // console.log(child.localName);
+          //   if(child.localName === "p" || child.localName === "br"){
+          //     console.log(`${c}. ${child.localName}`);
+          //     obj.text.push("\n")
+          //   }
+          //   obj.text.push(child.textContent)
+          // }catch{}
           try{
-            // console.log(child.localName);
-            if(child.localName === "p" || child.localName === "br"){
-              console.log(`${c}. ${child.localName}`);
-              obj.text.push("\n")
+            let el = new Element(child.localName, child.classList.value, child.textContent)
+            if(child.localName === "a") {
+              el.element = "span"
+              el.class = "verse-link"
             }
-            obj.text.push(child.textContent)
+            obj.elements.push(el)
           }catch{}
         }
 
