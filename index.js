@@ -144,6 +144,7 @@ async function parseAllCommentaries(references) {
   */
   for(const {book, chapter, verse: verseCount} of references){
     for(let verse = 1; verse <= verseCount; verse++){
+      // if(fs.existsSync(`./BibleHub/json/commentaries/${book}/${chapter}/${verse}.json`)) continue;
       console.log(`Parsing ${book} ${chapter}:${verse} Commentary`);
       parseCommentary(book, chapter, verse)
 

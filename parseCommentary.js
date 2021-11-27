@@ -92,7 +92,7 @@ module.exports = async(book, chapter, verse) => {
             }
             obj.elements.push(el)
           }catch(e){
-            console.log(`${c}. ${child.localName}`);
+            // console.log(`${c}. ${child.localName}`);
 
             // console.log(e)
           }
@@ -102,7 +102,7 @@ module.exports = async(book, chapter, verse) => {
       data.push(obj)
 
     })
-
+    data = data.filter(d=>d.name!=="Links")
     fs.writeFileSync(`./BibleHub/json/commentaries/${book}/${chapter}/${verse}.json`, JSON.stringify(data, null, 2))
 
     // console.log(data)
