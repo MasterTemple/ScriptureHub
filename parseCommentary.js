@@ -5,6 +5,7 @@ class Element {
   element;
   class;
   text;
+  children = [];
   constructor(e, c, t){
     this.element = e
     this.class = c
@@ -68,7 +69,23 @@ module.exports = async(book, chapter, verse) => {
           //   obj.text.push(child.textContent)
           // }catch{}
           try{
-            let el = new Element(child.localName, child.classList?.value || "", child.textContent)
+            /*
+            if([...document.querySelector("#leftbox > div").childNodes][SOME_INDEX].childElementCount){
+              [...[...document.querySelector("#leftbox > div").childNodes][SOME_INDEX].childNodes].forEach()
+            }
+            */
+            let el = new Element(child.localName || "span", child.classList?.value || "", child.textContent)
+            if(child.childElementCount){
+              let children = [...child.childNodes]
+              children.forEach((eachChild) => {
+                let elChild = new Element(eachChild.localName || "span", eachChild.classList?.value || "", eachChild.textContent)
+                if(eachChild.localName === "a") {
+                  elChild.element = "span"
+                  elChild.class = "verse-link"
+                }
+                el.children.push(elChild)
+              })
+            }
             if(child.localName === "a") {
               el.element = "span"
               el.class = "verse-link"
@@ -77,7 +94,7 @@ module.exports = async(book, chapter, verse) => {
           }catch(e){
             console.log(`${c}. ${child.localName}`);
 
-            console.log(e)
+            // console.log(e)
           }
         }
 

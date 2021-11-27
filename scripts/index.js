@@ -199,9 +199,25 @@ function commentaryDropDown(c) {
     document.querySelector(`.cmt-${c} > svg`).style.transform = "rotate(90deg)"
     // commentary.textContent = apiData.commentary[c].text.join("")
     apiData.commentary[c].elements.forEach(e => {
+      let txt = ""
+      if(e.children.length > 0){
+        e.children.forEach((el) => {
+          let childElementClass = ""
+          if(el.class){
+            childElementClass = `class="${el.class}"`
+          }
+          txt += `<${el.element} ${childElementClass}">${el.text}</${el.element}>`
+        })
+      }else{
+        txt = e.text
+      }
+      let elementClass = ""
+      if(e.class){
+        elementClass = `class="${e.class}"`
+      }
       commentary.innerHTML +=
       `
-      <${e.element} class="${e.class}">${e.text}</${e.element}>
+      <${e.element} ${elementClass}>${txt}</${e.element}>
       `
 
     })

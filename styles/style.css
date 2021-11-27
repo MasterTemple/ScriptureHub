@@ -7,6 +7,7 @@
   --bg-secondary: #141418;
   --transition-speed: 400ms;
   --accent-color: rgb(206, 2, 19);
+  --gold: #d4af37;
   /* --vertical-nav-width: 8rem;
   --horizontal-nav-width: 4rem; */
   --vertical-nav-width: 6rem;
@@ -256,6 +257,15 @@ select:-webkit-autofill:focus {
   margin: none !important;
   /* margin-right: 1rem; */
 }
-.verse-link {
+.verse-link, .ital {
   color: var(--accent-color)
+}
+.ital {
+  font-style: italic;
+}
+.bld {
+  font-weight: bold;
+}
+.greekheb {
+  color: var(--gold)
 }
