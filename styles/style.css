@@ -9,7 +9,7 @@
   --accent-color: rgb(206, 2, 19);
   /* --vertical-nav-width: 8rem;
   --horizontal-nav-width: 4rem; */
-  --vertical-nav-width: 8vw;
+  --vertical-nav-width: 6rem;
   --horizontal-nav-width: 8vh;
   /* transition: var(--transition-speed); */
 
@@ -120,7 +120,7 @@ ul.horizontal {
   background: var(--accent-color);
 }
 
-.horizontal > .nav-item, .vertical > .nav-item > a {
+.horizontal > .nav-item, .vertical > .nav-item > a, .nav-item > span {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -249,4 +249,10 @@ select:-webkit-autofill:focus {
 }
 #book-title {
   text-align: center;
+}
+
+#color-picker {
+  width: 100%;
+  margin: none !important;
+  /* margin-right: 1rem; */
 }

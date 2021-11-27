@@ -232,3 +232,10 @@ document.addEventListener("keyup", function(event) {
       searchVerse(document.getElementById("search").value)
   }
 });
+
+document.addEventListener("input", (input) => {
+  if(input.target.id === "color-picker"){
+    document.documentElement.style.setProperty('--accent-color', document.getElementById("color-picker").value);
+  }
+
+})
