@@ -49,7 +49,7 @@ module.exports = async(book, chapter, verse) => {
       let childNodes = [...document.querySelector(`.pad${side}`).childNodes]
       // let currentCommentary = ""
       childNodes.forEach((child, c) => {
-        console.log(`${c}. ${child.localName}`);
+        // console.log(`${c}. ${child.localName}`);
 
         if(child.className === "vheading2"){
           if(obj) data.push(obj)
@@ -68,13 +68,17 @@ module.exports = async(book, chapter, verse) => {
           //   obj.text.push(child.textContent)
           // }catch{}
           try{
-            let el = new Element(child.localName, child.classList.value, child.textContent)
+            let el = new Element(child.localName, child.classList?.value || "", child.textContent)
             if(child.localName === "a") {
               el.element = "span"
               el.class = "verse-link"
             }
             obj.elements.push(el)
-          }catch{}
+          }catch(e){
+            console.log(`${c}. ${child.localName}`);
+
+            console.log(e)
+          }
         }
 
       })

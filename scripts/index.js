@@ -201,7 +201,7 @@ function commentaryDropDown(c) {
     apiData.commentary[c].elements.forEach(e => {
       commentary.innerHTML +=
       `
-      <${e.element} class="${e.class}">${e.textContent}</${e.element}>
+      <${e.element} class="${e.class}">${e.text}</${e.element}>
       `
 
     })
