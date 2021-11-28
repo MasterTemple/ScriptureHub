@@ -144,9 +144,10 @@ async function parseAllCommentaries(references) {
   */
   for(const {book, chapter, verse: verseCount} of references){
     for(let verse = 1; verse <= verseCount; verse++){
-      // if(fs.existsSync(`./BibleHub/json/commentaries/${book}/${chapter}/${verse}.json`)) continue;
+      if(fs.existsSync(`./BibleHub/json/commentaries/${book}/${chapter}/${verse}.json`) || (book === "1 John" && chapter === 1 && verse === 8)) continue;
       console.log(`Parsing ${book} ${chapter}:${verse} Commentary`);
-      parseCommentary(book, chapter, verse)
+      // console.log(book === "1 John" , chapter === 1 , verse === 8);
+      await parseCommentary(book, chapter, verse)
 
     }
   }
@@ -161,5 +162,5 @@ async function parseAllCommentaries(references) {
 // }, 5000)
 // createStrongsJSON()
 // createCommentariesFromWebsite(references)
-references = [{book: "John", chapter: 1, verse: 1}]
+// references = [{book: "John", chapter: 1, verse: 1}]
 parseAllCommentaries(references)

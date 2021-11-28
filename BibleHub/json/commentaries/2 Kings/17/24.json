@@ -1,0 +1,1921 @@
+[
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Ellicott's Commentary for English Readers",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "(24-33) ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "RE-PEOPLING OF THE LAND WITH ALIENS; THEIR WORSHIP DESCRIBED.",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "(24) The king of Assyria.—Sargon (Sargîna), who actually records that in his first year (721 B.C. ) he settled a body of conquered Babylonians in the land of Hatti or Syria. In another passage he speaks of locating certain Arab tribes, including those of Thamûd and Ephah, in the land of Beth-Omri; and in a third passage of his annals he says that he “removed the rest” of these Arab tribes, “and caused them to dwell in the city of Samerina” (Samaria). This notice be. longs to Sargon’s seventh year (715 B.C. ). Kuthah and Sepharvaim were also towns in Babylonia. The former is called Kutie in the cuneiform inscriptions. It had a temple of Nergal and Laz, the ruins of which have been discovered at Tell-Ibrâhîm, north-east of Babylon. Sepharvaim, in the cuneiform Sipar and Sippar, means “the two Sipars;” in allusion, probably, to the fact that the town was divided between the two deities Samas (the sun), and Anunitum, and bore the names of Sippar sa Samas (“Sippara of the Sun”), and Sippar sa Anunitum (“Sippara of Anunit”). Rassam discovered ruins of Èparra, the great sun-temple, at Abu Habba, south-west of Bagdad, on the east bank of the Euphrates.",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "(24) ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "bld",
+            "text": "The king of Assyria.",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "—Sargon (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Sargîna",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ")",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": ",",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " who actually records that in his first year (721 B.C. ) he settled a body of conquered Babylonians in the land of ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Hatti",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " or Syria. In another passage he speaks of locating certain Arab tribes, including those of Thamûd and Ephah, in the land of Beth-Omri; and in a third passage of his annals he says that he “removed the rest” of these Arab tribes, “and caused them to dwell in the city of Samerina” (Samaria). This notice be. longs to Sargon’s seventh year (715 B.C. ). Kuthah and Sepharvaim were also towns in Babylonia. The former is called ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Kutie",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " in the cuneiform inscriptions. It had a temple of Nergal and Laz, the ruins of which have been discovered at ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Tell-Ibrâhîm,",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " north-east of Babylon. Sepharvaim, in the cuneiform ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Sipar",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " and ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Sippar,",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " means “the two Sipars;” in allusion, probably, to the fact that the town was divided between the two deities ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Samas",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " (the sun), and ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Anunitum,",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " and bore the names of ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Sippar sa Samas",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " (“Sippara of the Sun”), and ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Sippar sa Anunitum",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " (“Sippara of Anunit”). Rassam discovered ruins of ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Èparra,",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " the great sun-temple, at ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Abu Habba,",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " south-west of Bagdad, on the east bank of the Euphrates.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "Ava (Heb., (‘Avvā) may be the same as Ivah (Heb. Iwwah) (2Kings 18:34; 2Kings 19:13).",
+        "children": [
+          {
+            "element": "span",
+            "class": "bld",
+            "text": "Ava",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " (Heb., (‘",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Avvā",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ") may be the same as Ivah (Heb. ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Iwwah",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ") (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "2Kings 18:34",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "; ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "2Kings 19:13",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ").",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "Hamath.—Sargon has recorded his reduction, in 720 B.C. , of Itu-bi-’di (or Yau-bi-’di) king of Hamath, and also his settling of colonists in Hainathite territory. It is, therefore, quite likely that he had, as usual, deported the conquered Hamathites, and, in fact, settled some of them in Samaria, as this verse relates.",
+        "children": [
+          {
+            "element": "span",
+            "class": "bld",
+            "text": "Hamath.",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "—Sargon has recorded his reduction, in 720 B.C. , of ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Itu-bi-’di",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " (or ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Yau-bi-’di",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ") king of Hamath, and also his settling of colonists in Hainathite territory. It is, therefore, quite likely that he had, as usual, deported the conquered Hamathites, and, in fact, settled some of them in Samaria, as this verse relates.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "Placed them.—Heb., made them dwell, the very phrase used by Sargon himself in describing these arrangements (usesib). At a later period Esarhaddon reinforced these colonists (Ezra 4:2).",
+        "children": [
+          {
+            "element": "span",
+            "class": "bld",
+            "text": "Placed them.",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "—Heb., ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "made them dwell,",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " the very phrase used by Sargon himself in describing these arrangements (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "usesib",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ")",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": ".",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " At a later period Esarhaddon reinforced these colonists (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Ezra 4:2",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ").",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Benson Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "2 Kings 17:24",
+        "children": [
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "2 Kings 17:24",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "The king of Assyria brought men from Babylon — ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "Which then was subject to the Assyrian monarch, but a few years after revolted from him, and set up another king, as appears from both sacred and profane histories. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "And from Cuthah, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "&c. — Several places then in his dominion. It is probable that it was not Shalmaneser, but Esar-haddon, his son and successor, that did this, (",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Ezra 4:2",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ",) because it was a work of some time; and as his father had projected, and perhaps even begun it, so he executed and finished it, whence it is ascribed to him rather than to his father. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "And they possessed Samaria, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "&c. — That is, the whole country in which the ten tribes had dwelt.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Matthew Henry's Concise Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "17:24-41 The terror of the Almighty will sometimes produce a forced or feigned submission in unconverted men; like those brought from different countries to inhabit Israel. But such will form unworthy thoughts of God, will expect to please him by outward forms, and will vainly try to reconcile his service with the love of the world and the indulgence of their lusts. May that fear of the Lord, which is the beginning of wisdom, possess our hearts, and influence our conduct, that we may be ready for every change. Wordly settlements are uncertain; we know not whither we may be driven before we die, and we must soon leave the world; but the righteous hath chosen that good part which shall not be taken from him.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Barnes' Notes on the Bible",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "Sargon is probably the king of Assyria intended, not (as generally supposed) either Shalmaneser or Esar-haddon.",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "The ruins of Cutha have been discovered about 15 miles northeast of Babylon, at a place which is called Ibrahim, because it is the traditional site of a contest between Abraham and Nimrod. The name of Cuilia is found on the bricks of this place, which are mostly of the era of Nebuchadnezzar. The Assyrian inscriptions show that the special god of Cutha was Nergal (see the 2 Kings 17:30 note).",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "The ruins of Cutha have been discovered about 15 miles northeast of Babylon, at a place which is called Ibrahim, because it is the traditional site of a contest between Abraham and Nimrod. The name of Cuilia is found on the bricks of this place, which are mostly of the era of Nebuchadnezzar. The Assyrian inscriptions show that the special god of Cutha was Nergal (see the ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "2 Kings 17:30",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " note).",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "Ava or Ivah or Ahava Ezra 8:15 was on the Euphrates; perhaps the city in ancient times called Ihi or Aia, between Sippara (Sepharvaim) and Hena (Anah).",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "Ava or Ivah or Ahava ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Ezra 8:15",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " was on the Euphrates; perhaps the city in ancient times called Ihi or Aia, between Sippara (Sepharvaim) and Hena (Anah).",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "On Hamath, see 1 Kings 8:65 note.",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "On Hamath, see ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "1 Kings 8:65",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " note.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "Sepharvaim or Sippara is frequently mentioned in the Assyrian inscriptions under the name of Tsipar (2 Kings 17:31 note). The dual form of the Hebrew name is explained by the fact that the town lay on both sides of the river. Its position is marked by the modern village of Mosaib, about 20 miles from the ruins of Babylon up the course of the stream.",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "Sepharvaim or Sippara is frequently mentioned in the Assyrian inscriptions under the name of Tsipar (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "2 Kings 17:31",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " note). The dual form of the Hebrew name is explained by the fact that the town lay on both sides of the river. Its position is marked by the modern village of Mosaib, about 20 miles from the ruins of Babylon up the course of the stream.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "The towns mentioned in this verse were, excepting Hamath, conquered by Sargon in his twelfth year, 709 B.C.; and it cannot have been until this time, or a little later, that the transplantation here recorded took place. Hamath had revolted, and been conquered by Sargon in his first year, shortly after the conquest of Samaria.",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "Instead of the children of Israel - This does not mean that the whole population of Samaria was carried off (compare 2 Chronicles 34:9). The writer here, by expressly confining the new-comers to the \"cities of Samaria,\" seems to imply that the country districts were in other hands. ",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "Instead of the children of Israel - This does not mean that the whole population of Samaria was carried off (compare ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "2 Chronicles 34:9",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "). The writer here, by expressly confining the new-comers to the \"cities of Samaria,\" seems to imply that the country districts were in other hands. ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Jamieson-Fausset-Brown Bible Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "24-28. the king of Assyria brought men from Babylon, etc.—This was not Shalmaneser, but Esar-haddon (Eze 4:2). The places vacated by the captive Israelites he ordered to be occupied by several colonies of his own subjects from Babylon and other provinces.",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "from Cuthah—the Chaldee form of Cush or Susiana, now Khusistan.",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "Ava—supposed to be Ahivaz, situated on the river Karuns, which empties into the head of the Persian Gulf.",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "Hamath—on the Orontes.",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "Sepharvaim—Siphara, a city on the Euphrates above Babylon.",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "placed them in the cities of Samaria, &c.—It must not be supposed that the Israelites were universally removed to a man. A remnant was left, chiefly however of the poor and lower classes, with whom these foreign colonists mingled; so that the prevailing character of society about Samaria was heathen, not Israelite. For the Assyrian colonists became masters of the land; and, forming partial intermarriages with the remnant Jews, the inhabitants became a mongrel race, no longer a people of Ephraim (Isa 7:6). These people, imperfectly instructed in the creed of the Jews, acquired also a mongrel doctrine. Being too few to replenish the land, lions, by which the land had been infested (Jud 14:5; 1Sa 17:34; 1Ki 13:24; 20:36; So 4:8), multiplied and committed frequent ravages upon them. Recognizing in these attacks a judgment from the God of the land, whom they had not worshipped, they petitioned the Assyrian court to send them some Jewish priests who might instruct them in the right way of serving Him. The king, in compliance with their request, sent them one of the exiled priests of Israel [2Ki 17:27], who established his headquarters at Beth-el, and taught them how they should fear the Lord. It is not said that he took a copy of the Pentateuch with him, out of which he might teach them. Oral teaching was much better fitted for the superstitious people than instruction out of a written book. He could teach them more effectually by word of mouth. Believing that he would adopt the best and simplest method for them, it is unlikely that he took the written law with him, and so gave origin to the Samaritan copy of the Pentateuch [Davidson, Criticism]. Besides, it is evident from his being one of the exiled priests, and from his settlement at Beth-el, that he was not a Levite, but one of the calf-worshipping priests. Consequently his instructions would be neither sound nor efficient.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Matthew Poole's Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": " ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "The king of Assyria; ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " either Shalmaneser, or rather his son and successor, Esar-haddon, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "bldvs",
+        "text": " Ezra 4:2",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": " ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Ezra 4:2",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", because this was a work of some time; and as his father had projected, and possibly begun this, so he executed or finished it; whence it is ascribed to him, rather than to his father. Babylon then was subject to the Assyrian monarch; but a few years after revolted from him, and set up another king; as appears both from sacred and profane histories. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "Cuthah, Ava, Hamath, and Sepharvaim",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "; several places then in his dominion. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Gill's Exposition of the Entire Bible",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "And the king of Assyria brought men from Babylon,.... Which was at this time under the dominion of the king of Assyria; though in a little time after this it revolted, and had a king of its own, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Kings 20:12",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", this king of Assyria was either Shalmaneser, who carried Israel captive, or it may be rather his son Esarhaddon, see ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Ezra 4:2",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", ",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "and from Cuthah; which, according to Josephus (k), was a city in Persia, where was a river of the same name; but it was rather a place in Erech, in the country of Babylon; see Gill on Genesis 10:10, ",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "and from Cuthah; which, according to Josephus (k), was a city in Persia, where was a river of the same name; but it was rather a place in Erech, in the country of Babylon; see Gill on ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Genesis 10:10",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ", ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "and from Ava; the same with Ivah, Isaiah 37:13, where perhaps a colony of the Avim had settled, Deuteronomy 2:23. ",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "and from Ava; the same with Ivah, ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Isaiah 37:13",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ", where perhaps a colony of the Avim had settled, ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Deuteronomy 2:23",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ". ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "and from Hamath; a city of Syria, which lay on the northern borders of the land of Canaan, Numbers 34:8",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "and from Hamath; a city of Syria, which lay on the northern borders of the land of Canaan, ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Numbers 34:8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "and from Sepharvaim; thought by some to be the Sippara of Ptolemy, or the Sippareni of Abydenus, in Mesopotamia; though Vitringa takes it to be a city in Syro-Phoenicia; see Gill on Isaiah 36:19, ",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "and from Sepharvaim; thought by some to be the Sippara of Ptolemy, or the Sippareni of Abydenus, in Mesopotamia; though Vitringa takes it to be a city in Syro-Phoenicia; see Gill on ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Isaiah 36:19",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ", ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "and placed them in the cities of Samaria, instead of the children of Israel; not in Samaria, which was now destroyed, according to the prophecy in Micah 1:6 as Abarbinel and other Jewish writers note: ",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "and placed them in the cities of Samaria, instead of the children of Israel; not in Samaria, which was now destroyed, according to the prophecy in ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Micah 1:6",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " as Abarbinel and other Jewish writers note: ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "and they possessed Samaria; as an inheritance; sowed it with corn, and planted vineyards there: ",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "and dwelt in the cities thereof; in the several parts of the kingdom. ",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "(k) Antiqu. l. 9. c. 14. sect. 1.",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "(k) Antiqu. l. 9. c. 14. sect. 1.",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Geneva Study Bible",
+    "elements": [
+      {
+        "element": "span",
+        "class": "cverse2",
+        "text": "And the king of Assyria brought men from Babylon, and from {n} Cuthah, and from Ava, and from Hamath, and from Sepharvaim, and placed them in the cities of Samaria instead of the children of Israel: and they possessed Samaria, and dwelt in the cities thereof.",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "And the king of Assyria brought ",
+            "children": []
+          },
+          {
+            "element": "i",
+            "class": "",
+            "text": "men",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " from Babylon, and from ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "cverse3",
+            "text": "{n}",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " Cuthah, and from Ava, and from Hamath, and from Sepharvaim, and placed ",
+            "children": []
+          },
+          {
+            "element": "i",
+            "class": "",
+            "text": "them",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " in the cities of Samaria instead of the children of Israel: and they possessed Samaria, and dwelt in the cities thereof.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "(n) Of these people came the Samaritans, of which mention is so often made in the gospel, and with whom the Jews would have nothing to do, Joh 4:9.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXEGETICAL (ORIGINAL LANGUAGES)",
+    "name": "Cambridge Bible for Schools and Colleges",
+    "elements": [
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "24–41",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". Of those nations which were brought to inhabit Samaria, how they were plagued with lions. The mixed character of their religion (Not in Chronicles)",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "24",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "the king of Assyria brought",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " men ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "from Babylon",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "] These would most likely be the leaders of the colony as coming from the capital of the empire.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "and from Cuthah",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "] It is not certain what district is intended by this name. Some have thought that the country should be identified with that between the Euphrates and the Tigris, where a town ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "Cutha",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " is mentioned by early geographers and from which neighbourhood others of these colonists came. Others think ‘Cuthæans’ is another form of ‘Cossæans’, who were a tribe dwelling in the hills between Persia and Media, northward of the river Choaspes. The latter appears the more probable conjecture, but it remains only a conjecture.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "and from Ava",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "] R.V. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "Avva",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". This is without doubt the same place as ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "Ivah",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " (R.V. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "Ivvah",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ") of ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Kings 18:34",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " below. The place is not clearly identified, but opinions incline to make it the same as ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "Ahava",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", which stood where the modern ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "Hit",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " does, on the Euphrates at some distance to the N.W. of Babylon.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "and from Hamath",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "] This was the well-known Syrian city on the Orontes, which we read of as recovered by Jeroboam II. (",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Kings 14:28",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", where see note) but which the Assyrians soon afterwards reconquered (",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Kings 18:34",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "), and seem now to have brought some of its population southward to Samaria.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "and from Sepharvaim",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "] This place is mentioned also in ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Kings 18:34",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " among cities which had been reduced to subjection by the Assyrians (cf. also ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Kings 19:13",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " and ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Isaiah 37:13",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "). It is identified with the famous town of ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "Sippara",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " on the Euphrates, a little distance above Babylon. The LXX. writes the name ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "greekheb",
+        "text": "Σεπφαρουαὶμ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", which form favours this identification.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "instead of the children of Israel",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "] We are not from these words to suppose that all the Israelites were taken away. We know that in the later captivity of Judah, Jerusalem was never wholly left of its old inhabitants. We read in ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Chronicles 34:9",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", in the days of Josiah, that there was still ‘a remnant of Israel’, and these must be taken to be the people left behind when their fellow-countrymen were for the most part carried away.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXEGETICAL (ORIGINAL LANGUAGES)",
+    "name": "Pulpit Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "cmt_sub_title",
+        "text": "Verses 24-41.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "accented",
+        "text": "- Re-peopling of the kingdom of Israel by Assyrian colonists",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "accented",
+        "text": "and formation of a mixed religion",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". The writer, before dismissing the subject of the Israelite kingdom, proceeds to inform us of certain results of the conquest. Having removed the bulk of the native inhabitants, the Assyrians did not allow the country to lie waste, but proceeded to replace the population which they had carried off by settlers from other localities (ver. 24). These settlers were, after a short time, incommoded by lions, which increased upon them, and diminished their numbers (ver. 25). The idea arose that the visitation was supernatural, and might be traced to the fact that the newcomers, not knowing \"the manner of the God of the land,\" displeased him by the neglect of his rites or by the introduction of alien worship (ver. 26). A remedy for this was sought in the sending to them from Assyria one of the priests who had been carried off, from whom it was thought they might learn how \"the God of the land\" was to be propitiated. This was the orion of the \"mixed religion\" which grew up in the country. While the nations who had replaced the Israelites brought in their own superstitions, and severally worshipped their own gods (vers. 30, 31), there was a general acknowledgment of Jehovah by all of them, and a continuance of Jehovistic worship in the various high places. The nations both \"feared the Lord, and served their graven images,\" down to the time when the writer of Kings composed his work (vers. 33-41). ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "cmt_sub_title",
+        "text": "Verse 24.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " - ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "cmt_word",
+        "text": "And the King of Assyria brought men from Babylon.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " It has been supposed, in connection with ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Ezra 4:2",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", that no colonists were introduced into the country till the time of Esarhaddon, who began to reign in  ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "date",
+        "text": "B.C. 681",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". But this, which would be intrinsically most improbable (for when did a king forego his tribute from a fertile country for forty-one years?), is contradicted by a statement of Sargon, that he placed colonists there in  ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "date",
+        "text": "B.C. 715",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " ('Ancient Monarchies,' vol. it. p. 415). These were not necessarily the first; and, on the whole, it is probable that the re-peopling of the country begun earlier. Hamath was reduced by Sargon in  ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "date",
+        "text": "B.C. 720",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", and punished severely. Its inhabitants were carried off, and replaced by Assyrians ('Eponym Canon,' p. 127). Probably some of them were at once settled in Samaria. The conquest of Babylon by Sargon was not till later. It occurred in  ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "date",
+        "text": "B.C. 709",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", and was probably followed by the immediate deportation of some of its inhabitants to the same quarter. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "cmt_word",
+        "text": "And from Cuthah.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " \"Cuthah,\" or \"Cutha,\" was an important Babylonian city, often mentioned in the Assyrian inscriptions ('Records of the Past,' vol. 1. pp. 74, 75; vol. 3. p. 35; vol. 5. pp. 93, 94, 102). Its ruins exist at the site now called Ibrahim, about fifteen miles northeast of Babylon. Sargon must have become master of it when he put down Merodach-Baladan and assumed the sovereignty of Babylonia, in  ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "date",
+        "text": "B.C. 709",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". Why the later Jews called the Samaritans \"Cuthaeans,\" rather than Sepharvites, or Avites, or Hamathites, it is impossible to determine. Possibly the Cuthaean settlers preponderated in numbers ever the others. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "cmt_word",
+        "text": "And from Ava.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " \"Ava\" (",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "hebrew",
+        "text": "עוא",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ") is probably the same as the Ivah (",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "hebrew",
+        "text": "עוה",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ") of ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Kings 18:34",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " and 2 Kings 19:13, and perhaps identical with the Ahava (",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "hebrew",
+        "text": "אהוא",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ") of Ezra (Ezra 8:15, 21). The city intended is thought to be the \"Is\" of Herodotus (1. 179), and the modern Hit. Hit lies upon the Euphrates, about a hundred and thirty miles above Babylon, in lat. 33° 45' nearly. It is famous for its bitumen springs. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "cmt_word",
+        "text": "And from Hamath",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " (see the comment on 2 Kings 14:25). Hamath on the Orontes was conquered by Sargon in  ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "date",
+        "text": "B.C. 720",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", two years after his capture of Samaria ('Eponym Canon,' pp. 126-128). Its rude inhabitants were carried off, and Assyrians were placed there. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "cmt_word",
+        "text": "And from Sepharvaim.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " It is generally allowed that \"Sepharvaim\" is \"Sippara,\" the dual form being accounted for by the fact that Sippara was a double town, partly on the right and partly on the left bank of a stream derived from the Euphrates. Hence Pliny speaks of it as \"oppida Hipparenorum\" ('Hist. Nat.,' 6:30). The exact site, at Abu-Habba, sixteen miles southwest of Baghdad, has only recently been discovered (see the 'Transactions of the Society of Biblical Archaeology' for 1885, vol. 8. pp. 172-176). ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "cmt_word",
+        "text": "And placed them in the cities of Samaria instead of the children of Israel: and they possessed Samaria, and dwelt in the cities thereof.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " Transplantation of nations, commenced by Tiglath-pileser, was practiced on a still larger scale by Sargon. The following summary will illustrate this point: \"In all his wars Sargon largely employed the system of wholesale deportation. The Israelites were removed from Samaria, and planted partly in Gozan or Mygdonia, and partly in the cities recently taken from the Medes. Hamath and Damascus were peopled with captives from Armenia and other regions of the north. A portion of the Tibareni were carried captive to Assyria, and Assyrians were established in the Tibarenian country. Vast numbers of the inhabitants of the Zagros range were also transported to Assyria; Babylonians, Cuthaeans, Sapharrites, Arabians, and others were placed in Samaria; men from the extreme east (perhaps Media) in Ashdod. The Comukha were removed from the extreme north to Susiana, and Chaldaeans were brought from the extreme south to supply their places. Everywhere Sargon 'changed the abodes' of his subjects, his aim being, as it would seem, to weaken the stronger races by dispersion, and to destroy the spirit of the weaker ones by severing at a blow all the links which unite a patriotic people to the country it has long inhabited. The practice had not been unknown to previous monarchs; but it had never been employed by any of them so generally or on so grand a scale as it was by this king\" (see 'Ancient Monarchies,' vol. it. p. 423). 2 Kings 17:24",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXEGETICAL (ORIGINAL LANGUAGES)",
+    "name": "Keil and Delitzsch Biblical Commentary on the Old Testament",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "The Samaritans and Their Worship. - After the transportation of the Israelites, the king of Assyria brought colonists from different provinces of his kingdom into the cities of Samaria. The king of Assyria is not Salmanasar, for it is evident from ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Kings 17:25",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " that a considerable period intervened between the carrying away of the Israelites and the sending of colonists into the depopulated land. It is true that Salmanasar only is mentioned in what precedes, but the section vv. 24-41 is not so closely connected with the first portion of the chapter, that the same king of Assyria must necessarily be spoken of in both. According to ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Ezra 4:2",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", it was Esarhaddon who removed the heathen settlers to Samaria. It is true that the attempt has been made to reconcile this with the assumption that the king of Assyria mentioned in our verse is Salmanasar, by the conjecture that one portion of these colonists was settled there by Salmanasar, another by Esarhaddon; and it has also been assumed that in this expedition Esarhaddon carried away the last remnant of the ten tribes, namely, all who had fled into the mountains and inaccessible corners of the land, and to some extent also in Judaea, during Salmanasar's invasion, and had then collected together in the land again after the Assyrians had withdrawn. But there is not the smallest intimation anywhere of a second transplantation of heathen colonists to Samaria, any more than of a second removal of the remnant of the Israelites who were left behind in the land after the time of Salmanasar. The prediction in ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Isaiah 7:8",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", that in sixty-five years more Ephraim was to be destroyed, so that it would be no longer a people, even if it referred to the transplantation of the heathen colonists to Samaria by Esarhaddon, as Usher, Hengstenberg, and others suppose, would by no means necessitate the carrying away of the last remnant of the Israelites by this king, but simply the occupation of the land by heathen settlers, with whom the last remains of the Ephraimites intermingled, so that Ephraim ceased to be a people. As long as the land of Israel was merely laid waste and deprived of the greater portion of its Israelitish population, there always remained the possibility that the exiles might one day return to their native land and once more form one people with those who were left behind, and so long might Israel be still regarded as a nation; just as the Judaeans, when in exile in Babylon, did not cease to be a people, because they looked forward with certain hope to a return to their fatherland after a banishment of seventy years. But after heathen colonists had been transplanted into the land, with whom the remainder of the Israelites who were left in the land became fused, so that there arose a mixed Samaritan people of a predominantly heathen character, it was impossible to speak any longer of a people of Ephraim in the land of Israel. This transplantation of colonists out of Babel, Cutha, etc., into the cities of Samaria might therefore be regarded as the point of time at which the nation of Ephraim was entirely dissolved, without any removal of the last remnant of the Israelites having taken place. We must indeed assume this if the ten tribes were deported to the very last man, and the Samaritans were in their origin a purely heathen people without any admixture of Israelitish blood, as Hengstenberg assumes and has endeavoured to prove. But the very opposite of this is unmistakeably apparent from ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Chronicles 34:6",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Chronicles 34:9",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", according to which there were not a few Israelites left in the depopulated land in the time of Josiah. (Compare Kalkar, Die Samaritaner ein Mischvolk, in Pelt's theol. Mitarbeiten, iii. 3, pp. 24ff.). - We therefore regard Esarhaddon as the Assyrian king who brought the colonists to Samaria. The object to ויּבא may be supplied from the context, more especially from ויּשׁב, which follows. He brought inhabitants from Babel, i.e., from the country, not the city of Babylon, from Cuthah, etc. The situation of Cuthah or Cuth (",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Kings 17:30",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ") cannot be determined with certainty. M. v. Niebuhr (Gesch. p. 166) follows Josephus, who speaks of the Cuthaeans in Ant. ix. 14, 3, and x. 9, 7, as a people dwelling in Persia and Media, and identifies them with the Kossaeans, Kissians, Khushiya, Chuzi, who lived to the north-east of Susa, in the north-eastern portion of the present Khusistan; whereas Gesenius (thes. p. 674), Rosenmller (bibl. Althk. 1, 2, p. 29), and J. D. Michaelis (Supplem. ad Lex. hebr. p. 1255) have decided in favour of the Cutha (Arabic kth or ktha) in the Babylonian Irak, in the neighbourhood of the Nahr Malca, in support of which the fact may also be adduced, that, according to a communication from Spiegel (in the Auslande, 1864, No. 46, p. 1089), Cutha, a town not mentioned elsewhere, was situated by the wall in the north-east of Babylon, probably on the spot where the hill Ohaimir with its ruins stands. The greater number of colonists appear to have come from Cutha, because the Samaritans are called כותיים by the Rabbins.",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "עוּא, Avva, is almost always, and probably with correctness, regarded as being the same place as the עוּה (Ivvah) mentioned in 2 Kings 18:34 and 2 Kings 19:13, as the conjecture naturally suggests itself to every one that the Avvaeans removed to Samaria by Esarhaddon were inhabitants of the kingdom of Avva destroyed by the Assyrian king, and the form עוּה is probably simply connected with the appellative explanation given to the word by the Masoretes. As Ivvh is placed by the side of Henah in 2 Kings 18:34 and 2 Kings 19:13, Avva can hardly by any other than the country of Hebeh, situated on the Euphrates between Anah and the Chabur (M. v. Niebuhr, p. 167). Hamath is Epiphania on the Orontes: see at 1 Kings 8:65 and Numbers 13:21. Sepharvaim is no doubt the Sippara (Σιπφάρα) of Ptolem. (v. 18, 7), the southernmost city of Mesopotamia on the Euphrates, above the Nahr Malca, the Ἡλιούπολις ἐν Σιππάροισιν or Σιππαρεενῶν πόλις, which Berosus and Abydenus mention (in Euseb. Praepar, evang. ix. 12 and 41, and Chronic. Armen. i. pp. 33, 36, 49, 55) as belonging to the time of the flood. - שׁמרון: this is the first time in which the name is evidently applied to the kingdom of Samaria.",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "עוּא, Avva, is almost always, and probably with correctness, regarded as being the same place as the עוּה (Ivvah) mentioned in ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "2 Kings 18:34",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " and ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "2 Kings 19:13",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ", as the conjecture naturally suggests itself to every one that the Avvaeans removed to Samaria by Esarhaddon were inhabitants of the kingdom of Avva destroyed by the Assyrian king, and the form עוּה is probably simply connected with the appellative explanation given to the word by the Masoretes. As Ivvh is placed by the side of Henah in ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "2 Kings 18:34",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " and ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "2 Kings 19:13",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ", Avva can hardly by any other than the country of Hebeh, situated on the Euphrates between Anah and the Chabur (M. v. Niebuhr, p. 167). Hamath is Epiphania on the Orontes: see at ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "1 Kings 8:65",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " and ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Numbers 13:21",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ". Sepharvaim is no doubt the Sippara (Σιπφάρα) of Ptolem. (v. 18, 7), the southernmost city of Mesopotamia on the Euphrates, above the Nahr Malca, the Ἡλιούπολις ἐν Σιππάροισιν or Σιππαρεενῶν πόλις, which Berosus and Abydenus mention (in Euseb. Praepar, evang. ix. 12 and 41, and Chronic. Armen. i. pp. 33, 36, 49, 55) as belonging to the time of the flood. - שׁמרון: this is the first time in which the name is evidently applied to the kingdom of Samaria.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

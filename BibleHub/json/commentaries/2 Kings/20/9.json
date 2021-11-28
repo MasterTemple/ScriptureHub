@@ -1,0 +1,752 @@
+[
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Ellicott's Commentary for English Readers",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "(9) ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "Shall the shadow go forward ten degrees, or go back ten degrees?",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "—Rather, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "the shadow hath marched",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " (or ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "travelled",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ")",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": " ten steps; shall it return ten steps?",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " This is what the Hebrew text seems to say at a first glance. But Hezekiah’s answer apparently implies an alternative; and we ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "might",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " render: “the shadow shall have travelled ten steps; or shall it return ten steps?” (Comp. the LXX. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "greekheb",
+        "text": "πορεύσεται",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": ".",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ") The Targum has: “shall the shadow march ten hours or return ten hours?” The Vulgate also makes it a double question. The Syriac is: “the shadow shall march ten steps, or return ten steps.”",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "It is very probable that the Hebrew text is corrupt. We might read the first word as an infinitive instead of a perfect, after the analogy of 2Kings 19:29 (“ye shall eat”). Or we might read “shall it march?” as a question (hă-yēlēk); or better still, “shall it go up” (hă-yēlēk), after the hint afforded by the Vulgate: “Vis ut ascendat umbra . . . Et ait Ezeehias, Facile est umbram crescere,” &c. It is obvious that a kind of sun-dial is meant, though what kind is not so clear. The word “degrees” (ma‘ălôth) means “steps” or “stairs” wherever it occurs. (See Exodus 20:26; Ezekiel 40:6; Ezekiel 40:22; Ezekiel 40:26; Ezekiel 40:31, &c; 1Kings 10:20; Nehemiah 3:15.) There is probability, therefore, in Knobel’s conjecture that “the dial of Ahaz” consisted of a column rising from a circular flight of steps, so as to throw the shadow of its top on the top step at noon, and morning and evening on the bottom step. This, or some similar device, was set up in the palace court, and was probably visible to Hezekiah lying on his sick bed and facing the window. Herodotus (ii. 9) ascribes the invention of the gnomon to the Babylonians. From the inscriptions we know that they divided time into periods of two hours, each called in Sumerian kasbumi, and in Assyrian asli. Each kasbu or aslu was subdivided into sixty equal parts.",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "It is very probable that the Hebrew text is corrupt. We might read the first word as an infinitive instead of a perfect, after the analogy of ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "2Kings 19:29",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " (“ye shall eat”). Or we might read “shall it march?” as a question (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "hă-yēlēk",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ")",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": ";",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " or better still, “shall it go up” (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "hă-yēlēk",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ")",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": ",",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " after the hint afforded by the Vulgate: “Vis ut ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "ascendat",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " umbra . . . Et ait Ezeehias, Facile est umbram ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "crescere,",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "” &c. It is obvious that a kind of sun-dial is meant, though what kind is not so clear. The word “degrees” (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "ma‘ălôth",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ") means “steps” or “stairs” wherever it occurs. (See ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Exodus 20:26",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "; ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Ezekiel 40:6",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "; ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Ezekiel 40:22",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "; ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Ezekiel 40:26",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "; ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Ezekiel 40:31",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ", &c; ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "1Kings 10:20",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "; ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Nehemiah 3:15",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ".) There is probability, therefore, in Knobel’s conjecture that “the dial of Ahaz” consisted of a column rising from a circular flight of steps, so as to throw the shadow of its top on the top step at noon, and morning and evening on the bottom step. This, or some similar device, was set up in the palace court, and was probably visible to Hezekiah lying on his sick bed and facing the window. Herodotus (ii. 9) ascribes the invention of the gnomon to the Babylonians. From the inscriptions we know that they divided time into periods of two hours, each called in Sumerian ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "kasbumi,",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " and in Assyrian ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "asli.",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " Each ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "kasbu",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " or ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "aslu",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " was subdivided into sixty equal parts.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "",
+        "children": [
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Matthew Henry's Concise Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "20:1-11 Hezekiah was sick unto death, in the same year in which the king of Assyria besieged Jerusalem. A warning to prepare for death was brought to Hezekiah by Isaiah. Prayer is one of the best preparations for death, because by it we fetch in strength and grace from God, to enable us to finish well. He wept sorely: some gather from hence that he was unwilling to die; it is in the nature of man to dread the separation of soul and body. There was also something peculiar in Hezekiah's case; he was now in the midst of his usefulness. Let Hezekiah's prayer, see Isa 38. interpret his tears; in that is nothing which is like his having been under that fear of death, which has bondage or torment. Hezekiah's piety made his sick-bed easy. O Lord, remember now; he does not speak as if God needed to be put in mind of any thing by us; nor, as if the reward might be demanded as due; it is Christ's righteousness only that is the purchase of mercy and grace. Hezekiah does not pray, Lord, spare me; but, Lord, remember me; whether I live or die, let me be thine. God always hears the prayers of the broken in heart, and will give health, length of days, and temporal deliverances, as much and as long as is truly good for them. Means were to be used for Hezekiah's recovery; yet, considering to what a height the disease was come, and how suddenly it was checked, the cure was miraculous. It is our duty, when sick, to use such means as are proper to help nature, else we do not trust God, but tempt him. For the confirmation of his faith, the shadow of the sun was carried back, and the light was continued longer than usual, in a miraculous manner. This work of wonder shows the power of God in heaven as well as on earth, the great notice he takes of prayer, and the great favour he bears to his chosen.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Barnes' Notes on the Bible",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "Ten degrees - literally, \"ten steps.\" It is not, perhaps, altogether certain whether the \"dial of Ahaz\" ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Kings 20:11",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " was really a dial with a gnomon in the center, and \"degrees\" marked round it, or a construction fur marking time by means of \"steps.\" Sundials proper had been invented by the Babylonians before the time of Herodotus; but the instrument here was probably an instrument consisting of a set of steps, or stairs, with an obelisk at the top, the shadow of which descended or ascended the steps according as the sun rose higher in the heavens or declined.",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "The question as to the mode whereby the return of the shadow was produced is one on which many opinions have been held. Recently, it has been urged that the true cause of the phenomenon was a solar eclipse, in which the moon obscured the entire upper limb of the sun; and it has been clearly shown that if such an occurrence took place a little before mid-day, it would have had the effect described as having taken place - i. e., during the obscuration of the sun's upper limb shadows would be sensibly lengthened, and that of the obelisk would descend the stairs; as the obscuration passed off the reverse would take place, shadows would shorten, and that of the obelisk would once more retire up the steps. If this be the true account, the miracle would consist in Isaiah's supernatural foreknowledge of an event which the astronomy of the age was quite incapable of predicting, and in the providential guidance of Hezekiah's will, so that he chose the \"sign\" which in the natural course of things was about to be manifested. ",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "The question as to the mode whereby the return of the shadow was produced is one on which many opinions have been held. Recently, it has been urged that the true cause of the phenomenon was a solar eclipse, in which the moon obscured the entire upper limb of the sun; and it has been clearly shown that if such an occurrence took place a little before mid-day, it would have had the effect described as having taken place - i. e., during the obscuration of the sun's upper limb shadows would be sensibly lengthened, and that of the obelisk would descend the stairs; as the obscuration passed off the reverse would take place, shadows would shorten, and that of the obelisk would once more retire up the steps. If this be the true account, the miracle would consist in Isaiah's supernatural foreknowledge of an event which the astronomy of the age was quite incapable of predicting, and in the providential guidance of Hezekiah's will, so that he chose the \"sign\" which in the natural course of things was about to be manifested. ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Jamieson-Fausset-Brown Bible Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "2Ki 20:8-20. The Sun Goes Ten Degrees Backward.",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "8-11. Hezekiah said unto Isaiah, What will be the sign that the Lord shall heal me—His recovery in the course of nature was so unlooked for, that the king asked for some token to justify his reliance on the truth of the prophet's communication; and the sign he specified was granted to him. The shadow of the sun went back upon the dial of Ahaz the ten degrees it had gone down. Various conjectures have been formed as to this dial. The word in the original is \"degrees,\" or \"steps,\" and hence many commentators have supposed that it was a stair, so artfully contrived, that the shadows on the steps indicated the hours and course of the sun. But it is more probable that it was a proper instrument, and, from the Hebrews having no term to designate it, that it was one of the foreign novelties imported from Babylon by Ahaz. It seems to have been of such magnitude, and so placed in the court, that Isaiah could point to it, and the king see it, from his chamber. The retrogression of the sun's shadow on the dial was miraculously accomplished by the omnipotent power of God; but the phenomenon was temporary, local, confined to the notice, and intended for the satisfaction, only of Hezekiah and his court.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Matthew Poole's Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": " No text from Poole on this verse. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Gill's Exposition of the Entire Bible",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "And Isaiah said, this sign shalt thou have of the Lord, that the Lord will do the thing that he hath spoken,.... Cure him of his disorder, so that he should be able to go to the temple on the third day: ",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "shall the shadow go forward ten degrees, or go back ten degrees? that is, the shadow of the sun on a dial plate; it was left to his option to choose which he would, as the confirming sign of his recovery. ",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "shall the shadow go forward ten degrees, or go back ten degrees? that is, the shadow of the sun on a dial plate; it was left to his option to choose which he would, as the confirming sign of his recovery. ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Geneva Study Bible",
+    "elements": [
+      {
+        "element": "span",
+        "class": "cverse2",
+        "text": "And Isaiah said, This sign shalt thou have of the LORD, that the LORD will do the thing that he hath spoken: shall the shadow go forward ten degrees, or go back ten degrees?",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXEGETICAL (ORIGINAL LANGUAGES)",
+    "name": "Cambridge Bible for Schools and Colleges",
+    "elements": [
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "9",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "shall the shadow go forward ten degrees",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " [R.V. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "steps",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "], ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "or go back ten degrees",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "] R.V. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "steps",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". In the Hebrew there is no sign of interrogation in the first clause. But instances are not rare in which the interrogative sign is left out (cf. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Samuel 16:4",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "; ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Samuel 18:29",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "). A greater difficulty is in the tense of the first verb. The clause, if it stood alone, would be translated, ‘The shadow hath gone forward ten steps, (what) if it shall go back ten steps? But Hezekiah’s answer implies that an alternative question was asked. Thus both A.V. and R.V. have translated it, but how the grammar is to be made to yield a double question is not easy to see. For if the omitted interrogation be supplied, we have still only, ‘Hath the shadow gone forward ten steps?’",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXEGETICAL (ORIGINAL LANGUAGES)",
+    "name": "Pulpit Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "cmt_sub_title",
+        "text": "Verse 9.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " - ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "cmt_word",
+        "text": "And Isaiah said, This sign shalt thou have of the Lord, that the Lord will do the thing that he hath spoken.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " Hezekiah is no more reproved for asking for a sign than was Gideon (",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Judges 6:37, 39",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "). Ahaz, his father, had been reproved for not asking (",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Isaiah 7:13",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "). It would be faithless now for Christians to demand signs; but in an age of miracles, when there were prophets upon the earth empowered to give signs, faithful men might request them without incurring God's displeasure. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "cmt_word",
+        "text": "Shall the shadow go forward ten degrees?",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " The Hebrew text will scarcely bear this translation, which, however, seems to be required by Hezekiah's answer. Perhaps for ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "hebrew",
+        "text": "חָלַך",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " we should read ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "hebrew",
+        "text": "הֲחָלך",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". Or go back ten degrees? literally, in both clauses, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "accented",
+        "text": "ten steps",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". There are abundant reasons for believing that the early dials consisted of a gnomon set up on the top of a flight of steps, and that time was measured by the number of steps on which the shadow of the gnomon fell (see a paper by Mr. Bosanquet, in the 'Transactions of the Society of Biblical Archaeology' for 1874, pp. 1-82). 2 Kings 20:9",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXEGETICAL (ORIGINAL LANGUAGES)",
+    "name": "Keil and Delitzsch Biblical Commentary on the Old Testament",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "הצּל הלך: \"the shadow is gone ten degrees, if it should go back ten degrees?\" The rendering, visne umbram solarii decem gradibus progredi an ... regredi, which Maurer still gives after the Vulgate, vis an ut ascendat ... an ut revertatur, cannot be grammatically reconciled with the perfect הלך, and is merely a conjecture founded upon the answer of Hezekiah.",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "(Note: Hitzig and Knobel would therefore read הלך, though without furnishing any proofs that the inf. abs. is used for the future in the first clause of a double question, especially if the ה interrog. is wanting, and there is no special emphasis upon the verbal idea.)",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "According to this answer, \"it is easy for the shadow to decline (i.e., to go farther down) ten degrees; no (sc., that shall not be a sign to me), but if the shadow turn ten degrees backwards,\" Isaiah seems to have given the king a choice as to the sign, namely, whether the shadow should go ten degrees forward or backward. But this does not necessarily follow from the words quoted. Hezekiah may have understood the prophet's words וגו הצּל הלך hypothetically: \"has the shadow gone (advanced) ten degrees, whether it should,\" etc.; and may have replied, the advance of the shadow would not be a sure sign to him, but only its going back.",
+        "children": []
+      }
+    ]
+  }
+]

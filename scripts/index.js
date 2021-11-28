@@ -98,6 +98,12 @@ async function updateInterLinearContent(verse) {
 
   // let interlinear = await get(`./../BibleHub/json/interlinear/${book.to}/${chapter}/${start_verse}.json`)
   let json = apiData.interlinear
+  let lowerBook = book.toLowerCase()
+  if(lowerBook === "psalm"){
+    book = "Psalms"
+  }else if(lowerBook === "song of solomon" || lowerBook === "songs of solomon" || lowerBook === "song of songs"){
+    book = "Songs"
+  }
   if(json.length === 0)  {
     json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
     apiData['interlinear'] = json
@@ -129,6 +135,12 @@ async function updateCommentaryContent(verse) {
 
   // let interlinear = await get(`./../BibleHub/json/interlinear/${book.to}/${chapter}/${start_verse}.json`)
   let json = apiData.commentary
+  let lowerBook = book.toLowerCase()
+  if(lowerBook === "psalm"){
+    book = "Psalms"
+  }else if(lowerBook === "song of solomon" || lowerBook === "songs of solomon" || lowerBook === "song of songs"){
+    book = "Songs"
+  }
   if(json.length === 0)  {
     json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
     apiData['commentary'] = json

@@ -1,0 +1,974 @@
+[
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Ellicott's Commentary for English Readers",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "(25) ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "Grace be with you all.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "—This brief closing benediction is also found in ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Titus 3:15",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", and, with the omission of “all,” in ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Colossians 4:18",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "; ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1Timothy 6:21",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "; ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2Timothy 4:22",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ".",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "[As in the other Epistles the subscription is destitute of authority, not being found (in the form given above) in any MS. of the Epistle earlier than the ninth century. No ancient MS. contains more than the simple notice, “To the Hebrews,” except the Alexandrian, which adds “written from Rome.” The mention of Rome or Italy is, no doubt, due to Hebrews 13:24. It is possible also that Hebrews 13:23 is the only authority for the reference to Timothy as the bearer of the Epistle: for an ancient interpretation understands that verse to speak, not of the release of Timothy from captivity, but of his departure on some official mission.]",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "[As in the other Epistles the subscription is destitute of authority, not being found (in the form given above) in any MS. of the Epistle earlier than the ninth century. No ancient MS. contains more than the simple notice, “To the Hebrews,” except the Alexandrian, which adds “written from Rome.” The mention of Rome or Italy is, no doubt, due to ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Hebrews 13:24",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ". It is possible also that ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Hebrews 13:23",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " is the only authority for the reference to Timothy as the bearer of the Epistle: for an ancient interpretation understands that verse to speak, not of the release of Timothy from captivity, but of his departure on some official mission.]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "[The works chiefly used have been the commentaries on the Epistle by Bleek, Dolitzsch, Hofmann, Lünemann, Kurtz, Bengel, Ewald, Alford, Wordsworth, McCaul, and Biesenthal; Westcott On the Canon; Lightfoot’s Clement; Bleek’s Einleitung in das N. T. (by Mangold); Ewald’s Geschichte; Davidson’s two Introductions to the New Testament; Reuss’s History of Christian Theology; Riehm’s special work on the Doctrinal System of this Epistle; Stanley’s Sermons and Essays; the Commentaries on the Psalms by Delitzsch, Perowne, Jennings and Lowe; and Carpzov’s Sacrae Exercitationes.]",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "[The works chiefly used have been the commentaries on the Epistle by Bleek, Dolitzsch, Hofmann, Lünemann, Kurtz, Bengel, Ewald, Alford, Wordsworth, McCaul, and Biesenthal; Westcott ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "On the Canon",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "; Lightfoot’s ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Clement;",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " Bleek’s ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Einleitung in das N. T.",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " (by Mangold); Ewald’s ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Geschichte;",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " Davidson’s two ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Introductions to the New Testament;",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " Reuss’s ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "History of Christian Theology;",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " Riehm’s special work on the Doctrinal System of this Epistle; Stanley’s ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Sermons and Essays;",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " the ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Commentaries on the Psalms",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " by Delitzsch, Perowne, Jennings and Lowe; and Carpzov’s ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Sacrae Exercitationes.",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "]",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "",
+        "children": [
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Matthew Henry's Concise Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "13:22-25 So bad are men, and even believers, through the remainders of their corruption, that when the most important, comfortable doctrine is delivered to them for their own good, and that with the most convincing evidence, there is need of earnest entreaty and exhortation that they would bear it, and not fall out with it, neglect it, or reject it. It is good to have the law of holy love and kindness written in the hearts of Christians, one towards another. Religion teaches men true civility and good breeding. It is not ill-tempered or uncourteous. Let the favour of God be toward you, and his grace continually working in you, and with you, bringing forth the fruits of holiness, as the first-fruits of glory.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Barnes' Notes on the Bible",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "Grace be with you all - notes, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Romans 16:20",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Romans 16:24",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ".",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "The subscription at the close of the Epistle \"written to the Hebrews from Italy by Timothy,\" like the other subscriptions, is of no authority; see notes at the end of 1 Cor.  is demonstrably erroneous here, for it is expressly said by the author of the Epistle that at the time he wrote it, Timothy was absent; Hebrews 13:23. In regard to the time and place of writing it, see the Introduction, section 4.",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "The subscription at the close of the Epistle \"written to the Hebrews from Italy by Timothy,\" like the other subscriptions, is of no authority; see notes at the end of 1 Cor.  is demonstrably erroneous here, for it is expressly said by the author of the Epistle that at the time he wrote it, Timothy was absent; ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Hebrews 13:23",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ". In regard to the time and place of writing it, see the Introduction, section 4.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "At the close of this exposition, it is not improper to refer the reader to the remarks on its design at the end of the introduction, section 6. Having passed through the exposition, we may see more clearly the importance of the views there presented. There is no book of the New Testament more important than this, and of course none whose want would be more perceptible in the canon of the Scriptures. Every reader of the Old Testament needs such a guide as this Epistle, written by some one who had an intimate acquaintance from childhood with the Jewish system; who had all the advantages of the most able and faithful instruction, and who was under the influence of inspiration, to make us acquainted with the true nature of those institutions Nothing was more important than to settle the principles in regard to the nature of the Jewish economy; to show what was typical, and how those institutions were the means of introducing a far more perfect system - the system of the Christian religion.",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "If we have right feelings, we shall have sincere gratitude to God that he caused the Christian religion to be prefigured by a system in itself so magnificent and grand as that of the Jewish, and higher gratitude for that sublime system of religion of which the Jewish, with all its splendor, was only the shadow. There was much that was beautiful, cheering, and sublime in the Jewish system. There was much that was grand and awful in the giving of the Law, and much that was imposing in its ceremonies. In its palmy and pure days, it was incomparably the purest and noblest system of religion then on earth. It taught the knowledge of the one true God; inculcated a pure system of morals; preserved the record of the truth on the earth, and held up constantly before man the hope of a better system still in days to come. But it was expensive, burdensome, precise in its prescriptions, and wearisome in its ceremonies; Acts 15:10. It was adapted to one people - a people who occupied a small territory, and who could conveniently assemble at the central place of their worship three times in a year. It was not a system adapted to the whole world, nor was it designed for the whole world. When the Saviour came, therefore, to introduce whom was the design of the Jewish economy, it ceased as a matter of course. The Jewish altars were soon thrown down; the temple was razed to the ground, and the city of their solemnities was destroyed. The religion of the Hebrews passed away to be revived no more in its splendor and power, and it has never lived since, except as an empty form.",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "If we have right feelings, we shall have sincere gratitude to God that he caused the Christian religion to be prefigured by a system in itself so magnificent and grand as that of the Jewish, and higher gratitude for that sublime system of religion of which the Jewish, with all its splendor, was only the shadow. There was much that was beautiful, cheering, and sublime in the Jewish system. There was much that was grand and awful in the giving of the Law, and much that was imposing in its ceremonies. In its palmy and pure days, it was incomparably the purest and noblest system of religion then on earth. It taught the knowledge of the one true God; inculcated a pure system of morals; preserved the record of the truth on the earth, and held up constantly before man the hope of a better system still in days to come. But it was expensive, burdensome, precise in its prescriptions, and wearisome in its ceremonies; ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Acts 15:10",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ". It was adapted to one people - a people who occupied a small territory, and who could conveniently assemble at the central place of their worship three times in a year. It was not a system adapted to the whole world, nor was it designed for the whole world. When the Saviour came, therefore, to introduce whom was the design of the Jewish economy, it ceased as a matter of course. The Jewish altars were soon thrown down; the temple was razed to the ground, and the city of their solemnities was destroyed. The religion of the Hebrews passed away to be revived no more in its splendor and power, and it has never lived since, except as an empty form.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "This Epistle teaches us why it passed away, and why it can never he restored. It is the true key with which to unlock the Old Testament; and with these views, we may remark in conclusion, that he who would understand the Bible thoroughly should make himself familiar with this Epistle; that the canon of Scripture would be incomplete without it; and that, to one who wishes to understand the Revelation which God has given, there is no portion of the volume whose loss would be a more irreparable calamity than that of the Epistle to the Hebrews. ",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "This Epistle teaches us why it passed away, and why it can never he restored. It is the true key with which to unlock the Old Testament; and with these views, we may remark in conclusion, that he who would understand the Bible thoroughly should make himself familiar with this Epistle; that the canon of Scripture would be incomplete without it; and that, to one who wishes to understand the Revelation which God has given, there is no portion of the volume whose loss would be a more irreparable calamity than that of the Epistle to the Hebrews. ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Jamieson-Fausset-Brown Bible Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "25. Paul's characteristic salutation in every one of his other thirteen Epistles, as he says himself, 1Co 16:21, 23; Col 4:18; 2Th 3:17. It is found in no Epistle written by any other apostle in Paul's lifetime. It is used in Re 22:21, written subsequently, and in Clement of Rome. Being known to be his badge, it is not used by others in his lifetime. The Greek here is, \"The grace (namely, of our Lord Jesus Christ) be with you all.\"   ",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Matthew Poole's Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": " He closeth all with his wonted gracious valediction, wherewith he shutteth up all his Epistles, as he testifieth, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "2 Thessalonians 3:17,18",
+        "children": [
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "2 Thessalonians 3:17",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ",18",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". He, like an apostle influenced by the Divine Spirit, admiring ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "grace",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " vouchsafed to himself, and heartily and fervently wishing it down upon all to whom he writeth, even all the spiritual fruits of God’s grace and love in Jesus Christ, from election to salvation. And he sealeth up his desire, prayer, and declaration of this, upon them ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "all",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " who were the true subjects of it, with his ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "Amen.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " Even so let the whole earth be filled with the glory of thy grace, O Trinity of relations in Unity of essence, from henceforth and for ever. Amen. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "Written to the Hebrews from Italy by Timothy.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Gill's Exposition of the Entire Bible",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "Grace be with you all, Amen. Which is the apostle's usual salutation in all his epistles, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Thessalonians 3:17",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " in which he wishes renewed discoveries of the love and favour of God; fresh communications of grace from Christ; an abundant supply of the spirit of grace; an increase of internal grace and external gifts; and a continuance of the Gospel of the grace of God. Of \"Amen\"; see Gill on ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Hebrews 13:21",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". The subscription of this epistle is, ",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "written to the Hebrews from Italy by Timothy; in the Alexandrian copy it is, \"written to the Hebrews from Rome\"; which is very probable, since the Italian brethren send their salutations in it; and the words, \"by Timothy\", are left out; nor is it likely that it should, since it is clear, from Heb_13:23 that he was absent from the apostle; and if he had sent it by him, what need was there to inform them that he was set at liberty? ",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "written to the Hebrews from Italy by Timothy; in the Alexandrian copy it is, \"written to the Hebrews from Rome\"; which is very probable, since the Italian brethren send their salutations in it; and the words, \"by Timothy\", are left out; nor is it likely that it should, since it is clear, from Heb_13:23 that he was absent from the apostle; and if he had sent it by him, what need was there to inform them that he was set at liberty? ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Geneva Study Bible",
+    "elements": [
+      {
+        "element": "span",
+        "class": "cverse2",
+        "text": "Grace be with you all. Amen.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXEGETICAL (ORIGINAL LANGUAGES)",
+    "name": "Meyer's NT Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Hebrews 13:25",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". Concluding wish of blessing, entirely in accord with that of ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Titus 3:15",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ".",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "EXEGETICAL (ORIGINAL LANGUAGES)",
+    "name": "Cambridge Bible for Schools and Colleges",
+    "elements": [
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "25",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "Grace be with you all. Amen",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "] This is one of the shorter forms of final conclusion found in ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Colossians 4:18",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "; ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Timothy 6:21",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "; ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Timothy 4:22",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "; ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Titus 3:15",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ".",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "The superscription “Written to the Hebrews from Italy by Timothy” is wholly without authority, though found in K and some versions. It contradicts the obvious inference suggested by ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Hebrews 13:23-24",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". We have no clue to the bearer of the Epistle, or the local community for which it was primarily intended, or the effect which it produced. But it would scarcely be possible to suppose that such a composition did not have a powerful influence in checking all tendency to retrograde into Judaism from the deeper and far more inestimable blessings of the New Covenant. The Manuscripts ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "greekheb",
+        "text": "א",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " and C have only “To the Hebrews.” A has “It was written to the Hebrews from Rome.”",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "EXEGETICAL (ORIGINAL LANGUAGES)",
+    "name": "Bengel's Gnomen",
+    "elements": [
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Hebrews 13:25",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "greekheb",
+        "text": "Ἡ χάρις",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "grace",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ") A small clause peculiar to ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "Paul",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ".",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXEGETICAL (ORIGINAL LANGUAGES)",
+    "name": "Pulpit Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "cmt_sub_title",
+        "text": "Verse 25.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " - ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "cmt_word",
+        "text": "Grace be with you all. Amen.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " Hebrews 13:25",
+        "children": []
+      }
+    ]
+  }
+]

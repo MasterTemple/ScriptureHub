@@ -1,4 +1,28 @@
-const fs = require("fs")
+let fs = require("fs")
+let {readFile, writeFile} = fs.promises
+// const {promisify} = require('util');
+// const readFile = promisify(fs.readFile)
+// const writeFile = promisify(fs.writeFile)
+// async function readFile(path) {
+//   return new Promise((resolve, reject) => {
+//     fs.readFile(path, 'utf8', function (err, data) {
+//       if (err) {
+//         reject(err);
+//       }
+//       resolve(data);
+//     });
+//   });
+// }
+// async function writeFile(path, data) {
+//   return new Promise((resolve, reject) => {
+//     fs.writeFile(path, data, 'utf8', function (err) {
+//       if (err) {
+//         reject(err);
+//       }
+//       resolve();
+//     });
+//   });
+// }
 const axios = require("axios")
 let jsdom = require('jsdom')
 class Element {
@@ -34,8 +58,8 @@ theres also hrefs in <a>
 */
 
 module.exports = async(book, chapter, verse) => {
-  return new Promise((resolve, reject) => {
-    let file = fs.readFileSync(`./BibleHub/commentaries/html/${book}/${chapter}/${verse}.htm`)
+  return new Promise(async (resolve, reject) => {
+    let file = await readFile(`./BibleHub/commentaries/html/${book}/${chapter}/${verse}.htm`)
 
     const {JSDOM} = jsdom
     let {document} = (new JSDOM(file)).window
@@ -103,7 +127,7 @@ module.exports = async(book, chapter, verse) => {
 
     })
     data = data.filter(d=>d.name!=="Links")
-    fs.writeFileSync(`./BibleHub/json/commentaries/${book}/${chapter}/${verse}.json`, JSON.stringify(data, null, 2))
+    await writeFile(`./BibleHub/json/commentaries/${book}/${chapter}/${verse}.json`, JSON.stringify(data, null, 2))
 
     // console.log(data)
     resolve()

@@ -1,0 +1,783 @@
+[
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Ellicott's Commentary for English Readers",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "(13) ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "Also",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " (and) ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "for the courses of the priests and the Levites.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "—This connects immediately with the phrase “all the chambers round about,” in ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1Chronicles 28:12",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". The chambers or cells round the Temple court were intended not only for the stowage of the treasures, but also for the use of the priests and Levites who would sojourn in them by, course. The LXX. and the Vulg, render (David gave him) ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "a description of the courses of the priests and Levites,",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " a sense which the Hebrew admits, and which the Authorised version has adopted; but the former connexion of the words is preferable.",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "For all the work of the service.—Such as cooking the flesh which fell to the priests from the sacrifices, and baking the shewbread. “The vessels of service,” that is, the utensils used by the Levites in the work just specified, would naturally be kept in the cells.",
+        "children": [
+          {
+            "element": "span",
+            "class": "bld",
+            "text": "For all the work of the service.",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "—Such as cooking the flesh which fell to the priests from the sacrifices, and baking the shewbread. “The vessels of service,” that is, the utensils used by the Levites in the work just specified, would naturally be kept in the cells.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "The Syriac version paraphrases 1Chronicles 28:11-13 as follows:—“And David gave to Solomon his son the likeness of the porch, and the measure of the house and of the colonnade (kĕsôstĕrôn = ξυστός), and of the upper chambers; and of the inner cloisters (’estĕwê=στοαι), and of the outer cloisters, and of the upper and of the lower (storeys); and of the treasury (bêth gazzā), and of the house of service of the Lord’s house, and of the kitchens, and of the house of the water-carriers (or cupbearers), and of the house of lampmen.” The last words are interesting, as explaining the nature of “the work of the service” (1Chronicles 28:13).",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "The Syriac version paraphrases ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "1Chronicles 28:11-13",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " as follows:—“And David gave to Solomon his son the likeness of the porch, and the measure of the house and of the colonnade (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "kĕsôstĕrôn =",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "greekheb",
+            "text": "ξυστός",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "), and of the upper chambers; and of the inner cloisters (’",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "estĕwê=στοαι",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ")",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": ",",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " and of the outer cloisters, and of the upper and of the lower (storeys); and of the treasury (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "bêth gazzā",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ")",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": ",",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " and of the house of service of the Lord’s house, ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "and of the kitchens, and of the house of the water-carriers",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " (or cupbearers), ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "and of the house of lampmen.”",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " The last words are interesting, as explaining the nature of “the work of the service” (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "1Chronicles 28:13",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ").",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "",
+        "children": [
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Matthew Henry's Concise Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "28:11-21 The temple must be a sacred thing, and a type of Christ; it must be framed by Divine teaching. Christ is the true temple, the church is the gospel temple, and heaven the everlasting temple; all are framed according to the Divine counsels, and the plan laid in the Divine wisdom, ordained before the world, for God's glory and our good. David gave this pattern to Solomon, that he might go by rule. Materials were provided for the most costly utensils of the temple. Directions were given which way to look for help in this great undertaking. Be not dismayed; God will help thee, and thou must look up to him in the first place. We may be sure that God, who owned our fathers, and carried them through the services of their day, will, in like manner, never leave us, while he has any work to do in us, or by us. Good work is likely to go on, when all concerned are hearty in furthering it. Let us hope in God's mercy; if we seek him, he will be found of us.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Barnes' Notes on the Bible",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "The pattern ... - literally, \"the pattern of all that was with him in the spirit;\" perhaps to be paraphrased, \"the form of all that floated before his mind.\" It seems to be David's spirit, not God's Spirit, that is here spoken of. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Jamieson-Fausset-Brown Bible Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "12. the pattern of all that he had by the spirit—rather, \"with him in spirit\"; that is, was floating in his mind.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Matthew Poole's Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": " No text from Poole on this verse. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Gill's Exposition of the Entire Bible",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "And also for the courses of the priests and Levites,.... Where they should serve, of which, as fixed and ordered by David, see ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Chronicles 24:1",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". ",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "and for all the work of the service of the house of the Lord; they should be employed in: ",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "and for all the vessels of service in the house of the Lord; which they should use therein. ",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "and for all the vessels of service in the house of the Lord; which they should use therein. ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Geneva Study Bible",
+    "elements": [
+      {
+        "element": "span",
+        "class": "cverse2",
+        "text": "Also for the courses of the priests and the Levites, and for all the work of the service of the house of the LORD, and for all the vessels of service in the house of the LORD.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXEGETICAL (ORIGINAL LANGUAGES)",
+    "name": "Cambridge Bible for Schools and Colleges",
+    "elements": [
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "13",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "also for the courses",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "] Render, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "Also in regard to the courses",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Chronicles 28:13-18",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " hang closely together; cp. the punctuation of the R.V.; and the summarizing phrase ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "All this",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " of ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Chronicles 28:19",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ".",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "of the priests and the Levites",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "] Cp. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Chronicles 24:1-31",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ".",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXEGETICAL (ORIGINAL LANGUAGES)",
+    "name": "Pulpit Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "cmt_sub_title",
+        "text": "Verse 13.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " - This verse either continues the subject of the giving of the patterns, which will read rather harshly, as preceding ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "cmt_word",
+        "text": "the courses of the priests and the Levites",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", and could only mean directions or instructions for their interchange, etc.; or it may continue the subject of the \"",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "accented",
+        "text": "chambers",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " round about\" \"for the treasures of the house of God,\" etc., also for the convenience \"of the courses of the priests,\" etc., and \"for all the work,\" etc., and for keeping \"all the vessels of service,\" etc. Bertheau and Keil somewhat scout the former supposition, and adhere to the latter. 1 Chronicles 28:13",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXEGETICAL (ORIGINAL LANGUAGES)",
+    "name": "Keil and Delitzsch Biblical Commentary on the Old Testament",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "הך וּלמחלקות (continuation of לאצרות), \"and for the divisions of the priests and Levites, and for all the work of the service, and for all vessels,\" - for for all these purposes, viz., for the sojourn of the priests and Levites in the service, as well as for the performance of the necessary works, e.g., preparation of the shew-bread, cooking of the sacrificial flesh, holding of the sacrificial meals, and for the storing of the vessels necessary for these purposes, the cells and building of the courts were set apart. - With ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Chronicles 28:14",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " begins the enumeration of the vessels. לזּהב is co-ordinate with לכל־הלּשׁכות...לחצרות, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Chronicles 28:12",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " : he gave him the description of that which he had in mind \"with regard to the golden (i.e., to the golden vessels, cf. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Chronicles 29:2",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "), according to the weight of the golden, for all vessels of every service,\" in regard to all silver vessels according to the weight. - With ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Chronicles 28:15",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " the construction hitherto employed is dropped. According to the usual supposition, the verb ויּתּן is to be supplied from ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Chronicles 28:11",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " after וּמשׁקל: \"and gave him the weight for the golden candlesticks and their golden lamps,\" זהב being in a state of free subordination to the word ונרתיהם (J. H. Mich., Berth., and others). But apart from the fact that no analogous case can be found for such a subordination (for in ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Chronicles 9:15",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", which Berth. cites as such, there is no subordination, for there the first שׁחוּט זהב is the accusative of the material dependent upon ויּעשׂ), the supplying of ויּתּן gives no suitable sense; for David here does not give Solomon the metal for the vessels, but, according to ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Chronicles 28:11",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Chronicles 28:12",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Chronicles 28:19",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", only a תּבנית, pattern or model for them. If ויּתּן be supplied, נתן must be \"he appointed,\" and so have a different sense here from that which it has in ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Chronicles 28:11",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". This appears very questionable, and it is simpler to take משׁקל without the article, as an accusative of nearer definition, and to connect the verse thus: \"and (what he had in mind) as weight for the golden candlesticks and their lamps, in gold, according to the weight of each candlestick and its lamps, and for the silver candlesticks, in weight - כּעבודת, according to the service of each candlestick\" (as it corresponded to the service of each). - In ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Chronicles 28:16",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " the enumeration is continued in very loose connection: \"And as to the gold (את, quoad; cf. Ew. 277, d) by weight (משׁקל, acc. of free subordination) for the tables of the spreading out, i.e., of the shew-bread (מערכת  equals  לחם מערכת,   ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Chronicles 13:11",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "); see on ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Leviticus 24:6",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "), for each table, and silver for the silver tables.\" Silver tables, i.e., tables overlaid with silver-lamin, and silver candlesticks (",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Chronicles 28:15",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "), are not elsewhere expressly mentioned among the temple vessels, since the whole of the vessels are nowhere individually registered even in the description of the building of the temple. Yet, when the temple was repaired under Joash, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Kings 12:14",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "; ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Chronicles 24:14",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", and when it was destroyed by the Chaldeans, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Kings 25:15",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", vessels of gold and silver are spoken of. The silver candlesticks were probably, as Kimchi has conjectured, intended for the priests engaged in the service, and the tables for reception of the sacrificial flesh after it had been prepared for burning upon the altar.",
+        "children": []
+      }
+    ]
+  }
+]

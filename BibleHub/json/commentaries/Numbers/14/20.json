@@ -1,0 +1,885 @@
+[
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Ellicott's Commentary for English Readers",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "(20) ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "I have pardoned according to thy word.—",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "The holiness and justice of the Lord required that punishment should overtake the transgressors, as it had been foretold in ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Exodus 32:34",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". Nevertheless the prayer of Moses was heard and answered, and the people were not wholly exterminated.",
+        "children": []
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "(21, 22, 23) But as truly as I live . . . —The three verses may be rendered as follows:—Nevertheless, as truly as I live, and all the earth shall be filled with the glory of the Lord, none of those men who have seen my glory and my signs which I did in Egypt and in the wilderness, and (who) tempted me these ten times, and hearkened not unto my voice, shall see the land which I sware unto their fathers, &c. Some have explained the words these ten times by adding to the eight murmurings which are recorded—(1) at the Red Sea (Exodus 14:11-12); (2) at Marah (Exodus 15:23); (3) in the wilderness of Sin (Exodus 16:2); (4) at Rephidim (Exodus 17:1); (5) at Horeb (Exodus 32); (6) at Taberah (Numbers 11:1); (7) at the graves of lust (Numbers 11:4); and (8) at Kadesh (Numbers 14)—the transgressions of certain individuals—(1) in keeping the manna until the morning of the day after that on which it was gathered (Exodus 16:20); and (2) in going out to gather the manna on the seventh day, when none fell (Exodus 16:27). It is more probable, however, that the number ten is used here, as elsewhere (comp. Genesis 31:7), as denoting a full measure. The persons to whom the penalty applied are specified in Numbers 14:29 : viz., those who were included in the first census. The principal exceptions to the threat of exclusion from the land of promise are specified in Numbers 14:30-31 : viz., Joshua and Caleb, and the generation which had not reached twenty years of age at the exodus. The other exception, or exceptions, if such there were, belonged to the tribe of Levi, which was not included in the census which was first taken, nor represented by the spies. It has been inferred from the fact that Nadab and Abihu only went up into the mountain with Moses and Aaron, that Eleazar, who entered Canaan with Joshua (Joshua 14:1), was under twenty years of age at the exodus. It may be observed that it does not follow that the regulation respecting the age of the Levites at the time of entering upon their service applied also to the priests, and consequently Eleazar may have been under twenty years of age at the time of his consecration. (Comp. 2Chronicles 31:17.) There seems, however, to be no sufficient authority for such a supposition.",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "(21, 22, 23) ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "bld",
+            "text": "But as truly as I live . . . —",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "The three verses may be rendered as follows:—",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "Nevertheless, as truly as I live, and all the earth shall be filled with the glory of the Lord, none of those men who have seen my glory and my signs which I did in Egypt and in the wilderness, and ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "(",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "who",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ")",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": " tempted me these ten times, and hearkened not unto my voice, shall see the land which I sware unto their fathers, ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "&c. Some have explained the words ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "these ten times ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "by adding to the eight murmurings which are recorded—(1) at the Red Sea (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Exodus 14:11-12",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "); (2) at Marah (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Exodus 15:23",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "); (3) in the wilderness of Sin (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Exodus 16:2",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "); (4) at Rephidim (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Exodus 17:1",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "); (5) at Horeb (Exodus 32); (6) at Taberah (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Numbers 11:1",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "); (7) at the graves of lust (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Numbers 11:4",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "); and (8) at Kadesh (Numbers 14)—the transgressions of certain individuals—(1) in keeping the manna until the morning of the day after that on which it was gathered (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Exodus 16:20",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "); and (2) in going out to gather the manna on the seventh day, when none fell (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Exodus 16:27",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "). It is more probable, however, that the number ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "ten ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "is used here, as elsewhere (comp. ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Genesis 31:7",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "), as denoting a full measure. The persons to whom the penalty applied are specified in ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Numbers 14:29",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " : viz., those who were included in the first census. The principal exceptions to the threat of exclusion from the land of promise are specified in ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Numbers 14:30-31",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " : viz., Joshua and Caleb, and the generation which had not reached twenty years of age at the exodus. The other exception, or exceptions, if such there were, belonged to the tribe of Levi, which was not included in the census which was first taken, nor represented by the spies. It has been inferred from the fact that Nadab and Abihu only went up into the mountain with Moses and Aaron, that Eleazar, who entered Canaan with Joshua (",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Joshua 14:1",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "), was under twenty years of age at the exodus. It may be observed that it does not follow that the regulation respecting the age of the Levites at the time of entering upon their service applied also to the priests, and consequently Eleazar ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "ital",
+            "text": "may ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": "have been under twenty years of age at the time of his consecration. (Comp. ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "2Chronicles 31:17",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": ".) There seems, however, to be no sufficient authority for such a supposition.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Benson Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "bld",
+        "text": "Numbers 14:20-22",
+        "children": [
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Numbers 14:20-22",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "I have pardoned — ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "So far as not utterly to destroy them. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "With the glory of the Lord — ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "With the report of the glorious and righteous acts of God in punishing this rebellious people. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "My glory — ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "That is, my glorious appearances in the cloud, and in the tabernacle. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "ital",
+        "text": "Ten times — ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "That is, many times. A certain number for an uncertain.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Matthew Henry's Concise Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "14:20-35 The Lord granted the prayer of Moses so far as not at once to destroy the congregation. But disbelief of the promise forbids the benefit. Those who despise the pleasant land shall be shut out of it. The promise of God should be fulfilled to their children. They wished to die in the wilderness; God made their sin their ruin, took them at their word, and their carcases fell in the wilderness. They were made to groan under the burden of their own sin, which was too heavy for them to bear. Ye shall know my breach of promise, both the causes of it, that it is procured by your sin, for God never leaves any till they first leave him; and the consequences of it, that will produce your ruin. But your little ones, now under twenty years old, which ye, in your unbelief, said should be a prey, them will I bring in. God will let them know that he can put a difference between the guilty and the innocent, and cut them off without touching their children. Thus God would not utterly take away his loving kindness.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Barnes' Notes on the Bible",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "The syntax of these verses is singularly broken. As did Paul when deeply moved, so Moses presses his arguments one on the other without pausing to ascertain the grammatical finish of his expressions. He speaks here as if in momentary apprehension of an outbreak of God's wrath, unless he could perhaps arrest it by crowding in every topic of deprecation and intercession that he could mention on the instant. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Jamieson-Fausset-Brown Bible Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "17. let the power of my Lord be great—be magnified.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Matthew Poole's Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": " So far as not utterly to destroy them, as I threatened, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "bldvs",
+        "text": " Numbers 14:12",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": " ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Numbers 14:12",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", and thou didst fear, and beg the prevention of it, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "bldvs",
+        "text": " Numbers 14:15",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": " ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "verse-link",
+            "text": "Numbers 14:15",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "p",
+        "text": "",
+        "children": [
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          },
+          {
+            "element": "br",
+            "class": "",
+            "text": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Gill's Exposition of the Entire Bible",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "And the Lord said, I have pardoned, according to thy word. So as not to kill them utterly as one man: which is an instance of his being plenteous in mercy, and ready to forgive; and of the virtue and efficacy of the effectual fervent prayer of a righteous man, and of the great regard the Lord has to the prayers of a good man for others. The Jerusalem Targum is,\"and the Word of the Lord said, lo, I have remitted and forgiven according to thy word;''which must be understood of Christ, the essential Word, and shows, according to the sense of the Targumist, that he has a power to forgive sin, and must be a divine Person, for none can forgive sin but God; see ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Mark 2:7",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ". ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXPOSITORY (ENGLISH BIBLE)",
+    "name": "Geneva Study Bible",
+    "elements": [
+      {
+        "element": "span",
+        "class": "cverse2",
+        "text": "And the LORD said, I have pardoned {h} according to thy word:",
+        "children": [
+          {
+            "element": "span",
+            "class": "",
+            "text": "And the LORD said, I have pardoned ",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "cverse3",
+            "text": "{h}",
+            "children": []
+          },
+          {
+            "element": "span",
+            "class": "",
+            "text": " according to thy word:",
+            "children": []
+          }
+        ]
+      },
+      {
+        "element": "p",
+        "class": "",
+        "text": "(h) In that he did not utterly destroy them, but allowed their children and certain others to enter.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXEGETICAL (ORIGINAL LANGUAGES)",
+    "name": "Pulpit Commentary",
+    "elements": [
+      {
+        "element": "span",
+        "class": "cmt_sub_title",
+        "text": "Verse 20.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " - ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "cmt_word",
+        "text": "I",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "cmt_word",
+        "text": "have pardoned.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " Whatever necessary exceptions and qualifications might remain to be afterwards declared, the great fact that he forgave the nation, and that the nation should not die, is announced without delay and without reservation (cf. ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "2 Samuel 12:13",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "). ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "cmt_word",
+        "text": "According to thy word.",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " Such power had God been pleased to give unto man, that at the intercession of the mediator a whole nation is delivered from imminent death and destruction. Numbers 14:20",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "type": "EXEGETICAL (ORIGINAL LANGUAGES)",
+    "name": "Keil and Delitzsch Biblical Commentary on the Old Testament",
+    "elements": [
+      {
+        "element": "span",
+        "class": "",
+        "text": "In answer to this importunate prayer, the Lord promised forgiveness, namely, the preservation of the nation, but not the remission of the well-merited punishment. At the rebellion at Sinai, He had postponed the punishment \"till the day of His visitation\" (",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Exodus 32:34",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "). And that day had now arrived, as the people had carried their continued rebellion against the Lord to the furthest extreme, even to an open declaration of their intention to depose Moses, and return to Egypt under another leader, and thus had filled up the measure of their sins. \"Nevertheless,\" added the Lord (",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Numbers 14:21",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ", ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Numbers 14:22",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "), \"as truly as I live, and the glory of Jehovah will fill the whole earth, all the men who have seen My glory and My miracles...shall not see the land which I sware unto their fathers.\" The clause, \"all the earth,\" etc., forms an apposition to \"as I live.\" Jehovah proves Himself to be living, by the fact that His glory fills the whole earth. But this was to take place, not, as Knobel, who mistakes the true connection of the different clauses, erroneously supposes, by the destruction of the whole of that generation, which would be talked of by all the world, but rather by the fact that, notwithstanding the sin and opposition of these men, He would still carry out His work of salvation to a glorious victory. The כּי in ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Numbers 14:22",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " introduces the substance of the oath, as in ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Isaiah 49:18",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "; ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Samuel 14:39",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "; ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "1 Samuel 20:3",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "; and according to the ordinary form of an oath, אם in ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Numbers 14:23",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " signifies \"not.\" - \"They have tempted Me now ten times.\" Ten is used as the number of completeness and full measure; and this answered to the actual fact, if we follow the Rabbins, and add to the murmuring (1) at the Red Sea, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Exodus 14:11-12",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "; (2) at Marah, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Exodus 15:23",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "; (3) in the wilderness of Sin, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Exodus 16:2",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "; (4) at Rephidim, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Exodus 17:1",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "; (5) at Horeb, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Exodus 32",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "; (6) at Tabeerah, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Numbers 11:1",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "; (7) at the graves of lust, ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Numbers 11:4",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": ".; and (8) here again at Kadesh, the twofold rebellion of certain individuals against the commandments of God at the giving of the manna (",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Exodus 16:20",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": " and ",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "verse-link",
+        "text": "Exodus 16:27",
+        "children": []
+      },
+      {
+        "element": "span",
+        "class": "",
+        "text": "). The despisers of God should none of them see the promised land. ",
+        "children": []
+      }
+    ]
+  }
+]
