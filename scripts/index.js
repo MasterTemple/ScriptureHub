@@ -93,7 +93,7 @@ async function updateRightContent(verse) {
 }
 
 async function updateInterLinearContent(verse) {
-  let {book, chapter, start_verse, end_verse} = [...verse.matchAll(/(?<book>\d? ?\w+) (?<chapter>\d{1,3}):(?<start_verse>\d{1,3})-?(?<end_verse>\d{1,3})?/gim
+  let {book, chapter, start_verse, end_verse} = [...verse.matchAll(/(?<book>\d? ?[\w\s]+) ?(?<chapter>\d{1,3})[:\s](?<start_verse>\d{1,3})-?(?<end_verse>\d{1,3})?/gim
     )]?.[0]?.groups
 
   // let interlinear = await get(`./../BibleHub/json/interlinear/${book.to}/${chapter}/${start_verse}.json`)
