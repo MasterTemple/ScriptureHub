@@ -168,6 +168,33 @@ async function updateCommentaryContent(verse) {
     </article>
     `
   })
+  apiData.commentary.forEach((com, c) => {
+    let commentary = document.getElementById(`commentary-text-${c}`)
+
+    com.elements.forEach(e => {
+      let txt = ""
+      if(e.children.length > 0){
+        e.children.forEach((el) => {
+          let childElementClass = ""
+          if(el.class){
+            childElementClass = `class="${el.class}"`
+          }
+          txt += `<${el.element} ${childElementClass}">${el.text}</${el.element}>`
+        })
+      }else{
+        txt = e.text
+      }
+      let elementClass = ""
+      if(e.class){
+        elementClass = `class="${e.class}"`
+      }
+      commentary.innerHTML +=
+      `
+      <${e.element} ${elementClass}>${txt}</${e.element}>
+      `
+
+    })
+  })
 }
 async function updateContextContent(verse) {
   let {book, chapter, start_verse, end_verse} = [...verse.matchAll(/(?<book>\d? ?\w+) (?<chapter>\d{1,3}):(?<start_verse>\d{1,3})-?(?<end_verse>\d{1,3})?/gim
@@ -197,7 +224,26 @@ async function updateContextContent(verse) {
     //    <svg class="fill-svg arrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
   })
 }
+
 function commentaryDropDown(c) {
+  // console.log(document.querySelector(`.cmt-${c} > svg`).style.transform);
+  let commentary = document.getElementById(`commentary-text-${c}`)
+
+  if(document.querySelector(`.cmt-${c} > svg`).style.transform === "rotate(90deg)"){
+    // document.querySelector(`.cmt-${c} > svg`).style.transform === "rotate(0deg)"
+    document.querySelector(`.cmt-${c} > svg`).style.transform = "rotate(0deg)"
+    // commentary.textContent = ""
+    commentary.classList.remove("selected-commentary")
+  }else{
+    commentary.classList.add("selected-commentary")
+
+    document.querySelector(`.cmt-${c} > svg`).style.transform = "rotate(90deg)"
+
+  }
+
+}
+
+function commentaryDropDownOld(c) {
   // console.log(document.querySelector(`.cmt-${c} > svg`).style.transform);
   let commentary = document.getElementById(`commentary-text-${c}`)
 

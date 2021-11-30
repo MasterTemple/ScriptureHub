@@ -153,6 +153,10 @@ async function parseAllCommentaries(references) {
   }
 
 }
+async function getTranslationsFromBibleGateway(references){
+  //https://www.biblegateway.com/passage/?search=Philippians%202&version=NASB;NIV;ESV;NKJV;NLT;
+  //https://www.biblegateway.com/passage/?search=Philippians%202&version=NET;KJV;MSG;NRSV;
+}
 // getDataFromWebsite(references)
 
 // getAllStrongsDataFromWebsite()
@@ -163,4 +167,4 @@ async function parseAllCommentaries(references) {
 // createStrongsJSON()
 // createCommentariesFromWebsite(references)
 // references = [{book: "John", chapter: 1, verse: 1}]
-parseAllCommentaries(references)
+// parseAllCommentaries(references)

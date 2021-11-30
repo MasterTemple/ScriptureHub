@@ -269,3 +269,9 @@ select:-webkit-autofill:focus {
 .greekheb {
   color: var(--gold)
 }
+.commentary-text {
+  display: none;
+}
+.selected-commentary {
+  display: block;
+}
