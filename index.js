@@ -4,8 +4,10 @@ let getLocalVerseData = require('./getLocalVerseData')
 let getStrongsData = require('./getStrongsData')
 let getStrongsJSON = require('./getStrongsJSON')
 let references = require('./references.json')
+let refs = require('./refs.json')
 let getCommentaryData = require('./getCommentaryData')
 let parseCommentary = require('./parseCommentary')
+let {downloadBibleGatewayVerses} = require('./functions')
 // classes are not necessary, but I thought I might use it cause I never do :)
 /*
 let referenceList = require('./referenceList.json')
@@ -99,11 +101,11 @@ async function getAllStrongsDataFromWebsite() {
   }
 }
 async function createStrongsJSON() {
-for(let i=1;i<=8674;i++){
-  if(!fs.existsSync(`./BibleHub/strongs/html/hebrew/${i}.htm`)) continue;
-  if(fs.existsSync(`./BibleHub/json/strongs/hebrew/${i}.json`)) continue;
-  getStrongsJSON("hebrew", i)
-}
+  for(let i=1;i<=8674;i++){
+    if(!fs.existsSync(`./BibleHub/strongs/html/hebrew/${i}.htm`)) continue;
+    if(fs.existsSync(`./BibleHub/json/strongs/hebrew/${i}.json`)) continue;
+    getStrongsJSON("hebrew", i)
+  }
   for(let i=1;i<=5624;i++){
     if(!fs.existsSync(`./BibleHub/strongs/html/greek/${i}.htm`)) continue;
     if(fs.existsSync(`./BibleHub/json/strongs/greek/${i}.json`)) continue;
@@ -153,7 +155,17 @@ async function parseAllCommentaries(references) {
   }
 
 }
-async function getTranslationsFromBibleGateway(references){
+async function getTranslationsFromBibleGateway(refs, translations){
+  // while(translations)
+  let entries = Object.entries(refs)
+  for(let [book, chapters] of entries) {
+    fs.mkdir(`./BibleGateway/translations/html/${book}/${translations.join("-")}`, { recursive: true }, ()=>{})
+    // console.log({book, chapters});
+    for(let chapter=1;chapter<chapters.length; chapter++){
+      console.log(`Downloading ${book} ${chapter} (${translations.join(", ")})`);
+      await downloadBibleGatewayVerses(book, chapter, translations)
+    }
+  }
   //https://www.biblegateway.com/passage/?search=Philippians%202&version=NASB;NIV;ESV;NKJV;NLT;
   //https://www.biblegateway.com/passage/?search=Philippians%202&version=NET;KJV;MSG;NRSV;
 }
@@ -168,3 +180,11 @@ async function getTranslationsFromBibleGateway(references){
 // createCommentariesFromWebsite(references)
 // references = [{book: "John", chapter: 1, verse: 1}]
 // parseAllCommentaries(references)
+let translations = [
+  ["NASB", "NIV", "ESV", "NKJV", "NLT"],
+  ["NET", "KJV", "MSG", "NRSV", "YLT"]
+]
+refs = {"1 Timothy":[0,20,15,16,16,25,21]}
+translations.forEach((eachGroup) => {
+  getTranslationsFromBibleGateway(refs, eachGroup)
+})
