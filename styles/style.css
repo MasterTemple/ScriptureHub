@@ -299,3 +299,6 @@ select:-webkit-autofill:focus {
 #context-icon {
   margin-right: 4rem !important;
 }
+.commentary-header > svg {
+  align-self: center;
+}

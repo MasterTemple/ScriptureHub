@@ -34,6 +34,9 @@ async function searchVerse(verse) {
   // verse = verse.replace(/psalm(?=[^s])/gim, "Psalms")
   // verse = verse.replace(/Songs? of Songs/gim, "Song of Songs")
   // let verse = document.getElementById("search").value
+  // verse[0] = verse[0].toUpperCase()
+  verse = verse.replace(/^./g, (m => m.toUpperCase()))
+
   apiData = {
     interlinear: [],
     commentary: [],
@@ -100,6 +103,12 @@ async function searchVerse(verse) {
   }
   await updateRightContent(document.getElementById("search").value)
   // loads all the data
+  let lowerBook = book.toLowerCase()
+    if(lowerBook === "psalm"){
+      book = "Psalms"
+    }else if(lowerBook === "song of solomon" || lowerBook === "songs of solomon" || lowerBook === "song of songs"){
+      book = "Songs"
+    }
   Object.keys(apiData).forEach( async(key) => {
     // if its not already being updated
     if(key !== rightContent){
@@ -173,7 +182,7 @@ async function updateInterLinearContent(verse) {
     }else{
       json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}.json`)
       json = Object.entries(json).filter(([k,v]) => parseInt(k)>=start_verse && parseInt(k)<=end_verse).map(([k,v]) => v)
-      console.log(json);
+      // console.log(json);
     }
     // json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
     apiData['interlinear'] = json
@@ -183,6 +192,7 @@ async function updateInterLinearContent(verse) {
   // console.log(int);
   int.innerHTML = ""
   let thisVerse = start_verse
+  console.log(json);
   for(let eachVerse of json){
     // int.innerHTML += `
     // <article class="interlinear-card"
@@ -481,6 +491,8 @@ function commentaryDropDownOld(c) {
 
 function changeRightContent(iconClicked) {
   // document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(40%) opacity(0.7)";
+  document.querySelector(".second").scrollTo(0, 0);
+
   document.getElementById(`${rightContent}-icon`).classList.remove("selected")
   document.getElementById(rightContent).id = iconClicked
   rightContent = iconClicked
@@ -507,13 +519,17 @@ document.addEventListener("DOMContentLoaded", async() => {
 document.addEventListener("keyup", function(event) {
   // console.log(event);
   if (event.key === "Enter") {
-      searchVerse(document.getElementById("search").value)
+    document.getElementById("search").value = document.getElementById("search").value.replace(/^./g, (m => m.toUpperCase())).replace(/(?<=^\d? ?[A-z]+)(?=\d+:)/g, " ")
+    // verse[0] = verse[0].toUpperCase()
+
+    searchVerse(document.getElementById("search").value)
   }
   if(event.target.id === "search"){
     // console.log(event.target.value);
     // if(event.target.value)
     // console.log(event.target.value.match(/(?<=\d? ?[A-z\s]+\d+: ?\d+-?\d* ?)[A-z]+\d*/gim));
     event.target.value = event.target.value.replace(/(?<=\d? ?[A-z\s]+\d+: ?\d+-?\d* ?)[A-z]+\d*/gim, (m) => m.toUpperCase())
+    // event.target.value = event.target.value.replace(/^./g, (m => m.toUpperCase()))
   }
 });
 
