@@ -6,6 +6,8 @@ var apiData = {
   commentary: [],
   context: []
 }
+var references
+
 const availableTranslations = ["ESV", "NASB", "NKJV"]
 // const allVersesRegex = new RegExp(`(${availableTranslations.join("|")})`, "gi")
 // const allVersesRegex = new RegExp(`(?<=\d? ?[A-z\s]+\d+: ?\d+-?\d* ?)[A-z]+\d*`, "gim")
@@ -39,8 +41,12 @@ async function searchVerse(verse) {
   }
   console.log(verse);
   document.title = `ScriptureHub - ${verse}`
-  let {book, chapter, start_verse, end_verse, givenTranslation} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):(?<start_verse>\d{1,3})-?(?<end_verse>\d{1,3})? ?(?<givenTranslation>[A-z0-9]+)?/gim
+  let {book, chapter, start_verse, end_verse, givenTranslation} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):?(?<start_verse>\d{1,3})?-?(?<end_verse>\d{1,3})? ?(?<givenTranslation>[A-z0-9]+)?/gim
     )]?.[0]?.groups
+  if(!start_verse){
+    start_verse = 1
+    end_verse = references[book][chapter]
+  }
   if(availableTranslations.includes(givenTranslation?.toUpperCase())){
     // console.log({availableTranslations, givenTranslation, primaryTranslation});
     primaryTranslation = givenTranslation.toUpperCase()
@@ -122,9 +128,12 @@ async function updateRightContent(verse) {
 }
 
 async function updateInterLinearContent(verse) {
-  let {book, chapter, start_verse, end_verse} = [...verse.matchAll(/(?<book>\d? ?[\w\s]+) (?<chapter>\d{1,3})[:\s](?<start_verse>\d{1,3})-?(?<end_verse>\d{1,3})?/gim
+  let {book, chapter, start_verse, end_verse, givenTranslation} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):?(?<start_verse>\d{1,3})?-?(?<end_verse>\d{1,3})? ?(?<givenTranslation>[A-z0-9]+)?/gim
     )]?.[0]?.groups
-
+  if(!start_verse){
+    start_verse = 1
+    end_verse = references[book][chapter]
+  }
   // let interlinear = await get(`./../BibleHub/json/interlinear/${book.to}/${chapter}/${start_verse}.json`)
   let json = apiData.interlinear
   let lowerBook = book.toLowerCase()
@@ -159,8 +168,12 @@ async function updateInterLinearContent(verse) {
   })
 }
 async function updateCommentaryContent(verse) {
-  let {book, chapter, start_verse, end_verse} = [...verse.matchAll(/(?<book>\d? ?\w+) (?<chapter>\d{1,3}):(?<start_verse>\d{1,3})-?(?<end_verse>\d{1,3})?/gim
+  let {book, chapter, start_verse, end_verse, givenTranslation} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):?(?<start_verse>\d{1,3})?-?(?<end_verse>\d{1,3})? ?(?<givenTranslation>[A-z0-9]+)?/gim
     )]?.[0]?.groups
+  if(!start_verse){
+    start_verse = 1
+    end_verse = references[book][chapter]
+  }
 
   // let interlinear = await get(`./../BibleHub/json/interlinear/${book.to}/${chapter}/${start_verse}.json`)
   let json = apiData.commentary
@@ -226,8 +239,12 @@ async function updateCommentaryContent(verse) {
   })
 }
 async function updateContextContent(verse) {
-  let {book, chapter, start_verse, end_verse} = [...verse.matchAll(/(?<book>\d? ?\w+) (?<chapter>\d{1,3}):(?<start_verse>\d{1,3})-?(?<end_verse>\d{1,3})?/gim
+  let {book, chapter, start_verse, end_verse, givenTranslation} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):?(?<start_verse>\d{1,3})?-?(?<end_verse>\d{1,3})? ?(?<givenTranslation>[A-z0-9]+)?/gim
     )]?.[0]?.groups
+  if(!start_verse){
+    start_verse = 1
+    end_verse = references[book][chapter]
+  }
 
   // let interlinear = await get(`./../BibleHub/json/interlinear/${book.to}/${chapter}/${start_verse}.json`)
   // let json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
@@ -356,6 +373,7 @@ document.addEventListener("DOMContentLoaded", async() => {
   document.getElementById("search").value = startVerse
   // document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(0%) opacity(1)";
   document.getElementById(`${rightContent}-icon`).classList.add("selected")
+  references = await get("https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/refs.json")
   // console.log(document.getElementById(`${rightContent}-icon`).classList);
   // document.getElementById(`${rightContent}-icon`).style.color = "var(--accent-color)"
   // document.getElementById(`${rightContent}-icon`).style["border-bottom"] = "2px solid var(--accent-color);"
