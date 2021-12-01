@@ -104,10 +104,14 @@ async function searchVerse(verse) {
     // if its not already being updated
     if(key !== rightContent){
       if(key === "interlinear"){
-        apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleGateway/translations/json/${book}/${chapter}/${primaryTranslation}.json`)
+        apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
       }
       if(key === "commentary"){
-        apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
+        if(!end_verse){
+          apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
+        }else{
+          apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}.json`)
+        }
       }
       if(key === "context"){
         apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleGateway/translations/json/${book}/${chapter}/${primaryTranslation}.json`)
@@ -208,7 +212,12 @@ async function updateCommentaryContent(verse) {
       book = "Songs"
     }
     if(json.length === 0)  {
-      json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
+      if(!end_verse){
+        json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
+      }else{
+        json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}.json`)
+      }
+      // json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
       apiData['commentary'] = json
     }
     // console.log(json);

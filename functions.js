@@ -148,5 +148,17 @@ module.exports = {
 
       }
     })
+  },
+  async mergeInterlinears(book, chapter, lastVerse) {
+    return new Promise(async(resolve, reject) => {
+
+      let chapterData = {}
+      for(let verse=1;verse<=lastVerse;verse++){
+        let file = require(`./BibleHub/json/interlinear/${book}/${chapter}/${verse}.json`)
+        chapterData[verse] = file
+      }
+      await writeFile(`./BibleHub/json/interlinear/${book}/${chapter}.json`, JSON.stringify(chapterData))
+      resolve()
+    })
   }
 }

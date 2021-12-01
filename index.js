@@ -7,7 +7,7 @@ let references = require('./references.json')
 let refs = require('./refs.json')
 let getCommentaryData = require('./getCommentaryData')
 let parseCommentary = require('./parseCommentary')
-let {downloadBibleGatewayVerses, parseBibleGateway, parseTranslation} = require('./functions')
+let {downloadBibleGatewayVerses, parseBibleGateway, parseTranslation, mergeInterlinears} = require('./functions')
 // classes are not necessary, but I thought I might use it cause I never do :)
 /*
 let referenceList = require('./referenceList.json')
@@ -187,6 +187,17 @@ async function parseAllOfBibleGateway(refs, translation) {
   }
 
 }
+
+async function createInterlinearChapters(refs){
+  //creates chapters from the interlinear verses
+  let entries = Object.entries(refs)
+  for(let [book, chapters] of entries) {
+    for(let chapter=1;chapter<chapters.length; chapter++){
+      console.log(`Creating Interlinear For ${book} ${chapter}`);
+      await mergeInterlinears(book, chapter, chapters[chapter]/*verse length*/)
+    }
+  }
+}
 // getDataFromWebsite(references)
 
 // getAllStrongsDataFromWebsite()
@@ -224,8 +235,10 @@ let translationList = ["KJ21","ASV","AMP","AMPC","BRG","CSB","CEB","CJB","CEV","
 
 // })
 // run again with these translations to get the verse i missed
-translationList = ["NASB", "ESV", "NKJV"]
-translationList.forEach(e => {
-  parseAllOfBibleGateway(refs, e)
-})
 
+// translationList = ["NASB", "ESV", "NKJV"]
+// translationList.forEach(e => {
+//   parseAllOfBibleGateway(refs, e)
+// })
+
+createInterlinearChapters(refs)
