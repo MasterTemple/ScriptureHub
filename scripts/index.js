@@ -1,10 +1,15 @@
 // const ENTER_KEY = "13"
 var rightContent = "interlinear"
+var primaryTranslation = "ESV"
 var apiData = {
   interlinear: [],
   commentary: [],
   context: []
 }
+const availableTranslations = ["ESV", "NASB", "NKJV"]
+// const allVersesRegex = new RegExp(`(${availableTranslations.join("|")})`, "gi")
+// const allVersesRegex = new RegExp(`(?<=\d? ?[A-z\s]+\d+: ?\d+-?\d* ?)[A-z]+\d*`, "gim")
+
 async function get(url){
 
   return new Promise( (resolve, reject) => {
@@ -34,33 +39,57 @@ async function searchVerse(verse) {
   }
   console.log(verse);
   document.title = `ScriptureHub - ${verse}`
-  // let {book, chapter, start_verse, end_verse} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):(?<start_verse>\d{1,3})-?(?<end_verse>\d{1,3})?/gim
-  //   )]?.[0]?.groups
+  let {book, chapter, start_verse, end_verse, givenTranslation} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):(?<start_verse>\d{1,3})-?(?<end_verse>\d{1,3})? ?(?<givenTranslation>[A-z0-9]+)?/gim
+    )]?.[0]?.groups
+  if(availableTranslations.includes(givenTranslation?.toUpperCase())){
+    // console.log({availableTranslations, givenTranslation, primaryTranslation});
+    primaryTranslation = givenTranslation.toUpperCase()
+    // console.log({availableTranslations, givenTranslation, primaryTranslation});
 
-  // // let interlinear = await get(`./../BibleHub/json/interlinear/${book.to}/${chapter}/${start_verse}.json`)
-  // let json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
+  }
+  start_verse = parseInt(start_verse)
+  end_verse = parseInt(end_verse)
+  let verseRange = start_verse
 
-  // console.log(json);
-  // let int = document.getElementById(rightContent)
-  // // console.log(int);
-  // int.innerHTML = ""
-  // json.forEach( ({word, grk, heb, translit, str, str2, parse}) => {
+  if(end_verse){
+    verseRange = `${start_verse}-${end_verse}`
+  }
 
-  //   int.innerHTML += `
-  //   <h3>${word} - ${grk || heb} ${translit}</h3>
-  //   <h4>${parse}</h4>
-  //   <p>${str2}</p>
-  //   `
-  // })
-  let translations = ["web", "kjv", "bbe", ]//"oeb-us"]
+  let translations = [primaryTranslation, ...availableTranslations.filter(f=>f!==primaryTranslation)]//["NASB", "ESV", "NKJV", ]
   let left = document.querySelector(".first")
   left.innerHTML = ""
   for(let translation of translations){
-    let data = await get(`https://bible-api.com/${verse.toLowerCase()}?translation=${translation}`)
-    if(!data.reference) continue;
+    let data = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleGateway/translations/json/${book}/${chapter}/${translation}.json`)
+
+    let text = ""
+    if(!end_verse){
+      text = `<p>${data.find(f=>f.num===start_verse).verse}</p>`
+    }else{
+      data.forEach(({header, num, verse}, c) => {
+        // console.log({header, num, verse}, c);
+        if(header && data[c+1].num >= start_verse && data[c+1].num <= end_verse){
+          // console.log(`header:${header} index:${c}`);
+
+          // console.log(data[c]);
+          // console.log(data[c+1]);
+          // console.log(`${data[c+1].num} > ${start_verse} && ${data[c+1].num} < ${end_verse}`);
+
+          // console.log(data[c+1].num >= start_verse && data[c+1].num <= end_verse);
+          // && data[c+1].num >= start_verse && data[c+1].num <= end_verse
+          text = text + `<p class="passage-header">${header}</p>`
+        }
+        else if(num >= start_verse && num <= end_verse){
+          // console.log({header, num, verse});
+          text = text + `<p class="passage-verses"><sup class="verse-num">${num} </sup>${verse}</p>`
+        }
+      })
+    }
+
+    // console.log(data);
+
     left.innerHTML += `
-    <h3>${data.reference} - ${translation.toUpperCase()}</h3>
-    <p>${data.text}</p>
+    <h3>${book} ${chapter}:${verseRange} ${translation}</h3>
+    ${text}
     `
   }
   updateRightContent(document.getElementById("search").value)
@@ -204,24 +233,44 @@ async function updateContextContent(verse) {
   // let json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
   let json = apiData.context
   if(json.length === 0)  {
-    json = await get(`https://bible-api.com/${book}%20${chapter}`)
+    // json = await get(`https://bible-api.com/${book}%20${chapter}`)
+    json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleGateway/translations/json/${book}/${chapter}/${primaryTranslation}.json`)
+
     apiData['context'] = json
   }
 
   // console.log(json);
   let int = document.getElementById(rightContent)
   // console.log(int);
-  int.innerHTML = `<h2 id="book-title">${book} ${chapter}</h2>`
-  json.verses.forEach( ({verse, text}) => {
+  int.innerHTML = `<h2 id="book-title">${book} ${chapter} ${primaryTranslation}</h2>`
+  // json.verses.forEach( ({verse, text}) => {
 
-    int.innerHTML += `
-    <article class="context-card">
-    <div class="context-content">
-    <p class="context-verse" id="verse${verse}"><span class="accent verse-num">${verse} </span><span class="verse-text">${text}</span></p>
-    </div>
-    </article>
-    `
-    //    <svg class="fill-svg arrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
+  //   int.innerHTML += `
+  //   <article class="context-card">
+  //   <div class="context-content">
+  //   <p class="context-verse" id="verse${verse}"><span class="accent verse-num">${verse} </span><span class="verse-text">${text}</span></p>
+  //   </div>
+  //   </article>
+  //   `
+  // })
+  json.forEach(({header, num, verse}, c) => {
+    if(header){
+      int.innerHTML += `
+      <article class="context-card">
+      <div class="context-content">
+      <p class="passage-header">${header}</p>
+      </div>
+      </article>
+      `
+    }else{
+      int.innerHTML += `
+      <article class="context-card">
+      <div class="context-content">
+      <p class="context-verse" id="verse${num}"><span class="accent verse-num">${num} </span><span class="verse-text">${verse}</span></p>
+      </div>
+      </article>
+      `
+    }
   })
 }
 
@@ -302,8 +351,9 @@ function changeRightContent(iconClicked) {
 
 document.querySelector("div.passage-col.version-NKJV > div.passage-text > div > div > p > span")
 document.addEventListener("DOMContentLoaded", async() => {
-  searchVerse("John 1:1")
-  document.getElementById("search").value = "John 1:1"
+  let startVerse = "John 1:1-3"
+  searchVerse(startVerse)
+  document.getElementById("search").value = startVerse
   // document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(0%) opacity(1)";
   document.getElementById(`${rightContent}-icon`).classList.add("selected")
   // console.log(document.getElementById(`${rightContent}-icon`).classList);
@@ -315,6 +365,12 @@ document.addEventListener("keyup", function(event) {
   // console.log(event);
   if (event.key === "Enter") {
       searchVerse(document.getElementById("search").value)
+  }
+  if(event.target.id === "search"){
+    // console.log(event.target.value);
+    // if(event.target.value)
+    // console.log(event.target.value.match(/(?<=\d? ?[A-z\s]+\d+: ?\d+-?\d* ?)[A-z]+\d*/gim));
+    event.target.value = event.target.value.replace(/(?<=\d? ?[A-z\s]+\d+: ?\d+-?\d* ?)[A-z]+\d*/gim, (m) => m.toUpperCase())
   }
 });
 

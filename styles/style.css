@@ -247,6 +247,8 @@ select:-webkit-autofill:focus {
 
 .verse-num {
   font-weight: bold;
+  color: var(--accent-color)
+
 }
 #book-title {
   text-align: center;
@@ -274,4 +276,13 @@ select:-webkit-autofill:focus {
 }
 .selected-commentary {
   display: block;
+}
+.passage-header {
+  font-style: italic;
+  font-weight: bold;
+}
+.passage-verses{
+  /* line-height: 60%; */
+  margin-top: 0;
+  margin-bottom: 0;
 }
