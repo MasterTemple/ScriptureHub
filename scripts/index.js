@@ -104,14 +104,14 @@ async function searchVerse(verse) {
     // if its not already being updated
     if(key !== rightContent){
       if(key === "interlinear"){
-        apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
+        if(!end_verse){
+          apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
+        }else{
+          apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}.json`)
+        }
       }
       if(key === "commentary"){
-        if(!end_verse){
-          apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
-        }else{
-          apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}.json`)
-        }
+        apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
       }
       if(key === "context"){
         apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleGateway/translations/json/${book}/${chapter}/${primaryTranslation}.json`)
@@ -168,29 +168,70 @@ async function updateInterLinearContent(verse) {
     book = "Songs"
   }
   if(json.length === 0)  {
-    json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
+    if(!end_verse){
+      json = [await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)]
+    }else{
+      json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}.json`)
+      json = Object.entries(json).filter(([k,v]) => parseInt(k)>=start_verse && parseInt(k)<=end_verse).map(([k,v]) => v)
+      console.log(json);
+    }
+    // json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
     apiData['interlinear'] = json
   }
   // console.log(json);
   let int = document.getElementById(rightContent)
   // console.log(int);
   int.innerHTML = ""
-  json.forEach( ({word, grk, heb, translit, str, str2, parse, num}) => {
-    let strongs = ""
-    if(num){
-      strongs = ` [${num}]`
+  let thisVerse = start_verse
+  for(let eachVerse of json){
+    // int.innerHTML += `
+    // <article class="interlinear-card"
+    // id="interlinear-verse-heading-${thisVerse}"
+    // onclick="interlinearVerseDropdown(${thisVerse})">
+    // <div class="interlinear-content">
+    // <h2>Verse ${thisVerse}</h2>
+    // </div>
+    // <svg class="fill-svg arrow" style="transform:rotate(90deg);" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
+    // </article>
+    // <article id="interlinear-section-${thisVerse}">
+    // `
+    let dataForThisVerse = ""
+    for(let {word, grk, heb, translit, str, str2, parse, num} of eachVerse){
+
+    // eachVerse.forEach( ({word, grk, heb, translit, str, str2, parse, num}) => {
+      let strongs = ""
+      if(num){
+        strongs = ` [${num}]`
+      }
+      // int.innerHTML += `
+      dataForThisVerse += `
+      <article class="interlinear-card">
+      <div class="interlinear-content">
+      <h3>${word} - <span class="accent">${grk || heb} ${translit} </span></h3>
+      <h4 class="parse"><span class="accent">${parse}</span>${strongs}</h4>
+      <p class="definition">${str2}</p>
+      </div>
+      <svg class="fill-svg arrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
+      </article>
+      `
+      // })
     }
-    int.innerHTML += `
-    <article class="interlinear-card">
-    <div class="interlinear-content">
-    <h3>${word} - <span class="accent">${grk || heb} ${translit} </span></h3>
-    <h4 class="parse"><span class="accent">${parse}</span>${strongs}</h4>
-    <p class="definition">${str2}</p>
-    </div>
-    <svg class="fill-svg arrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
-    </article>
-    `
-    })
+      int.innerHTML += `
+      <article class="interlinear-card"
+      id="interlinear-verse-heading-${thisVerse}"
+      onclick="interlinearVerseDropdown(${thisVerse})">
+      <div class="interlinear-content">
+      <h2>Verse ${thisVerse}</h2>
+      </div>
+      <svg class="fill-svg arrow" style="transform:rotate(90deg);" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
+      </article>
+      <article id="interlinear-section-${thisVerse}">
+      ${dataForThisVerse}
+      </article>
+      `
+      // int.innerHTML += `</article>`
+      thisVerse++
+  }
     resolve()
   })
 }
@@ -212,12 +253,12 @@ async function updateCommentaryContent(verse) {
       book = "Songs"
     }
     if(json.length === 0)  {
-      if(!end_verse){
-        json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
-      }else{
-        json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}.json`)
-      }
-      // json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
+      // if(!end_verse){
+      //   json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
+      // }else{
+      //   json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}.json`)
+      // }
+      json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
       apiData['commentary'] = json
     }
     // console.log(json);
@@ -375,6 +416,23 @@ function commentaryDropDown(c) {
   }
 
 }
+function interlinearVerseDropdown(c) {
+  // console.log(document.querySelector(`.cmt-${c} > svg`).style.transform);
+  let commentary = document.getElementById(`interlinear-section-${c}`)
+
+  if(document.querySelector(`#interlinear-verse-heading-${c} > svg`).style.transform === "rotate(90deg)"){
+    // document.querySelector(`.cmt-${c} > svg`).style.transform === "rotate(0deg)"
+    document.querySelector(`#interlinear-verse-heading-${c} > svg`).style.transform = "rotate(0deg)"
+    // commentary.textContent = ""
+    commentary.classList.add("hide-interlinear")
+  }else{
+    commentary.classList.remove("hide-interlinear")
+
+    document.querySelector(`#interlinear-verse-heading-${c} > svg`).style.transform = "rotate(90deg)"
+
+  }
+
+}
 
 function commentaryDropDownOld(c) {
   // console.log(document.querySelector(`.cmt-${c} > svg`).style.transform);
@@ -435,7 +493,7 @@ function changeRightContent(iconClicked) {
 
 document.querySelector("div.passage-col.version-NKJV > div.passage-text > div > div > p > span")
 document.addEventListener("DOMContentLoaded", async() => {
-  let initialVerse = "John 1:1"
+  let initialVerse = "John 1:1-3"
   searchVerse(initialVerse)
   document.getElementById("search").value = initialVerse
   // document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(0%) opacity(1)";

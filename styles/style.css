@@ -231,7 +231,7 @@ select:-webkit-autofill:focus {
 }
 .arrow {
   margin: auto
-
+  show-interlinear
 }
 .arrow > path{
   fill: var(--bg-secondary);
@@ -285,4 +285,7 @@ select:-webkit-autofill:focus {
   /* line-height: 60%; */
   margin-top: 0;
   margin-bottom: 0;
+}
+.hide-interlinear {
+  display: none;
 }
