@@ -177,7 +177,7 @@ async function parseAllOfBibleGateway(refs, translation) {
   for(let [book, chapters] of entries) {
     for(let chapter=1;chapter<chapters.length; chapter++){
       // once nasb runs through i wont need to make this run anymore
-      fs.mkdir(`./BibleGateway/translations/json/${book}/${chapter}`, { recursive: true }, ()=>{})
+      // fs.mkdir(`./BibleGateway/translations/json/${book}/${chapter}`, { recursive: true }, ()=>{})
 
       if(!fs.existsSync(`./BibleGateway/translations/json/${book}/${chapter}/${translation}.json`)){
         await parseTranslation(book, chapter, translation)
