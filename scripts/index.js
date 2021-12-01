@@ -29,6 +29,24 @@ async function get(url){
       // .then(data => resolve(data));
   })
 }
+async function getPassage(book, chapter, translation){
+
+  return new Promise( (resolve, reject) => {
+      fetch(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleGateway/translations/json/${book}/${chapter}/${translation}.json`)
+      .then(response => {
+        try{
+          // response.json()
+          let res = response.json()
+          resolve(res)
+          // resolve([translation, res])
+        }
+        catch{
+          resolve()
+        }
+      })
+      // .then(data => resolve(data));
+  })
+}
 
 async function searchVerse(verse) {
   // verse = verse.replace(/psalm(?=[^s])/gim, "Psalms")
@@ -97,17 +115,23 @@ async function searchVerse(verse) {
   let htmlToAdd = ""
   let firstTimeLoading = false
   if(left.innerHTML.length === 0) firstTimeLoading = true
+  let passages = translations.map(t=> getPassage(book, chapter, t))
+  passages = await Promise.all(passages)
+  // console.log({passages});
   // for(let translation of translations){
-  translations.forEach(translation => {
-    let data = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleGateway/translations/json/${book}/${chapter}/${translation}.json`)
-
+  for(let i in translations){
+    let translation = translations[i]
+  // translations.forEach(async(translation) => {
+    // let data = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleGateway/translations/json/${book}/${chapter}/${translation}.json`)
+    // let data = passages.find(f=>f[0] === translations)[1]
+    let data = passages[i]
     let text = ""
     if(!end_verse){
       text = `<p>${data.find(f=>f.num===start_verse).verse}</p>`
     }else{
       data.forEach(({header, num, verse}, c) => {
         // console.log({header, num, verse}, c);
-        if(header && data[c+1].num >= start_verse && data[c+1].num <= end_verse){
+        if(header && data[c+1]?.num >= start_verse && data[c+1]?.num <= end_verse){
           // console.log(`header:${header} index:${c}`);
 
           // console.log(data[c]);
@@ -128,14 +152,16 @@ async function searchVerse(verse) {
     // console.log(data);
 
     htmlToAdd += `
-    <h3>${book} ${chapter}:${verseRange} ${translation}</h3>
+    <h3 id="translation-${translation}">${book} ${chapter}:${verseRange} ${translation}</h3>
     ${text}
     `
     if(firstTimeLoading){
       left.innerHTML = htmlToAdd
     }
-  })
-  left.innerHTML = htmlToAdd
+  }
+  if(!firstTimeLoading){
+    left.innerHTML = htmlToAdd
+  }
   // updateRightContent(document.getElementById("search").value)
   // // loads all the data
 
@@ -191,7 +217,7 @@ async function updateRightContent(verse) {
 
 async function updateInterLinearContent(verse) {
   return new Promise (async(resolve, reject) => {
-    console.log(verse);
+    // console.log(verse);
     let {book, chapter, start_verse, end_verse, givenTranslation} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):?(?<start_verse>\d{1,3})?-?(?<end_verse>\d{1,3})? ?(?<givenTranslation>[A-z0-9]+)?/gim
     )]?.[0]?.groups
     if(!start_verse){
@@ -222,7 +248,7 @@ async function updateInterLinearContent(verse) {
   // console.log(int);
   int.innerHTML = ""
   let thisVerse = start_verse
-  console.log(json);
+  // console.log(json);
   for(let eachVerse of json){
     // int.innerHTML += `
     // <article class="interlinear-card"
