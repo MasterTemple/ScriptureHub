@@ -56,6 +56,12 @@ async function searchVerse(verse) {
     // console.log({availableTranslations, givenTranslation, primaryTranslation});
 
   }
+  let lowerBook = book.toLowerCase()
+  if(lowerBook === "psalm"){
+    book = "Psalms"
+  }else if(lowerBook === "song of solomon" || lowerBook === "songs of solomon" || lowerBook === "song of songs"){
+    book = "Songs"
+  }
   start_verse = parseInt(start_verse)
   end_verse = parseInt(end_verse)
   let verseRange = start_verse
@@ -63,11 +69,36 @@ async function searchVerse(verse) {
   if(end_verse){
     verseRange = `${start_verse}-${end_verse}`
   }
+  // loads all the data
+
+  Object.keys(apiData).forEach( async(key) => {
+    // if its not already being updated
+    if(key !== rightContent){
+      if(key === "interlinear"){
+        if(!end_verse){
+          apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
+        }else{
+          apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}.json`)
+        }
+      }
+      if(key === "commentary"){
+        apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
+      }
+      if(key === "context"){
+        apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleGateway/translations/json/${book}/${chapter}/${primaryTranslation}.json`)
+      }
+    }
+  })
+  updateRightContent(verse)
+
 
   let translations = [primaryTranslation, ...availableTranslations.filter(f=>f!==primaryTranslation)]//["NASB", "ESV", "NKJV", ]
   let left = document.querySelector(".first")
-  left.innerHTML = ""
-  for(let translation of translations){
+  let htmlToAdd = ""
+  let firstTimeLoading = false
+  if(left.innerHTML.length === 0) firstTimeLoading = true
+  // for(let translation of translations){
+  translations.forEach(translation => {
     let data = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleGateway/translations/json/${book}/${chapter}/${translation}.json`)
 
     let text = ""
@@ -96,37 +127,36 @@ async function searchVerse(verse) {
 
     // console.log(data);
 
-    left.innerHTML += `
+    htmlToAdd += `
     <h3>${book} ${chapter}:${verseRange} ${translation}</h3>
     ${text}
     `
-  }
-  await updateRightContent(document.getElementById("search").value)
-  // loads all the data
-  let lowerBook = book.toLowerCase()
-    if(lowerBook === "psalm"){
-      book = "Psalms"
-    }else if(lowerBook === "song of solomon" || lowerBook === "songs of solomon" || lowerBook === "song of songs"){
-      book = "Songs"
-    }
-  Object.keys(apiData).forEach( async(key) => {
-    // if its not already being updated
-    if(key !== rightContent){
-      if(key === "interlinear"){
-        if(!end_verse){
-          apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
-        }else{
-          apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}.json`)
-        }
-      }
-      if(key === "commentary"){
-        apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
-      }
-      if(key === "context"){
-        apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleGateway/translations/json/${book}/${chapter}/${primaryTranslation}.json`)
-      }
+    if(firstTimeLoading){
+      left.innerHTML = htmlToAdd
     }
   })
+  left.innerHTML = htmlToAdd
+  // updateRightContent(document.getElementById("search").value)
+  // // loads all the data
+
+  // Object.keys(apiData).forEach( async(key) => {
+  //   // if its not already being updated
+  //   if(key !== rightContent){
+  //     if(key === "interlinear"){
+  //       if(!end_verse){
+  //         apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
+  //       }else{
+  //         apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}.json`)
+  //       }
+  //     }
+  //     if(key === "commentary"){
+  //       apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
+  //     }
+  //     if(key === "context"){
+  //       apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleGateway/translations/json/${book}/${chapter}/${primaryTranslation}.json`)
+  //     }
+  //   }
+  // })
 
 }
 
@@ -138,7 +168,7 @@ async function updateRightContent(verse) {
     // let verse = document.getElementById("search").value
     // document.querySelector("main > .first").style.width = "50%";
     // document.querySelector("main > .second").style.width = "50%";
-    verse[0] = verse[0].toUpperCase()
+    // verse[0] = verse[0].toUpperCase()
     // document.getElementById("second").innerHTML = ""
     if(rightContent === "interlinear"){
       document.querySelector("main > .first").style.width = "50%";
@@ -161,7 +191,7 @@ async function updateRightContent(verse) {
 
 async function updateInterLinearContent(verse) {
   return new Promise (async(resolve, reject) => {
-
+    console.log(verse);
     let {book, chapter, start_verse, end_verse, givenTranslation} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):?(?<start_verse>\d{1,3})?-?(?<end_verse>\d{1,3})? ?(?<givenTranslation>[A-z0-9]+)?/gim
     )]?.[0]?.groups
     if(!start_verse){
