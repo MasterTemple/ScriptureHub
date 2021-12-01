@@ -98,40 +98,61 @@ async function searchVerse(verse) {
     ${text}
     `
   }
-  updateRightContent(document.getElementById("search").value)
+  await updateRightContent(document.getElementById("search").value)
+  // loads all the data
+  Object.keys(apiData).forEach( async(key) => {
+    // if its not already being updated
+    if(key !== rightContent){
+      if(key === "interlinear"){
+        apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleGateway/translations/json/${book}/${chapter}/${primaryTranslation}.json`)
+      }
+      if(key === "commentary"){
+        apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
+      }
+      if(key === "context"){
+        apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleGateway/translations/json/${book}/${chapter}/${primaryTranslation}.json`)
+      }
+    }
+  })
+
 }
 
 async function updateRightContent(verse) {
+  return new Promise (async(resolve, reject) => {
 
-  // passing verse parameter is unnecessary
+    // passing verse parameter is unnecessary
 
-  // let verse = document.getElementById("search").value
-  // document.querySelector("main > .first").style.width = "50%";
-  // document.querySelector("main > .second").style.width = "50%";
-  verse[0] = verse[0].toUpperCase()
-  // document.getElementById("second").innerHTML = ""
-  if(rightContent === "interlinear"){
-    document.querySelector("main > .first").style.width = "50%";
-    document.querySelector("main > .second").style.width = "50%";
-    updateInterLinearContent(verse)
-  }
-  else if(rightContent === "commentary"){
-    document.querySelector("main > .first").style.width = "40%";
-    document.querySelector("main > .second").style.width = "60%";
-    updateCommentaryContent(verse)
-  }
-  else if(rightContent === "context"){
-    document.querySelector("main > .first").style.width = "30%";
-    document.querySelector("main > .second").style.width = "70%";
-    updateContextContent(verse)
-  }
+    // let verse = document.getElementById("search").value
+    // document.querySelector("main > .first").style.width = "50%";
+    // document.querySelector("main > .second").style.width = "50%";
+    verse[0] = verse[0].toUpperCase()
+    // document.getElementById("second").innerHTML = ""
+    if(rightContent === "interlinear"){
+      document.querySelector("main > .first").style.width = "50%";
+      document.querySelector("main > .second").style.width = "50%";
+      await updateInterLinearContent(verse)
+    }
+    else if(rightContent === "commentary"){
+      document.querySelector("main > .first").style.width = "40%";
+      document.querySelector("main > .second").style.width = "60%";
+      await updateCommentaryContent(verse)
+    }
+    else if(rightContent === "context"){
+      document.querySelector("main > .first").style.width = "30%";
+      document.querySelector("main > .second").style.width = "70%";
+      await updateContextContent(verse)
+    }
+    resolve()
+  })
 }
 
 async function updateInterLinearContent(verse) {
-  let {book, chapter, start_verse, end_verse, givenTranslation} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):?(?<start_verse>\d{1,3})?-?(?<end_verse>\d{1,3})? ?(?<givenTranslation>[A-z0-9]+)?/gim
+  return new Promise (async(resolve, reject) => {
+
+    let {book, chapter, start_verse, end_verse, givenTranslation} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):?(?<start_verse>\d{1,3})?-?(?<end_verse>\d{1,3})? ?(?<givenTranslation>[A-z0-9]+)?/gim
     )]?.[0]?.groups
-  if(!start_verse){
-    start_verse = 1
+    if(!start_verse){
+      start_verse = 1
     end_verse = references[book][chapter]
   }
   // let interlinear = await get(`./../BibleHub/json/interlinear/${book.to}/${chapter}/${start_verse}.json`)
@@ -165,80 +186,115 @@ async function updateInterLinearContent(verse) {
     <svg class="fill-svg arrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
     </article>
     `
+    })
+    resolve()
   })
 }
 async function updateCommentaryContent(verse) {
-  let {book, chapter, start_verse, end_verse, givenTranslation} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):?(?<start_verse>\d{1,3})?-?(?<end_verse>\d{1,3})? ?(?<givenTranslation>[A-z0-9]+)?/gim
-    )]?.[0]?.groups
-  if(!start_verse){
-    start_verse = 1
-    end_verse = references[book][chapter]
-  }
+  return new Promise (async(resolve, reject) => {
+    let {book, chapter, start_verse, end_verse, givenTranslation} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):?(?<start_verse>\d{1,3})?-?(?<end_verse>\d{1,3})? ?(?<givenTranslation>[A-z0-9]+)?/gim
+      )]?.[0]?.groups
+    if(!start_verse){
+      start_verse = 1
+      end_verse = references[book][chapter]
+    }
 
-  // let interlinear = await get(`./../BibleHub/json/interlinear/${book.to}/${chapter}/${start_verse}.json`)
-  let json = apiData.commentary
-  let lowerBook = book.toLowerCase()
-  if(lowerBook === "psalm"){
-    book = "Psalms"
-  }else if(lowerBook === "song of solomon" || lowerBook === "songs of solomon" || lowerBook === "song of songs"){
-    book = "Songs"
-  }
-  if(json.length === 0)  {
-    json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
-    apiData['commentary'] = json
-  }
-  // console.log(json);
-  let int = document.getElementById(rightContent)
-  // console.log(int);
-  int.innerHTML = ""
-  json.forEach( ({type, name, text}, c) => {
-    // if(name === "Links") continue;
-    // int.innerHTML += `<h3>${name}</h3><p>${text.join("")}</p>`
-    // let strongs = ""
-    // if(num){
-    //   strongs = ` [${num}]`
-    // }
-    int.innerHTML += `
-    <article class="commentary-card">
-    <div class="commentary-header cmt-${c}" onclick="commentaryDropDown(${c})">
-    <div class="commentary-content">
-    <h3>${name}</h3>
-    </div>
-    <svg class="fill-svg arrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
-    </div>
-    <div class="commentary-text" id="commentary-text-${c}"></div>
-    </article>
-    `
-  })
-  apiData.commentary.forEach((com, c) => {
-    let commentary = document.getElementById(`commentary-text-${c}`)
+    // let interlinear = await get(`./../BibleHub/json/interlinear/${book.to}/${chapter}/${start_verse}.json`)
+    let json = apiData.commentary
+    let lowerBook = book.toLowerCase()
+    if(lowerBook === "psalm"){
+      book = "Psalms"
+    }else if(lowerBook === "song of solomon" || lowerBook === "songs of solomon" || lowerBook === "song of songs"){
+      book = "Songs"
+    }
+    if(json.length === 0)  {
+      json = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/commentaries/${book}/${chapter}/${start_verse}.json`)
+      apiData['commentary'] = json
+    }
+    // console.log(json);
+    let int = document.getElementById(rightContent)
+    // console.log(int);
+    int.innerHTML = ""
+    json.forEach( ({type, name, text, elements}, c) => {
+      // if(name === "Links") continue;
+      // int.innerHTML += `<h3>${name}</h3><p>${text.join("")}</p>`
+      // let strongs = ""
+      // if(num){
+      //   strongs = ` [${num}]`
+      // }
+      let commentaryText = ""
+      elements.forEach(e => {
+        let txt = ""
+        if(e.children.length > 0){
+          e.children.forEach((el) => {
+            let childElementClass = ""
+            if(el.class){
+              childElementClass = `class="${el.class}"`
+            }
+            txt += `<${el.element} ${childElementClass}">${el.text}</${el.element}>`
+          })
+        }else{
+          txt = e.text
+        }
+        let elementClass = ""
+        if(e.class){
+          elementClass = `class="${e.class}"`
+        }
+        commentaryText +=
+        `
+        <${e.element} ${elementClass}>${txt}</${e.element}>
+        `
 
-    com.elements.forEach(e => {
-      let txt = ""
-      if(e.children.length > 0){
-        e.children.forEach((el) => {
-          let childElementClass = ""
-          if(el.class){
-            childElementClass = `class="${el.class}"`
-          }
-          txt += `<${el.element} ${childElementClass}">${el.text}</${el.element}>`
-        })
-      }else{
-        txt = e.text
-      }
-      let elementClass = ""
-      if(e.class){
-        elementClass = `class="${e.class}"`
-      }
-      commentary.innerHTML +=
+      })
+
+      int.innerHTML += `
+      <article class="commentary-card">
+      <div class="commentary-header cmt-${c}" onclick="commentaryDropDown(${c})">
+      <div class="commentary-content">
+      <h3>${name}</h3>
+      </div>
+      <svg class="fill-svg arrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
+      </div>
+      <div class="commentary-text" id="commentary-text-${c}">${commentaryText}</div>
+      </article>
       `
-      <${e.element} ${elementClass}>${txt}</${e.element}>
-      `
-
     })
-  })
+
+    // apiData.commentary.forEach((com, c) => {
+    //   let commentary = document.getElementById(`commentary-text-${c}`)
+
+    //   com.elements.forEach(e => {
+    //     let txt = ""
+    //     if(e.children.length > 0){
+    //       e.children.forEach((el) => {
+    //         let childElementClass = ""
+    //         if(el.class){
+    //           childElementClass = `class="${el.class}"`
+    //         }
+    //         txt += `<${el.element} ${childElementClass}">${el.text}</${el.element}>`
+    //       })
+    //     }else{
+    //       txt = e.text
+    //     }
+    //     let elementClass = ""
+    //     if(e.class){
+    //       elementClass = `class="${e.class}"`
+    //     }
+    //     commentary.innerHTML +=
+    //     `
+    //     <${e.element} ${elementClass}>${txt}</${e.element}>
+    //     `
+
+    //   })
+    // })
+
+  // })
+  resolve()
+})
 }
 async function updateContextContent(verse) {
+  return new Promise (async(resolve, reject) => {
+
   let {book, chapter, start_verse, end_verse, givenTranslation} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):?(?<start_verse>\d{1,3})?-?(?<end_verse>\d{1,3})? ?(?<givenTranslation>[A-z0-9]+)?/gim
     )]?.[0]?.groups
   if(!start_verse){
@@ -289,6 +345,8 @@ async function updateContextContent(verse) {
       `
     }
   })
+  resolve()
+})
 }
 
 function commentaryDropDown(c) {
@@ -368,9 +426,9 @@ function changeRightContent(iconClicked) {
 
 document.querySelector("div.passage-col.version-NKJV > div.passage-text > div > div > p > span")
 document.addEventListener("DOMContentLoaded", async() => {
-  let startVerse = "John 1:1-3"
-  searchVerse(startVerse)
-  document.getElementById("search").value = startVerse
+  let initialVerse = "John 1:1"
+  searchVerse(initialVerse)
+  document.getElementById("search").value = initialVerse
   // document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(0%) opacity(1)";
   document.getElementById(`${rightContent}-icon`).classList.add("selected")
   references = await get("https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/refs.json")
