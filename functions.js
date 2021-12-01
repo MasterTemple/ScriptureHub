@@ -1,6 +1,6 @@
 const axios = require('axios')
 const fs = require('fs')
-let {readFile, writeFile} = fs.promises
+let {readFile, writeFile, readdir} = fs.promises
 
 let {JSDOM} = require('jsdom')
 let BibleGatewayParsing = require("./BibleGatewayParsing")
@@ -22,22 +22,62 @@ module.exports = {
       axios({
         url: link
       }).then(res => {
-        fs.writeFileSync(`./BibleGateway/translations/html/${book}/${translations.join("-")}/${chapter}.html`, res.data)
+        fs.writeFileSync(`./BibleGateway/translations/html/${book}/-${translations.join("-")}-/${chapter}.html`, res.data)
         resolve()
       })
     })
   },
-  async parseBibleGateway(book, chapter, translations) {
+  async parseTranslation(book, chapter, translation) {
     return new Promise(async(resolve, reject) => {
-      let file = await readFile(`./BibleGateway/translations/html/${book}/${translations.join("-")}/${chapter}.html`)
+
+      let file = await readFile(`./BibleGateway/translations/html/${book}/${(await readdir(`./BibleGateway/translations/html/${book}`)).find(n => n.includes(`-${translation}-`))}/${chapter}.html`)
+
       let {document} = (new JSDOM(file)).window
 
+      let type = Object.entries(parsingTypes).find(([k, t])=> t.includes(translation))?.[0] || "NASB"
+
+      // try{
+      // if(translation !== "3" && translation !== "YLTKJ21" && !fs.existsSync(`./BibleGateway/translations/json/${book}/${chapter}/${translation}.json`)){
+      if(translation !== "3" && translation !== "YLTKJ21"){
+        console.log(`${book} ${chapter} (${translation})`);
+        let data = BibleGatewayParsing[type](document, translation)
+        await writeFile(`./BibleGateway/translations/json/${book}/${chapter}/${translation}.json`, JSON.stringify(data))
+      }
+      // }catch{
+      //   console.log(`${translation} Failed`);
+      // }
+
+      resolve()
+
+
+    })
+  },
+  async parseBibleGateway(book, chapter, translations) {
+    return new Promise(async(resolve, reject) => {
+      // let re = new RegExp(`${translation}`)
+      // console.log((await readdir(`./BibleGateway/translations/html/${book}`)).find(n => n.includes(`-${translation}-`)))
+      // console.log();
+      // if(translations.every(e => fs.existsSync(`./BibleGateway/translations/json/${book}/${chapter}/${e}.json`))) {
+      //   resolve()
+      // }else{
+      //   console.log(translations);
+
+      // }
+      // resolve()
+      let file = await readFile(`./BibleGateway/translations/html/${book}/-${translations.join("-")}-/${chapter}.html`)
+
+      let {document} = (new JSDOM(file)).window
+
+
       for( let translation of translations){
+      console.log((await readdir(`./BibleGateway/translations/html/${book}`)).find(n => n.includes(`-${translation}-`)))
+
         let type = Object.entries(parsingTypes).find(([k, t])=> t.includes(translation))?.[0] || "NASB"
 
-        // console.log(translation);
         // try{
+        // if(translation !== "3" && translation !== "YLTKJ21" && !fs.existsSync(`./BibleGateway/translations/json/${book}/${chapter}/${translation}.json`)){
         if(translation !== "3" && translation !== "YLTKJ21"){
+          console.log(`${book} ${chapter} (${translation})`);
           let data = BibleGatewayParsing[type](document, translation)
           await writeFile(`./BibleGateway/translations/json/${book}/${chapter}/${translation}.json`, JSON.stringify(data))
         }
@@ -52,7 +92,7 @@ module.exports = {
   },
   async parseBibleGatewayOld(book, chapter, translations) {
     return new Promise(async(resolve, reject) => {
-      let file = await readFile(`./BibleGateway/translations/html/${book}/${translations.join("-")}/${chapter}.html`)
+      let file = await readFile(`./BibleGateway/translations/html/${book}/-${translations.join("-")}-/${chapter}.html`)
       let {document} = (new JSDOM(file)).window
       for( let translation of translations){
         console.log(`Parsing ${book} ${chapter} (${translation})`);

@@ -7,7 +7,7 @@ let references = require('./references.json')
 let refs = require('./refs.json')
 let getCommentaryData = require('./getCommentaryData')
 let parseCommentary = require('./parseCommentary')
-let {downloadBibleGatewayVerses, parseBibleGateway} = require('./functions')
+let {downloadBibleGatewayVerses, parseBibleGateway, parseTranslation} = require('./functions')
 // classes are not necessary, but I thought I might use it cause I never do :)
 /*
 let referenceList = require('./referenceList.json')
@@ -159,10 +159,10 @@ async function getTranslationsFromBibleGateway(refs, translations){
   // while(translations)
   let entries = Object.entries(refs)
   for(let [book, chapters] of entries) {
-    fs.mkdir(`./BibleGateway/translations/html/${book}/${translations.join("-")}`, { recursive: true }, ()=>{})
+    fs.mkdir(`./BibleGateway/translations/html/${book}/-${translations.join("-")}-`, { recursive: true }, ()=>{})
     // console.log({book, chapters});
     for(let chapter=1;chapter<chapters.length; chapter++){
-      if(!fs.existsSync(`./BibleGateway/translations/html/${book}/${translations.join("-")}/${chapter}.html`)){
+      if(!fs.existsSync(`./BibleGateway/translations/html/${book}/-${translations.join("-")}-/${chapter}.html`)){
         console.log(`Downloading ${book} ${chapter} (${translations.join(", ")})`);
         await downloadBibleGatewayVerses(book, chapter, translations)
       };
@@ -172,14 +172,17 @@ async function getTranslationsFromBibleGateway(refs, translations){
   //https://www.biblegateway.com/passage/?search=Philippians%202&version=NET;KJV;MSG;NRSV;
 }
 
-async function parseAllOfBibleGateway(refs, translations) {
+async function parseAllOfBibleGateway(refs, translation) {
   let entries = Object.entries(refs)
   for(let [book, chapters] of entries) {
     for(let chapter=1;chapter<chapters.length; chapter++){
+      // once nasb runs through i wont need to make this run anymore
       fs.mkdir(`./BibleGateway/translations/json/${book}/${chapter}`, { recursive: true }, ()=>{})
 
-      await parseBibleGateway(book, chapter, translations)
-
+      if(!fs.existsSync(`./BibleGateway/translations/json/${book}/${chapter}/${translation}.json`)){
+        await parseTranslation(book, chapter, translation)
+      }
+      // await parseBibleGateway(book, chapter, translations)
     }
   }
 
@@ -196,28 +199,33 @@ async function parseAllOfBibleGateway(refs, translations) {
 // references = [{book: "John", chapter: 1, verse: 1}]
 // parseAllCommentaries(references)
 // full list
-let translationList = ["KJ21","ASV","AMP","AMPC","BRG","CSB","CEB","CJB","CEV","DARBY","DLNT","DRA","ERV","EHV","ESV","ESVUK","EXB","GNV","3" ,"GW","GNT","HCSB","ICB","ISV","PHILLIPS","JUB","KJV","AKJV","LEB","TLB","MSG","MEV","MOUNCE","NOG","NABRE","NASB","NASB1995","NCB","NCV","NET","NIRV","NIV","NIVUK","NKJV","NLV","NLT","NMB","NRSV","NRSVA","NRSVACE","NRSVCE","NTE","OJB","TPT","RGT","RSV","RSVCE","TLV","VOICE","WEB","WE","WYC","YLTKJ21","ASV","AMP","AMPC","BRG","CSB","CEB","CJB","CEV","DARBY","DLNT","DRA","ERV","EHV","ESV","ESVUK","EXB","GNV" ,"GW","GNT","HCSB","ICB","ISV","PHILLIPS","JUB","KJV","AKJV","LEB","TLB","MSG","MEV","MOUNCE","NOG","NABRE","NASB","NASB1995","NCB","NCV","NET","NIRV","NIV","NIVUK","NKJV","NLV","NLT","NMB","NRSV","NRSVA","NRSVACE","NRSVCE","NTE","OJB","TPT","RGT","RSV","RSVCE","TLV","VOICE","WEB","WE","WYC","YLT"]
+// let translationList = ["KJ21","ASV","AMP","AMPC","BRG","CSB","CEB","CJB","CEV","DARBY","DLNT","DRA","ERV","EHV","ESV","ESVUK","EXB","GNV","3" ,"GW","GNT","HCSB","ICB","ISV","PHILLIPS","JUB","KJV","AKJV","LEB","TLB","MSG","MEV","MOUNCE","NOG","NABRE","NASB","NASB1995","NCB","NCV","NET","NIRV","NIV","NIVUK","NKJV","NLV","NLT","NMB","NRSV","NRSVA","NRSVACE","NRSVCE","NTE","OJB","TPT","RGT","RSV","RSVCE","TLV","VOICE","WEB","WE","WYC","YLTKJ21","ASV","AMP","AMPC","BRG","CSB","CEB","CJB","CEV","DARBY","DLNT","DRA","ERV","EHV","ESV","ESVUK","EXB","GNV" ,"GW","GNT","HCSB","ICB","ISV","PHILLIPS","JUB","KJV","AKJV","LEB","TLB","MSG","MEV","MOUNCE","NOG","NABRE","NASB","NASB1995","NCB","NCV","NET","NIRV","NIV","NIVUK","NKJV","NLV","NLT","NMB","NRSV","NRSVA","NRSVACE","NRSVCE","NTE","OJB","TPT","RGT","RSV","RSVCE","TLV","VOICE","WEB","WE","WYC","YLT"]
 
-// let translationList = ["KJ21","ASV","AMP","AMPC","BRG","CSB","CEB","CJB","CEV","DARBY","DLNT","DRA","ERV","EHV","ESV","ESVUK","EXB","GNV","GW","GNT","HCSB","ICB","ISV","PHILLIPS","JUB","KJV","AKJV","LEB","TLB","MSG","MEV","MOUNCE","NOG","NABRE","NASB","NASB1995","NCB","NCV","NET","NIRV","NIV","NIVUK","NKJV","NLV","NLT","NMB","NRSV","NRSVA","NRSVACE","NRSVCE","NTE","OJB","TPT","RGT","RSV","RSVCE","TLV","VOICE","WEB","WE","WYC","ASV","AMP","AMPC","BRG","CSB","CEB","CJB","CEV","DARBY","DLNT","DRA","ERV","EHV","ESV","ESVUK","EXB","GNV" ,"GW","GNT","HCSB","ICB","ISV","PHILLIPS","JUB","KJV","AKJV","LEB","TLB","MSG","MEV","MOUNCE","NOG","NABRE","NASB","NASB1995","NCB","NCV","NET","NIRV","NIV","NIVUK","NKJV","NLV","NLT","NMB","NRSV","NRSVA","NRSVACE","NRSVCE","NTE","OJB","TPT","RGT","RSV","RSVCE","TLV","VOICE","WEB","WE","WYC","YLT"]
+let translationList = ["KJ21","ASV","AMP","AMPC","BRG","CSB","CEB","CJB","CEV","DARBY","DLNT","DRA","ERV","EHV","ESV","ESVUK","EXB","GNV","GW","GNT","HCSB","ICB","ISV","PHILLIPS","JUB","KJV","AKJV","LEB","TLB","MSG","MEV","MOUNCE","NOG","NABRE","NASB","NASB1995","NCB","NCV","NET","NIRV","NIV","NIVUK","NKJV","NLV","NLT","NMB","NRSV","NRSVA","NRSVACE","NRSVCE","NTE","OJB","TPT","RGT","RSV","RSVCE","TLV","VOICE","WEB","WE","WYC","ASV","AMP","AMPC","BRG","CSB","CEB","CJB","CEV","DARBY","DLNT","DRA","ERV","EHV","ESV","ESVUK","EXB","GNV" ,"GW","GNT","HCSB","ICB","ISV","PHILLIPS","JUB","KJV","AKJV","LEB","TLB","MSG","MEV","MOUNCE","NOG","NABRE","NASB","NASB1995","NCB","NCV","NET","NIRV","NIV","NIVUK","NKJV","NLV","NLT","NMB","NRSV","NRSVA","NRSVACE","NRSVCE","NTE","OJB","TPT","RGT","RSV","RSVCE","TLV","VOICE","WEB","WE","WYC","YLT"]
 // translationList = ["NASB","NASB1995","NCB","NCV","NET"]
 // translationList = ["NET","NIRV","NIV","NIVUK","NKJV"]
-let translations = [
-  // ["NASB", "NIV", "ESV", "NKJV", "NLT"],
-  // ["NET", "KJV", "MSG", "NRSV", "YLT"]
+// let translations = [
+//   // ["NASB", "NIV", "ESV", "NKJV", "NLT"],
+//   // ["NET", "KJV", "MSG", "NRSV", "YLT"]
 
-]
-// for(let i=0;i<Math.floor(translations/5);i++){
-for(let i=0;i<translationList.length/5;i++){
-  // console.log(i*5, (i*5)+5);
-  translations.push(translationList.slice(i*5, (i*5)+5))
-}
-// console.log(translations);
-// refs = {"1 Timothy":[0,51]}
+// ]
+// // for(let i=0;i<Math.floor(translations/5);i++){
+// for(let i=0;i<translationList.length/5;i++){
+//   // console.log(i*5, (i*5)+5);
+//   translations.push(translationList.slice(i*5, (i*5)+5))
+// }
+// // console.log(translations);
+// // refs = {"1 Timothy":[0,51]}
 
-translations.forEach((eachGroup) => {
+// translations.forEach((eachGroup) => {
 
-  // getTranslationsFromBibleGateway(refs, eachGroup)
-  parseAllOfBibleGateway(refs, eachGroup)
+//   // getTranslationsFromBibleGateway(refs, eachGroup)
+//   parseAllOfBibleGateway(refs, eachGroup)
 
+// })
+// run again with these translations to get the verse i missed
+translationList = ["NASB", "ESV", "NKJV"]
+translationList.forEach(e => {
+  parseAllOfBibleGateway(refs, e)
 })
 
