@@ -8,7 +8,7 @@ var apiData = {
 }
 var references
 
-const availableTranslations = ["ESV", "NASB", "NKJV"]
+var availableTranslations = ["ESV", "NASB", "NKJV", "NET", "NLT", "YLT", "AMP", "NRSV", "MSG"]
 // const allVersesRegex = new RegExp(`(${availableTranslations.join("|")})`, "gi")
 // const allVersesRegex = new RegExp(`(?<=\d? ?[A-z\s]+\d+: ?\d+-?\d* ?)[A-z]+\d*`, "gim")
 
@@ -568,7 +568,7 @@ function changeRightContent(iconClicked) {
 
 document.querySelector("div.passage-col.version-NKJV > div.passage-text > div > div > p > span")
 document.addEventListener("DOMContentLoaded", async() => {
-  let initialVerse = "John 1:1-3"
+  let initialVerse = "Genesis 1:1"
   searchVerse(initialVerse)
   document.getElementById("search").value = initialVerse
   // document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(0%) opacity(1)";
