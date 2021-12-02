@@ -6,7 +6,7 @@
   --bg-primary: #23232e;
   --bg-secondary: #141418;
   --transition-speed: 400ms;
-  --accent-color: rgb(206, 2, 19);
+  --accent-color:#ce0213;
   --gold: #b87d00;
   /* --vertical-nav-width: 8rem;
   --horizontal-nav-width: 4rem; */
@@ -52,6 +52,8 @@ ul.vertical {
 }
 .vertical > .nav-item {
   margin-left: -2rem;
+  padding-bottom: 2rem;
+
 }
 ul.horizontal {
   /* width: calc(100vw - (var(--vertical-nav-width) + 8rem)); */
@@ -120,7 +122,7 @@ ul.horizontal {
   background: var(--accent-color);
 }
 
-.horizontal > .nav-item, .vertical > .nav-item > a, .nav-item > span {
+.horizontal > .nav-item, .vertical > .nav-item > a, .nav-item > span, .nav-item > div {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -146,7 +148,7 @@ ul.horizontal {
   margin: 0;
 } */
 
-.horizontal > .nav-item:hover, .vertical > .nav-item:hover > a {
+.horizontal > .nav-item:hover, .vertical > .nav-item:hover > a, .vertical > .nav-item:hover > div {
   filter: grayscale(0%) opacity(1);
 }
 
@@ -278,11 +280,53 @@ select:-webkit-autofill:focus {
 #book-title {
   text-align: center;
 }
-
+#settings-dialog {
+  background-color: var(--bg-secondary);
+  color: white;
+}
+#color-picker-div {
+  display: flex;
+  flex-direction: row;
+}
+#color-picker-div > span, #color-picker-div > input {
+  /* padding: 1rem; */
+  margin: 1rem;
+}
+#translation-select {
+  margin: 1rem;
+}
 #color-picker {
-  width: 100%;
-  margin: none !important;
+  /* width: 50%; */
+  /* margin: none !important; */
   /* margin-right: 1rem; */
+}
+/* #close-dialog {
+  margin-left: 90%;
+  margin-bottom: 1rem;
+} */
+#dialog-menu {
+  display: flex;
+  flex-direction: row;
+  padding-inline-start: 0 !important;
+}
+#dialog-menu > button {
+  background-color: var(--bg-primary);
+  padding-left: 1rem;
+  margin-left: 1rem;
+  padding-right: 1rem;
+  margin-right: 1rem;
+  border-radius: 5px;
+  border-width: 3px;
+  border-color: var(--accent-color);
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+  color: white;
+}
+#dialog-menu > button:hover {
+  background-color: var(--accent-color);
+}
+.checkbox {
+  width: 1rem;
 }
 .verse-link, .ital {
   color: var(--accent-color)

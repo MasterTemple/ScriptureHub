@@ -1,6 +1,8 @@
 // const ENTER_KEY = "13"
 var rightContent = "interlinear"
 var primaryTranslation = "ESV"
+var previousAccentColor = getComputedStyle(document.documentElement).getPropertyValue('--accent-color')
+
 var apiData = {
   interlinear: [],
   commentary: [],
@@ -51,8 +53,8 @@ async function getPassage(book, chapter, translation){
 }
 
 async function searchVerse(verse) {
-  // verse = verse.replace(/psalm(?=[^s])/gim, "Psalms")
-  // verse = verse.replace(/Songs? of Songs/gim, "Song of Songs")
+  verse = verse.replace(/psalm(?=[^s])/gim, "Psalms")
+  verse = verse.replace(/Songs? of Songs/gim, "Song of Songs")
   // let verse = document.getElementById("search").value
   // verse[0] = verse[0].toUpperCase()
   verse = verse.replace(/^./g, (m => m.toUpperCase()))
@@ -576,6 +578,19 @@ document.addEventListener("DOMContentLoaded", async() => {
   // document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(0%) opacity(1)";
   document.getElementById(`${rightContent}-icon`).classList.add("selected")
   references = await get("https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/refs.json")
+  document.getElementById("color-picker").value = getComputedStyle(document.documentElement).getPropertyValue('--accent-color')
+  // let translationHTML = ""
+  // availableTranslations.forEach((e) => {
+  //   translationHTML +=`<input type="checkbox" id="check-${e}" name="${e}" class="checkbox" checked="true">${e}</input>`
+  // })
+  // document.getElementById("translation-box").innerHTML = translationHTML
+
+
+  let translationHTML = ""
+  availableTranslations.forEach((e) => {
+    translationHTML +=`<option classs="select" value="${e}">${e}</option>`
+  })
+  document.getElementById("translation-select").innerHTML = translationHTML
   // console.log(document.getElementById(`${rightContent}-icon`).classList);
   // document.getElementById(`${rightContent}-icon`).style.color = "var(--accent-color)"
   // document.getElementById(`${rightContent}-icon`).style["border-bottom"] = "2px solid var(--accent-color);"
@@ -602,5 +617,19 @@ document.addEventListener("input", (input) => {
   if(input.target.id === "color-picker"){
     document.documentElement.style.setProperty('--accent-color', document.getElementById("color-picker").value);
   }
+})
+document.getElementById("cancel-button").addEventListener("click", () => {
+  document.documentElement.style.setProperty('--accent-color', previousAccentColor);
+})
+document.getElementById("confirm-button").addEventListener("click", () => {
+  // document.documentElement.style.setProperty('--accent-color', document.getElementById("color-picker").value);
+  previousAccentColor = getComputedStyle(document.documentElement).getPropertyValue('--accent-color')
+  primaryTranslation = document.getElementById("translation-select").value
+  availableTranslations = [primaryTranslation, ...availableTranslations.filter(f=>f!==primaryTranslation)]
+})
 
+document.getElementById("settings").addEventListener("click", (ev) => {
+  // console.log(getComputedStyle(document.documentElement).getPropertyValue('--accent-color'));
+  // document.getElementById("color-picker").value = getComputedStyle(document.documentElement).getPropertyValue('--accent-color')
+  document.getElementById("settings-dialog").showModal()
 })
