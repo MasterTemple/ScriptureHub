@@ -264,7 +264,7 @@ select:-webkit-autofill:focus {
   outline: 2px solid var(--gold);
   /* padding: 1rem; */
   border-radius:50%;
-  transition: var(--transition-speed);
+  /* transition: var(--transition-speed); */
 }
 .selected {
   filter:grayscale(0%) opacity(1) !important;

@@ -7,7 +7,7 @@ let references = require('./references.json')
 let refs = require('./refs.json')
 let getCommentaryData = require('./getCommentaryData')
 let parseCommentary = require('./parseCommentary')
-let {downloadBibleGatewayVerses, parseBibleGateway, parseTranslation, mergeInterlinears} = require('./functions')
+let {downloadBibleGatewayVerses, parseBibleGateway, parseTranslation, mergeInterlinears, checkVerseParsing} = require('./functions')
 // classes are not necessary, but I thought I might use it cause I never do :)
 /*
 let referenceList = require('./referenceList.json')
@@ -188,6 +188,51 @@ async function parseAllOfBibleGateway(refs, translation) {
 
 }
 
+async function getAllFailedParsings(refs, translation) {
+  let entries = Object.entries(refs)
+  for(let [book, chapters] of entries) {
+    for(let chapter=1;chapter<chapters.length; chapter++){
+      // once nasb runs through i wont need to make this run anymore
+      // fs.mkdir(`./BibleGateway/translations/json/${book}/${chapter}`, { recursive: true }, ()=>{})
+
+      // checkVerseParsing(book, chapter, verseLength, translation)
+      // if(!fs.existsSync(`./BibleGateway/translations/json/${book}/${chapter}/${translation}.json`)){
+        // await parseTranslation(book, chapter, translation)
+      // }
+      // await parseBibleGateway(book, chapter, translations)
+      try{
+
+        let file = require(`./BibleGateway/translations/json/${book}/${chapter}/${translation}`)
+
+        for(let i=1;i<=chapters[i];i++){
+          if(!file.find(f=>f.num === chapters[i])){
+            badPassages.push({
+              book: book,
+              chapter: chapter,
+              translation, translation
+            })
+          }
+        }
+      }catch{
+        badPassages.push({
+          book: book,
+          chapter: chapter,
+          translation, translation
+        })
+      }
+
+    }
+  }
+
+}
+function getAllCompleteTranslations(translations){
+  let bad = require('./badPassages.json')
+  let used = new Set()
+  bad.forEach(e => used.add(e.translation))
+  let goodTranslations = translationList.filter(t => !used.has(t))
+  return goodTranslations
+}
+
 async function createInterlinearChapters(refs){
   //creates chapters from the interlinear verses
   let entries = Object.entries(refs)
@@ -199,7 +244,6 @@ async function createInterlinearChapters(refs){
   }
 }
 // getDataFromWebsite(references)
-
 // getAllStrongsDataFromWebsite()
 // fs = fs.promises
 // setTimeout(() => {
@@ -238,8 +282,20 @@ translationList = [...new Set([...translationList])]
 // run again with these translations to get the verse i missed
 
 // translationList = ["NASB", "ESV", "NKJV"]
-translationList.forEach(e => {
-  parseAllOfBibleGateway(refs, e)
-})
+
+// translationList.forEach(e => {
+//   parseAllOfBibleGateway(refs, e)
+// })
 
 // createInterlinearChapters(refs)
+// translationList.forEach(e => {
+  //   getAllFailedParsings(refs, e)
+  // })
+
+// var badPassages = []
+// for(let e of translationList){
+//   getAllFailedParsings(refs, e)
+// }
+// fs.writeFile("./badPassages.json", JSON.stringify(badPassages), ()=>{})
+
+console.log(getAllCompleteTranslations(translationList))

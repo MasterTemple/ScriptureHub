@@ -15,6 +15,9 @@ let parsingTypes = {
 }
 
 module.exports = {
+  async checkVerseParsing(book, chapter, verseLength, translation){
+
+  },
   async downloadBibleGatewayVerses(book, chapter, translations){
     return new Promise((resolve, reject) => {
       //https://www.biblegateway.com/passage/?search=Philippians%202&version=NASB;NIV;ESV;NKJV;NLT;

@@ -8,7 +8,9 @@ var apiData = {
 }
 var references
 
-var availableTranslations = ["ESV", "NASB", "NKJV", "NET", "NLT", "YLT", "AMP", "NRSV", "MSG"]
+var availableTranslations =
+// ["KJ21","ASV","AMP","AMPC","BRG","CSB","CEB","CJB","CEV","DARBY","DLNT","DRA","ERV","EHV","ESV","ESVUK","EXB","GNV","GW","GNT","HCSB","ICB","ISV","PHILLIPS","JUB","KJV","AKJV","LEB","TLB","MSG","MEV","MOUNCE","NOG","NABRE","NASB","NASB1995","NCB","NCV","NET","NIRV","NIV","NIVUK","NKJV","NLV","NLT","NMB","NRSV","NRSVA","NRSVACE","NRSVCE","NTE","OJB","TPT","RGT","RSV","RSVCE","TLV","VOICE","WEB","WE","WYC","ASV","AMP","AMPC","BRG","CSB","CEB","CJB","CEV","DARBY","DLNT","DRA","ERV","EHV","ESV","ESVUK","EXB","GNV" ,"GW","GNT","HCSB","ICB","ISV","PHILLIPS","JUB","KJV","AKJV","LEB","TLB","MSG","MEV","MOUNCE","NOG","NABRE","NASB","NASB1995","NCB","NCV","NET","NIRV","NIV","NIVUK","NKJV","NLV","NLT","NMB","NRSV","NRSVA","NRSVACE","NRSVCE","NTE","OJB","TPT","RGT","RSV","RSVCE","TLV","VOICE","WEB","WE","WYC","YLT"]
+["ESV", "NASB", "NKJV", "NET", "NLT", "YLT", "AMP", "NRSV", "MSG"]
 // const allVersesRegex = new RegExp(`(${availableTranslations.join("|")})`, "gi")
 // const allVersesRegex = new RegExp(`(?<=\d? ?[A-z\s]+\d+: ?\d+-?\d* ?)[A-z]+\d*`, "gim")
 
@@ -129,7 +131,7 @@ async function searchVerse(verse) {
     let data = passages[i]
     let text = ""
     if(!end_verse){
-      text = `<p>${data.find(f=>f.num===start_verse).verse}</p>`
+      text = `<p>${data.find(f=>f.num===start_verse)?.verse || ""}</p>`
     }else{
       data.forEach(({header, num, verse}, c) => {
         // console.log({header, num, verse}, c);
