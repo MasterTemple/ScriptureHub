@@ -238,7 +238,7 @@ select:-webkit-autofill:focus {
 }
 .arrow {
   margin: auto
-  show-interlinear
+  /* show-interlinear */
 }
 .arrow > path{
   fill: var(--bg-secondary);
@@ -247,6 +247,24 @@ select:-webkit-autofill:focus {
 .commentary-header:hover > .arrow > path, .interlinear-card:hover > .arrow > path, .arrow:hover > path {
   fill: var(--accent-color);
   stroke: var(--accent-color);
+}
+.interlinear-verse-container:hover > .arrow > path {
+  fill: var(--gold);
+  stroke: var(--gold);
+}
+.interlinear-verse-container > .arrow {
+  padding: 1rem;
+
+}
+.interlinear-verse-container:hover > .arrow {
+  /* border: 3px (var(--gold));
+  outline: 3px (var(--gold));
+  border-radius:50%; */
+  /* box-shadow: var(--gold); */
+  outline: 2px solid var(--gold);
+  /* padding: 1rem; */
+  border-radius:50%;
+  transition: var(--transition-speed);
 }
 .selected {
   filter:grayscale(0%) opacity(1) !important;
@@ -299,6 +317,15 @@ select:-webkit-autofill:focus {
 #context-icon {
   margin-right: 4rem !important;
 }
-.commentary-header > svg {
+.commentary-header > svg, .interlinear-verse-container > svg {
   align-self: center;
+}
+.interlinear-verse-header {
+  color: var(--gold);
+}
+.interlinear-header-article {
+}
+.interlinear-verse-container {
+  display: flex;
+  flex-direction: row;
 }

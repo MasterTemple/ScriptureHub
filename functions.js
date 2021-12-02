@@ -39,8 +39,11 @@ module.exports = {
       // try{
       // if(translation !== "3" && translation !== "YLTKJ21" && !fs.existsSync(`./BibleGateway/translations/json/${book}/${chapter}/${translation}.json`)){
       if(translation !== "3" && translation !== "YLTKJ21"){
-        console.log(`${book} ${chapter} (${translation})`);
-        let data = BibleGatewayParsing[type](document, translation)
+        console.log(`Parsing ${book} ${chapter} ${translation}`);
+        let data = []
+        try{
+          data = BibleGatewayParsing[type](document, translation)
+        }catch{}
         await writeFile(`./BibleGateway/translations/json/${book}/${chapter}/${translation}.json`, JSON.stringify(data))
       }
       // }catch{

@@ -41,7 +41,7 @@ async function getPassage(book, chapter, translation){
           // resolve([translation, res])
         }
         catch{
-          resolve()
+          resolve([])
         }
       })
       // .then(data => resolve(data));
@@ -94,9 +94,11 @@ async function searchVerse(verse) {
     if(key !== rightContent){
       if(key === "interlinear"){
         if(!end_verse){
-          apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)
+          apiData[key] = [await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${start_verse}.json`)]
         }else{
           apiData[key] = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}.json`)
+
+          apiData[key] = Object.entries(apiData[key]).filter(([k,v]) => parseInt(k)>=start_verse && parseInt(k)<=end_verse).map(([k,v]) => v)
         }
       }
       if(key === "commentary"){
@@ -283,17 +285,22 @@ async function updateInterLinearContent(verse) {
       // })
     }
       int.innerHTML += `
-      <article class="interlinear-card"
+      <article class="interlinear-header-article"
       id="interlinear-verse-heading-${thisVerse}"
+      >
+      <div class="interlinear-verse-container"
       onclick="interlinearVerseDropdown(${thisVerse})">
       <div class="interlinear-content">
-      <h2>Verse ${thisVerse}</h2>
+      <h2 class="interlinear-verse-header">Verse ${thisVerse}</h2>
       </div>
       <svg class="fill-svg arrow" style="transform:rotate(90deg);" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
-      </article>
+      </div>
+
       <article id="interlinear-section-${thisVerse}">
       ${dataForThisVerse}
       </article>
+      </article>
+
       `
       // int.innerHTML += `</article>`
       thisVerse++
@@ -486,15 +493,15 @@ function interlinearVerseDropdown(c) {
   // console.log(document.querySelector(`.cmt-${c} > svg`).style.transform);
   let commentary = document.getElementById(`interlinear-section-${c}`)
 
-  if(document.querySelector(`#interlinear-verse-heading-${c} > svg`).style.transform === "rotate(90deg)"){
+  if(document.querySelector(`#interlinear-verse-heading-${c} > .interlinear-verse-container > svg`).style.transform === "rotate(90deg)"){
     // document.querySelector(`.cmt-${c} > svg`).style.transform === "rotate(0deg)"
-    document.querySelector(`#interlinear-verse-heading-${c} > svg`).style.transform = "rotate(0deg)"
+    document.querySelector(`#interlinear-verse-heading-${c} > .interlinear-verse-container > svg`).style.transform = "rotate(0deg)"
     // commentary.textContent = ""
     commentary.classList.add("hide-interlinear")
   }else{
     commentary.classList.remove("hide-interlinear")
 
-    document.querySelector(`#interlinear-verse-heading-${c} > svg`).style.transform = "rotate(90deg)"
+    document.querySelector(`#interlinear-verse-heading-${c} > .interlinear-verse-container > svg`).style.transform = "rotate(90deg)"
 
   }
 
