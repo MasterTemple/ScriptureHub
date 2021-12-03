@@ -271,6 +271,9 @@ async function updateInterLinearContent(verse) {
   int.innerHTML = ""
   let thisVerse = start_verse
   // console.log(json);
+  // the following 2 things exist so only the first verse is expanded
+  let rotation = 90
+  let hideClass = ""
   for(let eachVerse of json){
     // int.innerHTML += `
     // <article class="interlinear-card"
@@ -313,10 +316,10 @@ async function updateInterLinearContent(verse) {
       <div class="interlinear-content">
       <h2 class="interlinear-verse-header">Verse ${thisVerse}</h2>
       </div>
-      <svg class="fill-svg arrow" style="transform:rotate(90deg);" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
+      <svg class="fill-svg arrow" style="transform:rotate(${rotation}deg);" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
       </div>
 
-      <article id="interlinear-section-${thisVerse}">
+      <article id="interlinear-section-${thisVerse}" ${hideClass}>
       ${dataForThisVerse}
       </article>
       </article>
@@ -324,6 +327,8 @@ async function updateInterLinearContent(verse) {
       `
       // int.innerHTML += `</article>`
       thisVerse++
+      rotation = 0
+      hideClass = `class="hide-interlinear"`
   }
     resolve()
   })
