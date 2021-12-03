@@ -591,6 +591,16 @@ function changeRightContent(iconClicked) {
   updateRightContent(document.getElementById("search").value)
 }
 
+function getSuperScript(num){
+  let arr = ["⁰","¹","²","³","⁴","⁵","⁶","⁷","⁸","⁹"]
+  let superScriptNum = ""
+  num = [...num.toString()]
+  num.forEach(e => {
+    superScriptNum+= arr[parseInt(e)]
+  })
+  return superScriptNum
+}
+
 function copyVerse(translation){
   let icon = document.getElementById(`${translation}-copy-icon`)
   icon.classList.add("gold-icon-overwrite")
@@ -598,16 +608,22 @@ function copyVerse(translation){
     icon.classList.remove("gold-icon-overwrite")
   }, 750);
   let textToCopy = ""
+  let verseData = apiData.verses[translation]
   if(copyStyle === "default"){
     // textToCopy = "\t"
-    apiData.verses[translation].forEach((e, c) => {
+
+    verseData.forEach((e, c) => {
       // console.log(`${e.num} >= ${globalVerses.start_verse} && ${e.num} <= ${globalVerses.end_verse}`);
       if(e.num){
         if(e.num >= globalVerses.start_verse && e.num <= globalVerses.end_verse){
 
-          textToCopy += (e.verse + " ")
+          textToCopy += getSuperScript(e.num) + " " + (e.verse + " ")
         }
       }else{
+        if(verseData[c+1]?.num >= globalVerses.start_verse && verseData[c+1]?.num <= globalVerses.end_verse){
+          if(c===0) textToCopy +="\t"
+          else textToCopy += "\n\t"
+        }
         // if(c===0) textToCopy +="\t"
         // else textToCopy += "\n\t"
       }
