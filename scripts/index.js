@@ -2,12 +2,14 @@
 var rightContent = "interlinear"
 var primaryTranslation = "ESV"
 var previousAccentColor = getComputedStyle(document.documentElement).getPropertyValue('--accent-color')
-
+var copyStyle = "default"
 var apiData = {
   interlinear: [],
   commentary: [],
-  context: []
+  context: [],
+  verses: {}
 }
+var globalVerses = {}
 var references
 
 var availableTranslations =
@@ -62,7 +64,8 @@ async function searchVerse(verse) {
   apiData = {
     interlinear: [],
     commentary: [],
-    context: []
+    context: [],
+    verses: {}
   }
   console.log(verse);
   document.title = `ScriptureHub - ${verse}`
@@ -72,6 +75,7 @@ async function searchVerse(verse) {
     start_verse = 1
     end_verse = references[book][chapter]
   }
+  if(!end_verse) end_verse = start_verse
   if(availableTranslations.includes(givenTranslation?.toUpperCase())){
     // console.log({availableTranslations, givenTranslation, primaryTranslation});
     primaryTranslation = givenTranslation.toUpperCase()
@@ -131,6 +135,7 @@ async function searchVerse(verse) {
     // let data = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleGateway/translations/json/${book}/${chapter}/${translation}.json`)
     // let data = passages.find(f=>f[0] === translations)[1]
     let data = passages[i]
+    apiData.verses[translation] = data
     let text = ""
     if(!end_verse){
       text = `<p>${data.find(f=>f.num===start_verse)?.verse || ""}</p>`
@@ -154,12 +159,23 @@ async function searchVerse(verse) {
         }
       })
     }
+    globalVerses = {
+      book: book,
+      chapter: chapter,
+      start_verse: start_verse,
+      end_verse: end_verse
+    }
 
     // console.log(data);
-
+    // console.log({translation});
     htmlToAdd += `
+    <div id="copy-${translation}">
+    <div class="copy-verse-header" >
     <h3 id="translation-${translation}">${book} ${chapter}:${verseRange} ${translation}</h3>
+    <svg id="${translation}-copy-icon" onclick="copyVerse('${translation}')" width="24px" height="24px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-copy"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+    </div>
     ${text}
+    </div>
     `
     if(firstTimeLoading){
       left.innerHTML = htmlToAdd
@@ -568,6 +584,41 @@ function changeRightContent(iconClicked) {
 
   // document.getElementById(`${iconClicked}-icon`).value // IM HERE
   updateRightContent(document.getElementById("search").value)
+}
+
+function copyVerse(translation){
+  let icon = document.getElementById(`${translation}-copy-icon`)
+  icon.classList.add("gold-icon-overwrite")
+  setTimeout(function(){
+    icon.classList.remove("gold-icon-overwrite")
+  }, 1000);
+  let textToCopy = ""
+  if(copyStyle === "default"){
+    // textToCopy = "\t"
+    apiData.verses[translation].forEach((e, c) => {
+      // console.log(`${e.num} >= ${globalVerses.start_verse} && ${e.num} <= ${globalVerses.end_verse}`);
+      if(e.num){
+        if(e.num >= globalVerses.start_verse && e.num <= globalVerses.end_verse){
+
+          textToCopy += (e.verse + " ")
+        }
+      }else{
+        // if(c===0) textToCopy +="\t"
+        // else textToCopy += "\n\t"
+      }
+    })
+    if(globalVerses.end_verse){
+      textToCopy += `\n${globalVerses.book} ${globalVerses.chapter}:${globalVerses.start_verse}-${globalVerses.end_verse} ${translation}`
+    }else{
+      textToCopy += `\n${globalVerses.book} ${globalVerses.chapter}:${globalVerses.start_verse} ${translation}`
+    }
+    navigator.clipboard.writeText(textToCopy)
+
+    // try{
+    //   navigator.clipboard.writeText(textToCopy)
+    // }catch(e){console.log(e);}
+  }
+
 }
 
 document.querySelector("div.passage-col.version-NKJV > div.passage-text > div > div > p > span")

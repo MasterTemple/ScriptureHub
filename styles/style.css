@@ -328,6 +328,18 @@ select:-webkit-autofill:focus {
 .checkbox {
   width: 1rem;
 }
+.copy-verse-header {
+  display: flex;
+  flex-direction: row;
+}
+.feather-copy {
+  /* align-self: center; */
+
+  padding: 1em;
+}
+.feather-copy:hover > rect {
+  color: var(--accent-color);
+}
 .verse-link, .ital {
   color: var(--accent-color)
 }
@@ -372,4 +384,9 @@ select:-webkit-autofill:focus {
 .interlinear-verse-container {
   display: flex;
   flex-direction: row;
+}
+.gold-icon-overwrite > rect, .gold-icon-overwrite > path {
+  color: var(--gold) !important;
+  stroke: var(--gold) !important;
+  transition: var(--transition-speed)
 }
