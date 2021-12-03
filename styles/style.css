@@ -388,5 +388,11 @@ select:-webkit-autofill:focus {
 .gold-icon-overwrite > rect, .gold-icon-overwrite > path {
   color: var(--gold) !important;
   stroke: var(--gold) !important;
-  transition: var(--transition-speed)
+  transition: var(--transition-speed);
+}
+.gold-icon-overwrite {
+  transition: calc(var(--transition-speed)/2);
+  outline: 2px solid var(--gold);
+  outline-offset: -.5rem;
+  border-radius: 50%;
 }

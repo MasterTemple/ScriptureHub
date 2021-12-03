@@ -591,7 +591,7 @@ function copyVerse(translation){
   icon.classList.add("gold-icon-overwrite")
   setTimeout(function(){
     icon.classList.remove("gold-icon-overwrite")
-  }, 1000);
+  }, 750);
   let textToCopy = ""
   if(copyStyle === "default"){
     // textToCopy = "\t"
