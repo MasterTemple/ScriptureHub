@@ -2,7 +2,7 @@
 var rightContent = "interlinear"
 var primaryTranslation = "ESV"
 var previousAccentColor = getComputedStyle(document.documentElement).getPropertyValue('--accent-color')
-var copyStyle = "default"
+var copyStyle = "newLines"
 var apiData = {
   interlinear: [],
   commentary: [],
@@ -11,6 +11,14 @@ var apiData = {
 }
 var globalVerses = {}
 var references
+var settings = {
+  woj: false,
+  headers: true,
+  numbers: true,
+  discord: false,
+  separateLines: false
+}
+
 
 var availableTranslations =
 // ["KJ21","ASV","AMP","AMPC","BRG","CSB","CEB","CJB","CEV","DARBY","DLNT","DRA","ERV","EHV","ESV","ESVUK","EXB","GNV","GW","GNT","HCSB","ICB","ISV","PHILLIPS","JUB","KJV","AKJV","LEB","TLB","MSG","MEV","MOUNCE","NOG","NABRE","NASB","NASB1995","NCB","NCV","NET","NIRV","NIV","NIVUK","NKJV","NLV","NLT","NMB","NRSV","NRSVA","NRSVACE","NRSVCE","NTE","OJB","TPT","RGT","RSV","RSVCE","TLV","VOICE","WEB","WE","WYC","ASV","AMP","AMPC","BRG","CSB","CEB","CJB","CEV","DARBY","DLNT","DRA","ERV","EHV","ESV","ESVUK","EXB","GNV" ,"GW","GNT","HCSB","ICB","ISV","PHILLIPS","JUB","KJV","AKJV","LEB","TLB","MSG","MEV","MOUNCE","NOG","NABRE","NASB","NASB1995","NCB","NCV","NET","NIRV","NIV","NIVUK","NKJV","NLV","NLT","NMB","NRSV","NRSVA","NRSVACE","NRSVCE","NTE","OJB","TPT","RGT","RSV","RSVCE","TLV","VOICE","WEB","WE","WYC","YLT"]
@@ -602,49 +610,154 @@ function getSuperScript(num){
 }
 
 function copyVerse(translation){
+
+  // makes the icon gold when clicked
   let icon = document.getElementById(`${translation}-copy-icon`)
   icon.classList.add("gold-icon-overwrite")
   setTimeout(function(){
     icon.classList.remove("gold-icon-overwrite")
   }, 750);
+
   let textToCopy = ""
-  let verseData = apiData.verses[translation]
-  if(copyStyle === "default"){
-    // textToCopy = "\t"
-
-    verseData.forEach((e, c) => {
-      // console.log(`${e.num} >= ${globalVerses.start_verse} && ${e.num} <= ${globalVerses.end_verse}`);
-      if(e.num){
-        if(e.num >= globalVerses.start_verse && e.num <= globalVerses.end_verse){
-
-          textToCopy += getSuperScript(e.num) + " " + (e.verse + " ")
-        }
-      }else{
-        if(verseData[c+1]?.num >= globalVerses.start_verse && verseData[c+1]?.num <= globalVerses.end_verse){
-          if(c===0) textToCopy +="\t"
-          else textToCopy += "\n\t"
-        }
-        // if(c===0) textToCopy +="\t"
-        // else textToCopy += "\n\t"
-      }
-    })
-    if(globalVerses.end_verse){
-      textToCopy += `\n${globalVerses.book} ${globalVerses.chapter}:${globalVerses.start_verse}-${globalVerses.end_verse} ${translation}`
-    }else{
-      textToCopy += `\n${globalVerses.book} ${globalVerses.chapter}:${globalVerses.start_verse} ${translation}`
-    }
-    navigator.clipboard.writeText(textToCopy)
-
-    // try{
-    //   navigator.clipboard.writeText(textToCopy)
-    // }catch(e){console.log(e);}
+  let newLine = "\n"
+  if(settings.discord) {
+    // if(settings.separateLines){
+    //   textToCopy = ">>> "
+    // }else{
+      textToCopy = "> "
+      newLine = "\n> "
+    // }
   }
+  let verseData = apiData.verses[translation]
+  verseData.forEach(({...e}, c) => {
+
+    // its a verse
+    if(e.num){
+      // if the verse is within the selected passage
+      if(e.num >= globalVerses.start_verse && e.num <= globalVerses.end_verse){
+
+        if(settings.numbers){ // include verse numbers
+          if(settings.discord){
+            textToCopy += ` **${getSuperScript(e.num)}** `
+          }else{
+            textToCopy += ` ${getSuperScript(e.num)} `
+          }
+        }
+        // adds the verse
+        textToCopy += e.verse
+        if(settings.separateLines) textToCopy += `${newLine}`
+
+      }
+    }
+    // its a header
+    else{
+      // if the verse that follows is in the selected passage
+      if(verseData[c+1]?.num >= globalVerses.start_verse && verseData[c+1]?.num <= globalVerses.end_verse){
+        if(settings.headers){
+          if(settings.discord){
+            textToCopy += `**${e.header}**`
+          }else{
+            textToCopy += e.header
+          }
+          if(!c) textToCopy += `${newLine}`
+
+          if(!settings.separateLines){
+            textToCopy += "\t"
+          }
+        }
+        // indents first paragraph if its the first verse
+      }
+    }
+  })
+  if(!settings.separateLines){
+    textToCopy += `${newLine}`
+  }
+  if(settings.discord) textToCopy += "**"
+  if(globalVerses.end_verse){
+    textToCopy += `${globalVerses.book} ${globalVerses.chapter}:${globalVerses.start_verse}-${globalVerses.end_verse} ${translation}`
+  }else{
+    textToCopy += `${globalVerses.book} ${globalVerses.chapter}:${globalVerses.start_verse} ${translation}`
+  }
+  if(settings.discord) textToCopy += "**"
+
+  // copies text
+  navigator.clipboard.writeText(textToCopy)
 
 }
 
+// function copyVerse(translation){
+
+//   // makes the icon gold when clicked
+//   let icon = document.getElementById(`${translation}-copy-icon`)
+//   icon.classList.add("gold-icon-overwrite")
+//   setTimeout(function(){
+//     icon.classList.remove("gold-icon-overwrite")
+//   }, 750);
+
+//   let textToCopy = ""
+//   let verseData = apiData.verses[translation]
+//   let betweenVerses = ""
+//   let tab = "\t"
+//   if(copyStyle === "newLines") {
+//     betweenVerses = "\n"
+//     tab = ""
+//   }
+//   verseData.forEach(({...e}, c) => {
+//     if(copyStyle === "discord"){
+//       if(e.header) e.header = `**${e.header}**`
+//       // if(e.num) e.num = `**${e.num}**`
+//     }
+//     // its a verse
+//     if(e.num){
+//       // if the verse is within the selected passage
+//       if(e.num >= globalVerses.start_verse && e.num <= globalVerses.end_verse){
+
+//         if(settings.numbers){ // include verse numbers
+//           if(copyStyle === "discord"){
+//             textToCopy += `**${getSuperScript(e.num)}** `
+//           }else{
+//             textToCopy += getSuperScript(e.num) + " "
+//           }
+//         }
+//         textToCopy += (e.verse + betweenVerses)
+
+//       }
+//     }
+//     // its a header
+//     else{
+//       // if the verse that follows is in the selected passage
+//       if(verseData[c+1]?.num >= globalVerses.start_verse && verseData[c+1]?.num <= globalVerses.end_verse){
+//         if(settings.headers){
+//           if(c===0) textToCopy += `${e.header}\n`
+//           else textToCopy += `\n${e.header}`
+//         }
+//         // indents first paragraph if its the first verse
+//         if(copyStyle !== "newLines"){
+//           if(c===0) textToCopy +=`${tab}`
+//           else textToCopy += `\n${tab}`
+//         }
+//       }
+//     }
+//   })
+//   if(copyStyle !== "newLines") {
+//     textToCopy += "\n"
+//   }
+//   if(globalVerses.end_verse){
+//     textToCopy += `${globalVerses.book} ${globalVerses.chapter}:${globalVerses.start_verse}-${globalVerses.end_verse} ${translation}`
+//   }else{
+//     textToCopy += `${globalVerses.book} ${globalVerses.chapter}:${globalVerses.start_verse} ${translation}`
+//   }
+
+//   // copies text
+//   navigator.clipboard.writeText(textToCopy)
+
+// }
+
+
+
 document.querySelector("div.passage-col.version-NKJV > div.passage-text > div > div > p > span")
 document.addEventListener("DOMContentLoaded", async() => {
-  let initialVerse = "Genesis 1:1"
+  let initialVerse = "John 1:1-3"
   searchVerse(initialVerse)
   document.getElementById("search").value = initialVerse
   // document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(0%) opacity(1)";
@@ -656,11 +769,38 @@ document.addEventListener("DOMContentLoaded", async() => {
   //   translationHTML +=`<input type="checkbox" id="check-${e}" name="${e}" class="checkbox" checked="true">${e}</input>`
   // })
   // document.getElementById("translation-box").innerHTML = translationHTML
+  // let copyStyles = {
+  //   default: "Default",
+  //   newLines: "Separate Lines",
+  //   discord: "Discord",
+  // }
+  // let copyStyle = ""
+  // Object.entries(copyStyles).forEach(([k,v]) => {
+  //   copyStyle +=`<option class="select" value="${k}">${v}</option>`
+  // })
+  // document.getElementById("copy-style-select").innerHTML = copyStyle
+
+  let settingsHTML = ""
+  let settingsNames = {
+    woj: "Words of Jesus",
+    headers: "Include Headers",
+    numbers: "Include Verse Numbers",
+    discord: "Format For Discord",
+    separateLines: "Show Verses on Separate Lines",
+
+  }
+  Object.entries(settings).forEach(([e, val]) => {
+    // console.log({e, val});
+    let checked = ""
+    if(val) checked = `checked="true"`
+    settingsHTML +=`<div class="row"><input type="checkbox" id="settings-${e}" name="${e}" class="checkbox" ${checked}>${settingsNames[e]}</input></div>`
+  })
+  document.getElementById("settings-box").innerHTML = settingsHTML
 
 
   let translationHTML = ""
   availableTranslations.forEach((e) => {
-    translationHTML +=`<option classs="select" value="${e}">${e}</option>`
+    translationHTML +=`<option class="select" value="${e}">${e}</option>`
   })
   document.getElementById("translation-select").innerHTML = translationHTML
   // console.log(document.getElementById(`${rightContent}-icon`).classList);
@@ -693,11 +833,16 @@ document.addEventListener("input", (input) => {
 document.getElementById("cancel-button").addEventListener("click", () => {
   document.documentElement.style.setProperty('--accent-color', previousAccentColor);
 })
+//settings updated
 document.getElementById("confirm-button").addEventListener("click", () => {
   // document.documentElement.style.setProperty('--accent-color', document.getElementById("color-picker").value);
   previousAccentColor = getComputedStyle(document.documentElement).getPropertyValue('--accent-color')
   primaryTranslation = document.getElementById("translation-select").value
   availableTranslations = [primaryTranslation, ...availableTranslations.filter(f=>f!==primaryTranslation)]
+  Object.keys(settings).forEach(k => {
+    settings[k] = document.getElementById(`settings-${k}`).checked
+  })
+  copyStyle = document.getElementById("copy-style-select").value
 })
 
 document.getElementById("settings").addEventListener("click", (ev) => {

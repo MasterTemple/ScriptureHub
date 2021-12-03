@@ -100,15 +100,25 @@
       <!-- <menu id="dialog-menu">
         <button id="close-dialog">x</button>
       </menu> -->
-      <div id="translation-box"></div>
-      <div id="color-picker-div">
-        <span class="link-text">Accent</span>
-        <input type="color" name="color-picker" id="color-picker">
+      <div class="row">
+        <div>
+          <p><label>Copy Settings
+          </label></p>
+          <div id="settings-box" class="column"></div>
+        </div>
+        <div>
+          <div id="color-picker-div">
+            <span class="link-text">Accent</span>
+            <input type="color" name="color-picker" id="color-picker">
+          </div>
+          <p><label>Primary Translation:
+            <select id="translation-select">
+            </select>
+          </label></p>
+        </div>
       </div>
-      <p><label>Primary Translation:
-        <select id="translation-select">
-        </select>
-      </label></p>
+      <!-- <div id="translation-box"></div> -->
+
       <menu id="dialog-menu">
         <button id="cancel-button" value="cancel">Cancel</button>
         <button id="confirm-button" value="default">Confirm</button>

@@ -217,6 +217,14 @@ select:-webkit-autofill:focus {
     box-shadow: 0 0 0px 1000px rgba(0, 0, 0, 0) inset;;
     transition: background-color 5000s ease-in-out 0s;
 }
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.column {
+  display: flex;
+  flex-direction: column;
+}
 .interlinear-card, .commentary-header {
   display: flex;
   flex-direction: row;
