@@ -5,7 +5,7 @@
     "verse": "ἐστὶν ὁ πιστὸς δοῦλος καὶ"
   },
   {
-    "reference": "Adj-NMS",
+    "reference": "Matthew 25:21",
     "word": "πιστέ",
     "verse": "ἀγαθὲ καὶ πιστέ ἐπὶ ὀλίγα"
   },
@@ -15,524 +15,323 @@
     "verse": "ὀλίγα ἦς πιστός ἐπὶ πολλῶν"
   },
   {
-    "reference": "Adj-VMS",
+    "reference": "Matthew 25:23",
     "word": "πιστέ",
     "verse": "ἀγαθὲ καὶ πιστέ ἐπὶ ὀλίγα"
   },
   {
-    "reference": "Matthew 25:21",
+    "reference": "Matthew 25:23",
     "word": "πιστός",
     "verse": "ὀλίγα ἦς πιστός ἐπὶ πολλῶν"
-  },
-  {
-    "reference": "Adj-NMS",
-    "word": "πιστὸς",
-    "verse": "ἐστὶν ὁ πιστὸς οἰκονόμος ὁ"
-  },
-  {
-    "reference": "Matthew 25:23",
-    "word": "πιστὸς",
-    "verse": "ὁ πιστὸς ἐν ἐλαχίστῳ"
-  },
-  {
-    "reference": "Adj-VMS",
-    "word": "πιστός",
-    "verse": "ἐν πολλῷ πιστός ἐστιν καὶ"
-  },
-  {
-    "reference": "Matthew 25:23",
-    "word": "πιστοὶ",
-    "verse": "ἀδίκῳ μαμωνᾷ πιστοὶ οὐκ ἐγένεσθε"
-  },
-  {
-    "reference": "Adj-NMS",
-    "word": "πιστοὶ",
-    "verse": "τῷ ἀλλοτρίῳ πιστοὶ οὐκ ἐγένεσθε"
   },
   {
     "reference": "Luke 12:42",
     "word": "πιστὸς",
-    "verse": "ἐν ἐλαχίστῳ πιστὸς ἐγένου ἴσθι"
+    "verse": "ἐστὶν ὁ πιστὸς οἰκονόμος ὁ"
   },
   {
-    "reference": "Adj-NMS",
+    "reference": "Luke 16:10",
+    "word": "πιστὸς",
+    "verse": "ὁ πιστὸς ἐν ἐλαχίστῳ"
+  },
+  {
+    "reference": "Luke 16:10",
     "word": "πιστός",
-    "verse": "ἄπιστος ἀλλὰ πιστός "
-  },
-  {
-    "reference": "Luke 16:10",
-    "word": "πιστοὶ",
-    "verse": "ἐκ περιτομῆς πιστοὶ ὅσοι συνῆλθαν"
-  },
-  {
-    "reference": "Adj-NMS",
-    "word": "πιστά",
-    "verse": "Δαυὶδ τὰ πιστά "
-  },
-  {
-    "reference": "Luke 16:10",
-    "word": "πιστῆς",
-    "verse": "γυναικὸς Ἰουδαίας πιστῆς πατρὸς δὲ"
-  },
-  {
-    "reference": "Adj-NMS",
-    "word": "πιστὴν",
-    "verse": "κεκρίκατέ με πιστὴν τῷ κυρίῳ"
+    "verse": "ἐν πολλῷ πιστός ἐστιν καὶ"
   },
   {
     "reference": "Luke 16:11",
-    "word": "πιστὸς",
-    "verse": "πιστὸς ὁ θεὸς"
-  },
-  {
-    "reference": "Adj-NFP",
-    "word": "πιστός",
-    "verse": "οἰκονόμοις ἵνα πιστός τις εὑρεθῇ"
+    "word": "πιστοὶ",
+    "verse": "ἀδίκῳ μαμωνᾷ πιστοὶ οὐκ ἐγένεσθε"
   },
   {
     "reference": "Luke 16:12",
-    "word": "πιστὸν",
-    "verse": "ἀγαπητὸν καὶ πιστὸν ἐν κυρίῳ"
-  },
-  {
-    "reference": "Adj-NFP",
-    "word": "πιστὸς",
-    "verse": "ὑπὸ κυρίου πιστὸς εἶναι "
+    "word": "πιστοὶ",
+    "verse": "τῷ ἀλλοτρίῳ πιστοὶ οὐκ ἐγένεσθε"
   },
   {
     "reference": "Luke 19:17",
     "word": "πιστὸς",
+    "verse": "ἐν ἐλαχίστῳ πιστὸς ἐγένου ἴσθι"
+  },
+  {
+    "reference": "John 20:27",
+    "word": "πιστός",
+    "verse": "ἄπιστος ἀλλὰ πιστός "
+  },
+  {
+    "reference": "Acts 10:45",
+    "word": "πιστοὶ",
+    "verse": "ἐκ περιτομῆς πιστοὶ ὅσοι συνῆλθαν"
+  },
+  {
+    "reference": "Acts 13:34",
+    "word": "πιστά",
+    "verse": "Δαυὶδ τὰ πιστά "
+  },
+  {
+    "reference": "Acts 16:1",
+    "word": "πιστῆς",
+    "verse": "γυναικὸς Ἰουδαίας πιστῆς πατρὸς δὲ"
+  },
+  {
+    "reference": "Acts 16:15",
+    "word": "πιστὴν",
+    "verse": "κεκρίκατέ με πιστὴν τῷ κυρίῳ"
+  },
+  {
+    "reference": "1 Corinthians 1:9",
+    "word": "πιστὸς",
+    "verse": "πιστὸς ὁ θεὸς"
+  },
+  {
+    "reference": "1 Corinthians 4:2",
+    "word": "πιστός",
+    "verse": "οἰκονόμοις ἵνα πιστός τις εὑρεθῇ"
+  },
+  {
+    "reference": "1 Corinthians 4:17",
+    "word": "πιστὸν",
+    "verse": "ἀγαπητὸν καὶ πιστὸν ἐν κυρίῳ"
+  },
+  {
+    "reference": "1 Corinthians 7:25",
+    "word": "πιστὸς",
+    "verse": "ὑπὸ κυρίου πιστὸς εἶναι "
+  },
+  {
+    "reference": "1 Corinthians 10:13",
+    "word": "πιστὸς",
     "verse": "μὴ ἀνθρώπινος πιστὸς δὲ ὁ"
   },
   {
-    "reference": "Adj-NMS",
+    "reference": "2 Corinthians 1:18",
     "word": "πιστὸς",
     "verse": "πιστὸς δὲ ὁ"
   },
   {
-    "reference": "John 20:27",
+    "reference": "2 Corinthians 6:15",
     "word": "πιστῷ",
     "verse": "τίς μερὶς πιστῷ μετὰ ἀπίστου"
   },
   {
-    "reference": "Adj-NMS",
+    "reference": "Galatians 3:9",
     "word": "πιστῷ",
     "verse": "σὺν τῷ πιστῷ Ἀβραάμ "
   },
   {
-    "reference": "Acts 10:45",
+    "reference": "Ephesians 1:1",
     "word": "πιστοῖς",
     "verse": "Ἐφέσῳ καὶ πιστοῖς ἐν Χριστῷ"
   },
   {
-    "reference": "Adj-NFP",
+    "reference": "Ephesians 6:21",
     "word": "πιστὸς",
     "verse": "ἀδελφὸς καὶ πιστὸς διάκονος ἐν"
   },
   {
-    "reference": "Acts 13:34",
+    "reference": "Colossians 1:2",
     "word": "πιστοῖς",
     "verse": "ἁγίοις καὶ πιστοῖς ἀδελφοῖς ἐν"
   },
   {
-    "reference": "Adj-ANP",
+    "reference": "Colossians 1:7",
     "word": "πιστὸς",
     "verse": "ὅς ἐστιν πιστὸς ὑπὲρ ὑμῶν"
   },
   {
-    "reference": "Acts 16:1",
+    "reference": "Colossians 4:7",
     "word": "πιστὸς",
     "verse": "ἀδελφὸς καὶ πιστὸς διάκονος καὶ"
   },
   {
-    "reference": "Adj-GFS",
+    "reference": "Colossians 4:9",
     "word": "πιστῷ",
     "verse": "Ὀνησίμῳ τῷ πιστῷ καὶ ἀγαπητῷ"
   },
   {
-    "reference": "Acts 16:15",
+    "reference": "1 Thessalonians 5:24",
     "word": "πιστὸς",
     "verse": "πιστὸς ὁ καλῶν"
   },
   {
-    "reference": "Adj-AFS",
+    "reference": "2 Thessalonians 3:3",
     "word": "Πιστὸς",
     "verse": "Πιστὸς δέ ἐστιν"
   },
   {
-    "reference": "1 Corinthians 1:9",
+    "reference": "1 Timothy 1:12",
     "word": "πιστόν",
     "verse": "ἡμῶν ὅτι πιστόν με ἡγήσατο"
   },
   {
-    "reference": "Adj-NMS",
+    "reference": "1 Timothy 1:15",
     "word": "πιστὸς",
     "verse": "πιστὸς ὁ λόγος"
   },
   {
-    "reference": "1 Corinthians 4:2",
+    "reference": "1 Timothy 3:1",
     "word": "πιστὸς",
     "verse": "πιστὸς ὁ λόγος"
   },
   {
-    "reference": "Adj-NMS",
+    "reference": "1 Timothy 3:11",
     "word": "πιστὰς",
     "verse": "διαβόλους νηφαλίους πιστὰς ἐν πᾶσιν"
   },
   {
-    "reference": "1 Corinthians 4:17",
+    "reference": "1 Timothy 4:3",
     "word": "πιστοῖς",
     "verse": "εὐχαριστίας τοῖς πιστοῖς καὶ ἐπεγνωκόσι"
   },
   {
-    "reference": "Adj-ANS",
+    "reference": "1 Timothy 4:9",
     "word": "πιστὸς",
     "verse": "πιστὸς ὁ λόγος"
   },
   {
-    "reference": "1 Corinthians 7:25",
+    "reference": "1 Timothy 4:10",
     "word": "πιστῶν",
     "verse": "ἀνθρώπων μάλιστα πιστῶν "
   },
   {
-    "reference": "Adj-NMS",
+    "reference": "1 Timothy 4:12",
     "word": "πιστῶν",
     "verse": "γίνου τῶν πιστῶν ἐν λόγῳ"
   },
   {
-    "reference": "1 Corinthians 10:13",
+    "reference": "1 Timothy 5:16",
     "word": "πιστὴ",
     "verse": "εἴ τις πιστὴ ἔχει χήρας"
   },
   {
-    "reference": "Adj-NMS",
+    "reference": "1 Timothy 6:2",
     "word": "πιστοὺς",
     "verse": "οἱ δὲ πιστοὺς ἔχοντες δεσπότας"
   },
   {
-    "reference": "2 Corinthians 1:18",
+    "reference": "1 Timothy 6:2",
     "word": "πιστοί",
     "verse": "δουλευέτωσαν ὅτι πιστοί εἰσιν καὶ"
   },
   {
-    "reference": "Adj-NMS",
+    "reference": "2 Timothy 2:2",
     "word": "πιστοῖς",
     "verse": "ταῦτα παράθου πιστοῖς ἀνθρώποις οἵτινες"
   },
   {
-    "reference": "2 Corinthians 6:15",
+    "reference": "2 Timothy 2:11",
     "word": "πιστὸς",
     "verse": "πιστὸς ὁ λόγος"
   },
   {
-    "reference": "Adj-DMS",
+    "reference": "2 Timothy 2:13",
     "word": "πιστὸς",
     "verse": "ἀπιστοῦμεν ἐκεῖνος πιστὸς μένει ἀρνήσασθαι"
   },
   {
-    "reference": "Galatians 3:9",
+    "reference": "Titus 1:6",
     "word": "πιστά",
     "verse": "τέκνα ἔχων πιστά μὴ ἐν"
   },
   {
-    "reference": "Adj-DMS",
+    "reference": "Titus 1:9",
     "word": "πιστοῦ",
     "verse": "τὴν διδαχὴν πιστοῦ λόγου ἵνα"
   },
   {
-    "reference": "Ephesians 1:1",
+    "reference": "Titus 3:8",
     "word": "Πιστὸς",
     "verse": "Πιστὸς ὁ λόγος"
   },
   {
-    "reference": "Adj-DMP",
+    "reference": "Hebrews 2:17",
     "word": "πιστὸς",
     "verse": "γένηται καὶ πιστὸς ἀρχιερεὺς τὰ"
   },
   {
-    "reference": "Ephesians 6:21",
+    "reference": "Hebrews 3:2",
     "word": "πιστὸν",
     "verse": "πιστὸν ὄντα τῷ"
   },
   {
-    "reference": "Adj-NMS",
+    "reference": "Hebrews 3:5",
     "word": "πιστὸς",
     "verse": "Μωυσῆς μὲν πιστὸς ἐν ὅλῳ"
   },
   {
-    "reference": "Colossians 1:2",
+    "reference": "Hebrews 10:23",
     "word": "πιστὸς",
     "verse": "ἐλπίδος ἀκλινῆ πιστὸς γὰρ ὁ"
   },
   {
-    "reference": "Adj-DMP",
+    "reference": "Hebrews 11:11",
     "word": "πιστὸν",
     "verse": "ἡλικίας ἐπεὶ πιστὸν ἡγήσατο τὸν"
   },
   {
-    "reference": "Colossians 1:7",
+    "reference": "1 Peter 1:21",
     "word": "πιστοὺς",
     "verse": "δι' αὐτοῦ πιστοὺς εἰς θεὸν"
   },
   {
-    "reference": "Adj-NMS",
+    "reference": "1 Peter 4:19",
     "word": "πιστῷ",
     "verse": "τοῦ θεοῦ πιστῷ κτίστῃ παρατιθέσθωσαν"
   },
   {
-    "reference": "Colossians 4:7",
+    "reference": "1 Peter 5:12",
     "word": "πιστοῦ",
     "verse": "ὑμῖν τοῦ πιστοῦ ἀδελφοῦ ὡς"
   },
   {
-    "reference": "Adj-NMS",
+    "reference": "1 John 1:9",
     "word": "πιστός",
     "verse": "ἁμαρτίας ἡμῶν πιστός ἐστιν καὶ"
   },
   {
-    "reference": "Colossians 4:9",
+    "reference": "3 John 1:5",
     "word": "πιστὸν",
     "verse": "Ἀγαπητέ πιστὸν ποιεῖς ὃ"
   },
   {
-    "reference": "Adj-DMS",
+    "reference": "Revelation 1:5",
     "word": "πιστός",
     "verse": "μάρτυς ὁ πιστός ὁ πρωτότοκος"
   },
   {
-    "reference": "1 Thessalonians 5:24",
+    "reference": "Revelation 2:10",
     "word": "πιστὸς",
     "verse": "δέκα γίνου πιστὸς ἄχρι θανάτου"
   },
   {
-    "reference": "Adj-NMS",
+    "reference": "Revelation 2:13",
     "word": "πιστός",
     "verse": "μου ὁ πιστός μου ὃς"
   },
   {
-    "reference": "2 Thessalonians 3:3",
+    "reference": "Revelation 3:14",
     "word": "πιστὸς",
     "verse": "μάρτυς ὁ πιστὸς καὶ ὁ"
   },
   {
-    "reference": "Adj-NMS",
+    "reference": "Revelation 17:14",
     "word": "πιστοί",
     "verse": "ἐκλεκτοὶ καὶ πιστοί "
   },
   {
-    "reference": "1 Timothy 1:12",
+    "reference": "Revelation 19:11",
     "word": "πιστὸς",
     "verse": "ἐπ' αὐτὸν πιστὸς καλούμενος καὶ"
   },
   {
-    "reference": "Adj-AMS",
+    "reference": "Revelation 21:5",
     "word": "πιστοὶ",
     "verse": "οἱ λόγοι πιστοὶ καὶ ἀληθινοί"
   },
   {
-    "reference": "1 Timothy 1:15",
+    "reference": "Revelation 22:6",
     "word": "πιστοὶ",
     "verse": "οἱ λόγοι πιστοὶ καὶ ἀληθινοί"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "1 Timothy 3:1"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "1 Timothy 3:11"
-  },
-  {
-    "reference": "Adj-AFP"
-  },
-  {
-    "reference": "1 Timothy 4:3"
-  },
-  {
-    "reference": "Adj-DMP"
-  },
-  {
-    "reference": "1 Timothy 4:9"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "1 Timothy 4:10"
-  },
-  {
-    "reference": "Adj-GMP"
-  },
-  {
-    "reference": "1 Timothy 4:12"
-  },
-  {
-    "reference": "Adj-GMP"
-  },
-  {
-    "reference": "1 Timothy 5:16"
-  },
-  {
-    "reference": "Adj-NFS"
-  },
-  {
-    "reference": "1 Timothy 6:2"
-  },
-  {
-    "reference": "Adj-AMP"
-  },
-  {
-    "reference": "1 Timothy 6:2"
-  },
-  {
-    "reference": "Adj-NFP"
-  },
-  {
-    "reference": "2 Timothy 2:2"
-  },
-  {
-    "reference": "Adj-DMP"
-  },
-  {
-    "reference": "2 Timothy 2:11"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "2 Timothy 2:13"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Titus 1:6"
-  },
-  {
-    "reference": "Adj-ANP"
-  },
-  {
-    "reference": "Titus 1:9"
-  },
-  {
-    "reference": "Adj-GMS"
-  },
-  {
-    "reference": "Titus 3:8"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Hebrews 2:17"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Hebrews 3:2"
-  },
-  {
-    "reference": "Adj-AMS"
-  },
-  {
-    "reference": "Hebrews 3:5"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Hebrews 10:23"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Hebrews 11:11"
-  },
-  {
-    "reference": "Adj-AMS"
-  },
-  {
-    "reference": "1 Peter 1:21"
-  },
-  {
-    "reference": "Adj-AMP"
-  },
-  {
-    "reference": "1 Peter 4:19"
-  },
-  {
-    "reference": "Adj-DMS"
-  },
-  {
-    "reference": "1 Peter 5:12"
-  },
-  {
-    "reference": "Adj-GMS"
-  },
-  {
-    "reference": "1 John 1:9"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "3 John 1:5"
-  },
-  {
-    "reference": "Adj-ANS"
-  },
-  {
-    "reference": "Revelation 1:5"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Revelation 2:10"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Revelation 2:13"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Revelation 3:14"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Revelation 17:14"
-  },
-  {
-    "reference": "Adj-NFP"
-  },
-  {
-    "reference": "Revelation 19:11"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Revelation 21:5"
-  },
-  {
-    "reference": "Adj-NFP"
-  },
-  {
-    "reference": "Revelation 22:6"
-  },
-  {
-    "reference": "Adj-NFP"
   }
 ]

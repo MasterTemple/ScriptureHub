@@ -5,326 +5,203 @@
     "verse": "φρονίμῳ ὅστις ᾠκοδόμησεν αὐτοῦ τὴν"
   },
   {
-    "reference": "V-AIA-3S",
+    "reference": "Matthew 7:26",
     "word": "ᾠκοδόμησεν",
     "verse": "μωρῷ ὅστις ᾠκοδόμησεν αὐτοῦ τὴν"
   },
   {
-    "reference": "Matthew 7:26",
+    "reference": "Matthew 16:18",
     "word": "οἰκοδομήσω",
     "verse": "τῇ πέτρᾳ οἰκοδομήσω μου τὴν"
   },
   {
-    "reference": "V-AIA-3S",
+    "reference": "Matthew 21:33",
     "word": "ᾠκοδόμησεν",
     "verse": "ληνὸν καὶ ᾠκοδόμησεν πύργον καὶ"
   },
   {
-    "reference": "Matthew 16:18",
-    "word": "οἰκοδομοῦντες",
-    "verse": "ἀπεδοκίμασαν οἱ οἰκοδομοῦντες οὗτος ἐγενήθη"
-  },
-  {
-    "reference": "V-FIA-1S",
-    "word": "οἰκοδομεῖτε",
-    "verse": "ὑποκριταί ὅτι οἰκοδομεῖτε τοὺς τάφους"
-  },
-  {
-    "reference": "Matthew 21:33",
-    "word": "οἰκοδομῆσαι",
-    "verse": "τριῶν ἡμερῶν οἰκοδομῆσαι "
-  },
-  {
-    "reference": "V-AIA-3S",
-    "word": "οἰκοδομῶν",
-    "verse": "τρισὶν ἡμέραις οἰκοδομῶν σῶσον σεαυτόν"
-  },
-  {
     "reference": "Matthew 21:42",
-    "word": "ᾠκοδόμησεν",
-    "verse": "ὑπολήνιον καὶ ᾠκοδόμησεν πύργον καὶ"
-  },
-  {
-    "reference": "V-PPA-NMP",
     "word": "οἰκοδομοῦντες",
     "verse": "ἀπεδοκίμασαν οἱ οἰκοδομοῦντες οὗτος ἐγενήθη"
   },
   {
     "reference": "Matthew 23:29",
-    "word": "οἰκοδομήσω",
-    "verse": "ἄλλον ἀχειροποίητον οἰκοδομήσω "
-  },
-  {
-    "reference": "V-PIA-2P",
-    "word": "οἰκοδομῶν",
-    "verse": "ναὸν καὶ οἰκοδομῶν ἐν τρισὶν"
+    "word": "οἰκοδομεῖτε",
+    "verse": "ὑποκριταί ὅτι οἰκοδομεῖτε τοὺς τάφους"
   },
   {
     "reference": "Matthew 26:61",
-    "word": "ᾠκοδόμητο",
-    "verse": "ἡ πόλις ᾠκοδόμητο αὐτῶν ὥστε"
-  },
-  {
-    "reference": "V-ANA",
-    "word": "οἰκοδομοῦντι",
-    "verse": "ἐστιν ἀνθρώπῳ οἰκοδομοῦντι οἰκίαν ὃς"
+    "word": "οἰκοδομῆσαι",
+    "verse": "τριῶν ἡμερῶν οἰκοδομῆσαι "
   },
   {
     "reference": "Matthew 27:40",
-    "word": "οἰκοδομῆσθαι",
-    "verse": "τὸ καλῶς οἰκοδομῆσθαι αὐτήν "
-  },
-  {
-    "reference": "V-PPA-NMS",
-    "word": "οἰκοδομήσαντι",
-    "verse": "ἐστιν ἀνθρώπῳ οἰκοδομήσαντι οἰκίαν ἐπὶ"
+    "word": "οἰκοδομῶν",
+    "verse": "τρισὶν ἡμέραις οἰκοδομῶν σῶσον σεαυτόν"
   },
   {
     "reference": "Mark 12:1",
     "word": "ᾠκοδόμησεν",
+    "verse": "ὑπολήνιον καὶ ᾠκοδόμησεν πύργον καὶ"
+  },
+  {
+    "reference": "Mark 12:10",
+    "word": "οἰκοδομοῦντες",
+    "verse": "ἀπεδοκίμασαν οἱ οἰκοδομοῦντες οὗτος ἐγενήθη"
+  },
+  {
+    "reference": "Mark 14:58",
+    "word": "οἰκοδομήσω",
+    "verse": "ἄλλον ἀχειροποίητον οἰκοδομήσω "
+  },
+  {
+    "reference": "Mark 15:29",
+    "word": "οἰκοδομῶν",
+    "verse": "ναὸν καὶ οἰκοδομῶν ἐν τρισὶν"
+  },
+  {
+    "reference": "Luke 4:29",
+    "word": "ᾠκοδόμητο",
+    "verse": "ἡ πόλις ᾠκοδόμητο αὐτῶν ὥστε"
+  },
+  {
+    "reference": "Luke 6:48",
+    "word": "οἰκοδομοῦντι",
+    "verse": "ἐστιν ἀνθρώπῳ οἰκοδομοῦντι οἰκίαν ὃς"
+  },
+  {
+    "reference": "Luke 6:48",
+    "word": "οἰκοδομῆσθαι",
+    "verse": "τὸ καλῶς οἰκοδομῆσθαι αὐτήν "
+  },
+  {
+    "reference": "Luke 6:49",
+    "word": "οἰκοδομήσαντι",
+    "verse": "ἐστιν ἀνθρώπῳ οἰκοδομήσαντι οἰκίαν ἐπὶ"
+  },
+  {
+    "reference": "Luke 7:5",
+    "word": "ᾠκοδόμησεν",
     "verse": "συναγωγὴν αὐτὸς ᾠκοδόμησεν ἡμῖν "
   },
   {
-    "reference": "V-AIA-3S",
+    "reference": "Luke 11:47",
     "word": "οἰκοδομεῖτε",
     "verse": "ὑμῖν ὅτι οἰκοδομεῖτε τὰ μνημεῖα"
   },
   {
-    "reference": "Mark 12:10",
+    "reference": "Luke 11:48",
     "word": "οἰκοδομεῖτε",
     "verse": "ὑμεῖς δὲ οἰκοδομεῖτε "
   },
   {
-    "reference": "V-PPA-NMP",
+    "reference": "Luke 12:18",
     "word": "οἰκοδομήσω",
     "verse": "καὶ μείζονας οἰκοδομήσω καὶ συνάξω"
   },
   {
-    "reference": "Mark 14:58",
+    "reference": "Luke 14:28",
     "word": "οἰκοδομῆσαι",
     "verse": "θέλων πύργον οἰκοδομῆσαι οὐχὶ πρῶτον"
   },
   {
-    "reference": "V-FIA-1S",
+    "reference": "Luke 14:30",
     "word": "οἰκοδομεῖν",
     "verse": "ἄνθρωπος ἤρξατο οἰκοδομεῖν καὶ οὐκ"
   },
   {
-    "reference": "Mark 15:29",
+    "reference": "Luke 17:28",
     "word": "ᾠκοδόμουν",
     "verse": "ἐπώλουν ἐφύτευον ᾠκοδόμουν "
   },
   {
-    "reference": "V-PPA-NMS",
+    "reference": "Luke 20:17",
     "word": "οἰκοδομοῦντες",
     "verse": "ἀπεδοκίμασαν οἱ οἰκοδομοῦντες οὗτος ἐγενήθη"
   },
   {
-    "reference": "Luke 4:29",
+    "reference": "John 2:20",
     "word": "οἰκοδομήθη",
     "verse": "ἓξ ἔτεσιν οἰκοδομήθη ὁ ναὸς"
   },
   {
-    "reference": "V-LIM/P-3S",
+    "reference": "Acts 4:11",
     "word": "οἰκοδόμων",
     "verse": "ὑμῶν τῶν οἰκοδόμων ὁ γενόμενος"
   },
   {
-    "reference": "Luke 6:48",
+    "reference": "Acts 7:47",
     "word": "οἰκοδόμησεν",
     "verse": "Σολομὼν δὲ οἰκοδόμησεν αὐτῷ οἶκον"
   },
   {
-    "reference": "V-PPA-DMS",
+    "reference": "Acts 7:49",
     "word": "οἰκοδομήσετέ",
     "verse": "ποῖον οἶκον οἰκοδομήσετέ μοι λέγει"
   },
   {
-    "reference": "Luke 6:48",
+    "reference": "Acts 9:31",
     "word": "οἰκοδομουμένη",
     "verse": "εἶχεν εἰρήνην οἰκοδομουμένη καὶ πορευομένη"
   },
   {
-    "reference": "V-RNM/P",
+    "reference": "Acts 20:32",
     "word": "οἰκοδομῆσαι",
     "verse": "τῷ δυναμένῳ οἰκοδομῆσαι καὶ δοῦναι"
   },
   {
-    "reference": "Luke 6:49",
+    "reference": "Romans 15:20",
     "word": "οἰκοδομῶ",
     "verse": "ἀλλότριον θεμέλιον οἰκοδομῶ "
   },
   {
-    "reference": "V-APA-DMS",
+    "reference": "1 Corinthians 8:1",
     "word": "οἰκοδομεῖ",
     "verse": "δὲ ἀγάπη οἰκοδομεῖ "
   },
   {
-    "reference": "Luke 7:5",
+    "reference": "1 Corinthians 8:10",
     "word": "οἰκοδομηθήσεται",
     "verse": "ἀσθενοῦς ὄντος οἰκοδομηθήσεται εἰς τὸ"
   },
   {
-    "reference": "V-AIA-3S",
+    "reference": "1 Corinthians 10:23",
     "word": "οἰκοδομεῖ",
     "verse": "οὐ πάντα οἰκοδομεῖ "
   },
   {
-    "reference": "Luke 11:47",
+    "reference": "1 Corinthians 14:4",
     "word": "οἰκοδομεῖ",
     "verse": "γλώσσῃ ἑαυτὸν οἰκοδομεῖ ὁ δὲ"
   },
   {
-    "reference": "V-PIA-2P",
+    "reference": "1 Corinthians 14:4",
     "word": "οἰκοδομεῖ",
     "verse": "προφητεύων ἐκκλησίαν οἰκοδομεῖ "
   },
   {
-    "reference": "Luke 11:48",
+    "reference": "1 Corinthians 14:17",
     "word": "οἰκοδομεῖται",
     "verse": "ἕτερος οὐκ οἰκοδομεῖται "
   },
   {
-    "reference": "V-PIA-2P",
+    "reference": "Galatians 2:18",
     "word": "οἰκοδομῶ",
     "verse": "ταῦτα πάλιν οἰκοδομῶ παραβάτην ἐμαυτὸν"
   },
   {
-    "reference": "Luke 12:18",
+    "reference": "1 Thessalonians 5:11",
     "word": "οἰκοδομεῖτε",
     "verse": "ἀλλήλους καὶ οἰκοδομεῖτε εἷς τὸν"
   },
   {
-    "reference": "V-FIA-1S",
+    "reference": "1 Peter 2:5",
     "word": "οἰκοδομεῖσθε",
     "verse": "λίθοι ζῶντες οἰκοδομεῖσθε οἶκος πνευματικὸς"
   },
   {
-    "reference": "Luke 14:28",
+    "reference": "1 Peter 2:7",
     "word": "οἰκοδομοῦντες",
     "verse": "ἀπεδοκίμασαν οἱ οἰκοδομοῦντες οὗτος ἐγενήθη"
-  },
-  {
-    "reference": "V-ANA"
-  },
-  {
-    "reference": "Luke 14:30"
-  },
-  {
-    "reference": "V-PNA"
-  },
-  {
-    "reference": "Luke 17:28"
-  },
-  {
-    "reference": "V-IIA-3P"
-  },
-  {
-    "reference": "Luke 20:17"
-  },
-  {
-    "reference": "V-PPA-NMP"
-  },
-  {
-    "reference": "John 2:20"
-  },
-  {
-    "reference": "V-AIP-3S"
-  },
-  {
-    "reference": "Acts 4:11"
-  },
-  {
-    "reference": "N-GMP"
-  },
-  {
-    "reference": "Acts 7:47"
-  },
-  {
-    "reference": "V-AIA-3S"
-  },
-  {
-    "reference": "Acts 7:49"
-  },
-  {
-    "reference": "V-FIA-2P"
-  },
-  {
-    "reference": "Acts 9:31"
-  },
-  {
-    "reference": "V-PPM/P-NFS"
-  },
-  {
-    "reference": "Acts 20:32"
-  },
-  {
-    "reference": "V-ANA"
-  },
-  {
-    "reference": "Romans 15:20"
-  },
-  {
-    "reference": "V-PSA-1S"
-  },
-  {
-    "reference": "1 Corinthians 8:1"
-  },
-  {
-    "reference": "V-PIA-3S"
-  },
-  {
-    "reference": "1 Corinthians 8:10"
-  },
-  {
-    "reference": "V-FIP-3S"
-  },
-  {
-    "reference": "1 Corinthians 10:23"
-  },
-  {
-    "reference": "V-PIA-3S"
-  },
-  {
-    "reference": "1 Corinthians 14:4"
-  },
-  {
-    "reference": "V-PIA-3S"
-  },
-  {
-    "reference": "1 Corinthians 14:4"
-  },
-  {
-    "reference": "V-PIA-3S"
-  },
-  {
-    "reference": "1 Corinthians 14:17"
-  },
-  {
-    "reference": "V-PIM/P-3S"
-  },
-  {
-    "reference": "Galatians 2:18"
-  },
-  {
-    "reference": "V-PIA-1S"
-  },
-  {
-    "reference": "1 Thessalonians 5:11"
-  },
-  {
-    "reference": "V-PMA-2P"
-  },
-  {
-    "reference": "1 Peter 2:5"
-  },
-  {
-    "reference": "V-PIM/P-2P"
-  },
-  {
-    "reference": "1 Peter 2:7"
-  },
-  {
-    "reference": "V-PPA-NMP"
   }
 ]

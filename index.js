@@ -101,15 +101,16 @@ async function getAllStrongsDataFromWebsite() {
   }
 }
 async function createStrongsJSON() {
-  for(let i=1;i<=8674;i++){
-    if(!fs.existsSync(`./BibleHub/strongs/html/hebrew/${i}.htm`)) continue;
-    if(fs.existsSync(`./BibleHub/json/strongs/hebrew/${i}.json`)) continue;
-    getStrongsJSON("hebrew", i)
-  }
+
+  // for(let i=1;i<=8674;i++){
+  //   if(!fs.existsSync(`./BibleHub/strongs/html/hebrew/${i}.htm`)) continue;
+  //   // if(fs.existsSync(`./BibleHub/json/strongs/hebrew/${i}.json`)) continue;
+  //   await getStrongsJSON("hebrew", i)
+  // }
   for(let i=1;i<=5624;i++){
     if(!fs.existsSync(`./BibleHub/strongs/html/greek/${i}.htm`)) continue;
-    if(fs.existsSync(`./BibleHub/json/strongs/greek/${i}.json`)) continue;
-    getStrongsJSON("greek", i)
+    // if(fs.existsSync(`./BibleHub/json/strongs/greek/${i}.json`)) continue;
+    await getStrongsJSON("greek", i)
   }
 }
 async function createCommentariesFromWebsite(references){
@@ -298,4 +299,5 @@ translationList = [...new Set([...translationList])]
 // }
 // fs.writeFile("./badPassages.json", JSON.stringify(badPassages), ()=>{})
 
-console.log(getAllCompleteTranslations(translationList))
+// console.log(getAllCompleteTranslations(translationList))
+createStrongsJSON()

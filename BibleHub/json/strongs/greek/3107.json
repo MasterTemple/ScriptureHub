@@ -5,87 +5,42 @@
     "verse": "ΜΑΚΑΡΙΟΙ οἱ πτωχοὶ"
   },
   {
-    "reference": "Adj-NMP",
+    "reference": "Matthew 5:4",
     "word": "μακάριοι",
     "verse": "μακάριοι οἱ πενθοῦντες"
   },
   {
-    "reference": "Matthew 5:4",
+    "reference": "Matthew 5:5",
     "word": "μακάριοι",
     "verse": "μακάριοι οἱ πραεῖς"
   },
   {
-    "reference": "Adj-NMP",
+    "reference": "Matthew 5:6",
     "word": "μακάριοι",
     "verse": "μακάριοι οἱ πεινῶντες"
   },
   {
-    "reference": "Matthew 5:5",
+    "reference": "Matthew 5:7",
     "word": "μακάριοι",
     "verse": "μακάριοι οἱ ἐλεήμονες"
   },
   {
-    "reference": "Adj-NMP",
+    "reference": "Matthew 5:8",
     "word": "μακάριοι",
     "verse": "μακάριοι οἱ καθαροὶ"
   },
   {
-    "reference": "Matthew 5:6",
+    "reference": "Matthew 5:9",
     "word": "μακάριοι",
     "verse": "μακάριοι οἱ εἰρηνοποιοί"
   },
   {
-    "reference": "Adj-NMP",
+    "reference": "Matthew 5:10",
     "word": "μακάριοι",
     "verse": "μακάριοι οἱ δεδιωγμένοι"
   },
   {
-    "reference": "Matthew 5:7",
-    "word": "μακάριοί",
-    "verse": "μακάριοί ἐστε ὅταν"
-  },
-  {
-    "reference": "Adj-NMP",
-    "word": "μακάριός",
-    "verse": "καὶ μακάριός ἐστιν ὃς"
-  },
-  {
-    "reference": "Matthew 5:8",
-    "word": "μακάριοι",
-    "verse": "ὑμῶν δὲ μακάριοι οἱ ὀφθαλμοὶ"
-  },
-  {
-    "reference": "Adj-NMP",
-    "word": "Μακάριος",
-    "verse": "εἶπεν αὐτῷ Μακάριος εἶ Σίμων"
-  },
-  {
-    "reference": "Matthew 5:9",
-    "word": "μακάριος",
-    "verse": "μακάριος ὁ δοῦλος"
-  },
-  {
-    "reference": "Adj-NMP",
-    "word": "μακαρία",
-    "verse": "καὶ μακαρία ἡ πιστεύσασα"
-  },
-  {
-    "reference": "Matthew 5:10",
-    "word": "Μακάριοι",
-    "verse": "αὐτοῦ ἔλεγεν Μακάριοι οἱ πτωχοί"
-  },
-  {
-    "reference": "Adj-NMP",
-    "word": "μακάριοι",
-    "verse": "μακάριοι οἱ πεινῶντες"
-  },
-  {
     "reference": "Matthew 5:11",
-    "word": "μακάριοι",
-    "verse": "ὅτι χορτασθήσεσθε μακάριοι οἱ κλαίοντες"
-  },
-  {
-    "reference": "Adj-NMP",
     "word": "μακάριοί",
     "verse": "μακάριοί ἐστε ὅταν"
   },
@@ -95,29 +50,14 @@
     "verse": "καὶ μακάριός ἐστιν ὃς"
   },
   {
-    "reference": "Adj-NMS",
-    "word": "Μακάριοι",
-    "verse": "ἰδίαν εἶπεν Μακάριοι οἱ ὀφθαλμοὶ"
-  },
-  {
     "reference": "Matthew 13:16",
-    "word": "Μακαρία",
-    "verse": "εἶπεν αὐτῷ Μακαρία ἡ κοιλία"
-  },
-  {
-    "reference": "Adj-NMP",
     "word": "μακάριοι",
-    "verse": "εἶπεν Μενοῦν μακάριοι οἱ ἀκούοντες"
+    "verse": "ὑμῶν δὲ μακάριοι οἱ ὀφθαλμοὶ"
   },
   {
     "reference": "Matthew 16:17",
-    "word": "μακάριοι",
-    "verse": "μακάριοι οἱ δοῦλοι"
-  },
-  {
-    "reference": "Adj-NMS",
-    "word": "μακάριοί",
-    "verse": "εὕρῃ οὕτως μακάριοί εἰσιν ἐκεῖνοι"
+    "word": "Μακάριος",
+    "verse": "εἶπεν αὐτῷ Μακάριος εἶ Σίμων"
   },
   {
     "reference": "Matthew 24:46",
@@ -125,278 +65,188 @@
     "verse": "μακάριος ὁ δοῦλος"
   },
   {
-    "reference": "Adj-NMS",
-    "word": "μακάριος",
-    "verse": "καὶ μακάριος ἔσῃ ὅτι"
-  },
-  {
     "reference": "Luke 1:45",
-    "word": "Μακάριος",
-    "verse": "εἶπεν αὐτῷ Μακάριος ὅστις φάγεται"
-  },
-  {
-    "reference": "Adj-NFS",
-    "word": "Μακάριαι",
-    "verse": "αἷς ἐροῦσιν Μακάριαι αἱ στεῖραι"
+    "word": "μακαρία",
+    "verse": "καὶ μακαρία ἡ πιστεύσασα"
   },
   {
     "reference": "Luke 6:20",
-    "word": "μακάριοί",
-    "verse": "ταῦτα οἴδατε μακάριοί ἐστε ἐὰν"
-  },
-  {
-    "reference": "Adj-NMP",
-    "word": "μακάριοι",
-    "verse": "με πεπίστευκας μακάριοι οἱ μὴ"
-  },
-  {
-    "reference": "Luke 6:21",
-    "word": "Μακάριόν",
-    "verse": "αὐτὸς εἶπεν Μακάριόν ἐστιν μᾶλλον"
-  },
-  {
-    "reference": "Adj-NMP",
-    "word": "μακάριον",
-    "verse": "ἥγημαι ἐμαυτὸν μακάριον ἐπὶ σοῦ"
-  },
-  {
-    "reference": "Luke 6:21",
     "word": "Μακάριοι",
-    "verse": "Μακάριοι ὧν ἀφέθησαν"
+    "verse": "αὐτοῦ ἔλεγεν Μακάριοι οἱ πτωχοί"
   },
   {
-    "reference": "Adj-NMP",
-    "word": "μακάριος",
-    "verse": "μακάριος ἀνὴρ οὗ"
+    "reference": "Luke 6:21",
+    "word": "μακάριοι",
+    "verse": "μακάριοι οἱ πεινῶντες"
+  },
+  {
+    "reference": "Luke 6:21",
+    "word": "μακάριοι",
+    "verse": "ὅτι χορτασθήσεσθε μακάριοι οἱ κλαίοντες"
   },
   {
     "reference": "Luke 6:22",
-    "word": "μακάριος",
-    "verse": "τοῦ θεοῦ μακάριος ὁ μὴ"
-  },
-  {
-    "reference": "Adj-NMP",
-    "word": "μακαριωτέρα",
-    "verse": "μακαριωτέρα δέ ἐστιν"
+    "word": "μακάριοί",
+    "verse": "μακάριοί ἐστε ὅταν"
   },
   {
     "reference": "Luke 7:23",
-    "word": "μακαρίου",
-    "verse": "δόξης τοῦ μακαρίου θεοῦ ὃ"
-  },
-  {
-    "reference": "Adj-NMS",
-    "word": "μακάριος",
-    "verse": "δείξει ὁ μακάριος καὶ μόνος"
+    "word": "μακάριός",
+    "verse": "καὶ μακάριός ἐστιν ὃς"
   },
   {
     "reference": "Luke 10:23",
-    "word": "μακαρίαν",
-    "verse": "προσδεχόμενοι τὴν μακαρίαν ἐλπίδα καὶ"
-  },
-  {
-    "reference": "Adj-NMP",
-    "word": "Μακάριος",
-    "verse": "Μακάριος ἀνὴρ ὃς"
+    "word": "Μακάριοι",
+    "verse": "ἰδίαν εἶπεν Μακάριοι οἱ ὀφθαλμοὶ"
   },
   {
     "reference": "Luke 11:27",
-    "word": "μακάριος",
-    "verse": "ἔργου οὗτος μακάριος ἐν τῇ"
-  },
-  {
-    "reference": "Adj-NFS",
-    "word": "μακάριοι",
-    "verse": "διὰ δικαιοσύνην μακάριοι τὸν δὲ"
+    "word": "Μακαρία",
+    "verse": "εἶπεν αὐτῷ Μακαρία ἡ κοιλία"
   },
   {
     "reference": "Luke 11:28",
     "word": "μακάριοι",
-    "verse": "ὀνόματι Χριστοῦ μακάριοι ὅτι τὸ"
-  },
-  {
-    "reference": "Adj-NMP",
-    "word": "μακάριος",
-    "verse": "μακάριος ὁ ἀναγινώσκων"
+    "verse": "εἶπεν Μενοῦν μακάριοι οἱ ἀκούοντες"
   },
   {
     "reference": "Luke 12:37",
-    "word": "Μακάριοι",
-    "verse": "λεγούσης Γράψον Μακάριοι οἱ νεκροὶ"
-  },
-  {
-    "reference": "Adj-NMP",
-    "word": "μακάριος",
-    "verse": "ὡς κλέπτης μακάριος ὁ γρηγορῶν"
+    "word": "μακάριοι",
+    "verse": "μακάριοι οἱ δοῦλοι"
   },
   {
     "reference": "Luke 12:38",
-    "word": "Μακάριοι",
-    "verse": "μοι Γράψον Μακάριοι οἱ εἰς"
-  },
-  {
-    "reference": "Adj-NMP",
-    "word": "μακάριος",
-    "verse": "μακάριος καὶ ἅγιος"
+    "word": "μακάριοί",
+    "verse": "εὕρῃ οὕτως μακάριοί εἰσιν ἐκεῖνοι"
   },
   {
     "reference": "Luke 12:43",
     "word": "μακάριος",
+    "verse": "μακάριος ὁ δοῦλος"
+  },
+  {
+    "reference": "Luke 14:14",
+    "word": "μακάριος",
+    "verse": "καὶ μακάριος ἔσῃ ὅτι"
+  },
+  {
+    "reference": "Luke 14:15",
+    "word": "Μακάριος",
+    "verse": "εἶπεν αὐτῷ Μακάριος ὅστις φάγεται"
+  },
+  {
+    "reference": "Luke 23:29",
+    "word": "Μακάριαι",
+    "verse": "αἷς ἐροῦσιν Μακάριαι αἱ στεῖραι"
+  },
+  {
+    "reference": "John 13:17",
+    "word": "μακάριοί",
+    "verse": "ταῦτα οἴδατε μακάριοί ἐστε ἐὰν"
+  },
+  {
+    "reference": "John 20:29",
+    "word": "μακάριοι",
+    "verse": "με πεπίστευκας μακάριοι οἱ μὴ"
+  },
+  {
+    "reference": "Acts 20:35",
+    "word": "Μακάριόν",
+    "verse": "αὐτὸς εἶπεν Μακάριόν ἐστιν μᾶλλον"
+  },
+  {
+    "reference": "Acts 26:2",
+    "word": "μακάριον",
+    "verse": "ἥγημαι ἐμαυτὸν μακάριον ἐπὶ σοῦ"
+  },
+  {
+    "reference": "Romans 4:7",
+    "word": "Μακάριοι",
+    "verse": "Μακάριοι ὧν ἀφέθησαν"
+  },
+  {
+    "reference": "Romans 4:8",
+    "word": "μακάριος",
+    "verse": "μακάριος ἀνὴρ οὗ"
+  },
+  {
+    "reference": "Romans 14:22",
+    "word": "μακάριος",
+    "verse": "τοῦ θεοῦ μακάριος ὁ μὴ"
+  },
+  {
+    "reference": "1 Corinthians 7:40",
+    "word": "μακαριωτέρα",
+    "verse": "μακαριωτέρα δέ ἐστιν"
+  },
+  {
+    "reference": "1 Timothy 1:11",
+    "word": "μακαρίου",
+    "verse": "δόξης τοῦ μακαρίου θεοῦ ὃ"
+  },
+  {
+    "reference": "1 Timothy 6:15",
+    "word": "μακάριος",
+    "verse": "δείξει ὁ μακάριος καὶ μόνος"
+  },
+  {
+    "reference": "Titus 2:13",
+    "word": "μακαρίαν",
+    "verse": "προσδεχόμενοι τὴν μακαρίαν ἐλπίδα καὶ"
+  },
+  {
+    "reference": "James 1:12",
+    "word": "Μακάριος",
+    "verse": "Μακάριος ἀνὴρ ὃς"
+  },
+  {
+    "reference": "James 1:25",
+    "word": "μακάριος",
+    "verse": "ἔργου οὗτος μακάριος ἐν τῇ"
+  },
+  {
+    "reference": "1 Peter 3:14",
+    "word": "μακάριοι",
+    "verse": "διὰ δικαιοσύνην μακάριοι τὸν δὲ"
+  },
+  {
+    "reference": "1 Peter 4:14",
+    "word": "μακάριοι",
+    "verse": "ὀνόματι Χριστοῦ μακάριοι ὅτι τὸ"
+  },
+  {
+    "reference": "Revelation 1:3",
+    "word": "μακάριος",
+    "verse": "μακάριος ὁ ἀναγινώσκων"
+  },
+  {
+    "reference": "Revelation 14:13",
+    "word": "Μακάριοι",
+    "verse": "λεγούσης Γράψον Μακάριοι οἱ νεκροὶ"
+  },
+  {
+    "reference": "Revelation 16:15",
+    "word": "μακάριος",
+    "verse": "ὡς κλέπτης μακάριος ὁ γρηγορῶν"
+  },
+  {
+    "reference": "Revelation 19:9",
+    "word": "Μακάριοι",
+    "verse": "μοι Γράψον Μακάριοι οἱ εἰς"
+  },
+  {
+    "reference": "Revelation 20:6",
+    "word": "μακάριος",
+    "verse": "μακάριος καὶ ἅγιος"
+  },
+  {
+    "reference": "Revelation 22:7",
+    "word": "μακάριος",
     "verse": "ἔρχομαι ταχύ μακάριος ὁ τηρῶν"
   },
   {
-    "reference": "Adj-NMS",
+    "reference": "Revelation 22:14",
     "word": "Μακάριοι",
     "verse": "Μακάριοι οἱ πλύνοντες"
-  },
-  {
-    "reference": "Luke 14:14"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Luke 14:15"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Luke 23:29"
-  },
-  {
-    "reference": "Adj-NFP"
-  },
-  {
-    "reference": "John 13:17"
-  },
-  {
-    "reference": "Adj-NMP"
-  },
-  {
-    "reference": "John 20:29"
-  },
-  {
-    "reference": "Adj-NMP"
-  },
-  {
-    "reference": "Acts 20:35"
-  },
-  {
-    "reference": "Adj-NNS"
-  },
-  {
-    "reference": "Acts 26:2"
-  },
-  {
-    "reference": "Adj-AMS"
-  },
-  {
-    "reference": "Romans 4:7"
-  },
-  {
-    "reference": "Adj-NMP"
-  },
-  {
-    "reference": "Romans 4:8"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Romans 14:22"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "1 Corinthians 7:40"
-  },
-  {
-    "reference": "Adj-NFS-C"
-  },
-  {
-    "reference": "1 Timothy 1:11"
-  },
-  {
-    "reference": "Adj-GMS"
-  },
-  {
-    "reference": "1 Timothy 6:15"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Titus 2:13"
-  },
-  {
-    "reference": "Adj-AFS"
-  },
-  {
-    "reference": "James 1:12"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "James 1:25"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "1 Peter 3:14"
-  },
-  {
-    "reference": "Adj-NMP"
-  },
-  {
-    "reference": "1 Peter 4:14"
-  },
-  {
-    "reference": "Adj-NMP"
-  },
-  {
-    "reference": "Revelation 1:3"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Revelation 14:13"
-  },
-  {
-    "reference": "Adj-NMP"
-  },
-  {
-    "reference": "Revelation 16:15"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Revelation 19:9"
-  },
-  {
-    "reference": "Adj-NMP"
-  },
-  {
-    "reference": "Revelation 20:6"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Revelation 22:7"
-  },
-  {
-    "reference": "Adj-NMS"
-  },
-  {
-    "reference": "Revelation 22:14"
-  },
-  {
-    "reference": "Adj-NMP"
   }
 ]
