@@ -367,61 +367,69 @@ async function interlinearExpandStrongs(lang, num) {
   // document.querySelector("main > .first").style.display = "none";
   // console.log(document.querySelector(`#strongs-${lang}-${num} > svg`).style.transform === "rotate(180deg)")
 
-  if(document.querySelector(".strongs-open")){
-    document.querySelector(".strongs-open").style.transform = "rotate(0deg)"
-    document.querySelector(".strongs-open").classList.remove("strongs-open")
-    // document.getElementById("main").removeChild(document.querySelector("strongs-open"))
-    document.getElementById("main").removeChild(document.getElementById("strongs"))
-
-    document.querySelector("main > .first").style.display = "unset"
-
-  }
   // closes it
   if(document.querySelector(`#strongs-${lang}-${num} > svg`).style.transform === "rotate(180deg)"){
     // resets arrow direction
     document.querySelector(`#strongs-${lang}-${num} > svg`).style.transform = "rotate(0deg)"
+    document.querySelector(".strongs-open").classList.remove("strongs-open")
+    document.getElementById("main").removeChild(document.getElementById("strongs"))
+    document.querySelector("main > .first").style.display = "unset"
+    document.querySelector("main > .first").style.display = "50%";
+    document.querySelector("main > .second").style.width = "50%";
 
     // document.getElementById("main").removeChild(document.getElementById("strongs"))
     // document.querySelector("main > .first").style.display = "unset"
 
-  }else{ // opens it
-    // flips arrow direction
-    document.querySelector(`#strongs-${lang}-${num} > svg`).style.transform = "rotate(180deg)"
-    document.querySelector(`#strongs-${lang}-${num} > svg`).classList.add("strongs-open")
+  }
+  // switching one
+  else {
+    if(document.querySelector(".strongs-open")){
+      document.querySelector(".strongs-open").style.transform = "rotate(0deg)"
+      document.querySelector(".strongs-open").classList.remove("strongs-open")
+      // document.getElementById("main").removeChild(document.querySelector("strongs-open"))
+      document.getElementById("main").removeChild(document.getElementById("strongs"))
 
-    var third = document.createElement('div')
-    third.className = "item third"
-    third.id = "strongs"
-    third.style.width = "40%"
-    document.getElementById("main").appendChild(third)
-    // document.querySelector("main > .third").style.width = "50%";
-    document.querySelector("main > .second").style.width = "60%";
-    document.querySelector("main > .first").style.display = "none";
-    let data = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/strongs/${lang}/${num}.json`)
-    console.log(data);
-    data.forEach(({reference, word, verse, verseBefore, verseAfter}) => {
-      let strongsChild = document.createElement("div")
-      strongsChild.classList.add("strongs-child")
-      let referenceChild = document.createElement("h3")
-      referenceChild.textContent = reference
-      let wordChild = document.createElement("span")
-      wordChild.textContent = word
-      wordChild.classList.add("accent")
-      let verseChild = document.createElement("p")
-      // verseChild.
-      let verseBeforeChild = document.createTextNode(verseBefore)
-      let verseAfterChild = document.createTextNode(verseAfter)
-      // verseBeforeChild.textContent = verseBeforeChild
-      // verseAfterChild.textContent = verseAfterChild
-      verseChild.appendChild(verseBeforeChild)
-      verseChild.appendChild(wordChild)
-      verseChild.appendChild(verseAfterChild)
+      // document.querySelector("main > .first").style.display = "unset"
+    }
+    { // opens it
+      // flips arrow direction
+      document.querySelector(`#strongs-${lang}-${num} > svg`).style.transform = "rotate(180deg)"
+      document.querySelector(`#strongs-${lang}-${num} > svg`).classList.add("strongs-open")
 
-      strongsChild.appendChild(referenceChild)
-      // strongsChild.appendChild(wordChild)
-      strongsChild.appendChild(verseChild)
-      third.appendChild(strongsChild)
-    })
+      var third = document.createElement('div')
+      third.className = "item third"
+      third.id = "strongs"
+      third.style.width = "40%"
+      document.getElementById("main").appendChild(third)
+      // document.querySelector("main > .third").style.width = "50%";
+      document.querySelector("main > .second").style.width = "60%";
+      document.querySelector("main > .first").style.display = "none";
+      let data = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/strongs/${lang}/${num}.json`)
+      console.log(data);
+      data.forEach(({reference, word, verse, verseBefore, verseAfter}) => {
+        let strongsChild = document.createElement("div")
+        strongsChild.classList.add("strongs-child")
+        let referenceChild = document.createElement("h3")
+        referenceChild.textContent = reference
+        let wordChild = document.createElement("span")
+        wordChild.textContent = word
+        wordChild.classList.add("accent")
+        let verseChild = document.createElement("p")
+        // verseChild.
+        let verseBeforeChild = document.createTextNode(verseBefore)
+        let verseAfterChild = document.createTextNode(verseAfter)
+        // verseBeforeChild.textContent = verseBeforeChild
+        // verseAfterChild.textContent = verseAfterChild
+        verseChild.appendChild(verseBeforeChild)
+        verseChild.appendChild(wordChild)
+        verseChild.appendChild(verseAfterChild)
+
+        strongsChild.appendChild(referenceChild)
+        // strongsChild.appendChild(wordChild)
+        strongsChild.appendChild(verseChild)
+        third.appendChild(strongsChild)
+      })
+    }
   }
 }
 
