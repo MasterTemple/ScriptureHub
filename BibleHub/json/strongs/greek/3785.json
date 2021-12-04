@@ -2,21 +2,29 @@
   {
     "reference": "1 Corinthians 4:8",
     "word": "ὄφελόν",
-    "verse": "ἐβασιλεύσατε καὶ ὄφελόν γε ἐβασιλεύσατε"
+    "verse": "ἐβασιλεύσατε καὶ ὄφελόν γε ἐβασιλεύσατε",
+    "verseBefore": "ἐβασιλεύσατε καὶ ",
+    "verseAfter": " γε ἐβασιλεύσατε"
   },
   {
     "reference": "2 Corinthians 11:1",
     "word": "Ὄφελον",
-    "verse": "Ὄφελον ἀνείχεσθέ μου"
+    "verse": "Ὄφελον ἀνείχεσθέ μου",
+    "verseBefore": "",
+    "verseAfter": " ἀνείχεσθέ μου"
   },
   {
     "reference": "Galatians 5:12",
     "word": "Ὄφελον",
-    "verse": "Ὄφελον καὶ ἀποκόψονται"
+    "verse": "Ὄφελον καὶ ἀποκόψονται",
+    "verseBefore": "",
+    "verseAfter": " καὶ ἀποκόψονται"
   },
   {
     "reference": "Revelation 3:15",
     "word": "ὄφελον",
-    "verse": "οὔτε ζεστός ὄφελον ψυχρὸς ἦς"
+    "verse": "οὔτε ζεστός ὄφελον ψυχρὸς ἦς",
+    "verseBefore": "οὔτε ζεστός ",
+    "verseAfter": " ψυχρὸς ἦς"
   }
 ]

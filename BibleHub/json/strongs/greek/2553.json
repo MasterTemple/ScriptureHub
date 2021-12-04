@@ -2,16 +2,22 @@
   {
     "reference": "2 Timothy 2:9",
     "word": "κακοπαθῶ",
-    "verse": "ἐν ᾧ κακοπαθῶ μέχρι δεσμῶν"
+    "verse": "ἐν ᾧ κακοπαθῶ μέχρι δεσμῶν",
+    "verseBefore": "ἐν ᾧ ",
+    "verseAfter": " μέχρι δεσμῶν"
   },
   {
     "reference": "2 Timothy 4:5",
     "word": "κακοπάθησον",
-    "verse": "ἐν πᾶσιν κακοπάθησον ἔργον ποίησον"
+    "verse": "ἐν πᾶσιν κακοπάθησον ἔργον ποίησον",
+    "verseBefore": "ἐν πᾶσιν ",
+    "verseAfter": " ἔργον ποίησον"
   },
   {
     "reference": "James 5:13",
     "word": "Κακοπαθεῖ",
-    "verse": "Κακοπαθεῖ τις ἐν"
+    "verse": "Κακοπαθεῖ τις ἐν",
+    "verseBefore": "",
+    "verseAfter": " τις ἐν"
   }
 ]

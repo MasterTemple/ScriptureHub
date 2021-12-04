@@ -2,16 +2,22 @@
   {
     "reference": "Acts 9:21",
     "word": "πορθήσας",
-    "verse": "ἐστιν ὁ πορθήσας εἰς Ἰερουσαλὴμ"
+    "verse": "ἐστιν ὁ πορθήσας εἰς Ἰερουσαλὴμ",
+    "verseBefore": "ἐστιν ὁ ",
+    "verseAfter": " εἰς Ἰερουσαλὴμ"
   },
   {
     "reference": "Galatians 1:13",
     "word": "ἐπόρθουν",
-    "verse": "θεοῦ καὶ ἐπόρθουν αὐτήν "
+    "verse": "θεοῦ καὶ ἐπόρθουν αὐτήν ",
+    "verseBefore": "θεοῦ καὶ ",
+    "verseAfter": " αὐτήν "
   },
   {
     "reference": "Galatians 1:23",
     "word": "ἐπόρθει",
-    "verse": "ἥν ποτε ἐπόρθει "
+    "verse": "ἥν ποτε ἐπόρθει ",
+    "verseBefore": "ἥν ποτε ",
+    "verseAfter": " "
   }
 ]

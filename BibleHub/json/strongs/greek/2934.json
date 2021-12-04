@@ -2,21 +2,29 @@
   {
     "reference": "Luke 10:34",
     "word": "κτῆνος",
-    "verse": "τὸ ἴδιον κτῆνος ἤγαγεν αὐτὸν"
+    "verse": "τὸ ἴδιον κτῆνος ἤγαγεν αὐτὸν",
+    "verseBefore": "τὸ ἴδιον ",
+    "verseAfter": " ἤγαγεν αὐτὸν"
   },
   {
     "reference": "Acts 23:24",
     "word": "κτήνη",
-    "verse": "κτήνη τε παραστῆσαι"
+    "verse": "κτήνη τε παραστῆσαι",
+    "verseBefore": "",
+    "verseAfter": " τε παραστῆσαι"
   },
   {
     "reference": "1 Corinthians 15:39",
     "word": "κτηνῶν",
-    "verse": "δὲ σὰρξ κτηνῶν ἄλλη δὲ"
+    "verse": "δὲ σὰρξ κτηνῶν ἄλλη δὲ",
+    "verseBefore": "δὲ σὰρξ ",
+    "verseAfter": " ἄλλη δὲ"
   },
   {
     "reference": "Revelation 18:13",
     "word": "κτήνη",
-    "verse": "σῖτον καὶ κτήνη καὶ πρόβατα"
+    "verse": "σῖτον καὶ κτήνη καὶ πρόβατα",
+    "verseBefore": "σῖτον καὶ ",
+    "verseAfter": " καὶ πρόβατα"
   }
 ]

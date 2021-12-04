@@ -2,11 +2,15 @@
   {
     "reference": "2 Corinthians 6:6",
     "word": "ἁγνότητι",
-    "verse": "ἐν ἁγνότητι ἐν γνώσει"
+    "verse": "ἐν ἁγνότητι ἐν γνώσει",
+    "verseBefore": "ἐν ",
+    "verseAfter": " ἐν γνώσει"
   },
   {
     "reference": "2 Corinthians 11:3",
     "word": "ἁγνότητος",
-    "verse": "καὶ τῆς ἁγνότητος τῆς εἰς"
+    "verse": "καὶ τῆς ἁγνότητος τῆς εἰς",
+    "verseBefore": "καὶ τῆς ",
+    "verseAfter": " τῆς εἰς"
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "Matthew 1:10",
     "word": "Ἰωσίαν",
-    "verse": "ἐγέννησεν τὸν Ἰωσίαν "
+    "verse": "ἐγέννησεν τὸν Ἰωσίαν ",
+    "verseBefore": "ἐγέννησεν τὸν ",
+    "verseAfter": " "
   },
   {
     "reference": "Matthew 1:11",
     "word": "Ἰωσίας",
-    "verse": "Ἰωσίας δὲ ἐγέννησεν"
+    "verse": "Ἰωσίας δὲ ἐγέννησεν",
+    "verseBefore": "",
+    "verseAfter": " δὲ ἐγέννησεν"
   }
 ]

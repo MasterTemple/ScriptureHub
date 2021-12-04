@@ -2,46 +2,64 @@
   {
     "reference": "Acts 13:6",
     "word": "νῆσον",
-    "verse": "ὅλην τὴν νῆσον ἄχρι Πάφου"
+    "verse": "ὅλην τὴν νῆσον ἄχρι Πάφου",
+    "verseBefore": "ὅλην τὴν ",
+    "verseAfter": " ἄχρι Πάφου"
   },
   {
     "reference": "Acts 27:26",
     "word": "νῆσον",
-    "verse": "εἰς νῆσον δέ τινα"
+    "verse": "εἰς νῆσον δέ τινα",
+    "verseBefore": "εἰς ",
+    "verseAfter": " δέ τινα"
   },
   {
     "reference": "Acts 28:1",
     "word": "νῆσος",
-    "verse": "Μελίτη ἡ νῆσος καλεῖται "
+    "verse": "Μελίτη ἡ νῆσος καλεῖται ",
+    "verseBefore": "Μελίτη ἡ ",
+    "verseAfter": " καλεῖται "
   },
   {
     "reference": "Acts 28:7",
     "word": "νήσου",
-    "verse": "πρώτῳ τῆς νήσου ὀνόματι Ποπλίῳ"
+    "verse": "πρώτῳ τῆς νήσου ὀνόματι Ποπλίῳ",
+    "verseBefore": "πρώτῳ τῆς ",
+    "verseAfter": " ὀνόματι Ποπλίῳ"
   },
   {
     "reference": "Acts 28:9",
     "word": "νήσῳ",
-    "verse": "ἐν τῇ νήσῳ ἔχοντες ἀσθενείας"
+    "verse": "ἐν τῇ νήσῳ ἔχοντες ἀσθενείας",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " ἔχοντες ἀσθενείας"
   },
   {
     "reference": "Acts 28:11",
     "word": "νήσῳ",
-    "verse": "ἐν τῇ νήσῳ Ἀλεξανδρινῷ παρασήμῳ"
+    "verse": "ἐν τῇ νήσῳ Ἀλεξανδρινῷ παρασήμῳ",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " Ἀλεξανδρινῷ παρασήμῳ"
   },
   {
     "reference": "Revelation 1:9",
     "word": "νήσῳ",
-    "verse": "ἐν τῇ νήσῳ τῇ καλουμένῃ"
+    "verse": "ἐν τῇ νήσῳ τῇ καλουμένῃ",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " τῇ καλουμένῃ"
   },
   {
     "reference": "Revelation 6:14",
     "word": "νῆσος",
-    "verse": "ὄρος καὶ νῆσος ἐκ τῶν"
+    "verse": "ὄρος καὶ νῆσος ἐκ τῶν",
+    "verseBefore": "ὄρος καὶ ",
+    "verseAfter": " ἐκ τῶν"
   },
   {
     "reference": "Revelation 16:20",
     "word": "νῆσος",
-    "verse": "καὶ πᾶσα νῆσος ἔφυγεν καὶ"
+    "verse": "καὶ πᾶσα νῆσος ἔφυγεν καὶ",
+    "verseBefore": "καὶ πᾶσα ",
+    "verseAfter": " ἔφυγεν καὶ"
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "2 Corinthians 11:20",
     "word": "καταδουλοῖ",
-    "verse": "τις ὑμᾶς καταδουλοῖ εἴ τις"
+    "verse": "τις ὑμᾶς καταδουλοῖ εἴ τις",
+    "verseBefore": "τις ὑμᾶς ",
+    "verseAfter": " εἴ τις"
   },
   {
     "reference": "Galatians 2:4",
     "word": "καταδουλώσουσιν",
-    "verse": "ἵνα ἡμᾶς καταδουλώσουσιν "
+    "verse": "ἵνα ἡμᾶς καταδουλώσουσιν ",
+    "verseBefore": "ἵνα ἡμᾶς ",
+    "verseAfter": " "
   }
 ]

@@ -2,376 +2,526 @@
   {
     "reference": "Matthew 5:36",
     "word": "κεφαλῇ",
-    "verse": "ἐν τῇ κεφαλῇ σου ὀμόσῃς"
+    "verse": "ἐν τῇ κεφαλῇ σου ὀμόσῃς",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " σου ὀμόσῃς"
   },
   {
     "reference": "Matthew 6:17",
     "word": "κεφαλὴν",
-    "verse": "σου τὴν κεφαλὴν καὶ τὸ"
+    "verse": "σου τὴν κεφαλὴν καὶ τὸ",
+    "verseBefore": "σου τὴν ",
+    "verseAfter": " καὶ τὸ"
   },
   {
     "reference": "Matthew 8:20",
     "word": "κεφαλὴν",
-    "verse": "ποῦ τὴν κεφαλὴν κλίνῃ "
+    "verse": "ποῦ τὴν κεφαλὴν κλίνῃ ",
+    "verseBefore": "ποῦ τὴν ",
+    "verseAfter": " κλίνῃ "
   },
   {
     "reference": "Matthew 10:30",
     "word": "κεφαλῆς",
-    "verse": "τρίχες τῆς κεφαλῆς πᾶσαι ἠριθμημέναι"
+    "verse": "τρίχες τῆς κεφαλῆς πᾶσαι ἠριθμημέναι",
+    "verseBefore": "τρίχες τῆς ",
+    "verseAfter": " πᾶσαι ἠριθμημέναι"
   },
   {
     "reference": "Matthew 14:8",
     "word": "κεφαλὴν",
-    "verse": "πίνακι τὴν κεφαλὴν Ἰωάννου τοῦ"
+    "verse": "πίνακι τὴν κεφαλὴν Ἰωάννου τοῦ",
+    "verseBefore": "πίνακι τὴν ",
+    "verseAfter": " Ἰωάννου τοῦ"
   },
   {
     "reference": "Matthew 14:11",
     "word": "κεφαλὴ",
-    "verse": "ἠνέχθη ἡ κεφαλὴ αὐτοῦ ἐπὶ"
+    "verse": "ἠνέχθη ἡ κεφαλὴ αὐτοῦ ἐπὶ",
+    "verseBefore": "ἠνέχθη ἡ ",
+    "verseAfter": " αὐτοῦ ἐπὶ"
   },
   {
     "reference": "Matthew 21:42",
     "word": "κεφαλὴν",
-    "verse": "ἐγενήθη εἰς κεφαλὴν γωνίας παρὰ"
+    "verse": "ἐγενήθη εἰς κεφαλὴν γωνίας παρὰ",
+    "verseBefore": "ἐγενήθη εἰς ",
+    "verseAfter": " γωνίας παρὰ"
   },
   {
     "reference": "Matthew 26:7",
     "word": "κεφαλῆς",
-    "verse": "ἐπὶ τῆς κεφαλῆς αὐτοῦ ἀνακειμένου"
+    "verse": "ἐπὶ τῆς κεφαλῆς αὐτοῦ ἀνακειμένου",
+    "verseBefore": "ἐπὶ τῆς ",
+    "verseAfter": " αὐτοῦ ἀνακειμένου"
   },
   {
     "reference": "Matthew 27:29",
     "word": "κεφαλῆς",
-    "verse": "ἐπὶ τῆς κεφαλῆς αὐτοῦ καὶ"
+    "verse": "ἐπὶ τῆς κεφαλῆς αὐτοῦ καὶ",
+    "verseBefore": "ἐπὶ τῆς ",
+    "verseAfter": " αὐτοῦ καὶ"
   },
   {
     "reference": "Matthew 27:30",
     "word": "κεφαλὴν",
-    "verse": "εἰς τὴν κεφαλὴν αὐτοῦ "
+    "verse": "εἰς τὴν κεφαλὴν αὐτοῦ ",
+    "verseBefore": "εἰς τὴν ",
+    "verseAfter": " αὐτοῦ "
   },
   {
     "reference": "Matthew 27:37",
     "word": "κεφαλῆς",
-    "verse": "ἐπάνω τῆς κεφαλῆς αὐτοῦ τὴν"
+    "verse": "ἐπάνω τῆς κεφαλῆς αὐτοῦ τὴν",
+    "verseBefore": "ἐπάνω τῆς ",
+    "verseAfter": " αὐτοῦ τὴν"
   },
   {
     "reference": "Matthew 27:39",
     "word": "κεφαλὰς",
-    "verse": "κινοῦντες τὰς κεφαλὰς αὐτῶν "
+    "verse": "κινοῦντες τὰς κεφαλὰς αὐτῶν ",
+    "verseBefore": "κινοῦντες τὰς ",
+    "verseAfter": " αὐτῶν "
   },
   {
     "reference": "Mark 6:24",
     "word": "κεφαλὴν",
-    "verse": "εἶπεν Τὴν κεφαλὴν Ἰωάννου τοῦ"
+    "verse": "εἶπεν Τὴν κεφαλὴν Ἰωάννου τοῦ",
+    "verseBefore": "εἶπεν Τὴν ",
+    "verseAfter": " Ἰωάννου τοῦ"
   },
   {
     "reference": "Mark 6:25",
     "word": "κεφαλὴν",
-    "verse": "πίνακι τὴν κεφαλὴν Ἰωάννου τοῦ"
+    "verse": "πίνακι τὴν κεφαλὴν Ἰωάννου τοῦ",
+    "verseBefore": "πίνακι τὴν ",
+    "verseAfter": " Ἰωάννου τοῦ"
   },
   {
     "reference": "Mark 6:27",
     "word": "κεφαλὴν",
-    "verse": "ἐνέγκαι τὴν κεφαλὴν αὐτοῦ καὶ"
+    "verse": "ἐνέγκαι τὴν κεφαλὴν αὐτοῦ καὶ",
+    "verseBefore": "ἐνέγκαι τὴν ",
+    "verseAfter": " αὐτοῦ καὶ"
   },
   {
     "reference": "Mark 6:28",
     "word": "κεφαλὴν",
-    "verse": "ἤνεγκεν τὴν κεφαλὴν αὐτοῦ ἐπὶ"
+    "verse": "ἤνεγκεν τὴν κεφαλὴν αὐτοῦ ἐπὶ",
+    "verseBefore": "ἤνεγκεν τὴν ",
+    "verseAfter": " αὐτοῦ ἐπὶ"
   },
   {
     "reference": "Mark 12:10",
     "word": "κεφαλὴν",
-    "verse": "ἐγενήθη εἰς κεφαλὴν γωνίας "
+    "verse": "ἐγενήθη εἰς κεφαλὴν γωνίας ",
+    "verseBefore": "ἐγενήθη εἰς ",
+    "verseAfter": " γωνίας "
   },
   {
     "reference": "Mark 14:3",
     "word": "κεφαλῆς",
-    "verse": "αὐτοῦ τῆς κεφαλῆς "
+    "verse": "αὐτοῦ τῆς κεφαλῆς ",
+    "verseBefore": "αὐτοῦ τῆς ",
+    "verseAfter": " "
   },
   {
     "reference": "Mark 15:19",
     "word": "κεφαλὴν",
-    "verse": "αὐτοῦ τὴν κεφαλὴν καλάμῳ καὶ"
+    "verse": "αὐτοῦ τὴν κεφαλὴν καλάμῳ καὶ",
+    "verseBefore": "αὐτοῦ τὴν ",
+    "verseAfter": " καλάμῳ καὶ"
   },
   {
     "reference": "Mark 15:29",
     "word": "κεφαλὰς",
-    "verse": "κινοῦντες τὰς κεφαλὰς αὐτῶν καὶ"
+    "verse": "κινοῦντες τὰς κεφαλὰς αὐτῶν καὶ",
+    "verseBefore": "κινοῦντες τὰς ",
+    "verseAfter": " αὐτῶν καὶ"
   },
   {
     "reference": "Luke 7:38",
     "word": "κεφαλῆς",
-    "verse": "θριξὶν τῆς κεφαλῆς αὐτῆς ἐξέμασσεν"
+    "verse": "θριξὶν τῆς κεφαλῆς αὐτῆς ἐξέμασσεν",
+    "verseBefore": "θριξὶν τῆς ",
+    "verseAfter": " αὐτῆς ἐξέμασσεν"
   },
   {
     "reference": "Luke 7:46",
     "word": "κεφαλήν",
-    "verse": "ἐλαίῳ τὴν κεφαλήν μου οὐκ"
+    "verse": "ἐλαίῳ τὴν κεφαλήν μου οὐκ",
+    "verseBefore": "ἐλαίῳ τὴν ",
+    "verseAfter": " μου οὐκ"
   },
   {
     "reference": "Luke 9:58",
     "word": "κεφαλὴν",
-    "verse": "ποῦ τὴν κεφαλὴν κλίνῃ "
+    "verse": "ποῦ τὴν κεφαλὴν κλίνῃ ",
+    "verseBefore": "ποῦ τὴν ",
+    "verseAfter": " κλίνῃ "
   },
   {
     "reference": "Luke 12:7",
     "word": "κεφαλῆς",
-    "verse": "τρίχες τῆς κεφαλῆς ὑμῶν πᾶσαι"
+    "verse": "τρίχες τῆς κεφαλῆς ὑμῶν πᾶσαι",
+    "verseBefore": "τρίχες τῆς ",
+    "verseAfter": " ὑμῶν πᾶσαι"
   },
   {
     "reference": "Luke 20:17",
     "word": "κεφαλὴν",
-    "verse": "ἐγενήθη εἰς κεφαλὴν γωνίας "
+    "verse": "ἐγενήθη εἰς κεφαλὴν γωνίας ",
+    "verseBefore": "ἐγενήθη εἰς ",
+    "verseAfter": " γωνίας "
   },
   {
     "reference": "Luke 21:18",
     "word": "κεφαλῆς",
-    "verse": "ἐκ τῆς κεφαλῆς ὑμῶν οὐ"
+    "verse": "ἐκ τῆς κεφαλῆς ὑμῶν οὐ",
+    "verseBefore": "ἐκ τῆς ",
+    "verseAfter": " ὑμῶν οὐ"
   },
   {
     "reference": "Luke 21:28",
     "word": "κεφαλὰς",
-    "verse": "ἐπάρατε τὰς κεφαλὰς ὑμῶν διότι"
+    "verse": "ἐπάρατε τὰς κεφαλὰς ὑμῶν διότι",
+    "verseBefore": "ἐπάρατε τὰς ",
+    "verseAfter": " ὑμῶν διότι"
   },
   {
     "reference": "John 13:9",
     "word": "κεφαλήν",
-    "verse": "καὶ τὴν κεφαλήν "
+    "verse": "καὶ τὴν κεφαλήν ",
+    "verseBefore": "καὶ τὴν ",
+    "verseAfter": " "
   },
   {
     "reference": "John 19:2",
     "word": "κεφαλῇ",
-    "verse": "αὐτοῦ τῇ κεφαλῇ καὶ ἱμάτιον"
+    "verse": "αὐτοῦ τῇ κεφαλῇ καὶ ἱμάτιον",
+    "verseBefore": "αὐτοῦ τῇ ",
+    "verseAfter": " καὶ ἱμάτιον"
   },
   {
     "reference": "John 19:30",
     "word": "κεφαλὴν",
-    "verse": "κλίνας τὴν κεφαλὴν παρέδωκεν τὸ"
+    "verse": "κλίνας τὴν κεφαλὴν παρέδωκεν τὸ",
+    "verseBefore": "κλίνας τὴν ",
+    "verseAfter": " παρέδωκεν τὸ"
   },
   {
     "reference": "John 20:7",
     "word": "κεφαλῆς",
-    "verse": "ἐπὶ τῆς κεφαλῆς αὐτοῦ οὐ"
+    "verse": "ἐπὶ τῆς κεφαλῆς αὐτοῦ οὐ",
+    "verseBefore": "ἐπὶ τῆς ",
+    "verseAfter": " αὐτοῦ οὐ"
   },
   {
     "reference": "John 20:12",
     "word": "κεφαλῇ",
-    "verse": "πρὸς τῇ κεφαλῇ καὶ ἕνα"
+    "verse": "πρὸς τῇ κεφαλῇ καὶ ἕνα",
+    "verseBefore": "πρὸς τῇ ",
+    "verseAfter": " καὶ ἕνα"
   },
   {
     "reference": "Acts 4:11",
     "word": "κεφαλὴν",
-    "verse": "γενόμενος εἰς κεφαλὴν γωνίας "
+    "verse": "γενόμενος εἰς κεφαλὴν γωνίας ",
+    "verseBefore": "γενόμενος εἰς ",
+    "verseAfter": " γωνίας "
   },
   {
     "reference": "Acts 18:6",
     "word": "κεφαλὴν",
-    "verse": "ἐπὶ τὴν κεφαλὴν ὑμῶν καθαρὸς"
+    "verse": "ἐπὶ τὴν κεφαλὴν ὑμῶν καθαρὸς",
+    "verseBefore": "ἐπὶ τὴν ",
+    "verseAfter": " ὑμῶν καθαρὸς"
   },
   {
     "reference": "Acts 18:18",
     "word": "κεφαλήν",
-    "verse": "Κενχρεαῖς τὴν κεφαλήν εἶχεν γὰρ"
+    "verse": "Κενχρεαῖς τὴν κεφαλήν εἶχεν γὰρ",
+    "verseBefore": "Κενχρεαῖς τὴν ",
+    "verseAfter": " εἶχεν γὰρ"
   },
   {
     "reference": "Acts 21:24",
     "word": "κεφαλήν",
-    "verse": "ξυρήσονται τὴν κεφαλήν καὶ γνώσονται"
+    "verse": "ξυρήσονται τὴν κεφαλήν καὶ γνώσονται",
+    "verseBefore": "ξυρήσονται τὴν ",
+    "verseAfter": " καὶ γνώσονται"
   },
   {
     "reference": "Acts 27:34",
     "word": "κεφαλῆς",
-    "verse": "ἀπὸ τῆς κεφαλῆς ἀπολεῖται "
+    "verse": "ἀπὸ τῆς κεφαλῆς ἀπολεῖται ",
+    "verseBefore": "ἀπὸ τῆς ",
+    "verseAfter": " ἀπολεῖται "
   },
   {
     "reference": "Romans 12:20",
     "word": "κεφαλὴν",
-    "verse": "ἐπὶ τὴν κεφαλὴν αὐτοῦ "
+    "verse": "ἐπὶ τὴν κεφαλὴν αὐτοῦ ",
+    "verseBefore": "ἐπὶ τὴν ",
+    "verseAfter": " αὐτοῦ "
   },
   {
     "reference": "1 Corinthians 11:3",
     "word": "κεφαλὴ",
-    "verse": "ἀνδρὸς ἡ κεφαλὴ ὁ χριστός"
+    "verse": "ἀνδρὸς ἡ κεφαλὴ ὁ χριστός",
+    "verseBefore": "ἀνδρὸς ἡ ",
+    "verseAfter": " ὁ χριστός"
   },
   {
     "reference": "1 Corinthians 11:3",
     "word": "κεφαλὴ",
-    "verse": "χριστός ἐστιν κεφαλὴ δὲ γυναικὸς"
+    "verse": "χριστός ἐστιν κεφαλὴ δὲ γυναικὸς",
+    "verseBefore": "χριστός ἐστιν ",
+    "verseAfter": " δὲ γυναικὸς"
   },
   {
     "reference": "1 Corinthians 11:3",
     "word": "κεφαλὴ",
-    "verse": "ὁ ἀνήρ κεφαλὴ δὲ τοῦ"
+    "verse": "ὁ ἀνήρ κεφαλὴ δὲ τοῦ",
+    "verseBefore": "ὁ ἀνήρ ",
+    "verseAfter": " δὲ τοῦ"
   },
   {
     "reference": "1 Corinthians 11:4",
     "word": "κεφαλῆς",
-    "verse": "προφητεύων κατὰ κεφαλῆς ἔχων καταισχύνει"
+    "verse": "προφητεύων κατὰ κεφαλῆς ἔχων καταισχύνει",
+    "verseBefore": "προφητεύων κατὰ ",
+    "verseAfter": " ἔχων καταισχύνει"
   },
   {
     "reference": "1 Corinthians 11:4",
     "word": "κεφαλὴν",
-    "verse": "καταισχύνει τὴν κεφαλὴν αὐτοῦ "
+    "verse": "καταισχύνει τὴν κεφαλὴν αὐτοῦ ",
+    "verseBefore": "καταισχύνει τὴν ",
+    "verseAfter": " αὐτοῦ "
   },
   {
     "reference": "1 Corinthians 11:5",
     "word": "κεφαλῇ",
-    "verse": "ἀκατακαλύπτῳ τῇ κεφαλῇ καταισχύνει τὴν"
+    "verse": "ἀκατακαλύπτῳ τῇ κεφαλῇ καταισχύνει τὴν",
+    "verseBefore": "ἀκατακαλύπτῳ τῇ ",
+    "verseAfter": " καταισχύνει τὴν"
   },
   {
     "reference": "1 Corinthians 11:5",
     "word": "κεφαλὴν",
-    "verse": "καταισχύνει τὴν κεφαλὴν αὐτῆς ἓν"
+    "verse": "καταισχύνει τὴν κεφαλὴν αὐτῆς ἓν",
+    "verseBefore": "καταισχύνει τὴν ",
+    "verseAfter": " αὐτῆς ἓν"
   },
   {
     "reference": "1 Corinthians 11:7",
     "word": "κεφαλήν",
-    "verse": "κατακαλύπτεσθαι τὴν κεφαλήν εἰκὼν καὶ"
+    "verse": "κατακαλύπτεσθαι τὴν κεφαλήν εἰκὼν καὶ",
+    "verseBefore": "κατακαλύπτεσθαι τὴν ",
+    "verseAfter": " εἰκὼν καὶ"
   },
   {
     "reference": "1 Corinthians 11:10",
     "word": "κεφαλῆς",
-    "verse": "ἐπὶ τῆς κεφαλῆς διὰ τοὺς"
+    "verse": "ἐπὶ τῆς κεφαλῆς διὰ τοὺς",
+    "verseBefore": "ἐπὶ τῆς ",
+    "verseAfter": " διὰ τοὺς"
   },
   {
     "reference": "1 Corinthians 12:21",
     "word": "κεφαλὴ",
-    "verse": "πάλιν ἡ κεφαλὴ τοῖς ποσίν"
+    "verse": "πάλιν ἡ κεφαλὴ τοῖς ποσίν",
+    "verseBefore": "πάλιν ἡ ",
+    "verseAfter": " τοῖς ποσίν"
   },
   {
     "reference": "Ephesians 1:22",
     "word": "κεφαλὴν",
-    "verse": "αὐτὸν ἔδωκεν κεφαλὴν ὑπὲρ πάντα"
+    "verse": "αὐτὸν ἔδωκεν κεφαλὴν ὑπὲρ πάντα",
+    "verseBefore": "αὐτὸν ἔδωκεν ",
+    "verseAfter": " ὑπὲρ πάντα"
   },
   {
     "reference": "Ephesians 4:15",
     "word": "κεφαλή",
-    "verse": "ἐστιν ἡ κεφαλή Χριστός "
+    "verse": "ἐστιν ἡ κεφαλή Χριστός ",
+    "verseBefore": "ἐστιν ἡ ",
+    "verseAfter": " Χριστός "
   },
   {
     "reference": "Ephesians 5:23",
     "word": "κεφαλὴ",
-    "verse": "ἀνήρ ἐστιν κεφαλὴ τῆς γυναικὸς"
+    "verse": "ἀνήρ ἐστιν κεφαλὴ τῆς γυναικὸς",
+    "verseBefore": "ἀνήρ ἐστιν ",
+    "verseAfter": " τῆς γυναικὸς"
   },
   {
     "reference": "Ephesians 5:23",
     "word": "κεφαλὴ",
-    "verse": "ὁ χριστὸς κεφαλὴ τῆς ἐκκλησίας"
+    "verse": "ὁ χριστὸς κεφαλὴ τῆς ἐκκλησίας",
+    "verseBefore": "ὁ χριστὸς ",
+    "verseAfter": " τῆς ἐκκλησίας"
   },
   {
     "reference": "Colossians 1:18",
     "word": "κεφαλὴ",
-    "verse": "ἐστιν ἡ κεφαλὴ τοῦ σώματος"
+    "verse": "ἐστιν ἡ κεφαλὴ τοῦ σώματος",
+    "verseBefore": "ἐστιν ἡ ",
+    "verseAfter": " τοῦ σώματος"
   },
   {
     "reference": "Colossians 2:10",
     "word": "κεφαλὴ",
-    "verse": "ἐστιν ἡ κεφαλὴ πάσης ἀρχῆς"
+    "verse": "ἐστιν ἡ κεφαλὴ πάσης ἀρχῆς",
+    "verseBefore": "ἐστιν ἡ ",
+    "verseAfter": " πάσης ἀρχῆς"
   },
   {
     "reference": "Colossians 2:19",
     "word": "κεφαλήν",
-    "verse": "κρατῶν τὴν κεφαλήν ἐξ οὗ"
+    "verse": "κρατῶν τὴν κεφαλήν ἐξ οὗ",
+    "verseBefore": "κρατῶν τὴν ",
+    "verseAfter": " ἐξ οὗ"
   },
   {
     "reference": "1 Peter 2:7",
     "word": "κεφαλὴν",
-    "verse": "ἐγενήθη εἰς κεφαλὴν γωνίας "
+    "verse": "ἐγενήθη εἰς κεφαλὴν γωνίας ",
+    "verseBefore": "ἐγενήθη εἰς ",
+    "verseAfter": " γωνίας "
   },
   {
     "reference": "Revelation 1:14",
     "word": "κεφαλὴ",
-    "verse": "ἡ δὲ κεφαλὴ αὐτοῦ καὶ"
+    "verse": "ἡ δὲ κεφαλὴ αὐτοῦ καὶ",
+    "verseBefore": "ἡ δὲ ",
+    "verseAfter": " αὐτοῦ καὶ"
   },
   {
     "reference": "Revelation 4:4",
     "word": "κεφαλὰς",
-    "verse": "ἐπὶ τὰς κεφαλὰς αὐτῶν στεφάνους"
+    "verse": "ἐπὶ τὰς κεφαλὰς αὐτῶν στεφάνους",
+    "verseBefore": "ἐπὶ τὰς ",
+    "verseAfter": " αὐτῶν στεφάνους"
   },
   {
     "reference": "Revelation 9:7",
     "word": "κεφαλὰς",
-    "verse": "ἐπὶ τὰς κεφαλὰς αὐτῶν ὡς"
+    "verse": "ἐπὶ τὰς κεφαλὰς αὐτῶν ὡς",
+    "verseBefore": "ἐπὶ τὰς ",
+    "verseAfter": " αὐτῶν ὡς"
   },
   {
     "reference": "Revelation 9:17",
     "word": "κεφαλαὶ",
-    "verse": "καὶ αἱ κεφαλαὶ τῶν ἵππων"
+    "verse": "καὶ αἱ κεφαλαὶ τῶν ἵππων",
+    "verseBefore": "καὶ αἱ ",
+    "verseAfter": " τῶν ἵππων"
   },
   {
     "reference": "Revelation 9:17",
     "word": "κεφαλαὶ",
-    "verse": "ἵππων ὡς κεφαλαὶ λεόντων καὶ"
+    "verse": "ἵππων ὡς κεφαλαὶ λεόντων καὶ",
+    "verseBefore": "ἵππων ὡς ",
+    "verseAfter": " λεόντων καὶ"
   },
   {
     "reference": "Revelation 9:19",
     "word": "κεφαλάς",
-    "verse": "ὄφεσιν ἔχουσαι κεφαλάς καὶ ἐν"
+    "verse": "ὄφεσιν ἔχουσαι κεφαλάς καὶ ἐν",
+    "verseBefore": "ὄφεσιν ἔχουσαι ",
+    "verseAfter": " καὶ ἐν"
   },
   {
     "reference": "Revelation 10:1",
     "word": "κεφαλῆς",
-    "verse": "ἐπὶ τῆς κεφαλῆς αὐτοῦ καὶ"
+    "verse": "ἐπὶ τῆς κεφαλῆς αὐτοῦ καὶ",
+    "verseBefore": "ἐπὶ τῆς ",
+    "verseAfter": " αὐτοῦ καὶ"
   },
   {
     "reference": "Revelation 12:1",
     "word": "κεφαλῆς",
-    "verse": "ἐπὶ τῆς κεφαλῆς αὐτῆς στέφανος"
+    "verse": "ἐπὶ τῆς κεφαλῆς αὐτῆς στέφανος",
+    "verseBefore": "ἐπὶ τῆς ",
+    "verseAfter": " αὐτῆς στέφανος"
   },
   {
     "reference": "Revelation 12:3",
     "word": "κεφαλὰς",
-    "verse": "πυρρός ἔχων κεφαλὰς ἑπτὰ καὶ"
+    "verse": "πυρρός ἔχων κεφαλὰς ἑπτὰ καὶ",
+    "verseBefore": "πυρρός ἔχων ",
+    "verseAfter": " ἑπτὰ καὶ"
   },
   {
     "reference": "Revelation 12:3",
     "word": "κεφαλὰς",
-    "verse": "ἐπὶ τὰς κεφαλὰς αὐτοῦ ἑπτὰ"
+    "verse": "ἐπὶ τὰς κεφαλὰς αὐτοῦ ἑπτὰ",
+    "verseBefore": "ἐπὶ τὰς ",
+    "verseAfter": " αὐτοῦ ἑπτὰ"
   },
   {
     "reference": "Revelation 13:1",
     "word": "κεφαλὰς",
-    "verse": "δέκα καὶ κεφαλὰς ἑπτά καὶ"
+    "verse": "δέκα καὶ κεφαλὰς ἑπτά καὶ",
+    "verseBefore": "δέκα καὶ ",
+    "verseAfter": " ἑπτά καὶ"
   },
   {
     "reference": "Revelation 13:1",
     "word": "κεφαλὰς",
-    "verse": "ἐπὶ τὰς κεφαλὰς αὐτοῦ ὀνόματα"
+    "verse": "ἐπὶ τὰς κεφαλὰς αὐτοῦ ὀνόματα",
+    "verseBefore": "ἐπὶ τὰς ",
+    "verseAfter": " αὐτοῦ ὀνόματα"
   },
   {
     "reference": "Revelation 13:3",
     "word": "κεφαλῶν",
-    "verse": "ἐκ τῶν κεφαλῶν αὐτοῦ ὡς"
+    "verse": "ἐκ τῶν κεφαλῶν αὐτοῦ ὡς",
+    "verseBefore": "ἐκ τῶν ",
+    "verseAfter": " αὐτοῦ ὡς"
   },
   {
     "reference": "Revelation 14:14",
     "word": "κεφαλῆς",
-    "verse": "ἐπὶ τῆς κεφαλῆς αὐτοῦ στέφανον"
+    "verse": "ἐπὶ τῆς κεφαλῆς αὐτοῦ στέφανον",
+    "verseBefore": "ἐπὶ τῆς ",
+    "verseAfter": " αὐτοῦ στέφανον"
   },
   {
     "reference": "Revelation 17:3",
     "word": "κεφαλὰς",
-    "verse": "βλασφημίας ἔχων κεφαλὰς ἑπτὰ καὶ"
+    "verse": "βλασφημίας ἔχων κεφαλὰς ἑπτὰ καὶ",
+    "verseBefore": "βλασφημίας ἔχων ",
+    "verseAfter": " ἑπτὰ καὶ"
   },
   {
     "reference": "Revelation 17:7",
     "word": "κεφαλὰς",
-    "verse": "τὰς ἑπτὰ κεφαλὰς καὶ τὰ"
+    "verse": "τὰς ἑπτὰ κεφαλὰς καὶ τὰ",
+    "verseBefore": "τὰς ἑπτὰ ",
+    "verseAfter": " καὶ τὰ"
   },
   {
     "reference": "Revelation 17:9",
     "word": "κεφαλαὶ",
-    "verse": "αἱ ἑπτὰ κεφαλαὶ ἑπτὰ ὄρη"
+    "verse": "αἱ ἑπτὰ κεφαλαὶ ἑπτὰ ὄρη",
+    "verseBefore": "αἱ ἑπτὰ ",
+    "verseAfter": " ἑπτὰ ὄρη"
   },
   {
     "reference": "Revelation 18:19",
     "word": "κεφαλὰς",
-    "verse": "ἐπὶ τὰς κεφαλὰς αὐτῶν καὶ"
+    "verse": "ἐπὶ τὰς κεφαλὰς αὐτῶν καὶ",
+    "verseBefore": "ἐπὶ τὰς ",
+    "verseAfter": " αὐτῶν καὶ"
   },
   {
     "reference": "Revelation 19:12",
     "word": "κεφαλὴν",
-    "verse": "ἐπὶ τὴν κεφαλὴν αὐτοῦ διαδήματα"
+    "verse": "ἐπὶ τὴν κεφαλὴν αὐτοῦ διαδήματα",
+    "verseBefore": "ἐπὶ τὴν ",
+    "verseAfter": " αὐτοῦ διαδήματα"
   }
 ]

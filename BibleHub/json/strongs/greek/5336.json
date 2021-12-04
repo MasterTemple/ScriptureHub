@@ -2,21 +2,29 @@
   {
     "reference": "Luke 2:7",
     "word": "φάτνῃ",
-    "verse": "αὐτὸν ἐν φάτνῃ διότι οὐκ"
+    "verse": "αὐτὸν ἐν φάτνῃ διότι οὐκ",
+    "verseBefore": "αὐτὸν ἐν ",
+    "verseAfter": " διότι οὐκ"
   },
   {
     "reference": "Luke 2:12",
     "word": "φάτνῃ",
-    "verse": "κείμενον ἐν φάτνῃ "
+    "verse": "κείμενον ἐν φάτνῃ ",
+    "verseBefore": "κείμενον ἐν ",
+    "verseAfter": " "
   },
   {
     "reference": "Luke 2:16",
     "word": "φάτνῃ",
-    "verse": "ἐν τῇ φάτνῃ "
+    "verse": "ἐν τῇ φάτνῃ ",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " "
   },
   {
     "reference": "Luke 13:15",
     "word": "φάτνης",
-    "verse": "ἀπὸ τῆς φάτνης καὶ ἀπαγαγὼν"
+    "verse": "ἀπὸ τῆς φάτνης καὶ ἀπαγαγὼν",
+    "verseBefore": "ἀπὸ τῆς ",
+    "verseAfter": " καὶ ἀπαγαγὼν"
   }
 ]

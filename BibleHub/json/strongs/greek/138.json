@@ -2,16 +2,22 @@
   {
     "reference": "Philippians 1:22",
     "word": "αἱρήσομαι",
-    "verse": "καὶ τί αἱρήσομαι οὐ γνωρίζω"
+    "verse": "καὶ τί αἱρήσομαι οὐ γνωρίζω",
+    "verseBefore": "καὶ τί ",
+    "verseAfter": " οὐ γνωρίζω"
   },
   {
     "reference": "2 Thessalonians 2:13",
     "word": "εἵλατο",
-    "verse": "Κυρίου ὅτι εἵλατο ὑμᾶς ὁ"
+    "verse": "Κυρίου ὅτι εἵλατο ὑμᾶς ὁ",
+    "verseBefore": "Κυρίου ὅτι ",
+    "verseAfter": " ὑμᾶς ὁ"
   },
   {
     "reference": "Hebrews 11:25",
     "word": "ἑλόμενος",
-    "verse": "μᾶλλον ἑλόμενος συνκακουχεῖσθαι τῷ"
+    "verse": "μᾶλλον ἑλόμενος συνκακουχεῖσθαι τῷ",
+    "verseBefore": "μᾶλλον ",
+    "verseAfter": " συνκακουχεῖσθαι τῷ"
   }
 ]

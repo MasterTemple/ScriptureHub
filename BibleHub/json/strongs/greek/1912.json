@@ -2,16 +2,22 @@
   {
     "reference": "2 Corinthians 2:5",
     "word": "ἐπιβαρῶ",
-    "verse": "ἵνα μὴ ἐπιβαρῶ πάντας ὑμᾶς"
+    "verse": "ἵνα μὴ ἐπιβαρῶ πάντας ὑμᾶς",
+    "verseBefore": "ἵνα μὴ ",
+    "verseAfter": " πάντας ὑμᾶς"
   },
   {
     "reference": "1 Thessalonians 2:9",
     "word": "ἐπιβαρῆσαί",
-    "verse": "τὸ μὴ ἐπιβαρῆσαί τινα ὑμῶν"
+    "verse": "τὸ μὴ ἐπιβαρῆσαί τινα ὑμῶν",
+    "verseBefore": "τὸ μὴ ",
+    "verseAfter": " τινα ὑμῶν"
   },
   {
     "reference": "2 Thessalonians 3:8",
     "word": "ἐπιβαρῆσαί",
-    "verse": "τὸ μὴ ἐπιβαρῆσαί τινα ὑμῶν"
+    "verse": "τὸ μὴ ἐπιβαρῆσαί τινα ὑμῶν",
+    "verseBefore": "τὸ μὴ ",
+    "verseAfter": " τινα ὑμῶν"
   }
 ]

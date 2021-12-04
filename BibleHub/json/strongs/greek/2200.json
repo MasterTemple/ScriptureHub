@@ -2,16 +2,22 @@
   {
     "reference": "Revelation 3:15",
     "word": "ζεστός",
-    "verse": "εἶ οὔτε ζεστός ὄφελον ψυχρὸς"
+    "verse": "εἶ οὔτε ζεστός ὄφελον ψυχρὸς",
+    "verseBefore": "εἶ οὔτε ",
+    "verseAfter": " ὄφελον ψυχρὸς"
   },
   {
     "reference": "Revelation 3:15",
     "word": "ζεστός",
-    "verse": "ἦς ἢ ζεστός "
+    "verse": "ἦς ἢ ζεστός ",
+    "verseBefore": "ἦς ἢ ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 3:16",
     "word": "ζεστὸς",
-    "verse": "καὶ οὔτε ζεστὸς οὔτε ψυχρός"
+    "verse": "καὶ οὔτε ζεστὸς οὔτε ψυχρός",
+    "verseBefore": "καὶ οὔτε ",
+    "verseAfter": " οὔτε ψυχρός"
   }
 ]

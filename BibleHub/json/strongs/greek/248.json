@@ -2,16 +2,22 @@
   {
     "reference": "1 Corinthians 9:9",
     "word": "ἀλοῶντα",
-    "verse": "κημώσεις βοῦν ἀλοῶντα μὴ τῶν"
+    "verse": "κημώσεις βοῦν ἀλοῶντα μὴ τῶν",
+    "verseBefore": "κημώσεις βοῦν ",
+    "verseAfter": " μὴ τῶν"
   },
   {
     "reference": "1 Corinthians 9:10",
     "word": "ἀλοῶν",
-    "verse": "καὶ ὁ ἀλοῶν ἐπ' ἐλπίδι"
+    "verse": "καὶ ὁ ἀλοῶν ἐπ' ἐλπίδι",
+    "verseBefore": "καὶ ὁ ",
+    "verseAfter": " ἐπ' ἐλπίδι"
   },
   {
     "reference": "1 Timothy 5:18",
     "word": "ἀλοῶντα",
-    "verse": "γραφή Βοῦν ἀλοῶντα οὐ φιμώσεις"
+    "verse": "γραφή Βοῦν ἀλοῶντα οὐ φιμώσεις",
+    "verseBefore": "γραφή Βοῦν ",
+    "verseAfter": " οὐ φιμώσεις"
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "Philippians 2:17",
     "word": "σπένδομαι",
-    "verse": "εἰ καὶ σπένδομαι ἐπὶ τῇ"
+    "verse": "εἰ καὶ σπένδομαι ἐπὶ τῇ",
+    "verseBefore": "εἰ καὶ ",
+    "verseAfter": " ἐπὶ τῇ"
   },
   {
     "reference": "2 Timothy 4:6",
     "word": "σπένδομαι",
-    "verse": "γὰρ ἤδη σπένδομαι καὶ ὁ"
+    "verse": "γὰρ ἤδη σπένδομαι καὶ ὁ",
+    "verseBefore": "γὰρ ἤδη ",
+    "verseAfter": " καὶ ὁ"
   }
 ]

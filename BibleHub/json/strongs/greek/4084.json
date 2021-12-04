@@ -2,61 +2,85 @@
   {
     "reference": "John 7:30",
     "word": "πιάσαι",
-    "verse": "οὖν αὐτὸν πιάσαι καὶ οὐδεὶς"
+    "verse": "οὖν αὐτὸν πιάσαι καὶ οὐδεὶς",
+    "verseBefore": "οὖν αὐτὸν ",
+    "verseAfter": " καὶ οὐδεὶς"
   },
   {
     "reference": "John 7:32",
     "word": "πιάσωσιν",
-    "verse": "ὑπηρέτας ἵνα πιάσωσιν αὐτόν "
+    "verse": "ὑπηρέτας ἵνα πιάσωσιν αὐτόν ",
+    "verseBefore": "ὑπηρέτας ἵνα ",
+    "verseAfter": " αὐτόν "
   },
   {
     "reference": "John 7:44",
     "word": "πιάσαι",
-    "verse": "ἐξ αὐτῶν πιάσαι αὐτόν ἀλλ'"
+    "verse": "ἐξ αὐτῶν πιάσαι αὐτόν ἀλλ'",
+    "verseBefore": "ἐξ αὐτῶν ",
+    "verseAfter": " αὐτόν ἀλλ'"
   },
   {
     "reference": "John 8:20",
     "word": "ἐπίασεν",
-    "verse": "καὶ οὐδεὶς ἐπίασεν αὐτόν ὅτι"
+    "verse": "καὶ οὐδεὶς ἐπίασεν αὐτόν ὅτι",
+    "verseBefore": "καὶ οὐδεὶς ",
+    "verseAfter": " αὐτόν ὅτι"
   },
   {
     "reference": "John 10:39",
     "word": "πιάσαι",
-    "verse": "αὐτὸν πάλιν πιάσαι καὶ ἐξῆλθεν"
+    "verse": "αὐτὸν πάλιν πιάσαι καὶ ἐξῆλθεν",
+    "verseBefore": "αὐτὸν πάλιν ",
+    "verseAfter": " καὶ ἐξῆλθεν"
   },
   {
     "reference": "John 11:57",
     "word": "πιάσωσιν",
-    "verse": "μηνύσῃ ὅπως πιάσωσιν αὐτόν "
+    "verse": "μηνύσῃ ὅπως πιάσωσιν αὐτόν ",
+    "verseBefore": "μηνύσῃ ὅπως ",
+    "verseAfter": " αὐτόν "
   },
   {
     "reference": "John 21:3",
     "word": "ἐπίασαν",
-    "verse": "τῇ νυκτὶ ἐπίασαν οὐδέν "
+    "verse": "τῇ νυκτὶ ἐπίασαν οὐδέν ",
+    "verseBefore": "τῇ νυκτὶ ",
+    "verseAfter": " οὐδέν "
   },
   {
     "reference": "John 21:10",
     "word": "ἐπιάσατε",
-    "verse": "ὀψαρίων ὧν ἐπιάσατε νῦν "
+    "verse": "ὀψαρίων ὧν ἐπιάσατε νῦν ",
+    "verseBefore": "ὀψαρίων ὧν ",
+    "verseAfter": " νῦν "
   },
   {
     "reference": "Acts 3:7",
     "word": "πιάσας",
-    "verse": "καὶ πιάσας αὐτὸν τῆς"
+    "verse": "καὶ πιάσας αὐτὸν τῆς",
+    "verseBefore": "καὶ ",
+    "verseAfter": " αὐτὸν τῆς"
   },
   {
     "reference": "Acts 12:4",
     "word": "πιάσας",
-    "verse": "ὃν καὶ πιάσας ἔθετο εἰς"
+    "verse": "ὃν καὶ πιάσας ἔθετο εἰς",
+    "verseBefore": "ὃν καὶ ",
+    "verseAfter": " ἔθετο εἰς"
   },
   {
     "reference": "2 Corinthians 11:32",
     "word": "πιάσαι",
-    "verse": "πόλιν Δαμασκηνῶν πιάσαι με "
+    "verse": "πόλιν Δαμασκηνῶν πιάσαι με ",
+    "verseBefore": "πόλιν Δαμασκηνῶν ",
+    "verseAfter": " με "
   },
   {
     "reference": "Revelation 19:20",
     "word": "ἐπιάσθη",
-    "verse": "καὶ ἐπιάσθη τὸ θηρίον"
+    "verse": "καὶ ἐπιάσθη τὸ θηρίον",
+    "verseBefore": "καὶ ",
+    "verseAfter": " τὸ θηρίον"
   }
 ]

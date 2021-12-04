@@ -2,16 +2,22 @@
   {
     "reference": "John 19:31",
     "word": "σκέλη",
-    "verse": "αὐτῶν τὰ σκέλη καὶ ἀρθῶσιν"
+    "verse": "αὐτῶν τὰ σκέλη καὶ ἀρθῶσιν",
+    "verseBefore": "αὐτῶν τὰ ",
+    "verseAfter": " καὶ ἀρθῶσιν"
   },
   {
     "reference": "John 19:32",
     "word": "σκέλη",
-    "verse": "κατέαξαν τὰ σκέλη καὶ τοῦ"
+    "verse": "κατέαξαν τὰ σκέλη καὶ τοῦ",
+    "verseBefore": "κατέαξαν τὰ ",
+    "verseAfter": " καὶ τοῦ"
   },
   {
     "reference": "John 19:33",
     "word": "σκέλη",
-    "verse": "αὐτοῦ τὰ σκέλη "
+    "verse": "αὐτοῦ τὰ σκέλη ",
+    "verseBefore": "αὐτοῦ τὰ ",
+    "verseAfter": " "
   }
 ]

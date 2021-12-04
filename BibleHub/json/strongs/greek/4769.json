@@ -2,21 +2,29 @@
   {
     "reference": "Galatians 2:9",
     "word": "στύλοι",
-    "verse": "οἱ δοκοῦντες στύλοι εἶναι δεξιὰς"
+    "verse": "οἱ δοκοῦντες στύλοι εἶναι δεξιὰς",
+    "verseBefore": "οἱ δοκοῦντες ",
+    "verseAfter": " εἶναι δεξιὰς"
   },
   {
     "reference": "1 Timothy 3:15",
     "word": "στύλος",
-    "verse": "θεοῦ ζῶντος στύλος καὶ ἑδραίωμα"
+    "verse": "θεοῦ ζῶντος στύλος καὶ ἑδραίωμα",
+    "verseBefore": "θεοῦ ζῶντος ",
+    "verseAfter": " καὶ ἑδραίωμα"
   },
   {
     "reference": "Revelation 3:12",
     "word": "στύλον",
-    "verse": "ποιήσω αὐτὸν στύλον ἐν τῷ"
+    "verse": "ποιήσω αὐτὸν στύλον ἐν τῷ",
+    "verseBefore": "ποιήσω αὐτὸν ",
+    "verseAfter": " ἐν τῷ"
   },
   {
     "reference": "Revelation 10:1",
     "word": "στύλοι",
-    "verse": "αὐτοῦ ὡς στύλοι πυρός "
+    "verse": "αὐτοῦ ὡς στύλοι πυρός ",
+    "verseBefore": "αὐτοῦ ὡς ",
+    "verseAfter": " πυρός "
   }
 ]

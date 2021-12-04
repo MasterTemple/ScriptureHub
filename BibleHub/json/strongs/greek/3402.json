@@ -2,31 +2,43 @@
   {
     "reference": "1 Corinthians 4:16",
     "word": "μιμηταί",
-    "verse": "οὖν ὑμᾶς μιμηταί μου γίνεσθε"
+    "verse": "οὖν ὑμᾶς μιμηταί μου γίνεσθε",
+    "verseBefore": "οὖν ὑμᾶς ",
+    "verseAfter": " μου γίνεσθε"
   },
   {
     "reference": "1 Corinthians 11:1",
     "word": "μιμηταί",
-    "verse": "μιμηταί μου γίνεσθε"
+    "verse": "μιμηταί μου γίνεσθε",
+    "verseBefore": "",
+    "verseAfter": " μου γίνεσθε"
   },
   {
     "reference": "Ephesians 5:1",
     "word": "μιμηταὶ",
-    "verse": "γίνεσθε οὖν μιμηταὶ τοῦ θεοῦ"
+    "verse": "γίνεσθε οὖν μιμηταὶ τοῦ θεοῦ",
+    "verseBefore": "γίνεσθε οὖν ",
+    "verseAfter": " τοῦ θεοῦ"
   },
   {
     "reference": "1 Thessalonians 1:6",
     "word": "μιμηταὶ",
-    "verse": "καὶ ὑμεῖς μιμηταὶ ἡμῶν ἐγενήθητε"
+    "verse": "καὶ ὑμεῖς μιμηταὶ ἡμῶν ἐγενήθητε",
+    "verseBefore": "καὶ ὑμεῖς ",
+    "verseAfter": " ἡμῶν ἐγενήθητε"
   },
   {
     "reference": "1 Thessalonians 2:14",
     "word": "μιμηταὶ",
-    "verse": "ὑμεῖς γὰρ μιμηταὶ ἐγενήθητε ἀδελφοί"
+    "verse": "ὑμεῖς γὰρ μιμηταὶ ἐγενήθητε ἀδελφοί",
+    "verseBefore": "ὑμεῖς γὰρ ",
+    "verseAfter": " ἐγενήθητε ἀδελφοί"
   },
   {
     "reference": "Hebrews 6:12",
     "word": "μιμηταὶ",
-    "verse": "νωθροὶ γένησθε μιμηταὶ δὲ τῶν"
+    "verse": "νωθροὶ γένησθε μιμηταὶ δὲ τῶν",
+    "verseBefore": "νωθροὶ γένησθε ",
+    "verseAfter": " δὲ τῶν"
   }
 ]

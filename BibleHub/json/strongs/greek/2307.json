@@ -2,316 +2,442 @@
   {
     "reference": "Matthew 6:10",
     "word": "θέλημά",
-    "verse": "γενηθήτω τὸ θέλημά σου ὡς"
+    "verse": "γενηθήτω τὸ θέλημά σου ὡς",
+    "verseBefore": "γενηθήτω τὸ ",
+    "verseAfter": " σου ὡς"
   },
   {
     "reference": "Matthew 7:21",
     "word": "θέλημα",
-    "verse": "ποιῶν τὸ θέλημα τοῦ πατρός"
+    "verse": "ποιῶν τὸ θέλημα τοῦ πατρός",
+    "verseBefore": "ποιῶν τὸ ",
+    "verseAfter": " τοῦ πατρός"
   },
   {
     "reference": "Matthew 12:50",
     "word": "θέλημα",
-    "verse": "ποιήσῃ τὸ θέλημα τοῦ πατρός"
+    "verse": "ποιήσῃ τὸ θέλημα τοῦ πατρός",
+    "verseBefore": "ποιήσῃ τὸ ",
+    "verseAfter": " τοῦ πατρός"
   },
   {
     "reference": "Matthew 18:14",
     "word": "θέλημα",
-    "verse": "οὐκ ἔστιν θέλημα ἔμπροσθεν τοῦ"
+    "verse": "οὐκ ἔστιν θέλημα ἔμπροσθεν τοῦ",
+    "verseBefore": "οὐκ ἔστιν ",
+    "verseAfter": " ἔμπροσθεν τοῦ"
   },
   {
     "reference": "Matthew 21:31",
     "word": "θέλημα",
-    "verse": "ἐποίησεν τὸ θέλημα τοῦ πατρός"
+    "verse": "ἐποίησεν τὸ θέλημα τοῦ πατρός",
+    "verseBefore": "ἐποίησεν τὸ ",
+    "verseAfter": " τοῦ πατρός"
   },
   {
     "reference": "Matthew 26:42",
     "word": "θέλημά",
-    "verse": "γενηθήτω τὸ θέλημά σου "
+    "verse": "γενηθήτω τὸ θέλημά σου ",
+    "verseBefore": "γενηθήτω τὸ ",
+    "verseAfter": " σου "
   },
   {
     "reference": "Mark 3:35",
     "word": "θέλημα",
-    "verse": "ποιήσῃ τὸ θέλημα τοῦ θεοῦ"
+    "verse": "ποιήσῃ τὸ θέλημα τοῦ θεοῦ",
+    "verseBefore": "ποιήσῃ τὸ ",
+    "verseAfter": " τοῦ θεοῦ"
   },
   {
     "reference": "Luke 11:2",
     "word": "θέλημά",
-    "verse": "γενηθήτω τὸ θέλημά σου ὡς"
+    "verse": "γενηθήτω τὸ θέλημά σου ὡς",
+    "verseBefore": "γενηθήτω τὸ ",
+    "verseAfter": " σου ὡς"
   },
   {
     "reference": "Luke 12:47",
     "word": "θέλημα",
-    "verse": "γνοὺς τὸ θέλημα τοῦ κυρίου"
+    "verse": "γνοὺς τὸ θέλημα τοῦ κυρίου",
+    "verseBefore": "γνοὺς τὸ ",
+    "verseAfter": " τοῦ κυρίου"
   },
   {
     "reference": "Luke 12:47",
     "word": "θέλημα",
-    "verse": "πρὸς τὸ θέλημα αὐτοῦ δαρήσεται"
+    "verse": "πρὸς τὸ θέλημα αὐτοῦ δαρήσεται",
+    "verseBefore": "πρὸς τὸ ",
+    "verseAfter": " αὐτοῦ δαρήσεται"
   },
   {
     "reference": "Luke 22:42",
     "word": "θέλημά",
-    "verse": "μὴ τὸ θέλημά μου ἀλλὰ"
+    "verse": "μὴ τὸ θέλημά μου ἀλλὰ",
+    "verseBefore": "μὴ τὸ ",
+    "verseAfter": " μου ἀλλὰ"
   },
   {
     "reference": "Luke 23:25",
     "word": "θελήματι",
-    "verse": "παρέδωκεν τῷ θελήματι αὐτῶν "
+    "verse": "παρέδωκεν τῷ θελήματι αὐτῶν ",
+    "verseBefore": "παρέδωκεν τῷ ",
+    "verseAfter": " αὐτῶν "
   },
   {
     "reference": "John 1:13",
     "word": "θελήματος",
-    "verse": "οὐδὲ ἐκ θελήματος σαρκὸς οὐδὲ"
+    "verse": "οὐδὲ ἐκ θελήματος σαρκὸς οὐδὲ",
+    "verseBefore": "οὐδὲ ἐκ ",
+    "verseAfter": " σαρκὸς οὐδὲ"
   },
   {
     "reference": "John 1:13",
     "word": "θελήματος",
-    "verse": "οὐδὲ ἐκ θελήματος ἀνδρὸς ἀλλ'"
+    "verse": "οὐδὲ ἐκ θελήματος ἀνδρὸς ἀλλ'",
+    "verseBefore": "οὐδὲ ἐκ ",
+    "verseAfter": " ἀνδρὸς ἀλλ'"
   },
   {
     "reference": "John 4:34",
     "word": "θέλημα",
-    "verse": "ποιήσω τὸ θέλημα τοῦ πέμψαντός"
+    "verse": "ποιήσω τὸ θέλημα τοῦ πέμψαντός",
+    "verseBefore": "ποιήσω τὸ ",
+    "verseAfter": " τοῦ πέμψαντός"
   },
   {
     "reference": "John 5:30",
     "word": "θέλημα",
-    "verse": "ζητῶ τὸ θέλημα τὸ ἐμὸν"
+    "verse": "ζητῶ τὸ θέλημα τὸ ἐμὸν",
+    "verseBefore": "ζητῶ τὸ ",
+    "verseAfter": " τὸ ἐμὸν"
   },
   {
     "reference": "John 5:30",
     "word": "θέλημα",
-    "verse": "ἀλλὰ τὸ θέλημα τοῦ πέμψαντός"
+    "verse": "ἀλλὰ τὸ θέλημα τοῦ πέμψαντός",
+    "verseBefore": "ἀλλὰ τὸ ",
+    "verseAfter": " τοῦ πέμψαντός"
   },
   {
     "reference": "John 6:38",
     "word": "θέλημα",
-    "verse": "ποιῶ τὸ θέλημα τὸ ἐμὸν"
+    "verse": "ποιῶ τὸ θέλημα τὸ ἐμὸν",
+    "verseBefore": "ποιῶ τὸ ",
+    "verseAfter": " τὸ ἐμὸν"
   },
   {
     "reference": "John 6:38",
     "word": "θέλημα",
-    "verse": "ἀλλὰ τὸ θέλημα τοῦ πέμψαντός"
+    "verse": "ἀλλὰ τὸ θέλημα τοῦ πέμψαντός",
+    "verseBefore": "ἀλλὰ τὸ ",
+    "verseAfter": " τοῦ πέμψαντός"
   },
   {
     "reference": "John 6:39",
     "word": "θέλημα",
-    "verse": "ἐστιν τὸ θέλημα τοῦ πέμψαντός"
+    "verse": "ἐστιν τὸ θέλημα τοῦ πέμψαντός",
+    "verseBefore": "ἐστιν τὸ ",
+    "verseAfter": " τοῦ πέμψαντός"
   },
   {
     "reference": "John 6:40",
     "word": "θέλημα",
-    "verse": "ἐστιν τὸ θέλημα τοῦ πατρός"
+    "verse": "ἐστιν τὸ θέλημα τοῦ πατρός",
+    "verseBefore": "ἐστιν τὸ ",
+    "verseAfter": " τοῦ πατρός"
   },
   {
     "reference": "John 7:17",
     "word": "θέλημα",
-    "verse": "θέλῃ τὸ θέλημα αὐτοῦ ποιεῖν"
+    "verse": "θέλῃ τὸ θέλημα αὐτοῦ ποιεῖν",
+    "verseBefore": "θέλῃ τὸ ",
+    "verseAfter": " αὐτοῦ ποιεῖν"
   },
   {
     "reference": "John 9:31",
     "word": "θέλημα",
-    "verse": "καὶ τὸ θέλημα αὐτοῦ ποιῇ"
+    "verse": "καὶ τὸ θέλημα αὐτοῦ ποιῇ",
+    "verseBefore": "καὶ τὸ ",
+    "verseAfter": " αὐτοῦ ποιῇ"
   },
   {
     "reference": "Acts 13:22",
     "word": "θελήματά",
-    "verse": "πάντα τὰ θελήματά μου "
+    "verse": "πάντα τὰ θελήματά μου ",
+    "verseBefore": "πάντα τὰ ",
+    "verseAfter": " μου "
   },
   {
     "reference": "Acts 21:14",
     "word": "θέλημα",
-    "verse": "κυρίου τὸ θέλημα γινέσθω "
+    "verse": "κυρίου τὸ θέλημα γινέσθω ",
+    "verseBefore": "κυρίου τὸ ",
+    "verseAfter": " γινέσθω "
   },
   {
     "reference": "Acts 22:14",
     "word": "θέλημα",
-    "verse": "γνῶναι τὸ θέλημα αὐτοῦ καὶ"
+    "verse": "γνῶναι τὸ θέλημα αὐτοῦ καὶ",
+    "verseBefore": "γνῶναι τὸ ",
+    "verseAfter": " αὐτοῦ καὶ"
   },
   {
     "reference": "Romans 1:10",
     "word": "θελήματι",
-    "verse": "ἐν τῷ θελήματι τοῦ θεοῦ"
+    "verse": "ἐν τῷ θελήματι τοῦ θεοῦ",
+    "verseBefore": "ἐν τῷ ",
+    "verseAfter": " τοῦ θεοῦ"
   },
   {
     "reference": "Romans 2:18",
     "word": "θέλημα",
-    "verse": "γινώσκεις τὸ θέλημα καὶ δοκιμάζεις"
+    "verse": "γινώσκεις τὸ θέλημα καὶ δοκιμάζεις",
+    "verseBefore": "γινώσκεις τὸ ",
+    "verseAfter": " καὶ δοκιμάζεις"
   },
   {
     "reference": "Romans 12:2",
     "word": "θέλημα",
-    "verse": "τί τὸ θέλημα τοῦ θεοῦ"
+    "verse": "τί τὸ θέλημα τοῦ θεοῦ",
+    "verseBefore": "τί τὸ ",
+    "verseAfter": " τοῦ θεοῦ"
   },
   {
     "reference": "Romans 15:32",
     "word": "θελήματος",
-    "verse": "ὑμᾶς διὰ θελήματος θεοῦ συναναπαύσωμαι"
+    "verse": "ὑμᾶς διὰ θελήματος θεοῦ συναναπαύσωμαι",
+    "verseBefore": "ὑμᾶς διὰ ",
+    "verseAfter": " θεοῦ συναναπαύσωμαι"
   },
   {
     "reference": "1 Corinthians 1:1",
     "word": "θελήματος",
-    "verse": "Χριστοῦ διὰ θελήματος θεοῦ καὶ"
+    "verse": "Χριστοῦ διὰ θελήματος θεοῦ καὶ",
+    "verseBefore": "Χριστοῦ διὰ ",
+    "verseAfter": " θεοῦ καὶ"
   },
   {
     "reference": "1 Corinthians 7:37",
     "word": "θελήματος",
-    "verse": "τοῦ ἰδίου θελήματος καὶ τοῦτο"
+    "verse": "τοῦ ἰδίου θελήματος καὶ τοῦτο",
+    "verseBefore": "τοῦ ἰδίου ",
+    "verseAfter": " καὶ τοῦτο"
   },
   {
     "reference": "1 Corinthians 16:12",
     "word": "θέλημα",
-    "verse": "οὐκ ἦν θέλημα ἵνα νῦν"
+    "verse": "οὐκ ἦν θέλημα ἵνα νῦν",
+    "verseBefore": "οὐκ ἦν ",
+    "verseAfter": " ἵνα νῦν"
   },
   {
     "reference": "2 Corinthians 1:1",
     "word": "θελήματος",
-    "verse": "Ἰησοῦ διὰ θελήματος θεοῦ καὶ"
+    "verse": "Ἰησοῦ διὰ θελήματος θεοῦ καὶ",
+    "verseBefore": "Ἰησοῦ διὰ ",
+    "verseAfter": " θεοῦ καὶ"
   },
   {
     "reference": "2 Corinthians 8:5",
     "word": "θελήματος",
-    "verse": "ἡμῖν διὰ θελήματος θεοῦ "
+    "verse": "ἡμῖν διὰ θελήματος θεοῦ ",
+    "verseBefore": "ἡμῖν διὰ ",
+    "verseAfter": " θεοῦ "
   },
   {
     "reference": "Galatians 1:4",
     "word": "θέλημα",
-    "verse": "κατὰ τὸ θέλημα τοῦ θεοῦ"
+    "verse": "κατὰ τὸ θέλημα τοῦ θεοῦ",
+    "verseBefore": "κατὰ τὸ ",
+    "verseAfter": " τοῦ θεοῦ"
   },
   {
     "reference": "Ephesians 1:1",
     "word": "θελήματος",
-    "verse": "Ἰησοῦ διὰ θελήματος θεοῦ τοῖς"
+    "verse": "Ἰησοῦ διὰ θελήματος θεοῦ τοῖς",
+    "verseBefore": "Ἰησοῦ διὰ ",
+    "verseAfter": " θεοῦ τοῖς"
   },
   {
     "reference": "Ephesians 1:5",
     "word": "θελήματος",
-    "verse": "εὐδοκίαν τοῦ θελήματος αὐτοῦ "
+    "verse": "εὐδοκίαν τοῦ θελήματος αὐτοῦ ",
+    "verseBefore": "εὐδοκίαν τοῦ ",
+    "verseAfter": " αὐτοῦ "
   },
   {
     "reference": "Ephesians 1:9",
     "word": "θελήματος",
-    "verse": "μυστήριον τοῦ θελήματος αὐτοῦ κατὰ"
+    "verse": "μυστήριον τοῦ θελήματος αὐτοῦ κατὰ",
+    "verseBefore": "μυστήριον τοῦ ",
+    "verseAfter": " αὐτοῦ κατὰ"
   },
   {
     "reference": "Ephesians 1:11",
     "word": "θελήματος",
-    "verse": "βουλὴν τοῦ θελήματος αὐτοῦ "
+    "verse": "βουλὴν τοῦ θελήματος αὐτοῦ ",
+    "verseBefore": "βουλὴν τοῦ ",
+    "verseAfter": " αὐτοῦ "
   },
   {
     "reference": "Ephesians 2:3",
     "word": "θελήματα",
-    "verse": "ποιοῦντες τὰ θελήματα τῆς σαρκὸς"
+    "verse": "ποιοῦντες τὰ θελήματα τῆς σαρκὸς",
+    "verseBefore": "ποιοῦντες τὰ ",
+    "verseAfter": " τῆς σαρκὸς"
   },
   {
     "reference": "Ephesians 5:17",
     "word": "θέλημα",
-    "verse": "τί τὸ θέλημα τοῦ κυρίου"
+    "verse": "τί τὸ θέλημα τοῦ κυρίου",
+    "verseBefore": "τί τὸ ",
+    "verseAfter": " τοῦ κυρίου"
   },
   {
     "reference": "Ephesians 6:6",
     "word": "θέλημα",
-    "verse": "ποιοῦντες τὸ θέλημα τοῦ θεοῦ"
+    "verse": "ποιοῦντες τὸ θέλημα τοῦ θεοῦ",
+    "verseBefore": "ποιοῦντες τὸ ",
+    "verseAfter": " τοῦ θεοῦ"
   },
   {
     "reference": "Colossians 1:1",
     "word": "θελήματος",
-    "verse": "Ἰησοῦ διὰ θελήματος θεοῦ καὶ"
+    "verse": "Ἰησοῦ διὰ θελήματος θεοῦ καὶ",
+    "verseBefore": "Ἰησοῦ διὰ ",
+    "verseAfter": " θεοῦ καὶ"
   },
   {
     "reference": "Colossians 1:9",
     "word": "θελήματος",
-    "verse": "ἐπίγνωσιν τοῦ θελήματος αὐτοῦ ἐν"
+    "verse": "ἐπίγνωσιν τοῦ θελήματος αὐτοῦ ἐν",
+    "verseBefore": "ἐπίγνωσιν τοῦ ",
+    "verseAfter": " αὐτοῦ ἐν"
   },
   {
     "reference": "Colossians 4:12",
     "word": "θελήματι",
-    "verse": "ἐν παντὶ θελήματι τοῦ θεοῦ"
+    "verse": "ἐν παντὶ θελήματι τοῦ θεοῦ",
+    "verseBefore": "ἐν παντὶ ",
+    "verseAfter": " τοῦ θεοῦ"
   },
   {
     "reference": "1 Thessalonians 4:3",
     "word": "θέλημα",
-    "verse": "γάρ ἐστιν θέλημα τοῦ θεοῦ"
+    "verse": "γάρ ἐστιν θέλημα τοῦ θεοῦ",
+    "verseBefore": "γάρ ἐστιν ",
+    "verseAfter": " τοῦ θεοῦ"
   },
   {
     "reference": "1 Thessalonians 5:18",
     "word": "θέλημα",
-    "verse": "τοῦτο γὰρ θέλημα θεοῦ ἐν"
+    "verse": "τοῦτο γὰρ θέλημα θεοῦ ἐν",
+    "verseBefore": "τοῦτο γὰρ ",
+    "verseAfter": " θεοῦ ἐν"
   },
   {
     "reference": "2 Timothy 1:1",
     "word": "θελήματος",
-    "verse": "Ἰησοῦ διὰ θελήματος θεοῦ κατ'"
+    "verse": "Ἰησοῦ διὰ θελήματος θεοῦ κατ'",
+    "verseBefore": "Ἰησοῦ διὰ ",
+    "verseAfter": " θεοῦ κατ'"
   },
   {
     "reference": "2 Timothy 2:26",
     "word": "θέλημα",
-    "verse": "τὸ ἐκείνου θέλημα "
+    "verse": "τὸ ἐκείνου θέλημα ",
+    "verseBefore": "τὸ ἐκείνου ",
+    "verseAfter": " "
   },
   {
     "reference": "Hebrews 10:7",
     "word": "θέλημά",
-    "verse": "θεός τὸ θέλημά σου "
+    "verse": "θεός τὸ θέλημά σου ",
+    "verseBefore": "θεός τὸ ",
+    "verseAfter": " σου "
   },
   {
     "reference": "Hebrews 10:9",
     "word": "θέλημά",
-    "verse": "ποιῆσαι τὸ θέλημά σου ἀναιρεῖ"
+    "verse": "ποιῆσαι τὸ θέλημά σου ἀναιρεῖ",
+    "verseBefore": "ποιῆσαι τὸ ",
+    "verseAfter": " σου ἀναιρεῖ"
   },
   {
     "reference": "Hebrews 10:10",
     "word": "θελήματι",
-    "verse": "ἐν ᾧ θελήματι ἡγιασμένοι ἐσμὲν"
+    "verse": "ἐν ᾧ θελήματι ἡγιασμένοι ἐσμὲν",
+    "verseBefore": "ἐν ᾧ ",
+    "verseAfter": " ἡγιασμένοι ἐσμὲν"
   },
   {
     "reference": "Hebrews 10:36",
     "word": "θέλημα",
-    "verse": "ἵνα τὸ θέλημα τοῦ θεοῦ"
+    "verse": "ἵνα τὸ θέλημα τοῦ θεοῦ",
+    "verseBefore": "ἵνα τὸ ",
+    "verseAfter": " τοῦ θεοῦ"
   },
   {
     "reference": "Hebrews 13:21",
     "word": "θέλημα",
-    "verse": "ποιῆσαι τὸ θέλημα αὐτοῦ ποιῶν"
+    "verse": "ποιῆσαι τὸ θέλημα αὐτοῦ ποιῶν",
+    "verseBefore": "ποιῆσαι τὸ ",
+    "verseAfter": " αὐτοῦ ποιῶν"
   },
   {
     "reference": "1 Peter 2:15",
     "word": "θέλημα",
-    "verse": "ἐστὶν τὸ θέλημα τοῦ θεοῦ"
+    "verse": "ἐστὶν τὸ θέλημα τοῦ θεοῦ",
+    "verseBefore": "ἐστὶν τὸ ",
+    "verseAfter": " τοῦ θεοῦ"
   },
   {
     "reference": "1 Peter 3:17",
     "word": "θέλημα",
-    "verse": "θέλοι τὸ θέλημα τοῦ θεοῦ"
+    "verse": "θέλοι τὸ θέλημα τοῦ θεοῦ",
+    "verseBefore": "θέλοι τὸ ",
+    "verseAfter": " τοῦ θεοῦ"
   },
   {
     "reference": "1 Peter 4:2",
     "word": "θελήματι",
-    "verse": "ἐπιθυμίαις ἀλλὰ θελήματι θεοῦ τὸν"
+    "verse": "ἐπιθυμίαις ἀλλὰ θελήματι θεοῦ τὸν",
+    "verseBefore": "ἐπιθυμίαις ἀλλὰ ",
+    "verseAfter": " θεοῦ τὸν"
   },
   {
     "reference": "1 Peter 4:19",
     "word": "θέλημα",
-    "verse": "κατὰ τὸ θέλημα τοῦ θεοῦ"
+    "verse": "κατὰ τὸ θέλημα τοῦ θεοῦ",
+    "verseBefore": "κατὰ τὸ ",
+    "verseAfter": " τοῦ θεοῦ"
   },
   {
     "reference": "2 Peter 1:21",
     "word": "θελήματι",
-    "verse": "οὐ γὰρ θελήματι ἀνθρώπου ἠνέχθη"
+    "verse": "οὐ γὰρ θελήματι ἀνθρώπου ἠνέχθη",
+    "verseBefore": "οὐ γὰρ ",
+    "verseAfter": " ἀνθρώπου ἠνέχθη"
   },
   {
     "reference": "1 John 2:17",
     "word": "θέλημα",
-    "verse": "ποιῶν τὸ θέλημα τοῦ θεοῦ"
+    "verse": "ποιῶν τὸ θέλημα τοῦ θεοῦ",
+    "verseBefore": "ποιῶν τὸ ",
+    "verseAfter": " τοῦ θεοῦ"
   },
   {
     "reference": "1 John 5:14",
     "word": "θέλημα",
-    "verse": "κατὰ τὸ θέλημα αὐτοῦ ἀκούει"
+    "verse": "κατὰ τὸ θέλημα αὐτοῦ ἀκούει",
+    "verseBefore": "κατὰ τὸ ",
+    "verseAfter": " αὐτοῦ ἀκούει"
   },
   {
     "reference": "Revelation 4:11",
     "word": "θέλημά",
-    "verse": "διὰ τὸ θέλημά σου ἦσαν"
+    "verse": "διὰ τὸ θέλημά σου ἦσαν",
+    "verseBefore": "διὰ τὸ ",
+    "verseAfter": " σου ἦσαν"
   }
 ]

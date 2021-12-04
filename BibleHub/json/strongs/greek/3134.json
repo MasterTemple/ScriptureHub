@@ -2,11 +2,15 @@
   {
     "reference": "1 Corinthians 16:22",
     "word": "μαρανα",
-    "verse": "ἤτω ἀνάθεμα μαρανα θα "
+    "verse": "ἤτω ἀνάθεμα μαρανα θα ",
+    "verseBefore": "ἤτω ἀνάθεμα ",
+    "verseAfter": " θα "
   },
   {
     "reference": "1 Corinthians 16:22",
     "word": "θα",
-    "verse": "ἀνάθεμα μαρανα θα "
+    "verse": "ἀνάθεμα μαρανα θα ",
+    "verseBefore": "ἀνάθεμα μαρανα ",
+    "verseAfter": " "
   }
 ]

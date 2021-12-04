@@ -2,11 +2,15 @@
   {
     "reference": "Matthew 5:39",
     "word": "ῥαπίζει",
-    "verse": "ὅστις σε ῥαπίζει εἰς τὴν"
+    "verse": "ὅστις σε ῥαπίζει εἰς τὴν",
+    "verseBefore": "ὅστις σε ",
+    "verseAfter": " εἰς τὴν"
   },
   {
     "reference": "Matthew 26:67",
     "word": "ἐράπισαν",
-    "verse": "οἱ δὲ ἐράπισαν "
+    "verse": "οἱ δὲ ἐράπισαν ",
+    "verseBefore": "οἱ δὲ ",
+    "verseAfter": " "
   }
 ]

@@ -2,16 +2,22 @@
   {
     "reference": "Ephesians 2:6",
     "word": "συνήγειρεν",
-    "verse": "καὶ συνήγειρεν καὶ συνεκάθισεν"
+    "verse": "καὶ συνήγειρεν καὶ συνεκάθισεν",
+    "verseBefore": "καὶ ",
+    "verseAfter": " καὶ συνεκάθισεν"
   },
   {
     "reference": "Colossians 2:12",
     "word": "συνηγέρθητε",
-    "verse": "ᾧ καὶ συνηγέρθητε διὰ τῆς"
+    "verse": "ᾧ καὶ συνηγέρθητε διὰ τῆς",
+    "verseBefore": "ᾧ καὶ ",
+    "verseAfter": " διὰ τῆς"
   },
   {
     "reference": "Colossians 3:1",
     "word": "συνηγέρθητε",
-    "verse": "Εἰ οὖν συνηγέρθητε τῷ χριστῷ"
+    "verse": "Εἰ οὖν συνηγέρθητε τῷ χριστῷ",
+    "verseBefore": "Εἰ οὖν ",
+    "verseAfter": " τῷ χριστῷ"
   }
 ]

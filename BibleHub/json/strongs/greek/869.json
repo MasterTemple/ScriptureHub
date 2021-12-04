@@ -2,16 +2,22 @@
   {
     "reference": "Acts 2:2",
     "word": "ἄφνω",
-    "verse": "καὶ ἐγένετο ἄφνω ἐκ τοῦ"
+    "verse": "καὶ ἐγένετο ἄφνω ἐκ τοῦ",
+    "verseBefore": "καὶ ἐγένετο ",
+    "verseAfter": " ἐκ τοῦ"
   },
   {
     "reference": "Acts 16:26",
     "word": "ἄφνω",
-    "verse": "ἄφνω δὲ σεισμὸς"
+    "verse": "ἄφνω δὲ σεισμὸς",
+    "verseBefore": "",
+    "verseAfter": " δὲ σεισμὸς"
   },
   {
     "reference": "Acts 28:6",
     "word": "ἄφνω",
-    "verse": "ἢ καταπίπτειν ἄφνω νεκρόν ἐπὶ"
+    "verse": "ἢ καταπίπτειν ἄφνω νεκρόν ἐπὶ",
+    "verseBefore": "ἢ καταπίπτειν ",
+    "verseAfter": " νεκρόν ἐπὶ"
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "Luke 3:24",
     "word": "Μαθθὰτ",
-    "verse": "τοῦ Μαθθὰτ τοῦ Λευὶ"
+    "verse": "τοῦ Μαθθὰτ τοῦ Λευὶ",
+    "verseBefore": "τοῦ ",
+    "verseAfter": " τοῦ Λευὶ"
   },
   {
     "reference": "Luke 3:29",
     "word": "Μαθθάτ",
-    "verse": "Ἰωρὶμ τοῦ Μαθθάτ τοῦ Λευὶ"
+    "verse": "Ἰωρὶμ τοῦ Μαθθάτ τοῦ Λευὶ",
+    "verseBefore": "Ἰωρὶμ τοῦ ",
+    "verseAfter": " τοῦ Λευὶ"
   }
 ]

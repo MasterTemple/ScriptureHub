@@ -2,371 +2,519 @@
   {
     "reference": "Matthew 2:10",
     "word": "ἐχάρησαν",
-    "verse": "τὸν ἀστέρα ἐχάρησαν χαρὰν μεγάλην"
+    "verse": "τὸν ἀστέρα ἐχάρησαν χαρὰν μεγάλην",
+    "verseBefore": "τὸν ἀστέρα ",
+    "verseAfter": " χαρὰν μεγάλην"
   },
   {
     "reference": "Matthew 5:12",
     "word": "χαίρετε",
-    "verse": "χαίρετε καὶ ἀγαλλιᾶσθε"
+    "verse": "χαίρετε καὶ ἀγαλλιᾶσθε",
+    "verseBefore": "",
+    "verseAfter": " καὶ ἀγαλλιᾶσθε"
   },
   {
     "reference": "Matthew 18:13",
     "word": "χαίρει",
-    "verse": "ὑμῖν ὅτι χαίρει ἐπ' αὐτῷ"
+    "verse": "ὑμῖν ὅτι χαίρει ἐπ' αὐτῷ",
+    "verseBefore": "ὑμῖν ὅτι ",
+    "verseAfter": " ἐπ' αὐτῷ"
   },
   {
     "reference": "Matthew 26:49",
     "word": "Χαῖρε",
-    "verse": "Ἰησοῦ εἶπεν Χαῖρε ῥαββί καὶ"
+    "verse": "Ἰησοῦ εἶπεν Χαῖρε ῥαββί καὶ",
+    "verseBefore": "Ἰησοῦ εἶπεν ",
+    "verseAfter": " ῥαββί καὶ"
   },
   {
     "reference": "Matthew 27:29",
     "word": "Χαῖρε",
-    "verse": "αὐτῷ λέγοντες Χαῖρε βασιλεῦ τῶν"
+    "verse": "αὐτῷ λέγοντες Χαῖρε βασιλεῦ τῶν",
+    "verseBefore": "αὐτῷ λέγοντες ",
+    "verseAfter": " βασιλεῦ τῶν"
   },
   {
     "reference": "Matthew 28:9",
     "word": "Χαίρετε",
-    "verse": "αὐταῖς λέγων Χαίρετε αἱ δὲ"
+    "verse": "αὐταῖς λέγων Χαίρετε αἱ δὲ",
+    "verseBefore": "αὐταῖς λέγων ",
+    "verseAfter": " αἱ δὲ"
   },
   {
     "reference": "Mark 14:11",
     "word": "ἐχάρησαν",
-    "verse": "δὲ ἀκούσαντες ἐχάρησαν καὶ ἐπηγγείλαντο"
+    "verse": "δὲ ἀκούσαντες ἐχάρησαν καὶ ἐπηγγείλαντο",
+    "verseBefore": "δὲ ἀκούσαντες ",
+    "verseAfter": " καὶ ἐπηγγείλαντο"
   },
   {
     "reference": "Mark 15:18",
     "word": "Χαῖρε",
-    "verse": "ἀσπάζεσθαι αὐτόν Χαῖρε βασιλεῦ τῶν"
+    "verse": "ἀσπάζεσθαι αὐτόν Χαῖρε βασιλεῦ τῶν",
+    "verseBefore": "ἀσπάζεσθαι αὐτόν ",
+    "verseAfter": " βασιλεῦ τῶν"
   },
   {
     "reference": "Luke 1:14",
     "word": "χαρήσονται",
-    "verse": "γενέσει αὐτοῦ χαρήσονται "
+    "verse": "γενέσει αὐτοῦ χαρήσονται ",
+    "verseBefore": "γενέσει αὐτοῦ ",
+    "verseAfter": " "
   },
   {
     "reference": "Luke 1:28",
     "word": "Χαῖρε",
-    "verse": "αὐτὴν εἶπεν Χαῖρε κεχαριτωμένη ὁ"
+    "verse": "αὐτὴν εἶπεν Χαῖρε κεχαριτωμένη ὁ",
+    "verseBefore": "αὐτὴν εἶπεν ",
+    "verseAfter": " κεχαριτωμένη ὁ"
   },
   {
     "reference": "Luke 6:23",
     "word": "χάρητε",
-    "verse": "χάρητε ἐν ἐκείνῃ"
+    "verse": "χάρητε ἐν ἐκείνῃ",
+    "verseBefore": "",
+    "verseAfter": " ἐν ἐκείνῃ"
   },
   {
     "reference": "Luke 10:20",
     "word": "χαίρετε",
-    "verse": "τούτῳ μὴ χαίρετε ὅτι τὰ"
+    "verse": "τούτῳ μὴ χαίρετε ὅτι τὰ",
+    "verseBefore": "τούτῳ μὴ ",
+    "verseAfter": " ὅτι τὰ"
   },
   {
     "reference": "Luke 10:20",
     "word": "χαίρετε",
-    "verse": "ὑμῖν ὑποτάσσεται χαίρετε δὲ ὅτι"
+    "verse": "ὑμῖν ὑποτάσσεται χαίρετε δὲ ὅτι",
+    "verseBefore": "ὑμῖν ὑποτάσσεται ",
+    "verseAfter": " δὲ ὅτι"
   },
   {
     "reference": "Luke 13:17",
     "word": "ἔχαιρεν",
-    "verse": "ὁ ὄχλος ἔχαιρεν ἐπὶ πᾶσιν"
+    "verse": "ὁ ὄχλος ἔχαιρεν ἐπὶ πᾶσιν",
+    "verseBefore": "ὁ ὄχλος ",
+    "verseAfter": " ἐπὶ πᾶσιν"
   },
   {
     "reference": "Luke 15:5",
     "word": "χαίρων",
-    "verse": "ὤμους αὐτοῦ χαίρων "
+    "verse": "ὤμους αὐτοῦ χαίρων ",
+    "verseBefore": "ὤμους αὐτοῦ ",
+    "verseAfter": " "
   },
   {
     "reference": "Luke 15:32",
     "word": "χαρῆναι",
-    "verse": "δὲ καὶ χαρῆναι ἔδει ὅτι"
+    "verse": "δὲ καὶ χαρῆναι ἔδει ὅτι",
+    "verseBefore": "δὲ καὶ ",
+    "verseAfter": " ἔδει ὅτι"
   },
   {
     "reference": "Luke 19:6",
     "word": "χαίρων",
-    "verse": "ὑπεδέξατο αὐτὸν χαίρων "
+    "verse": "ὑπεδέξατο αὐτὸν χαίρων ",
+    "verseBefore": "ὑπεδέξατο αὐτὸν ",
+    "verseAfter": " "
   },
   {
     "reference": "Luke 19:37",
     "word": "χαίροντες",
-    "verse": "τῶν μαθητῶν χαίροντες αἰνεῖν τὸν"
+    "verse": "τῶν μαθητῶν χαίροντες αἰνεῖν τὸν",
+    "verseBefore": "τῶν μαθητῶν ",
+    "verseAfter": " αἰνεῖν τὸν"
   },
   {
     "reference": "Luke 22:5",
     "word": "ἐχάρησαν",
-    "verse": "καὶ ἐχάρησαν καὶ συνέθεντο"
+    "verse": "καὶ ἐχάρησαν καὶ συνέθεντο",
+    "verseBefore": "καὶ ",
+    "verseAfter": " καὶ συνέθεντο"
   },
   {
     "reference": "Luke 23:8",
     "word": "ἐχάρη",
-    "verse": "τὸν Ἰησοῦν ἐχάρη λίαν ἦν"
+    "verse": "τὸν Ἰησοῦν ἐχάρη λίαν ἦν",
+    "verseBefore": "τὸν Ἰησοῦν ",
+    "verseAfter": " λίαν ἦν"
   },
   {
     "reference": "John 3:29",
     "word": "χαίρει",
-    "verse": "αὐτοῦ χαρᾷ χαίρει διὰ τὴν"
+    "verse": "αὐτοῦ χαρᾷ χαίρει διὰ τὴν",
+    "verseBefore": "αὐτοῦ χαρᾷ ",
+    "verseAfter": " διὰ τὴν"
   },
   {
     "reference": "John 4:36",
     "word": "χαίρῃ",
-    "verse": "σπείρων ὁμοῦ χαίρῃ καὶ ὁ"
+    "verse": "σπείρων ὁμοῦ χαίρῃ καὶ ὁ",
+    "verseBefore": "σπείρων ὁμοῦ ",
+    "verseAfter": " καὶ ὁ"
   },
   {
     "reference": "John 8:56",
     "word": "ἐχάρη",
-    "verse": "εἶδεν καὶ ἐχάρη "
+    "verse": "εἶδεν καὶ ἐχάρη ",
+    "verseBefore": "εἶδεν καὶ ",
+    "verseAfter": " "
   },
   {
     "reference": "John 11:15",
     "word": "χαίρω",
-    "verse": "καὶ χαίρω δι' ὑμᾶς"
+    "verse": "καὶ χαίρω δι' ὑμᾶς",
+    "verseBefore": "καὶ ",
+    "verseAfter": " δι' ὑμᾶς"
   },
   {
     "reference": "John 14:28",
     "word": "ἐχάρητε",
-    "verse": "ἠγαπᾶτέ με ἐχάρητε ἄν ὅτι"
+    "verse": "ἠγαπᾶτέ με ἐχάρητε ἄν ὅτι",
+    "verseBefore": "ἠγαπᾶτέ με ",
+    "verseAfter": " ἄν ὅτι"
   },
   {
     "reference": "John 16:20",
     "word": "χαρήσεται",
-    "verse": "δὲ κόσμος χαρήσεται ὑμεῖς λυπηθήσεσθε"
+    "verse": "δὲ κόσμος χαρήσεται ὑμεῖς λυπηθήσεσθε",
+    "verseBefore": "δὲ κόσμος ",
+    "verseAfter": " ὑμεῖς λυπηθήσεσθε"
   },
   {
     "reference": "John 16:22",
     "word": "χαρήσεται",
-    "verse": "ὑμᾶς καὶ χαρήσεται ὑμῶν ἡ"
+    "verse": "ὑμᾶς καὶ χαρήσεται ὑμῶν ἡ",
+    "verseBefore": "ὑμᾶς καὶ ",
+    "verseAfter": " ὑμῶν ἡ"
   },
   {
     "reference": "John 19:3",
     "word": "Χαῖρε",
-    "verse": "καὶ ἔλεγον Χαῖρε ὁ βασιλεὺς"
+    "verse": "καὶ ἔλεγον Χαῖρε ὁ βασιλεὺς",
+    "verseBefore": "καὶ ἔλεγον ",
+    "verseAfter": " ὁ βασιλεὺς"
   },
   {
     "reference": "John 20:20",
     "word": "ἐχάρησαν",
-    "verse": "πλευρὰν αὐτοῖς ἐχάρησαν οὖν οἱ"
+    "verse": "πλευρὰν αὐτοῖς ἐχάρησαν οὖν οἱ",
+    "verseBefore": "πλευρὰν αὐτοῖς ",
+    "verseAfter": " οὖν οἱ"
   },
   {
     "reference": "Acts 5:41",
     "word": "χαίροντες",
-    "verse": "οὖν ἐπορεύοντο χαίροντες ἀπὸ προσώπου"
+    "verse": "οὖν ἐπορεύοντο χαίροντες ἀπὸ προσώπου",
+    "verseBefore": "οὖν ἐπορεύοντο ",
+    "verseAfter": " ἀπὸ προσώπου"
   },
   {
     "reference": "Acts 8:39",
     "word": "χαίρων",
-    "verse": "ὁδὸν αὐτοῦ χαίρων "
+    "verse": "ὁδὸν αὐτοῦ χαίρων ",
+    "verseBefore": "ὁδὸν αὐτοῦ ",
+    "verseAfter": " "
   },
   {
     "reference": "Acts 11:23",
     "word": "ἐχάρη",
-    "verse": "τοῦ θεοῦ ἐχάρη καὶ παρεκάλει"
+    "verse": "τοῦ θεοῦ ἐχάρη καὶ παρεκάλει",
+    "verseBefore": "τοῦ θεοῦ ",
+    "verseAfter": " καὶ παρεκάλει"
   },
   {
     "reference": "Acts 13:48",
     "word": "ἔχαιρον",
-    "verse": "τὰ ἔθνη ἔχαιρον καὶ ἐδόξαζον"
+    "verse": "τὰ ἔθνη ἔχαιρον καὶ ἐδόξαζον",
+    "verseBefore": "τὰ ἔθνη ",
+    "verseAfter": " καὶ ἐδόξαζον"
   },
   {
     "reference": "Acts 15:23",
     "word": "χαίρειν",
-    "verse": "ἐξ ἐθνῶν χαίρειν "
+    "verse": "ἐξ ἐθνῶν χαίρειν ",
+    "verseBefore": "ἐξ ἐθνῶν ",
+    "verseAfter": " "
   },
   {
     "reference": "Acts 15:31",
     "word": "ἐχάρησαν",
-    "verse": "ἀναγνόντες δὲ ἐχάρησαν ἐπὶ τῇ"
+    "verse": "ἀναγνόντες δὲ ἐχάρησαν ἐπὶ τῇ",
+    "verseBefore": "ἀναγνόντες δὲ ",
+    "verseAfter": " ἐπὶ τῇ"
   },
   {
     "reference": "Acts 23:26",
     "word": "χαίρειν",
-    "verse": "ἡγεμόνι Φήλικι χαίρειν "
+    "verse": "ἡγεμόνι Φήλικι χαίρειν ",
+    "verseBefore": "ἡγεμόνι Φήλικι ",
+    "verseAfter": " "
   },
   {
     "reference": "Romans 12:12",
     "word": "χαίροντες",
-    "verse": "τῇ ἐλπίδι χαίροντες τῇ θλίψει"
+    "verse": "τῇ ἐλπίδι χαίροντες τῇ θλίψει",
+    "verseBefore": "τῇ ἐλπίδι ",
+    "verseAfter": " τῇ θλίψει"
   },
   {
     "reference": "Romans 12:15",
     "word": "χαίρειν",
-    "verse": "χαίρειν μετὰ χαιρόντων"
+    "verse": "χαίρειν μετὰ χαιρόντων",
+    "verseBefore": "",
+    "verseAfter": " μετὰ χαιρόντων"
   },
   {
     "reference": "Romans 12:15",
     "word": "χαιρόντων",
-    "verse": "χαίρειν μετὰ χαιρόντων κλαίειν μετὰ"
+    "verse": "χαίρειν μετὰ χαιρόντων κλαίειν μετὰ",
+    "verseBefore": "χαίρειν μετὰ ",
+    "verseAfter": " κλαίειν μετὰ"
   },
   {
     "reference": "Romans 16:19",
     "word": "χαίρω",
-    "verse": "ὑμῖν οὖν χαίρω θέλω δὲ"
+    "verse": "ὑμῖν οὖν χαίρω θέλω δὲ",
+    "verseBefore": "ὑμῖν οὖν ",
+    "verseAfter": " θέλω δὲ"
   },
   {
     "reference": "1 Corinthians 7:30",
     "word": "χαίροντες",
-    "verse": "καὶ οἱ χαίροντες ὡς μὴ"
+    "verse": "καὶ οἱ χαίροντες ὡς μὴ",
+    "verseBefore": "καὶ οἱ ",
+    "verseAfter": " ὡς μὴ"
   },
   {
     "reference": "1 Corinthians 7:30",
     "word": "χαίροντες",
-    "verse": "ὡς μὴ χαίροντες καὶ οἱ"
+    "verse": "ὡς μὴ χαίροντες καὶ οἱ",
+    "verseBefore": "ὡς μὴ ",
+    "verseAfter": " καὶ οἱ"
   },
   {
     "reference": "1 Corinthians 13:6",
     "word": "χαίρει",
-    "verse": "οὐ χαίρει ἐπὶ τῇ"
+    "verse": "οὐ χαίρει ἐπὶ τῇ",
+    "verseBefore": "οὐ ",
+    "verseAfter": " ἐπὶ τῇ"
   },
   {
     "reference": "1 Corinthians 16:17",
     "word": "χαίρω",
-    "verse": "χαίρω δὲ ἐπὶ"
+    "verse": "χαίρω δὲ ἐπὶ",
+    "verseBefore": "",
+    "verseAfter": " δὲ ἐπὶ"
   },
   {
     "reference": "2 Corinthians 2:3",
     "word": "χαίρειν",
-    "verse": "ἔδει με χαίρειν πεποιθὼς ἐπὶ"
+    "verse": "ἔδει με χαίρειν πεποιθὼς ἐπὶ",
+    "verseBefore": "ἔδει με ",
+    "verseAfter": " πεποιθὼς ἐπὶ"
   },
   {
     "reference": "2 Corinthians 6:10",
     "word": "χαίροντες",
-    "verse": "ἀεὶ δὲ χαίροντες ὡς πτωχοὶ"
+    "verse": "ἀεὶ δὲ χαίροντες ὡς πτωχοὶ",
+    "verseBefore": "ἀεὶ δὲ ",
+    "verseAfter": " ὡς πτωχοὶ"
   },
   {
     "reference": "2 Corinthians 7:7",
     "word": "χαρῆναι",
-    "verse": "με μᾶλλον χαρῆναι "
+    "verse": "με μᾶλλον χαρῆναι ",
+    "verseBefore": "με μᾶλλον ",
+    "verseAfter": " "
   },
   {
     "reference": "2 Corinthians 7:9",
     "word": "χαίρω",
-    "verse": "νῦν χαίρω οὐχ ὅτι"
+    "verse": "νῦν χαίρω οὐχ ὅτι",
+    "verseBefore": "νῦν ",
+    "verseAfter": " οὐχ ὅτι"
   },
   {
     "reference": "2 Corinthians 7:13",
     "word": "ἐχάρημεν",
-    "verse": "περισσοτέρως μᾶλλον ἐχάρημεν ἐπὶ τῇ"
+    "verse": "περισσοτέρως μᾶλλον ἐχάρημεν ἐπὶ τῇ",
+    "verseBefore": "περισσοτέρως μᾶλλον ",
+    "verseAfter": " ἐπὶ τῇ"
   },
   {
     "reference": "2 Corinthians 7:16",
     "word": "Χαίρω",
-    "verse": "Χαίρω ὅτι ἐν"
+    "verse": "Χαίρω ὅτι ἐν",
+    "verseBefore": "",
+    "verseAfter": " ὅτι ἐν"
   },
   {
     "reference": "2 Corinthians 13:9",
     "word": "χαίρομεν",
-    "verse": "χαίρομεν γὰρ ὅταν"
+    "verse": "χαίρομεν γὰρ ὅταν",
+    "verseBefore": "",
+    "verseAfter": " γὰρ ὅταν"
   },
   {
     "reference": "2 Corinthians 13:11",
     "word": "χαίρετε",
-    "verse": "Λοιπόν ἀδελφοί χαίρετε καταρτίζεσθε παρακαλεῖσθε"
+    "verse": "Λοιπόν ἀδελφοί χαίρετε καταρτίζεσθε παρακαλεῖσθε",
+    "verseBefore": "Λοιπόν ἀδελφοί ",
+    "verseAfter": " καταρτίζεσθε παρακαλεῖσθε"
   },
   {
     "reference": "Philippians 1:18",
     "word": "χαίρω",
-    "verse": "ἐν τούτῳ χαίρω ἀλλὰ καὶ"
+    "verse": "ἐν τούτῳ χαίρω ἀλλὰ καὶ",
+    "verseBefore": "ἐν τούτῳ ",
+    "verseAfter": " ἀλλὰ καὶ"
   },
   {
     "reference": "Philippians 1:18",
     "word": "χαρήσομαι",
-    "verse": "ἀλλὰ καὶ χαρήσομαι "
+    "verse": "ἀλλὰ καὶ χαρήσομαι ",
+    "verseBefore": "ἀλλὰ καὶ ",
+    "verseAfter": " "
   },
   {
     "reference": "Philippians 2:17",
     "word": "χαίρω",
-    "verse": "πίστεως ὑμῶν χαίρω καὶ συνχαίρω"
+    "verse": "πίστεως ὑμῶν χαίρω καὶ συνχαίρω",
+    "verseBefore": "πίστεως ὑμῶν ",
+    "verseAfter": ""
   },
   {
     "reference": "Philippians 2:18",
     "word": "χαίρετε",
-    "verse": "καὶ ὑμεῖς χαίρετε καὶ συνχαίρετέ"
+    "verse": "καὶ ὑμεῖς χαίρετε καὶ συνχαίρετέ",
+    "verseBefore": "καὶ ὑμεῖς ",
+    "verseAfter": " καὶ συνχαίρετέ"
   },
   {
     "reference": "Philippians 2:28",
     "word": "χαρῆτε",
-    "verse": "αὐτὸν πάλιν χαρῆτε κἀγὼ ἀλυπότερος"
+    "verse": "αὐτὸν πάλιν χαρῆτε κἀγὼ ἀλυπότερος",
+    "verseBefore": "αὐτὸν πάλιν ",
+    "verseAfter": " κἀγὼ ἀλυπότερος"
   },
   {
     "reference": "Philippians 3:1",
     "word": "χαίρετε",
-    "verse": "ἀδελφοί μου χαίρετε ἐν κυρίῳ"
+    "verse": "ἀδελφοί μου χαίρετε ἐν κυρίῳ",
+    "verseBefore": "ἀδελφοί μου ",
+    "verseAfter": " ἐν κυρίῳ"
   },
   {
     "reference": "Philippians 4:4",
     "word": "Χαίρετε",
-    "verse": "Χαίρετε ἐν κυρίῳ"
+    "verse": "Χαίρετε ἐν κυρίῳ",
+    "verseBefore": "",
+    "verseAfter": " ἐν κυρίῳ"
   },
   {
     "reference": "Philippians 4:4",
     "word": "χαίρετε",
-    "verse": "πάλιν ἐρῶ χαίρετε "
+    "verse": "πάλιν ἐρῶ χαίρετε ",
+    "verseBefore": "πάλιν ἐρῶ ",
+    "verseAfter": " "
   },
   {
     "reference": "Philippians 4:10",
     "word": "Ἐχάρην",
-    "verse": "Ἐχάρην δὲ ἐν"
+    "verse": "Ἐχάρην δὲ ἐν",
+    "verseBefore": "",
+    "verseAfter": " δὲ ἐν"
   },
   {
     "reference": "Colossians 1:24",
     "word": "χαίρω",
-    "verse": "Νῦν χαίρω ἐν τοῖς"
+    "verse": "Νῦν χαίρω ἐν τοῖς",
+    "verseBefore": "Νῦν ",
+    "verseAfter": " ἐν τοῖς"
   },
   {
     "reference": "Colossians 2:5",
     "word": "χαίρων",
-    "verse": "ὑμῖν εἰμί χαίρων καὶ βλέπων"
+    "verse": "ὑμῖν εἰμί χαίρων καὶ βλέπων",
+    "verseBefore": "ὑμῖν εἰμί ",
+    "verseAfter": " καὶ βλέπων"
   },
   {
     "reference": "1 Thessalonians 3:9",
     "word": "χαίρομεν",
-    "verse": "χαρᾷ ᾗ χαίρομεν δι' ὑμᾶς"
+    "verse": "χαρᾷ ᾗ χαίρομεν δι' ὑμᾶς",
+    "verseBefore": "χαρᾷ ᾗ ",
+    "verseAfter": " δι' ὑμᾶς"
   },
   {
     "reference": "1 Thessalonians 5:16",
     "word": "χαίρετε",
-    "verse": "Πάντοτε χαίρετε "
+    "verse": "Πάντοτε χαίρετε ",
+    "verseBefore": "Πάντοτε ",
+    "verseAfter": " "
   },
   {
     "reference": "James 1:1",
     "word": "χαίρειν",
-    "verse": "τῇ διασπορᾷ χαίρειν "
+    "verse": "τῇ διασπορᾷ χαίρειν ",
+    "verseBefore": "τῇ διασπορᾷ ",
+    "verseAfter": " "
   },
   {
     "reference": "1 Peter 4:13",
     "word": "χαίρετε",
-    "verse": "Χριστοῦ παθήμασιν χαίρετε ἵνα καὶ"
+    "verse": "Χριστοῦ παθήμασιν χαίρετε ἵνα καὶ",
+    "verseBefore": "Χριστοῦ παθήμασιν ",
+    "verseAfter": " ἵνα καὶ"
   },
   {
     "reference": "1 Peter 4:13",
     "word": "χαρῆτε",
-    "verse": "δόξης αὐτοῦ χαρῆτε ἀγαλλιώμενοι "
+    "verse": "δόξης αὐτοῦ χαρῆτε ἀγαλλιώμενοι ",
+    "verseBefore": "δόξης αὐτοῦ ",
+    "verseAfter": " ἀγαλλιώμενοι "
   },
   {
     "reference": "2 John 1:4",
     "word": "Ἐχάρην",
-    "verse": "Ἐχάρην λίαν ὅτι"
+    "verse": "Ἐχάρην λίαν ὅτι",
+    "verseBefore": "",
+    "verseAfter": " λίαν ὅτι"
   },
   {
     "reference": "2 John 1:10",
     "word": "χαίρειν",
-    "verse": "οἰκίαν καὶ χαίρειν αὐτῷ μὴ"
+    "verse": "οἰκίαν καὶ χαίρειν αὐτῷ μὴ",
+    "verseBefore": "οἰκίαν καὶ ",
+    "verseAfter": " αὐτῷ μὴ"
   },
   {
     "reference": "2 John 1:11",
     "word": "χαίρειν",
-    "verse": "γὰρ αὐτῷ χαίρειν κοινωνεῖ τοῖς"
+    "verse": "γὰρ αὐτῷ χαίρειν κοινωνεῖ τοῖς",
+    "verseBefore": "γὰρ αὐτῷ ",
+    "verseAfter": " κοινωνεῖ τοῖς"
   },
   {
     "reference": "3 John 1:3",
     "word": "ἐχάρην",
-    "verse": "ἐχάρην γὰρ λίαν"
+    "verse": "ἐχάρην γὰρ λίαν",
+    "verseBefore": "",
+    "verseAfter": " γὰρ λίαν"
   },
   {
     "reference": "Revelation 11:10",
     "word": "χαίρουσιν",
-    "verse": "τῆς γῆς χαίρουσιν ἐπ' αὐτοῖς"
+    "verse": "τῆς γῆς χαίρουσιν ἐπ' αὐτοῖς",
+    "verseBefore": "τῆς γῆς ",
+    "verseAfter": " ἐπ' αὐτοῖς"
   },
   {
     "reference": "Revelation 19:7",
     "word": "χαίρωμεν",
-    "verse": "χαίρωμεν καὶ ἀγαλλιῶμεν"
+    "verse": "χαίρωμεν καὶ ἀγαλλιῶμεν",
+    "verseBefore": "",
+    "verseAfter": " καὶ ἀγαλλιῶμεν"
   }
 ]

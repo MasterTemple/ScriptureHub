@@ -2,11 +2,15 @@
   {
     "reference": "2 Thessalonians 1:10",
     "word": "ἐνδοξασθῆναι",
-    "verse": "ὅταν ἔλθῃ ἐνδοξασθῆναι ἐν τοῖς"
+    "verse": "ὅταν ἔλθῃ ἐνδοξασθῆναι ἐν τοῖς",
+    "verseBefore": "ὅταν ἔλθῃ ",
+    "verseAfter": " ἐν τοῖς"
   },
   {
     "reference": "2 Thessalonians 1:12",
     "word": "ἐνδοξασθῇ",
-    "verse": "ὅπως ἐνδοξασθῇ τὸ ὄνομα"
+    "verse": "ὅπως ἐνδοξασθῇ τὸ ὄνομα",
+    "verseBefore": "ὅπως ",
+    "verseAfter": " τὸ ὄνομα"
   }
 ]

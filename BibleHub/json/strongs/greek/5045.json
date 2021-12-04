@@ -2,11 +2,15 @@
   {
     "reference": "Matthew 13:55",
     "word": "τέκτονος",
-    "verse": "ὁ τοῦ τέκτονος υἱός οὐχ"
+    "verse": "ὁ τοῦ τέκτονος υἱός οὐχ",
+    "verseBefore": "ὁ τοῦ ",
+    "verseAfter": " υἱός οὐχ"
   },
   {
     "reference": "Mark 6:3",
     "word": "τέκτων",
-    "verse": "ἐστιν ὁ τέκτων ὁ υἱὸς"
+    "verse": "ἐστιν ὁ τέκτων ὁ υἱὸς",
+    "verseBefore": "ἐστιν ὁ ",
+    "verseAfter": " ὁ υἱὸς"
   }
 ]

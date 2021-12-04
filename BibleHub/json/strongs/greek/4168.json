@@ -2,26 +2,36 @@
   {
     "reference": "Luke 12:32",
     "word": "ποίμνιον",
-    "verse": "τὸ μικρὸν ποίμνιον ὅτι εὐδόκησεν"
+    "verse": "τὸ μικρὸν ποίμνιον ὅτι εὐδόκησεν",
+    "verseBefore": "τὸ μικρὸν ",
+    "verseAfter": " ὅτι εὐδόκησεν"
   },
   {
     "reference": "Acts 20:28",
     "word": "ποιμνίῳ",
-    "verse": "παντὶ τῷ ποιμνίῳ ἐν ᾧ"
+    "verse": "παντὶ τῷ ποιμνίῳ ἐν ᾧ",
+    "verseBefore": "παντὶ τῷ ",
+    "verseAfter": " ἐν ᾧ"
   },
   {
     "reference": "Acts 20:29",
     "word": "ποιμνίου",
-    "verse": "φειδόμενοι τοῦ ποιμνίου "
+    "verse": "φειδόμενοι τοῦ ποιμνίου ",
+    "verseBefore": "φειδόμενοι τοῦ ",
+    "verseAfter": " "
   },
   {
     "reference": "1 Peter 5:2",
     "word": "ποίμνιον",
-    "verse": "ἐν ὑμῖν ποίμνιον τοῦ θεοῦ"
+    "verse": "ἐν ὑμῖν ποίμνιον τοῦ θεοῦ",
+    "verseBefore": "ἐν ὑμῖν ",
+    "verseAfter": " τοῦ θεοῦ"
   },
   {
     "reference": "1 Peter 5:3",
     "word": "ποιμνίου",
-    "verse": "γινόμενοι τοῦ ποιμνίου "
+    "verse": "γινόμενοι τοῦ ποιμνίου ",
+    "verseBefore": "γινόμενοι τοῦ ",
+    "verseAfter": " "
   }
 ]

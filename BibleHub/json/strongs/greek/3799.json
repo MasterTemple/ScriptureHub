@@ -2,16 +2,22 @@
   {
     "reference": "John 7:24",
     "word": "ὄψιν",
-    "verse": "κρίνετε κατ' ὄψιν ἀλλὰ τὴν"
+    "verse": "κρίνετε κατ' ὄψιν ἀλλὰ τὴν",
+    "verseBefore": "κρίνετε κατ' ",
+    "verseAfter": " ἀλλὰ τὴν"
   },
   {
     "reference": "John 11:44",
     "word": "ὄψις",
-    "verse": "καὶ ἡ ὄψις αὐτοῦ σουδαρίῳ"
+    "verse": "καὶ ἡ ὄψις αὐτοῦ σουδαρίῳ",
+    "verseBefore": "καὶ ἡ ",
+    "verseAfter": " αὐτοῦ σουδαρίῳ"
   },
   {
     "reference": "Revelation 1:16",
     "word": "ὄψις",
-    "verse": "καὶ ἡ ὄψις αὐτοῦ ὡς"
+    "verse": "καὶ ἡ ὄψις αὐτοῦ ὡς",
+    "verseBefore": "καὶ ἡ ",
+    "verseAfter": " αὐτοῦ ὡς"
   }
 ]

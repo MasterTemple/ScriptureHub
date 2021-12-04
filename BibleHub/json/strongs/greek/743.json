@@ -2,11 +2,15 @@
   {
     "reference": "1 Thessalonians 4:16",
     "word": "ἀρχαγγέλου",
-    "verse": "ἐν φωνῇ ἀρχαγγέλου καὶ ἐν"
+    "verse": "ἐν φωνῇ ἀρχαγγέλου καὶ ἐν",
+    "verseBefore": "ἐν φωνῇ ",
+    "verseAfter": " καὶ ἐν"
   },
   {
     "reference": "Jude 1:9",
     "word": "ἀρχάγγελος",
-    "verse": "Μιχαὴλ ὁ ἀρχάγγελος ὅτε τῷ"
+    "verse": "Μιχαὴλ ὁ ἀρχάγγελος ὅτε τῷ",
+    "verseBefore": "Μιχαὴλ ὁ ",
+    "verseAfter": " ὅτε τῷ"
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "Acts 22:22",
     "word": "καθῆκεν",
-    "verse": "οὐ γὰρ καθῆκεν αὐτὸν ζῇν"
+    "verse": "οὐ γὰρ καθῆκεν αὐτὸν ζῇν",
+    "verseBefore": "οὐ γὰρ ",
+    "verseAfter": " αὐτὸν ζῇν"
   },
   {
     "reference": "Romans 1:28",
     "word": "καθήκοντα",
-    "verse": "τὰ μὴ καθήκοντα "
+    "verse": "τὰ μὴ καθήκοντα ",
+    "verseBefore": "τὰ μὴ ",
+    "verseAfter": " "
   }
 ]

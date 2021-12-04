@@ -2,21 +2,29 @@
   {
     "reference": "Matthew 18:21",
     "word": "ἑπτάκις",
-    "verse": "αὐτῷ ἕως ἑπτάκις "
+    "verse": "αὐτῷ ἕως ἑπτάκις ",
+    "verseBefore": "αὐτῷ ἕως ",
+    "verseAfter": " "
   },
   {
     "reference": "Matthew 18:22",
     "word": "ἑπτάκις",
-    "verse": "σοι ἕως ἑπτάκις ἀλλὰ ἕως"
+    "verse": "σοι ἕως ἑπτάκις ἀλλὰ ἕως",
+    "verseBefore": "σοι ἕως ",
+    "verseAfter": " ἀλλὰ ἕως"
   },
   {
     "reference": "Luke 17:4",
     "word": "ἑπτάκις",
-    "verse": "καὶ ἐὰν ἑπτάκις τῆς ἡμέρας"
+    "verse": "καὶ ἐὰν ἑπτάκις τῆς ἡμέρας",
+    "verseBefore": "καὶ ἐὰν ",
+    "verseAfter": " τῆς ἡμέρας"
   },
   {
     "reference": "Luke 17:4",
     "word": "ἑπτάκις",
-    "verse": "σὲ καὶ ἑπτάκις ἐπιστρέψῃ πρὸς"
+    "verse": "σὲ καὶ ἑπτάκις ἐπιστρέψῃ πρὸς",
+    "verseBefore": "σὲ καὶ ",
+    "verseAfter": " ἐπιστρέψῃ πρὸς"
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "1 Corinthians 2:1",
     "word": "ὑπεροχὴν",
-    "verse": "οὐ καθ' ὑπεροχὴν λόγου ἢ"
+    "verse": "οὐ καθ' ὑπεροχὴν λόγου ἢ",
+    "verseBefore": "οὐ καθ' ",
+    "verseAfter": " λόγου ἢ"
   },
   {
     "reference": "1 Timothy 2:2",
     "word": "ὑπεροχῇ",
-    "verse": "τῶν ἐν ὑπεροχῇ ὄντων ἵνα"
+    "verse": "τῶν ἐν ὑπεροχῇ ὄντων ἵνα",
+    "verseBefore": "τῶν ἐν ",
+    "verseAfter": " ὄντων ἵνα"
   }
 ]

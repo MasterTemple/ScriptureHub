@@ -2,31 +2,43 @@
   {
     "reference": "Luke 16:8",
     "word": "ἐπῄνεσεν",
-    "verse": "καὶ ἐπῄνεσεν ὁ κύριος"
+    "verse": "καὶ ἐπῄνεσεν ὁ κύριος",
+    "verseBefore": "καὶ ",
+    "verseAfter": " ὁ κύριος"
   },
   {
     "reference": "Romans 15:11",
     "word": "ἐπαινεσάτωσαν",
-    "verse": "κύριον καὶ ἐπαινεσάτωσαν αὐτὸν πάντες"
+    "verse": "κύριον καὶ ἐπαινεσάτωσαν αὐτὸν πάντες",
+    "verseBefore": "κύριον καὶ ",
+    "verseAfter": " αὐτὸν πάντες"
   },
   {
     "reference": "1 Corinthians 11:2",
     "word": "Ἐπαινῶ",
-    "verse": "Ἐπαινῶ δὲ ὑμᾶς"
+    "verse": "Ἐπαινῶ δὲ ὑμᾶς",
+    "verseBefore": "",
+    "verseAfter": " δὲ ὑμᾶς"
   },
   {
     "reference": "1 Corinthians 11:17",
     "word": "ἐπαινῶ",
-    "verse": "παραγγέλλων οὐκ ἐπαινῶ ὅτι οὐκ"
+    "verse": "παραγγέλλων οὐκ ἐπαινῶ ὅτι οὐκ",
+    "verseBefore": "παραγγέλλων οὐκ ",
+    "verseAfter": " ὅτι οὐκ"
   },
   {
     "reference": "1 Corinthians 11:22",
     "word": "ἐπαινέσω",
-    "verse": "εἴπω ὑμῖν ἐπαινέσω ὑμᾶς ἐν"
+    "verse": "εἴπω ὑμῖν ἐπαινέσω ὑμᾶς ἐν",
+    "verseBefore": "εἴπω ὑμῖν ",
+    "verseAfter": " ὑμᾶς ἐν"
   },
   {
     "reference": "1 Corinthians 11:22",
     "word": "ἐπαινῶ",
-    "verse": "τούτῳ οὐκ ἐπαινῶ "
+    "verse": "τούτῳ οὐκ ἐπαινῶ ",
+    "verseBefore": "τούτῳ οὐκ ",
+    "verseAfter": " "
   }
 ]

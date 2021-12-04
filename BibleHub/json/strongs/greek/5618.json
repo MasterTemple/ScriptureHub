@@ -2,181 +2,253 @@
   {
     "reference": "Matthew 6:2",
     "word": "ὥσπερ",
-    "verse": "ἔμπροσθέν σου ὥσπερ οἱ ὑποκριταὶ"
+    "verse": "ἔμπροσθέν σου ὥσπερ οἱ ὑποκριταὶ",
+    "verseBefore": "ἔμπροσθέν σου ",
+    "verseAfter": " οἱ ὑποκριταὶ"
   },
   {
     "reference": "Matthew 6:7",
     "word": "ὥσπερ",
-    "verse": "μὴ βατταλογήσητε ὥσπερ οἱ ἐθνικοί"
+    "verse": "μὴ βατταλογήσητε ὥσπερ οἱ ἐθνικοί",
+    "verseBefore": "μὴ βατταλογήσητε ",
+    "verseAfter": " οἱ ἐθνικοί"
   },
   {
     "reference": "Matthew 12:40",
     "word": "ὥσπερ",
-    "verse": "ὥσπερ γὰρ ἦν"
+    "verse": "ὥσπερ γὰρ ἦν",
+    "verseBefore": "",
+    "verseAfter": " γὰρ ἦν"
   },
   {
     "reference": "Matthew 13:40",
     "word": "ὥσπερ",
-    "verse": "ὥσπερ οὖν συλλέγεται"
+    "verse": "ὥσπερ οὖν συλλέγεται",
+    "verseBefore": "",
+    "verseAfter": " οὖν συλλέγεται"
   },
   {
     "reference": "Matthew 18:17",
     "word": "ὥσπερ",
-    "verse": "ἔστω σοι ὥσπερ ὁ ἐθνικὸς"
+    "verse": "ἔστω σοι ὥσπερ ὁ ἐθνικὸς",
+    "verseBefore": "ἔστω σοι ",
+    "verseAfter": " ὁ ἐθνικὸς"
   },
   {
     "reference": "Matthew 20:28",
     "word": "ὥσπερ",
-    "verse": "ὥσπερ ὁ υἱὸς"
+    "verse": "ὥσπερ ὁ υἱὸς",
+    "verseBefore": "",
+    "verseAfter": " ὁ υἱὸς"
   },
   {
     "reference": "Matthew 24:27",
     "word": "ὥσπερ",
-    "verse": "ὥσπερ γὰρ ἡ"
+    "verse": "ὥσπερ γὰρ ἡ",
+    "verseBefore": "",
+    "verseAfter": " γὰρ ἡ"
   },
   {
     "reference": "Matthew 24:37",
     "word": "ὥσπερ",
-    "verse": "ὥσπερ γὰρ αἱ"
+    "verse": "ὥσπερ γὰρ αἱ",
+    "verseBefore": "",
+    "verseAfter": " γὰρ αἱ"
   },
   {
     "reference": "Matthew 25:14",
     "word": "Ὥσπερ",
-    "verse": "Ὥσπερ γὰρ ἄνθρωπος"
+    "verse": "Ὥσπερ γὰρ ἄνθρωπος",
+    "verseBefore": "",
+    "verseAfter": " γὰρ ἄνθρωπος"
   },
   {
     "reference": "Matthew 25:32",
     "word": "ὥσπερ",
-    "verse": "ἀπ' ἀλλήλων ὥσπερ ὁ ποιμὴν"
+    "verse": "ἀπ' ἀλλήλων ὥσπερ ὁ ποιμὴν",
+    "verseBefore": "ἀπ' ἀλλήλων ",
+    "verseAfter": " ὁ ποιμὴν"
   },
   {
     "reference": "Luke 17:24",
     "word": "ὥσπερ",
-    "verse": "ὥσπερ γὰρ ἡ"
+    "verse": "ὥσπερ γὰρ ἡ",
+    "verseBefore": "",
+    "verseAfter": " γὰρ ἡ"
   },
   {
     "reference": "Luke 18:11",
     "word": "ὥσπερ",
-    "verse": "οὐκ εἰμὶ ὥσπερ οἱ λοιποὶ"
+    "verse": "οὐκ εἰμὶ ὥσπερ οἱ λοιποὶ",
+    "verseBefore": "οὐκ εἰμὶ ",
+    "verseAfter": " οἱ λοιποὶ"
   },
   {
     "reference": "John 5:21",
     "word": "ὥσπερ",
-    "verse": "ὥσπερ γὰρ ὁ"
+    "verse": "ὥσπερ γὰρ ὁ",
+    "verseBefore": "",
+    "verseAfter": " γὰρ ὁ"
   },
   {
     "reference": "John 5:26",
     "word": "ὥσπερ",
-    "verse": "ὥσπερ γὰρ ὁ"
+    "verse": "ὥσπερ γὰρ ὁ",
+    "verseBefore": "",
+    "verseAfter": " γὰρ ὁ"
   },
   {
     "reference": "Acts 2:2",
     "word": "ὥσπερ",
-    "verse": "οὐρανοῦ ἦχος ὥσπερ φερομένης πνοῆς"
+    "verse": "οὐρανοῦ ἦχος ὥσπερ φερομένης πνοῆς",
+    "verseBefore": "οὐρανοῦ ἦχος ",
+    "verseAfter": " φερομένης πνοῆς"
   },
   {
     "reference": "Acts 3:17",
     "word": "ὥσπερ",
-    "verse": "ἄγνοιαν ἐπράξατε ὥσπερ καὶ οἱ"
+    "verse": "ἄγνοιαν ἐπράξατε ὥσπερ καὶ οἱ",
+    "verseBefore": "ἄγνοιαν ἐπράξατε ",
+    "verseAfter": " καὶ οἱ"
   },
   {
     "reference": "Acts 11:15",
     "word": "ὥσπερ",
-    "verse": "ἐπ' αὐτοὺς ὥσπερ καὶ ἐφ'"
+    "verse": "ἐπ' αὐτοὺς ὥσπερ καὶ ἐφ'",
+    "verseBefore": "ἐπ' αὐτοὺς ",
+    "verseAfter": " καὶ ἐφ'"
   },
   {
     "reference": "Romans 5:12",
     "word": "ὥσπερ",
-    "verse": "Διὰ τοῦτο ὥσπερ δι' ἑνὸς"
+    "verse": "Διὰ τοῦτο ὥσπερ δι' ἑνὸς",
+    "verseBefore": "Διὰ τοῦτο ",
+    "verseAfter": " δι' ἑνὸς"
   },
   {
     "reference": "Romans 5:19",
     "word": "ὥσπερ",
-    "verse": "ὥσπερ γὰρ διὰ"
+    "verse": "ὥσπερ γὰρ διὰ",
+    "verseBefore": "",
+    "verseAfter": " γὰρ διὰ"
   },
   {
     "reference": "Romans 5:21",
     "word": "ὥσπερ",
-    "verse": "ἵνα ὥσπερ ἐβασίλευσεν ἡ"
+    "verse": "ἵνα ὥσπερ ἐβασίλευσεν ἡ",
+    "verseBefore": "ἵνα ",
+    "verseAfter": " ἐβασίλευσεν ἡ"
   },
   {
     "reference": "Romans 6:4",
     "word": "ὥσπερ",
-    "verse": "θάνατον ἵνα ὥσπερ ἠγέρθη Χριστὸς"
+    "verse": "θάνατον ἵνα ὥσπερ ἠγέρθη Χριστὸς",
+    "verseBefore": "θάνατον ἵνα ",
+    "verseAfter": " ἠγέρθη Χριστὸς"
   },
   {
     "reference": "Romans 6:19",
     "word": "ὥσπερ",
-    "verse": "σαρκὸς ὑμῶν ὥσπερ γὰρ παρεστήσατε"
+    "verse": "σαρκὸς ὑμῶν ὥσπερ γὰρ παρεστήσατε",
+    "verseBefore": "σαρκὸς ὑμῶν ",
+    "verseAfter": " γὰρ παρεστήσατε"
   },
   {
     "reference": "Romans 11:30",
     "word": "ὥσπερ",
-    "verse": "ὥσπερ γὰρ ὑμεῖς"
+    "verse": "ὥσπερ γὰρ ὑμεῖς",
+    "verseBefore": "",
+    "verseAfter": " γὰρ ὑμεῖς"
   },
   {
     "reference": "1 Corinthians 8:5",
     "word": "ὥσπερ",
-    "verse": "ἐπὶ γῆς ὥσπερ εἰσὶν θεοὶ"
+    "verse": "ἐπὶ γῆς ὥσπερ εἰσὶν θεοὶ",
+    "verseBefore": "ἐπὶ γῆς ",
+    "verseAfter": " εἰσὶν θεοὶ"
   },
   {
     "reference": "1 Corinthians 10:7",
     "word": "ὥσπερ",
-    "verse": "τινες αὐτῶν ὥσπερ γέγραπται Ἐκάθισεν"
+    "verse": "τινες αὐτῶν ὥσπερ γέγραπται Ἐκάθισεν",
+    "verseBefore": "τινες αὐτῶν ",
+    "verseAfter": " γέγραπται Ἐκάθισεν"
   },
   {
     "reference": "1 Corinthians 11:12",
     "word": "ὥσπερ",
-    "verse": "ὥσπερ γὰρ ἡ"
+    "verse": "ὥσπερ γὰρ ἡ",
+    "verseBefore": "",
+    "verseAfter": " γὰρ ἡ"
   },
   {
     "reference": "1 Corinthians 15:22",
     "word": "ὥσπερ",
-    "verse": "ὥσπερ γὰρ ἐν"
+    "verse": "ὥσπερ γὰρ ἐν",
+    "verseBefore": "",
+    "verseAfter": " γὰρ ἐν"
   },
   {
     "reference": "1 Corinthians 16:1",
     "word": "ὥσπερ",
-    "verse": "τοὺς ἁγίους ὥσπερ διέταξα ταῖς"
+    "verse": "τοὺς ἁγίους ὥσπερ διέταξα ταῖς",
+    "verseBefore": "τοὺς ἁγίους ",
+    "verseAfter": " διέταξα ταῖς"
   },
   {
     "reference": "2 Corinthians 8:7",
     "word": "ὥσπερ",
-    "verse": "ἀλλ' ὥσπερ ἐν παντὶ"
+    "verse": "ἀλλ' ὥσπερ ἐν παντὶ",
+    "verseBefore": "ἀλλ' ",
+    "verseAfter": " ἐν παντὶ"
   },
   {
     "reference": "Galatians 4:29",
     "word": "ὥσπερ",
-    "verse": "ἀλλ' ὥσπερ τότε ὁ"
+    "verse": "ἀλλ' ὥσπερ τότε ὁ",
+    "verseBefore": "ἀλλ' ",
+    "verseAfter": " τότε ὁ"
   },
   {
     "reference": "1 Thessalonians 5:3",
     "word": "ὥσπερ",
-    "verse": "ἐφίσταται ὄλεθρος ὥσπερ ἡ ὠδὶν"
+    "verse": "ἐφίσταται ὄλεθρος ὥσπερ ἡ ὠδὶν",
+    "verseBefore": "ἐφίσταται ὄλεθρος ",
+    "verseAfter": " ἡ ὠδὶν"
   },
   {
     "reference": "Hebrews 4:10",
     "word": "ὥσπερ",
-    "verse": "ἔργων αὐτοῦ ὥσπερ ἀπὸ τῶν"
+    "verse": "ἔργων αὐτοῦ ὥσπερ ἀπὸ τῶν",
+    "verseBefore": "ἔργων αὐτοῦ ",
+    "verseAfter": " ἀπὸ τῶν"
   },
   {
     "reference": "Hebrews 7:27",
     "word": "ὥσπερ",
-    "verse": "ἡμέραν ἀνάγκην ὥσπερ οἱ ἀρχιερεῖς"
+    "verse": "ἡμέραν ἀνάγκην ὥσπερ οἱ ἀρχιερεῖς",
+    "verseBefore": "ἡμέραν ἀνάγκην ",
+    "verseAfter": " οἱ ἀρχιερεῖς"
   },
   {
     "reference": "Hebrews 9:25",
     "word": "ὥσπερ",
-    "verse": "προσφέρῃ ἑαυτόν ὥσπερ ὁ ἀρχιερεὺς"
+    "verse": "προσφέρῃ ἑαυτόν ὥσπερ ὁ ἀρχιερεὺς",
+    "verseBefore": "προσφέρῃ ἑαυτόν ",
+    "verseAfter": " ὁ ἀρχιερεὺς"
   },
   {
     "reference": "James 2:26",
     "word": "ὥσπερ",
-    "verse": "ὥσπερ γὰρ τὸ"
+    "verse": "ὥσπερ γὰρ τὸ",
+    "verseBefore": "",
+    "verseAfter": " γὰρ τὸ"
   },
   {
     "reference": "Revelation 10:3",
     "word": "ὥσπερ",
-    "verse": "φωνῇ μεγάλῃ ὥσπερ λέων μυκᾶται"
+    "verse": "φωνῇ μεγάλῃ ὥσπερ λέων μυκᾶται",
+    "verseBefore": "φωνῇ μεγάλῃ ",
+    "verseAfter": " λέων μυκᾶται"
   }
 ]

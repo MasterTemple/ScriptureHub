@@ -2,16 +2,22 @@
   {
     "reference": "John 1:39",
     "word": "δεκάτη",
-    "verse": "ἦν ὡς δεκάτη "
+    "verse": "ἦν ὡς δεκάτη ",
+    "verseBefore": "ἦν ὡς ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 11:13",
     "word": "δέκατον",
-    "verse": "καὶ τὸ δέκατον τῆς πόλεως"
+    "verse": "καὶ τὸ δέκατον τῆς πόλεως",
+    "verseBefore": "καὶ τὸ ",
+    "verseAfter": " τῆς πόλεως"
   },
   {
     "reference": "Revelation 21:20",
     "word": "δέκατος",
-    "verse": "τοπάζιον ὁ δέκατος χρυσόπρασος ὁ"
+    "verse": "τοπάζιον ὁ δέκατος χρυσόπρασος ὁ",
+    "verseBefore": "τοπάζιον ὁ ",
+    "verseAfter": " χρυσόπρασος ὁ"
   }
 ]

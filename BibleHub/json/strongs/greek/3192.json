@@ -2,21 +2,29 @@
   {
     "reference": "Matthew 3:4",
     "word": "μέλι",
-    "verse": "ἀκρίδες καὶ μέλι ἄγριον "
+    "verse": "ἀκρίδες καὶ μέλι ἄγριον ",
+    "verseBefore": "ἀκρίδες καὶ ",
+    "verseAfter": " ἄγριον "
   },
   {
     "reference": "Mark 1:6",
     "word": "μέλι",
-    "verse": "ἀκρίδας καὶ μέλι ἄγριον "
+    "verse": "ἀκρίδας καὶ μέλι ἄγριον ",
+    "verseBefore": "ἀκρίδας καὶ ",
+    "verseAfter": " ἄγριον "
   },
   {
     "reference": "Revelation 10:9",
     "word": "μέλι",
-    "verse": "γλυκὺ ὡς μέλι "
+    "verse": "γλυκὺ ὡς μέλι ",
+    "verseBefore": "γλυκὺ ὡς ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 10:10",
     "word": "μέλι",
-    "verse": "μου ὡς μέλι γλυκύ καὶ"
+    "verse": "μου ὡς μέλι γλυκύ καὶ",
+    "verseBefore": "μου ὡς ",
+    "verseAfter": " γλυκύ καὶ"
   }
 ]

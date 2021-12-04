@@ -2,21 +2,29 @@
   {
     "reference": "Matthew 5:34",
     "word": "ὅλως",
-    "verse": "μὴ ὀμόσαι ὅλως μήτε ἐν"
+    "verse": "μὴ ὀμόσαι ὅλως μήτε ἐν",
+    "verseBefore": "μὴ ὀμόσαι ",
+    "verseAfter": " μήτε ἐν"
   },
   {
     "reference": "1 Corinthians 5:1",
     "word": "Ὅλως",
-    "verse": "Ὅλως ἀκούεται ἐν"
+    "verse": "Ὅλως ἀκούεται ἐν",
+    "verseBefore": "",
+    "verseAfter": " ἀκούεται ἐν"
   },
   {
     "reference": "1 Corinthians 6:7",
     "word": "ὅλως",
-    "verse": "μὲν οὖν ὅλως ἥττημα ὑμῖν"
+    "verse": "μὲν οὖν ὅλως ἥττημα ὑμῖν",
+    "verseBefore": "μὲν οὖν ",
+    "verseAfter": " ἥττημα ὑμῖν"
   },
   {
     "reference": "1 Corinthians 15:29",
     "word": "ὅλως",
-    "verse": "νεκρῶν εἰ ὅλως νεκροὶ οὐκ"
+    "verse": "νεκρῶν εἰ ὅλως νεκροὶ οὐκ",
+    "verseBefore": "νεκρῶν εἰ ",
+    "verseAfter": " νεκροὶ οὐκ"
   }
 ]

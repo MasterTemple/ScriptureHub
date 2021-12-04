@@ -2,16 +2,22 @@
   {
     "reference": "Matthew 7:13",
     "word": "στενῆς",
-    "verse": "διὰ τῆς στενῆς πύλης ὅτι"
+    "verse": "διὰ τῆς στενῆς πύλης ὅτι",
+    "verseBefore": "διὰ τῆς ",
+    "verseAfter": " πύλης ὅτι"
   },
   {
     "reference": "Matthew 7:14",
     "word": "στενὴ",
-    "verse": "τί στενὴ ἡ πύλη"
+    "verse": "τί στενὴ ἡ πύλη",
+    "verseBefore": "τί ",
+    "verseAfter": " ἡ πύλη"
   },
   {
     "reference": "Luke 13:24",
     "word": "στενῆς",
-    "verse": "διὰ τῆς στενῆς θύρας ὅτι"
+    "verse": "διὰ τῆς στενῆς θύρας ὅτι",
+    "verseBefore": "διὰ τῆς ",
+    "verseAfter": " θύρας ὅτι"
   }
 ]

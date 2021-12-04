@@ -2,11 +2,15 @@
   {
     "reference": "Matthew 16:22",
     "word": "Ἵλεώς",
-    "verse": "αὐτῷ λέγων Ἵλεώς σοι κύριε"
+    "verse": "αὐτῷ λέγων Ἵλεώς σοι κύριε",
+    "verseBefore": "αὐτῷ λέγων ",
+    "verseAfter": " σοι κύριε"
   },
   {
     "reference": "Hebrews 8:12",
     "word": "ἵλεως",
-    "verse": "ὅτι ἵλεως ἔσομαι ταῖς"
+    "verse": "ὅτι ἵλεως ἔσομαι ταῖς",
+    "verseBefore": "ὅτι ",
+    "verseAfter": " ἔσομαι ταῖς"
   }
 ]

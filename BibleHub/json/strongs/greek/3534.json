@@ -2,21 +2,29 @@
   {
     "reference": "Matthew 12:20",
     "word": "νῖκος",
-    "verse": "ἐκβάλῃ εἰς νῖκος τὴν κρίσιν"
+    "verse": "ἐκβάλῃ εἰς νῖκος τὴν κρίσιν",
+    "verseBefore": "ἐκβάλῃ εἰς ",
+    "verseAfter": " τὴν κρίσιν"
   },
   {
     "reference": "1 Corinthians 15:54",
     "word": "νῖκος",
-    "verse": "θάνατος εἰς νῖκος "
+    "verse": "θάνατος εἰς νῖκος ",
+    "verseBefore": "θάνατος εἰς ",
+    "verseAfter": " "
   },
   {
     "reference": "1 Corinthians 15:55",
     "word": "νῖκος",
-    "verse": "θάνατε τὸ νῖκος ποῦ σου"
+    "verse": "θάνατε τὸ νῖκος ποῦ σου",
+    "verseBefore": "θάνατε τὸ ",
+    "verseAfter": " ποῦ σου"
   },
   {
     "reference": "1 Corinthians 15:57",
     "word": "νῖκος",
-    "verse": "ἡμῖν τὸ νῖκος διὰ τοῦ"
+    "verse": "ἡμῖν τὸ νῖκος διὰ τοῦ",
+    "verseBefore": "ἡμῖν τὸ ",
+    "verseAfter": " διὰ τοῦ"
   }
 ]

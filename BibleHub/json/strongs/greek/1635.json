@@ -2,11 +2,15 @@
   {
     "reference": "Romans 8:20",
     "word": "ἑκοῦσα",
-    "verse": "ὑπετάγη οὐχ ἑκοῦσα ἀλλὰ διὰ"
+    "verse": "ὑπετάγη οὐχ ἑκοῦσα ἀλλὰ διὰ",
+    "verseBefore": "ὑπετάγη οὐχ ",
+    "verseAfter": " ἀλλὰ διὰ"
   },
   {
     "reference": "1 Corinthians 9:17",
     "word": "ἑκὼν",
-    "verse": "εἰ γὰρ ἑκὼν τοῦτο πράσσω"
+    "verse": "εἰ γὰρ ἑκὼν τοῦτο πράσσω",
+    "verseBefore": "εἰ γὰρ ",
+    "verseAfter": " τοῦτο πράσσω"
   }
 ]

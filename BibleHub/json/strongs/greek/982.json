@@ -2,16 +2,22 @@
   {
     "reference": "Luke 21:34",
     "word": "βιωτικαῖς",
-    "verse": "καὶ μερίμναις βιωτικαῖς καὶ ἐπιστῇ"
+    "verse": "καὶ μερίμναις βιωτικαῖς καὶ ἐπιστῇ",
+    "verseBefore": "καὶ μερίμναις ",
+    "verseAfter": " καὶ ἐπιστῇ"
   },
   {
     "reference": "1 Corinthians 6:3",
     "word": "βιωτικά",
-    "verse": "κρινοῦμεν μήτιγε βιωτικά "
+    "verse": "κρινοῦμεν μήτιγε βιωτικά ",
+    "verseBefore": "κρινοῦμεν μήτιγε ",
+    "verseAfter": " "
   },
   {
     "reference": "1 Corinthians 6:4",
     "word": "βιωτικὰ",
-    "verse": "βιωτικὰ μὲν οὖν"
+    "verse": "βιωτικὰ μὲν οὖν",
+    "verseBefore": "",
+    "verseAfter": " μὲν οὖν"
   }
 ]

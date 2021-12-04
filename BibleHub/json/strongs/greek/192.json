@@ -2,11 +2,15 @@
   {
     "reference": "Matthew 23:25",
     "word": "ἀκρασίας",
-    "verse": "ἁρπαγῆς καὶ ἀκρασίας "
+    "verse": "ἁρπαγῆς καὶ ἀκρασίας ",
+    "verseBefore": "ἁρπαγῆς καὶ ",
+    "verseAfter": " "
   },
   {
     "reference": "1 Corinthians 7:5",
     "word": "ἀκρασίαν",
-    "verse": "διὰ τὴν ἀκρασίαν ὑμῶν "
+    "verse": "διὰ τὴν ἀκρασίαν ὑμῶν ",
+    "verseBefore": "διὰ τὴν ",
+    "verseAfter": " ὑμῶν "
   }
 ]

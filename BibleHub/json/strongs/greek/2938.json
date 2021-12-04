@@ -2,21 +2,29 @@
   {
     "reference": "1 Timothy 4:4",
     "word": "κτίσμα",
-    "verse": "ὅτι πᾶν κτίσμα θεοῦ καλόν"
+    "verse": "ὅτι πᾶν κτίσμα θεοῦ καλόν",
+    "verseBefore": "ὅτι πᾶν ",
+    "verseAfter": " θεοῦ καλόν"
   },
   {
     "reference": "James 1:18",
     "word": "κτισμάτων",
-    "verse": "τῶν αὐτοῦ κτισμάτων "
+    "verse": "τῶν αὐτοῦ κτισμάτων ",
+    "verseBefore": "τῶν αὐτοῦ ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 5:13",
     "word": "κτίσμα",
-    "verse": "καὶ πᾶν κτίσμα ὃ ἐν"
+    "verse": "καὶ πᾶν κτίσμα ὃ ἐν",
+    "verseBefore": "καὶ πᾶν ",
+    "verseAfter": " ὃ ἐν"
   },
   {
     "reference": "Revelation 8:9",
     "word": "κτισμάτων",
-    "verse": "τρίτον τῶν κτισμάτων τῶν ἐν"
+    "verse": "τρίτον τῶν κτισμάτων τῶν ἐν",
+    "verseBefore": "τρίτον τῶν ",
+    "verseAfter": " τῶν ἐν"
   }
 ]

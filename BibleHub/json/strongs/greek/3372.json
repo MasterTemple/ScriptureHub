@@ -2,16 +2,22 @@
   {
     "reference": "Ephesians 3:18",
     "word": "μῆκος",
-    "verse": "πλάτος καὶ μῆκος καὶ ὕψος"
+    "verse": "πλάτος καὶ μῆκος καὶ ὕψος",
+    "verseBefore": "πλάτος καὶ ",
+    "verseAfter": " καὶ ὕψος"
   },
   {
     "reference": "Revelation 21:16",
     "word": "μῆκος",
-    "verse": "καὶ τὸ μῆκος αὐτῆς ὅσον"
+    "verse": "καὶ τὸ μῆκος αὐτῆς ὅσον",
+    "verseBefore": "καὶ τὸ ",
+    "verseAfter": " αὐτῆς ὅσον"
   },
   {
     "reference": "Revelation 21:16",
     "word": "μῆκος",
-    "verse": "χιλιάδων τὸ μῆκος καὶ τὸ"
+    "verse": "χιλιάδων τὸ μῆκος καὶ τὸ",
+    "verseBefore": "χιλιάδων τὸ ",
+    "verseAfter": " καὶ τὸ"
   }
 ]

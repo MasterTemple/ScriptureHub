@@ -2,16 +2,22 @@
   {
     "reference": "Philippians 1:12",
     "word": "προκοπὴν",
-    "verse": "μᾶλλον εἰς προκοπὴν τοῦ εὐαγγελίου"
+    "verse": "μᾶλλον εἰς προκοπὴν τοῦ εὐαγγελίου",
+    "verseBefore": "μᾶλλον εἰς ",
+    "verseAfter": " τοῦ εὐαγγελίου"
   },
   {
     "reference": "Philippians 1:25",
     "word": "προκοπὴν",
-    "verse": "τὴν ὑμῶν προκοπὴν καὶ χαρὰν"
+    "verse": "τὴν ὑμῶν προκοπὴν καὶ χαρὰν",
+    "verseBefore": "τὴν ὑμῶν ",
+    "verseAfter": " καὶ χαρὰν"
   },
   {
     "reference": "1 Timothy 4:15",
     "word": "προκοπὴ",
-    "verse": "σου ἡ προκοπὴ φανερὰ ᾖ"
+    "verse": "σου ἡ προκοπὴ φανερὰ ᾖ",
+    "verseBefore": "σου ἡ ",
+    "verseAfter": " φανερὰ ᾖ"
   }
 ]

@@ -2,21 +2,29 @@
   {
     "reference": "Galatians 3:13",
     "word": "ἐξηγόρασεν",
-    "verse": "Χριστὸς ἡμᾶς ἐξηγόρασεν ἐκ τῆς"
+    "verse": "Χριστὸς ἡμᾶς ἐξηγόρασεν ἐκ τῆς",
+    "verseBefore": "Χριστὸς ἡμᾶς ",
+    "verseAfter": " ἐκ τῆς"
   },
   {
     "reference": "Galatians 4:5",
     "word": "ἐξαγοράσῃ",
-    "verse": "ὑπὸ νόμον ἐξαγοράσῃ ἵνα τὴν"
+    "verse": "ὑπὸ νόμον ἐξαγοράσῃ ἵνα τὴν",
+    "verseBefore": "ὑπὸ νόμον ",
+    "verseAfter": " ἵνα τὴν"
   },
   {
     "reference": "Ephesians 5:16",
     "word": "ἐξαγοραζόμενοι",
-    "verse": "ἐξαγοραζόμενοι τὸν καιρόν"
+    "verse": "ἐξαγοραζόμενοι τὸν καιρόν",
+    "verseBefore": "",
+    "verseAfter": " τὸν καιρόν"
   },
   {
     "reference": "Colossians 4:5",
     "word": "ἐξαγοραζόμενοι",
-    "verse": "τὸν καιρὸν ἐξαγοραζόμενοι "
+    "verse": "τὸν καιρὸν ἐξαγοραζόμενοι ",
+    "verseBefore": "τὸν καιρὸν ",
+    "verseAfter": " "
   }
 ]

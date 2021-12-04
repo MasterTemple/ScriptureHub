@@ -2,11 +2,15 @@
   {
     "reference": "Romans 8:39",
     "word": "ὕψωμα",
-    "verse": "οὔτε ὕψωμα οὔτε βάθος"
+    "verse": "οὔτε ὕψωμα οὔτε βάθος",
+    "verseBefore": "οὔτε ",
+    "verseAfter": " οὔτε βάθος"
   },
   {
     "reference": "2 Corinthians 10:5",
     "word": "ὕψωμα",
-    "verse": "καὶ πᾶν ὕψωμα ἐπαιρόμενον κατὰ"
+    "verse": "καὶ πᾶν ὕψωμα ἐπαιρόμενον κατὰ",
+    "verseBefore": "καὶ πᾶν ",
+    "verseAfter": " ἐπαιρόμενον κατὰ"
   }
 ]

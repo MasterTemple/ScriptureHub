@@ -2,31 +2,43 @@
   {
     "reference": "Acts 6:14",
     "word": "ἀλλάξει",
-    "verse": "τοῦτον καὶ ἀλλάξει τὰ ἔθη"
+    "verse": "τοῦτον καὶ ἀλλάξει τὰ ἔθη",
+    "verseBefore": "τοῦτον καὶ ",
+    "verseAfter": " τὰ ἔθη"
   },
   {
     "reference": "Romans 1:23",
     "word": "ἤλλαξαν",
-    "verse": "καὶ ἤλλαξαν τὴν δόξαν"
+    "verse": "καὶ ἤλλαξαν τὴν δόξαν",
+    "verseBefore": "καὶ ",
+    "verseAfter": " τὴν δόξαν"
   },
   {
     "reference": "1 Corinthians 15:51",
     "word": "ἀλλαγησόμεθα",
-    "verse": "πάντες δὲ ἀλλαγησόμεθα "
+    "verse": "πάντες δὲ ἀλλαγησόμεθα ",
+    "verseBefore": "πάντες δὲ ",
+    "verseAfter": " "
   },
   {
     "reference": "1 Corinthians 15:52",
     "word": "ἀλλαγησόμεθα",
-    "verse": "καὶ ἡμεῖς ἀλλαγησόμεθα "
+    "verse": "καὶ ἡμεῖς ἀλλαγησόμεθα ",
+    "verseBefore": "καὶ ἡμεῖς ",
+    "verseAfter": " "
   },
   {
     "reference": "Galatians 4:20",
     "word": "ἀλλάξαι",
-    "verse": "ἄρτι καὶ ἀλλάξαι τὴν φωνήν"
+    "verse": "ἄρτι καὶ ἀλλάξαι τὴν φωνήν",
+    "verseBefore": "ἄρτι καὶ ",
+    "verseAfter": " τὴν φωνήν"
   },
   {
     "reference": "Hebrews 1:12",
     "word": "ἀλλαγήσονται",
-    "verse": "ἱμάτιον καὶ ἀλλαγήσονται σὺ δὲ"
+    "verse": "ἱμάτιον καὶ ἀλλαγήσονται σὺ δὲ",
+    "verseBefore": "ἱμάτιον καὶ ",
+    "verseAfter": " σὺ δὲ"
   }
 ]

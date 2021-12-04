@@ -2,21 +2,29 @@
   {
     "reference": "Matthew 24:8",
     "word": "ὠδίνων",
-    "verse": "ταῦτα ἀρχὴ ὠδίνων "
+    "verse": "ταῦτα ἀρχὴ ὠδίνων ",
+    "verseBefore": "ταῦτα ἀρχὴ ",
+    "verseAfter": " "
   },
   {
     "reference": "Mark 13:8",
     "word": "ὠδίνων",
-    "verse": "λιμοί ἀρχὴ ὠδίνων ταῦτα "
+    "verse": "λιμοί ἀρχὴ ὠδίνων ταῦτα ",
+    "verseBefore": "λιμοί ἀρχὴ ",
+    "verseAfter": " ταῦτα "
   },
   {
     "reference": "Acts 2:24",
     "word": "ὠδῖνας",
-    "verse": "λύσας τὰς ὠδῖνας τοῦ θανάτου"
+    "verse": "λύσας τὰς ὠδῖνας τοῦ θανάτου",
+    "verseBefore": "λύσας τὰς ",
+    "verseAfter": " τοῦ θανάτου"
   },
   {
     "reference": "1 Thessalonians 5:3",
     "word": "ὠδὶν",
-    "verse": "ὥσπερ ἡ ὠδὶν τῇ ἐν"
+    "verse": "ὥσπερ ἡ ὠδὶν τῇ ἐν",
+    "verseBefore": "ὥσπερ ἡ ",
+    "verseAfter": " τῇ ἐν"
   }
 ]

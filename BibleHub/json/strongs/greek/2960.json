@@ -2,11 +2,15 @@
   {
     "reference": "1 Corinthians 11:20",
     "word": "κυριακὸν",
-    "verse": "οὐκ ἔστιν κυριακὸν δεῖπνον φαγεῖν"
+    "verse": "οὐκ ἔστιν κυριακὸν δεῖπνον φαγεῖν",
+    "verseBefore": "οὐκ ἔστιν ",
+    "verseAfter": " δεῖπνον φαγεῖν"
   },
   {
     "reference": "Revelation 1:10",
     "word": "κυριακῇ",
-    "verse": "ἐν τῇ κυριακῇ ἡμέρᾳ καὶ"
+    "verse": "ἐν τῇ κυριακῇ ἡμέρᾳ καὶ",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " ἡμέρᾳ καὶ"
   }
 ]

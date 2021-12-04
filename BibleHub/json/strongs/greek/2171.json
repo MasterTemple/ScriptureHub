@@ -2,16 +2,22 @@
   {
     "reference": "Acts 18:18",
     "word": "εὐχήν",
-    "verse": "εἶχεν γὰρ εὐχήν "
+    "verse": "εἶχεν γὰρ εὐχήν ",
+    "verseBefore": "εἶχεν γὰρ ",
+    "verseAfter": " "
   },
   {
     "reference": "Acts 21:23",
     "word": "εὐχὴν",
-    "verse": "ἄνδρες τέσσαρες εὐχὴν ἔχοντες ἐφ'"
+    "verse": "ἄνδρες τέσσαρες εὐχὴν ἔχοντες ἐφ'",
+    "verseBefore": "ἄνδρες τέσσαρες ",
+    "verseAfter": " ἔχοντες ἐφ'"
   },
   {
     "reference": "James 5:15",
     "word": "εὐχὴ",
-    "verse": "καὶ ἡ εὐχὴ τῆς πίστεως"
+    "verse": "καὶ ἡ εὐχὴ τῆς πίστεως",
+    "verseBefore": "καὶ ἡ ",
+    "verseAfter": " τῆς πίστεως"
   }
 ]

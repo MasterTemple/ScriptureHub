@@ -2,11 +2,15 @@
   {
     "reference": "Luke 19:11",
     "word": "ἀναφαίνεσθαι",
-    "verse": "τοῦ θεοῦ ἀναφαίνεσθαι "
+    "verse": "τοῦ θεοῦ ἀναφαίνεσθαι ",
+    "verseBefore": "τοῦ θεοῦ ",
+    "verseAfter": " "
   },
   {
     "reference": "Acts 21:3",
     "word": "ἀναφάναντες",
-    "verse": "ἀναφάναντες δὲ τὴν"
+    "verse": "ἀναφάναντες δὲ τὴν",
+    "verseBefore": "",
+    "verseAfter": " δὲ τὴν"
   }
 ]

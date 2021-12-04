@@ -2,41 +2,57 @@
   {
     "reference": "Mark 5:3",
     "word": "μνήμασιν",
-    "verse": "ἐν τοῖς μνήμασιν καὶ οὐδὲ"
+    "verse": "ἐν τοῖς μνήμασιν καὶ οὐδὲ",
+    "verseBefore": "ἐν τοῖς ",
+    "verseAfter": " καὶ οὐδὲ"
   },
   {
     "reference": "Mark 5:5",
     "word": "μνήμασιν",
-    "verse": "ἐν τοῖς μνήμασιν καὶ ἐν"
+    "verse": "ἐν τοῖς μνήμασιν καὶ ἐν",
+    "verseBefore": "ἐν τοῖς ",
+    "verseAfter": " καὶ ἐν"
   },
   {
     "reference": "Luke 8:27",
     "word": "μνήμασιν",
-    "verse": "ἐν τοῖς μνήμασιν "
+    "verse": "ἐν τοῖς μνήμασιν ",
+    "verseBefore": "ἐν τοῖς ",
+    "verseAfter": " "
   },
   {
     "reference": "Luke 23:53",
     "word": "μνήματι",
-    "verse": "αὐτὸν ἐν μνήματι λαξευτῷ οὗ"
+    "verse": "αὐτὸν ἐν μνήματι λαξευτῷ οὗ",
+    "verseBefore": "αὐτὸν ἐν ",
+    "verseAfter": " λαξευτῷ οὗ"
   },
   {
     "reference": "Luke 24:1",
     "word": "μνῆμα",
-    "verse": "ἐπὶ τὸ μνῆμα ἦλθον φέρουσαι"
+    "verse": "ἐπὶ τὸ μνῆμα ἦλθον φέρουσαι",
+    "verseBefore": "ἐπὶ τὸ ",
+    "verseAfter": " ἦλθον φέρουσαι"
   },
   {
     "reference": "Acts 2:29",
     "word": "μνῆμα",
-    "verse": "καὶ τὸ μνῆμα αὐτοῦ ἔστιν"
+    "verse": "καὶ τὸ μνῆμα αὐτοῦ ἔστιν",
+    "verseBefore": "καὶ τὸ ",
+    "verseAfter": " αὐτοῦ ἔστιν"
   },
   {
     "reference": "Acts 7:16",
     "word": "μνήματι",
-    "verse": "ἐν τῷ μνήματι ᾧ ὠνήσατο"
+    "verse": "ἐν τῷ μνήματι ᾧ ὠνήσατο",
+    "verseBefore": "ἐν τῷ ",
+    "verseAfter": " ᾧ ὠνήσατο"
   },
   {
     "reference": "Revelation 11:9",
     "word": "μνῆμα",
-    "verse": "τεθῆναι εἰς μνῆμα "
+    "verse": "τεθῆναι εἰς μνῆμα ",
+    "verseBefore": "τεθῆναι εἰς ",
+    "verseAfter": " "
   }
 ]

@@ -2,21 +2,29 @@
   {
     "reference": "John 5:2",
     "word": "στοὰς",
-    "verse": "Βηθζαθά πέντε στοὰς ἔχουσα "
+    "verse": "Βηθζαθά πέντε στοὰς ἔχουσα ",
+    "verseBefore": "Βηθζαθά πέντε ",
+    "verseAfter": " ἔχουσα "
   },
   {
     "reference": "John 10:23",
     "word": "στοᾷ",
-    "verse": "ἐν τῇ στοᾷ τοῦ Σολομῶνος"
+    "verse": "ἐν τῇ στοᾷ τοῦ Σολομῶνος",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " τοῦ Σολομῶνος"
   },
   {
     "reference": "Acts 3:11",
     "word": "στοᾷ",
-    "verse": "ἐπὶ τῇ στοᾷ τῇ καλουμένῃ"
+    "verse": "ἐπὶ τῇ στοᾷ τῇ καλουμένῃ",
+    "verseBefore": "ἐπὶ τῇ ",
+    "verseAfter": " τῇ καλουμένῃ"
   },
   {
     "reference": "Acts 5:12",
     "word": "Στοᾷ",
-    "verse": "ἐν τῇ Στοᾷ Σολομῶντος "
+    "verse": "ἐν τῇ Στοᾷ Σολομῶντος ",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " Σολομῶντος "
   }
 ]

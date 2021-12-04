@@ -2,11 +2,15 @@
   {
     "reference": "Matthew 1:8",
     "word": "Ὀζίαν",
-    "verse": "ἐγέννησεν τὸν Ὀζίαν "
+    "verse": "ἐγέννησεν τὸν Ὀζίαν ",
+    "verseBefore": "ἐγέννησεν τὸν ",
+    "verseAfter": " "
   },
   {
     "reference": "Matthew 1:9",
     "word": "Ὀζίας",
-    "verse": "Ὀζίας δὲ ἐγέννησεν"
+    "verse": "Ὀζίας δὲ ἐγέννησεν",
+    "verseBefore": "",
+    "verseAfter": " δὲ ἐγέννησεν"
   }
 ]

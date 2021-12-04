@@ -2,601 +2,841 @@
   {
     "reference": "Matthew 4:16",
     "word": "θανάτου",
-    "verse": "καὶ σκιᾷ θανάτου φῶς ἀνέτειλεν"
+    "verse": "καὶ σκιᾷ θανάτου φῶς ἀνέτειλεν",
+    "verseBefore": "καὶ σκιᾷ ",
+    "verseAfter": " φῶς ἀνέτειλεν"
   },
   {
     "reference": "Matthew 10:21",
     "word": "θάνατον",
-    "verse": "ἀδελφὸν εἰς θάνατον καὶ πατὴρ"
+    "verse": "ἀδελφὸν εἰς θάνατον καὶ πατὴρ",
+    "verseBefore": "ἀδελφὸν εἰς ",
+    "verseAfter": " καὶ πατὴρ"
   },
   {
     "reference": "Matthew 15:4",
     "word": "θανάτῳ",
-    "verse": "ἢ μητέρα θανάτῳ τελευτάτω "
+    "verse": "ἢ μητέρα θανάτῳ τελευτάτω ",
+    "verseBefore": "ἢ μητέρα ",
+    "verseAfter": " τελευτάτω "
   },
   {
     "reference": "Matthew 16:28",
     "word": "θανάτου",
-    "verse": "μὴ γεύσωνται θανάτου ἕως ἂν"
+    "verse": "μὴ γεύσωνται θανάτου ἕως ἂν",
+    "verseBefore": "μὴ γεύσωνται ",
+    "verseAfter": " ἕως ἂν"
   },
   {
     "reference": "Matthew 20:18",
     "word": "θανάτῳ",
-    "verse": "κατακρινοῦσιν αὐτὸν θανάτῳ "
+    "verse": "κατακρινοῦσιν αὐτὸν θανάτῳ ",
+    "verseBefore": "κατακρινοῦσιν αὐτὸν ",
+    "verseAfter": " "
   },
   {
     "reference": "Matthew 26:38",
     "word": "θανάτου",
-    "verse": "μου ἕως θανάτου μείνατε ὧδε"
+    "verse": "μου ἕως θανάτου μείνατε ὧδε",
+    "verseBefore": "μου ἕως ",
+    "verseAfter": " μείνατε ὧδε"
   },
   {
     "reference": "Matthew 26:66",
     "word": "θανάτου",
-    "verse": "εἶπαν Ἔνοχος θανάτου ἐστίν "
+    "verse": "εἶπαν Ἔνοχος θανάτου ἐστίν ",
+    "verseBefore": "εἶπαν Ἔνοχος ",
+    "verseAfter": " ἐστίν "
   },
   {
     "reference": "Mark 7:10",
     "word": "θανάτῳ",
-    "verse": "ἢ μητέρα θανάτῳ τελευτάτω "
+    "verse": "ἢ μητέρα θανάτῳ τελευτάτω ",
+    "verseBefore": "ἢ μητέρα ",
+    "verseAfter": " τελευτάτω "
   },
   {
     "reference": "Mark 9:1",
     "word": "θανάτου",
-    "verse": "μὴ γεύσωνται θανάτου ἕως ἂν"
+    "verse": "μὴ γεύσωνται θανάτου ἕως ἂν",
+    "verseBefore": "μὴ γεύσωνται ",
+    "verseAfter": " ἕως ἂν"
   },
   {
     "reference": "Mark 10:33",
     "word": "θανάτῳ",
-    "verse": "κατακρινοῦσιν αὐτὸν θανάτῳ καὶ παραδώσουσιν"
+    "verse": "κατακρινοῦσιν αὐτὸν θανάτῳ καὶ παραδώσουσιν",
+    "verseBefore": "κατακρινοῦσιν αὐτὸν ",
+    "verseAfter": " καὶ παραδώσουσιν"
   },
   {
     "reference": "Mark 13:12",
     "word": "θάνατον",
-    "verse": "ἀδελφὸν εἰς θάνατον καὶ πατὴρ"
+    "verse": "ἀδελφὸν εἰς θάνατον καὶ πατὴρ",
+    "verseBefore": "ἀδελφὸν εἰς ",
+    "verseAfter": " καὶ πατὴρ"
   },
   {
     "reference": "Mark 14:34",
     "word": "θανάτου",
-    "verse": "μου ἕως θανάτου μείνατε ὧδε"
+    "verse": "μου ἕως θανάτου μείνατε ὧδε",
+    "verseBefore": "μου ἕως ",
+    "verseAfter": " μείνατε ὧδε"
   },
   {
     "reference": "Mark 14:64",
     "word": "θανάτου",
-    "verse": "ἔνοχον εἶναι θανάτου "
+    "verse": "ἔνοχον εἶναι θανάτου ",
+    "verseBefore": "ἔνοχον εἶναι ",
+    "verseAfter": " "
   },
   {
     "reference": "Luke 1:79",
     "word": "θανάτου",
-    "verse": "καὶ σκιᾷ θανάτου καθημένοις τοῦ"
+    "verse": "καὶ σκιᾷ θανάτου καθημένοις τοῦ",
+    "verseBefore": "καὶ σκιᾷ ",
+    "verseAfter": " καθημένοις τοῦ"
   },
   {
     "reference": "Luke 2:26",
     "word": "θάνατον",
-    "verse": "μὴ ἰδεῖν θάνατον πρὶν ἢ"
+    "verse": "μὴ ἰδεῖν θάνατον πρὶν ἢ",
+    "verseBefore": "μὴ ἰδεῖν ",
+    "verseAfter": " πρὶν ἢ"
   },
   {
     "reference": "Luke 9:27",
     "word": "θανάτου",
-    "verse": "μὴ γεύσωνται θανάτου ἕως ἂν"
+    "verse": "μὴ γεύσωνται θανάτου ἕως ἂν",
+    "verseBefore": "μὴ γεύσωνται ",
+    "verseAfter": " ἕως ἂν"
   },
   {
     "reference": "Luke 22:33",
     "word": "θάνατον",
-    "verse": "καὶ εἰς θάνατον πορεύεσθαι "
+    "verse": "καὶ εἰς θάνατον πορεύεσθαι ",
+    "verseBefore": "καὶ εἰς ",
+    "verseAfter": " πορεύεσθαι "
   },
   {
     "reference": "Luke 23:15",
     "word": "θανάτου",
-    "verse": "οὐδὲν ἄξιον θανάτου ἐστὶν πεπραγμένον"
+    "verse": "οὐδὲν ἄξιον θανάτου ἐστὶν πεπραγμένον",
+    "verseBefore": "οὐδὲν ἄξιον ",
+    "verseAfter": " ἐστὶν πεπραγμένον"
   },
   {
     "reference": "Luke 23:22",
     "word": "θανάτου",
-    "verse": "οὐδὲν αἴτιον θανάτου εὗρον ἐν"
+    "verse": "οὐδὲν αἴτιον θανάτου εὗρον ἐν",
+    "verseBefore": "οὐδὲν αἴτιον ",
+    "verseAfter": " εὗρον ἐν"
   },
   {
     "reference": "Luke 24:20",
     "word": "θανάτου",
-    "verse": "εἰς κρίμα θανάτου καὶ ἐσταύρωσαν"
+    "verse": "εἰς κρίμα θανάτου καὶ ἐσταύρωσαν",
+    "verseBefore": "εἰς κρίμα ",
+    "verseAfter": " καὶ ἐσταύρωσαν"
   },
   {
     "reference": "John 5:24",
     "word": "θανάτου",
-    "verse": "ἐκ τοῦ θανάτου εἰς τὴν"
+    "verse": "ἐκ τοῦ θανάτου εἰς τὴν",
+    "verseBefore": "ἐκ τοῦ ",
+    "verseAfter": " εἰς τὴν"
   },
   {
     "reference": "John 8:51",
     "word": "θάνατον",
-    "verse": "λόγον τηρήσῃ θάνατον οὐ μὴ"
+    "verse": "λόγον τηρήσῃ θάνατον οὐ μὴ",
+    "verseBefore": "λόγον τηρήσῃ ",
+    "verseAfter": " οὐ μὴ"
   },
   {
     "reference": "John 8:52",
     "word": "θανάτου",
-    "verse": "μὴ γεύσηται θανάτου εἰς τὸν"
+    "verse": "μὴ γεύσηται θανάτου εἰς τὸν",
+    "verseBefore": "μὴ γεύσηται ",
+    "verseAfter": " εἰς τὸν"
   },
   {
     "reference": "John 11:4",
     "word": "θάνατον",
-    "verse": "ἔστιν πρὸς θάνατον ἀλλ' ὑπὲρ"
+    "verse": "ἔστιν πρὸς θάνατον ἀλλ' ὑπὲρ",
+    "verseBefore": "ἔστιν πρὸς ",
+    "verseAfter": " ἀλλ' ὑπὲρ"
   },
   {
     "reference": "John 11:13",
     "word": "θανάτου",
-    "verse": "περὶ τοῦ θανάτου αὐτοῦ ἐκεῖνοι"
+    "verse": "περὶ τοῦ θανάτου αὐτοῦ ἐκεῖνοι",
+    "verseBefore": "περὶ τοῦ ",
+    "verseAfter": " αὐτοῦ ἐκεῖνοι"
   },
   {
     "reference": "John 12:33",
     "word": "θανάτῳ",
-    "verse": "σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνήσκειν"
+    "verse": "σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνήσκειν",
+    "verseBefore": "σημαίνων ποίῳ ",
+    "verseAfter": " ἤμελλεν ἀποθνήσκειν"
   },
   {
     "reference": "John 18:32",
     "word": "θανάτῳ",
-    "verse": "σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνήσκειν"
+    "verse": "σημαίνων ποίῳ θανάτῳ ἤμελλεν ἀποθνήσκειν",
+    "verseBefore": "σημαίνων ποίῳ ",
+    "verseAfter": " ἤμελλεν ἀποθνήσκειν"
   },
   {
     "reference": "John 21:19",
     "word": "θανάτῳ",
-    "verse": "σημαίνων ποίῳ θανάτῳ δοξάσει τὸν"
+    "verse": "σημαίνων ποίῳ θανάτῳ δοξάσει τὸν",
+    "verseBefore": "σημαίνων ποίῳ ",
+    "verseAfter": " δοξάσει τὸν"
   },
   {
     "reference": "Acts 2:24",
     "word": "θανάτου",
-    "verse": "ὠδῖνας τοῦ θανάτου καθότι οὐκ"
+    "verse": "ὠδῖνας τοῦ θανάτου καθότι οὐκ",
+    "verseBefore": "ὠδῖνας τοῦ ",
+    "verseAfter": " καθότι οὐκ"
   },
   {
     "reference": "Acts 13:28",
     "word": "θανάτου",
-    "verse": "μηδεμίαν αἰτίαν θανάτου εὑρόντες ᾐτήσαντο"
+    "verse": "μηδεμίαν αἰτίαν θανάτου εὑρόντες ᾐτήσαντο",
+    "verseBefore": "μηδεμίαν αἰτίαν ",
+    "verseAfter": " εὑρόντες ᾐτήσαντο"
   },
   {
     "reference": "Acts 22:4",
     "word": "θανάτου",
-    "verse": "ἐδίωξα ἄχρι θανάτου δεσμεύων καὶ"
+    "verse": "ἐδίωξα ἄχρι θανάτου δεσμεύων καὶ",
+    "verseBefore": "ἐδίωξα ἄχρι ",
+    "verseAfter": " δεσμεύων καὶ"
   },
   {
     "reference": "Acts 23:29",
     "word": "θανάτου",
-    "verse": "δὲ ἄξιον θανάτου ἢ δεσμῶν"
+    "verse": "δὲ ἄξιον θανάτου ἢ δεσμῶν",
+    "verseBefore": "δὲ ἄξιον ",
+    "verseAfter": " ἢ δεσμῶν"
   },
   {
     "reference": "Acts 25:11",
     "word": "θανάτου",
-    "verse": "καὶ ἄξιον θανάτου πέπραχά τι"
+    "verse": "καὶ ἄξιον θανάτου πέπραχά τι",
+    "verseBefore": "καὶ ἄξιον ",
+    "verseAfter": " πέπραχά τι"
   },
   {
     "reference": "Acts 25:25",
     "word": "θανάτου",
-    "verse": "ἄξιον αὐτὸν θανάτου πεπραχέναι αὐτοῦ"
+    "verse": "ἄξιον αὐτὸν θανάτου πεπραχέναι αὐτοῦ",
+    "verseBefore": "ἄξιον αὐτὸν ",
+    "verseAfter": " πεπραχέναι αὐτοῦ"
   },
   {
     "reference": "Acts 26:31",
     "word": "θανάτου",
-    "verse": "ὅτι Οὐδὲν θανάτου ἢ δεσμῶν"
+    "verse": "ὅτι Οὐδὲν θανάτου ἢ δεσμῶν",
+    "verseBefore": "ὅτι Οὐδὲν ",
+    "verseAfter": " ἢ δεσμῶν"
   },
   {
     "reference": "Acts 28:18",
     "word": "θανάτου",
-    "verse": "μηδεμίαν αἰτίαν θανάτου ὑπάρχειν ἐν"
+    "verse": "μηδεμίαν αἰτίαν θανάτου ὑπάρχειν ἐν",
+    "verseBefore": "μηδεμίαν αἰτίαν ",
+    "verseAfter": " ὑπάρχειν ἐν"
   },
   {
     "reference": "Romans 1:32",
     "word": "θανάτου",
-    "verse": "πράσσοντες ἄξιοι θανάτου εἰσίν οὐ"
+    "verse": "πράσσοντες ἄξιοι θανάτου εἰσίν οὐ",
+    "verseBefore": "πράσσοντες ἄξιοι ",
+    "verseAfter": " εἰσίν οὐ"
   },
   {
     "reference": "Romans 5:10",
     "word": "θανάτου",
-    "verse": "διὰ τοῦ θανάτου τοῦ υἱοῦ"
+    "verse": "διὰ τοῦ θανάτου τοῦ υἱοῦ",
+    "verseBefore": "διὰ τοῦ ",
+    "verseAfter": " τοῦ υἱοῦ"
   },
   {
     "reference": "Romans 5:12",
     "word": "θάνατος",
-    "verse": "ἁμαρτίας ὁ θάνατος καὶ οὕτως"
+    "verse": "ἁμαρτίας ὁ θάνατος καὶ οὕτως",
+    "verseBefore": "ἁμαρτίας ὁ ",
+    "verseAfter": " καὶ οὕτως"
   },
   {
     "reference": "Romans 5:12",
     "word": "θάνατος",
-    "verse": "ἀνθρώπους ὁ θάνατος διῆλθεν ἐφ'"
+    "verse": "ἀνθρώπους ὁ θάνατος διῆλθεν ἐφ'",
+    "verseBefore": "ἀνθρώπους ὁ ",
+    "verseAfter": " διῆλθεν ἐφ'"
   },
   {
     "reference": "Romans 5:14",
     "word": "θάνατος",
-    "verse": "ἐβασίλευσεν ὁ θάνατος ἀπὸ Ἀδὰμ"
+    "verse": "ἐβασίλευσεν ὁ θάνατος ἀπὸ Ἀδὰμ",
+    "verseBefore": "ἐβασίλευσεν ὁ ",
+    "verseAfter": " ἀπὸ Ἀδὰμ"
   },
   {
     "reference": "Romans 5:17",
     "word": "θάνατος",
-    "verse": "παραπτώματι ὁ θάνατος ἐβασίλευσεν διὰ"
+    "verse": "παραπτώματι ὁ θάνατος ἐβασίλευσεν διὰ",
+    "verseBefore": "παραπτώματι ὁ ",
+    "verseAfter": " ἐβασίλευσεν διὰ"
   },
   {
     "reference": "Romans 5:21",
     "word": "θανάτῳ",
-    "verse": "ἐν τῷ θανάτῳ οὕτως καὶ"
+    "verse": "ἐν τῷ θανάτῳ οὕτως καὶ",
+    "verseBefore": "ἐν τῷ ",
+    "verseAfter": " οὕτως καὶ"
   },
   {
     "reference": "Romans 6:3",
     "word": "θάνατον",
-    "verse": "εἰς τὸν θάνατον αὐτοῦ ἐβαπτίσθημεν"
+    "verse": "εἰς τὸν θάνατον αὐτοῦ ἐβαπτίσθημεν",
+    "verseBefore": "εἰς τὸν ",
+    "verseAfter": " αὐτοῦ ἐβαπτίσθημεν"
   },
   {
     "reference": "Romans 6:4",
     "word": "θάνατον",
-    "verse": "εἰς τὸν θάνατον ἵνα ὥσπερ"
+    "verse": "εἰς τὸν θάνατον ἵνα ὥσπερ",
+    "verseBefore": "εἰς τὸν ",
+    "verseAfter": " ἵνα ὥσπερ"
   },
   {
     "reference": "Romans 6:5",
     "word": "θανάτου",
-    "verse": "ὁμοιώματι τοῦ θανάτου αὐτοῦ ἀλλὰ"
+    "verse": "ὁμοιώματι τοῦ θανάτου αὐτοῦ ἀλλὰ",
+    "verseBefore": "ὁμοιώματι τοῦ ",
+    "verseAfter": " αὐτοῦ ἀλλὰ"
   },
   {
     "reference": "Romans 6:9",
     "word": "θάνατος",
-    "verse": "οὐκέτι ἀποθνήσκει θάνατος αὐτοῦ οὐκέτι"
+    "verse": "οὐκέτι ἀποθνήσκει θάνατος αὐτοῦ οὐκέτι",
+    "verseBefore": "οὐκέτι ἀποθνήσκει ",
+    "verseAfter": " αὐτοῦ οὐκέτι"
   },
   {
     "reference": "Romans 6:16",
     "word": "θάνατον",
-    "verse": "ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς"
+    "verse": "ἁμαρτίας εἰς θάνατον ἢ ὑπακοῆς",
+    "verseBefore": "ἁμαρτίας εἰς ",
+    "verseAfter": " ἢ ὑπακοῆς"
   },
   {
     "reference": "Romans 6:21",
     "word": "θάνατος",
-    "verse": "τέλος ἐκείνων θάνατος "
+    "verse": "τέλος ἐκείνων θάνατος ",
+    "verseBefore": "τέλος ἐκείνων ",
+    "verseAfter": " "
   },
   {
     "reference": "Romans 6:23",
     "word": "θάνατος",
-    "verse": "τῆς ἁμαρτίας θάνατος τὸ δὲ"
+    "verse": "τῆς ἁμαρτίας θάνατος τὸ δὲ",
+    "verseBefore": "τῆς ἁμαρτίας ",
+    "verseAfter": " τὸ δὲ"
   },
   {
     "reference": "Romans 7:5",
     "word": "θανάτῳ",
-    "verse": "καρποφορῆσαι τῷ θανάτῳ "
+    "verse": "καρποφορῆσαι τῷ θανάτῳ ",
+    "verseBefore": "καρποφορῆσαι τῷ ",
+    "verseAfter": " "
   },
   {
     "reference": "Romans 7:10",
     "word": "θάνατον",
-    "verse": "αὕτη εἰς θάνατον "
+    "verse": "αὕτη εἰς θάνατον ",
+    "verseBefore": "αὕτη εἰς ",
+    "verseAfter": " "
   },
   {
     "reference": "Romans 7:13",
     "word": "θάνατος",
-    "verse": "ἐμοὶ ἐγένετο θάνατος μὴ γένοιτο"
+    "verse": "ἐμοὶ ἐγένετο θάνατος μὴ γένοιτο",
+    "verseBefore": "ἐμοὶ ἐγένετο ",
+    "verseAfter": " μὴ γένοιτο"
   },
   {
     "reference": "Romans 7:13",
     "word": "θάνατον",
-    "verse": "μοι κατεργαζομένη θάνατον ἵνα γένηται"
+    "verse": "μοι κατεργαζομένη θάνατον ἵνα γένηται",
+    "verseBefore": "μοι κατεργαζομένη ",
+    "verseAfter": " ἵνα γένηται"
   },
   {
     "reference": "Romans 7:24",
     "word": "θανάτου",
-    "verse": "σώματος τοῦ θανάτου τούτου "
+    "verse": "σώματος τοῦ θανάτου τούτου ",
+    "verseBefore": "σώματος τοῦ ",
+    "verseAfter": " τούτου "
   },
   {
     "reference": "Romans 8:2",
     "word": "θανάτου",
-    "verse": "καὶ τοῦ θανάτου "
+    "verse": "καὶ τοῦ θανάτου ",
+    "verseBefore": "καὶ τοῦ ",
+    "verseAfter": " "
   },
   {
     "reference": "Romans 8:6",
     "word": "θάνατος",
-    "verse": "τῆς σαρκὸς θάνατος τὸ δὲ"
+    "verse": "τῆς σαρκὸς θάνατος τὸ δὲ",
+    "verseBefore": "τῆς σαρκὸς ",
+    "verseAfter": " τὸ δὲ"
   },
   {
     "reference": "Romans 8:38",
     "word": "θάνατος",
-    "verse": "ὅτι οὔτε θάνατος οὔτε ζωὴ"
+    "verse": "ὅτι οὔτε θάνατος οὔτε ζωὴ",
+    "verseBefore": "ὅτι οὔτε ",
+    "verseAfter": " οὔτε ζωὴ"
   },
   {
     "reference": "1 Corinthians 3:22",
     "word": "θάνατος",
-    "verse": "ζωὴ εἴτε θάνατος εἴτε ἐνεστῶτα"
+    "verse": "ζωὴ εἴτε θάνατος εἴτε ἐνεστῶτα",
+    "verseBefore": "ζωὴ εἴτε ",
+    "verseAfter": " εἴτε ἐνεστῶτα"
   },
   {
     "reference": "1 Corinthians 11:26",
     "word": "θάνατον",
-    "verse": "πίνητε τὸν θάνατον τοῦ κυρίου"
+    "verse": "πίνητε τὸν θάνατον τοῦ κυρίου",
+    "verseBefore": "πίνητε τὸν ",
+    "verseAfter": " τοῦ κυρίου"
   },
   {
     "reference": "1 Corinthians 15:21",
     "word": "θάνατος",
-    "verse": "δι' ἀνθρώπου θάνατος καὶ δι'"
+    "verse": "δι' ἀνθρώπου θάνατος καὶ δι'",
+    "verseBefore": "δι' ἀνθρώπου ",
+    "verseAfter": " καὶ δι'"
   },
   {
     "reference": "1 Corinthians 15:26",
     "word": "θάνατος",
-    "verse": "καταργεῖται ὁ θάνατος "
+    "verse": "καταργεῖται ὁ θάνατος ",
+    "verseBefore": "καταργεῖται ὁ ",
+    "verseAfter": " "
   },
   {
     "reference": "1 Corinthians 15:54",
     "word": "θάνατος",
-    "verse": "Κατεπόθη ὁ θάνατος εἰς νῖκος"
+    "verse": "Κατεπόθη ὁ θάνατος εἰς νῖκος",
+    "verseBefore": "Κατεπόθη ὁ ",
+    "verseAfter": " εἰς νῖκος"
   },
   {
     "reference": "1 Corinthians 15:55",
     "word": "θάνατε",
-    "verse": "ποῦ σου θάνατε τὸ νῖκος"
+    "verse": "ποῦ σου θάνατε τὸ νῖκος",
+    "verseBefore": "ποῦ σου ",
+    "verseAfter": " τὸ νῖκος"
   },
   {
     "reference": "1 Corinthians 15:55",
     "word": "θάνατε",
-    "verse": "ποῦ σου θάνατε τὸ κέντρον"
+    "verse": "ποῦ σου θάνατε τὸ κέντρον",
+    "verseBefore": "ποῦ σου ",
+    "verseAfter": " τὸ κέντρον"
   },
   {
     "reference": "1 Corinthians 15:56",
     "word": "θανάτου",
-    "verse": "κέντρον τοῦ θανάτου ἡ ἁμαρτία"
+    "verse": "κέντρον τοῦ θανάτου ἡ ἁμαρτία",
+    "verseBefore": "κέντρον τοῦ ",
+    "verseAfter": " ἡ ἁμαρτία"
   },
   {
     "reference": "2 Corinthians 1:9",
     "word": "θανάτου",
-    "verse": "ἀπόκριμα τοῦ θανάτου ἐσχήκαμεν ἵνα"
+    "verse": "ἀπόκριμα τοῦ θανάτου ἐσχήκαμεν ἵνα",
+    "verseBefore": "ἀπόκριμα τοῦ ",
+    "verseAfter": " ἐσχήκαμεν ἵνα"
   },
   {
     "reference": "2 Corinthians 1:10",
     "word": "θανάτου",
-    "verse": "ἐκ τηλικούτου θανάτου ἐρρύσατο ἡμᾶς"
+    "verse": "ἐκ τηλικούτου θανάτου ἐρρύσατο ἡμᾶς",
+    "verseBefore": "ἐκ τηλικούτου ",
+    "verseAfter": " ἐρρύσατο ἡμᾶς"
   },
   {
     "reference": "2 Corinthians 2:16",
     "word": "θανάτου",
-    "verse": "ὀσμὴ ἐκ θανάτου εἰς θάνατον"
+    "verse": "ὀσμὴ ἐκ θανάτου εἰς θάνατον",
+    "verseBefore": "ὀσμὴ ἐκ ",
+    "verseAfter": " εἰς θάνατον"
   },
   {
     "reference": "2 Corinthians 2:16",
     "word": "θάνατον",
-    "verse": "θανάτου εἰς θάνατον οἷς δὲ"
+    "verse": "θανάτου εἰς θάνατον οἷς δὲ",
+    "verseBefore": "θανάτου εἰς ",
+    "verseAfter": " οἷς δὲ"
   },
   {
     "reference": "2 Corinthians 3:7",
     "word": "θανάτου",
-    "verse": "διακονία τοῦ θανάτου ἐν γράμμασιν"
+    "verse": "διακονία τοῦ θανάτου ἐν γράμμασιν",
+    "verseBefore": "διακονία τοῦ ",
+    "verseAfter": " ἐν γράμμασιν"
   },
   {
     "reference": "2 Corinthians 4:11",
     "word": "θάνατον",
-    "verse": "ζῶντες εἰς θάνατον παραδιδόμεθα διὰ"
+    "verse": "ζῶντες εἰς θάνατον παραδιδόμεθα διὰ",
+    "verseBefore": "ζῶντες εἰς ",
+    "verseAfter": " παραδιδόμεθα διὰ"
   },
   {
     "reference": "2 Corinthians 4:12",
     "word": "θάνατος",
-    "verse": "ὥστε ὁ θάνατος ἐν ἡμῖν"
+    "verse": "ὥστε ὁ θάνατος ἐν ἡμῖν",
+    "verseBefore": "ὥστε ὁ ",
+    "verseAfter": " ἐν ἡμῖν"
   },
   {
     "reference": "2 Corinthians 7:10",
     "word": "θάνατον",
-    "verse": "κόσμου λύπη θάνατον κατεργάζεται "
+    "verse": "κόσμου λύπη θάνατον κατεργάζεται ",
+    "verseBefore": "κόσμου λύπη ",
+    "verseAfter": " κατεργάζεται "
   },
   {
     "reference": "2 Corinthians 11:23",
     "word": "θανάτοις",
-    "verse": "ὑπερβαλλόντως ἐν θανάτοις πολλάκις "
+    "verse": "ὑπερβαλλόντως ἐν θανάτοις πολλάκις ",
+    "verseBefore": "ὑπερβαλλόντως ἐν ",
+    "verseAfter": " πολλάκις "
   },
   {
     "reference": "Philippians 1:20",
     "word": "θανάτου",
-    "verse": "εἴτε διὰ θανάτου "
+    "verse": "εἴτε διὰ θανάτου ",
+    "verseBefore": "εἴτε διὰ ",
+    "verseAfter": " "
   },
   {
     "reference": "Philippians 2:8",
     "word": "θανάτου",
-    "verse": "ὑπήκοος μέχρι θανάτου θανάτου δὲ"
+    "verse": "ὑπήκοος μέχρι θανάτου θανάτου δὲ",
+    "verseBefore": "ὑπήκοος μέχρι ",
+    "verseAfter": " δὲ"
   },
   {
     "reference": "Philippians 2:8",
     "word": "θανάτου",
-    "verse": "μέχρι θανάτου θανάτου δὲ σταυροῦ"
+    "verse": "μέχρι θανάτου θανάτου δὲ σταυροῦ",
+    "verseBefore": "μέχρι ",
+    "verseAfter": " δὲ σταυροῦ"
   },
   {
     "reference": "Philippians 2:27",
     "word": "θανάτῳ",
-    "verse": "ἠσθένησεν παραπλήσιον θανάτῳ ἀλλὰ ὁ"
+    "verse": "ἠσθένησεν παραπλήσιον θανάτῳ ἀλλὰ ὁ",
+    "verseBefore": "ἠσθένησεν παραπλήσιον ",
+    "verseAfter": " ἀλλὰ ὁ"
   },
   {
     "reference": "Philippians 2:30",
     "word": "θανάτου",
-    "verse": "Χριστοῦ μέχρι θανάτου ἤγγισεν παραβολευσάμενος"
+    "verse": "Χριστοῦ μέχρι θανάτου ἤγγισεν παραβολευσάμενος",
+    "verseBefore": "Χριστοῦ μέχρι ",
+    "verseAfter": " ἤγγισεν παραβολευσάμενος"
   },
   {
     "reference": "Philippians 3:10",
     "word": "θανάτῳ",
-    "verse": "συμμορφιζόμενος τῷ θανάτῳ αὐτοῦ "
+    "verse": "συμμορφιζόμενος τῷ θανάτῳ αὐτοῦ ",
+    "verseBefore": "συμμορφιζόμενος τῷ ",
+    "verseAfter": " αὐτοῦ "
   },
   {
     "reference": "Colossians 1:22",
     "word": "θανάτου",
-    "verse": "διὰ τοῦ θανάτου παραστῆσαι ὑμᾶς"
+    "verse": "διὰ τοῦ θανάτου παραστῆσαι ὑμᾶς",
+    "verseBefore": "διὰ τοῦ ",
+    "verseAfter": " παραστῆσαι ὑμᾶς"
   },
   {
     "reference": "2 Timothy 1:10",
     "word": "θάνατον",
-    "verse": "μὲν τὸν θάνατον φωτίσαντος δὲ"
+    "verse": "μὲν τὸν θάνατον φωτίσαντος δὲ",
+    "verseBefore": "μὲν τὸν ",
+    "verseAfter": " φωτίσαντος δὲ"
   },
   {
     "reference": "Hebrews 2:9",
     "word": "θανάτου",
-    "verse": "πάθημα τοῦ θανάτου δόξῃ καὶ"
+    "verse": "πάθημα τοῦ θανάτου δόξῃ καὶ",
+    "verseBefore": "πάθημα τοῦ ",
+    "verseAfter": " δόξῃ καὶ"
   },
   {
     "reference": "Hebrews 2:9",
     "word": "θανάτου",
-    "verse": "παντὸς γεύσηται θανάτου "
+    "verse": "παντὸς γεύσηται θανάτου ",
+    "verseBefore": "παντὸς γεύσηται ",
+    "verseAfter": " "
   },
   {
     "reference": "Hebrews 2:14",
     "word": "θανάτου",
-    "verse": "διὰ τοῦ θανάτου καταργήσῃ τὸν"
+    "verse": "διὰ τοῦ θανάτου καταργήσῃ τὸν",
+    "verseBefore": "διὰ τοῦ ",
+    "verseAfter": " καταργήσῃ τὸν"
   },
   {
     "reference": "Hebrews 2:14",
     "word": "θανάτου",
-    "verse": "ἔχοντα τοῦ θανάτου τοῦτ' ἔστιν"
+    "verse": "ἔχοντα τοῦ θανάτου τοῦτ' ἔστιν",
+    "verseBefore": "ἔχοντα τοῦ ",
+    "verseAfter": " τοῦτ' ἔστιν"
   },
   {
     "reference": "Hebrews 2:15",
     "word": "θανάτου",
-    "verse": "ὅσοι φόβῳ θανάτου διὰ παντὸς"
+    "verse": "ὅσοι φόβῳ θανάτου διὰ παντὸς",
+    "verseBefore": "ὅσοι φόβῳ ",
+    "verseAfter": " διὰ παντὸς"
   },
   {
     "reference": "Hebrews 5:7",
     "word": "θανάτου",
-    "verse": "αὐτὸν ἐκ θανάτου μετὰ κραυγῆς"
+    "verse": "αὐτὸν ἐκ θανάτου μετὰ κραυγῆς",
+    "verseBefore": "αὐτὸν ἐκ ",
+    "verseAfter": " μετὰ κραυγῆς"
   },
   {
     "reference": "Hebrews 7:23",
     "word": "θανάτῳ",
-    "verse": "διὰ τὸ θανάτῳ κωλύεσθαι παραμένειν"
+    "verse": "διὰ τὸ θανάτῳ κωλύεσθαι παραμένειν",
+    "verseBefore": "διὰ τὸ ",
+    "verseAfter": " κωλύεσθαι παραμένειν"
   },
   {
     "reference": "Hebrews 9:15",
     "word": "θανάτου",
-    "verse": "ἐστίν ὅπως θανάτου γενομένου εἰς"
+    "verse": "ἐστίν ὅπως θανάτου γενομένου εἰς",
+    "verseBefore": "ἐστίν ὅπως ",
+    "verseAfter": " γενομένου εἰς"
   },
   {
     "reference": "Hebrews 9:16",
     "word": "θάνατον",
-    "verse": "γὰρ διαθήκη θάνατον ἀνάγκη φέρεσθαι"
+    "verse": "γὰρ διαθήκη θάνατον ἀνάγκη φέρεσθαι",
+    "verseBefore": "γὰρ διαθήκη ",
+    "verseAfter": " ἀνάγκη φέρεσθαι"
   },
   {
     "reference": "Hebrews 11:5",
     "word": "θάνατον",
-    "verse": "μὴ ἰδεῖν θάνατον καὶ οὐχ"
+    "verse": "μὴ ἰδεῖν θάνατον καὶ οὐχ",
+    "verseBefore": "μὴ ἰδεῖν ",
+    "verseAfter": " καὶ οὐχ"
   },
   {
     "reference": "James 1:15",
     "word": "θάνατον",
-    "verse": "ἀποτελεσθεῖσα ἀποκυεῖ θάνατον "
+    "verse": "ἀποτελεσθεῖσα ἀποκυεῖ θάνατον ",
+    "verseBefore": "ἀποτελεσθεῖσα ἀποκυεῖ ",
+    "verseAfter": " "
   },
   {
     "reference": "James 5:20",
     "word": "θανάτου",
-    "verse": "αὐτοῦ ἐκ θανάτου καὶ καλύψει"
+    "verse": "αὐτοῦ ἐκ θανάτου καὶ καλύψει",
+    "verseBefore": "αὐτοῦ ἐκ ",
+    "verseAfter": " καὶ καλύψει"
   },
   {
     "reference": "1 John 3:14",
     "word": "θανάτου",
-    "verse": "ἐκ τοῦ θανάτου εἰς τὴν"
+    "verse": "ἐκ τοῦ θανάτου εἰς τὴν",
+    "verseBefore": "ἐκ τοῦ ",
+    "verseAfter": " εἰς τὴν"
   },
   {
     "reference": "1 John 3:14",
     "word": "θανάτῳ",
-    "verse": "ἐν τῷ θανάτῳ "
+    "verse": "ἐν τῷ θανάτῳ ",
+    "verseBefore": "ἐν τῷ ",
+    "verseAfter": " "
   },
   {
     "reference": "1 John 5:16",
     "word": "θάνατον",
-    "verse": "μὴ πρὸς θάνατον αἰτήσει καὶ"
+    "verse": "μὴ πρὸς θάνατον αἰτήσει καὶ",
+    "verseBefore": "μὴ πρὸς ",
+    "verseAfter": " αἰτήσει καὶ"
   },
   {
     "reference": "1 John 5:16",
     "word": "θάνατον",
-    "verse": "μὴ πρὸς θάνατον ἔστιν ἁμαρτία"
+    "verse": "μὴ πρὸς θάνατον ἔστιν ἁμαρτία",
+    "verseBefore": "μὴ πρὸς ",
+    "verseAfter": " ἔστιν ἁμαρτία"
   },
   {
     "reference": "1 John 5:16",
     "word": "θάνατον",
-    "verse": "ἁμαρτία πρὸς θάνατον οὐ περὶ"
+    "verse": "ἁμαρτία πρὸς θάνατον οὐ περὶ",
+    "verseBefore": "ἁμαρτία πρὸς ",
+    "verseAfter": " οὐ περὶ"
   },
   {
     "reference": "1 John 5:17",
     "word": "θάνατον",
-    "verse": "οὐ πρὸς θάνατον "
+    "verse": "οὐ πρὸς θάνατον ",
+    "verseBefore": "οὐ πρὸς ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 1:18",
     "word": "θανάτου",
-    "verse": "κλεῖς τοῦ θανάτου καὶ τοῦ"
+    "verse": "κλεῖς τοῦ θανάτου καὶ τοῦ",
+    "verseBefore": "κλεῖς τοῦ ",
+    "verseAfter": " καὶ τοῦ"
   },
   {
     "reference": "Revelation 2:10",
     "word": "θανάτου",
-    "verse": "πιστὸς ἄχρι θανάτου καὶ δώσω"
+    "verse": "πιστὸς ἄχρι θανάτου καὶ δώσω",
+    "verseBefore": "πιστὸς ἄχρι ",
+    "verseAfter": " καὶ δώσω"
   },
   {
     "reference": "Revelation 2:11",
     "word": "θανάτου",
-    "verse": "ἐκ τοῦ θανάτου τοῦ δευτέρου"
+    "verse": "ἐκ τοῦ θανάτου τοῦ δευτέρου",
+    "verseBefore": "ἐκ τοῦ ",
+    "verseAfter": " τοῦ δευτέρου"
   },
   {
     "reference": "Revelation 2:23",
     "word": "θανάτῳ",
-    "verse": "ἀποκτενῶ ἐν θανάτῳ καὶ γνώσονται"
+    "verse": "ἀποκτενῶ ἐν θανάτῳ καὶ γνώσονται",
+    "verseBefore": "ἀποκτενῶ ἐν ",
+    "verseAfter": " καὶ γνώσονται"
   },
   {
     "reference": "Revelation 6:8",
     "word": "Θάνατος",
-    "verse": "αὐτῷ Ὁ Θάνατος καὶ ὁ"
+    "verse": "αὐτῷ Ὁ Θάνατος καὶ ὁ",
+    "verseBefore": "αὐτῷ Ὁ ",
+    "verseAfter": " καὶ ὁ"
   },
   {
     "reference": "Revelation 6:8",
     "word": "θανάτῳ",
-    "verse": "καὶ ἐν θανάτῳ καὶ ὑπὸ"
+    "verse": "καὶ ἐν θανάτῳ καὶ ὑπὸ",
+    "verseBefore": "καὶ ἐν ",
+    "verseAfter": " καὶ ὑπὸ"
   },
   {
     "reference": "Revelation 9:6",
     "word": "θάνατον",
-    "verse": "ἄνθρωποι τὸν θάνατον καὶ οὐ"
+    "verse": "ἄνθρωποι τὸν θάνατον καὶ οὐ",
+    "verseBefore": "ἄνθρωποι τὸν ",
+    "verseAfter": " καὶ οὐ"
   },
   {
     "reference": "Revelation 9:6",
     "word": "θάνατος",
-    "verse": "φεύγει ὁ θάνατος ἀπ' αὐτῶν"
+    "verse": "φεύγει ὁ θάνατος ἀπ' αὐτῶν",
+    "verseBefore": "φεύγει ὁ ",
+    "verseAfter": " ἀπ' αὐτῶν"
   },
   {
     "reference": "Revelation 12:11",
     "word": "θανάτου",
-    "verse": "αὐτῶν ἄχρι θανάτου "
+    "verse": "αὐτῶν ἄχρι θανάτου ",
+    "verseBefore": "αὐτῶν ἄχρι ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 13:3",
     "word": "θάνατον",
-    "verse": "ἐσφαγμένην εἰς θάνατον καὶ ἡ"
+    "verse": "ἐσφαγμένην εἰς θάνατον καὶ ἡ",
+    "verseBefore": "ἐσφαγμένην εἰς ",
+    "verseAfter": " καὶ ἡ"
   },
   {
     "reference": "Revelation 13:3",
     "word": "θανάτου",
-    "verse": "πληγὴ τοῦ θανάτου αὐτοῦ ἐθεραπεύθη"
+    "verse": "πληγὴ τοῦ θανάτου αὐτοῦ ἐθεραπεύθη",
+    "verseBefore": "πληγὴ τοῦ ",
+    "verseAfter": " αὐτοῦ ἐθεραπεύθη"
   },
   {
     "reference": "Revelation 13:12",
     "word": "θανάτου",
-    "verse": "πληγὴ τοῦ θανάτου αὐτοῦ "
+    "verse": "πληγὴ τοῦ θανάτου αὐτοῦ ",
+    "verseBefore": "πληγὴ τοῦ ",
+    "verseAfter": " αὐτοῦ "
   },
   {
     "reference": "Revelation 18:8",
     "word": "θάνατος",
-    "verse": "πληγαὶ αὐτῆς θάνατος καὶ πένθος"
+    "verse": "πληγαὶ αὐτῆς θάνατος καὶ πένθος",
+    "verseBefore": "πληγαὶ αὐτῆς ",
+    "verseAfter": " καὶ πένθος"
   },
   {
     "reference": "Revelation 20:6",
     "word": "θάνατος",
-    "verse": "ὁ δεύτερος θάνατος οὐκ ἔχει"
+    "verse": "ὁ δεύτερος θάνατος οὐκ ἔχει",
+    "verseBefore": "ὁ δεύτερος ",
+    "verseAfter": " οὐκ ἔχει"
   },
   {
     "reference": "Revelation 20:13",
     "word": "θάνατος",
-    "verse": "καὶ ὁ θάνατος καὶ ὁ"
+    "verse": "καὶ ὁ θάνατος καὶ ὁ",
+    "verseBefore": "καὶ ὁ ",
+    "verseAfter": " καὶ ὁ"
   },
   {
     "reference": "Revelation 20:14",
     "word": "θάνατος",
-    "verse": "καὶ ὁ θάνατος καὶ ὁ"
+    "verse": "καὶ ὁ θάνατος καὶ ὁ",
+    "verseBefore": "καὶ ὁ ",
+    "verseAfter": " καὶ ὁ"
   },
   {
     "reference": "Revelation 20:14",
     "word": "θάνατος",
-    "verse": "οὗτος ὁ θάνατος ὁ δεύτερός"
+    "verse": "οὗτος ὁ θάνατος ὁ δεύτερός",
+    "verseBefore": "οὗτος ὁ ",
+    "verseAfter": " ὁ δεύτερός"
   },
   {
     "reference": "Revelation 21:4",
     "word": "θάνατος",
-    "verse": "καὶ ὁ θάνατος οὐκ ἔσται"
+    "verse": "καὶ ὁ θάνατος οὐκ ἔσται",
+    "verseBefore": "καὶ ὁ ",
+    "verseAfter": " οὐκ ἔσται"
   },
   {
     "reference": "Revelation 21:8",
     "word": "θάνατος",
-    "verse": "ἐστιν ὁ θάνατος ὁ δεύτερος"
+    "verse": "ἐστιν ὁ θάνατος ὁ δεύτερος",
+    "verseBefore": "ἐστιν ὁ ",
+    "verseAfter": " ὁ δεύτερος"
   }
 ]

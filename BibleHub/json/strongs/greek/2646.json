@@ -2,16 +2,22 @@
   {
     "reference": "Mark 14:14",
     "word": "κατάλυμά",
-    "verse": "ἐστὶν τὸ κατάλυμά μου ὅπου"
+    "verse": "ἐστὶν τὸ κατάλυμά μου ὅπου",
+    "verseBefore": "ἐστὶν τὸ ",
+    "verseAfter": " μου ὅπου"
   },
   {
     "reference": "Luke 2:7",
     "word": "καταλύματι",
-    "verse": "ἐν τῷ καταλύματι "
+    "verse": "ἐν τῷ καταλύματι ",
+    "verseBefore": "ἐν τῷ ",
+    "verseAfter": " "
   },
   {
     "reference": "Luke 22:11",
     "word": "κατάλυμα",
-    "verse": "ἐστὶν τὸ κατάλυμα ὅπου τὸ"
+    "verse": "ἐστὶν τὸ κατάλυμα ὅπου τὸ",
+    "verseBefore": "ἐστὶν τὸ ",
+    "verseAfter": " ὅπου τὸ"
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "1 Corinthians 16:1",
     "word": "λογείας",
-    "verse": "δὲ τῆς λογείας τῆς εἰς"
+    "verse": "δὲ τῆς λογείας τῆς εἰς",
+    "verseBefore": "δὲ τῆς ",
+    "verseAfter": " τῆς εἰς"
   },
   {
     "reference": "1 Corinthians 16:2",
     "word": "λογεῖαι",
-    "verse": "ἔλθω τότε λογεῖαι γίνωνται "
+    "verse": "ἔλθω τότε λογεῖαι γίνωνται ",
+    "verseBefore": "ἔλθω τότε ",
+    "verseAfter": " γίνωνται "
   }
 ]

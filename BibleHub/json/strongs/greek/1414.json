@@ -2,16 +2,22 @@
   {
     "reference": "Romans 14:4",
     "word": "δυνατεῖ",
-    "verse": "σταθήσεται δέ δυνατεῖ γὰρ ὁ"
+    "verse": "σταθήσεται δέ δυνατεῖ γὰρ ὁ",
+    "verseBefore": "σταθήσεται δέ ",
+    "verseAfter": " γὰρ ὁ"
   },
   {
     "reference": "2 Corinthians 9:8",
     "word": "δυνατεῖ",
-    "verse": "δυνατεῖ δὲ ὁ"
+    "verse": "δυνατεῖ δὲ ὁ",
+    "verseBefore": "",
+    "verseAfter": " δὲ ὁ"
   },
   {
     "reference": "2 Corinthians 13:3",
     "word": "δυνατεῖ",
-    "verse": "ἀσθενεῖ ἀλλὰ δυνατεῖ ἐν ὑμῖν"
+    "verse": "ἀσθενεῖ ἀλλὰ δυνατεῖ ἐν ὑμῖν",
+    "verseBefore": "ἀσθενεῖ ἀλλὰ ",
+    "verseAfter": " ἐν ὑμῖν"
   }
 ]

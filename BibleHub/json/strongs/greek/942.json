@@ -2,26 +2,36 @@
   {
     "reference": "Mark 12:26",
     "word": "βάτου",
-    "verse": "ἐπὶ τοῦ βάτου πῶς εἶπεν"
+    "verse": "ἐπὶ τοῦ βάτου πῶς εἶπεν",
+    "verseBefore": "ἐπὶ τοῦ ",
+    "verseAfter": " πῶς εἶπεν"
   },
   {
     "reference": "Luke 6:44",
     "word": "βάτου",
-    "verse": "οὐδὲ ἐκ βάτου σταφυλὴν τρυγῶσιν"
+    "verse": "οὐδὲ ἐκ βάτου σταφυλὴν τρυγῶσιν",
+    "verseBefore": "οὐδὲ ἐκ ",
+    "verseAfter": " σταφυλὴν τρυγῶσιν"
   },
   {
     "reference": "Luke 20:37",
     "word": "βάτου",
-    "verse": "ἐπὶ τῆς βάτου ὡς λέγει"
+    "verse": "ἐπὶ τῆς βάτου ὡς λέγει",
+    "verseBefore": "ἐπὶ τῆς ",
+    "verseAfter": " ὡς λέγει"
   },
   {
     "reference": "Acts 7:30",
     "word": "βάτου",
-    "verse": "φλογὶ πυρὸς βάτου "
+    "verse": "φλογὶ πυρὸς βάτου ",
+    "verseBefore": "φλογὶ πυρὸς ",
+    "verseAfter": " "
   },
   {
     "reference": "Acts 7:35",
     "word": "βάτῳ",
-    "verse": "ἐν τῇ βάτῳ "
+    "verse": "ἐν τῇ βάτῳ ",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " "
   }
 ]

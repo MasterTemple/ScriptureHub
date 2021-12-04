@@ -2,11 +2,15 @@
   {
     "reference": "1 Corinthians 7:31",
     "word": "σχῆμα",
-    "verse": "γὰρ τὸ σχῆμα τοῦ κόσμου"
+    "verse": "γὰρ τὸ σχῆμα τοῦ κόσμου",
+    "verseBefore": "γὰρ τὸ ",
+    "verseAfter": " τοῦ κόσμου"
   },
   {
     "reference": "Philippians 2:8",
     "word": "σχήματι",
-    "verse": "καὶ σχήματι εὑρεθεὶς ὡς"
+    "verse": "καὶ σχήματι εὑρεθεὶς ὡς",
+    "verseBefore": "καὶ ",
+    "verseAfter": " εὑρεθεὶς ὡς"
   }
 ]

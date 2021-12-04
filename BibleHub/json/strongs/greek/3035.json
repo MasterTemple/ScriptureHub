@@ -2,16 +2,22 @@
   {
     "reference": "John 2:6",
     "word": "λίθιναι",
-    "verse": "δὲ ἐκεῖ λίθιναι ὑδρίαι ἓξ"
+    "verse": "δὲ ἐκεῖ λίθιναι ὑδρίαι ἓξ",
+    "verseBefore": "δὲ ἐκεῖ ",
+    "verseAfter": " ὑδρίαι ἓξ"
   },
   {
     "reference": "2 Corinthians 3:3",
     "word": "λιθίναις",
-    "verse": "ἐν πλαξὶν λιθίναις ἀλλ' ἐν"
+    "verse": "ἐν πλαξὶν λιθίναις ἀλλ' ἐν",
+    "verseBefore": "ἐν πλαξὶν ",
+    "verseAfter": " ἀλλ' ἐν"
   },
   {
     "reference": "Revelation 9:20",
     "word": "λίθινα",
-    "verse": "καὶ τὰ λίθινα καὶ τὰ"
+    "verse": "καὶ τὰ λίθινα καὶ τὰ",
+    "verseBefore": "καὶ τὰ ",
+    "verseAfter": " καὶ τὰ"
   }
 ]

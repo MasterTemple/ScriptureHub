@@ -2,16 +2,22 @@
   {
     "reference": "Matthew 22:4",
     "word": "ἄριστόν",
-    "verse": "Ἰδοὺ τὸ ἄριστόν μου ἡτοίμακα"
+    "verse": "Ἰδοὺ τὸ ἄριστόν μου ἡτοίμακα",
+    "verseBefore": "Ἰδοὺ τὸ ",
+    "verseAfter": " μου ἡτοίμακα"
   },
   {
     "reference": "Luke 11:38",
     "word": "ἀρίστου",
-    "verse": "πρὸ τοῦ ἀρίστου "
+    "verse": "πρὸ τοῦ ἀρίστου ",
+    "verseBefore": "πρὸ τοῦ ",
+    "verseAfter": " "
   },
   {
     "reference": "Luke 14:12",
     "word": "ἄριστον",
-    "verse": "Ὅταν ποιῇς ἄριστον ἢ δεῖπνον"
+    "verse": "Ὅταν ποιῇς ἄριστον ἢ δεῖπνον",
+    "verseBefore": "Ὅταν ποιῇς ",
+    "verseAfter": " ἢ δεῖπνον"
   }
 ]

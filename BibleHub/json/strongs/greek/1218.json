@@ -2,21 +2,29 @@
   {
     "reference": "Acts 12:22",
     "word": "δῆμος",
-    "verse": "ὁ δὲ δῆμος ἐπεφώνει Θεοῦ"
+    "verse": "ὁ δὲ δῆμος ἐπεφώνει Θεοῦ",
+    "verseBefore": "ὁ δὲ ",
+    "verseAfter": " ἐπεφώνει Θεοῦ"
   },
   {
     "reference": "Acts 17:5",
     "word": "δῆμον",
-    "verse": "εἰς τὸν δῆμον "
+    "verse": "εἰς τὸν δῆμον ",
+    "verseBefore": "εἰς τὸν ",
+    "verseAfter": " "
   },
   {
     "reference": "Acts 19:30",
     "word": "δῆμον",
-    "verse": "εἰς τὸν δῆμον οὐκ εἴων"
+    "verse": "εἰς τὸν δῆμον οὐκ εἴων",
+    "verseBefore": "εἰς τὸν ",
+    "verseAfter": " οὐκ εἴων"
   },
   {
     "reference": "Acts 19:33",
     "word": "δήμῳ",
-    "verse": "ἀπολογεῖσθαι τῷ δήμῳ "
+    "verse": "ἀπολογεῖσθαι τῷ δήμῳ ",
+    "verseBefore": "ἀπολογεῖσθαι τῷ ",
+    "verseAfter": " "
   }
 ]

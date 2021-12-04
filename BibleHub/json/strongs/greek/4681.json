@@ -2,11 +2,15 @@
   {
     "reference": "Romans 15:24",
     "word": "Σπανίαν",
-    "verse": "εἰς τὴν Σπανίαν ἐλπίζω γὰρ"
+    "verse": "εἰς τὴν Σπανίαν ἐλπίζω γὰρ",
+    "verseBefore": "εἰς τὴν ",
+    "verseAfter": " ἐλπίζω γὰρ"
   },
   {
     "reference": "Romans 15:28",
     "word": "Σπανίαν",
-    "verse": "ὑμῶν εἰς Σπανίαν "
+    "verse": "ὑμῶν εἰς Σπανίαν ",
+    "verseBefore": "ὑμῶν εἰς ",
+    "verseAfter": " "
   }
 ]

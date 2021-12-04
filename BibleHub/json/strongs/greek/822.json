@@ -2,11 +2,15 @@
   {
     "reference": "Acts 2:19",
     "word": "ἀτμίδα",
-    "verse": "πῦρ καὶ ἀτμίδα καπνοῦ "
+    "verse": "πῦρ καὶ ἀτμίδα καπνοῦ ",
+    "verseBefore": "πῦρ καὶ ",
+    "verseAfter": " καπνοῦ "
   },
   {
     "reference": "James 4:14",
     "word": "ἀτμὶς",
-    "verse": "ζωὴ ὑμῶν ἀτμὶς γάρ ἐστε"
+    "verse": "ζωὴ ὑμῶν ἀτμὶς γάρ ἐστε",
+    "verseBefore": "ζωὴ ὑμῶν ",
+    "verseAfter": " γάρ ἐστε"
   }
 ]

@@ -2,26 +2,36 @@
   {
     "reference": "Matthew 8:24",
     "word": "κυμάτων",
-    "verse": "ὑπὸ τῶν κυμάτων αὐτὸς δὲ"
+    "verse": "ὑπὸ τῶν κυμάτων αὐτὸς δὲ",
+    "verseBefore": "ὑπὸ τῶν ",
+    "verseAfter": " αὐτὸς δὲ"
   },
   {
     "reference": "Matthew 14:24",
     "word": "κυμάτων",
-    "verse": "ὑπὸ τῶν κυμάτων ἦν γὰρ"
+    "verse": "ὑπὸ τῶν κυμάτων ἦν γὰρ",
+    "verseBefore": "ὑπὸ τῶν ",
+    "verseAfter": " ἦν γὰρ"
   },
   {
     "reference": "Mark 4:37",
     "word": "κύματα",
-    "verse": "καὶ τὰ κύματα ἐπέβαλλεν εἰς"
+    "verse": "καὶ τὰ κύματα ἐπέβαλλεν εἰς",
+    "verseBefore": "καὶ τὰ ",
+    "verseAfter": " ἐπέβαλλεν εἰς"
   },
   {
     "reference": "Acts 27:41",
     "word": "κυμάτων",
-    "verse": "βίας τῶν κυμάτων "
+    "verse": "βίας τῶν κυμάτων ",
+    "verseBefore": "βίας τῶν ",
+    "verseAfter": " "
   },
   {
     "reference": "Jude 1:13",
     "word": "κύματα",
-    "verse": "κύματα ἄγρια θαλάσσης"
+    "verse": "κύματα ἄγρια θαλάσσης",
+    "verseBefore": "",
+    "verseAfter": " ἄγρια θαλάσσης"
   }
 ]

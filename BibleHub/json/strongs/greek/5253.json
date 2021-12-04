@@ -2,21 +2,29 @@
   {
     "reference": "Acts 1:13",
     "word": "ὑπερῷον",
-    "verse": "εἰς τὸ ὑπερῷον ἀνέβησαν οὗ"
+    "verse": "εἰς τὸ ὑπερῷον ἀνέβησαν οὗ",
+    "verseBefore": "εἰς τὸ ",
+    "verseAfter": " ἀνέβησαν οὗ"
   },
   {
     "reference": "Acts 9:37",
     "word": "ὑπερῴῳ",
-    "verse": "αὐτὴν ἐν ὑπερῴῳ "
+    "verse": "αὐτὴν ἐν ὑπερῴῳ ",
+    "verseBefore": "αὐτὴν ἐν ",
+    "verseAfter": " "
   },
   {
     "reference": "Acts 9:39",
     "word": "ὑπερῷον",
-    "verse": "εἰς τὸ ὑπερῷον καὶ παρέστησαν"
+    "verse": "εἰς τὸ ὑπερῷον καὶ παρέστησαν",
+    "verseBefore": "εἰς τὸ ",
+    "verseAfter": " καὶ παρέστησαν"
   },
   {
     "reference": "Acts 20:8",
     "word": "ὑπερῴῳ",
-    "verse": "ἐν τῷ ὑπερῴῳ οὗ ἦμεν"
+    "verse": "ἐν τῷ ὑπερῴῳ οὗ ἦμεν",
+    "verseBefore": "ἐν τῷ ",
+    "verseAfter": " οὗ ἦμεν"
   }
 ]

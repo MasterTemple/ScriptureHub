@@ -2,16 +2,22 @@
   {
     "reference": "Luke 1:18",
     "word": "πρεσβύτης",
-    "verse": "γάρ εἰμι πρεσβύτης καὶ ἡ"
+    "verse": "γάρ εἰμι πρεσβύτης καὶ ἡ",
+    "verseBefore": "γάρ εἰμι ",
+    "verseAfter": " καὶ ἡ"
   },
   {
     "reference": "Titus 2:2",
     "word": "Πρεσβύτας",
-    "verse": "Πρεσβύτας νηφαλίους εἶναι"
+    "verse": "Πρεσβύτας νηφαλίους εἶναι",
+    "verseBefore": "",
+    "verseAfter": " νηφαλίους εἶναι"
   },
   {
     "reference": "Philemon 1:9",
     "word": "πρεσβύτης",
-    "verse": "ὡς Παῦλος πρεσβύτης νυνὶ δὲ"
+    "verse": "ὡς Παῦλος πρεσβύτης νυνὶ δὲ",
+    "verseBefore": "ὡς Παῦλος ",
+    "verseAfter": " νυνὶ δὲ"
   }
 ]

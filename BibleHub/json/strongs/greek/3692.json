@@ -2,11 +2,15 @@
   {
     "reference": "Hebrews 11:38",
     "word": "ὀπαῖς",
-    "verse": "καὶ ταῖς ὀπαῖς τῆς γῆς"
+    "verse": "καὶ ταῖς ὀπαῖς τῆς γῆς",
+    "verseBefore": "καὶ ταῖς ",
+    "verseAfter": " τῆς γῆς"
   },
   {
     "reference": "James 3:11",
     "word": "ὀπῆς",
-    "verse": "τῆς αὐτῆς ὀπῆς βρύει τὸ"
+    "verse": "τῆς αὐτῆς ὀπῆς βρύει τὸ",
+    "verseBefore": "τῆς αὐτῆς ",
+    "verseAfter": " βρύει τὸ"
   }
 ]

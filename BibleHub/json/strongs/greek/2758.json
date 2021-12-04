@@ -2,26 +2,36 @@
   {
     "reference": "Romans 4:14",
     "word": "κεκένωται",
-    "verse": "νόμου κληρονόμοι κεκένωται ἡ πίστις"
+    "verse": "νόμου κληρονόμοι κεκένωται ἡ πίστις",
+    "verseBefore": "νόμου κληρονόμοι ",
+    "verseAfter": " ἡ πίστις"
   },
   {
     "reference": "1 Corinthians 1:17",
     "word": "κενωθῇ",
-    "verse": "ἵνα μὴ κενωθῇ ὁ σταυρὸς"
+    "verse": "ἵνα μὴ κενωθῇ ὁ σταυρὸς",
+    "verseBefore": "ἵνα μὴ ",
+    "verseAfter": " ὁ σταυρὸς"
   },
   {
     "reference": "1 Corinthians 9:15",
     "word": "κενώσει",
-    "verse": "μου οὐδεὶς κενώσει "
+    "verse": "μου οὐδεὶς κενώσει ",
+    "verseBefore": "μου οὐδεὶς ",
+    "verseAfter": " "
   },
   {
     "reference": "2 Corinthians 9:3",
     "word": "κενωθῇ",
-    "verse": "ὑπὲρ ὑμῶν κενωθῇ ἐν τῷ"
+    "verse": "ὑπὲρ ὑμῶν κενωθῇ ἐν τῷ",
+    "verseBefore": "ὑπὲρ ὑμῶν ",
+    "verseAfter": " ἐν τῷ"
   },
   {
     "reference": "Philippians 2:7",
     "word": "ἐκένωσεν",
-    "verse": "ἀλλὰ ἑαυτὸν ἐκένωσεν μορφὴν δούλου"
+    "verse": "ἀλλὰ ἑαυτὸν ἐκένωσεν μορφὴν δούλου",
+    "verseBefore": "ἀλλὰ ἑαυτὸν ",
+    "verseAfter": " μορφὴν δούλου"
   }
 ]

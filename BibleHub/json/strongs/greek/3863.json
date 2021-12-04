@@ -2,21 +2,29 @@
   {
     "reference": "Romans 10:19",
     "word": "παραζηλώσω",
-    "verse": "λέγει Ἐγὼ παραζηλώσω ὑμᾶς ἐπ'"
+    "verse": "λέγει Ἐγὼ παραζηλώσω ὑμᾶς ἐπ'",
+    "verseBefore": "λέγει Ἐγὼ ",
+    "verseAfter": " ὑμᾶς ἐπ'"
   },
   {
     "reference": "Romans 11:11",
     "word": "παραζηλῶσαι",
-    "verse": "εἰς τὸ παραζηλῶσαι αὐτούς "
+    "verse": "εἰς τὸ παραζηλῶσαι αὐτούς ",
+    "verseBefore": "εἰς τὸ ",
+    "verseAfter": " αὐτούς "
   },
   {
     "reference": "Romans 11:14",
     "word": "παραζηλώσω",
-    "verse": "εἴ πως παραζηλώσω μου τὴν"
+    "verse": "εἴ πως παραζηλώσω μου τὴν",
+    "verseBefore": "εἴ πως ",
+    "verseAfter": " μου τὴν"
   },
   {
     "reference": "1 Corinthians 10:22",
     "word": "παραζηλοῦμεν",
-    "verse": "ἢ παραζηλοῦμεν τὸν κύριον"
+    "verse": "ἢ παραζηλοῦμεν τὸν κύριον",
+    "verseBefore": "ἢ ",
+    "verseAfter": " τὸν κύριον"
   }
 ]

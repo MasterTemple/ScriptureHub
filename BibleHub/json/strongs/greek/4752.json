@@ -2,11 +2,15 @@
   {
     "reference": "2 Corinthians 10:4",
     "word": "στρατείας",
-    "verse": "ὅπλα τῆς στρατείας ἡμῶν οὐ"
+    "verse": "ὅπλα τῆς στρατείας ἡμῶν οὐ",
+    "verseBefore": "ὅπλα τῆς ",
+    "verseAfter": " ἡμῶν οὐ"
   },
   {
     "reference": "1 Timothy 1:18",
     "word": "στρατείαν",
-    "verse": "τὴν καλὴν στρατείαν "
+    "verse": "τὴν καλὴν στρατείαν ",
+    "verseBefore": "τὴν καλὴν ",
+    "verseAfter": " "
   }
 ]

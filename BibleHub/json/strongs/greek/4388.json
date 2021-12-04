@@ -2,16 +2,22 @@
   {
     "reference": "Romans 1:13",
     "word": "προεθέμην",
-    "verse": "ὅτι πολλάκις προεθέμην ἐλθεῖν πρὸς"
+    "verse": "ὅτι πολλάκις προεθέμην ἐλθεῖν πρὸς",
+    "verseBefore": "ὅτι πολλάκις ",
+    "verseAfter": " ἐλθεῖν πρὸς"
   },
   {
     "reference": "Romans 3:25",
     "word": "προέθετο",
-    "verse": "ὃν προέθετο ὁ θεὸς"
+    "verse": "ὃν προέθετο ὁ θεὸς",
+    "verseBefore": "ὃν ",
+    "verseAfter": " ὁ θεὸς"
   },
   {
     "reference": "Ephesians 1:9",
     "word": "προέθετο",
-    "verse": "αὐτοῦ ἣν προέθετο ἐν αὐτῷ"
+    "verse": "αὐτοῦ ἣν προέθετο ἐν αὐτῷ",
+    "verseBefore": "αὐτοῦ ἣν ",
+    "verseAfter": " ἐν αὐτῷ"
   }
 ]

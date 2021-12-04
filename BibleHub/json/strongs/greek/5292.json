@@ -2,21 +2,29 @@
   {
     "reference": "2 Corinthians 9:13",
     "word": "ὑποταγῇ",
-    "verse": "ἐπὶ τῇ ὑποταγῇ τῆς ὁμολογίας"
+    "verse": "ἐπὶ τῇ ὑποταγῇ τῆς ὁμολογίας",
+    "verseBefore": "ἐπὶ τῇ ",
+    "verseAfter": " τῆς ὁμολογίας"
   },
   {
     "reference": "Galatians 2:5",
     "word": "ὑποταγῇ",
-    "verse": "εἴξαμεν τῇ ὑποταγῇ ἵνα ἡ"
+    "verse": "εἴξαμεν τῇ ὑποταγῇ ἵνα ἡ",
+    "verseBefore": "εἴξαμεν τῇ ",
+    "verseAfter": " ἵνα ἡ"
   },
   {
     "reference": "1 Timothy 2:11",
     "word": "ὑποταγῇ",
-    "verse": "ἐν πάσῃ ὑποταγῇ "
+    "verse": "ἐν πάσῃ ὑποταγῇ ",
+    "verseBefore": "ἐν πάσῃ ",
+    "verseAfter": " "
   },
   {
     "reference": "1 Timothy 3:4",
     "word": "ὑποταγῇ",
-    "verse": "ἔχοντα ἐν ὑποταγῇ μετὰ πάσης"
+    "verse": "ἔχοντα ἐν ὑποταγῇ μετὰ πάσης",
+    "verseBefore": "ἔχοντα ἐν ",
+    "verseAfter": " μετὰ πάσης"
   }
 ]

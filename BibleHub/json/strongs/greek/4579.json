@@ -2,26 +2,36 @@
   {
     "reference": "Matthew 21:10",
     "word": "ἐσείσθη",
-    "verse": "εἰς Ἰεροσόλυμα ἐσείσθη πᾶσα ἡ"
+    "verse": "εἰς Ἰεροσόλυμα ἐσείσθη πᾶσα ἡ",
+    "verseBefore": "εἰς Ἰεροσόλυμα ",
+    "verseAfter": " πᾶσα ἡ"
   },
   {
     "reference": "Matthew 27:51",
     "word": "ἐσείσθη",
-    "verse": "ἡ γῆ ἐσείσθη καὶ αἱ"
+    "verse": "ἡ γῆ ἐσείσθη καὶ αἱ",
+    "verseBefore": "ἡ γῆ ",
+    "verseAfter": " καὶ αἱ"
   },
   {
     "reference": "Matthew 28:4",
     "word": "ἐσείσθησαν",
-    "verse": "φόβου αὐτοῦ ἐσείσθησαν οἱ τηροῦντες"
+    "verse": "φόβου αὐτοῦ ἐσείσθησαν οἱ τηροῦντες",
+    "verseBefore": "φόβου αὐτοῦ ",
+    "verseAfter": " οἱ τηροῦντες"
   },
   {
     "reference": "Hebrews 12:26",
     "word": "σείσω",
-    "verse": "ἅπαξ ἐγὼ σείσω οὐ μόνον"
+    "verse": "ἅπαξ ἐγὼ σείσω οὐ μόνον",
+    "verseBefore": "ἅπαξ ἐγὼ ",
+    "verseAfter": " οὐ μόνον"
   },
   {
     "reference": "Revelation 6:13",
     "word": "σειομένη",
-    "verse": "ἀνέμου μεγάλου σειομένη "
+    "verse": "ἀνέμου μεγάλου σειομένη ",
+    "verseBefore": "ἀνέμου μεγάλου ",
+    "verseAfter": " "
   }
 ]

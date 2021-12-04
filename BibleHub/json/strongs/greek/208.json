@@ -2,16 +2,22 @@
   {
     "reference": "Matthew 15:6",
     "word": "ἠκυρώσατε",
-    "verse": "αὐτοῦ καὶ ἠκυρώσατε τὸν λόγον"
+    "verse": "αὐτοῦ καὶ ἠκυρώσατε τὸν λόγον",
+    "verseBefore": "αὐτοῦ καὶ ",
+    "verseAfter": " τὸν λόγον"
   },
   {
     "reference": "Mark 7:13",
     "word": "ἀκυροῦντες",
-    "verse": "ἀκυροῦντες τὸν λόγον"
+    "verse": "ἀκυροῦντες τὸν λόγον",
+    "verseBefore": "",
+    "verseAfter": " τὸν λόγον"
   },
   {
     "reference": "Galatians 3:17",
     "word": "ἀκυροῖ",
-    "verse": "νόμος οὐκ ἀκυροῖ εἰς τὸ"
+    "verse": "νόμος οὐκ ἀκυροῖ εἰς τὸ",
+    "verseBefore": "νόμος οὐκ ",
+    "verseAfter": " εἰς τὸ"
   }
 ]

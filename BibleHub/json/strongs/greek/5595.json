@@ -2,11 +2,15 @@
   {
     "reference": "Romans 12:20",
     "word": "ψώμιζε",
-    "verse": "ἐχθρός σου ψώμιζε αὐτόν ἐὰν"
+    "verse": "ἐχθρός σου ψώμιζε αὐτόν ἐὰν",
+    "verseBefore": "ἐχθρός σου ",
+    "verseAfter": " αὐτόν ἐὰν"
   },
   {
     "reference": "1 Corinthians 13:3",
     "word": "ψωμίσω",
-    "verse": "κἂν ψωμίσω πάντα τὰ"
+    "verse": "κἂν ψωμίσω πάντα τὰ",
+    "verseBefore": "κἂν ",
+    "verseAfter": " πάντα τὰ"
   }
 ]

@@ -2,16 +2,22 @@
   {
     "reference": "Acts 25:27",
     "word": "ἄλογον",
-    "verse": "ἄλογον γάρ μοι"
+    "verse": "ἄλογον γάρ μοι",
+    "verseBefore": "",
+    "verseAfter": " γάρ μοι"
   },
   {
     "reference": "2 Peter 2:12",
     "word": "ἄλογα",
-    "verse": "δέ ὡς ἄλογα ζῷα γεγεννημένα"
+    "verse": "δέ ὡς ἄλογα ζῷα γεγεννημένα",
+    "verseBefore": "δέ ὡς ",
+    "verseAfter": " ζῷα γεγεννημένα"
   },
   {
     "reference": "Jude 1:10",
     "word": "ἄλογα",
-    "verse": "ὡς τὰ ἄλογα ζῷα ἐπίστανται"
+    "verse": "ὡς τὰ ἄλογα ζῷα ἐπίστανται",
+    "verseBefore": "ὡς τὰ ",
+    "verseAfter": " ζῷα ἐπίστανται"
   }
 ]

@@ -2,31 +2,43 @@
   {
     "reference": "Luke 15:23",
     "word": "μόσχον",
-    "verse": "φέρετε τὸν μόσχον τὸν σιτευτόν"
+    "verse": "φέρετε τὸν μόσχον τὸν σιτευτόν",
+    "verseBefore": "φέρετε τὸν ",
+    "verseAfter": " τὸν σιτευτόν"
   },
   {
     "reference": "Luke 15:27",
     "word": "μόσχον",
-    "verse": "σου τὸν μόσχον τὸν σιτευτόν"
+    "verse": "σου τὸν μόσχον τὸν σιτευτόν",
+    "verseBefore": "σου τὸν ",
+    "verseAfter": " τὸν σιτευτόν"
   },
   {
     "reference": "Luke 15:30",
     "word": "μόσχον",
-    "verse": "τὸν σιτευτὸν μόσχον "
+    "verse": "τὸν σιτευτὸν μόσχον ",
+    "verseBefore": "τὸν σιτευτὸν ",
+    "verseAfter": " "
   },
   {
     "reference": "Hebrews 9:12",
     "word": "μόσχων",
-    "verse": "τράγων καὶ μόσχων διὰ δὲ"
+    "verse": "τράγων καὶ μόσχων διὰ δὲ",
+    "verseBefore": "τράγων καὶ ",
+    "verseAfter": " διὰ δὲ"
   },
   {
     "reference": "Hebrews 9:19",
     "word": "μόσχων",
-    "verse": "αἷμα τῶν μόσχων καὶ τῶν"
+    "verse": "αἷμα τῶν μόσχων καὶ τῶν",
+    "verseBefore": "αἷμα τῶν ",
+    "verseAfter": " καὶ τῶν"
   },
   {
     "reference": "Revelation 4:7",
     "word": "μόσχῳ",
-    "verse": "ζῷον ὅμοιον μόσχῳ καὶ τὸ"
+    "verse": "ζῷον ὅμοιον μόσχῳ καὶ τὸ",
+    "verseBefore": "ζῷον ὅμοιον ",
+    "verseAfter": " καὶ τὸ"
   }
 ]

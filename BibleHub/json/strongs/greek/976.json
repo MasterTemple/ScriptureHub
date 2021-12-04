@@ -2,51 +2,71 @@
   {
     "reference": "Matthew 1:1",
     "word": "ΒΙΒΛΟΣ",
-    "verse": "ΒΙΒΛΟΣ γενέσεως Ἰησοῦ"
+    "verse": "ΒΙΒΛΟΣ γενέσεως Ἰησοῦ",
+    "verseBefore": "",
+    "verseAfter": " γενέσεως Ἰησοῦ"
   },
   {
     "reference": "Mark 12:26",
     "word": "βίβλῳ",
-    "verse": "ἐν τῇ βίβλῳ Μωυσέως ἐπὶ"
+    "verse": "ἐν τῇ βίβλῳ Μωυσέως ἐπὶ",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " Μωυσέως ἐπὶ"
   },
   {
     "reference": "Luke 3:4",
     "word": "βίβλῳ",
-    "verse": "γέγραπται ἐν βίβλῳ λόγων Ἠσαίου"
+    "verse": "γέγραπται ἐν βίβλῳ λόγων Ἠσαίου",
+    "verseBefore": "γέγραπται ἐν ",
+    "verseAfter": " λόγων Ἠσαίου"
   },
   {
     "reference": "Luke 20:42",
     "word": "Βίβλῳ",
-    "verse": "λέγει ἐν Βίβλῳ Ψαλμῶν Εἶπεν"
+    "verse": "λέγει ἐν Βίβλῳ Ψαλμῶν Εἶπεν",
+    "verseBefore": "λέγει ἐν ",
+    "verseAfter": " Ψαλμῶν Εἶπεν"
   },
   {
     "reference": "Acts 1:20",
     "word": "Βίβλῳ",
-    "verse": "γὰρ ἐν Βίβλῳ Ψαλμῶν Γενηθήτω"
+    "verse": "γὰρ ἐν Βίβλῳ Ψαλμῶν Γενηθήτω",
+    "verseBefore": "γὰρ ἐν ",
+    "verseAfter": " Ψαλμῶν Γενηθήτω"
   },
   {
     "reference": "Acts 7:42",
     "word": "Βίβλῳ",
-    "verse": "γέγραπται ἐν Βίβλῳ τῶν προφητῶν"
+    "verse": "γέγραπται ἐν Βίβλῳ τῶν προφητῶν",
+    "verseBefore": "γέγραπται ἐν ",
+    "verseAfter": " τῶν προφητῶν"
   },
   {
     "reference": "Acts 19:19",
     "word": "βίβλους",
-    "verse": "συνενέγκαντες τὰς βίβλους κατέκαιον ἐνώπιον"
+    "verse": "συνενέγκαντες τὰς βίβλους κατέκαιον ἐνώπιον",
+    "verseBefore": "συνενέγκαντες τὰς ",
+    "verseAfter": " κατέκαιον ἐνώπιον"
   },
   {
     "reference": "Philippians 4:3",
     "word": "βίβλῳ",
-    "verse": "ὀνόματα ἐν βίβλῳ ζωῆς "
+    "verse": "ὀνόματα ἐν βίβλῳ ζωῆς ",
+    "verseBefore": "ὀνόματα ἐν ",
+    "verseAfter": " ζωῆς "
   },
   {
     "reference": "Revelation 3:5",
     "word": "βίβλου",
-    "verse": "ἐκ τῆς βίβλου τῆς ζωῆς"
+    "verse": "ἐκ τῆς βίβλου τῆς ζωῆς",
+    "verseBefore": "ἐκ τῆς ",
+    "verseAfter": " τῆς ζωῆς"
   },
   {
     "reference": "Revelation 20:15",
     "word": "βίβλῳ",
-    "verse": "ἐν τῇ βίβλῳ τῆς ζωῆς"
+    "verse": "ἐν τῇ βίβλῳ τῆς ζωῆς",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " τῆς ζωῆς"
   }
 ]

@@ -2,21 +2,29 @@
   {
     "reference": "John 4:36",
     "word": "ὁμοῦ",
-    "verse": "ὁ σπείρων ὁμοῦ χαίρῃ καὶ"
+    "verse": "ὁ σπείρων ὁμοῦ χαίρῃ καὶ",
+    "verseBefore": "ὁ σπείρων ",
+    "verseAfter": " χαίρῃ καὶ"
   },
   {
     "reference": "John 20:4",
     "word": "ὁμοῦ",
-    "verse": "οἱ δύο ὁμοῦ καὶ ὁ"
+    "verse": "οἱ δύο ὁμοῦ καὶ ὁ",
+    "verseBefore": "οἱ δύο ",
+    "verseAfter": " καὶ ὁ"
   },
   {
     "reference": "John 21:2",
     "word": "ὁμοῦ",
-    "verse": "Ἦσαν ὁμοῦ Σίμων Πέτρος"
+    "verse": "Ἦσαν ὁμοῦ Σίμων Πέτρος",
+    "verseBefore": "Ἦσαν ",
+    "verseAfter": " Σίμων Πέτρος"
   },
   {
     "reference": "Acts 2:1",
     "word": "ὁμοῦ",
-    "verse": "ἦσαν πάντες ὁμοῦ ἐπὶ τὸ"
+    "verse": "ἦσαν πάντες ὁμοῦ ἐπὶ τὸ",
+    "verseBefore": "ἦσαν πάντες ",
+    "verseAfter": " ἐπὶ τὸ"
   }
 ]

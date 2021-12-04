@@ -2,11 +2,15 @@
   {
     "reference": "James 3:3",
     "word": "χαλινοὺς",
-    "verse": "ἵππων τοὺς χαλινοὺς εἰς τὰ"
+    "verse": "ἵππων τοὺς χαλινοὺς εἰς τὰ",
+    "verseBefore": "ἵππων τοὺς ",
+    "verseAfter": " εἰς τὰ"
   },
   {
     "reference": "Revelation 14:20",
     "word": "χαλινῶν",
-    "verse": "ἄχρι τῶν χαλινῶν τῶν ἵππων"
+    "verse": "ἄχρι τῶν χαλινῶν τῶν ἵππων",
+    "verseBefore": "ἄχρι τῶν ",
+    "verseAfter": " τῶν ἵππων"
   }
 ]

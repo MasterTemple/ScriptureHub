@@ -2,21 +2,29 @@
   {
     "reference": "Matthew 6:3",
     "word": "ἀριστερά",
-    "verse": "γνώτω ἡ ἀριστερά σου τί"
+    "verse": "γνώτω ἡ ἀριστερά σου τί",
+    "verseBefore": "γνώτω ἡ ",
+    "verseAfter": " σου τί"
   },
   {
     "reference": "Mark 10:37",
     "word": "ἀριστερῶν",
-    "verse": "εἷς ἐξ ἀριστερῶν καθίσωμεν ἐν"
+    "verse": "εἷς ἐξ ἀριστερῶν καθίσωμεν ἐν",
+    "verseBefore": "εἷς ἐξ ",
+    "verseAfter": " καθίσωμεν ἐν"
   },
   {
     "reference": "Luke 23:33",
     "word": "ἀριστερῶν",
-    "verse": "δὲ ἐξ ἀριστερῶν "
+    "verse": "δὲ ἐξ ἀριστερῶν ",
+    "verseBefore": "δὲ ἐξ ",
+    "verseAfter": " "
   },
   {
     "reference": "2 Corinthians 6:7",
     "word": "ἀριστερῶν",
-    "verse": "δεξιῶν καὶ ἀριστερῶν "
+    "verse": "δεξιῶν καὶ ἀριστερῶν ",
+    "verseBefore": "δεξιῶν καὶ ",
+    "verseAfter": " "
   }
 ]

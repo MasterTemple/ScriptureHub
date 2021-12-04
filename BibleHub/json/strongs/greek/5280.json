@@ -2,16 +2,22 @@
   {
     "reference": "2 Timothy 1:5",
     "word": "ὑπόμνησιν",
-    "verse": "ὑπόμνησιν λαβὼν τῆς"
+    "verse": "ὑπόμνησιν λαβὼν τῆς",
+    "verseBefore": "",
+    "verseAfter": " λαβὼν τῆς"
   },
   {
     "reference": "2 Peter 1:13",
     "word": "ὑπομνήσει",
-    "verse": "ὑμᾶς ἐν ὑπομνήσει "
+    "verse": "ὑμᾶς ἐν ὑπομνήσει ",
+    "verseBefore": "ὑμᾶς ἐν ",
+    "verseAfter": " "
   },
   {
     "reference": "2 Peter 3:1",
     "word": "ὑπομνήσει",
-    "verse": "ὑμῶν ἐν ὑπομνήσει τὴν εἰλικρινῆ"
+    "verse": "ὑμῶν ἐν ὑπομνήσει τὴν εἰλικρινῆ",
+    "verseBefore": "ὑμῶν ἐν ",
+    "verseAfter": " τὴν εἰλικρινῆ"
   }
 ]

@@ -2,51 +2,71 @@
   {
     "reference": "Luke 9:36",
     "word": "ἐσίγησαν",
-    "verse": "καὶ αὐτοὶ ἐσίγησαν καὶ οὐδενὶ"
+    "verse": "καὶ αὐτοὶ ἐσίγησαν καὶ οὐδενὶ",
+    "verseBefore": "καὶ αὐτοὶ ",
+    "verseAfter": " καὶ οὐδενὶ"
   },
   {
     "reference": "Luke 18:39",
     "word": "σιγήσῃ",
-    "verse": "αὐτῷ ἵνα σιγήσῃ αὐτὸς δὲ"
+    "verse": "αὐτῷ ἵνα σιγήσῃ αὐτὸς δὲ",
+    "verseBefore": "αὐτῷ ἵνα ",
+    "verseAfter": " αὐτὸς δὲ"
   },
   {
     "reference": "Luke 20:26",
     "word": "ἐσίγησαν",
-    "verse": "ἀποκρίσει αὐτοῦ ἐσίγησαν "
+    "verse": "ἀποκρίσει αὐτοῦ ἐσίγησαν ",
+    "verseBefore": "ἀποκρίσει αὐτοῦ ",
+    "verseAfter": " "
   },
   {
     "reference": "Acts 12:17",
     "word": "σιγᾷν",
-    "verse": "τῇ χειρὶ σιγᾷν διηγήσατο αὐτοῖς"
+    "verse": "τῇ χειρὶ σιγᾷν διηγήσατο αὐτοῖς",
+    "verseBefore": "τῇ χειρὶ ",
+    "verseAfter": " διηγήσατο αὐτοῖς"
   },
   {
     "reference": "Acts 15:12",
     "word": "Ἐσίγησεν",
-    "verse": "Ἐσίγησεν δὲ πᾶν"
+    "verse": "Ἐσίγησεν δὲ πᾶν",
+    "verseBefore": "",
+    "verseAfter": " δὲ πᾶν"
   },
   {
     "reference": "Acts 15:13",
     "word": "σιγῆσαι",
-    "verse": "δὲ τὸ σιγῆσαι αὐτοὺς ἀπεκρίθη"
+    "verse": "δὲ τὸ σιγῆσαι αὐτοὺς ἀπεκρίθη",
+    "verseBefore": "δὲ τὸ ",
+    "verseAfter": " αὐτοὺς ἀπεκρίθη"
   },
   {
     "reference": "Romans 16:25",
     "word": "σεσιγημένου",
-    "verse": "χρόνοις αἰωνίοις σεσιγημένου "
+    "verse": "χρόνοις αἰωνίοις σεσιγημένου ",
+    "verseBefore": "χρόνοις αἰωνίοις ",
+    "verseAfter": " "
   },
   {
     "reference": "1 Corinthians 14:28",
     "word": "σιγάτω",
-    "verse": "ᾖ διερμηνευτής σιγάτω ἐν ἐκκλησίᾳ"
+    "verse": "ᾖ διερμηνευτής σιγάτω ἐν ἐκκλησίᾳ",
+    "verseBefore": "ᾖ διερμηνευτής ",
+    "verseAfter": " ἐν ἐκκλησίᾳ"
   },
   {
     "reference": "1 Corinthians 14:30",
     "word": "σιγάτω",
-    "verse": "ὁ πρῶτος σιγάτω "
+    "verse": "ὁ πρῶτος σιγάτω ",
+    "verseBefore": "ὁ πρῶτος ",
+    "verseAfter": " "
   },
   {
     "reference": "1 Corinthians 14:34",
     "word": "σιγάτωσαν",
-    "verse": "ταῖς ἐκκλησίαις σιγάτωσαν οὐ γὰρ"
+    "verse": "ταῖς ἐκκλησίαις σιγάτωσαν οὐ γὰρ",
+    "verseBefore": "ταῖς ἐκκλησίαις ",
+    "verseAfter": " οὐ γὰρ"
   }
 ]

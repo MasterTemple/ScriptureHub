@@ -2,16 +2,22 @@
   {
     "reference": "Luke 1:4",
     "word": "ἀσφάλειαν",
-    "verse": "λόγων τὴν ἀσφάλειαν "
+    "verse": "λόγων τὴν ἀσφάλειαν ",
+    "verseBefore": "λόγων τὴν ",
+    "verseAfter": " "
   },
   {
     "reference": "Acts 5:23",
     "word": "ἀσφαλείᾳ",
-    "verse": "ἐν πάσῃ ἀσφαλείᾳ καὶ τοὺς"
+    "verse": "ἐν πάσῃ ἀσφαλείᾳ καὶ τοὺς",
+    "verseBefore": "ἐν πάσῃ ",
+    "verseAfter": " καὶ τοὺς"
   },
   {
     "reference": "1 Thessalonians 5:3",
     "word": "ἀσφάλεια",
-    "verse": "Εἰρήνη καὶ ἀσφάλεια τότε αἰφνίδιος"
+    "verse": "Εἰρήνη καὶ ἀσφάλεια τότε αἰφνίδιος",
+    "verseBefore": "Εἰρήνη καὶ ",
+    "verseAfter": " τότε αἰφνίδιος"
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "2 Corinthians 5:20",
     "word": "πρεσβεύομεν",
-    "verse": "Χριστοῦ οὖν πρεσβεύομεν ὡς τοῦ"
+    "verse": "Χριστοῦ οὖν πρεσβεύομεν ὡς τοῦ",
+    "verseBefore": "Χριστοῦ οὖν ",
+    "verseAfter": " ὡς τοῦ"
   },
   {
     "reference": "Ephesians 6:20",
     "word": "πρεσβεύω",
-    "verse": "ὑπὲρ οὗ πρεσβεύω ἐν ἁλύσει"
+    "verse": "ὑπὲρ οὗ πρεσβεύω ἐν ἁλύσει",
+    "verseBefore": "ὑπὲρ οὗ ",
+    "verseAfter": " ἐν ἁλύσει"
   }
 ]

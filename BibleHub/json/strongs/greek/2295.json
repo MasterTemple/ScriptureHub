@@ -2,11 +2,15 @@
   {
     "reference": "2 Corinthians 11:14",
     "word": "θαῦμα",
-    "verse": "καὶ οὐ θαῦμα αὐτὸς γὰρ"
+    "verse": "καὶ οὐ θαῦμα αὐτὸς γὰρ",
+    "verseBefore": "καὶ οὐ ",
+    "verseAfter": " αὐτὸς γὰρ"
   },
   {
     "reference": "Revelation 17:6",
     "word": "θαῦμα",
-    "verse": "ἰδὼν αὐτὴν θαῦμα μέγα "
+    "verse": "ἰδὼν αὐτὴν θαῦμα μέγα ",
+    "verseBefore": "ἰδὼν αὐτὴν ",
+    "verseAfter": " μέγα "
   }
 ]

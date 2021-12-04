@@ -2,36 +2,50 @@
   {
     "reference": "Luke 17:29",
     "word": "θεῖον",
-    "verse": "πῦρ καὶ θεῖον ἀπ' οὐρανοῦ"
+    "verse": "πῦρ καὶ θεῖον ἀπ' οὐρανοῦ",
+    "verseBefore": "πῦρ καὶ ",
+    "verseAfter": " ἀπ' οὐρανοῦ"
   },
   {
     "reference": "Revelation 9:17",
     "word": "θεῖον",
-    "verse": "καπνὸς καὶ θεῖον "
+    "verse": "καπνὸς καὶ θεῖον ",
+    "verseBefore": "καπνὸς καὶ ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 9:18",
     "word": "θείου",
-    "verse": "καὶ τοῦ θείου τοῦ ἐκπορευομένου"
+    "verse": "καὶ τοῦ θείου τοῦ ἐκπορευομένου",
+    "verseBefore": "καὶ τοῦ ",
+    "verseAfter": " τοῦ ἐκπορευομένου"
   },
   {
     "reference": "Revelation 14:10",
     "word": "θείῳ",
-    "verse": "πυρὶ καὶ θείῳ ἐνώπιον ἀγγέλων"
+    "verse": "πυρὶ καὶ θείῳ ἐνώπιον ἀγγέλων",
+    "verseBefore": "πυρὶ καὶ ",
+    "verseAfter": " ἐνώπιον ἀγγέλων"
   },
   {
     "reference": "Revelation 19:20",
     "word": "θείῳ",
-    "verse": "καιομένης ἐν θείῳ "
+    "verse": "καιομένης ἐν θείῳ ",
+    "verseBefore": "καιομένης ἐν ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 20:10",
     "word": "θείου",
-    "verse": "πυρὸς καὶ θείου ὅπου καὶ"
+    "verse": "πυρὸς καὶ θείου ὅπου καὶ",
+    "verseBefore": "πυρὸς καὶ ",
+    "verseAfter": " ὅπου καὶ"
   },
   {
     "reference": "Revelation 21:8",
     "word": "θείῳ",
-    "verse": "πυρὶ καὶ θείῳ ὅ ἐστιν"
+    "verse": "πυρὶ καὶ θείῳ ὅ ἐστιν",
+    "verseBefore": "πυρὶ καὶ ",
+    "verseAfter": " ὅ ἐστιν"
   }
 ]

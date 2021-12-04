@@ -2,16 +2,22 @@
   {
     "reference": "Luke 9:31",
     "word": "ἔξοδον",
-    "verse": "ἔλεγον τὴν ἔξοδον αὐτοῦ ἣν"
+    "verse": "ἔλεγον τὴν ἔξοδον αὐτοῦ ἣν",
+    "verseBefore": "ἔλεγον τὴν ",
+    "verseAfter": " αὐτοῦ ἣν"
   },
   {
     "reference": "Hebrews 11:22",
     "word": "ἐξόδου",
-    "verse": "περὶ τῆς ἐξόδου τῶν υἱῶν"
+    "verse": "περὶ τῆς ἐξόδου τῶν υἱῶν",
+    "verseBefore": "περὶ τῆς ",
+    "verseAfter": " τῶν υἱῶν"
   },
   {
     "reference": "2 Peter 1:15",
     "word": "ἔξοδον",
-    "verse": "τὴν ἐμὴν ἔξοδον τὴν τούτων"
+    "verse": "τὴν ἐμὴν ἔξοδον τὴν τούτων",
+    "verseBefore": "τὴν ἐμὴν ",
+    "verseAfter": " τὴν τούτων"
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "2 Corinthians 6:3",
     "word": "μωμηθῇ",
-    "verse": "ἵνα μὴ μωμηθῇ ἡ διακονία"
+    "verse": "ἵνα μὴ μωμηθῇ ἡ διακονία",
+    "verseBefore": "ἵνα μὴ ",
+    "verseAfter": " ἡ διακονία"
   },
   {
     "reference": "2 Corinthians 8:20",
     "word": "μωμήσηται",
-    "verse": "τις ἡμᾶς μωμήσηται ἐν τῇ"
+    "verse": "τις ἡμᾶς μωμήσηται ἐν τῇ",
+    "verseBefore": "τις ἡμᾶς ",
+    "verseAfter": " ἐν τῇ"
   }
 ]

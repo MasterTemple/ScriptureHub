@@ -2,21 +2,29 @@
   {
     "reference": "Matthew 27:15",
     "word": "εἰώθει",
-    "verse": "δὲ ἑορτὴν εἰώθει ὁ ἡγεμὼν"
+    "verse": "δὲ ἑορτὴν εἰώθει ὁ ἡγεμὼν",
+    "verseBefore": "δὲ ἑορτὴν ",
+    "verseAfter": " ὁ ἡγεμὼν"
   },
   {
     "reference": "Mark 10:1",
     "word": "εἰώθει",
-    "verse": "καὶ ὡς εἰώθει πάλιν ἐδίδασκεν"
+    "verse": "καὶ ὡς εἰώθει πάλιν ἐδίδασκεν",
+    "verseBefore": "καὶ ὡς ",
+    "verseAfter": " πάλιν ἐδίδασκεν"
   },
   {
     "reference": "Luke 4:16",
     "word": "εἰωθὸς",
-    "verse": "κατὰ τὸ εἰωθὸς αὐτῷ ἐν"
+    "verse": "κατὰ τὸ εἰωθὸς αὐτῷ ἐν",
+    "verseBefore": "κατὰ τὸ ",
+    "verseAfter": " αὐτῷ ἐν"
   },
   {
     "reference": "Acts 17:2",
     "word": "εἰωθὸς",
-    "verse": "δὲ τὸ εἰωθὸς τῷ Παύλῳ"
+    "verse": "δὲ τὸ εἰωθὸς τῷ Παύλῳ",
+    "verseBefore": "δὲ τὸ ",
+    "verseAfter": " τῷ Παύλῳ"
   }
 ]

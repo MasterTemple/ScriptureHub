@@ -2,11 +2,15 @@
   {
     "reference": "Luke 8:7",
     "word": "ἀπέπνιξαν",
-    "verse": "αἱ ἄκανθαι ἀπέπνιξαν αὐτό "
+    "verse": "αἱ ἄκανθαι ἀπέπνιξαν αὐτό ",
+    "verseBefore": "αἱ ἄκανθαι ",
+    "verseAfter": " αὐτό "
   },
   {
     "reference": "Luke 8:33",
     "word": "ἀπεπνίγη",
-    "verse": "λίμνην καὶ ἀπεπνίγη "
+    "verse": "λίμνην καὶ ἀπεπνίγη ",
+    "verseBefore": "λίμνην καὶ ",
+    "verseAfter": " "
   }
 ]

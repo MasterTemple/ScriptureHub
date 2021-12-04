@@ -2,11 +2,15 @@
   {
     "reference": "Matthew 27:4",
     "word": "ἀθῷον",
-    "verse": "παραδοὺς αἷμα ἀθῷον οἱ δὲ"
+    "verse": "παραδοὺς αἷμα ἀθῷον οἱ δὲ",
+    "verseBefore": "παραδοὺς αἷμα ",
+    "verseAfter": " οἱ δὲ"
   },
   {
     "reference": "Matthew 27:24",
     "word": "Ἀθῷός",
-    "verse": "ὄχλου λέγων Ἀθῷός εἰμι ἀπὸ"
+    "verse": "ὄχλου λέγων Ἀθῷός εἰμι ἀπὸ",
+    "verseBefore": "ὄχλου λέγων ",
+    "verseAfter": " εἰμι ἀπὸ"
   }
 ]

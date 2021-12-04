@@ -2,16 +2,22 @@
   {
     "reference": "Matthew 7:16",
     "word": "σταφυλὰς",
-    "verse": "ἀπὸ ἀκανθῶν σταφυλὰς ἢ ἀπὸ"
+    "verse": "ἀπὸ ἀκανθῶν σταφυλὰς ἢ ἀπὸ",
+    "verseBefore": "ἀπὸ ἀκανθῶν ",
+    "verseAfter": " ἢ ἀπὸ"
   },
   {
     "reference": "Luke 6:44",
     "word": "σταφυλὴν",
-    "verse": "ἐκ βάτου σταφυλὴν τρυγῶσιν "
+    "verse": "ἐκ βάτου σταφυλὴν τρυγῶσιν ",
+    "verseBefore": "ἐκ βάτου ",
+    "verseAfter": " τρυγῶσιν "
   },
   {
     "reference": "Revelation 14:18",
     "word": "σταφυλαὶ",
-    "verse": "ἤκμασαν αἱ σταφυλαὶ αὐτῆς "
+    "verse": "ἤκμασαν αἱ σταφυλαὶ αὐτῆς ",
+    "verseBefore": "ἤκμασαν αἱ ",
+    "verseAfter": " αὐτῆς "
   }
 ]

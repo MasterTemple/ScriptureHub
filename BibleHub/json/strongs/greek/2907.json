@@ -2,11 +2,15 @@
   {
     "reference": "Romans 14:21",
     "word": "κρέα",
-    "verse": "μὴ φαγεῖν κρέα μηδὲ πιεῖν"
+    "verse": "μὴ φαγεῖν κρέα μηδὲ πιεῖν",
+    "verseBefore": "μὴ φαγεῖν ",
+    "verseAfter": " μηδὲ πιεῖν"
   },
   {
     "reference": "1 Corinthians 8:13",
     "word": "κρέα",
-    "verse": "μὴ φάγω κρέα εἰς τὸν"
+    "verse": "μὴ φάγω κρέα εἰς τὸν",
+    "verseBefore": "μὴ φάγω ",
+    "verseAfter": " εἰς τὸν"
   }
 ]

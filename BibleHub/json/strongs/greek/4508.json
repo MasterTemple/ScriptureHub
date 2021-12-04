@@ -2,11 +2,15 @@
   {
     "reference": "James 2:2",
     "word": "ῥυπαρᾷ",
-    "verse": "πτωχὸς ἐν ῥυπαρᾷ ἐσθῆτι "
+    "verse": "πτωχὸς ἐν ῥυπαρᾷ ἐσθῆτι ",
+    "verseBefore": "πτωχὸς ἐν ",
+    "verseAfter": " ἐσθῆτι "
   },
   {
     "reference": "Revelation 22:11",
     "word": "ῥυπαρὸς",
-    "verse": "καὶ ὁ ῥυπαρὸς ῥυπανθήτω ἔτι"
+    "verse": "καὶ ὁ ῥυπαρὸς ῥυπανθήτω ἔτι",
+    "verseBefore": "καὶ ὁ ",
+    "verseAfter": " ῥυπανθήτω ἔτι"
   }
 ]

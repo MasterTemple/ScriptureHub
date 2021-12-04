@@ -2,11 +2,15 @@
   {
     "reference": "1 Corinthians 6:5",
     "word": "ἐντροπὴν",
-    "verse": "πρὸς ἐντροπὴν ὑμῖν λέγω"
+    "verse": "πρὸς ἐντροπὴν ὑμῖν λέγω",
+    "verseBefore": "πρὸς ",
+    "verseAfter": " ὑμῖν λέγω"
   },
   {
     "reference": "1 Corinthians 15:34",
     "word": "ἐντροπὴν",
-    "verse": "ἔχουσιν πρὸς ἐντροπὴν ὑμῖν λαλῶ"
+    "verse": "ἔχουσιν πρὸς ἐντροπὴν ὑμῖν λαλῶ",
+    "verseBefore": "ἔχουσιν πρὸς ",
+    "verseAfter": " ὑμῖν λαλῶ"
   }
 ]

@@ -2,21 +2,29 @@
   {
     "reference": "John 7:39",
     "word": "οὐδέπω",
-    "verse": "ὅτι Ἰησοῦς οὐδέπω ἐδοξάσθη "
+    "verse": "ὅτι Ἰησοῦς οὐδέπω ἐδοξάσθη ",
+    "verseBefore": "ὅτι Ἰησοῦς ",
+    "verseAfter": " ἐδοξάσθη "
   },
   {
     "reference": "John 19:41",
     "word": "οὐδέπω",
-    "verse": "ἐν ᾧ οὐδέπω οὐδεὶς ἦν"
+    "verse": "ἐν ᾧ οὐδέπω οὐδεὶς ἦν",
+    "verseBefore": "ἐν ᾧ ",
+    "verseAfter": " οὐδεὶς ἦν"
   },
   {
     "reference": "John 20:9",
     "word": "οὐδέπω",
-    "verse": "οὐδέπω γὰρ ᾔδεισαν"
+    "verse": "οὐδέπω γὰρ ᾔδεισαν",
+    "verseBefore": "",
+    "verseAfter": " γὰρ ᾔδεισαν"
   },
   {
     "reference": "Acts 8:16",
     "word": "οὐδέπω",
-    "verse": "οὐδέπω γὰρ ἦν"
+    "verse": "οὐδέπω γὰρ ἦν",
+    "verseBefore": "",
+    "verseAfter": " γὰρ ἦν"
   }
 ]

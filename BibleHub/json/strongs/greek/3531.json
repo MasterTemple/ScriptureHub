@@ -2,11 +2,15 @@
   {
     "reference": "Revelation 2:6",
     "word": "Νικολαϊτῶν",
-    "verse": "ἔργα τῶν Νικολαϊτῶν ἃ κἀγὼ"
+    "verse": "ἔργα τῶν Νικολαϊτῶν ἃ κἀγὼ",
+    "verseBefore": "ἔργα τῶν ",
+    "verseAfter": " ἃ κἀγὼ"
   },
   {
     "reference": "Revelation 2:15",
     "word": "Νικολαϊτῶν",
-    "verse": "διδαχὴν τῶν Νικολαϊτῶν ὁμοίως "
+    "verse": "διδαχὴν τῶν Νικολαϊτῶν ὁμοίως ",
+    "verseBefore": "διδαχὴν τῶν ",
+    "verseAfter": " ὁμοίως "
   }
 ]

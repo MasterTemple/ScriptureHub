@@ -2,16 +2,22 @@
   {
     "reference": "Mark 1:20",
     "word": "μισθωτῶν",
-    "verse": "μετὰ τῶν μισθωτῶν ἀπῆλθον ὀπίσω"
+    "verse": "μετὰ τῶν μισθωτῶν ἀπῆλθον ὀπίσω",
+    "verseBefore": "μετὰ τῶν ",
+    "verseAfter": " ἀπῆλθον ὀπίσω"
   },
   {
     "reference": "John 10:12",
     "word": "μισθωτὸς",
-    "verse": "ὁ μισθωτὸς καὶ οὐκ"
+    "verse": "ὁ μισθωτὸς καὶ οὐκ",
+    "verseBefore": "ὁ ",
+    "verseAfter": " καὶ οὐκ"
   },
   {
     "reference": "John 10:13",
     "word": "μισθωτός",
-    "verse": "ὅτι μισθωτός ἐστιν καὶ"
+    "verse": "ὅτι μισθωτός ἐστιν καὶ",
+    "verseBefore": "ὅτι ",
+    "verseAfter": " ἐστιν καὶ"
   }
 ]

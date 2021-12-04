@@ -2,11 +2,15 @@
   {
     "reference": "Philippians 2:15",
     "word": "φωστῆρες",
-    "verse": "φαίνεσθε ὡς φωστῆρες ἐν κόσμῳ"
+    "verse": "φαίνεσθε ὡς φωστῆρες ἐν κόσμῳ",
+    "verseBefore": "φαίνεσθε ὡς ",
+    "verseAfter": " ἐν κόσμῳ"
   },
   {
     "reference": "Revelation 21:11",
     "word": "φωστὴρ",
-    "verse": "θεοῦ ὁ φωστὴρ αὐτῆς ὅμοιος"
+    "verse": "θεοῦ ὁ φωστὴρ αὐτῆς ὅμοιος",
+    "verseBefore": "θεοῦ ὁ ",
+    "verseAfter": " αὐτῆς ὅμοιος"
   }
 ]

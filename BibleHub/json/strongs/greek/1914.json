@@ -2,16 +2,22 @@
   {
     "reference": "Luke 1:48",
     "word": "ἐπέβλεψεν",
-    "verse": "ὅτι ἐπέβλεψεν ἐπὶ τὴν"
+    "verse": "ὅτι ἐπέβλεψεν ἐπὶ τὴν",
+    "verseBefore": "ὅτι ",
+    "verseAfter": " ἐπὶ τὴν"
   },
   {
     "reference": "Luke 9:38",
     "word": "ἐπιβλέψαι",
-    "verse": "δέομαί σου ἐπιβλέψαι ἐπὶ τὸν"
+    "verse": "δέομαί σου ἐπιβλέψαι ἐπὶ τὸν",
+    "verseBefore": "δέομαί σου ",
+    "verseAfter": " ἐπὶ τὸν"
   },
   {
     "reference": "James 2:3",
     "word": "ἐπιβλέψητε",
-    "verse": "ἐπιβλέψητε δὲ ἐπὶ"
+    "verse": "ἐπιβλέψητε δὲ ἐπὶ",
+    "verseBefore": "",
+    "verseAfter": " δὲ ἐπὶ"
   }
 ]

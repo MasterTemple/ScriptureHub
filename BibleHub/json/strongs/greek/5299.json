@@ -2,11 +2,15 @@
   {
     "reference": "Luke 18:5",
     "word": "ὑπωπιάζῃ",
-    "verse": "τέλος ἐρχομένη ὑπωπιάζῃ με "
+    "verse": "τέλος ἐρχομένη ὑπωπιάζῃ με ",
+    "verseBefore": "τέλος ἐρχομένη ",
+    "verseAfter": " με "
   },
   {
     "reference": "1 Corinthians 9:27",
     "word": "ὑπωπιάζω",
-    "verse": "ἀλλὰ ὑπωπιάζω μου τὸ"
+    "verse": "ἀλλὰ ὑπωπιάζω μου τὸ",
+    "verseBefore": "ἀλλὰ ",
+    "verseAfter": " μου τὸ"
   }
 ]

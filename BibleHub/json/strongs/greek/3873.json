@@ -2,11 +2,15 @@
   {
     "reference": "Romans 7:18",
     "word": "παράκειταί",
-    "verse": "γὰρ θέλειν παράκειταί μοι τὸ"
+    "verse": "γὰρ θέλειν παράκειταί μοι τὸ",
+    "verseBefore": "γὰρ θέλειν ",
+    "verseAfter": " μοι τὸ"
   },
   {
     "reference": "Romans 7:21",
     "word": "παράκειται",
-    "verse": "τὸ κακὸν παράκειται "
+    "verse": "τὸ κακὸν παράκειται ",
+    "verseBefore": "τὸ κακὸν ",
+    "verseAfter": " "
   }
 ]

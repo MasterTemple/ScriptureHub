@@ -2,896 +2,1254 @@
   {
     "reference": "Matthew 3:12",
     "word": "χειρὶ",
-    "verse": "ἐν τῇ χειρὶ αὐτοῦ καὶ"
+    "verse": "ἐν τῇ χειρὶ αὐτοῦ καὶ",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " αὐτοῦ καὶ"
   },
   {
     "reference": "Matthew 4:6",
     "word": "χειρῶν",
-    "verse": "καὶ ἐπὶ χειρῶν ἀροῦσίν σε"
+    "verse": "καὶ ἐπὶ χειρῶν ἀροῦσίν σε",
+    "verseBefore": "καὶ ἐπὶ ",
+    "verseAfter": " ἀροῦσίν σε"
   },
   {
     "reference": "Matthew 5:30",
     "word": "χεὶρ",
-    "verse": "δεξιά σου χεὶρ σκανδαλίζει σε"
+    "verse": "δεξιά σου χεὶρ σκανδαλίζει σε",
+    "verseBefore": "δεξιά σου ",
+    "verseAfter": " σκανδαλίζει σε"
   },
   {
     "reference": "Matthew 8:3",
     "word": "χεῖρα",
-    "verse": "ἐκτείνας τὴν χεῖρα ἥψατο αὐτοῦ"
+    "verse": "ἐκτείνας τὴν χεῖρα ἥψατο αὐτοῦ",
+    "verseBefore": "ἐκτείνας τὴν ",
+    "verseAfter": " ἥψατο αὐτοῦ"
   },
   {
     "reference": "Matthew 8:15",
     "word": "χειρὸς",
-    "verse": "ἥψατο τῆς χειρὸς αὐτῆς καὶ"
+    "verse": "ἥψατο τῆς χειρὸς αὐτῆς καὶ",
+    "verseBefore": "ἥψατο τῆς ",
+    "verseAfter": " αὐτῆς καὶ"
   },
   {
     "reference": "Matthew 9:18",
     "word": "χεῖρά",
-    "verse": "ἐπίθες τὴν χεῖρά σου ἐπ'"
+    "verse": "ἐπίθες τὴν χεῖρά σου ἐπ'",
+    "verseBefore": "ἐπίθες τὴν ",
+    "verseAfter": " σου ἐπ'"
   },
   {
     "reference": "Matthew 9:25",
     "word": "χειρὸς",
-    "verse": "ἐκράτησεν τῆς χειρὸς αὐτῆς καὶ"
+    "verse": "ἐκράτησεν τῆς χειρὸς αὐτῆς καὶ",
+    "verseBefore": "ἐκράτησεν τῆς ",
+    "verseAfter": " αὐτῆς καὶ"
   },
   {
     "reference": "Matthew 12:10",
     "word": "χεῖρα",
-    "verse": "ἰδοὺ ἄνθρωπος χεῖρα ἔχων ξηράν"
+    "verse": "ἰδοὺ ἄνθρωπος χεῖρα ἔχων ξηράν",
+    "verseBefore": "ἰδοὺ ἄνθρωπος ",
+    "verseAfter": " ἔχων ξηράν"
   },
   {
     "reference": "Matthew 12:13",
     "word": "χεῖρα",
-    "verse": "σου τὴν χεῖρα καὶ ἐξέτεινεν"
+    "verse": "σου τὴν χεῖρα καὶ ἐξέτεινεν",
+    "verseBefore": "σου τὴν ",
+    "verseAfter": " καὶ ἐξέτεινεν"
   },
   {
     "reference": "Matthew 12:49",
     "word": "χεῖρα",
-    "verse": "ἐκτείνας τὴν χεῖρα αὐτοῦ ἐπὶ"
+    "verse": "ἐκτείνας τὴν χεῖρα αὐτοῦ ἐπὶ",
+    "verseBefore": "ἐκτείνας τὴν ",
+    "verseAfter": " αὐτοῦ ἐπὶ"
   },
   {
     "reference": "Matthew 14:31",
     "word": "χεῖρα",
-    "verse": "ἐκτείνας τὴν χεῖρα ἐπελάβετο αὐτοῦ"
+    "verse": "ἐκτείνας τὴν χεῖρα ἐπελάβετο αὐτοῦ",
+    "verseBefore": "ἐκτείνας τὴν ",
+    "verseAfter": " ἐπελάβετο αὐτοῦ"
   },
   {
     "reference": "Matthew 15:2",
     "word": "χεῖρας",
-    "verse": "νίπτονται τὰς χεῖρας αὐτῶν ὅταν"
+    "verse": "νίπτονται τὰς χεῖρας αὐτῶν ὅταν",
+    "verseBefore": "νίπτονται τὰς ",
+    "verseAfter": " αὐτῶν ὅταν"
   },
   {
     "reference": "Matthew 15:20",
     "word": "χερσὶν",
-    "verse": "δὲ ἀνίπτοις χερσὶν φαγεῖν οὐ"
+    "verse": "δὲ ἀνίπτοις χερσὶν φαγεῖν οὐ",
+    "verseBefore": "δὲ ἀνίπτοις ",
+    "verseAfter": " φαγεῖν οὐ"
   },
   {
     "reference": "Matthew 17:22",
     "word": "χεῖρας",
-    "verse": "παραδίδοσθαι εἰς χεῖρας ἀνθρώπων "
+    "verse": "παραδίδοσθαι εἰς χεῖρας ἀνθρώπων ",
+    "verseBefore": "παραδίδοσθαι εἰς ",
+    "verseAfter": " ἀνθρώπων "
   },
   {
     "reference": "Matthew 18:8",
     "word": "χείρ",
-    "verse": "δὲ ἡ χείρ σου ἢ"
+    "verse": "δὲ ἡ χείρ σου ἢ",
+    "verseBefore": "δὲ ἡ ",
+    "verseAfter": " σου ἢ"
   },
   {
     "reference": "Matthew 18:8",
     "word": "χεῖρας",
-    "verse": "ἢ δύο χεῖρας ἢ δύο"
+    "verse": "ἢ δύο χεῖρας ἢ δύο",
+    "verseBefore": "ἢ δύο ",
+    "verseAfter": " ἢ δύο"
   },
   {
     "reference": "Matthew 19:13",
     "word": "χεῖρας",
-    "verse": "ἵνα τὰς χεῖρας ἐπιθῇ αὐτοῖς"
+    "verse": "ἵνα τὰς χεῖρας ἐπιθῇ αὐτοῖς",
+    "verseBefore": "ἵνα τὰς ",
+    "verseAfter": " ἐπιθῇ αὐτοῖς"
   },
   {
     "reference": "Matthew 19:15",
     "word": "χεῖρας",
-    "verse": "ἐπιθεὶς τὰς χεῖρας αὐτοῖς ἐπορεύθη"
+    "verse": "ἐπιθεὶς τὰς χεῖρας αὐτοῖς ἐπορεύθη",
+    "verseBefore": "ἐπιθεὶς τὰς ",
+    "verseAfter": " αὐτοῖς ἐπορεύθη"
   },
   {
     "reference": "Matthew 22:13",
     "word": "χεῖρας",
-    "verse": "πόδας καὶ χεῖρας ἐκβάλετε αὐτὸν"
+    "verse": "πόδας καὶ χεῖρας ἐκβάλετε αὐτὸν",
+    "verseBefore": "πόδας καὶ ",
+    "verseAfter": " ἐκβάλετε αὐτὸν"
   },
   {
     "reference": "Matthew 26:23",
     "word": "χεῖρα",
-    "verse": "ἐμοῦ τὴν χεῖρα ἐν τῷ"
+    "verse": "ἐμοῦ τὴν χεῖρα ἐν τῷ",
+    "verseBefore": "ἐμοῦ τὴν ",
+    "verseAfter": " ἐν τῷ"
   },
   {
     "reference": "Matthew 26:45",
     "word": "χεῖρας",
-    "verse": "παραδίδοται εἰς χεῖρας ἁμαρτωλῶν "
+    "verse": "παραδίδοται εἰς χεῖρας ἁμαρτωλῶν ",
+    "verseBefore": "παραδίδοται εἰς ",
+    "verseAfter": " ἁμαρτωλῶν "
   },
   {
     "reference": "Matthew 26:50",
     "word": "χεῖρας",
-    "verse": "ἐπέβαλον τὰς χεῖρας ἐπὶ τὸν"
+    "verse": "ἐπέβαλον τὰς χεῖρας ἐπὶ τὸν",
+    "verseBefore": "ἐπέβαλον τὰς ",
+    "verseAfter": " ἐπὶ τὸν"
   },
   {
     "reference": "Matthew 26:51",
     "word": "χεῖρα",
-    "verse": "ἐκτείνας τὴν χεῖρα ἀπέσπασεν τὴν"
+    "verse": "ἐκτείνας τὴν χεῖρα ἀπέσπασεν τὴν",
+    "verseBefore": "ἐκτείνας τὴν ",
+    "verseAfter": " ἀπέσπασεν τὴν"
   },
   {
     "reference": "Matthew 27:24",
     "word": "χεῖρας",
-    "verse": "ἀπενίψατο τὰς χεῖρας ἀπέναντι τοῦ"
+    "verse": "ἀπενίψατο τὰς χεῖρας ἀπέναντι τοῦ",
+    "verseBefore": "ἀπενίψατο τὰς ",
+    "verseAfter": " ἀπέναντι τοῦ"
   },
   {
     "reference": "Mark 1:31",
     "word": "χειρός",
-    "verse": "κρατήσας τῆς χειρός καὶ ἀφῆκεν"
+    "verse": "κρατήσας τῆς χειρός καὶ ἀφῆκεν",
+    "verseBefore": "κρατήσας τῆς ",
+    "verseAfter": " καὶ ἀφῆκεν"
   },
   {
     "reference": "Mark 1:41",
     "word": "χεῖρα",
-    "verse": "ἐκτείνας τὴν χεῖρα αὐτοῦ ἥψατο"
+    "verse": "ἐκτείνας τὴν χεῖρα αὐτοῦ ἥψατο",
+    "verseBefore": "ἐκτείνας τὴν ",
+    "verseAfter": " αὐτοῦ ἥψατο"
   },
   {
     "reference": "Mark 3:1",
     "word": "χεῖρα",
-    "verse": "ἔχων τὴν χεῖρα "
+    "verse": "ἔχων τὴν χεῖρα ",
+    "verseBefore": "ἔχων τὴν ",
+    "verseAfter": " "
   },
   {
     "reference": "Mark 3:3",
     "word": "χεῖρα",
-    "verse": "τῷ τὴν χεῖρα ἔχοντι ξηράν"
+    "verse": "τῷ τὴν χεῖρα ἔχοντι ξηράν",
+    "verseBefore": "τῷ τὴν ",
+    "verseAfter": " ἔχοντι ξηράν"
   },
   {
     "reference": "Mark 3:5",
     "word": "χεῖρά",
-    "verse": "Ἔκτεινον τὴν χεῖρά σου καὶ"
+    "verse": "Ἔκτεινον τὴν χεῖρά σου καὶ",
+    "verseBefore": "Ἔκτεινον τὴν ",
+    "verseAfter": " σου καὶ"
   },
   {
     "reference": "Mark 3:5",
     "word": "χεὶρ",
-    "verse": "ἀπεκατεστάθη ἡ χεὶρ αὐτοῦ "
+    "verse": "ἀπεκατεστάθη ἡ χεὶρ αὐτοῦ ",
+    "verseBefore": "ἀπεκατεστάθη ἡ ",
+    "verseAfter": " αὐτοῦ "
   },
   {
     "reference": "Mark 5:23",
     "word": "χεῖρας",
-    "verse": "ἐπιθῇς τὰς χεῖρας αὐτῇ ἵνα"
+    "verse": "ἐπιθῇς τὰς χεῖρας αὐτῇ ἵνα",
+    "verseBefore": "ἐπιθῇς τὰς ",
+    "verseAfter": " αὐτῇ ἵνα"
   },
   {
     "reference": "Mark 5:41",
     "word": "χειρὸς",
-    "verse": "κρατήσας τῆς χειρὸς τοῦ παιδίου"
+    "verse": "κρατήσας τῆς χειρὸς τοῦ παιδίου",
+    "verseBefore": "κρατήσας τῆς ",
+    "verseAfter": " τοῦ παιδίου"
   },
   {
     "reference": "Mark 6:2",
     "word": "χειρῶν",
-    "verse": "διὰ τῶν χειρῶν αὐτοῦ γινόμεναι"
+    "verse": "διὰ τῶν χειρῶν αὐτοῦ γινόμεναι",
+    "verseBefore": "διὰ τῶν ",
+    "verseAfter": " αὐτοῦ γινόμεναι"
   },
   {
     "reference": "Mark 6:5",
     "word": "χεῖρας",
-    "verse": "ἐπιθεὶς τὰς χεῖρας ἐθεράπευσεν "
+    "verse": "ἐπιθεὶς τὰς χεῖρας ἐθεράπευσεν ",
+    "verseBefore": "ἐπιθεὶς τὰς ",
+    "verseAfter": " ἐθεράπευσεν "
   },
   {
     "reference": "Mark 7:2",
     "word": "χερσίν",
-    "verse": "ὅτι κοιναῖς χερσίν τοῦτ' ἔστιν"
+    "verse": "ὅτι κοιναῖς χερσίν τοῦτ' ἔστιν",
+    "verseBefore": "ὅτι κοιναῖς ",
+    "verseAfter": " τοῦτ' ἔστιν"
   },
   {
     "reference": "Mark 7:3",
     "word": "χεῖρας",
-    "verse": "νίψωνται τὰς χεῖρας οὐκ ἐσθίουσιν"
+    "verse": "νίψωνται τὰς χεῖρας οὐκ ἐσθίουσιν",
+    "verseBefore": "νίψωνται τὰς ",
+    "verseAfter": " οὐκ ἐσθίουσιν"
   },
   {
     "reference": "Mark 7:5",
     "word": "χερσὶν",
-    "verse": "ἀλλὰ κοιναῖς χερσὶν ἐσθίουσιν τὸν"
+    "verse": "ἀλλὰ κοιναῖς χερσὶν ἐσθίουσιν τὸν",
+    "verseBefore": "ἀλλὰ κοιναῖς ",
+    "verseAfter": " ἐσθίουσιν τὸν"
   },
   {
     "reference": "Mark 7:32",
     "word": "χεῖρα",
-    "verse": "αὐτῷ τὴν χεῖρα "
+    "verse": "αὐτῷ τὴν χεῖρα ",
+    "verseBefore": "αὐτῷ τὴν ",
+    "verseAfter": " "
   },
   {
     "reference": "Mark 8:23",
     "word": "χειρὸς",
-    "verse": "ἐπιλαβόμενος τῆς χειρὸς τοῦ τυφλοῦ"
+    "verse": "ἐπιλαβόμενος τῆς χειρὸς τοῦ τυφλοῦ",
+    "verseBefore": "ἐπιλαβόμενος τῆς ",
+    "verseAfter": " τοῦ τυφλοῦ"
   },
   {
     "reference": "Mark 8:23",
     "word": "χεῖρας",
-    "verse": "ἐπιθεὶς τὰς χεῖρας αὐτῷ ἐπηρώτα"
+    "verse": "ἐπιθεὶς τὰς χεῖρας αὐτῷ ἐπηρώτα",
+    "verseBefore": "ἐπιθεὶς τὰς ",
+    "verseAfter": " αὐτῷ ἐπηρώτα"
   },
   {
     "reference": "Mark 8:25",
     "word": "χεῖρας",
-    "verse": "ἐπέθηκεν τὰς χεῖρας ἐπὶ τοὺς"
+    "verse": "ἐπέθηκεν τὰς χεῖρας ἐπὶ τοὺς",
+    "verseBefore": "ἐπέθηκεν τὰς ",
+    "verseAfter": " ἐπὶ τοὺς"
   },
   {
     "reference": "Mark 9:27",
     "word": "χειρὸς",
-    "verse": "κρατήσας τῆς χειρὸς αὐτοῦ ἤγειρεν"
+    "verse": "κρατήσας τῆς χειρὸς αὐτοῦ ἤγειρεν",
+    "verseBefore": "κρατήσας τῆς ",
+    "verseAfter": " αὐτοῦ ἤγειρεν"
   },
   {
     "reference": "Mark 9:31",
     "word": "χεῖρας",
-    "verse": "παραδίδοται εἰς χεῖρας ἀνθρώπων καὶ"
+    "verse": "παραδίδοται εἰς χεῖρας ἀνθρώπων καὶ",
+    "verseBefore": "παραδίδοται εἰς ",
+    "verseAfter": " ἀνθρώπων καὶ"
   },
   {
     "reference": "Mark 9:43",
     "word": "χείρ",
-    "verse": "σε ἡ χείρ σου ἀπόκοψον"
+    "verse": "σε ἡ χείρ σου ἀπόκοψον",
+    "verseBefore": "σε ἡ ",
+    "verseAfter": " σου ἀπόκοψον"
   },
   {
     "reference": "Mark 9:43",
     "word": "χεῖρας",
-    "verse": "τὰς δύο χεῖρας ἔχοντα ἀπελθεῖν"
+    "verse": "τὰς δύο χεῖρας ἔχοντα ἀπελθεῖν",
+    "verseBefore": "τὰς δύο ",
+    "verseAfter": " ἔχοντα ἀπελθεῖν"
   },
   {
     "reference": "Mark 10:16",
     "word": "χεῖρας",
-    "verse": "τιθεὶς τὰς χεῖρας ἐπ' αὐτά"
+    "verse": "τιθεὶς τὰς χεῖρας ἐπ' αὐτά",
+    "verseBefore": "τιθεὶς τὰς ",
+    "verseAfter": " ἐπ' αὐτά"
   },
   {
     "reference": "Mark 14:41",
     "word": "χεῖρας",
-    "verse": "εἰς τὰς χεῖρας τῶν ἁμαρτωλῶν"
+    "verse": "εἰς τὰς χεῖρας τῶν ἁμαρτωλῶν",
+    "verseBefore": "εἰς τὰς ",
+    "verseAfter": " τῶν ἁμαρτωλῶν"
   },
   {
     "reference": "Mark 14:46",
     "word": "χεῖρας",
-    "verse": "ἐπέβαλον τὰς χεῖρας αὐτῷ καὶ"
+    "verse": "ἐπέβαλον τὰς χεῖρας αὐτῷ καὶ",
+    "verseBefore": "ἐπέβαλον τὰς ",
+    "verseAfter": " αὐτῷ καὶ"
   },
   {
     "reference": "Mark 16:18",
     "word": "χερσὶν",
-    "verse": "ἐν ταῖς χερσὶν ὄφεις ἀροῦσιν"
+    "verse": "ἐν ταῖς χερσὶν ὄφεις ἀροῦσιν",
+    "verseBefore": "ἐν ταῖς ",
+    "verseAfter": " ὄφεις ἀροῦσιν"
   },
   {
     "reference": "Mark 16:18",
     "word": "χεῖρας",
-    "verse": "ἐπὶ ἀρρώστους χεῖρας ἐπιθήσουσιν καὶ"
+    "verse": "ἐπὶ ἀρρώστους χεῖρας ἐπιθήσουσιν καὶ",
+    "verseBefore": "ἐπὶ ἀρρώστους ",
+    "verseAfter": " ἐπιθήσουσιν καὶ"
   },
   {
     "reference": "Luke 1:66",
     "word": "χεὶρ",
-    "verse": "καὶ γὰρ χεὶρ Κυρίου ἦν"
+    "verse": "καὶ γὰρ χεὶρ Κυρίου ἦν",
+    "verseBefore": "καὶ γὰρ ",
+    "verseAfter": " Κυρίου ἦν"
   },
   {
     "reference": "Luke 1:71",
     "word": "χειρὸς",
-    "verse": "καὶ ἐκ χειρὸς πάντων τῶν"
+    "verse": "καὶ ἐκ χειρὸς πάντων τῶν",
+    "verseBefore": "καὶ ἐκ ",
+    "verseAfter": " πάντων τῶν"
   },
   {
     "reference": "Luke 1:74",
     "word": "χειρὸς",
-    "verse": "ἀφόβως ἐκ χειρὸς ἐχθρῶν ῥυσθέντας"
+    "verse": "ἀφόβως ἐκ χειρὸς ἐχθρῶν ῥυσθέντας",
+    "verseBefore": "ἀφόβως ἐκ ",
+    "verseAfter": " ἐχθρῶν ῥυσθέντας"
   },
   {
     "reference": "Luke 3:17",
     "word": "χειρὶ",
-    "verse": "ἐν τῇ χειρὶ αὐτοῦ διακαθᾶραι"
+    "verse": "ἐν τῇ χειρὶ αὐτοῦ διακαθᾶραι",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " αὐτοῦ διακαθᾶραι"
   },
   {
     "reference": "Luke 4:11",
     "word": "χειρῶν",
-    "verse": "ὅτι ἐπὶ χειρῶν ἀροῦσίν σε"
+    "verse": "ὅτι ἐπὶ χειρῶν ἀροῦσίν σε",
+    "verseBefore": "ὅτι ἐπὶ ",
+    "verseAfter": " ἀροῦσίν σε"
   },
   {
     "reference": "Luke 4:40",
     "word": "χεῖρας",
-    "verse": "αὐτῶν τὰς χεῖρας ἐπιτιθεὶς ἐθεράπευεν"
+    "verse": "αὐτῶν τὰς χεῖρας ἐπιτιθεὶς ἐθεράπευεν",
+    "verseBefore": "αὐτῶν τὰς ",
+    "verseAfter": " ἐπιτιθεὶς ἐθεράπευεν"
   },
   {
     "reference": "Luke 5:13",
     "word": "χεῖρα",
-    "verse": "ἐκτείνας τὴν χεῖρα ἥψατο αὐτοῦ"
+    "verse": "ἐκτείνας τὴν χεῖρα ἥψατο αὐτοῦ",
+    "verseBefore": "ἐκτείνας τὴν ",
+    "verseAfter": " ἥψατο αὐτοῦ"
   },
   {
     "reference": "Luke 6:1",
     "word": "χερσίν",
-    "verse": "ψώχοντες ταῖς χερσίν "
+    "verse": "ψώχοντες ταῖς χερσίν ",
+    "verseBefore": "ψώχοντες ταῖς ",
+    "verseAfter": " "
   },
   {
     "reference": "Luke 6:6",
     "word": "χεὶρ",
-    "verse": "καὶ ἡ χεὶρ αὐτοῦ ἡ"
+    "verse": "καὶ ἡ χεὶρ αὐτοῦ ἡ",
+    "verseBefore": "καὶ ἡ ",
+    "verseAfter": " αὐτοῦ ἡ"
   },
   {
     "reference": "Luke 6:8",
     "word": "χεῖρα",
-    "verse": "ἔχοντι τὴν χεῖρα Ἔγειρε καὶ"
+    "verse": "ἔχοντι τὴν χεῖρα Ἔγειρε καὶ",
+    "verseBefore": "ἔχοντι τὴν ",
+    "verseAfter": " Ἔγειρε καὶ"
   },
   {
     "reference": "Luke 6:10",
     "word": "χεῖρά",
-    "verse": "Ἔκτεινον τὴν χεῖρά σου ὁ"
+    "verse": "Ἔκτεινον τὴν χεῖρά σου ὁ",
+    "verseBefore": "Ἔκτεινον τὴν ",
+    "verseAfter": " σου ὁ"
   },
   {
     "reference": "Luke 6:10",
     "word": "χεὶρ",
-    "verse": "ἀπεκατεστάθη ἡ χεὶρ αὐτοῦ "
+    "verse": "ἀπεκατεστάθη ἡ χεὶρ αὐτοῦ ",
+    "verseBefore": "ἀπεκατεστάθη ἡ ",
+    "verseAfter": " αὐτοῦ "
   },
   {
     "reference": "Luke 8:54",
     "word": "χειρὸς",
-    "verse": "κρατήσας τῆς χειρὸς αὐτῆς ἐφώνησεν"
+    "verse": "κρατήσας τῆς χειρὸς αὐτῆς ἐφώνησεν",
+    "verseBefore": "κρατήσας τῆς ",
+    "verseAfter": " αὐτῆς ἐφώνησεν"
   },
   {
     "reference": "Luke 9:44",
     "word": "χεῖρας",
-    "verse": "παραδίδοσθαι εἰς χεῖρας ἀνθρώπων "
+    "verse": "παραδίδοσθαι εἰς χεῖρας ἀνθρώπων ",
+    "verseBefore": "παραδίδοσθαι εἰς ",
+    "verseAfter": " ἀνθρώπων "
   },
   {
     "reference": "Luke 9:62",
     "word": "χεῖρα",
-    "verse": "ἐπιβαλὼν τὴν χεῖρα ἐπ' ἄροτρον"
+    "verse": "ἐπιβαλὼν τὴν χεῖρα ἐπ' ἄροτρον",
+    "verseBefore": "ἐπιβαλὼν τὴν ",
+    "verseAfter": " ἐπ' ἄροτρον"
   },
   {
     "reference": "Luke 13:13",
     "word": "χεῖρας",
-    "verse": "αὐτῇ τὰς χεῖρας καὶ παραχρῆμα"
+    "verse": "αὐτῇ τὰς χεῖρας καὶ παραχρῆμα",
+    "verseBefore": "αὐτῇ τὰς ",
+    "verseAfter": " καὶ παραχρῆμα"
   },
   {
     "reference": "Luke 15:22",
     "word": "χεῖρα",
-    "verse": "εἰς τὴν χεῖρα αὐτοῦ καὶ"
+    "verse": "εἰς τὴν χεῖρα αὐτοῦ καὶ",
+    "verseBefore": "εἰς τὴν ",
+    "verseAfter": " αὐτοῦ καὶ"
   },
   {
     "reference": "Luke 20:19",
     "word": "χεῖρας",
-    "verse": "αὐτὸν τὰς χεῖρας ἐν αὐτῇ"
+    "verse": "αὐτὸν τὰς χεῖρας ἐν αὐτῇ",
+    "verseBefore": "αὐτὸν τὰς ",
+    "verseAfter": " ἐν αὐτῇ"
   },
   {
     "reference": "Luke 21:12",
     "word": "χεῖρας",
-    "verse": "ὑμᾶς τὰς χεῖρας αὐτῶν καὶ"
+    "verse": "ὑμᾶς τὰς χεῖρας αὐτῶν καὶ",
+    "verseBefore": "ὑμᾶς τὰς ",
+    "verseAfter": " αὐτῶν καὶ"
   },
   {
     "reference": "Luke 22:21",
     "word": "χεὶρ",
-    "verse": "ἰδοὺ ἡ χεὶρ τοῦ παραδιδόντος"
+    "verse": "ἰδοὺ ἡ χεὶρ τοῦ παραδιδόντος",
+    "verseBefore": "ἰδοὺ ἡ ",
+    "verseAfter": " τοῦ παραδιδόντος"
   },
   {
     "reference": "Luke 22:53",
     "word": "χεῖρας",
-    "verse": "ἐξετείνατε τὰς χεῖρας ἐπ' ἐμέ"
+    "verse": "ἐξετείνατε τὰς χεῖρας ἐπ' ἐμέ",
+    "verseBefore": "ἐξετείνατε τὰς ",
+    "verseAfter": " ἐπ' ἐμέ"
   },
   {
     "reference": "Luke 23:46",
     "word": "χεῖράς",
-    "verse": "Πάτερ εἰς χεῖράς σου παρατίθεμαι"
+    "verse": "Πάτερ εἰς χεῖράς σου παρατίθεμαι",
+    "verseBefore": "Πάτερ εἰς ",
+    "verseAfter": " σου παρατίθεμαι"
   },
   {
     "reference": "Luke 24:7",
     "word": "χεῖρας",
-    "verse": "παραδοθῆναι εἰς χεῖρας ἀνθρώπων ἁμαρτωλῶν"
+    "verse": "παραδοθῆναι εἰς χεῖρας ἀνθρώπων ἁμαρτωλῶν",
+    "verseBefore": "παραδοθῆναι εἰς ",
+    "verseAfter": " ἀνθρώπων ἁμαρτωλῶν"
   },
   {
     "reference": "Luke 24:39",
     "word": "χεῖράς",
-    "verse": "ἴδετε τὰς χεῖράς μου καὶ"
+    "verse": "ἴδετε τὰς χεῖράς μου καὶ",
+    "verseBefore": "ἴδετε τὰς ",
+    "verseAfter": " μου καὶ"
   },
   {
     "reference": "Luke 24:40",
     "word": "χεῖρας",
-    "verse": "αὐτοῖς τὰς χεῖρας καὶ τοὺς"
+    "verse": "αὐτοῖς τὰς χεῖρας καὶ τοὺς",
+    "verseBefore": "αὐτοῖς τὰς ",
+    "verseAfter": " καὶ τοὺς"
   },
   {
     "reference": "Luke 24:50",
     "word": "χεῖρας",
-    "verse": "ἐπάρας τὰς χεῖρας αὐτοῦ εὐλόγησεν"
+    "verse": "ἐπάρας τὰς χεῖρας αὐτοῦ εὐλόγησεν",
+    "verseBefore": "ἐπάρας τὰς ",
+    "verseAfter": " αὐτοῦ εὐλόγησεν"
   },
   {
     "reference": "John 3:35",
     "word": "χειρὶ",
-    "verse": "ἐν τῇ χειρὶ αὐτοῦ "
+    "verse": "ἐν τῇ χειρὶ αὐτοῦ ",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " αὐτοῦ "
   },
   {
     "reference": "John 7:30",
     "word": "χεῖρα",
-    "verse": "αὐτὸν τὴν χεῖρα ὅτι οὔπω"
+    "verse": "αὐτὸν τὴν χεῖρα ὅτι οὔπω",
+    "verseBefore": "αὐτὸν τὴν ",
+    "verseAfter": " ὅτι οὔπω"
   },
   {
     "reference": "John 7:44",
     "word": "χεῖρας",
-    "verse": "αὐτὸν τὰς χεῖρας "
+    "verse": "αὐτὸν τὰς χεῖρας ",
+    "verseBefore": "αὐτὸν τὰς ",
+    "verseAfter": " "
   },
   {
     "reference": "John 10:28",
     "word": "χειρός",
-    "verse": "ἐκ τῆς χειρός μου "
+    "verse": "ἐκ τῆς χειρός μου ",
+    "verseBefore": "ἐκ τῆς ",
+    "verseAfter": " μου "
   },
   {
     "reference": "John 10:29",
     "word": "χειρὸς",
-    "verse": "ἐκ τῆς χειρὸς τοῦ πατρός"
+    "verse": "ἐκ τῆς χειρὸς τοῦ πατρός",
+    "verseBefore": "ἐκ τῆς ",
+    "verseAfter": " τοῦ πατρός"
   },
   {
     "reference": "John 10:39",
     "word": "χειρὸς",
-    "verse": "ἐκ τῆς χειρὸς αὐτῶν "
+    "verse": "ἐκ τῆς χειρὸς αὐτῶν ",
+    "verseBefore": "ἐκ τῆς ",
+    "verseAfter": " αὐτῶν "
   },
   {
     "reference": "John 11:44",
     "word": "χεῖρας",
-    "verse": "καὶ τὰς χεῖρας κειρίαις καὶ"
+    "verse": "καὶ τὰς χεῖρας κειρίαις καὶ",
+    "verseBefore": "καὶ τὰς ",
+    "verseAfter": " κειρίαις καὶ"
   },
   {
     "reference": "John 13:3",
     "word": "χεῖρας",
-    "verse": "εἰς τὰς χεῖρας καὶ ὅτι"
+    "verse": "εἰς τὰς χεῖρας καὶ ὅτι",
+    "verseBefore": "εἰς τὰς ",
+    "verseAfter": " καὶ ὅτι"
   },
   {
     "reference": "John 13:9",
     "word": "χεῖρας",
-    "verse": "καὶ τὰς χεῖρας καὶ τὴν"
+    "verse": "καὶ τὰς χεῖρας καὶ τὴν",
+    "verseBefore": "καὶ τὰς ",
+    "verseAfter": " καὶ τὴν"
   },
   {
     "reference": "John 20:20",
     "word": "χεῖρας",
-    "verse": "καὶ τὰς χεῖρας καὶ τὴν"
+    "verse": "καὶ τὰς χεῖρας καὶ τὴν",
+    "verseBefore": "καὶ τὰς ",
+    "verseAfter": " καὶ τὴν"
   },
   {
     "reference": "John 20:25",
     "word": "χερσὶν",
-    "verse": "ἐν ταῖς χερσὶν αὐτοῦ τὸν"
+    "verse": "ἐν ταῖς χερσὶν αὐτοῦ τὸν",
+    "verseBefore": "ἐν ταῖς ",
+    "verseAfter": " αὐτοῦ τὸν"
   },
   {
     "reference": "John 20:25",
     "word": "χεῖρα",
-    "verse": "μου τὴν χεῖρα εἰς τὴν"
+    "verse": "μου τὴν χεῖρα εἰς τὴν",
+    "verseBefore": "μου τὴν ",
+    "verseAfter": " εἰς τὴν"
   },
   {
     "reference": "John 20:27",
     "word": "χεῖράς",
-    "verse": "ἴδε τὰς χεῖράς μου καὶ"
+    "verse": "ἴδε τὰς χεῖράς μου καὶ",
+    "verseBefore": "ἴδε τὰς ",
+    "verseAfter": " μου καὶ"
   },
   {
     "reference": "John 20:27",
     "word": "χεῖρά",
-    "verse": "φέρε τὴν χεῖρά σου καὶ"
+    "verse": "φέρε τὴν χεῖρά σου καὶ",
+    "verseBefore": "φέρε τὴν ",
+    "verseAfter": " σου καὶ"
   },
   {
     "reference": "John 21:18",
     "word": "χεῖράς",
-    "verse": "ἐκτενεῖς τὰς χεῖράς σου καὶ"
+    "verse": "ἐκτενεῖς τὰς χεῖράς σου καὶ",
+    "verseBefore": "ἐκτενεῖς τὰς ",
+    "verseAfter": " σου καὶ"
   },
   {
     "reference": "Acts 2:23",
     "word": "χειρὸς",
-    "verse": "ἔκδοτον διὰ χειρὸς ἀνόμων προσπήξαντες"
+    "verse": "ἔκδοτον διὰ χειρὸς ἀνόμων προσπήξαντες",
+    "verseBefore": "ἔκδοτον διὰ ",
+    "verseAfter": " ἀνόμων προσπήξαντες"
   },
   {
     "reference": "Acts 3:7",
     "word": "χειρὸς",
-    "verse": "τῆς δεξιᾶς χειρὸς ἤγειρεν αὐτόν"
+    "verse": "τῆς δεξιᾶς χειρὸς ἤγειρεν αὐτόν",
+    "verseBefore": "τῆς δεξιᾶς ",
+    "verseAfter": " ἤγειρεν αὐτόν"
   },
   {
     "reference": "Acts 4:3",
     "word": "χεῖρας",
-    "verse": "αὐτοῖς τὰς χεῖρας καὶ ἔθεντο"
+    "verse": "αὐτοῖς τὰς χεῖρας καὶ ἔθεντο",
+    "verseBefore": "αὐτοῖς τὰς ",
+    "verseAfter": " καὶ ἔθεντο"
   },
   {
     "reference": "Acts 4:28",
     "word": "χείρ",
-    "verse": "ὅσα ἡ χείρ σου καὶ"
+    "verse": "ὅσα ἡ χείρ σου καὶ",
+    "verseBefore": "ὅσα ἡ ",
+    "verseAfter": " σου καὶ"
   },
   {
     "reference": "Acts 4:30",
     "word": "χεῖρα",
-    "verse": "τῷ τὴν χεῖρα σου ἐκτείνειν"
+    "verse": "τῷ τὴν χεῖρα σου ἐκτείνειν",
+    "verseBefore": "τῷ τὴν ",
+    "verseAfter": " σου ἐκτείνειν"
   },
   {
     "reference": "Acts 5:12",
     "word": "χειρῶν",
-    "verse": "δὲ τῶν χειρῶν τῶν ἀποστόλων"
+    "verse": "δὲ τῶν χειρῶν τῶν ἀποστόλων",
+    "verseBefore": "δὲ τῶν ",
+    "verseAfter": " τῶν ἀποστόλων"
   },
   {
     "reference": "Acts 5:18",
     "word": "χεῖρας",
-    "verse": "ἐπέβαλον τὰς χεῖρας ἐπὶ τοὺς"
+    "verse": "ἐπέβαλον τὰς χεῖρας ἐπὶ τοὺς",
+    "verseBefore": "ἐπέβαλον τὰς ",
+    "verseAfter": " ἐπὶ τοὺς"
   },
   {
     "reference": "Acts 6:6",
     "word": "χεῖρας",
-    "verse": "αὐτοῖς τὰς χεῖρας "
+    "verse": "αὐτοῖς τὰς χεῖρας ",
+    "verseBefore": "αὐτοῖς τὰς ",
+    "verseAfter": " "
   },
   {
     "reference": "Acts 7:25",
     "word": "χειρὸς",
-    "verse": "θεὸς διὰ χειρὸς αὐτοῦ δίδωσιν"
+    "verse": "θεὸς διὰ χειρὸς αὐτοῦ δίδωσιν",
+    "verseBefore": "θεὸς διὰ ",
+    "verseAfter": " αὐτοῦ δίδωσιν"
   },
   {
     "reference": "Acts 7:35",
     "word": "χειρὶ",
-    "verse": "ἀπέσταλκεν σὺν χειρὶ ἀγγέλου τοῦ"
+    "verse": "ἀπέσταλκεν σὺν χειρὶ ἀγγέλου τοῦ",
+    "verseBefore": "ἀπέσταλκεν σὺν ",
+    "verseAfter": " ἀγγέλου τοῦ"
   },
   {
     "reference": "Acts 7:41",
     "word": "χειρῶν",
-    "verse": "ἔργοις τῶν χειρῶν αὐτῶν "
+    "verse": "ἔργοις τῶν χειρῶν αὐτῶν ",
+    "verseBefore": "ἔργοις τῶν ",
+    "verseAfter": " αὐτῶν "
   },
   {
     "reference": "Acts 7:50",
     "word": "χείρ",
-    "verse": "οὐχὶ ἡ χείρ μου ἐποίησεν"
+    "verse": "οὐχὶ ἡ χείρ μου ἐποίησεν",
+    "verseBefore": "οὐχὶ ἡ ",
+    "verseAfter": " μου ἐποίησεν"
   },
   {
     "reference": "Acts 8:17",
     "word": "χεῖρας",
-    "verse": "ἐπετίθεσαν τὰς χεῖρας ἐπ' αὐτούς"
+    "verse": "ἐπετίθεσαν τὰς χεῖρας ἐπ' αὐτούς",
+    "verseBefore": "ἐπετίθεσαν τὰς ",
+    "verseAfter": " ἐπ' αὐτούς"
   },
   {
     "reference": "Acts 8:18",
     "word": "χειρῶν",
-    "verse": "ἐπιθέσεως τῶν χειρῶν τῶν ἀποστόλων"
+    "verse": "ἐπιθέσεως τῶν χειρῶν τῶν ἀποστόλων",
+    "verseBefore": "ἐπιθέσεως τῶν ",
+    "verseAfter": " τῶν ἀποστόλων"
   },
   {
     "reference": "Acts 8:19",
     "word": "χεῖρας",
-    "verse": "ἐπιθῶ τὰς χεῖρας λαμβάνῃ πνεῦμα"
+    "verse": "ἐπιθῶ τὰς χεῖρας λαμβάνῃ πνεῦμα",
+    "verseBefore": "ἐπιθῶ τὰς ",
+    "verseAfter": " λαμβάνῃ πνεῦμα"
   },
   {
     "reference": "Acts 9:12",
     "word": "χεῖρας",
-    "verse": "αὐτῷ τὰς χεῖρας ὅπως ἀναβλέψῃ"
+    "verse": "αὐτῷ τὰς χεῖρας ὅπως ἀναβλέψῃ",
+    "verseBefore": "αὐτῷ τὰς ",
+    "verseAfter": " ὅπως ἀναβλέψῃ"
   },
   {
     "reference": "Acts 9:17",
     "word": "χεῖρας",
-    "verse": "αὐτὸν τὰς χεῖρας εἶπεν Σαοὺλ"
+    "verse": "αὐτὸν τὰς χεῖρας εἶπεν Σαοὺλ",
+    "verseBefore": "αὐτὸν τὰς ",
+    "verseAfter": " εἶπεν Σαοὺλ"
   },
   {
     "reference": "Acts 9:41",
     "word": "χεῖρα",
-    "verse": "δὲ αὐτῇ χεῖρα ἀνέστησεν αὐτήν"
+    "verse": "δὲ αὐτῇ χεῖρα ἀνέστησεν αὐτήν",
+    "verseBefore": "δὲ αὐτῇ ",
+    "verseAfter": " ἀνέστησεν αὐτήν"
   },
   {
     "reference": "Acts 11:21",
     "word": "χεὶρ",
-    "verse": "καὶ ἦν χεὶρ Κυρίου μετ'"
+    "verse": "καὶ ἦν χεὶρ Κυρίου μετ'",
+    "verseBefore": "καὶ ἦν ",
+    "verseAfter": " Κυρίου μετ'"
   },
   {
     "reference": "Acts 11:30",
     "word": "χειρὸς",
-    "verse": "πρεσβυτέρους διὰ χειρὸς Βαρνάβα καὶ"
+    "verse": "πρεσβυτέρους διὰ χειρὸς Βαρνάβα καὶ",
+    "verseBefore": "πρεσβυτέρους διὰ ",
+    "verseAfter": " Βαρνάβα καὶ"
   },
   {
     "reference": "Acts 12:1",
     "word": "χεῖρας",
-    "verse": "βασιλεὺς τὰς χεῖρας κακῶσαί τινας"
+    "verse": "βασιλεὺς τὰς χεῖρας κακῶσαί τινας",
+    "verseBefore": "βασιλεὺς τὰς ",
+    "verseAfter": " κακῶσαί τινας"
   },
   {
     "reference": "Acts 12:7",
     "word": "χειρῶν",
-    "verse": "ἐκ τῶν χειρῶν "
+    "verse": "ἐκ τῶν χειρῶν ",
+    "verseBefore": "ἐκ τῶν ",
+    "verseAfter": " "
   },
   {
     "reference": "Acts 12:11",
     "word": "χειρὸς",
-    "verse": "με ἐκ χειρὸς Ἡρῴδου καὶ"
+    "verse": "με ἐκ χειρὸς Ἡρῴδου καὶ",
+    "verseBefore": "με ἐκ ",
+    "verseAfter": " Ἡρῴδου καὶ"
   },
   {
     "reference": "Acts 12:17",
     "word": "χειρὶ",
-    "verse": "αὐτοῖς τῇ χειρὶ σιγᾷν διηγήσατο"
+    "verse": "αὐτοῖς τῇ χειρὶ σιγᾷν διηγήσατο",
+    "verseBefore": "αὐτοῖς τῇ ",
+    "verseAfter": " σιγᾷν διηγήσατο"
   },
   {
     "reference": "Acts 13:3",
     "word": "χεῖρας",
-    "verse": "ἐπιθέντες τὰς χεῖρας αὐτοῖς ἀπέλυσαν"
+    "verse": "ἐπιθέντες τὰς χεῖρας αὐτοῖς ἀπέλυσαν",
+    "verseBefore": "ἐπιθέντες τὰς ",
+    "verseAfter": " αὐτοῖς ἀπέλυσαν"
   },
   {
     "reference": "Acts 13:11",
     "word": "χεὶρ",
-    "verse": "νῦν ἰδοὺ χεὶρ Κυρίου ἐπὶ"
+    "verse": "νῦν ἰδοὺ χεὶρ Κυρίου ἐπὶ",
+    "verseBefore": "νῦν ἰδοὺ ",
+    "verseAfter": " Κυρίου ἐπὶ"
   },
   {
     "reference": "Acts 13:16",
     "word": "χειρὶ",
-    "verse": "κατασείσας τῇ χειρὶ εἶπεν Ἄνδρες"
+    "verse": "κατασείσας τῇ χειρὶ εἶπεν Ἄνδρες",
+    "verseBefore": "κατασείσας τῇ ",
+    "verseAfter": " εἶπεν Ἄνδρες"
   },
   {
     "reference": "Acts 14:3",
     "word": "χειρῶν",
-    "verse": "διὰ τῶν χειρῶν αὐτῶν "
+    "verse": "διὰ τῶν χειρῶν αὐτῶν ",
+    "verseBefore": "διὰ τῶν ",
+    "verseAfter": " αὐτῶν "
   },
   {
     "reference": "Acts 15:23",
     "word": "χειρὸς",
-    "verse": "γράψαντες διὰ χειρὸς αὐτῶν Οἱ"
+    "verse": "γράψαντες διὰ χειρὸς αὐτῶν Οἱ",
+    "verseBefore": "γράψαντες διὰ ",
+    "verseAfter": " αὐτῶν Οἱ"
   },
   {
     "reference": "Acts 17:25",
     "word": "χειρῶν",
-    "verse": "οὐδὲ ὑπὸ χειρῶν ἀνθρωπίνων θεραπεύεται"
+    "verse": "οὐδὲ ὑπὸ χειρῶν ἀνθρωπίνων θεραπεύεται",
+    "verseBefore": "οὐδὲ ὑπὸ ",
+    "verseAfter": " ἀνθρωπίνων θεραπεύεται"
   },
   {
     "reference": "Acts 19:6",
     "word": "χεῖρας",
-    "verse": "Παύλου τὰς χεῖρας ἦλθε τὸ"
+    "verse": "Παύλου τὰς χεῖρας ἦλθε τὸ",
+    "verseBefore": "Παύλου τὰς ",
+    "verseAfter": " ἦλθε τὸ"
   },
   {
     "reference": "Acts 19:11",
     "word": "χειρῶν",
-    "verse": "διὰ τῶν χειρῶν Παύλου "
+    "verse": "διὰ τῶν χειρῶν Παύλου ",
+    "verseBefore": "διὰ τῶν ",
+    "verseAfter": " Παύλου "
   },
   {
     "reference": "Acts 19:26",
     "word": "χειρῶν",
-    "verse": "οἱ διὰ χειρῶν γινόμενοι "
+    "verse": "οἱ διὰ χειρῶν γινόμενοι ",
+    "verseBefore": "οἱ διὰ ",
+    "verseAfter": " γινόμενοι "
   },
   {
     "reference": "Acts 19:33",
     "word": "χεῖρα",
-    "verse": "κατασείσας τὴν χεῖρα ἤθελεν ἀπολογεῖσθαι"
+    "verse": "κατασείσας τὴν χεῖρα ἤθελεν ἀπολογεῖσθαι",
+    "verseBefore": "κατασείσας τὴν ",
+    "verseAfter": " ἤθελεν ἀπολογεῖσθαι"
   },
   {
     "reference": "Acts 20:34",
     "word": "χεῖρες",
-    "verse": "ὑπηρέτησαν αἱ χεῖρες αὗται "
+    "verse": "ὑπηρέτησαν αἱ χεῖρες αὗται ",
+    "verseBefore": "ὑπηρέτησαν αἱ ",
+    "verseAfter": " αὗται "
   },
   {
     "reference": "Acts 21:11",
     "word": "χεῖρας",
-    "verse": "καὶ τὰς χεῖρας εἶπεν Τάδε"
+    "verse": "καὶ τὰς χεῖρας εἶπεν Τάδε",
+    "verseBefore": "καὶ τὰς ",
+    "verseAfter": " εἶπεν Τάδε"
   },
   {
     "reference": "Acts 21:11",
     "word": "χεῖρας",
-    "verse": "παραδώσουσιν εἰς χεῖρας ἐθνῶν "
+    "verse": "παραδώσουσιν εἰς χεῖρας ἐθνῶν ",
+    "verseBefore": "παραδώσουσιν εἰς ",
+    "verseAfter": " ἐθνῶν "
   },
   {
     "reference": "Acts 21:27",
     "word": "χεῖρας",
-    "verse": "αὐτὸν τὰς χεῖρας "
+    "verse": "αὐτὸν τὰς χεῖρας ",
+    "verseBefore": "αὐτὸν τὰς ",
+    "verseAfter": " "
   },
   {
     "reference": "Acts 21:40",
     "word": "χειρὶ",
-    "verse": "κατέσεισεν τῇ χειρὶ τῷ λαῷ"
+    "verse": "κατέσεισεν τῇ χειρὶ τῷ λαῷ",
+    "verseBefore": "κατέσεισεν τῇ ",
+    "verseAfter": " τῷ λαῷ"
   },
   {
     "reference": "Acts 23:19",
     "word": "χειρὸς",
-    "verse": "δὲ τῆς χειρὸς αὐτοῦ ὁ"
+    "verse": "δὲ τῆς χειρὸς αὐτοῦ ὁ",
+    "verseBefore": "δὲ τῆς ",
+    "verseAfter": " αὐτοῦ ὁ"
   },
   {
     "reference": "Acts 24:7",
     "word": "χειρῶν",
-    "verse": "ἐκ τῶν χειρῶν ἡμῶν ἀπήγαγεν"
+    "verse": "ἐκ τῶν χειρῶν ἡμῶν ἀπήγαγεν",
+    "verseBefore": "ἐκ τῶν ",
+    "verseAfter": " ἡμῶν ἀπήγαγεν"
   },
   {
     "reference": "Acts 26:1",
     "word": "χεῖρα",
-    "verse": "ἐκτείνας τὴν χεῖρα ἀπελογεῖτο "
+    "verse": "ἐκτείνας τὴν χεῖρα ἀπελογεῖτο ",
+    "verseBefore": "ἐκτείνας τὴν ",
+    "verseAfter": " ἀπελογεῖτο "
   },
   {
     "reference": "Acts 28:3",
     "word": "χειρὸς",
-    "verse": "καθῆψεν τῆς χειρὸς αὐτοῦ "
+    "verse": "καθῆψεν τῆς χειρὸς αὐτοῦ ",
+    "verseBefore": "καθῆψεν τῆς ",
+    "verseAfter": " αὐτοῦ "
   },
   {
     "reference": "Acts 28:4",
     "word": "χειρὸς",
-    "verse": "ἐκ τῆς χειρὸς αὐτοῦ πρὸς"
+    "verse": "ἐκ τῆς χειρὸς αὐτοῦ πρὸς",
+    "verseBefore": "ἐκ τῆς ",
+    "verseAfter": " αὐτοῦ πρὸς"
   },
   {
     "reference": "Acts 28:8",
     "word": "χεῖρας",
-    "verse": "ἐπιθεὶς τὰς χεῖρας αὐτῷ ἰάσατο"
+    "verse": "ἐπιθεὶς τὰς χεῖρας αὐτῷ ἰάσατο",
+    "verseBefore": "ἐπιθεὶς τὰς ",
+    "verseAfter": " αὐτῷ ἰάσατο"
   },
   {
     "reference": "Acts 28:17",
     "word": "χεῖρας",
-    "verse": "εἰς τὰς χεῖρας τῶν Ῥωμαίων"
+    "verse": "εἰς τὰς χεῖρας τῶν Ῥωμαίων",
+    "verseBefore": "εἰς τὰς ",
+    "verseAfter": " τῶν Ῥωμαίων"
   },
   {
     "reference": "Romans 10:21",
     "word": "χεῖράς",
-    "verse": "ἐξεπέτασα τὰς χεῖράς μου πρὸς"
+    "verse": "ἐξεπέτασα τὰς χεῖράς μου πρὸς",
+    "verseBefore": "ἐξεπέτασα τὰς ",
+    "verseAfter": " μου πρὸς"
   },
   {
     "reference": "1 Corinthians 4:12",
     "word": "χερσίν",
-    "verse": "ταῖς ἰδίαις χερσίν λοιδορούμενοι εὐλογοῦμεν"
+    "verse": "ταῖς ἰδίαις χερσίν λοιδορούμενοι εὐλογοῦμεν",
+    "verseBefore": "ταῖς ἰδίαις ",
+    "verseAfter": " λοιδορούμενοι εὐλογοῦμεν"
   },
   {
     "reference": "1 Corinthians 12:15",
     "word": "χείρ",
-    "verse": "οὐκ εἰμὶ χείρ οὐκ εἰμὶ"
+    "verse": "οὐκ εἰμὶ χείρ οὐκ εἰμὶ",
+    "verseBefore": "οὐκ εἰμὶ ",
+    "verseAfter": " οὐκ εἰμὶ"
   },
   {
     "reference": "1 Corinthians 12:21",
     "word": "χειρί",
-    "verse": "εἰπεῖν τῇ χειρί Χρείαν σου"
+    "verse": "εἰπεῖν τῇ χειρί Χρείαν σου",
+    "verseBefore": "εἰπεῖν τῇ ",
+    "verseAfter": " Χρείαν σου"
   },
   {
     "reference": "1 Corinthians 16:21",
     "word": "χειρὶ",
-    "verse": "τῇ ἐμῇ χειρὶ Παύλου "
+    "verse": "τῇ ἐμῇ χειρὶ Παύλου ",
+    "verseBefore": "τῇ ἐμῇ ",
+    "verseAfter": " Παύλου "
   },
   {
     "reference": "2 Corinthians 11:33",
     "word": "χεῖρας",
-    "verse": "ἐξέφυγον τὰς χεῖρας αὐτοῦ "
+    "verse": "ἐξέφυγον τὰς χεῖρας αὐτοῦ ",
+    "verseBefore": "ἐξέφυγον τὰς ",
+    "verseAfter": " αὐτοῦ "
   },
   {
     "reference": "Galatians 3:19",
     "word": "χειρὶ",
-    "verse": "ἀγγέλων ἐν χειρὶ μεσίτου "
+    "verse": "ἀγγέλων ἐν χειρὶ μεσίτου ",
+    "verseBefore": "ἀγγέλων ἐν ",
+    "verseAfter": " μεσίτου "
   },
   {
     "reference": "Galatians 6:11",
     "word": "χειρί",
-    "verse": "τῇ ἐμῇ χειρί "
+    "verse": "τῇ ἐμῇ χειρί ",
+    "verseBefore": "τῇ ἐμῇ ",
+    "verseAfter": " "
   },
   {
     "reference": "Ephesians 4:28",
     "word": "χερσὶν",
-    "verse": "ταῖς ἰδίαις χερσὶν τὸ ἀγαθόν"
+    "verse": "ταῖς ἰδίαις χερσὶν τὸ ἀγαθόν",
+    "verseBefore": "ταῖς ἰδίαις ",
+    "verseAfter": " τὸ ἀγαθόν"
   },
   {
     "reference": "Colossians 4:18",
     "word": "χειρὶ",
-    "verse": "τῇ ἐμῇ χειρὶ Παύλου μνημονεύετέ"
+    "verse": "τῇ ἐμῇ χειρὶ Παύλου μνημονεύετέ",
+    "verseBefore": "τῇ ἐμῇ ",
+    "verseAfter": " Παύλου μνημονεύετέ"
   },
   {
     "reference": "1 Thessalonians 4:11",
     "word": "χερσὶν",
-    "verse": "ταῖς ἰδίαις χερσὶν ὑμῶν καθὼς"
+    "verse": "ταῖς ἰδίαις χερσὶν ὑμῶν καθὼς",
+    "verseBefore": "ταῖς ἰδίαις ",
+    "verseAfter": " ὑμῶν καθὼς"
   },
   {
     "reference": "2 Thessalonians 3:17",
     "word": "χειρὶ",
-    "verse": "τῇ ἐμῇ χειρὶ Παύλου ὅ"
+    "verse": "τῇ ἐμῇ χειρὶ Παύλου ὅ",
+    "verseBefore": "τῇ ἐμῇ ",
+    "verseAfter": " Παύλου ὅ"
   },
   {
     "reference": "1 Timothy 2:8",
     "word": "χεῖρας",
-    "verse": "ἐπαίροντας ὁσίους χεῖρας χωρὶς ὀργῆς"
+    "verse": "ἐπαίροντας ὁσίους χεῖρας χωρὶς ὀργῆς",
+    "verseBefore": "ἐπαίροντας ὁσίους ",
+    "verseAfter": " χωρὶς ὀργῆς"
   },
   {
     "reference": "1 Timothy 4:14",
     "word": "χειρῶν",
-    "verse": "ἐπιθέσεως τῶν χειρῶν τοῦ πρεσβυτερίου"
+    "verse": "ἐπιθέσεως τῶν χειρῶν τοῦ πρεσβυτερίου",
+    "verseBefore": "ἐπιθέσεως τῶν ",
+    "verseAfter": " τοῦ πρεσβυτερίου"
   },
   {
     "reference": "1 Timothy 5:22",
     "word": "Χεῖρας",
-    "verse": "Χεῖρας ταχέως μηδενὶ"
+    "verse": "Χεῖρας ταχέως μηδενὶ",
+    "verseBefore": "",
+    "verseAfter": " ταχέως μηδενὶ"
   },
   {
     "reference": "2 Timothy 1:6",
     "word": "χειρῶν",
-    "verse": "ἐπιθέσεως τῶν χειρῶν μου "
+    "verse": "ἐπιθέσεως τῶν χειρῶν μου ",
+    "verseBefore": "ἐπιθέσεως τῶν ",
+    "verseAfter": " μου "
   },
   {
     "reference": "Philemon 1:19",
     "word": "χειρί",
-    "verse": "τῇ ἐμῇ χειρί ἐγὼ ἀποτίσω"
+    "verse": "τῇ ἐμῇ χειρί ἐγὼ ἀποτίσω",
+    "verseBefore": "τῇ ἐμῇ ",
+    "verseAfter": " ἐγὼ ἀποτίσω"
   },
   {
     "reference": "Hebrews 1:10",
     "word": "χειρῶν",
-    "verse": "ἔργα τῶν χειρῶν σού εἰσιν"
+    "verse": "ἔργα τῶν χειρῶν σού εἰσιν",
+    "verseBefore": "ἔργα τῶν ",
+    "verseAfter": " σού εἰσιν"
   },
   {
     "reference": "Hebrews 2:7",
     "word": "χειρῶν",
-    "verse": "ἔργα τῶν χειρῶν σου "
+    "verse": "ἔργα τῶν χειρῶν σου ",
+    "verseBefore": "ἔργα τῶν ",
+    "verseAfter": " σου "
   },
   {
     "reference": "Hebrews 6:2",
     "word": "χειρῶν",
-    "verse": "ἐπιθέσεώς τε χειρῶν ἀναστάσεως τε"
+    "verse": "ἐπιθέσεώς τε χειρῶν ἀναστάσεως τε",
+    "verseBefore": "ἐπιθέσεώς τε ",
+    "verseAfter": " ἀναστάσεως τε"
   },
   {
     "reference": "Hebrews 8:9",
     "word": "χειρὸς",
-    "verse": "μου τῆς χειρὸς αὐτῶν ἐξαγαγεῖν"
+    "verse": "μου τῆς χειρὸς αὐτῶν ἐξαγαγεῖν",
+    "verseBefore": "μου τῆς ",
+    "verseAfter": " αὐτῶν ἐξαγαγεῖν"
   },
   {
     "reference": "Hebrews 10:31",
     "word": "χεῖρας",
-    "verse": "ἐμπεσεῖν εἰς χεῖρας θεοῦ ζῶντος"
+    "verse": "ἐμπεσεῖν εἰς χεῖρας θεοῦ ζῶντος",
+    "verseBefore": "ἐμπεσεῖν εἰς ",
+    "verseAfter": " θεοῦ ζῶντος"
   },
   {
     "reference": "Hebrews 12:12",
     "word": "χεῖρας",
-    "verse": "τὰς παρειμένας χεῖρας καὶ τὰ"
+    "verse": "τὰς παρειμένας χεῖρας καὶ τὰ",
+    "verseBefore": "τὰς παρειμένας ",
+    "verseAfter": " καὶ τὰ"
   },
   {
     "reference": "James 4:8",
     "word": "χεῖρας",
-    "verse": "ὑμῖν καθαρίσατε χεῖρας ἁμαρτωλοί καὶ"
+    "verse": "ὑμῖν καθαρίσατε χεῖρας ἁμαρτωλοί καὶ",
+    "verseBefore": "ὑμῖν καθαρίσατε ",
+    "verseAfter": " ἁμαρτωλοί καὶ"
   },
   {
     "reference": "1 Peter 5:6",
     "word": "χεῖρα",
-    "verse": "τὴν κραταιὰν χεῖρα τοῦ θεοῦ"
+    "verse": "τὴν κραταιὰν χεῖρα τοῦ θεοῦ",
+    "verseBefore": "τὴν κραταιὰν ",
+    "verseAfter": " τοῦ θεοῦ"
   },
   {
     "reference": "1 John 1:1",
     "word": "χεῖρες",
-    "verse": "καὶ αἱ χεῖρες ἡμῶν ἐψηλάφησαν"
+    "verse": "καὶ αἱ χεῖρες ἡμῶν ἐψηλάφησαν",
+    "verseBefore": "καὶ αἱ ",
+    "verseAfter": " ἡμῶν ἐψηλάφησαν"
   },
   {
     "reference": "Revelation 1:16",
     "word": "χειρὶ",
-    "verse": "τῇ δεξιᾷ χειρὶ αὐτοῦ ἀστέρας"
+    "verse": "τῇ δεξιᾷ χειρὶ αὐτοῦ ἀστέρας",
+    "verseBefore": "τῇ δεξιᾷ ",
+    "verseAfter": " αὐτοῦ ἀστέρας"
   },
   {
     "reference": "Revelation 6:5",
     "word": "χειρὶ",
-    "verse": "ἐν τῇ χειρὶ αὐτοῦ "
+    "verse": "ἐν τῇ χειρὶ αὐτοῦ ",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " αὐτοῦ "
   },
   {
     "reference": "Revelation 7:9",
     "word": "χερσὶν",
-    "verse": "ἐν ταῖς χερσὶν αὐτῶν "
+    "verse": "ἐν ταῖς χερσὶν αὐτῶν ",
+    "verseBefore": "ἐν ταῖς ",
+    "verseAfter": " αὐτῶν "
   },
   {
     "reference": "Revelation 8:4",
     "word": "χειρὸς",
-    "verse": "ἁγίων ἐκ χειρὸς τοῦ ἀγγέλου"
+    "verse": "ἁγίων ἐκ χειρὸς τοῦ ἀγγέλου",
+    "verseBefore": "ἁγίων ἐκ ",
+    "verseAfter": " τοῦ ἀγγέλου"
   },
   {
     "reference": "Revelation 9:20",
     "word": "χειρῶν",
-    "verse": "ἔργων τῶν χειρῶν αὐτῶν ἵνα"
+    "verse": "ἔργων τῶν χειρῶν αὐτῶν ἵνα",
+    "verseBefore": "ἔργων τῶν ",
+    "verseAfter": " αὐτῶν ἵνα"
   },
   {
     "reference": "Revelation 10:2",
     "word": "χειρὶ",
-    "verse": "ἐν τῇ χειρὶ αὐτοῦ βιβλαρίδιον"
+    "verse": "ἐν τῇ χειρὶ αὐτοῦ βιβλαρίδιον",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " αὐτοῦ βιβλαρίδιον"
   },
   {
     "reference": "Revelation 10:5",
     "word": "χεῖρα",
-    "verse": "ἦρεν τὴν χεῖρα αὐτοῦ τὴν"
+    "verse": "ἦρεν τὴν χεῖρα αὐτοῦ τὴν",
+    "verseBefore": "ἦρεν τὴν ",
+    "verseAfter": " αὐτοῦ τὴν"
   },
   {
     "reference": "Revelation 10:8",
     "word": "χειρὶ",
-    "verse": "ἐν τῇ χειρὶ τοῦ ἀγγέλου"
+    "verse": "ἐν τῇ χειρὶ τοῦ ἀγγέλου",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " τοῦ ἀγγέλου"
   },
   {
     "reference": "Revelation 10:10",
     "word": "χειρὸς",
-    "verse": "ἐκ τῆς χειρὸς τοῦ ἀγγέλου"
+    "verse": "ἐκ τῆς χειρὸς τοῦ ἀγγέλου",
+    "verseBefore": "ἐκ τῆς ",
+    "verseAfter": " τοῦ ἀγγέλου"
   },
   {
     "reference": "Revelation 13:16",
     "word": "χειρὸς",
-    "verse": "ἐπὶ τῆς χειρὸς αὐτῶν τῆς"
+    "verse": "ἐπὶ τῆς χειρὸς αὐτῶν τῆς",
+    "verseBefore": "ἐπὶ τῆς ",
+    "verseAfter": " αὐτῶν τῆς"
   },
   {
     "reference": "Revelation 14:9",
     "word": "χεῖρα",
-    "verse": "ἐπὶ τὴν χεῖρα αὐτοῦ "
+    "verse": "ἐπὶ τὴν χεῖρα αὐτοῦ ",
+    "verseBefore": "ἐπὶ τὴν ",
+    "verseAfter": " αὐτοῦ "
   },
   {
     "reference": "Revelation 14:14",
     "word": "χειρὶ",
-    "verse": "ἐν τῇ χειρὶ αὐτοῦ δρέπανον"
+    "verse": "ἐν τῇ χειρὶ αὐτοῦ δρέπανον",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " αὐτοῦ δρέπανον"
   },
   {
     "reference": "Revelation 17:4",
     "word": "χειρὶ",
-    "verse": "ἐν τῇ χειρὶ αὐτῆς γέμον"
+    "verse": "ἐν τῇ χειρὶ αὐτῆς γέμον",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " αὐτῆς γέμον"
   },
   {
     "reference": "Revelation 19:2",
     "word": "χειρὸς",
-    "verse": "αὐτοῦ ἐκ χειρὸς αὐτῆς "
+    "verse": "αὐτοῦ ἐκ χειρὸς αὐτῆς ",
+    "verseBefore": "αὐτοῦ ἐκ ",
+    "verseAfter": " αὐτῆς "
   },
   {
     "reference": "Revelation 20:1",
     "word": "χεῖρα",
-    "verse": "ἐπὶ τὴν χεῖρα αὐτοῦ "
+    "verse": "ἐπὶ τὴν χεῖρα αὐτοῦ ",
+    "verseBefore": "ἐπὶ τὴν ",
+    "verseAfter": " αὐτοῦ "
   },
   {
     "reference": "Revelation 20:4",
     "word": "χεῖρα",
-    "verse": "ἐπὶ τὴν χεῖρα αὐτῶν καὶ"
+    "verse": "ἐπὶ τὴν χεῖρα αὐτῶν καὶ",
+    "verseBefore": "ἐπὶ τὴν ",
+    "verseAfter": " αὐτῶν καὶ"
   }
 ]

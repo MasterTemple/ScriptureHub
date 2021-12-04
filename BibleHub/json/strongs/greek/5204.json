@@ -2,401 +2,561 @@
   {
     "reference": "Matthew 3:11",
     "word": "ὕδατι",
-    "verse": "βαπτίζω ἐν ὕδατι εἰς μετάνοιαν"
+    "verse": "βαπτίζω ἐν ὕδατι εἰς μετάνοιαν",
+    "verseBefore": "βαπτίζω ἐν ",
+    "verseAfter": " εἰς μετάνοιαν"
   },
   {
     "reference": "Matthew 3:16",
     "word": "ὕδατος",
-    "verse": "ἀπὸ τοῦ ὕδατος καὶ ἰδοὺ"
+    "verse": "ἀπὸ τοῦ ὕδατος καὶ ἰδοὺ",
+    "verseBefore": "ἀπὸ τοῦ ",
+    "verseAfter": " καὶ ἰδοὺ"
   },
   {
     "reference": "Matthew 8:32",
     "word": "ὕδασιν",
-    "verse": "ἐν τοῖς ὕδασιν "
+    "verse": "ἐν τοῖς ὕδασιν ",
+    "verseBefore": "ἐν τοῖς ",
+    "verseAfter": " "
   },
   {
     "reference": "Matthew 14:28",
     "word": "ὕδατα",
-    "verse": "ἐπὶ τὰ ὕδατα "
+    "verse": "ἐπὶ τὰ ὕδατα ",
+    "verseBefore": "ἐπὶ τὰ ",
+    "verseAfter": " "
   },
   {
     "reference": "Matthew 14:29",
     "word": "ὕδατα",
-    "verse": "ἐπὶ τὰ ὕδατα καὶ ἦλθεν"
+    "verse": "ἐπὶ τὰ ὕδατα καὶ ἦλθεν",
+    "verseBefore": "ἐπὶ τὰ ",
+    "verseAfter": " καὶ ἦλθεν"
   },
   {
     "reference": "Matthew 17:15",
     "word": "ὕδωρ",
-    "verse": "εἰς τὸ ὕδωρ "
+    "verse": "εἰς τὸ ὕδωρ ",
+    "verseBefore": "εἰς τὸ ",
+    "verseAfter": " "
   },
   {
     "reference": "Matthew 27:24",
     "word": "ὕδωρ",
-    "verse": "γίνεται λαβὼν ὕδωρ ἀπενίψατο τὰς"
+    "verse": "γίνεται λαβὼν ὕδωρ ἀπενίψατο τὰς",
+    "verseBefore": "γίνεται λαβὼν ",
+    "verseAfter": " ἀπενίψατο τὰς"
   },
   {
     "reference": "Matthew 27:49",
     "word": "ὕδωρ",
-    "verse": "καὶ ἐξῆλθεν ὕδωρ καὶ αἷμα"
+    "verse": "καὶ ἐξῆλθεν ὕδωρ καὶ αἷμα",
+    "verseBefore": "καὶ ἐξῆλθεν ",
+    "verseAfter": " καὶ αἷμα"
   },
   {
     "reference": "Mark 1:8",
     "word": "ὕδατι",
-    "verse": "ἐβάπτισα ὑμᾶς ὕδατι αὐτὸς δὲ"
+    "verse": "ἐβάπτισα ὑμᾶς ὕδατι αὐτὸς δὲ",
+    "verseBefore": "ἐβάπτισα ὑμᾶς ",
+    "verseAfter": " αὐτὸς δὲ"
   },
   {
     "reference": "Mark 1:10",
     "word": "ὕδατος",
-    "verse": "ἐκ τοῦ ὕδατος εἶδεν σχιζομένους"
+    "verse": "ἐκ τοῦ ὕδατος εἶδεν σχιζομένους",
+    "verseBefore": "ἐκ τοῦ ",
+    "verseAfter": " εἶδεν σχιζομένους"
   },
   {
     "reference": "Mark 9:22",
     "word": "ὕδατα",
-    "verse": "καὶ εἰς ὕδατα ἵνα ἀπολέσῃ"
+    "verse": "καὶ εἰς ὕδατα ἵνα ἀπολέσῃ",
+    "verseBefore": "καὶ εἰς ",
+    "verseAfter": " ἵνα ἀπολέσῃ"
   },
   {
     "reference": "Mark 9:41",
     "word": "ὕδατος",
-    "verse": "ὑμᾶς ποτήριον ὕδατος ἐν ὀνόματι"
+    "verse": "ὑμᾶς ποτήριον ὕδατος ἐν ὀνόματι",
+    "verseBefore": "ὑμᾶς ποτήριον ",
+    "verseAfter": " ἐν ὀνόματι"
   },
   {
     "reference": "Mark 14:13",
     "word": "ὕδατος",
-    "verse": "ἄνθρωπος κεράμιον ὕδατος βαστάζων ἀκολουθήσατε"
+    "verse": "ἄνθρωπος κεράμιον ὕδατος βαστάζων ἀκολουθήσατε",
+    "verseBefore": "ἄνθρωπος κεράμιον ",
+    "verseAfter": " βαστάζων ἀκολουθήσατε"
   },
   {
     "reference": "Luke 3:16",
     "word": "ὕδατι",
-    "verse": "Ἐγὼ μὲν ὕδατι βαπτίζω ὑμᾶς"
+    "verse": "Ἐγὼ μὲν ὕδατι βαπτίζω ὑμᾶς",
+    "verseBefore": "Ἐγὼ μὲν ",
+    "verseAfter": " βαπτίζω ὑμᾶς"
   },
   {
     "reference": "Luke 7:44",
     "word": "ὕδωρ",
-    "verse": "τὴν οἰκίαν ὕδωρ μοι ἐπὶ"
+    "verse": "τὴν οἰκίαν ὕδωρ μοι ἐπὶ",
+    "verseBefore": "τὴν οἰκίαν ",
+    "verseAfter": " μοι ἐπὶ"
   },
   {
     "reference": "Luke 8:24",
     "word": "ὕδατος",
-    "verse": "κλύδωνι τοῦ ὕδατος καὶ ἐπαύσαντο"
+    "verse": "κλύδωνι τοῦ ὕδατος καὶ ἐπαύσαντο",
+    "verseBefore": "κλύδωνι τοῦ ",
+    "verseAfter": " καὶ ἐπαύσαντο"
   },
   {
     "reference": "Luke 8:25",
     "word": "ὕδατι",
-    "verse": "καὶ τῷ ὕδατι καὶ ὑπακούουσιν"
+    "verse": "καὶ τῷ ὕδατι καὶ ὑπακούουσιν",
+    "verseBefore": "καὶ τῷ ",
+    "verseAfter": " καὶ ὑπακούουσιν"
   },
   {
     "reference": "Luke 16:24",
     "word": "ὕδατος",
-    "verse": "δακτύλου αὐτοῦ ὕδατος καὶ καταψύξῃ"
+    "verse": "δακτύλου αὐτοῦ ὕδατος καὶ καταψύξῃ",
+    "verseBefore": "δακτύλου αὐτοῦ ",
+    "verseAfter": " καὶ καταψύξῃ"
   },
   {
     "reference": "Luke 22:10",
     "word": "ὕδατος",
-    "verse": "ἄνθρωπος κεράμιον ὕδατος βαστάζων ἀκολουθήσατε"
+    "verse": "ἄνθρωπος κεράμιον ὕδατος βαστάζων ἀκολουθήσατε",
+    "verseBefore": "ἄνθρωπος κεράμιον ",
+    "verseAfter": " βαστάζων ἀκολουθήσατε"
   },
   {
     "reference": "John 1:26",
     "word": "ὕδατι",
-    "verse": "βαπτίζω ἐν ὕδατι μέσος ὑμῶν"
+    "verse": "βαπτίζω ἐν ὕδατι μέσος ὑμῶν",
+    "verseBefore": "βαπτίζω ἐν ",
+    "verseAfter": " μέσος ὑμῶν"
   },
   {
     "reference": "John 1:31",
     "word": "ὕδατι",
-    "verse": "ἐγὼ ἐν ὕδατι βαπτίζων "
+    "verse": "ἐγὼ ἐν ὕδατι βαπτίζων ",
+    "verseBefore": "ἐγὼ ἐν ",
+    "verseAfter": " βαπτίζων "
   },
   {
     "reference": "John 1:33",
     "word": "ὕδατι",
-    "verse": "βαπτίζειν ἐν ὕδατι ἐκεῖνός μοι"
+    "verse": "βαπτίζειν ἐν ὕδατι ἐκεῖνός μοι",
+    "verseBefore": "βαπτίζειν ἐν ",
+    "verseAfter": " ἐκεῖνός μοι"
   },
   {
     "reference": "John 2:7",
     "word": "ὕδατος",
-    "verse": "τὰς ὑδρίας ὕδατος καὶ ἐγέμισαν"
+    "verse": "τὰς ὑδρίας ὕδατος καὶ ἐγέμισαν",
+    "verseBefore": "τὰς ὑδρίας ",
+    "verseAfter": " καὶ ἐγέμισαν"
   },
   {
     "reference": "John 2:9",
     "word": "ὕδωρ",
-    "verse": "ἀρχιτρίκλινος τὸ ὕδωρ οἶνον γεγενημένον"
+    "verse": "ἀρχιτρίκλινος τὸ ὕδωρ οἶνον γεγενημένον",
+    "verseBefore": "ἀρχιτρίκλινος τὸ ",
+    "verseAfter": " οἶνον γεγενημένον"
   },
   {
     "reference": "John 2:9",
     "word": "ὕδωρ",
-    "verse": "ἠντληκότες τὸ ὕδωρ φωνεῖ τὸν"
+    "verse": "ἠντληκότες τὸ ὕδωρ φωνεῖ τὸν",
+    "verseBefore": "ἠντληκότες τὸ ",
+    "verseAfter": " φωνεῖ τὸν"
   },
   {
     "reference": "John 3:5",
     "word": "ὕδατος",
-    "verse": "γεννηθῇ ἐξ ὕδατος καὶ πνεύματος"
+    "verse": "γεννηθῇ ἐξ ὕδατος καὶ πνεύματος",
+    "verseBefore": "γεννηθῇ ἐξ ",
+    "verseAfter": " καὶ πνεύματος"
   },
   {
     "reference": "John 3:23",
     "word": "ὕδατα",
-    "verse": "Σαλείμ ὅτι ὕδατα πολλὰ ἦν"
+    "verse": "Σαλείμ ὅτι ὕδατα πολλὰ ἦν",
+    "verseBefore": "Σαλείμ ὅτι ",
+    "verseAfter": " πολλὰ ἦν"
   },
   {
     "reference": "John 4:7",
     "word": "ὕδωρ",
-    "verse": "Σαμαρείας ἀντλῆσαι ὕδωρ λέγει αὐτῇ"
+    "verse": "Σαμαρείας ἀντλῆσαι ὕδωρ λέγει αὐτῇ",
+    "verseBefore": "Σαμαρείας ἀντλῆσαι ",
+    "verseAfter": " λέγει αὐτῇ"
   },
   {
     "reference": "John 4:10",
     "word": "ὕδωρ",
-    "verse": "ἄν σοι ὕδωρ ζῶν "
+    "verse": "ἄν σοι ὕδωρ ζῶν ",
+    "verseBefore": "ἄν σοι ",
+    "verseAfter": " ζῶν "
   },
   {
     "reference": "John 4:11",
     "word": "ὕδωρ",
-    "verse": "ἔχεις τὸ ὕδωρ τὸ ζῶν"
+    "verse": "ἔχεις τὸ ὕδωρ τὸ ζῶν",
+    "verseBefore": "ἔχεις τὸ ",
+    "verseAfter": " τὸ ζῶν"
   },
   {
     "reference": "John 4:13",
     "word": "ὕδατος",
-    "verse": "ἐκ τοῦ ὕδατος τούτου διψήσει"
+    "verse": "ἐκ τοῦ ὕδατος τούτου διψήσει",
+    "verseBefore": "ἐκ τοῦ ",
+    "verseAfter": " τούτου διψήσει"
   },
   {
     "reference": "John 4:14",
     "word": "ὕδατος",
-    "verse": "ἐκ τοῦ ὕδατος οὗ ἐγὼ"
+    "verse": "ἐκ τοῦ ὕδατος οὗ ἐγὼ",
+    "verseBefore": "ἐκ τοῦ ",
+    "verseAfter": " οὗ ἐγὼ"
   },
   {
     "reference": "John 4:14",
     "word": "ὕδωρ",
-    "verse": "ἀλλὰ τὸ ὕδωρ ὃ δώσω"
+    "verse": "ἀλλὰ τὸ ὕδωρ ὃ δώσω",
+    "verseBefore": "ἀλλὰ τὸ ",
+    "verseAfter": " ὃ δώσω"
   },
   {
     "reference": "John 4:14",
     "word": "ὕδατος",
-    "verse": "αὐτῷ πηγὴ ὕδατος ἁλλομένου εἰς"
+    "verse": "αὐτῷ πηγὴ ὕδατος ἁλλομένου εἰς",
+    "verseBefore": "αὐτῷ πηγὴ ",
+    "verseAfter": " ἁλλομένου εἰς"
   },
   {
     "reference": "John 4:15",
     "word": "ὕδωρ",
-    "verse": "τοῦτο τὸ ὕδωρ ἵνα μὴ"
+    "verse": "τοῦτο τὸ ὕδωρ ἵνα μὴ",
+    "verseBefore": "τοῦτο τὸ ",
+    "verseAfter": " ἵνα μὴ"
   },
   {
     "reference": "John 4:46",
     "word": "ὕδωρ",
-    "verse": "ἐποίησεν τὸ ὕδωρ οἶνον Καὶ"
+    "verse": "ἐποίησεν τὸ ὕδωρ οἶνον Καὶ",
+    "verseBefore": "ἐποίησεν τὸ ",
+    "verseAfter": " οἶνον Καὶ"
   },
   {
     "reference": "John 5:3",
     "word": "ὕδατος",
-    "verse": "τὴν τοῦ ὕδατος κίνησιν "
+    "verse": "τὴν τοῦ ὕδατος κίνησιν ",
+    "verseBefore": "τὴν τοῦ ",
+    "verseAfter": " κίνησιν "
   },
   {
     "reference": "John 5:4",
     "word": "ὕδωρ",
-    "verse": "ἐτάρασσεν τὸ ὕδωρ ὁ οὖν"
+    "verse": "ἐτάρασσεν τὸ ὕδωρ ὁ οὖν",
+    "verseBefore": "ἐτάρασσεν τὸ ",
+    "verseAfter": " ὁ οὖν"
   },
   {
     "reference": "John 5:4",
     "word": "ὕδατος",
-    "verse": "ταραχὴν τοῦ ὕδατος ὑγιὴς ἐγίνετο"
+    "verse": "ταραχὴν τοῦ ὕδατος ὑγιὴς ἐγίνετο",
+    "verseBefore": "ταραχὴν τοῦ ",
+    "verseAfter": " ὑγιὴς ἐγίνετο"
   },
   {
     "reference": "John 5:7",
     "word": "ὕδωρ",
-    "verse": "ταραχθῇ τὸ ὕδωρ βάλῃ με"
+    "verse": "ταραχθῇ τὸ ὕδωρ βάλῃ με",
+    "verseBefore": "ταραχθῇ τὸ ",
+    "verseAfter": " βάλῃ με"
   },
   {
     "reference": "John 7:38",
     "word": "ὕδατος",
-    "verse": "αὐτοῦ ῥεύσουσιν ὕδατος ζῶντος "
+    "verse": "αὐτοῦ ῥεύσουσιν ὕδατος ζῶντος ",
+    "verseBefore": "αὐτοῦ ῥεύσουσιν ",
+    "verseAfter": " ζῶντος "
   },
   {
     "reference": "John 13:5",
     "word": "ὕδωρ",
-    "verse": "εἶτα βάλλει ὕδωρ εἰς τὸν"
+    "verse": "εἶτα βάλλει ὕδωρ εἰς τὸν",
+    "verseBefore": "εἶτα βάλλει ",
+    "verseAfter": " εἰς τὸν"
   },
   {
     "reference": "John 19:34",
     "word": "ὕδωρ",
-    "verse": "αἷμα καὶ ὕδωρ "
+    "verse": "αἷμα καὶ ὕδωρ ",
+    "verseBefore": "αἷμα καὶ ",
+    "verseAfter": " "
   },
   {
     "reference": "Acts 1:5",
     "word": "ὕδατι",
-    "verse": "μὲν ἐβάπτισεν ὕδατι ὑμεῖς δὲ"
+    "verse": "μὲν ἐβάπτισεν ὕδατι ὑμεῖς δὲ",
+    "verseBefore": "μὲν ἐβάπτισεν ",
+    "verseAfter": " ὑμεῖς δὲ"
   },
   {
     "reference": "Acts 8:36",
     "word": "ὕδωρ",
-    "verse": "ἐπί τι ὕδωρ καί φησιν"
+    "verse": "ἐπί τι ὕδωρ καί φησιν",
+    "verseBefore": "ἐπί τι ",
+    "verseAfter": " καί φησιν"
   },
   {
     "reference": "Acts 8:36",
     "word": "ὕδωρ",
-    "verse": "εὐνοῦχος Ἰδοὺ ὕδωρ τί κωλύει"
+    "verse": "εὐνοῦχος Ἰδοὺ ὕδωρ τί κωλύει",
+    "verseBefore": "εὐνοῦχος Ἰδοὺ ",
+    "verseAfter": " τί κωλύει"
   },
   {
     "reference": "Acts 8:38",
     "word": "ὕδωρ",
-    "verse": "εἰς τὸ ὕδωρ ὅ τε"
+    "verse": "εἰς τὸ ὕδωρ ὅ τε",
+    "verseBefore": "εἰς τὸ ",
+    "verseAfter": " ὅ τε"
   },
   {
     "reference": "Acts 8:39",
     "word": "ὕδατος",
-    "verse": "ἐκ τοῦ ὕδατος πνεῦμα Κυρίου"
+    "verse": "ἐκ τοῦ ὕδατος πνεῦμα Κυρίου",
+    "verseBefore": "ἐκ τοῦ ",
+    "verseAfter": " πνεῦμα Κυρίου"
   },
   {
     "reference": "Acts 10:47",
     "word": "ὕδωρ",
-    "verse": "Μήτι τὸ ὕδωρ δύναται κωλῦσαί"
+    "verse": "Μήτι τὸ ὕδωρ δύναται κωλῦσαί",
+    "verseBefore": "Μήτι τὸ ",
+    "verseAfter": " δύναται κωλῦσαί"
   },
   {
     "reference": "Acts 11:16",
     "word": "ὕδατι",
-    "verse": "μὲν ἐβάπτισεν ὕδατι ὑμεῖς δὲ"
+    "verse": "μὲν ἐβάπτισεν ὕδατι ὑμεῖς δὲ",
+    "verseBefore": "μὲν ἐβάπτισεν ",
+    "verseAfter": " ὑμεῖς δὲ"
   },
   {
     "reference": "Ephesians 5:26",
     "word": "ὕδατος",
-    "verse": "λουτρῷ τοῦ ὕδατος ἐν ῥήματι"
+    "verse": "λουτρῷ τοῦ ὕδατος ἐν ῥήματι",
+    "verseBefore": "λουτρῷ τοῦ ",
+    "verseAfter": " ἐν ῥήματι"
   },
   {
     "reference": "Hebrews 9:19",
     "word": "ὕδατος",
-    "verse": "τράγων μετὰ ὕδατος καὶ ἐρίου"
+    "verse": "τράγων μετὰ ὕδατος καὶ ἐρίου",
+    "verseBefore": "τράγων μετὰ ",
+    "verseAfter": " καὶ ἐρίου"
   },
   {
     "reference": "Hebrews 10:22",
     "word": "ὕδατι",
-    "verse": "τὸ σῶμα ὕδατι καθαρῷ "
+    "verse": "τὸ σῶμα ὕδατι καθαρῷ ",
+    "verseBefore": "τὸ σῶμα ",
+    "verseAfter": " καθαρῷ "
   },
   {
     "reference": "James 3:12",
     "word": "ὕδωρ",
-    "verse": "γλυκὺ ποιῆσαι ὕδωρ "
+    "verse": "γλυκὺ ποιῆσαι ὕδωρ ",
+    "verseBefore": "γλυκὺ ποιῆσαι ",
+    "verseAfter": " "
   },
   {
     "reference": "1 Peter 3:20",
     "word": "ὕδατος",
-    "verse": "διεσώθησαν δι' ὕδατος "
+    "verse": "διεσώθησαν δι' ὕδατος ",
+    "verseBefore": "διεσώθησαν δι' ",
+    "verseAfter": " "
   },
   {
     "reference": "2 Peter 3:5",
     "word": "ὕδατος",
-    "verse": "γῆ ἐξ ὕδατος καὶ δι'"
+    "verse": "γῆ ἐξ ὕδατος καὶ δι'",
+    "verseBefore": "γῆ ἐξ ",
+    "verseAfter": " καὶ δι'"
   },
   {
     "reference": "2 Peter 3:5",
     "word": "ὕδατος",
-    "verse": "καὶ δι' ὕδατος συνεστῶσα τῷ"
+    "verse": "καὶ δι' ὕδατος συνεστῶσα τῷ",
+    "verseBefore": "καὶ δι' ",
+    "verseAfter": " συνεστῶσα τῷ"
   },
   {
     "reference": "2 Peter 3:6",
     "word": "ὕδατι",
-    "verse": "τότε κόσμος ὕδατι κατακλυσθεὶς ἀπώλετο"
+    "verse": "τότε κόσμος ὕδατι κατακλυσθεὶς ἀπώλετο",
+    "verseBefore": "τότε κόσμος ",
+    "verseAfter": " κατακλυσθεὶς ἀπώλετο"
   },
   {
     "reference": "1 John 5:6",
     "word": "ὕδατος",
-    "verse": "ἐλθὼν δι' ὕδατος καὶ αἵματος"
+    "verse": "ἐλθὼν δι' ὕδατος καὶ αἵματος",
+    "verseBefore": "ἐλθὼν δι' ",
+    "verseAfter": " καὶ αἵματος"
   },
   {
     "reference": "1 John 5:6",
     "word": "ὕδατι",
-    "verse": "ἐν τῷ ὕδατι μόνον ἀλλ'"
+    "verse": "ἐν τῷ ὕδατι μόνον ἀλλ'",
+    "verseBefore": "ἐν τῷ ",
+    "verseAfter": " μόνον ἀλλ'"
   },
   {
     "reference": "1 John 5:6",
     "word": "ὕδατι",
-    "verse": "ἐν τῷ ὕδατι καὶ ἐν"
+    "verse": "ἐν τῷ ὕδατι καὶ ἐν",
+    "verseBefore": "ἐν τῷ ",
+    "verseAfter": " καὶ ἐν"
   },
   {
     "reference": "1 John 5:8",
     "word": "ὕδωρ",
-    "verse": "καὶ τὸ ὕδωρ καὶ τὸ"
+    "verse": "καὶ τὸ ὕδωρ καὶ τὸ",
+    "verseBefore": "καὶ τὸ ",
+    "verseAfter": " καὶ τὸ"
   },
   {
     "reference": "Revelation 1:15",
     "word": "ὑδάτων",
-    "verse": "ὡς φωνὴ ὑδάτων πολλῶν "
+    "verse": "ὡς φωνὴ ὑδάτων πολλῶν ",
+    "verseBefore": "ὡς φωνὴ ",
+    "verseAfter": " πολλῶν "
   },
   {
     "reference": "Revelation 7:17",
     "word": "ὑδάτων",
-    "verse": "ζωῆς πηγὰς ὑδάτων καὶ ἐξαλείψει"
+    "verse": "ζωῆς πηγὰς ὑδάτων καὶ ἐξαλείψει",
+    "verseBefore": "ζωῆς πηγὰς ",
+    "verseAfter": " καὶ ἐξαλείψει"
   },
   {
     "reference": "Revelation 8:10",
     "word": "ὑδάτων",
-    "verse": "πηγὰς τῶν ὑδάτων "
+    "verse": "πηγὰς τῶν ὑδάτων ",
+    "verseBefore": "πηγὰς τῶν ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 8:11",
     "word": "ὑδάτων",
-    "verse": "τρίτον τῶν ὑδάτων εἰς ἄψινθον"
+    "verse": "τρίτον τῶν ὑδάτων εἰς ἄψινθον",
+    "verseBefore": "τρίτον τῶν ",
+    "verseAfter": " εἰς ἄψινθον"
   },
   {
     "reference": "Revelation 8:11",
     "word": "ὑδάτων",
-    "verse": "ἐκ τῶν ὑδάτων ὅτι ἐπικράνθησαν"
+    "verse": "ἐκ τῶν ὑδάτων ὅτι ἐπικράνθησαν",
+    "verseBefore": "ἐκ τῶν ",
+    "verseAfter": " ὅτι ἐπικράνθησαν"
   },
   {
     "reference": "Revelation 11:6",
     "word": "ὑδάτων",
-    "verse": "ἐπὶ τῶν ὑδάτων στρέφειν αὐτὰ"
+    "verse": "ἐπὶ τῶν ὑδάτων στρέφειν αὐτὰ",
+    "verseBefore": "ἐπὶ τῶν ",
+    "verseAfter": " στρέφειν αὐτὰ"
   },
   {
     "reference": "Revelation 12:15",
     "word": "ὕδωρ",
-    "verse": "τῆς γυναικὸς ὕδωρ ὡς ποταμόν"
+    "verse": "τῆς γυναικὸς ὕδωρ ὡς ποταμόν",
+    "verseBefore": "τῆς γυναικὸς ",
+    "verseAfter": " ὡς ποταμόν"
   },
   {
     "reference": "Revelation 14:2",
     "word": "ὑδάτων",
-    "verse": "ὡς φωνὴν ὑδάτων πολλῶν καὶ"
+    "verse": "ὡς φωνὴν ὑδάτων πολλῶν καὶ",
+    "verseBefore": "ὡς φωνὴν ",
+    "verseAfter": " πολλῶν καὶ"
   },
   {
     "reference": "Revelation 14:7",
     "word": "ὑδάτων",
-    "verse": "καὶ πηγὰς ὑδάτων "
+    "verse": "καὶ πηγὰς ὑδάτων ",
+    "verseBefore": "καὶ πηγὰς ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 16:4",
     "word": "ὑδάτων",
-    "verse": "πηγὰς τῶν ὑδάτων καὶ ἐγένετο"
+    "verse": "πηγὰς τῶν ὑδάτων καὶ ἐγένετο",
+    "verseBefore": "πηγὰς τῶν ",
+    "verseAfter": " καὶ ἐγένετο"
   },
   {
     "reference": "Revelation 16:5",
     "word": "ὑδάτων",
-    "verse": "ἀγγέλου τῶν ὑδάτων λέγοντος Δίκαιος"
+    "verse": "ἀγγέλου τῶν ὑδάτων λέγοντος Δίκαιος",
+    "verseBefore": "ἀγγέλου τῶν ",
+    "verseAfter": " λέγοντος Δίκαιος"
   },
   {
     "reference": "Revelation 16:12",
     "word": "ὕδωρ",
-    "verse": "ἐξηράνθη τὸ ὕδωρ αὐτοῦ ἵνα"
+    "verse": "ἐξηράνθη τὸ ὕδωρ αὐτοῦ ἵνα",
+    "verseBefore": "ἐξηράνθη τὸ ",
+    "verseAfter": " αὐτοῦ ἵνα"
   },
   {
     "reference": "Revelation 17:1",
     "word": "ὑδάτων",
-    "verse": "καθημένης ἐπὶ ὑδάτων πολλῶν "
+    "verse": "καθημένης ἐπὶ ὑδάτων πολλῶν ",
+    "verseBefore": "καθημένης ἐπὶ ",
+    "verseAfter": " πολλῶν "
   },
   {
     "reference": "Revelation 17:15",
     "word": "ὕδατα",
-    "verse": "μοι Τὰ ὕδατα ἃ εἶδες"
+    "verse": "μοι Τὰ ὕδατα ἃ εἶδες",
+    "verseBefore": "μοι Τὰ ",
+    "verseAfter": " ἃ εἶδες"
   },
   {
     "reference": "Revelation 19:6",
     "word": "ὑδάτων",
-    "verse": "ὡς φωνὴν ὑδάτων πολλῶν καὶ"
+    "verse": "ὡς φωνὴν ὑδάτων πολλῶν καὶ",
+    "verseBefore": "ὡς φωνὴν ",
+    "verseAfter": " πολλῶν καὶ"
   },
   {
     "reference": "Revelation 21:6",
     "word": "ὕδατος",
-    "verse": "πηγῆς τοῦ ὕδατος τῆς ζωῆς"
+    "verse": "πηγῆς τοῦ ὕδατος τῆς ζωῆς",
+    "verseBefore": "πηγῆς τοῦ ",
+    "verseAfter": " τῆς ζωῆς"
   },
   {
     "reference": "Revelation 22:1",
     "word": "ὕδατος",
-    "verse": "μοι ποταμὸν ὕδατος ζωῆς λαμπρὸν"
+    "verse": "μοι ποταμὸν ὕδατος ζωῆς λαμπρὸν",
+    "verseBefore": "μοι ποταμὸν ",
+    "verseAfter": " ζωῆς λαμπρὸν"
   },
   {
     "reference": "Revelation 22:17",
     "word": "ὕδωρ",
-    "verse": "θέλων λαβέτω ὕδωρ ζωῆς δωρεάν"
+    "verse": "θέλων λαβέτω ὕδωρ ζωῆς δωρεάν",
+    "verseBefore": "θέλων λαβέτω ",
+    "verseAfter": " ζωῆς δωρεάν"
   }
 ]

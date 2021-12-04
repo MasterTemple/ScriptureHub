@@ -2,16 +2,22 @@
   {
     "reference": "Matthew 1:5",
     "word": "Ἰωβὴδ",
-    "verse": "ἐγέννησεν τὸν Ἰωβὴδ ἐκ τῆς"
+    "verse": "ἐγέννησεν τὸν Ἰωβὴδ ἐκ τῆς",
+    "verseBefore": "ἐγέννησεν τὸν ",
+    "verseAfter": " ἐκ τῆς"
   },
   {
     "reference": "Matthew 1:5",
     "word": "Ἰωβὴδ",
-    "verse": "τῆς Ῥούθ Ἰωβὴδ δὲ ἐγέννησεν"
+    "verse": "τῆς Ῥούθ Ἰωβὴδ δὲ ἐγέννησεν",
+    "verseBefore": "τῆς Ῥούθ ",
+    "verseAfter": " δὲ ἐγέννησεν"
   },
   {
     "reference": "Luke 3:32",
     "word": "Ἰωβὴδ",
-    "verse": "Ἰεσσαί τοῦ Ἰωβὴδ τοῦ Βοός"
+    "verse": "Ἰεσσαί τοῦ Ἰωβὴδ τοῦ Βοός",
+    "verseBefore": "Ἰεσσαί τοῦ ",
+    "verseAfter": " τοῦ Βοός"
   }
 ]

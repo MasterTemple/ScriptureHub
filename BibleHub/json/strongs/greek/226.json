@@ -2,11 +2,15 @@
   {
     "reference": "Galatians 4:16",
     "word": "ἀληθεύων",
-    "verse": "ὑμῶν γέγονα ἀληθεύων ὑμῖν "
+    "verse": "ὑμῶν γέγονα ἀληθεύων ὑμῖν ",
+    "verseBefore": "ὑμῶν γέγονα ",
+    "verseAfter": " ὑμῖν "
   },
   {
     "reference": "Ephesians 4:15",
     "word": "ἀληθεύοντες",
-    "verse": "ἀληθεύοντες δὲ ἐν"
+    "verse": "ἀληθεύοντες δὲ ἐν",
+    "verseBefore": "",
+    "verseAfter": " δὲ ἐν"
   }
 ]

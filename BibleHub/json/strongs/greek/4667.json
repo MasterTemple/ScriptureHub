@@ -2,11 +2,15 @@
   {
     "reference": "Revelation 1:11",
     "word": "Σμύρναν",
-    "verse": "καὶ εἰς Σμύρναν καὶ εἰς"
+    "verse": "καὶ εἰς Σμύρναν καὶ εἰς",
+    "verseBefore": "καὶ εἰς ",
+    "verseAfter": " καὶ εἰς"
   },
   {
     "reference": "Revelation 2:8",
     "word": "Σμύρνῃ",
-    "verse": "τῆς ἐν Σμύρνῃ ἐκκλησίας γράψον"
+    "verse": "τῆς ἐν Σμύρνῃ ἐκκλησίας γράψον",
+    "verseBefore": "τῆς ἐν ",
+    "verseAfter": " ἐκκλησίας γράψον"
   }
 ]

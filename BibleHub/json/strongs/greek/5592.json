@@ -2,16 +2,22 @@
   {
     "reference": "John 18:18",
     "word": "ψύχος",
-    "verse": "πεποιηκότες ὅτι ψύχος ἦν καὶ"
+    "verse": "πεποιηκότες ὅτι ψύχος ἦν καὶ",
+    "verseBefore": "πεποιηκότες ὅτι ",
+    "verseAfter": " ἦν καὶ"
   },
   {
     "reference": "Acts 28:2",
     "word": "ψύχος",
-    "verse": "διὰ τὸ ψύχος "
+    "verse": "διὰ τὸ ψύχος ",
+    "verseBefore": "διὰ τὸ ",
+    "verseAfter": " "
   },
   {
     "reference": "2 Corinthians 11:27",
     "word": "ψύχει",
-    "verse": "πολλάκις ἐν ψύχει καὶ γυμνότητι"
+    "verse": "πολλάκις ἐν ψύχει καὶ γυμνότητι",
+    "verseBefore": "πολλάκις ἐν ",
+    "verseAfter": " καὶ γυμνότητι"
   }
 ]

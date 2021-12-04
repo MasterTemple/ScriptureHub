@@ -2,11 +2,15 @@
   {
     "reference": "Mark 10:50",
     "word": "ἀποβαλὼν",
-    "verse": "ὁ δὲ ἀποβαλὼν τὸ ἱμάτιον"
+    "verse": "ὁ δὲ ἀποβαλὼν τὸ ἱμάτιον",
+    "verseBefore": "ὁ δὲ ",
+    "verseAfter": " τὸ ἱμάτιον"
   },
   {
     "reference": "Hebrews 10:35",
     "word": "ἀποβάλητε",
-    "verse": "Μὴ ἀποβάλητε οὖν τὴν"
+    "verse": "Μὴ ἀποβάλητε οὖν τὴν",
+    "verseBefore": "Μὴ ",
+    "verseAfter": " οὖν τὴν"
   }
 ]

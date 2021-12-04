@@ -2,296 +2,414 @@
   {
     "reference": "Matthew 2:10",
     "word": "χαρὰν",
-    "verse": "ἀστέρα ἐχάρησαν χαρὰν μεγάλην σφόδρα"
+    "verse": "ἀστέρα ἐχάρησαν χαρὰν μεγάλην σφόδρα",
+    "verseBefore": "ἀστέρα ἐχάρησαν ",
+    "verseAfter": " μεγάλην σφόδρα"
   },
   {
     "reference": "Matthew 13:20",
     "word": "χαρᾶς",
-    "verse": "εὐθὺς μετὰ χαρᾶς λαμβάνων αὐτόν"
+    "verse": "εὐθὺς μετὰ χαρᾶς λαμβάνων αὐτόν",
+    "verseBefore": "εὐθὺς μετὰ ",
+    "verseAfter": " λαμβάνων αὐτόν"
   },
   {
     "reference": "Matthew 13:44",
     "word": "χαρᾶς",
-    "verse": "ἀπὸ τῆς χαρᾶς αὐτοῦ ὑπάγει"
+    "verse": "ἀπὸ τῆς χαρᾶς αὐτοῦ ὑπάγει",
+    "verseBefore": "ἀπὸ τῆς ",
+    "verseAfter": " αὐτοῦ ὑπάγει"
   },
   {
     "reference": "Matthew 25:21",
     "word": "χαρὰν",
-    "verse": "εἰς τὴν χαρὰν τοῦ κυρίου"
+    "verse": "εἰς τὴν χαρὰν τοῦ κυρίου",
+    "verseBefore": "εἰς τὴν ",
+    "verseAfter": " τοῦ κυρίου"
   },
   {
     "reference": "Matthew 25:23",
     "word": "χαρὰν",
-    "verse": "εἰς τὴν χαρὰν τοῦ κυρίου"
+    "verse": "εἰς τὴν χαρὰν τοῦ κυρίου",
+    "verseBefore": "εἰς τὴν ",
+    "verseAfter": " τοῦ κυρίου"
   },
   {
     "reference": "Matthew 28:8",
     "word": "χαρᾶς",
-    "verse": "φόβου καὶ χαρᾶς μεγάλης ἔδραμον"
+    "verse": "φόβου καὶ χαρᾶς μεγάλης ἔδραμον",
+    "verseBefore": "φόβου καὶ ",
+    "verseAfter": " μεγάλης ἔδραμον"
   },
   {
     "reference": "Mark 4:16",
     "word": "χαρᾶς",
-    "verse": "εὐθὺς μετὰ χαρᾶς λαμβάνουσιν αὐτόν"
+    "verse": "εὐθὺς μετὰ χαρᾶς λαμβάνουσιν αὐτόν",
+    "verseBefore": "εὐθὺς μετὰ ",
+    "verseAfter": " λαμβάνουσιν αὐτόν"
   },
   {
     "reference": "Luke 1:14",
     "word": "χαρά",
-    "verse": "καὶ ἔσται χαρά σοι καὶ"
+    "verse": "καὶ ἔσται χαρά σοι καὶ",
+    "verseBefore": "καὶ ἔσται ",
+    "verseAfter": " σοι καὶ"
   },
   {
     "reference": "Luke 2:10",
     "word": "χαρὰν",
-    "verse": "εὐαγγελίζομαι ὑμῖν χαρὰν μεγάλην ἥτις"
+    "verse": "εὐαγγελίζομαι ὑμῖν χαρὰν μεγάλην ἥτις",
+    "verseBefore": "εὐαγγελίζομαι ὑμῖν ",
+    "verseAfter": " μεγάλην ἥτις"
   },
   {
     "reference": "Luke 8:13",
     "word": "χαρᾶς",
-    "verse": "ἀκούσωσιν μετὰ χαρᾶς δέχονται τὸν"
+    "verse": "ἀκούσωσιν μετὰ χαρᾶς δέχονται τὸν",
+    "verseBefore": "ἀκούσωσιν μετὰ ",
+    "verseAfter": " δέχονται τὸν"
   },
   {
     "reference": "Luke 10:17",
     "word": "χαρᾶς",
-    "verse": "δύο μετὰ χαρᾶς λέγοντες Κύριε"
+    "verse": "δύο μετὰ χαρᾶς λέγοντες Κύριε",
+    "verseBefore": "δύο μετὰ ",
+    "verseAfter": " λέγοντες Κύριε"
   },
   {
     "reference": "Luke 15:7",
     "word": "χαρὰ",
-    "verse": "ὅτι οὕτως χαρὰ ἐν τῷ"
+    "verse": "ὅτι οὕτως χαρὰ ἐν τῷ",
+    "verseBefore": "ὅτι οὕτως ",
+    "verseAfter": " ἐν τῷ"
   },
   {
     "reference": "Luke 15:10",
     "word": "χαρὰ",
-    "verse": "ὑμῖν γίνεται χαρὰ ἐνώπιον τῶν"
+    "verse": "ὑμῖν γίνεται χαρὰ ἐνώπιον τῶν",
+    "verseBefore": "ὑμῖν γίνεται ",
+    "verseAfter": " ἐνώπιον τῶν"
   },
   {
     "reference": "Luke 24:41",
     "word": "χαρᾶς",
-    "verse": "ἀπὸ τῆς χαρᾶς καὶ θαυμαζόντων"
+    "verse": "ἀπὸ τῆς χαρᾶς καὶ θαυμαζόντων",
+    "verseBefore": "ἀπὸ τῆς ",
+    "verseAfter": " καὶ θαυμαζόντων"
   },
   {
     "reference": "Luke 24:52",
     "word": "χαρᾶς",
-    "verse": "Ἰερουσαλὴμ μετὰ χαρᾶς μεγάλης "
+    "verse": "Ἰερουσαλὴμ μετὰ χαρᾶς μεγάλης ",
+    "verseBefore": "Ἰερουσαλὴμ μετὰ ",
+    "verseAfter": " μεγάλης "
   },
   {
     "reference": "John 3:29",
     "word": "χαρᾷ",
-    "verse": "ἀκούων αὐτοῦ χαρᾷ χαίρει διὰ"
+    "verse": "ἀκούων αὐτοῦ χαρᾷ χαίρει διὰ",
+    "verseBefore": "ἀκούων αὐτοῦ ",
+    "verseAfter": " χαίρει διὰ"
   },
   {
     "reference": "John 3:29",
     "word": "χαρὰ",
-    "verse": "οὖν ἡ χαρὰ ἡ ἐμὴ"
+    "verse": "οὖν ἡ χαρὰ ἡ ἐμὴ",
+    "verseBefore": "οὖν ἡ ",
+    "verseAfter": " ἡ ἐμὴ"
   },
   {
     "reference": "John 15:11",
     "word": "χαρὰ",
-    "verse": "ἵνα ἡ χαρὰ ἡ ἐμὴ"
+    "verse": "ἵνα ἡ χαρὰ ἡ ἐμὴ",
+    "verseBefore": "ἵνα ἡ ",
+    "verseAfter": " ἡ ἐμὴ"
   },
   {
     "reference": "John 15:11",
     "word": "χαρὰ",
-    "verse": "καὶ ἡ χαρὰ ὑμῶν πληρωθῇ"
+    "verse": "καὶ ἡ χαρὰ ὑμῶν πληρωθῇ",
+    "verseBefore": "καὶ ἡ ",
+    "verseAfter": " ὑμῶν πληρωθῇ"
   },
   {
     "reference": "John 16:20",
     "word": "χαρὰν",
-    "verse": "ὑμῶν εἰς χαρὰν γενήσεται "
+    "verse": "ὑμῶν εἰς χαρὰν γενήσεται ",
+    "verseBefore": "ὑμῶν εἰς ",
+    "verseAfter": " γενήσεται "
   },
   {
     "reference": "John 16:21",
     "word": "χαρὰν",
-    "verse": "διὰ τὴν χαρὰν ὅτι ἐγεννήθη"
+    "verse": "διὰ τὴν χαρὰν ὅτι ἐγεννήθη",
+    "verseBefore": "διὰ τὴν ",
+    "verseAfter": " ὅτι ἐγεννήθη"
   },
   {
     "reference": "John 16:22",
     "word": "χαρὰν",
-    "verse": "καὶ τὴν χαρὰν ὑμῶν οὐδεὶς"
+    "verse": "καὶ τὴν χαρὰν ὑμῶν οὐδεὶς",
+    "verseBefore": "καὶ τὴν ",
+    "verseAfter": " ὑμῶν οὐδεὶς"
   },
   {
     "reference": "John 16:24",
     "word": "χαρὰ",
-    "verse": "ἵνα ἡ χαρὰ ὑμῶν ᾖ"
+    "verse": "ἵνα ἡ χαρὰ ὑμῶν ᾖ",
+    "verseBefore": "ἵνα ἡ ",
+    "verseAfter": " ὑμῶν ᾖ"
   },
   {
     "reference": "John 17:13",
     "word": "χαρὰν",
-    "verse": "ἔχωσιν τὴν χαρὰν τὴν ἐμὴν"
+    "verse": "ἔχωσιν τὴν χαρὰν τὴν ἐμὴν",
+    "verseBefore": "ἔχωσιν τὴν ",
+    "verseAfter": " τὴν ἐμὴν"
   },
   {
     "reference": "Acts 8:8",
     "word": "χαρὰ",
-    "verse": "δὲ πολλὴ χαρὰ ἐν τῇ"
+    "verse": "δὲ πολλὴ χαρὰ ἐν τῇ",
+    "verseBefore": "δὲ πολλὴ ",
+    "verseAfter": " ἐν τῇ"
   },
   {
     "reference": "Acts 12:14",
     "word": "χαρᾶς",
-    "verse": "ἀπὸ τῆς χαρᾶς οὐκ ἤνοιξεν"
+    "verse": "ἀπὸ τῆς χαρᾶς οὐκ ἤνοιξεν",
+    "verseBefore": "ἀπὸ τῆς ",
+    "verseAfter": " οὐκ ἤνοιξεν"
   },
   {
     "reference": "Acts 13:52",
     "word": "χαρᾶς",
-    "verse": "μαθηταὶ ἐπληροῦντο χαρᾶς καὶ πνεύματος"
+    "verse": "μαθηταὶ ἐπληροῦντο χαρᾶς καὶ πνεύματος",
+    "verseBefore": "μαθηταὶ ἐπληροῦντο ",
+    "verseAfter": " καὶ πνεύματος"
   },
   {
     "reference": "Acts 15:3",
     "word": "χαρὰν",
-    "verse": "καὶ ἐποίουν χαρὰν μεγάλην πᾶσιν"
+    "verse": "καὶ ἐποίουν χαρὰν μεγάλην πᾶσιν",
+    "verseBefore": "καὶ ἐποίουν ",
+    "verseAfter": " μεγάλην πᾶσιν"
   },
   {
     "reference": "Romans 14:17",
     "word": "χαρὰ",
-    "verse": "εἰρήνη καὶ χαρὰ ἐν πνεύματι"
+    "verse": "εἰρήνη καὶ χαρὰ ἐν πνεύματι",
+    "verseBefore": "εἰρήνη καὶ ",
+    "verseAfter": " ἐν πνεύματι"
   },
   {
     "reference": "Romans 15:13",
     "word": "χαρᾶς",
-    "verse": "ὑμᾶς πάσης χαρᾶς καὶ εἰρήνης"
+    "verse": "ὑμᾶς πάσης χαρᾶς καὶ εἰρήνης",
+    "verseBefore": "ὑμᾶς πάσης ",
+    "verseAfter": " καὶ εἰρήνης"
   },
   {
     "reference": "Romans 15:32",
     "word": "χαρᾷ",
-    "verse": "ἵνα ἐν χαρᾷ ἐλθὼν πρὸς"
+    "verse": "ἵνα ἐν χαρᾷ ἐλθὼν πρὸς",
+    "verseBefore": "ἵνα ἐν ",
+    "verseAfter": " ἐλθὼν πρὸς"
   },
   {
     "reference": "2 Corinthians 1:24",
     "word": "χαρᾶς",
-    "verse": "ἐσμεν τῆς χαρᾶς ὑμῶν τῇ"
+    "verse": "ἐσμεν τῆς χαρᾶς ὑμῶν τῇ",
+    "verseBefore": "ἐσμεν τῆς ",
+    "verseAfter": " ὑμῶν τῇ"
   },
   {
     "reference": "2 Corinthians 2:3",
     "word": "χαρὰ",
-    "verse": "ἡ ἐμὴ χαρὰ πάντων ὑμῶν"
+    "verse": "ἡ ἐμὴ χαρὰ πάντων ὑμῶν",
+    "verseBefore": "ἡ ἐμὴ ",
+    "verseAfter": " πάντων ὑμῶν"
   },
   {
     "reference": "2 Corinthians 7:4",
     "word": "χαρᾷ",
-    "verse": "ὑπερπερισσεύομαι τῇ χαρᾷ ἐπὶ πάσῃ"
+    "verse": "ὑπερπερισσεύομαι τῇ χαρᾷ ἐπὶ πάσῃ",
+    "verseBefore": "ὑπερπερισσεύομαι τῇ ",
+    "verseAfter": " ἐπὶ πάσῃ"
   },
   {
     "reference": "2 Corinthians 7:13",
     "word": "χαρᾷ",
-    "verse": "ἐπὶ τῇ χαρᾷ Τίτου ὅτι"
+    "verse": "ἐπὶ τῇ χαρᾷ Τίτου ὅτι",
+    "verseBefore": "ἐπὶ τῇ ",
+    "verseAfter": " Τίτου ὅτι"
   },
   {
     "reference": "2 Corinthians 8:2",
     "word": "χαρᾶς",
-    "verse": "περισσεία τῆς χαρᾶς αὐτῶν καὶ"
+    "verse": "περισσεία τῆς χαρᾶς αὐτῶν καὶ",
+    "verseBefore": "περισσεία τῆς ",
+    "verseAfter": " αὐτῶν καὶ"
   },
   {
     "reference": "Galatians 5:22",
     "word": "χαρά",
-    "verse": "ἐστιν ἀγάπη χαρά εἰρήνη μακροθυμία"
+    "verse": "ἐστιν ἀγάπη χαρά εἰρήνη μακροθυμία",
+    "verseBefore": "ἐστιν ἀγάπη ",
+    "verseAfter": " εἰρήνη μακροθυμία"
   },
   {
     "reference": "Philippians 1:4",
     "word": "χαρᾶς",
-    "verse": "ὑμῶν μετὰ χαρᾶς τὴν δέησιν"
+    "verse": "ὑμῶν μετὰ χαρᾶς τὴν δέησιν",
+    "verseBefore": "ὑμῶν μετὰ ",
+    "verseAfter": " τὴν δέησιν"
   },
   {
     "reference": "Philippians 1:25",
     "word": "χαρὰν",
-    "verse": "προκοπὴν καὶ χαρὰν τῆς πίστεως"
+    "verse": "προκοπὴν καὶ χαρὰν τῆς πίστεως",
+    "verseBefore": "προκοπὴν καὶ ",
+    "verseAfter": " τῆς πίστεως"
   },
   {
     "reference": "Philippians 2:2",
     "word": "χαρὰν",
-    "verse": "μου τὴν χαρὰν ἵνα τὸ"
+    "verse": "μου τὴν χαρὰν ἵνα τὸ",
+    "verseBefore": "μου τὴν ",
+    "verseAfter": " ἵνα τὸ"
   },
   {
     "reference": "Philippians 2:29",
     "word": "χαρᾶς",
-    "verse": "μετὰ πάσης χαρᾶς καὶ τοὺς"
+    "verse": "μετὰ πάσης χαρᾶς καὶ τοὺς",
+    "verseBefore": "μετὰ πάσης ",
+    "verseAfter": " καὶ τοὺς"
   },
   {
     "reference": "Philippians 4:1",
     "word": "χαρὰ",
-    "verse": "καὶ ἐπιπόθητοι χαρὰ καὶ στέφανός"
+    "verse": "καὶ ἐπιπόθητοι χαρὰ καὶ στέφανός",
+    "verseBefore": "καὶ ἐπιπόθητοι ",
+    "verseAfter": " καὶ στέφανός"
   },
   {
     "reference": "Colossians 1:11",
     "word": "χαρᾶς",
-    "verse": "μακροθυμίαν μετὰ χαρᾶς "
+    "verse": "μακροθυμίαν μετὰ χαρᾶς ",
+    "verseBefore": "μακροθυμίαν μετὰ ",
+    "verseAfter": " "
   },
   {
     "reference": "1 Thessalonians 1:6",
     "word": "χαρᾶς",
-    "verse": "πολλῇ μετὰ χαρᾶς πνεύματος ἁγίου"
+    "verse": "πολλῇ μετὰ χαρᾶς πνεύματος ἁγίου",
+    "verseBefore": "πολλῇ μετὰ ",
+    "verseAfter": " πνεύματος ἁγίου"
   },
   {
     "reference": "1 Thessalonians 2:19",
     "word": "χαρὰ",
-    "verse": "ἐλπὶς ἢ χαρὰ ἢ στέφανος"
+    "verse": "ἐλπὶς ἢ χαρὰ ἢ στέφανος",
+    "verseBefore": "ἐλπὶς ἢ ",
+    "verseAfter": " ἢ στέφανος"
   },
   {
     "reference": "1 Thessalonians 2:20",
     "word": "χαρά",
-    "verse": "καὶ ἡ χαρά "
+    "verse": "καὶ ἡ χαρά ",
+    "verseBefore": "καὶ ἡ ",
+    "verseAfter": " "
   },
   {
     "reference": "1 Thessalonians 3:9",
     "word": "χαρᾷ",
-    "verse": "πάσῃ τῇ χαρᾷ ᾗ χαίρομεν"
+    "verse": "πάσῃ τῇ χαρᾷ ᾗ χαίρομεν",
+    "verseBefore": "πάσῃ τῇ ",
+    "verseAfter": " ᾗ χαίρομεν"
   },
   {
     "reference": "2 Timothy 1:4",
     "word": "χαρᾶς",
-    "verse": "δακρύων ἵνα χαρᾶς πληρωθῶ "
+    "verse": "δακρύων ἵνα χαρᾶς πληρωθῶ ",
+    "verseBefore": "δακρύων ἵνα ",
+    "verseAfter": " πληρωθῶ "
   },
   {
     "reference": "Philemon 1:7",
     "word": "χαρὰν",
-    "verse": "χαρὰν γὰρ πολλὴν"
+    "verse": "χαρὰν γὰρ πολλὴν",
+    "verseBefore": "",
+    "verseAfter": " γὰρ πολλὴν"
   },
   {
     "reference": "Hebrews 10:34",
     "word": "χαρᾶς",
-    "verse": "ὑμῶν μετὰ χαρᾶς προσεδέξασθε γινώσκοντες"
+    "verse": "ὑμῶν μετὰ χαρᾶς προσεδέξασθε γινώσκοντες",
+    "verseBefore": "ὑμῶν μετὰ ",
+    "verseAfter": " προσεδέξασθε γινώσκοντες"
   },
   {
     "reference": "Hebrews 12:2",
     "word": "χαρᾶς",
-    "verse": "προκειμένης αὐτῷ χαρᾶς ὑπέμεινεν σταυρὸν"
+    "verse": "προκειμένης αὐτῷ χαρᾶς ὑπέμεινεν σταυρὸν",
+    "verseBefore": "προκειμένης αὐτῷ ",
+    "verseAfter": " ὑπέμεινεν σταυρὸν"
   },
   {
     "reference": "Hebrews 12:11",
     "word": "χαρᾶς",
-    "verse": "οὐ δοκεῖ χαρᾶς εἶναι ἀλλὰ"
+    "verse": "οὐ δοκεῖ χαρᾶς εἶναι ἀλλὰ",
+    "verseBefore": "οὐ δοκεῖ ",
+    "verseAfter": " εἶναι ἀλλὰ"
   },
   {
     "reference": "Hebrews 13:17",
     "word": "χαρᾶς",
-    "verse": "ἵνα μετὰ χαρᾶς τοῦτο ποιῶσιν"
+    "verse": "ἵνα μετὰ χαρᾶς τοῦτο ποιῶσιν",
+    "verseBefore": "ἵνα μετὰ ",
+    "verseAfter": " τοῦτο ποιῶσιν"
   },
   {
     "reference": "James 1:2",
     "word": "χαρὰν",
-    "verse": "Πᾶσαν χαρὰν ἡγήσασθε ἀδελφοί"
+    "verse": "Πᾶσαν χαρὰν ἡγήσασθε ἀδελφοί",
+    "verseBefore": "Πᾶσαν ",
+    "verseAfter": " ἡγήσασθε ἀδελφοί"
   },
   {
     "reference": "James 4:9",
     "word": "χαρὰ",
-    "verse": "καὶ ἡ χαρὰ εἰς κατήφειαν"
+    "verse": "καὶ ἡ χαρὰ εἰς κατήφειαν",
+    "verseBefore": "καὶ ἡ ",
+    "verseAfter": " εἰς κατήφειαν"
   },
   {
     "reference": "1 Peter 1:8",
     "word": "χαρᾷ",
-    "verse": "δὲ ἀγαλλιᾶσθε χαρᾷ ἀνεκλαλήτῳ καὶ"
+    "verse": "δὲ ἀγαλλιᾶσθε χαρᾷ ἀνεκλαλήτῳ καὶ",
+    "verseBefore": "δὲ ἀγαλλιᾶσθε ",
+    "verseAfter": " ἀνεκλαλήτῳ καὶ"
   },
   {
     "reference": "1 John 1:4",
     "word": "χαρὰ",
-    "verse": "ἵνα ἡ χαρὰ ἡμῶν ᾖ"
+    "verse": "ἵνα ἡ χαρὰ ἡμῶν ᾖ",
+    "verseBefore": "ἵνα ἡ ",
+    "verseAfter": " ἡμῶν ᾖ"
   },
   {
     "reference": "2 John 1:12",
     "word": "χαρὰ",
-    "verse": "ἵνα ἡ χαρὰ ἡμῶν πεπληρωμένη"
+    "verse": "ἵνα ἡ χαρὰ ἡμῶν πεπληρωμένη",
+    "verseBefore": "ἵνα ἡ ",
+    "verseAfter": " ἡμῶν πεπληρωμένη"
   },
   {
     "reference": "3 John 1:4",
     "word": "χαράν",
-    "verse": "οὐκ ἔχω χαράν ἵνα ἀκούω"
+    "verse": "οὐκ ἔχω χαράν ἵνα ἀκούω",
+    "verseBefore": "οὐκ ἔχω ",
+    "verseAfter": " ἵνα ἀκούω"
   }
 ]

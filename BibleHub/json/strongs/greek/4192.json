@@ -2,21 +2,29 @@
   {
     "reference": "Colossians 4:13",
     "word": "πόνον",
-    "verse": "ἔχει πολὺν πόνον ὑπὲρ ὑμῶν"
+    "verse": "ἔχει πολὺν πόνον ὑπὲρ ὑμῶν",
+    "verseBefore": "ἔχει πολὺν ",
+    "verseAfter": " ὑπὲρ ὑμῶν"
   },
   {
     "reference": "Revelation 16:10",
     "word": "πόνου",
-    "verse": "ἐκ τοῦ πόνου "
+    "verse": "ἐκ τοῦ πόνου ",
+    "verseBefore": "ἐκ τοῦ ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 16:11",
     "word": "πόνων",
-    "verse": "ἐκ τῶν πόνων αὐτῶν καὶ"
+    "verse": "ἐκ τῶν πόνων αὐτῶν καὶ",
+    "verseBefore": "ἐκ τῶν ",
+    "verseAfter": " αὐτῶν καὶ"
   },
   {
     "reference": "Revelation 21:4",
     "word": "πόνος",
-    "verse": "κραυγὴ οὔτε πόνος οὐκ ἔσται"
+    "verse": "κραυγὴ οὔτε πόνος οὐκ ἔσται",
+    "verseBefore": "κραυγὴ οὔτε ",
+    "verseAfter": " οὐκ ἔσται"
   }
 ]

@@ -2,16 +2,22 @@
   {
     "reference": "Mark 7:37",
     "word": "ἀλάλους",
-    "verse": "καὶ τοὺς ἀλάλους λαλεῖν "
+    "verse": "καὶ τοὺς ἀλάλους λαλεῖν ",
+    "verseBefore": "καὶ τοὺς ",
+    "verseAfter": " λαλεῖν "
   },
   {
     "reference": "Mark 9:17",
     "word": "ἄλαλον",
-    "verse": "ἔχοντα πνεῦμα ἄλαλον "
+    "verse": "ἔχοντα πνεῦμα ἄλαλον ",
+    "verseBefore": "ἔχοντα πνεῦμα ",
+    "verseAfter": " "
   },
   {
     "reference": "Mark 9:25",
     "word": "ἄλαλον",
-    "verse": "αὐτῷ Τὸ ἄλαλον καὶ κωφὸν"
+    "verse": "αὐτῷ Τὸ ἄλαλον καὶ κωφὸν",
+    "verseBefore": "αὐτῷ Τὸ ",
+    "verseAfter": " καὶ κωφὸν"
   }
 ]

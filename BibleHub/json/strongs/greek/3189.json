@@ -2,16 +2,22 @@
   {
     "reference": "Matthew 5:36",
     "word": "μέλαιναν",
-    "verse": "ποιῆσαι ἢ μέλαιναν "
+    "verse": "ποιῆσαι ἢ μέλαιναν ",
+    "verseBefore": "ποιῆσαι ἢ ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 6:5",
     "word": "μέλας",
-    "verse": "ἰδοὺ ἵππος μέλας καὶ ὁ"
+    "verse": "ἰδοὺ ἵππος μέλας καὶ ὁ",
+    "verseBefore": "ἰδοὺ ἵππος ",
+    "verseAfter": " καὶ ὁ"
   },
   {
     "reference": "Revelation 6:12",
     "word": "μέλας",
-    "verse": "ἥλιος ἐγένετο μέλας ὡς σάκκος"
+    "verse": "ἥλιος ἐγένετο μέλας ὡς σάκκος",
+    "verseBefore": "ἥλιος ἐγένετο ",
+    "verseAfter": " ὡς σάκκος"
   }
 ]

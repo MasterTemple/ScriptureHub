@@ -2,171 +2,239 @@
   {
     "reference": "Matthew 5:37",
     "word": "ναὶ",
-    "verse": "λόγος ὑμῶν ναὶ ναί οὒ"
+    "verse": "λόγος ὑμῶν ναὶ ναί οὒ",
+    "verseBefore": "λόγος ὑμῶν ",
+    "verseAfter": " ναί οὒ"
   },
   {
     "reference": "Matthew 5:37",
     "word": "ναί",
-    "verse": "ὑμῶν ναὶ ναί οὒ οὔ"
+    "verse": "ὑμῶν ναὶ ναί οὒ οὔ",
+    "verseBefore": "ὑμῶν ναὶ ",
+    "verseAfter": " οὒ οὔ"
   },
   {
     "reference": "Matthew 9:28",
     "word": "Ναί",
-    "verse": "λέγουσιν αὐτῷ Ναί κύριε "
+    "verse": "λέγουσιν αὐτῷ Ναί κύριε ",
+    "verseBefore": "λέγουσιν αὐτῷ ",
+    "verseAfter": " κύριε "
   },
   {
     "reference": "Matthew 11:9",
     "word": "ναί",
-    "verse": "προφήτην ἰδεῖν ναί λέγω ὑμῖν"
+    "verse": "προφήτην ἰδεῖν ναί λέγω ὑμῖν",
+    "verseBefore": "προφήτην ἰδεῖν ",
+    "verseAfter": " λέγω ὑμῖν"
   },
   {
     "reference": "Matthew 11:26",
     "word": "ναί",
-    "verse": "ναί ὁ πατήρ"
+    "verse": "ναί ὁ πατήρ",
+    "verseBefore": "",
+    "verseAfter": " ὁ πατήρ"
   },
   {
     "reference": "Matthew 13:51",
     "word": "Ναί",
-    "verse": "λέγουσιν αὐτῷ Ναί "
+    "verse": "λέγουσιν αὐτῷ Ναί ",
+    "verseBefore": "λέγουσιν αὐτῷ ",
+    "verseAfter": " "
   },
   {
     "reference": "Matthew 15:27",
     "word": "Ναί",
-    "verse": "δὲ εἶπεν Ναί κύριε καὶ"
+    "verse": "δὲ εἶπεν Ναί κύριε καὶ",
+    "verseBefore": "δὲ εἶπεν ",
+    "verseAfter": " κύριε καὶ"
   },
   {
     "reference": "Matthew 17:25",
     "word": "Ναί",
-    "verse": "λέγει Ναί καὶ ἐλθόντα"
+    "verse": "λέγει Ναί καὶ ἐλθόντα",
+    "verseBefore": "λέγει ",
+    "verseAfter": " καὶ ἐλθόντα"
   },
   {
     "reference": "Matthew 21:16",
     "word": "Ναί",
-    "verse": "λέγει αὐτοῖς Ναί οὐδέποτε ἀνέγνωτε"
+    "verse": "λέγει αὐτοῖς Ναί οὐδέποτε ἀνέγνωτε",
+    "verseBefore": "λέγει αὐτοῖς ",
+    "verseAfter": " οὐδέποτε ἀνέγνωτε"
   },
   {
     "reference": "Mark 7:28",
     "word": "Ναί",
-    "verse": "λέγει αὐτῷ Ναί κύριε καὶ"
+    "verse": "λέγει αὐτῷ Ναί κύριε καὶ",
+    "verseBefore": "λέγει αὐτῷ ",
+    "verseAfter": " κύριε καὶ"
   },
   {
     "reference": "Luke 7:26",
     "word": "ναί",
-    "verse": "ἰδεῖν προφήτην ναί λέγω ὑμῖν"
+    "verse": "ἰδεῖν προφήτην ναί λέγω ὑμῖν",
+    "verseBefore": "ἰδεῖν προφήτην ",
+    "verseAfter": " λέγω ὑμῖν"
   },
   {
     "reference": "Luke 10:21",
     "word": "ναί",
-    "verse": "αὐτὰ νηπίοις ναί ὁ πατήρ"
+    "verse": "αὐτὰ νηπίοις ναί ὁ πατήρ",
+    "verseBefore": "αὐτὰ νηπίοις ",
+    "verseAfter": " ὁ πατήρ"
   },
   {
     "reference": "Luke 11:51",
     "word": "ναί",
-    "verse": "τοῦ οἴκου ναί λέγω ὑμῖν"
+    "verse": "τοῦ οἴκου ναί λέγω ὑμῖν",
+    "verseBefore": "τοῦ οἴκου ",
+    "verseAfter": " λέγω ὑμῖν"
   },
   {
     "reference": "Luke 12:5",
     "word": "ναί",
-    "verse": "τὴν γέενναν ναί λέγω ὑμῖν"
+    "verse": "τὴν γέενναν ναί λέγω ὑμῖν",
+    "verseBefore": "τὴν γέενναν ",
+    "verseAfter": " λέγω ὑμῖν"
   },
   {
     "reference": "John 11:27",
     "word": "Ναί",
-    "verse": "λέγει αὐτῷ Ναί κύριε ἐγὼ"
+    "verse": "λέγει αὐτῷ Ναί κύριε ἐγὼ",
+    "verseBefore": "λέγει αὐτῷ ",
+    "verseAfter": " κύριε ἐγὼ"
   },
   {
     "reference": "John 21:15",
     "word": "Ναί",
-    "verse": "λέγει αὐτῷ Ναί κύριε σὺ"
+    "verse": "λέγει αὐτῷ Ναί κύριε σὺ",
+    "verseBefore": "λέγει αὐτῷ ",
+    "verseAfter": " κύριε σὺ"
   },
   {
     "reference": "John 21:16",
     "word": "Ναί",
-    "verse": "λέγει αὐτῷ Ναί κύριε σὺ"
+    "verse": "λέγει αὐτῷ Ναί κύριε σὺ",
+    "verseBefore": "λέγει αὐτῷ ",
+    "verseAfter": " κύριε σὺ"
   },
   {
     "reference": "Acts 5:8",
     "word": "Ναί",
-    "verse": "δὲ εἶπεν Ναί τοσούτου "
+    "verse": "δὲ εἶπεν Ναί τοσούτου ",
+    "verseBefore": "δὲ εἶπεν ",
+    "verseAfter": " τοσούτου "
   },
   {
     "reference": "Acts 22:27",
     "word": "Ναί",
-    "verse": "δὲ ἔφη Ναί "
+    "verse": "δὲ ἔφη Ναί ",
+    "verseBefore": "δὲ ἔφη ",
+    "verseAfter": " "
   },
   {
     "reference": "Romans 3:29",
     "word": "ναὶ",
-    "verse": "καὶ ἐθνῶν ναὶ καὶ ἐθνῶν"
+    "verse": "καὶ ἐθνῶν ναὶ καὶ ἐθνῶν",
+    "verseBefore": "καὶ ἐθνῶν ",
+    "verseAfter": " καὶ ἐθνῶν"
   },
   {
     "reference": "2 Corinthians 1:17",
     "word": "Ναί",
-    "verse": "ἐμοὶ τό Ναί ναὶ καὶ"
+    "verse": "ἐμοὶ τό Ναί ναὶ καὶ",
+    "verseBefore": "ἐμοὶ τό ",
+    "verseAfter": " ναὶ καὶ"
   },
   {
     "reference": "2 Corinthians 1:17",
     "word": "ναὶ",
-    "verse": "τό Ναί ναὶ καὶ τό"
+    "verse": "τό Ναί ναὶ καὶ τό",
+    "verseBefore": "τό Ναί ",
+    "verseAfter": " καὶ τό"
   },
   {
     "reference": "2 Corinthians 1:18",
     "word": "Ναί",
-    "verse": "οὐκ ἔστιν Ναί καὶ Οὔ"
+    "verse": "οὐκ ἔστιν Ναί καὶ Οὔ",
+    "verseBefore": "οὐκ ἔστιν ",
+    "verseAfter": " καὶ Οὔ"
   },
   {
     "reference": "2 Corinthians 1:19",
     "word": "Ναί",
-    "verse": "οὐκ ἐγένετο Ναί καὶ Οὔ"
+    "verse": "οὐκ ἐγένετο Ναί καὶ Οὔ",
+    "verseBefore": "οὐκ ἐγένετο ",
+    "verseAfter": " καὶ Οὔ"
   },
   {
     "reference": "2 Corinthians 1:19",
     "word": "Ναί",
-    "verse": "Οὔ ἀλλὰ Ναί ἐν αὐτῷ"
+    "verse": "Οὔ ἀλλὰ Ναί ἐν αὐτῷ",
+    "verseBefore": "Οὔ ἀλλὰ ",
+    "verseAfter": " ἐν αὐτῷ"
   },
   {
     "reference": "2 Corinthians 1:20",
     "word": "Ναί",
-    "verse": "αὐτῷ τό Ναί διὸ καὶ"
+    "verse": "αὐτῷ τό Ναί διὸ καὶ",
+    "verseBefore": "αὐτῷ τό ",
+    "verseAfter": " διὸ καὶ"
   },
   {
     "reference": "Philippians 4:3",
     "word": "ναὶ",
-    "verse": "ναὶ ἐρωτῶ καὶ"
+    "verse": "ναὶ ἐρωτῶ καὶ",
+    "verseBefore": "",
+    "verseAfter": " ἐρωτῶ καὶ"
   },
   {
     "reference": "Philemon 1:20",
     "word": "ναί",
-    "verse": "ναί ἀδελφέ ἐγώ"
+    "verse": "ναί ἀδελφέ ἐγώ",
+    "verseBefore": "",
+    "verseAfter": " ἀδελφέ ἐγώ"
   },
   {
     "reference": "James 5:12",
     "word": "Ναί",
-    "verse": "ὑμῶν τό Ναί ναὶ καὶ"
+    "verse": "ὑμῶν τό Ναί ναὶ καὶ",
+    "verseBefore": "ὑμῶν τό ",
+    "verseAfter": " ναὶ καὶ"
   },
   {
     "reference": "James 5:12",
     "word": "ναὶ",
-    "verse": "τό Ναί ναὶ καὶ τό"
+    "verse": "τό Ναί ναὶ καὶ τό",
+    "verseBefore": "τό Ναί ",
+    "verseAfter": " καὶ τό"
   },
   {
     "reference": "Revelation 1:7",
     "word": "ναί",
-    "verse": "τῆς γῆς ναί ἀμήν "
+    "verse": "τῆς γῆς ναί ἀμήν ",
+    "verseBefore": "τῆς γῆς ",
+    "verseAfter": " ἀμήν "
   },
   {
     "reference": "Revelation 14:13",
     "word": "ναί",
-    "verse": "ἀπ' ἄρτι ναί λέγει τὸ"
+    "verse": "ἀπ' ἄρτι ναί λέγει τὸ",
+    "verseBefore": "ἀπ' ἄρτι ",
+    "verseAfter": " λέγει τὸ"
   },
   {
     "reference": "Revelation 16:7",
     "word": "Ναί",
-    "verse": "θυσιαστηρίου λέγοντος Ναί κύριε ὁ"
+    "verse": "θυσιαστηρίου λέγοντος Ναί κύριε ὁ",
+    "verseBefore": "θυσιαστηρίου λέγοντος ",
+    "verseAfter": " κύριε ὁ"
   },
   {
     "reference": "Revelation 22:20",
     "word": "Ναί",
-    "verse": "μαρτυρῶν ταῦτα Ναί ἔρχομαι ταχύ"
+    "verse": "μαρτυρῶν ταῦτα Ναί ἔρχομαι ταχύ",
+    "verseBefore": "μαρτυρῶν ταῦτα ",
+    "verseAfter": " ἔρχομαι ταχύ"
   }
 ]

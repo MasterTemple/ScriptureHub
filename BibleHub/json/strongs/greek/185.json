@@ -2,16 +2,22 @@
   {
     "reference": "Matthew 10:16",
     "word": "ἀκέραιοι",
-    "verse": "ὄφεις καὶ ἀκέραιοι ὡς αἱ"
+    "verse": "ὄφεις καὶ ἀκέραιοι ὡς αἱ",
+    "verseBefore": "ὄφεις καὶ ",
+    "verseAfter": " ὡς αἱ"
   },
   {
     "reference": "Romans 16:19",
     "word": "ἀκεραίους",
-    "verse": "τὸ ἀγαθόν ἀκεραίους δὲ εἰς"
+    "verse": "τὸ ἀγαθόν ἀκεραίους δὲ εἰς",
+    "verseBefore": "τὸ ἀγαθόν ",
+    "verseAfter": " δὲ εἰς"
   },
   {
     "reference": "Philippians 2:15",
     "word": "ἀκέραιοι",
-    "verse": "ἄμεμπτοι καὶ ἀκέραιοι τέκνα θεοῦ"
+    "verse": "ἄμεμπτοι καὶ ἀκέραιοι τέκνα θεοῦ",
+    "verseBefore": "ἄμεμπτοι καὶ ",
+    "verseAfter": " τέκνα θεοῦ"
   }
 ]

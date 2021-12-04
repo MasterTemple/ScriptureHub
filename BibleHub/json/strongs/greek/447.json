@@ -2,21 +2,29 @@
   {
     "reference": "Acts 16:26",
     "word": "ἀνέθη",
-    "verse": "τὰ δεσμὰ ἀνέθη "
+    "verse": "τὰ δεσμὰ ἀνέθη ",
+    "verseBefore": "τὰ δεσμὰ ",
+    "verseAfter": " "
   },
   {
     "reference": "Acts 27:40",
     "word": "ἀνέντες",
-    "verse": "θάλασσαν ἅμα ἀνέντες τὰς ζευκτηρίας"
+    "verse": "θάλασσαν ἅμα ἀνέντες τὰς ζευκτηρίας",
+    "verseBefore": "θάλασσαν ἅμα ",
+    "verseAfter": " τὰς ζευκτηρίας"
   },
   {
     "reference": "Ephesians 6:9",
     "word": "ἀνιέντες",
-    "verse": "πρὸς αὐτούς ἀνιέντες τὴν ἀπειλήν"
+    "verse": "πρὸς αὐτούς ἀνιέντες τὴν ἀπειλήν",
+    "verseBefore": "πρὸς αὐτούς ",
+    "verseAfter": " τὴν ἀπειλήν"
   },
   {
     "reference": "Hebrews 13:5",
     "word": "ἀνῶ",
-    "verse": "μή σε ἀνῶ οὐδ' οὐ"
+    "verse": "μή σε ἀνῶ οὐδ' οὐ",
+    "verseBefore": "μή σε ",
+    "verseAfter": " οὐδ' οὐ"
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "Romans 9:15",
     "word": "οἰκτιρήσω",
-    "verse": "ἐλεῶ καὶ οἰκτιρήσω ὃν ἂν"
+    "verse": "ἐλεῶ καὶ οἰκτιρήσω ὃν ἂν",
+    "verseBefore": "ἐλεῶ καὶ ",
+    "verseAfter": " ὃν ἂν"
   },
   {
     "reference": "Romans 9:15",
     "word": "οἰκτίρω",
-    "verse": "ὃν ἂν οἰκτίρω "
+    "verse": "ὃν ἂν οἰκτίρω ",
+    "verseBefore": "ὃν ἂν ",
+    "verseAfter": " "
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "2 Peter 1:19",
     "word": "διαυγάσῃ",
-    "verse": "οὗ ἡμέρα διαυγάσῃ καὶ φωσφόρος"
+    "verse": "οὗ ἡμέρα διαυγάσῃ καὶ φωσφόρος",
+    "verseBefore": "οὗ ἡμέρα ",
+    "verseAfter": " καὶ φωσφόρος"
   },
   {
     "reference": "Revelation 21:21",
     "word": "διαυγής",
-    "verse": "ὡς ὕαλος διαυγής "
+    "verse": "ὡς ὕαλος διαυγής ",
+    "verseBefore": "ὡς ὕαλος ",
+    "verseAfter": " "
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "Revelation 4:3",
     "word": "σαρδίῳ",
-    "verse": "ἰάσπιδι καὶ σαρδίῳ καὶ ἶρις"
+    "verse": "ἰάσπιδι καὶ σαρδίῳ καὶ ἶρις",
+    "verseBefore": "ἰάσπιδι καὶ ",
+    "verseAfter": " καὶ ἶρις"
   },
   {
     "reference": "Revelation 21:20",
     "word": "σάρδιον",
-    "verse": "ὁ ἕκτος σάρδιον ὁ ἕβδομος"
+    "verse": "ὁ ἕκτος σάρδιον ὁ ἕβδομος",
+    "verseBefore": "ὁ ἕκτος ",
+    "verseAfter": " ὁ ἕβδομος"
   }
 ]

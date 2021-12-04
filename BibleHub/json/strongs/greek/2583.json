@@ -2,21 +2,29 @@
   {
     "reference": "2 Corinthians 10:13",
     "word": "κανόνος",
-    "verse": "μέτρον τοῦ κανόνος οὗ ἐμέρισεν"
+    "verse": "μέτρον τοῦ κανόνος οὗ ἐμέρισεν",
+    "verseBefore": "μέτρον τοῦ ",
+    "verseAfter": " οὗ ἐμέρισεν"
   },
   {
     "reference": "2 Corinthians 10:15",
     "word": "κανόνα",
-    "verse": "κατὰ τὸν κανόνα ἡμῶν εἰς"
+    "verse": "κατὰ τὸν κανόνα ἡμῶν εἰς",
+    "verseBefore": "κατὰ τὸν ",
+    "verseAfter": " ἡμῶν εἰς"
   },
   {
     "reference": "2 Corinthians 10:16",
     "word": "κανόνι",
-    "verse": "ἐν ἀλλοτρίῳ κανόνι εἰς τὰ"
+    "verse": "ἐν ἀλλοτρίῳ κανόνι εἰς τὰ",
+    "verseBefore": "ἐν ἀλλοτρίῳ ",
+    "verseAfter": " εἰς τὰ"
   },
   {
     "reference": "Galatians 6:16",
     "word": "κανόνι",
-    "verse": "ὅσοι τῷ κανόνι τούτῳ στοιχήσουσιν"
+    "verse": "ὅσοι τῷ κανόνι τούτῳ στοιχήσουσιν",
+    "verseBefore": "ὅσοι τῷ ",
+    "verseAfter": " τούτῳ στοιχήσουσιν"
   }
 ]

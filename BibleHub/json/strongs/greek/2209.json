@@ -2,21 +2,29 @@
   {
     "reference": "Acts 27:10",
     "word": "ζημίας",
-    "verse": "καὶ πολλῆς ζημίας οὐ μόνον"
+    "verse": "καὶ πολλῆς ζημίας οὐ μόνον",
+    "verseBefore": "καὶ πολλῆς ",
+    "verseAfter": " οὐ μόνον"
   },
   {
     "reference": "Acts 27:21",
     "word": "ζημίαν",
-    "verse": "καὶ τὴν ζημίαν "
+    "verse": "καὶ τὴν ζημίαν ",
+    "verseBefore": "καὶ τὴν ",
+    "verseAfter": " "
   },
   {
     "reference": "Philippians 3:7",
     "word": "ζημίαν",
-    "verse": "τὸν χριστὸν ζημίαν "
+    "verse": "τὸν χριστὸν ζημίαν ",
+    "verseBefore": "τὸν χριστὸν ",
+    "verseAfter": " "
   },
   {
     "reference": "Philippians 3:8",
     "word": "ζημίαν",
-    "verse": "ἡγοῦμαι πάντα ζημίαν εἶναι διὰ"
+    "verse": "ἡγοῦμαι πάντα ζημίαν εἶναι διὰ",
+    "verseBefore": "ἡγοῦμαι πάντα ",
+    "verseAfter": " εἶναι διὰ"
   }
 ]

@@ -2,16 +2,22 @@
   {
     "reference": "2 Corinthians 3:3",
     "word": "πλαξὶν",
-    "verse": "οὐκ ἐν πλαξὶν λιθίναις ἀλλ'"
+    "verse": "οὐκ ἐν πλαξὶν λιθίναις ἀλλ'",
+    "verseBefore": "οὐκ ἐν ",
+    "verseAfter": " λιθίναις ἀλλ'"
   },
   {
     "reference": "2 Corinthians 3:3",
     "word": "πλαξὶν",
-    "verse": "ἀλλ' ἐν πλαξὶν καρδίαις σαρκίναις"
+    "verse": "ἀλλ' ἐν πλαξὶν καρδίαις σαρκίναις",
+    "verseBefore": "ἀλλ' ἐν ",
+    "verseAfter": " καρδίαις σαρκίναις"
   },
   {
     "reference": "Hebrews 9:4",
     "word": "πλάκες",
-    "verse": "καὶ αἱ πλάκες τῆς διαθήκης"
+    "verse": "καὶ αἱ πλάκες τῆς διαθήκης",
+    "verseBefore": "καὶ αἱ ",
+    "verseAfter": " τῆς διαθήκης"
   }
 ]

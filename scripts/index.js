@@ -226,6 +226,10 @@ async function updateRightContent(verse) {
     // document.querySelector("main > .second").style.width = "50%";
     // verse[0] = verse[0].toUpperCase()
     // document.getElementById("second").innerHTML = ""
+    // delete document.querySelector("main > .first").style.display
+    // document.querySelector("main > .second").style.display = "";
+    // document.querySelector("main > .third").style.display = "none";
+
     if(rightContent === "interlinear"){
       document.querySelector("main > .first").style.width = "50%";
       document.querySelector("main > .second").style.width = "50%";
@@ -298,6 +302,8 @@ async function updateInterLinearContent(verse) {
     for(let {word, grk, heb, translit, str, str2, parse, num} of eachVerse){
 
     // eachVerse.forEach( ({word, grk, heb, translit, str, str2, parse, num}) => {
+      let lang = "hebrew"
+      if(grk) lang = "greek"
       let strongs = ""
       if(num){
         strongs = ` [${num}]`
@@ -310,7 +316,7 @@ async function updateInterLinearContent(verse) {
       <h4 class="parse"><span class="accent">${parse}</span>${strongs}</h4>
       <p class="definition">${str2}</p>
       </div>
-      <svg class="fill-svg arrow" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
+      <svg class="fill-svg arrow" onclick="interlinearExpandStrongs('${lang}', '${num}')" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M8.122 24l-4.122-4 8-8-8-8 4.122-4 11.878 12z"/></svg>
       </article>
       `
       // })
@@ -341,6 +347,51 @@ async function updateInterLinearContent(verse) {
     resolve()
   })
 }
+
+async function interlinearExpandStrongs(lang, num) {
+  console.log({lang, num});
+  // document.querySelector("main > .first").style.width = "0%";
+  // could add a class with keyframes that disappears it with animation
+  // document.querySelector("main > .first").style.display = "none";
+  // document.querySelector("main > .first").style.transform = "translate(-200%)"
+  // document.querySelector("main > .second").style.transform = "translate(0%)"
+  // document.querySelector("main").style.transform = "translate(-31%)"
+
+  // setTimeout(() => {
+  //   document.querySelector("main > .first").style.display = "none";
+  // }, 180)
+  // .then(() => {
+  //   document.querySelector("main > .first").style.display = "none";
+  //   document.querySelector("main > .first").style.transform = ""
+  // })
+  // document.querySelector("main > .first").style.display = "none";
+
+  var third = document.createElement('div')
+  third.className = "item third"
+  third.id = "strongs"
+  third.style.width = "50%"
+  document.getElementById("main").appendChild(third)
+  // document.querySelector("main > .third").style.width = "50%";
+  document.querySelector("main > .second").style.width = "50%";
+  document.querySelector("main > .first").style.display = "none";
+  let data = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/strongs/${lang}/${num}.json`)
+  console.log(data);
+  data.forEach(({reference, word, verse}) => {
+    let strongsChild = document.createElement("div")
+    strongsChild.classList.add("strongs-child")
+    let referenceChild = document.createElement("h3")
+    referenceChild.textContent = reference
+    // let wordChild = document.createElement("div")
+    let verseChild = document.createElement("p")
+    verseChild.textContent = verse
+
+    strongsChild.appendChild(referenceChild)
+    // strongsChild.appendChild(wordChild)
+    strongsChild.appendChild(verseChild)
+    third.appendChild(strongsChild)
+  })
+}
+
 async function updateCommentaryContent(verse) {
   return new Promise (async(resolve, reject) => {
     let {book, chapter, start_verse, end_verse, givenTranslation} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):?(?<start_verse>\d{1,3})?-?(?<end_verse>\d{1,3})? ?(?<givenTranslation>[A-z0-9]+)?/gim

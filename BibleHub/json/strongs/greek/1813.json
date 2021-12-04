@@ -2,26 +2,36 @@
   {
     "reference": "Acts 3:19",
     "word": "ἐξαλειφθῆναι",
-    "verse": "εἰς τὸ ἐξαλειφθῆναι ὑμῶν τὰς"
+    "verse": "εἰς τὸ ἐξαλειφθῆναι ὑμῶν τὰς",
+    "verseBefore": "εἰς τὸ ",
+    "verseAfter": " ὑμῶν τὰς"
   },
   {
     "reference": "Colossians 2:14",
     "word": "ἐξαλείψας",
-    "verse": "ἐξαλείψας τὸ καθ'"
+    "verse": "ἐξαλείψας τὸ καθ'",
+    "verseBefore": "",
+    "verseAfter": " τὸ καθ'"
   },
   {
     "reference": "Revelation 3:5",
     "word": "ἐξαλείψω",
-    "verse": "οὐ μὴ ἐξαλείψω τὸ ὄνομα"
+    "verse": "οὐ μὴ ἐξαλείψω τὸ ὄνομα",
+    "verseBefore": "οὐ μὴ ",
+    "verseAfter": " τὸ ὄνομα"
   },
   {
     "reference": "Revelation 7:17",
     "word": "ἐξαλείψει",
-    "verse": "ὑδάτων καὶ ἐξαλείψει ὁ θεὸς"
+    "verse": "ὑδάτων καὶ ἐξαλείψει ὁ θεὸς",
+    "verseBefore": "ὑδάτων καὶ ",
+    "verseAfter": " ὁ θεὸς"
   },
   {
     "reference": "Revelation 21:4",
     "word": "ἐξαλείψει",
-    "verse": "καὶ ἐξαλείψει πᾶν δάκρυον"
+    "verse": "καὶ ἐξαλείψει πᾶν δάκρυον",
+    "verseBefore": "καὶ ",
+    "verseAfter": " πᾶν δάκρυον"
   }
 ]

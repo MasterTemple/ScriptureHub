@@ -2,11 +2,15 @@
   {
     "reference": "Ephesians 5:29",
     "word": "θάλπει",
-    "verse": "ἐκτρέφει καὶ θάλπει αὐτήν καθὼς"
+    "verse": "ἐκτρέφει καὶ θάλπει αὐτήν καθὼς",
+    "verseBefore": "ἐκτρέφει καὶ ",
+    "verseAfter": " αὐτήν καθὼς"
   },
   {
     "reference": "1 Thessalonians 2:7",
     "word": "θάλπῃ",
-    "verse": "ἐὰν τροφὸς θάλπῃ τὰ ἑαυτῆς"
+    "verse": "ἐὰν τροφὸς θάλπῃ τὰ ἑαυτῆς",
+    "verseBefore": "ἐὰν τροφὸς ",
+    "verseAfter": " τὰ ἑαυτῆς"
   }
 ]

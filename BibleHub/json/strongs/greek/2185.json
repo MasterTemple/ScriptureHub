@@ -2,11 +2,15 @@
   {
     "reference": "2 Corinthians 10:13",
     "word": "ἐφικέσθαι",
-    "verse": "θεὸς μέτρου ἐφικέσθαι ἄχρι καὶ"
+    "verse": "θεὸς μέτρου ἐφικέσθαι ἄχρι καὶ",
+    "verseBefore": "θεὸς μέτρου ",
+    "verseAfter": " ἄχρι καὶ"
   },
   {
     "reference": "2 Corinthians 10:14",
     "word": "ἐφικνούμενοι",
-    "verse": "ὡς μὴ ἐφικνούμενοι εἰς ὑμᾶς"
+    "verse": "ὡς μὴ ἐφικνούμενοι εἰς ὑμᾶς",
+    "verseBefore": "ὡς μὴ ",
+    "verseAfter": " εἰς ὑμᾶς"
   }
 ]

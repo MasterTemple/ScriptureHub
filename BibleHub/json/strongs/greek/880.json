@@ -2,21 +2,29 @@
   {
     "reference": "Acts 8:32",
     "word": "ἄφωνος",
-    "verse": "κείραντος αὐτὸν ἄφωνος οὕτως οὐκ"
+    "verse": "κείραντος αὐτὸν ἄφωνος οὕτως οὐκ",
+    "verseBefore": "κείραντος αὐτὸν ",
+    "verseAfter": " οὕτως οὐκ"
   },
   {
     "reference": "1 Corinthians 12:2",
     "word": "ἄφωνα",
-    "verse": "εἴδωλα τὰ ἄφωνα ὡς ἂν"
+    "verse": "εἴδωλα τὰ ἄφωνα ὡς ἂν",
+    "verseBefore": "εἴδωλα τὰ ",
+    "verseAfter": " ὡς ἂν"
   },
   {
     "reference": "1 Corinthians 14:10",
     "word": "ἄφωνον",
-    "verse": "καὶ οὐδὲν ἄφωνον "
+    "verse": "καὶ οὐδὲν ἄφωνον ",
+    "verseBefore": "καὶ οὐδὲν ",
+    "verseAfter": " "
   },
   {
     "reference": "2 Peter 2:16",
     "word": "ἄφωνον",
-    "verse": "παρανομίας ὑποζύγιον ἄφωνον ἐν ἀνθρώπου"
+    "verse": "παρανομίας ὑποζύγιον ἄφωνον ἐν ἀνθρώπου",
+    "verseBefore": "παρανομίας ὑποζύγιον ",
+    "verseAfter": " ἐν ἀνθρώπου"
   }
 ]

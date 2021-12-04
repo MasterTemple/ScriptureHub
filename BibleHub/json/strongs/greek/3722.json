@@ -2,16 +2,22 @@
   {
     "reference": "Luke 24:1",
     "word": "ὄρθρου",
-    "verse": "τῶν σαββάτων ὄρθρου βαθέως ἐπὶ"
+    "verse": "τῶν σαββάτων ὄρθρου βαθέως ἐπὶ",
+    "verseBefore": "τῶν σαββάτων ",
+    "verseAfter": " βαθέως ἐπὶ"
   },
   {
     "reference": "John 8:2",
     "word": "Ὄρθρου",
-    "verse": "Ὄρθρου δὲ πάλιν"
+    "verse": "Ὄρθρου δὲ πάλιν",
+    "verseBefore": "",
+    "verseAfter": " δὲ πάλιν"
   },
   {
     "reference": "Acts 5:21",
     "word": "ὄρθρον",
-    "verse": "ὑπὸ τὸν ὄρθρον εἰς τὸ"
+    "verse": "ὑπὸ τὸν ὄρθρον εἰς τὸ",
+    "verseBefore": "ὑπὸ τὸν ",
+    "verseAfter": " εἰς τὸ"
   }
 ]

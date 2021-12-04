@@ -2,16 +2,22 @@
   {
     "reference": "1 Corinthians 11:25",
     "word": "ὁσάκις",
-    "verse": "τοῦτο ποιεῖτε ὁσάκις ἐὰν πίνητε"
+    "verse": "τοῦτο ποιεῖτε ὁσάκις ἐὰν πίνητε",
+    "verseBefore": "τοῦτο ποιεῖτε ",
+    "verseAfter": " ἐὰν πίνητε"
   },
   {
     "reference": "1 Corinthians 11:26",
     "word": "ὁσάκις",
-    "verse": "ὁσάκις γὰρ ἐὰν"
+    "verse": "ὁσάκις γὰρ ἐὰν",
+    "verseBefore": "",
+    "verseAfter": " γὰρ ἐὰν"
   },
   {
     "reference": "Revelation 11:6",
     "word": "ὁσάκις",
-    "verse": "πάσῃ πληγῇ ὁσάκις ἐὰν θελήσωσιν"
+    "verse": "πάσῃ πληγῇ ὁσάκις ἐὰν θελήσωσιν",
+    "verseBefore": "πάσῃ πληγῇ ",
+    "verseAfter": " ἐὰν θελήσωσιν"
   }
 ]

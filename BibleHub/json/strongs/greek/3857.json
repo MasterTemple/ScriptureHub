@@ -2,16 +2,22 @@
   {
     "reference": "Luke 23:43",
     "word": "παραδείσῳ",
-    "verse": "ἐν τῷ παραδείσῳ "
+    "verse": "ἐν τῷ παραδείσῳ ",
+    "verseBefore": "ἐν τῷ ",
+    "verseAfter": " "
   },
   {
     "reference": "2 Corinthians 12:4",
     "word": "παράδεισον",
-    "verse": "εἰς τὸν παράδεισον καὶ ἤκουσεν"
+    "verse": "εἰς τὸν παράδεισον καὶ ἤκουσεν",
+    "verseBefore": "εἰς τὸν ",
+    "verseAfter": " καὶ ἤκουσεν"
   },
   {
     "reference": "Revelation 2:7",
     "word": "παραδείσῳ",
-    "verse": "ἐν τῷ παραδείσῳ τοῦ θεοῦ"
+    "verse": "ἐν τῷ παραδείσῳ τοῦ θεοῦ",
+    "verseBefore": "ἐν τῷ ",
+    "verseAfter": " τοῦ θεοῦ"
   }
 ]

@@ -2,21 +2,29 @@
   {
     "reference": "Matthew 8:3",
     "word": "λέπρα",
-    "verse": "αὐτοῦ ἡ λέπρα "
+    "verse": "αὐτοῦ ἡ λέπρα ",
+    "verseBefore": "αὐτοῦ ἡ ",
+    "verseAfter": " "
   },
   {
     "reference": "Mark 1:42",
     "word": "λέπρα",
-    "verse": "αὐτοῦ ἡ λέπρα καὶ ἐκαθαρίσθη"
+    "verse": "αὐτοῦ ἡ λέπρα καὶ ἐκαθαρίσθη",
+    "verseBefore": "αὐτοῦ ἡ ",
+    "verseAfter": " καὶ ἐκαθαρίσθη"
   },
   {
     "reference": "Luke 5:12",
     "word": "λέπρας",
-    "verse": "ἀνὴρ πλήρης λέπρας ἰδὼν δὲ"
+    "verse": "ἀνὴρ πλήρης λέπρας ἰδὼν δὲ",
+    "verseBefore": "ἀνὴρ πλήρης ",
+    "verseAfter": " ἰδὼν δὲ"
   },
   {
     "reference": "Luke 5:13",
     "word": "λέπρα",
-    "verse": "εὐθέως ἡ λέπρα ἀπῆλθεν ἀπ'"
+    "verse": "εὐθέως ἡ λέπρα ἀπῆλθεν ἀπ'",
+    "verseBefore": "εὐθέως ἡ ",
+    "verseAfter": " ἀπῆλθεν ἀπ'"
   }
 ]

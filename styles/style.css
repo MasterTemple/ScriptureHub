@@ -21,18 +21,19 @@ html {
 }
 .vertical {z-index: 9999;}
 .horizontal {z-index: 9998;}
-
 main {
   /* padding: 1rem; */
   padding-top: var(--horizontal-nav-width);
-  padding-left: var(--vertical-nav-width);
+  padding-left: calc(var(--vertical-nav-width)+9rem);
+  /* padding-left: var(--vertical-nav-width); */
   /* margin-top: var(--horizontal-nav-width);
   margin-left: var(--vertical-nav-width); */
   display: flex;
   flex-direction: row;
   align-items: stretch;
   max-height: 100vh;
-
+  /* transition: calc(var(--transition-speed)*4); */
+  /* transition-duration: calc(var(--transition-speed)*4); */
   /* align-items: center; */
 
 }
@@ -49,9 +50,12 @@ ul.vertical {
   position: fixed;
   background-color: var(--bg-primary);
   transition: width var(--transition-speed) ease;
+  /* margin-right: 2rem; */
+
 }
 .vertical > .nav-item {
-  margin-left: -2rem;
+  /* margin-left: -2rem; */
+  align-self: center;
   padding-bottom: 2rem;
 
 }
@@ -81,27 +85,35 @@ ul.horizontal {
 
 .item {
   /* flex-grow: 1; */
-  padding: 2rem;
+  margin-top: 2rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
   overflow-y: scroll;
   /* margin-left: 2rem; */
   /* width: 50%; */
   /* height: calc(100vh - var(--horizontal-nav-width)); */
   /* max-height: 80vh; */
   max-height: calc(100vh - (var(--horizontal-nav-width) + 4rem));
-  resize: horizontal;
+  /* resize: horizontal; */
 }
-.first {
+/* .vertical {
+  margin-right: 2rem;
+
+} */
+/* .first {
   margin-left: 2rem;
-}
+} */
 .first {
-  min-width: 30%;
+  /* min-width: 30%; */
   /* width: 60%; */
   /* width: auto; */
-
+  transition: var(--transition-speed);
   /* resize: horizontal; */
 }
 .second {
-  min-width: 30%;
+  transition: var(--transition-speed);
+
+  /* min-width: 30%; */
   /* width: auto; */
   /* resize: horizontal; */
 
@@ -378,6 +390,9 @@ select:-webkit-autofill:focus {
 .hide-interlinear {
   display: none;
 }
+/* .hide-left{
+
+} */
 #context-icon {
   margin-right: 4rem !important;
 }
@@ -403,4 +418,10 @@ select:-webkit-autofill:focus {
   outline: 2px solid var(--gold);
   outline-offset: -.5rem;
   border-radius: 50%;
+}
+.accent {
+  color: var(--accent-color);
+}
+.word {
+  color: var(--accent-color);
 }

@@ -2,21 +2,29 @@
   {
     "reference": "Matthew 11:21",
     "word": "σάκκῳ",
-    "verse": "ἂν ἐν σάκκῳ καὶ σποδῷ"
+    "verse": "ἂν ἐν σάκκῳ καὶ σποδῷ",
+    "verseBefore": "ἂν ἐν ",
+    "verseAfter": " καὶ σποδῷ"
   },
   {
     "reference": "Luke 10:13",
     "word": "σάκκῳ",
-    "verse": "ἂν ἐν σάκκῳ καὶ σποδῷ"
+    "verse": "ἂν ἐν σάκκῳ καὶ σποδῷ",
+    "verseBefore": "ἂν ἐν ",
+    "verseAfter": " καὶ σποδῷ"
   },
   {
     "reference": "Revelation 6:12",
     "word": "σάκκος",
-    "verse": "μέλας ὡς σάκκος τρίχινος καὶ"
+    "verse": "μέλας ὡς σάκκος τρίχινος καὶ",
+    "verseBefore": "μέλας ὡς ",
+    "verseAfter": " τρίχινος καὶ"
   },
   {
     "reference": "Revelation 11:3",
     "word": "σάκκους",
-    "verse": "ἑξήκοντα περιβεβλημένοι σάκκους "
+    "verse": "ἑξήκοντα περιβεβλημένοι σάκκους ",
+    "verseBefore": "ἑξήκοντα περιβεβλημένοι ",
+    "verseAfter": " "
   }
 ]

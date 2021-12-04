@@ -2,11 +2,15 @@
   {
     "reference": "Revelation 1:11",
     "word": "Πέργαμον",
-    "verse": "καὶ εἰς Πέργαμον καὶ εἰς"
+    "verse": "καὶ εἰς Πέργαμον καὶ εἰς",
+    "verseBefore": "καὶ εἰς ",
+    "verseAfter": " καὶ εἰς"
   },
   {
     "reference": "Revelation 2:12",
     "word": "Περγάμῳ",
-    "verse": "τῆς ἐν Περγάμῳ ἐκκλησίας γράψον"
+    "verse": "τῆς ἐν Περγάμῳ ἐκκλησίας γράψον",
+    "verseBefore": "τῆς ἐν ",
+    "verseAfter": " ἐκκλησίας γράψον"
   }
 ]

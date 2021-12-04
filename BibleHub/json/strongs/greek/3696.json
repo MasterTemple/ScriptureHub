@@ -2,31 +2,43 @@
   {
     "reference": "John 18:3",
     "word": "ὅπλων",
-    "verse": "λαμπάδων καὶ ὅπλων "
+    "verse": "λαμπάδων καὶ ὅπλων ",
+    "verseBefore": "λαμπάδων καὶ ",
+    "verseAfter": " "
   },
   {
     "reference": "Romans 6:13",
     "word": "ὅπλα",
-    "verse": "μέλη ὑμῶν ὅπλα ἀδικίας τῇ"
+    "verse": "μέλη ὑμῶν ὅπλα ἀδικίας τῇ",
+    "verseBefore": "μέλη ὑμῶν ",
+    "verseAfter": " ἀδικίας τῇ"
   },
   {
     "reference": "Romans 6:13",
     "word": "ὅπλα",
-    "verse": "μέλη ὑμῶν ὅπλα δικαιοσύνης τῷ"
+    "verse": "μέλη ὑμῶν ὅπλα δικαιοσύνης τῷ",
+    "verseBefore": "μέλη ὑμῶν ",
+    "verseAfter": " δικαιοσύνης τῷ"
   },
   {
     "reference": "Romans 13:12",
     "word": "ὅπλα",
-    "verse": "δὲ τὰ ὅπλα τοῦ φωτός"
+    "verse": "δὲ τὰ ὅπλα τοῦ φωτός",
+    "verseBefore": "δὲ τὰ ",
+    "verseAfter": " τοῦ φωτός"
   },
   {
     "reference": "2 Corinthians 6:7",
     "word": "ὅπλων",
-    "verse": "διὰ τῶν ὅπλων τῆς δικαιοσύνης"
+    "verse": "διὰ τῶν ὅπλων τῆς δικαιοσύνης",
+    "verseBefore": "διὰ τῶν ",
+    "verseAfter": " τῆς δικαιοσύνης"
   },
   {
     "reference": "2 Corinthians 10:4",
     "word": "ὅπλα",
-    "verse": "τὰ γὰρ ὅπλα τῆς στρατείας"
+    "verse": "τὰ γὰρ ὅπλα τῆς στρατείας",
+    "verseBefore": "τὰ γὰρ ",
+    "verseAfter": " τῆς στρατείας"
   }
 ]

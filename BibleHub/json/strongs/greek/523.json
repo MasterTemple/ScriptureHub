@@ -2,11 +2,15 @@
   {
     "reference": "Luke 6:30",
     "word": "ἀπαίτει",
-    "verse": "σὰ μὴ ἀπαίτει "
+    "verse": "σὰ μὴ ἀπαίτει ",
+    "verseBefore": "σὰ μὴ ",
+    "verseAfter": " "
   },
   {
     "reference": "Luke 12:20",
     "word": "ἀπαιτοῦσιν",
-    "verse": "ψυχήν σου ἀπαιτοῦσιν ἀπὸ σοῦ"
+    "verse": "ψυχήν σου ἀπαιτοῦσιν ἀπὸ σοῦ",
+    "verseBefore": "ψυχήν σου ",
+    "verseAfter": " ἀπὸ σοῦ"
   }
 ]

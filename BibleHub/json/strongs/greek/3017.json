@@ -2,26 +2,36 @@
   {
     "reference": "Luke 3:24",
     "word": "Λευὶ",
-    "verse": "Μαθθὰτ τοῦ Λευὶ τοῦ Μελχὶ"
+    "verse": "Μαθθὰτ τοῦ Λευὶ τοῦ Μελχὶ",
+    "verseBefore": "Μαθθὰτ τοῦ ",
+    "verseAfter": " τοῦ Μελχὶ"
   },
   {
     "reference": "Luke 3:29",
     "word": "Λευὶ",
-    "verse": "Μαθθάτ τοῦ Λευὶ "
+    "verse": "Μαθθάτ τοῦ Λευὶ ",
+    "verseBefore": "Μαθθάτ τοῦ ",
+    "verseAfter": " "
   },
   {
     "reference": "Hebrews 7:5",
     "word": "Λευὶ",
-    "verse": "τῶν υἱῶν Λευὶ τὴν ἱερατείαν"
+    "verse": "τῶν υἱῶν Λευὶ τὴν ἱερατείαν",
+    "verseBefore": "τῶν υἱῶν ",
+    "verseAfter": " τὴν ἱερατείαν"
   },
   {
     "reference": "Hebrews 7:9",
     "word": "Λευὶ",
-    "verse": "Ἀβραὰμ καὶ Λευὶ ὁ δεκάτας"
+    "verse": "Ἀβραὰμ καὶ Λευὶ ὁ δεκάτας",
+    "verseBefore": "Ἀβραὰμ καὶ ",
+    "verseAfter": " ὁ δεκάτας"
   },
   {
     "reference": "Revelation 7:7",
     "word": "Λευὶ",
-    "verse": "ἐκ φυλῆς Λευὶ δώδεκα χιλιάδες"
+    "verse": "ἐκ φυλῆς Λευὶ δώδεκα χιλιάδες",
+    "verseBefore": "ἐκ φυλῆς ",
+    "verseAfter": " δώδεκα χιλιάδες"
   }
 ]

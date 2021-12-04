@@ -2,11 +2,15 @@
   {
     "reference": "Galatians 1:17",
     "word": "Ἀραβίαν",
-    "verse": "ἀπῆλθον εἰς Ἀραβίαν καὶ πάλιν"
+    "verse": "ἀπῆλθον εἰς Ἀραβίαν καὶ πάλιν",
+    "verseBefore": "ἀπῆλθον εἰς ",
+    "verseAfter": " καὶ πάλιν"
   },
   {
     "reference": "Galatians 4:25",
     "word": "Ἀραβίᾳ",
-    "verse": "ἐν τῇ Ἀραβίᾳ συστοιχεῖ δὲ"
+    "verse": "ἐν τῇ Ἀραβίᾳ συστοιχεῖ δὲ",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " συστοιχεῖ δὲ"
   }
 ]

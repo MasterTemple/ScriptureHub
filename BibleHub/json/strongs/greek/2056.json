@@ -2,11 +2,15 @@
   {
     "reference": "Matthew 25:32",
     "word": "ἐρίφων",
-    "verse": "ἀπὸ τῶν ἐρίφων "
+    "verse": "ἀπὸ τῶν ἐρίφων ",
+    "verseBefore": "ἀπὸ τῶν ",
+    "verseAfter": " "
   },
   {
     "reference": "Luke 15:29",
     "word": "ἔριφον",
-    "verse": "οὐδέποτε ἔδωκας ἔριφον ἵνα μετὰ"
+    "verse": "οὐδέποτε ἔδωκας ἔριφον ἵνα μετὰ",
+    "verseBefore": "οὐδέποτε ἔδωκας ",
+    "verseAfter": " ἵνα μετὰ"
   }
 ]

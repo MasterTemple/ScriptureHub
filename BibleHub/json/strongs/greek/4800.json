@@ -2,16 +2,22 @@
   {
     "reference": "Romans 6:8",
     "word": "συζήσομεν",
-    "verse": "ὅτι καὶ συζήσομεν αὐτῷ "
+    "verse": "ὅτι καὶ συζήσομεν αὐτῷ ",
+    "verseBefore": "ὅτι καὶ ",
+    "verseAfter": " αὐτῷ "
   },
   {
     "reference": "2 Corinthians 7:3",
     "word": "συζῆν",
-    "verse": "συναποθανεῖν καὶ συζῆν "
+    "verse": "συναποθανεῖν καὶ συζῆν ",
+    "verseBefore": "συναποθανεῖν καὶ ",
+    "verseAfter": " "
   },
   {
     "reference": "2 Timothy 2:11",
     "word": "συζήσομεν",
-    "verse": "συναπεθάνομεν καὶ συζήσομεν "
+    "verse": "συναπεθάνομεν καὶ συζήσομεν ",
+    "verseBefore": "συναπεθάνομεν καὶ ",
+    "verseAfter": " "
   }
 ]

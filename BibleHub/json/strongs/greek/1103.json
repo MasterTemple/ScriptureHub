@@ -2,21 +2,29 @@
   {
     "reference": "2 Corinthians 8:8",
     "word": "γνήσιον",
-    "verse": "ὑμετέρας ἀγάπης γνήσιον δοκιμάζων "
+    "verse": "ὑμετέρας ἀγάπης γνήσιον δοκιμάζων ",
+    "verseBefore": "ὑμετέρας ἀγάπης ",
+    "verseAfter": " δοκιμάζων "
   },
   {
     "reference": "Philippians 4:3",
     "word": "γνήσιε",
-    "verse": "καὶ σέ γνήσιε σύζυγε συλλαμβάνου"
+    "verse": "καὶ σέ γνήσιε σύζυγε συλλαμβάνου",
+    "verseBefore": "καὶ σέ ",
+    "verseAfter": " σύζυγε συλλαμβάνου"
   },
   {
     "reference": "1 Timothy 1:2",
     "word": "γνησίῳ",
-    "verse": "Τιμοθέῳ γνησίῳ τέκνῳ ἐν"
+    "verse": "Τιμοθέῳ γνησίῳ τέκνῳ ἐν",
+    "verseBefore": "Τιμοθέῳ ",
+    "verseAfter": " τέκνῳ ἐν"
   },
   {
     "reference": "Titus 1:4",
     "word": "γνησίῳ",
-    "verse": "Τίτῳ γνησίῳ τέκνῳ κατὰ"
+    "verse": "Τίτῳ γνησίῳ τέκνῳ κατὰ",
+    "verseBefore": "Τίτῳ ",
+    "verseAfter": " τέκνῳ κατὰ"
   }
 ]

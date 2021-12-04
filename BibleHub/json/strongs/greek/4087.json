@@ -2,21 +2,29 @@
   {
     "reference": "Colossians 3:19",
     "word": "πικραίνεσθε",
-    "verse": "καὶ μὴ πικραίνεσθε πρὸς αὐτάς"
+    "verse": "καὶ μὴ πικραίνεσθε πρὸς αὐτάς",
+    "verseBefore": "καὶ μὴ ",
+    "verseAfter": " πρὸς αὐτάς"
   },
   {
     "reference": "Revelation 8:11",
     "word": "ἐπικράνθησαν",
-    "verse": "ὑδάτων ὅτι ἐπικράνθησαν "
+    "verse": "ὑδάτων ὅτι ἐπικράνθησαν ",
+    "verseBefore": "ὑδάτων ὅτι ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 10:9",
     "word": "πικρανεῖ",
-    "verse": "αὐτό καὶ πικρανεῖ σου τὴν"
+    "verse": "αὐτό καὶ πικρανεῖ σου τὴν",
+    "verseBefore": "αὐτό καὶ ",
+    "verseAfter": " σου τὴν"
   },
   {
     "reference": "Revelation 10:10",
     "word": "ἐπικράνθη",
-    "verse": "ἔφαγον αὐτό ἐπικράνθη ἡ κοιλία"
+    "verse": "ἔφαγον αὐτό ἐπικράνθη ἡ κοιλία",
+    "verseBefore": "ἔφαγον αὐτό ",
+    "verseAfter": " ἡ κοιλία"
   }
 ]

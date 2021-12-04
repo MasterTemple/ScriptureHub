@@ -2,11 +2,15 @@
   {
     "reference": "1 Timothy 3:15",
     "word": "βραδύνω",
-    "verse": "ἐὰν δὲ βραδύνω ἵνα εἰδῇς"
+    "verse": "ἐὰν δὲ βραδύνω ἵνα εἰδῇς",
+    "verseBefore": "ἐὰν δὲ ",
+    "verseAfter": " ἵνα εἰδῇς"
   },
   {
     "reference": "2 Peter 3:9",
     "word": "βραδύνει",
-    "verse": "οὐ βραδύνει Κύριος τῆς"
+    "verse": "οὐ βραδύνει Κύριος τῆς",
+    "verseBefore": "οὐ ",
+    "verseAfter": " Κύριος τῆς"
   }
 ]

@@ -2,16 +2,22 @@
   {
     "reference": "John 6:55",
     "word": "πόσις",
-    "verse": "ἀληθής ἐστιν πόσις "
+    "verse": "ἀληθής ἐστιν πόσις ",
+    "verseBefore": "ἀληθής ἐστιν ",
+    "verseAfter": " "
   },
   {
     "reference": "Romans 14:17",
     "word": "πόσις",
-    "verse": "βρῶσις καὶ πόσις ἀλλὰ δικαιοσύνη"
+    "verse": "βρῶσις καὶ πόσις ἀλλὰ δικαιοσύνη",
+    "verseBefore": "βρῶσις καὶ ",
+    "verseAfter": " ἀλλὰ δικαιοσύνη"
   },
   {
     "reference": "Colossians 2:16",
     "word": "πόσει",
-    "verse": "καὶ ἐν πόσει ἢ ἐν"
+    "verse": "καὶ ἐν πόσει ἢ ἐν",
+    "verseBefore": "καὶ ἐν ",
+    "verseAfter": " ἢ ἐν"
   }
 ]

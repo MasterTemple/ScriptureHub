@@ -2,11 +2,15 @@
   {
     "reference": "Mark 1:32",
     "word": "ἔδυ",
-    "verse": "γενομένης ὅτε ἔδυ ὁ ἥλιος"
+    "verse": "γενομένης ὅτε ἔδυ ὁ ἥλιος",
+    "verseBefore": "γενομένης ὅτε ",
+    "verseAfter": " ὁ ἥλιος"
   },
   {
     "reference": "Luke 4:40",
     "word": "Δύνοντος",
-    "verse": "Δύνοντος δὲ τοῦ"
+    "verse": "Δύνοντος δὲ τοῦ",
+    "verseBefore": "",
+    "verseAfter": " δὲ τοῦ"
   }
 ]

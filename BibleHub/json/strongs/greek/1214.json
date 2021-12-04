@@ -2,16 +2,22 @@
   {
     "reference": "Colossians 4:14",
     "word": "Δημᾶς",
-    "verse": "ἀγαπητὸς καὶ Δημᾶς "
+    "verse": "ἀγαπητὸς καὶ Δημᾶς ",
+    "verseBefore": "ἀγαπητὸς καὶ ",
+    "verseAfter": " "
   },
   {
     "reference": "2 Timothy 4:10",
     "word": "Δημᾶς",
-    "verse": "Δημᾶς γάρ με"
+    "verse": "Δημᾶς γάρ με",
+    "verseBefore": "",
+    "verseAfter": " γάρ με"
   },
   {
     "reference": "Philemon 1:24",
     "word": "Δημᾶς",
-    "verse": "Μάρκος Ἀρίσταρχος Δημᾶς Λουκᾶς οἱ"
+    "verse": "Μάρκος Ἀρίσταρχος Δημᾶς Λουκᾶς οἱ",
+    "verseBefore": "Μάρκος Ἀρίσταρχος ",
+    "verseAfter": " Λουκᾶς οἱ"
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "Romans 2:4",
     "word": "ἀνοχῆς",
-    "verse": "καὶ τῆς ἀνοχῆς καὶ τῆς"
+    "verse": "καὶ τῆς ἀνοχῆς καὶ τῆς",
+    "verseBefore": "καὶ τῆς ",
+    "verseAfter": " καὶ τῆς"
   },
   {
     "reference": "Romans 3:26",
     "word": "ἀνοχῇ",
-    "verse": "ἐν τῇ ἀνοχῇ τοῦ θεοῦ"
+    "verse": "ἐν τῇ ἀνοχῇ τοῦ θεοῦ",
+    "verseBefore": "ἐν τῇ ",
+    "verseAfter": " τοῦ θεοῦ"
   }
 ]

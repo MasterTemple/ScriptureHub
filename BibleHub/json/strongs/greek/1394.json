@@ -2,11 +2,15 @@
   {
     "reference": "Philippians 4:15",
     "word": "δόσεως",
-    "verse": "εἰς λόγον δόσεως καὶ λήμψεως"
+    "verse": "εἰς λόγον δόσεως καὶ λήμψεως",
+    "verseBefore": "εἰς λόγον ",
+    "verseAfter": " καὶ λήμψεως"
   },
   {
     "reference": "James 1:17",
     "word": "δόσις",
-    "verse": "πᾶσα δόσις ἀγαθὴ καὶ"
+    "verse": "πᾶσα δόσις ἀγαθὴ καὶ",
+    "verseBefore": "πᾶσα ",
+    "verseAfter": " ἀγαθὴ καὶ"
   }
 ]

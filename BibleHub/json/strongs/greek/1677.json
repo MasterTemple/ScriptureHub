@@ -2,11 +2,15 @@
   {
     "reference": "Romans 5:13",
     "word": "ἐλλογεῖται",
-    "verse": "δὲ οὐκ ἐλλογεῖται μὴ ὄντος"
+    "verse": "δὲ οὐκ ἐλλογεῖται μὴ ὄντος",
+    "verseBefore": "δὲ οὐκ ",
+    "verseAfter": " μὴ ὄντος"
   },
   {
     "reference": "Philemon 1:18",
     "word": "ἐλλόγα",
-    "verse": "τοῦτο ἐμοὶ ἐλλόγα "
+    "verse": "τοῦτο ἐμοὶ ἐλλόγα ",
+    "verseBefore": "τοῦτο ἐμοὶ ",
+    "verseAfter": " "
   }
 ]

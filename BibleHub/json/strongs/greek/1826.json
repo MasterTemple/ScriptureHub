@@ -2,21 +2,29 @@
   {
     "reference": "Acts 13:42",
     "word": "Ἐξιόντων",
-    "verse": "Ἐξιόντων δὲ αὐτῶν"
+    "verse": "Ἐξιόντων δὲ αὐτῶν",
+    "verseBefore": "",
+    "verseAfter": " δὲ αὐτῶν"
   },
   {
     "reference": "Acts 17:15",
     "word": "ἐξῄεσαν",
-    "verse": "πρὸς αὐτὸν ἐξῄεσαν "
+    "verse": "πρὸς αὐτὸν ἐξῄεσαν ",
+    "verseBefore": "πρὸς αὐτὸν ",
+    "verseAfter": " "
   },
   {
     "reference": "Acts 20:7",
     "word": "ἐξιέναι",
-    "verse": "αὐτοῖς μέλλων ἐξιέναι τῇ ἐπαύριον"
+    "verse": "αὐτοῖς μέλλων ἐξιέναι τῇ ἐπαύριον",
+    "verseBefore": "αὐτοῖς μέλλων ",
+    "verseAfter": " τῇ ἐπαύριον"
   },
   {
     "reference": "Acts 27:43",
     "word": "ἐξιέναι",
-    "verse": "τὴν γῆν ἐξιέναι "
+    "verse": "τὴν γῆν ἐξιέναι ",
+    "verseBefore": "τὴν γῆν ",
+    "verseAfter": " "
   }
 ]

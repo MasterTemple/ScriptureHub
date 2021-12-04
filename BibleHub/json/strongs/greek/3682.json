@@ -2,11 +2,15 @@
   {
     "reference": "Colossians 4:9",
     "word": "Ὀνησίμῳ",
-    "verse": "σὺν Ὀνησίμῳ τῷ πιστῷ"
+    "verse": "σὺν Ὀνησίμῳ τῷ πιστῷ",
+    "verseBefore": "σὺν ",
+    "verseAfter": " τῷ πιστῷ"
   },
   {
     "reference": "Philemon 1:10",
     "word": "Ὀνήσιμον",
-    "verse": "τοῖς δεσμοῖς Ὀνήσιμον "
+    "verse": "τοῖς δεσμοῖς Ὀνήσιμον ",
+    "verseBefore": "τοῖς δεσμοῖς ",
+    "verseAfter": " "
   }
 ]

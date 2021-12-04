@@ -2,46 +2,64 @@
   {
     "reference": "Matthew 10:8",
     "word": "δωρεὰν",
-    "verse": "δαιμόνια ἐκβάλλετε δωρεὰν ἐλάβετε δωρεὰν"
+    "verse": "δαιμόνια ἐκβάλλετε δωρεὰν ἐλάβετε δωρεὰν",
+    "verseBefore": "δαιμόνια ἐκβάλλετε ",
+    "verseAfter": ""
   },
   {
     "reference": "Matthew 10:8",
     "word": "δωρεὰν",
-    "verse": "δωρεὰν ἐλάβετε δωρεὰν δότε "
+    "verse": "δωρεὰν ἐλάβετε δωρεὰν δότε ",
+    "verseBefore": "",
+    "verseAfter": " δότε "
   },
   {
     "reference": "John 15:25",
     "word": "δωρεάν",
-    "verse": "Ἐμίσησάν με δωρεάν "
+    "verse": "Ἐμίσησάν με δωρεάν ",
+    "verseBefore": "Ἐμίσησάν με ",
+    "verseAfter": " "
   },
   {
     "reference": "Romans 3:24",
     "word": "δωρεὰν",
-    "verse": "δικαιούμενοι δωρεὰν τῇ αὐτοῦ"
+    "verse": "δικαιούμενοι δωρεὰν τῇ αὐτοῦ",
+    "verseBefore": "δικαιούμενοι ",
+    "verseAfter": " τῇ αὐτοῦ"
   },
   {
     "reference": "2 Corinthians 11:7",
     "word": "δωρεὰν",
-    "verse": "ὑψωθῆτε ὅτι δωρεὰν τὸ τοῦ"
+    "verse": "ὑψωθῆτε ὅτι δωρεὰν τὸ τοῦ",
+    "verseBefore": "ὑψωθῆτε ὅτι ",
+    "verseAfter": " τὸ τοῦ"
   },
   {
     "reference": "Galatians 2:21",
     "word": "δωρεὰν",
-    "verse": "ἄρα Χριστὸς δωρεὰν ἀπέθανεν "
+    "verse": "ἄρα Χριστὸς δωρεὰν ἀπέθανεν ",
+    "verseBefore": "ἄρα Χριστὸς ",
+    "verseAfter": " ἀπέθανεν "
   },
   {
     "reference": "2 Thessalonians 3:8",
     "word": "δωρεὰν",
-    "verse": "οὐδὲ δωρεὰν ἄρτον ἐφάγομεν"
+    "verse": "οὐδὲ δωρεὰν ἄρτον ἐφάγομεν",
+    "verseBefore": "οὐδὲ ",
+    "verseAfter": " ἄρτον ἐφάγομεν"
   },
   {
     "reference": "Revelation 21:6",
     "word": "δωρεάν",
-    "verse": "τῆς ζωῆς δωρεάν "
+    "verse": "τῆς ζωῆς δωρεάν ",
+    "verseBefore": "τῆς ζωῆς ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 22:17",
     "word": "δωρεάν",
-    "verse": "ὕδωρ ζωῆς δωρεάν "
+    "verse": "ὕδωρ ζωῆς δωρεάν ",
+    "verseBefore": "ὕδωρ ζωῆς ",
+    "verseAfter": " "
   }
 ]

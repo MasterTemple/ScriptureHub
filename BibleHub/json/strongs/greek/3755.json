@@ -2,26 +2,36 @@
   {
     "reference": "Matthew 5:25",
     "word": "ὅτου",
-    "verse": "ταχὺ ἕως ὅτου εἶ μετ'"
+    "verse": "ταχὺ ἕως ὅτου εἶ μετ'",
+    "verseBefore": "ταχὺ ἕως ",
+    "verseAfter": " εἶ μετ'"
   },
   {
     "reference": "Luke 12:50",
     "word": "ὅτου",
-    "verse": "συνέχομαι ἕως ὅτου τελεσθῇ "
+    "verse": "συνέχομαι ἕως ὅτου τελεσθῇ ",
+    "verseBefore": "συνέχομαι ἕως ",
+    "verseAfter": " τελεσθῇ "
   },
   {
     "reference": "Luke 13:8",
     "word": "ὅτου",
-    "verse": "ἔτος ἕως ὅτου σκάψω περὶ"
+    "verse": "ἔτος ἕως ὅτου σκάψω περὶ",
+    "verseBefore": "ἔτος ἕως ",
+    "verseAfter": " σκάψω περὶ"
   },
   {
     "reference": "Luke 22:16",
     "word": "ὅτου",
-    "verse": "αὐτὸ ἕως ὅτου πληρωθῇ ἐν"
+    "verse": "αὐτὸ ἕως ὅτου πληρωθῇ ἐν",
+    "verseBefore": "αὐτὸ ἕως ",
+    "verseAfter": " πληρωθῇ ἐν"
   },
   {
     "reference": "John 9:18",
     "word": "ὅτου",
-    "verse": "ἀνέβλεψεν ἕως ὅτου ἐφώνησαν τοὺς"
+    "verse": "ἀνέβλεψεν ἕως ὅτου ἐφώνησαν τοὺς",
+    "verseBefore": "ἀνέβλεψεν ἕως ",
+    "verseAfter": " ἐφώνησαν τοὺς"
   }
 ]

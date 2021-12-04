@@ -2,11 +2,15 @@
   {
     "reference": "Luke 11:44",
     "word": "ἄδηλα",
-    "verse": "μνημεῖα τὰ ἄδηλα καὶ οἱ"
+    "verse": "μνημεῖα τὰ ἄδηλα καὶ οἱ",
+    "verseBefore": "μνημεῖα τὰ ",
+    "verseAfter": " καὶ οἱ"
   },
   {
     "reference": "1 Corinthians 14:8",
     "word": "ἄδηλον",
-    "verse": "γὰρ ἐὰν ἄδηλον σάλπιγξ φωνὴν"
+    "verse": "γὰρ ἐὰν ἄδηλον σάλπιγξ φωνὴν",
+    "verseBefore": "γὰρ ἐὰν ",
+    "verseAfter": " σάλπιγξ φωνὴν"
   }
 ]

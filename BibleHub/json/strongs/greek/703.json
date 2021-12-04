@@ -2,26 +2,36 @@
   {
     "reference": "Philippians 4:8",
     "word": "ἀρετὴ",
-    "verse": "εἴ τις ἀρετὴ καὶ εἴ"
+    "verse": "εἴ τις ἀρετὴ καὶ εἴ",
+    "verseBefore": "εἴ τις ",
+    "verseAfter": " καὶ εἴ"
   },
   {
     "reference": "1 Peter 2:9",
     "word": "ἀρετὰς",
-    "verse": "ὅπως τὰς ἀρετὰς ἐξαγγείλητε τοῦ"
+    "verse": "ὅπως τὰς ἀρετὰς ἐξαγγείλητε τοῦ",
+    "verseBefore": "ὅπως τὰς ",
+    "verseAfter": " ἐξαγγείλητε τοῦ"
   },
   {
     "reference": "2 Peter 1:3",
     "word": "ἀρετῇ",
-    "verse": "δόξῃ καὶ ἀρετῇ "
+    "verse": "δόξῃ καὶ ἀρετῇ ",
+    "verseBefore": "δόξῃ καὶ ",
+    "verseAfter": " "
   },
   {
     "reference": "2 Peter 1:5",
     "word": "ἀρετήν",
-    "verse": "ὑμῶν τὴν ἀρετήν ἐν δὲ"
+    "verse": "ὑμῶν τὴν ἀρετήν ἐν δὲ",
+    "verseBefore": "ὑμῶν τὴν ",
+    "verseAfter": " ἐν δὲ"
   },
   {
     "reference": "2 Peter 1:5",
     "word": "ἀρετῇ",
-    "verse": "δὲ τῇ ἀρετῇ τὴν γνῶσιν"
+    "verse": "δὲ τῇ ἀρετῇ τὴν γνῶσιν",
+    "verseBefore": "δὲ τῇ ",
+    "verseAfter": " τὴν γνῶσιν"
   }
 ]

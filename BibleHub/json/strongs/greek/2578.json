@@ -2,21 +2,29 @@
   {
     "reference": "Romans 11:4",
     "word": "ἔκαμψαν",
-    "verse": "οἵτινες οὐκ ἔκαμψαν γόνυ τῇ"
+    "verse": "οἵτινες οὐκ ἔκαμψαν γόνυ τῇ",
+    "verseBefore": "οἵτινες οὐκ ",
+    "verseAfter": " γόνυ τῇ"
   },
   {
     "reference": "Romans 14:11",
     "word": "κάμψει",
-    "verse": "ὅτι ἐμοὶ κάμψει πᾶν γόνυ"
+    "verse": "ὅτι ἐμοὶ κάμψει πᾶν γόνυ",
+    "verseBefore": "ὅτι ἐμοὶ ",
+    "verseAfter": " πᾶν γόνυ"
   },
   {
     "reference": "Ephesians 3:14",
     "word": "κάμπτω",
-    "verse": "Τούτου χάριν κάμπτω τὰ γόνατά"
+    "verse": "Τούτου χάριν κάμπτω τὰ γόνατά",
+    "verseBefore": "Τούτου χάριν ",
+    "verseAfter": " τὰ γόνατά"
   },
   {
     "reference": "Philippians 2:10",
     "word": "κάμψῃ",
-    "verse": "πᾶν γόνυ κάμψῃ ἐπουρανίων καὶ"
+    "verse": "πᾶν γόνυ κάμψῃ ἐπουρανίων καὶ",
+    "verseBefore": "πᾶν γόνυ ",
+    "verseAfter": " ἐπουρανίων καὶ"
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "1 Corinthians 13:12",
     "word": "ἐσόπτρου",
-    "verse": "ἄρτι δι' ἐσόπτρου ἐν αἰνίγματι"
+    "verse": "ἄρτι δι' ἐσόπτρου ἐν αἰνίγματι",
+    "verseBefore": "ἄρτι δι' ",
+    "verseAfter": " ἐν αἰνίγματι"
   },
   {
     "reference": "James 1:23",
     "word": "ἐσόπτρῳ",
-    "verse": "αὐτοῦ ἐν ἐσόπτρῳ "
+    "verse": "αὐτοῦ ἐν ἐσόπτρῳ ",
+    "verseBefore": "αὐτοῦ ἐν ",
+    "verseAfter": " "
   }
 ]

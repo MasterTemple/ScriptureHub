@@ -2,131 +2,183 @@
   {
     "reference": "Matthew 12:50",
     "word": "ἀδελφὴ",
-    "verse": "ἀδελφὸς καὶ ἀδελφὴ καὶ μήτηρ"
+    "verse": "ἀδελφὸς καὶ ἀδελφὴ καὶ μήτηρ",
+    "verseBefore": "ἀδελφὸς καὶ ",
+    "verseAfter": " καὶ μήτηρ"
   },
   {
     "reference": "Matthew 13:56",
     "word": "ἀδελφαὶ",
-    "verse": "καὶ αἱ ἀδελφαὶ αὐτοῦ οὐχὶ"
+    "verse": "καὶ αἱ ἀδελφαὶ αὐτοῦ οὐχὶ",
+    "verseBefore": "καὶ αἱ ",
+    "verseAfter": " αὐτοῦ οὐχὶ"
   },
   {
     "reference": "Matthew 19:29",
     "word": "ἀδελφὰς",
-    "verse": "ἀδελφοὺς ἢ ἀδελφὰς ἢ πατέρα"
+    "verse": "ἀδελφοὺς ἢ ἀδελφὰς ἢ πατέρα",
+    "verseBefore": "ἀδελφοὺς ἢ ",
+    "verseAfter": " ἢ πατέρα"
   },
   {
     "reference": "Mark 3:32",
     "word": "ἀδελφαί",
-    "verse": "καὶ αἱ ἀδελφαί σου ἔξω"
+    "verse": "καὶ αἱ ἀδελφαί σου ἔξω",
+    "verseBefore": "καὶ αἱ ",
+    "verseAfter": " σου ἔξω"
   },
   {
     "reference": "Mark 3:35",
     "word": "ἀδελφὴ",
-    "verse": "μου καὶ ἀδελφὴ καὶ μήτηρ"
+    "verse": "μου καὶ ἀδελφὴ καὶ μήτηρ",
+    "verseBefore": "μου καὶ ",
+    "verseAfter": " καὶ μήτηρ"
   },
   {
     "reference": "Mark 6:3",
     "word": "ἀδελφαὶ",
-    "verse": "εἰσὶν αἱ ἀδελφαὶ αὐτοῦ ὧδε"
+    "verse": "εἰσὶν αἱ ἀδελφαὶ αὐτοῦ ὧδε",
+    "verseBefore": "εἰσὶν αἱ ",
+    "verseAfter": " αὐτοῦ ὧδε"
   },
   {
     "reference": "Mark 10:29",
     "word": "ἀδελφὰς",
-    "verse": "ἀδελφοὺς ἢ ἀδελφὰς ἢ μητέρα"
+    "verse": "ἀδελφοὺς ἢ ἀδελφὰς ἢ μητέρα",
+    "verseBefore": "ἀδελφοὺς ἢ ",
+    "verseAfter": " ἢ μητέρα"
   },
   {
     "reference": "Mark 10:30",
     "word": "ἀδελφὰς",
-    "verse": "ἀδελφοὺς καὶ ἀδελφὰς καὶ μητέρας"
+    "verse": "ἀδελφοὺς καὶ ἀδελφὰς καὶ μητέρας",
+    "verseBefore": "ἀδελφοὺς καὶ ",
+    "verseAfter": " καὶ μητέρας"
   },
   {
     "reference": "Luke 10:39",
     "word": "ἀδελφὴ",
-    "verse": "τῇδε ἦν ἀδελφὴ καλουμένη Μαριάμ"
+    "verse": "τῇδε ἦν ἀδελφὴ καλουμένη Μαριάμ",
+    "verseBefore": "τῇδε ἦν ",
+    "verseAfter": " καλουμένη Μαριάμ"
   },
   {
     "reference": "Luke 10:40",
     "word": "ἀδελφή",
-    "verse": "ὅτι ἡ ἀδελφή μου μόνην"
+    "verse": "ὅτι ἡ ἀδελφή μου μόνην",
+    "verseBefore": "ὅτι ἡ ",
+    "verseAfter": " μου μόνην"
   },
   {
     "reference": "Luke 14:26",
     "word": "ἀδελφάς",
-    "verse": "καὶ τὰς ἀδελφάς ἔτι τε"
+    "verse": "καὶ τὰς ἀδελφάς ἔτι τε",
+    "verseBefore": "καὶ τὰς ",
+    "verseAfter": " ἔτι τε"
   },
   {
     "reference": "John 11:1",
     "word": "ἀδελφῆς",
-    "verse": "Μάρθας τῆς ἀδελφῆς αὐτῆς "
+    "verse": "Μάρθας τῆς ἀδελφῆς αὐτῆς ",
+    "verseBefore": "Μάρθας τῆς ",
+    "verseAfter": " αὐτῆς "
   },
   {
     "reference": "John 11:3",
     "word": "ἀδελφαὶ",
-    "verse": "οὖν αἱ ἀδελφαὶ πρὸς αὐτὸν"
+    "verse": "οὖν αἱ ἀδελφαὶ πρὸς αὐτὸν",
+    "verseBefore": "οὖν αἱ ",
+    "verseAfter": " πρὸς αὐτὸν"
   },
   {
     "reference": "John 11:5",
     "word": "ἀδελφὴν",
-    "verse": "καὶ τὴν ἀδελφὴν αὐτῆς καὶ"
+    "verse": "καὶ τὴν ἀδελφὴν αὐτῆς καὶ",
+    "verseBefore": "καὶ τὴν ",
+    "verseAfter": " αὐτῆς καὶ"
   },
   {
     "reference": "John 11:28",
     "word": "ἀδελφὴν",
-    "verse": "Μαριὰμ τὴν ἀδελφὴν αὐτῆς λάθρᾳ"
+    "verse": "Μαριὰμ τὴν ἀδελφὴν αὐτῆς λάθρᾳ",
+    "verseBefore": "Μαριὰμ τὴν ",
+    "verseAfter": " αὐτῆς λάθρᾳ"
   },
   {
     "reference": "John 11:39",
     "word": "ἀδελφὴ",
-    "verse": "αὐτῷ ἡ ἀδελφὴ τοῦ τετελευτηκότος"
+    "verse": "αὐτῷ ἡ ἀδελφὴ τοῦ τετελευτηκότος",
+    "verseBefore": "αὐτῷ ἡ ",
+    "verseAfter": " τοῦ τετελευτηκότος"
   },
   {
     "reference": "John 19:25",
     "word": "ἀδελφὴ",
-    "verse": "καὶ ἡ ἀδελφὴ τῆς μητρὸς"
+    "verse": "καὶ ἡ ἀδελφὴ τῆς μητρὸς",
+    "verseBefore": "καὶ ἡ ",
+    "verseAfter": " τῆς μητρὸς"
   },
   {
     "reference": "Acts 23:16",
     "word": "ἀδελφῆς",
-    "verse": "υἱὸς τῆς ἀδελφῆς Παύλου τὴν"
+    "verse": "υἱὸς τῆς ἀδελφῆς Παύλου τὴν",
+    "verseBefore": "υἱὸς τῆς ",
+    "verseAfter": " Παύλου τὴν"
   },
   {
     "reference": "Romans 16:1",
     "word": "ἀδελφὴν",
-    "verse": "Φοίβην τὴν ἀδελφὴν ἡμῶν οὖσαν"
+    "verse": "Φοίβην τὴν ἀδελφὴν ἡμῶν οὖσαν",
+    "verseBefore": "Φοίβην τὴν ",
+    "verseAfter": " ἡμῶν οὖσαν"
   },
   {
     "reference": "Romans 16:15",
     "word": "ἀδελφὴν",
-    "verse": "καὶ τὴν ἀδελφὴν αὐτοῦ καὶ"
+    "verse": "καὶ τὴν ἀδελφὴν αὐτοῦ καὶ",
+    "verseBefore": "καὶ τὴν ",
+    "verseAfter": " αὐτοῦ καὶ"
   },
   {
     "reference": "1 Corinthians 7:15",
     "word": "ἀδελφὴ",
-    "verse": "ἢ ἡ ἀδελφὴ ἐν τοῖς"
+    "verse": "ἢ ἡ ἀδελφὴ ἐν τοῖς",
+    "verseBefore": "ἢ ἡ ",
+    "verseAfter": " ἐν τοῖς"
   },
   {
     "reference": "1 Corinthians 9:5",
     "word": "ἀδελφὴν",
-    "verse": "ἔχομεν ἐξουσίαν ἀδελφὴν γυναῖκα περιάγειν"
+    "verse": "ἔχομεν ἐξουσίαν ἀδελφὴν γυναῖκα περιάγειν",
+    "verseBefore": "ἔχομεν ἐξουσίαν ",
+    "verseAfter": " γυναῖκα περιάγειν"
   },
   {
     "reference": "1 Timothy 5:2",
     "word": "ἀδελφὰς",
-    "verse": "νεωτέρας ὡς ἀδελφὰς ἐν πάσῃ"
+    "verse": "νεωτέρας ὡς ἀδελφὰς ἐν πάσῃ",
+    "verseBefore": "νεωτέρας ὡς ",
+    "verseAfter": " ἐν πάσῃ"
   },
   {
     "reference": "Philemon 1:2",
     "word": "ἀδελφῇ",
-    "verse": "Ἀπφίᾳ τῇ ἀδελφῇ καὶ Ἀρχίππῳ"
+    "verse": "Ἀπφίᾳ τῇ ἀδελφῇ καὶ Ἀρχίππῳ",
+    "verseBefore": "Ἀπφίᾳ τῇ ",
+    "verseAfter": " καὶ Ἀρχίππῳ"
   },
   {
     "reference": "James 2:15",
     "word": "ἀδελφὴ",
-    "verse": "ἀδελφὸς ἢ ἀδελφὴ γυμνοὶ ὑπάρχωσιν"
+    "verse": "ἀδελφὸς ἢ ἀδελφὴ γυμνοὶ ὑπάρχωσιν",
+    "verseBefore": "ἀδελφὸς ἢ ",
+    "verseAfter": " γυμνοὶ ὑπάρχωσιν"
   },
   {
     "reference": "2 John 1:13",
     "word": "ἀδελφῆς",
-    "verse": "τέκνα τῆς ἀδελφῆς σου τῆς"
+    "verse": "τέκνα τῆς ἀδελφῆς σου τῆς",
+    "verseBefore": "τέκνα τῆς ",
+    "verseAfter": " σου τῆς"
   }
 ]

@@ -2,21 +2,29 @@
   {
     "reference": "Acts 8:23",
     "word": "πικρίας",
-    "verse": "γὰρ χολὴν πικρίας καὶ σύνδεσμον"
+    "verse": "γὰρ χολὴν πικρίας καὶ σύνδεσμον",
+    "verseBefore": "γὰρ χολὴν ",
+    "verseAfter": " καὶ σύνδεσμον"
   },
   {
     "reference": "Romans 3:14",
     "word": "πικρίας",
-    "verse": "ἀρᾶς καὶ πικρίας γέμει "
+    "verse": "ἀρᾶς καὶ πικρίας γέμει ",
+    "verseBefore": "ἀρᾶς καὶ ",
+    "verseAfter": " γέμει "
   },
   {
     "reference": "Ephesians 4:31",
     "word": "πικρία",
-    "verse": "πᾶσα πικρία καὶ θυμὸς"
+    "verse": "πᾶσα πικρία καὶ θυμὸς",
+    "verseBefore": "πᾶσα ",
+    "verseAfter": " καὶ θυμὸς"
   },
   {
     "reference": "Hebrews 12:15",
     "word": "πικρίας",
-    "verse": "τις ῥίζα πικρίας ἄνω φύουσα"
+    "verse": "τις ῥίζα πικρίας ἄνω φύουσα",
+    "verseBefore": "τις ῥίζα ",
+    "verseAfter": " ἄνω φύουσα"
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "Matthew 25:5",
     "word": "ἐνύσταξαν",
-    "verse": "τοῦ νυμφίου ἐνύσταξαν πᾶσαι καὶ"
+    "verse": "τοῦ νυμφίου ἐνύσταξαν πᾶσαι καὶ",
+    "verseBefore": "τοῦ νυμφίου ",
+    "verseAfter": " πᾶσαι καὶ"
   },
   {
     "reference": "2 Peter 2:3",
     "word": "νυστάζει",
-    "verse": "αὐτῶν οὐ νυστάζει "
+    "verse": "αὐτῶν οὐ νυστάζει ",
+    "verseBefore": "αὐτῶν οὐ ",
+    "verseAfter": " "
   }
 ]

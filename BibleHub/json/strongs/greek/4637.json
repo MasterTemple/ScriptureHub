@@ -2,26 +2,36 @@
   {
     "reference": "John 1:14",
     "word": "ἐσκήνωσεν",
-    "verse": "ἐγένετο καὶ ἐσκήνωσεν ἐν ἡμῖν"
+    "verse": "ἐγένετο καὶ ἐσκήνωσεν ἐν ἡμῖν",
+    "verseBefore": "ἐγένετο καὶ ",
+    "verseAfter": " ἐν ἡμῖν"
   },
   {
     "reference": "Revelation 7:15",
     "word": "σκηνώσει",
-    "verse": "τοῦ θρόνου σκηνώσει ἐπ' αὐτούς"
+    "verse": "τοῦ θρόνου σκηνώσει ἐπ' αὐτούς",
+    "verseBefore": "τοῦ θρόνου ",
+    "verseAfter": " ἐπ' αὐτούς"
   },
   {
     "reference": "Revelation 12:12",
     "word": "σκηνοῦντες",
-    "verse": "ἐν αὐτοῖς σκηνοῦντες οὐαὶ τὴν"
+    "verse": "ἐν αὐτοῖς σκηνοῦντες οὐαὶ τὴν",
+    "verseBefore": "ἐν αὐτοῖς ",
+    "verseAfter": " οὐαὶ τὴν"
   },
   {
     "reference": "Revelation 13:6",
     "word": "σκηνοῦντας",
-    "verse": "τῷ οὐρανῷ σκηνοῦντας "
+    "verse": "τῷ οὐρανῷ σκηνοῦντας ",
+    "verseBefore": "τῷ οὐρανῷ ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 21:3",
     "word": "σκηνώσει",
-    "verse": "ἀνθρώπων καὶ σκηνώσει μετ' αὐτῶν"
+    "verse": "ἀνθρώπων καὶ σκηνώσει μετ' αὐτῶν",
+    "verseBefore": "ἀνθρώπων καὶ ",
+    "verseAfter": " μετ' αὐτῶν"
   }
 ]

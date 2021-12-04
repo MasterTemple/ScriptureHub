@@ -2,16 +2,22 @@
   {
     "reference": "1 Corinthians 15:32",
     "word": "ὄφελος",
-    "verse": "μοι τὸ ὄφελος εἰ νεκροὶ"
+    "verse": "μοι τὸ ὄφελος εἰ νεκροὶ",
+    "verseBefore": "μοι τὸ ",
+    "verseAfter": " εἰ νεκροὶ"
   },
   {
     "reference": "James 2:14",
     "word": "ὄφελος",
-    "verse": "Τί τὸ ὄφελος ἀδελφοί μου"
+    "verse": "Τί τὸ ὄφελος ἀδελφοί μου",
+    "verseBefore": "Τί τὸ ",
+    "verseAfter": " ἀδελφοί μου"
   },
   {
     "reference": "James 2:16",
     "word": "ὄφελος",
-    "verse": "τί τὸ ὄφελος "
+    "verse": "τί τὸ ὄφελος ",
+    "verseBefore": "τί τὸ ",
+    "verseAfter": " "
   }
 ]

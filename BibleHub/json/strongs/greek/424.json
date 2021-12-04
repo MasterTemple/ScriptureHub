@@ -2,16 +2,22 @@
   {
     "reference": "John 6:3",
     "word": "ἀνῆλθεν",
-    "verse": "ἀνῆλθεν δὲ εἰς"
+    "verse": "ἀνῆλθεν δὲ εἰς",
+    "verseBefore": "",
+    "verseAfter": " δὲ εἰς"
   },
   {
     "reference": "Galatians 1:17",
     "word": "ἀνῆλθον",
-    "verse": "οὐδὲ ἀνῆλθον εἰς Ἰεροσόλυμα"
+    "verse": "οὐδὲ ἀνῆλθον εἰς Ἰεροσόλυμα",
+    "verseBefore": "οὐδὲ ",
+    "verseAfter": " εἰς Ἰεροσόλυμα"
   },
   {
     "reference": "Galatians 1:18",
     "word": "ἀνῆλθον",
-    "verse": "τρία ἔτη ἀνῆλθον εἰς Ἰεροσόλυμα"
+    "verse": "τρία ἔτη ἀνῆλθον εἰς Ἰεροσόλυμα",
+    "verseBefore": "τρία ἔτη ",
+    "verseAfter": " εἰς Ἰεροσόλυμα"
   }
 ]

@@ -2,16 +2,22 @@
   {
     "reference": "Mark 5:7",
     "word": "ὁρκίζω",
-    "verse": "τοῦ ὑψίστου ὁρκίζω σε τὸν"
+    "verse": "τοῦ ὑψίστου ὁρκίζω σε τὸν",
+    "verseBefore": "τοῦ ὑψίστου ",
+    "verseAfter": " σε τὸν"
   },
   {
     "reference": "Acts 19:13",
     "word": "Ὁρκίζω",
-    "verse": "Ἰησοῦ λέγοντες Ὁρκίζω ὑμᾶς τὸν"
+    "verse": "Ἰησοῦ λέγοντες Ὁρκίζω ὑμᾶς τὸν",
+    "verseBefore": "Ἰησοῦ λέγοντες ",
+    "verseAfter": " ὑμᾶς τὸν"
   },
   {
     "reference": "1 Thessalonians 5:27",
     "word": "Ἐνορκίζω",
-    "verse": "Ἐνορκίζω ὑμᾶς τὸν"
+    "verse": "Ἐνορκίζω ὑμᾶς τὸν",
+    "verseBefore": "",
+    "verseAfter": " ὑμᾶς τὸν"
   }
 ]

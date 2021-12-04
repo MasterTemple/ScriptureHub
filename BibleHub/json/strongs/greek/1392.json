@@ -2,311 +2,435 @@
   {
     "reference": "Matthew 5:16",
     "word": "δοξάσωσιν",
-    "verse": "ἔργα καὶ δοξάσωσιν τὸν πατέρα"
+    "verse": "ἔργα καὶ δοξάσωσιν τὸν πατέρα",
+    "verseBefore": "ἔργα καὶ ",
+    "verseAfter": " τὸν πατέρα"
   },
   {
     "reference": "Matthew 6:2",
     "word": "δοξασθῶσιν",
-    "verse": "ῥύμαις ὅπως δοξασθῶσιν ὑπὸ τῶν"
+    "verse": "ῥύμαις ὅπως δοξασθῶσιν ὑπὸ τῶν",
+    "verseBefore": "ῥύμαις ὅπως ",
+    "verseAfter": " ὑπὸ τῶν"
   },
   {
     "reference": "Matthew 9:8",
     "word": "ἐδόξασαν",
-    "verse": "ἐφοβήθησαν καὶ ἐδόξασαν τὸν θεὸν"
+    "verse": "ἐφοβήθησαν καὶ ἐδόξασαν τὸν θεὸν",
+    "verseBefore": "ἐφοβήθησαν καὶ ",
+    "verseAfter": " τὸν θεὸν"
   },
   {
     "reference": "Matthew 15:31",
     "word": "ἐδόξασαν",
-    "verse": "βλέποντας καὶ ἐδόξασαν τὸν θεὸν"
+    "verse": "βλέποντας καὶ ἐδόξασαν τὸν θεὸν",
+    "verseBefore": "βλέποντας καὶ ",
+    "verseAfter": " τὸν θεὸν"
   },
   {
     "reference": "Mark 2:12",
     "word": "δοξάζειν",
-    "verse": "πάντας καὶ δοξάζειν τὸν θεὸν"
+    "verse": "πάντας καὶ δοξάζειν τὸν θεὸν",
+    "verseBefore": "πάντας καὶ ",
+    "verseAfter": " τὸν θεὸν"
   },
   {
     "reference": "Luke 2:20",
     "word": "δοξάζοντες",
-    "verse": "οἱ ποιμένες δοξάζοντες καὶ αἰνοῦντες"
+    "verse": "οἱ ποιμένες δοξάζοντες καὶ αἰνοῦντες",
+    "verseBefore": "οἱ ποιμένες ",
+    "verseAfter": " καὶ αἰνοῦντες"
   },
   {
     "reference": "Luke 4:15",
     "word": "δοξαζόμενος",
-    "verse": "συναγωγαῖς αὐτῶν δοξαζόμενος ὑπὸ πάντων"
+    "verse": "συναγωγαῖς αὐτῶν δοξαζόμενος ὑπὸ πάντων",
+    "verseBefore": "συναγωγαῖς αὐτῶν ",
+    "verseAfter": " ὑπὸ πάντων"
   },
   {
     "reference": "Luke 5:25",
     "word": "δοξάζων",
-    "verse": "οἶκον αὐτοῦ δοξάζων τὸν θεόν"
+    "verse": "οἶκον αὐτοῦ δοξάζων τὸν θεόν",
+    "verseBefore": "οἶκον αὐτοῦ ",
+    "verseAfter": " τὸν θεόν"
   },
   {
     "reference": "Luke 5:26",
     "word": "ἐδόξαζον",
-    "verse": "ἅπαντας καὶ ἐδόξαζον τὸν θεόν"
+    "verse": "ἅπαντας καὶ ἐδόξαζον τὸν θεόν",
+    "verseBefore": "ἅπαντας καὶ ",
+    "verseAfter": " τὸν θεόν"
   },
   {
     "reference": "Luke 7:16",
     "word": "ἐδόξαζον",
-    "verse": "πάντας καὶ ἐδόξαζον τὸν θεὸν"
+    "verse": "πάντας καὶ ἐδόξαζον τὸν θεὸν",
+    "verseBefore": "πάντας καὶ ",
+    "verseAfter": " τὸν θεὸν"
   },
   {
     "reference": "Luke 13:13",
     "word": "ἐδόξαζεν",
-    "verse": "ἀνωρθώθη καὶ ἐδόξαζεν τὸν θεόν"
+    "verse": "ἀνωρθώθη καὶ ἐδόξαζεν τὸν θεόν",
+    "verseBefore": "ἀνωρθώθη καὶ ",
+    "verseAfter": " τὸν θεόν"
   },
   {
     "reference": "Luke 17:15",
     "word": "δοξάζων",
-    "verse": "φωνῆς μεγάλης δοξάζων τὸν θεόν"
+    "verse": "φωνῆς μεγάλης δοξάζων τὸν θεόν",
+    "verseBefore": "φωνῆς μεγάλης ",
+    "verseAfter": " τὸν θεόν"
   },
   {
     "reference": "Luke 18:43",
     "word": "δοξάζων",
-    "verse": "ἠκολούθει αὐτῷ δοξάζων τὸν θεόν"
+    "verse": "ἠκολούθει αὐτῷ δοξάζων τὸν θεόν",
+    "verseBefore": "ἠκολούθει αὐτῷ ",
+    "verseAfter": " τὸν θεόν"
   },
   {
     "reference": "Luke 23:47",
     "word": "ἐδόξαζεν",
-    "verse": "τὸ γενόμενον ἐδόξαζεν τὸν θεὸν"
+    "verse": "τὸ γενόμενον ἐδόξαζεν τὸν θεὸν",
+    "verseBefore": "τὸ γενόμενον ",
+    "verseAfter": " τὸν θεὸν"
   },
   {
     "reference": "John 7:39",
     "word": "ἐδοξάσθη",
-    "verse": "Ἰησοῦς οὐδέπω ἐδοξάσθη "
+    "verse": "Ἰησοῦς οὐδέπω ἐδοξάσθη ",
+    "verseBefore": "Ἰησοῦς οὐδέπω ",
+    "verseAfter": " "
   },
   {
     "reference": "John 8:54",
     "word": "δοξάσω",
-    "verse": "Ἐὰν ἐγὼ δοξάσω ἐμαυτόν ἡ"
+    "verse": "Ἐὰν ἐγὼ δοξάσω ἐμαυτόν ἡ",
+    "verseBefore": "Ἐὰν ἐγὼ ",
+    "verseAfter": " ἐμαυτόν ἡ"
   },
   {
     "reference": "John 8:54",
     "word": "δοξάζων",
-    "verse": "μου ὁ δοξάζων με ὃν"
+    "verse": "μου ὁ δοξάζων με ὃν",
+    "verseBefore": "μου ὁ ",
+    "verseAfter": " με ὃν"
   },
   {
     "reference": "John 11:4",
     "word": "δοξασθῇ",
-    "verse": "θεοῦ ἵνα δοξασθῇ ὁ υἱὸς"
+    "verse": "θεοῦ ἵνα δοξασθῇ ὁ υἱὸς",
+    "verseBefore": "θεοῦ ἵνα ",
+    "verseAfter": " ὁ υἱὸς"
   },
   {
     "reference": "John 12:16",
     "word": "ἐδοξάσθη",
-    "verse": "ἀλλ' ὅτε ἐδοξάσθη Ἰησοῦς τότε"
+    "verse": "ἀλλ' ὅτε ἐδοξάσθη Ἰησοῦς τότε",
+    "verseBefore": "ἀλλ' ὅτε ",
+    "verseAfter": " Ἰησοῦς τότε"
   },
   {
     "reference": "John 12:23",
     "word": "δοξασθῇ",
-    "verse": "ὥρα ἵνα δοξασθῇ ὁ υἱὸς"
+    "verse": "ὥρα ἵνα δοξασθῇ ὁ υἱὸς",
+    "verseBefore": "ὥρα ἵνα ",
+    "verseAfter": " ὁ υἱὸς"
   },
   {
     "reference": "John 12:28",
     "word": "δόξασόν",
-    "verse": "πάτερ δόξασόν σου τὸ"
+    "verse": "πάτερ δόξασόν σου τὸ",
+    "verseBefore": "πάτερ ",
+    "verseAfter": " σου τὸ"
   },
   {
     "reference": "John 12:28",
     "word": "ἐδόξασα",
-    "verse": "οὐρανοῦ Καὶ ἐδόξασα καὶ πάλιν"
+    "verse": "οὐρανοῦ Καὶ ἐδόξασα καὶ πάλιν",
+    "verseBefore": "οὐρανοῦ Καὶ ",
+    "verseAfter": " καὶ πάλιν"
   },
   {
     "reference": "John 12:28",
     "word": "δοξάσω",
-    "verse": "καὶ πάλιν δοξάσω "
+    "verse": "καὶ πάλιν δοξάσω ",
+    "verseBefore": "καὶ πάλιν ",
+    "verseAfter": " "
   },
   {
     "reference": "John 13:31",
     "word": "ἐδοξάσθη",
-    "verse": "Ἰησοῦς Νῦν ἐδοξάσθη ὁ υἱὸς"
+    "verse": "Ἰησοῦς Νῦν ἐδοξάσθη ὁ υἱὸς",
+    "verseBefore": "Ἰησοῦς Νῦν ",
+    "verseAfter": " ὁ υἱὸς"
   },
   {
     "reference": "John 13:31",
     "word": "ἐδοξάσθη",
-    "verse": "ὁ θεὸς ἐδοξάσθη ἐν αὐτῷ"
+    "verse": "ὁ θεὸς ἐδοξάσθη ἐν αὐτῷ",
+    "verseBefore": "ὁ θεὸς ",
+    "verseAfter": " ἐν αὐτῷ"
   },
   {
     "reference": "John 13:32",
     "word": "ἐδοξάσθη",
-    "verse": "ὁ θεὸς ἐδοξάσθη ἐν αὐτῷ"
+    "verse": "ὁ θεὸς ἐδοξάσθη ἐν αὐτῷ",
+    "verseBefore": "ὁ θεὸς ",
+    "verseAfter": " ἐν αὐτῷ"
   },
   {
     "reference": "John 13:32",
     "word": "δοξάσει",
-    "verse": "ὁ θεὸς δοξάσει αὐτὸν ἐν"
+    "verse": "ὁ θεὸς δοξάσει αὐτὸν ἐν",
+    "verseBefore": "ὁ θεὸς ",
+    "verseAfter": " αὐτὸν ἐν"
   },
   {
     "reference": "John 13:32",
     "word": "δοξάσει",
-    "verse": "καὶ εὐθὺς δοξάσει αὐτόν "
+    "verse": "καὶ εὐθὺς δοξάσει αὐτόν ",
+    "verseBefore": "καὶ εὐθὺς ",
+    "verseAfter": " αὐτόν "
   },
   {
     "reference": "John 14:13",
     "word": "δοξασθῇ",
-    "verse": "ποιήσω ἵνα δοξασθῇ ὁ πατὴρ"
+    "verse": "ποιήσω ἵνα δοξασθῇ ὁ πατὴρ",
+    "verseBefore": "ποιήσω ἵνα ",
+    "verseAfter": " ὁ πατὴρ"
   },
   {
     "reference": "John 15:8",
     "word": "ἐδοξάσθη",
-    "verse": "ἐν τούτῳ ἐδοξάσθη ὁ πατήρ"
+    "verse": "ἐν τούτῳ ἐδοξάσθη ὁ πατήρ",
+    "verseBefore": "ἐν τούτῳ ",
+    "verseAfter": " ὁ πατήρ"
   },
   {
     "reference": "John 16:14",
     "word": "δοξάσει",
-    "verse": "ἐκεῖνος ἐμὲ δοξάσει ὅτι ἐκ"
+    "verse": "ἐκεῖνος ἐμὲ δοξάσει ὅτι ἐκ",
+    "verseBefore": "ἐκεῖνος ἐμὲ ",
+    "verseAfter": " ὅτι ἐκ"
   },
   {
     "reference": "John 17:1",
     "word": "δόξασόν",
-    "verse": "ἡ ὥρα δόξασόν σου τὸν"
+    "verse": "ἡ ὥρα δόξασόν σου τὸν",
+    "verseBefore": "ἡ ὥρα ",
+    "verseAfter": " σου τὸν"
   },
   {
     "reference": "John 17:1",
     "word": "δοξάσῃ",
-    "verse": "ὁ υἱὸς δοξάσῃ σέ "
+    "verse": "ὁ υἱὸς δοξάσῃ σέ ",
+    "verseBefore": "ὁ υἱὸς ",
+    "verseAfter": " σέ "
   },
   {
     "reference": "John 17:4",
     "word": "ἐδόξασα",
-    "verse": "ἐγώ σε ἐδόξασα ἐπὶ τῆς"
+    "verse": "ἐγώ σε ἐδόξασα ἐπὶ τῆς",
+    "verseBefore": "ἐγώ σε ",
+    "verseAfter": " ἐπὶ τῆς"
   },
   {
     "reference": "John 17:5",
     "word": "δόξασόν",
-    "verse": "καὶ νῦν δόξασόν με σύ"
+    "verse": "καὶ νῦν δόξασόν με σύ",
+    "verseBefore": "καὶ νῦν ",
+    "verseAfter": " με σύ"
   },
   {
     "reference": "John 17:10",
     "word": "δεδόξασμαι",
-    "verse": "ἐμά καὶ δεδόξασμαι ἐν αὐτοῖς"
+    "verse": "ἐμά καὶ δεδόξασμαι ἐν αὐτοῖς",
+    "verseBefore": "ἐμά καὶ ",
+    "verseAfter": " ἐν αὐτοῖς"
   },
   {
     "reference": "John 21:19",
     "word": "δοξάσει",
-    "verse": "ποίῳ θανάτῳ δοξάσει τὸν θεόν"
+    "verse": "ποίῳ θανάτῳ δοξάσει τὸν θεόν",
+    "verseBefore": "ποίῳ θανάτῳ ",
+    "verseAfter": " τὸν θεόν"
   },
   {
     "reference": "Acts 3:13",
     "word": "ἐδόξασεν",
-    "verse": "πατέρων ἡμῶν ἐδόξασεν τὸν παῖδα"
+    "verse": "πατέρων ἡμῶν ἐδόξασεν τὸν παῖδα",
+    "verseBefore": "πατέρων ἡμῶν ",
+    "verseAfter": " τὸν παῖδα"
   },
   {
     "reference": "Acts 4:21",
     "word": "ἐδόξαζον",
-    "verse": "ὅτι πάντες ἐδόξαζον τὸν θεὸν"
+    "verse": "ὅτι πάντες ἐδόξαζον τὸν θεὸν",
+    "verseBefore": "ὅτι πάντες ",
+    "verseAfter": " τὸν θεὸν"
   },
   {
     "reference": "Acts 11:18",
     "word": "ἐδόξασαν",
-    "verse": "ἡσύχασαν καὶ ἐδόξασαν τὸν θεὸν"
+    "verse": "ἡσύχασαν καὶ ἐδόξασαν τὸν θεὸν",
+    "verseBefore": "ἡσύχασαν καὶ ",
+    "verseAfter": " τὸν θεὸν"
   },
   {
     "reference": "Acts 13:48",
     "word": "ἐδόξαζον",
-    "verse": "ἔχαιρον καὶ ἐδόξαζον τὸν λόγον"
+    "verse": "ἔχαιρον καὶ ἐδόξαζον τὸν λόγον",
+    "verseBefore": "ἔχαιρον καὶ ",
+    "verseAfter": " τὸν λόγον"
   },
   {
     "reference": "Acts 21:20",
     "word": "ἐδόξαζον",
-    "verse": "δὲ ἀκούσαντες ἐδόξαζον τὸν θεόν"
+    "verse": "δὲ ἀκούσαντες ἐδόξαζον τὸν θεόν",
+    "verseBefore": "δὲ ἀκούσαντες ",
+    "verseAfter": " τὸν θεόν"
   },
   {
     "reference": "Romans 1:21",
     "word": "ἐδόξασαν",
-    "verse": "ὡς θεὸν ἐδόξασαν ἢ ηὐχαρίστησαν"
+    "verse": "ὡς θεὸν ἐδόξασαν ἢ ηὐχαρίστησαν",
+    "verseBefore": "ὡς θεὸν ",
+    "verseAfter": " ἢ ηὐχαρίστησαν"
   },
   {
     "reference": "Romans 8:30",
     "word": "ἐδόξασεν",
-    "verse": "τούτους καὶ ἐδόξασεν "
+    "verse": "τούτους καὶ ἐδόξασεν ",
+    "verseBefore": "τούτους καὶ ",
+    "verseAfter": " "
   },
   {
     "reference": "Romans 11:13",
     "word": "δοξάζω",
-    "verse": "διακονίαν μου δοξάζω "
+    "verse": "διακονίαν μου δοξάζω ",
+    "verseBefore": "διακονίαν μου ",
+    "verseAfter": " "
   },
   {
     "reference": "Romans 15:6",
     "word": "δοξάζητε",
-    "verse": "ἑνὶ στόματι δοξάζητε τὸν θεὸν"
+    "verse": "ἑνὶ στόματι δοξάζητε τὸν θεὸν",
+    "verseBefore": "ἑνὶ στόματι ",
+    "verseAfter": " τὸν θεὸν"
   },
   {
     "reference": "Romans 15:9",
     "word": "δοξάσαι",
-    "verse": "ὑπὲρ ἐλέους δοξάσαι τὸν θεόν"
+    "verse": "ὑπὲρ ἐλέους δοξάσαι τὸν θεόν",
+    "verseBefore": "ὑπὲρ ἐλέους ",
+    "verseAfter": " τὸν θεόν"
   },
   {
     "reference": "1 Corinthians 6:20",
     "word": "δοξάσατε",
-    "verse": "γὰρ τιμῆς δοξάσατε δὴ τὸν"
+    "verse": "γὰρ τιμῆς δοξάσατε δὴ τὸν",
+    "verseBefore": "γὰρ τιμῆς ",
+    "verseAfter": " δὴ τὸν"
   },
   {
     "reference": "1 Corinthians 12:26",
     "word": "δοξάζεται",
-    "verse": "μέλη εἴτε δοξάζεται ἓν μέλος"
+    "verse": "μέλη εἴτε δοξάζεται ἓν μέλος",
+    "verseBefore": "μέλη εἴτε ",
+    "verseAfter": " ἓν μέλος"
   },
   {
     "reference": "2 Corinthians 3:10",
     "word": "δεδόξασται",
-    "verse": "γὰρ οὐ δεδόξασται τὸ δεδοξασμένον"
+    "verse": "γὰρ οὐ δεδόξασται τὸ δεδοξασμένον",
+    "verseBefore": "γὰρ οὐ ",
+    "verseAfter": " τὸ δεδοξασμένον"
   },
   {
     "reference": "2 Corinthians 3:10",
     "word": "δεδοξασμένον",
-    "verse": "δεδόξασται τὸ δεδοξασμένον ἐν τούτῳ"
+    "verse": "δεδόξασται τὸ δεδοξασμένον ἐν τούτῳ",
+    "verseBefore": "δεδόξασται τὸ ",
+    "verseAfter": " ἐν τούτῳ"
   },
   {
     "reference": "2 Corinthians 9:13",
     "word": "δοξάζοντες",
-    "verse": "διακονίας ταύτης δοξάζοντες τὸν θεὸν"
+    "verse": "διακονίας ταύτης δοξάζοντες τὸν θεὸν",
+    "verseBefore": "διακονίας ταύτης ",
+    "verseAfter": " τὸν θεὸν"
   },
   {
     "reference": "Galatians 1:24",
     "word": "ἐδόξαζον",
-    "verse": "καὶ ἐδόξαζον ἐν ἐμοὶ"
+    "verse": "καὶ ἐδόξαζον ἐν ἐμοὶ",
+    "verseBefore": "καὶ ",
+    "verseAfter": " ἐν ἐμοὶ"
   },
   {
     "reference": "2 Thessalonians 3:1",
     "word": "δοξάζηται",
-    "verse": "τρέχῃ καὶ δοξάζηται καθὼς καὶ"
+    "verse": "τρέχῃ καὶ δοξάζηται καθὼς καὶ",
+    "verseBefore": "τρέχῃ καὶ ",
+    "verseAfter": " καθὼς καὶ"
   },
   {
     "reference": "Hebrews 5:5",
     "word": "ἐδόξασεν",
-    "verse": "οὐχ ἑαυτὸν ἐδόξασεν γενηθῆναι ἀρχιερέα"
+    "verse": "οὐχ ἑαυτὸν ἐδόξασεν γενηθῆναι ἀρχιερέα",
+    "verseBefore": "οὐχ ἑαυτὸν ",
+    "verseAfter": " γενηθῆναι ἀρχιερέα"
   },
   {
     "reference": "1 Peter 1:8",
     "word": "δεδοξασμένῃ",
-    "verse": "ἀνεκλαλήτῳ καὶ δεδοξασμένῃ "
+    "verse": "ἀνεκλαλήτῳ καὶ δεδοξασμένῃ ",
+    "verseBefore": "ἀνεκλαλήτῳ καὶ ",
+    "verseAfter": " "
   },
   {
     "reference": "1 Peter 2:12",
     "word": "δοξάσωσιν",
-    "verse": "ἔργων ἐποπτεύοντες δοξάσωσιν τὸν θεὸν"
+    "verse": "ἔργων ἐποπτεύοντες δοξάσωσιν τὸν θεὸν",
+    "verseBefore": "ἔργων ἐποπτεύοντες ",
+    "verseAfter": " τὸν θεὸν"
   },
   {
     "reference": "1 Peter 4:11",
     "word": "δοξάζηται",
-    "verse": "ἐν πᾶσιν δοξάζηται ὁ θεὸς"
+    "verse": "ἐν πᾶσιν δοξάζηται ὁ θεὸς",
+    "verseBefore": "ἐν πᾶσιν ",
+    "verseAfter": " ὁ θεὸς"
   },
   {
     "reference": "1 Peter 4:14",
     "word": "δοξάζεται",
-    "verse": "δὲ ὑμᾶς δοξάζεται "
+    "verse": "δὲ ὑμᾶς δοξάζεται ",
+    "verseBefore": "δὲ ὑμᾶς ",
+    "verseAfter": " "
   },
   {
     "reference": "1 Peter 4:16",
     "word": "δοξαζέτω",
-    "verse": "μὴ αἰσχυνέσθω δοξαζέτω δὲ τὸν"
+    "verse": "μὴ αἰσχυνέσθω δοξαζέτω δὲ τὸν",
+    "verseBefore": "μὴ αἰσχυνέσθω ",
+    "verseAfter": " δὲ τὸν"
   },
   {
     "reference": "Revelation 15:4",
     "word": "δοξάσει",
-    "verse": "κύριε καὶ δοξάσει τὸ ὄνομά"
+    "verse": "κύριε καὶ δοξάσει τὸ ὄνομά",
+    "verseBefore": "κύριε καὶ ",
+    "verseAfter": " τὸ ὄνομά"
   },
   {
     "reference": "Revelation 18:7",
     "word": "ἐδόξασεν",
-    "verse": "ὅσα ἐδόξασεν αὑτὴν καὶ"
+    "verse": "ὅσα ἐδόξασεν αὑτὴν καὶ",
+    "verseBefore": "ὅσα ",
+    "verseAfter": " αὑτὴν καὶ"
   }
 ]

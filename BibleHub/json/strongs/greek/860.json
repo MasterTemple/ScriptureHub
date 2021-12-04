@@ -2,11 +2,15 @@
   {
     "reference": "Ephesians 4:16",
     "word": "ἁφῆς",
-    "verse": "διὰ πάσης ἁφῆς τῆς ἐπιχορηγίας"
+    "verse": "διὰ πάσης ἁφῆς τῆς ἐπιχορηγίας",
+    "verseBefore": "διὰ πάσης ",
+    "verseAfter": " τῆς ἐπιχορηγίας"
   },
   {
     "reference": "Colossians 2:19",
     "word": "ἁφῶν",
-    "verse": "διὰ τῶν ἁφῶν καὶ συνδέσμων"
+    "verse": "διὰ τῶν ἁφῶν καὶ συνδέσμων",
+    "verseBefore": "διὰ τῶν ",
+    "verseAfter": " καὶ συνδέσμων"
   }
 ]

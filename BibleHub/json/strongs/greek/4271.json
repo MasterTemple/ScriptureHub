@@ -2,16 +2,22 @@
   {
     "reference": "1 Timothy 5:24",
     "word": "πρόδηλοί",
-    "verse": "αἱ ἁμαρτίαι πρόδηλοί εἰσιν προάγουσαι"
+    "verse": "αἱ ἁμαρτίαι πρόδηλοί εἰσιν προάγουσαι",
+    "verseBefore": "αἱ ἁμαρτίαι ",
+    "verseAfter": " εἰσιν προάγουσαι"
   },
   {
     "reference": "1 Timothy 5:25",
     "word": "πρόδηλα",
-    "verse": "τὰ καλὰ πρόδηλα καὶ τὰ"
+    "verse": "τὰ καλὰ πρόδηλα καὶ τὰ",
+    "verseBefore": "τὰ καλὰ ",
+    "verseAfter": " καὶ τὰ"
   },
   {
     "reference": "Hebrews 7:14",
     "word": "πρόδηλον",
-    "verse": "πρόδηλον γὰρ ὅτι"
+    "verse": "πρόδηλον γὰρ ὅτι",
+    "verseBefore": "",
+    "verseAfter": " γὰρ ὅτι"
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "Hebrews 9:19",
     "word": "ἐρίου",
-    "verse": "ὕδατος καὶ ἐρίου κοκκίνου καὶ"
+    "verse": "ὕδατος καὶ ἐρίου κοκκίνου καὶ",
+    "verseBefore": "ὕδατος καὶ ",
+    "verseAfter": " κοκκίνου καὶ"
   },
   {
     "reference": "Revelation 1:14",
     "word": "ἔριον",
-    "verse": "λευκαὶ ὡς ἔριον λευκόν ὡς"
+    "verse": "λευκαὶ ὡς ἔριον λευκόν ὡς",
+    "verseBefore": "λευκαὶ ὡς ",
+    "verseAfter": " λευκόν ὡς"
   }
 ]

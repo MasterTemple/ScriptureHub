@@ -2,11 +2,15 @@
   {
     "reference": "Romans 9:20",
     "word": "πλάσαντι",
-    "verse": "πλάσμα τῷ πλάσαντι Τί με"
+    "verse": "πλάσμα τῷ πλάσαντι Τί με",
+    "verseBefore": "πλάσμα τῷ ",
+    "verseAfter": " Τί με"
   },
   {
     "reference": "1 Timothy 2:13",
     "word": "ἐπλάσθη",
-    "verse": "γὰρ πρῶτος ἐπλάσθη εἶτα Εὕα"
+    "verse": "γὰρ πρῶτος ἐπλάσθη εἶτα Εὕα",
+    "verseBefore": "γὰρ πρῶτος ",
+    "verseAfter": " εἶτα Εὕα"
   }
 ]

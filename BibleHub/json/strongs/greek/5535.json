@@ -2,26 +2,36 @@
   {
     "reference": "Matthew 6:32",
     "word": "χρῄζετε",
-    "verse": "οὐράνιος ὅτι χρῄζετε τούτων ἁπάντων"
+    "verse": "οὐράνιος ὅτι χρῄζετε τούτων ἁπάντων",
+    "verseBefore": "οὐράνιος ὅτι ",
+    "verseAfter": " τούτων ἁπάντων"
   },
   {
     "reference": "Luke 11:8",
     "word": "χρῄζει",
-    "verse": "αὐτῷ ὅσων χρῄζει "
+    "verse": "αὐτῷ ὅσων χρῄζει ",
+    "verseBefore": "αὐτῷ ὅσων ",
+    "verseAfter": " "
   },
   {
     "reference": "Luke 12:30",
     "word": "χρῄζετε",
-    "verse": "οἶδεν ὅτι χρῄζετε τούτων "
+    "verse": "οἶδεν ὅτι χρῄζετε τούτων ",
+    "verseBefore": "οἶδεν ὅτι ",
+    "verseAfter": " τούτων "
   },
   {
     "reference": "Romans 16:2",
     "word": "χρῄζῃ",
-    "verse": "ἂν ὑμῶν χρῄζῃ πράγματι καὶ"
+    "verse": "ἂν ὑμῶν χρῄζῃ πράγματι καὶ",
+    "verseBefore": "ἂν ὑμῶν ",
+    "verseAfter": " πράγματι καὶ"
   },
   {
     "reference": "2 Corinthians 3:1",
     "word": "χρῄζομεν",
-    "verse": "ἢ μὴ χρῄζομεν ὥς τινες"
+    "verse": "ἢ μὴ χρῄζομεν ὥς τινες",
+    "verseBefore": "ἢ μὴ ",
+    "verseAfter": " ὥς τινες"
   }
 ]

@@ -2,36 +2,50 @@
   {
     "reference": "1 Corinthians 1:11",
     "word": "ἐδηλώθη",
-    "verse": "ἐδηλώθη γάρ μοι"
+    "verse": "ἐδηλώθη γάρ μοι",
+    "verseBefore": "",
+    "verseAfter": " γάρ μοι"
   },
   {
     "reference": "1 Corinthians 3:13",
     "word": "δηλώσει",
-    "verse": "γὰρ ἡμέρα δηλώσει ὅτι ἐν"
+    "verse": "γὰρ ἡμέρα δηλώσει ὅτι ἐν",
+    "verseBefore": "γὰρ ἡμέρα ",
+    "verseAfter": " ὅτι ἐν"
   },
   {
     "reference": "Colossians 1:8",
     "word": "δηλώσας",
-    "verse": "ὁ καὶ δηλώσας ἡμῖν τὴν"
+    "verse": "ὁ καὶ δηλώσας ἡμῖν τὴν",
+    "verseBefore": "ὁ καὶ ",
+    "verseAfter": " ἡμῖν τὴν"
   },
   {
     "reference": "Hebrews 9:8",
     "word": "δηλοῦντος",
-    "verse": "τοῦτο δηλοῦντος τοῦ πνεύματος"
+    "verse": "τοῦτο δηλοῦντος τοῦ πνεύματος",
+    "verseBefore": "τοῦτο ",
+    "verseAfter": " τοῦ πνεύματος"
   },
   {
     "reference": "Hebrews 12:27",
     "word": "δηλοῖ",
-    "verse": "Ἔτι ἅπαξ δηλοῖ τὴν τῶν"
+    "verse": "Ἔτι ἅπαξ δηλοῖ τὴν τῶν",
+    "verseBefore": "Ἔτι ἅπαξ ",
+    "verseAfter": " τὴν τῶν"
   },
   {
     "reference": "1 Peter 1:11",
     "word": "ἐδήλου",
-    "verse": "ποῖον καιρὸν ἐδήλου τὸ ἐν"
+    "verse": "ποῖον καιρὸν ἐδήλου τὸ ἐν",
+    "verseBefore": "ποῖον καιρὸν ",
+    "verseAfter": " τὸ ἐν"
   },
   {
     "reference": "2 Peter 1:14",
     "word": "ἐδήλωσέν",
-    "verse": "Ἰησοῦς Χριστὸς ἐδήλωσέν μοι "
+    "verse": "Ἰησοῦς Χριστὸς ἐδήλωσέν μοι ",
+    "verseBefore": "Ἰησοῦς Χριστὸς ",
+    "verseAfter": " μοι "
   }
 ]

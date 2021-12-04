@@ -2,21 +2,29 @@
   {
     "reference": "Acts 22:2",
     "word": "ἡσυχίαν",
-    "verse": "μᾶλλον παρέσχον ἡσυχίαν καί φησιν"
+    "verse": "μᾶλλον παρέσχον ἡσυχίαν καί φησιν",
+    "verseBefore": "μᾶλλον παρέσχον ",
+    "verseAfter": " καί φησιν"
   },
   {
     "reference": "2 Thessalonians 3:12",
     "word": "ἡσυχίας",
-    "verse": "ἵνα μετὰ ἡσυχίας ἐργαζόμενοι τὸν"
+    "verse": "ἵνα μετὰ ἡσυχίας ἐργαζόμενοι τὸν",
+    "verseBefore": "ἵνα μετὰ ",
+    "verseAfter": " ἐργαζόμενοι τὸν"
   },
   {
     "reference": "1 Timothy 2:11",
     "word": "ἡσυχίᾳ",
-    "verse": "Γυνὴ ἐν ἡσυχίᾳ μανθανέτω ἐν"
+    "verse": "Γυνὴ ἐν ἡσυχίᾳ μανθανέτω ἐν",
+    "verseBefore": "Γυνὴ ἐν ",
+    "verseAfter": " μανθανέτω ἐν"
   },
   {
     "reference": "1 Timothy 2:12",
     "word": "ἡσυχίᾳ",
-    "verse": "εἶναι ἐν ἡσυχίᾳ "
+    "verse": "εἶναι ἐν ἡσυχίᾳ ",
+    "verseBefore": "εἶναι ἐν ",
+    "verseAfter": " "
   }
 ]

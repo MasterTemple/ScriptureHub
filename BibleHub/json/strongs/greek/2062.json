@@ -2,21 +2,29 @@
   {
     "reference": "Acts 10:12",
     "word": "ἑρπετὰ",
-    "verse": "τετράποδα καὶ ἑρπετὰ τῆς γῆς"
+    "verse": "τετράποδα καὶ ἑρπετὰ τῆς γῆς",
+    "verseBefore": "τετράποδα καὶ ",
+    "verseAfter": " τῆς γῆς"
   },
   {
     "reference": "Acts 11:6",
     "word": "ἑρπετὰ",
-    "verse": "καὶ τὰ ἑρπετὰ καὶ τὰ"
+    "verse": "καὶ τὰ ἑρπετὰ καὶ τὰ",
+    "verseBefore": "καὶ τὰ ",
+    "verseAfter": " καὶ τὰ"
   },
   {
     "reference": "Romans 1:23",
     "word": "ἑρπετῶν",
-    "verse": "τετραπόδων καὶ ἑρπετῶν "
+    "verse": "τετραπόδων καὶ ἑρπετῶν ",
+    "verseBefore": "τετραπόδων καὶ ",
+    "verseAfter": " "
   },
   {
     "reference": "James 3:7",
     "word": "ἑρπετῶν",
-    "verse": "καὶ πετεινῶν ἑρπετῶν τε καὶ"
+    "verse": "καὶ πετεινῶν ἑρπετῶν τε καὶ",
+    "verseBefore": "καὶ πετεινῶν ",
+    "verseAfter": " τε καὶ"
   }
 ]

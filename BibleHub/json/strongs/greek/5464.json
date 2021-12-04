@@ -2,21 +2,29 @@
   {
     "reference": "Revelation 8:7",
     "word": "χάλαζα",
-    "verse": "καὶ ἐγένετο χάλαζα καὶ πῦρ"
+    "verse": "καὶ ἐγένετο χάλαζα καὶ πῦρ",
+    "verseBefore": "καὶ ἐγένετο ",
+    "verseAfter": " καὶ πῦρ"
   },
   {
     "reference": "Revelation 11:19",
     "word": "χάλαζα",
-    "verse": "σεισμὸς καὶ χάλαζα μεγάλη "
+    "verse": "σεισμὸς καὶ χάλαζα μεγάλη ",
+    "verseBefore": "σεισμὸς καὶ ",
+    "verseAfter": " μεγάλη "
   },
   {
     "reference": "Revelation 16:21",
     "word": "χάλαζα",
-    "verse": "καὶ χάλαζα μεγάλη ὡς"
+    "verse": "καὶ χάλαζα μεγάλη ὡς",
+    "verseBefore": "καὶ ",
+    "verseAfter": " μεγάλη ὡς"
   },
   {
     "reference": "Revelation 16:21",
     "word": "χαλάζης",
-    "verse": "πληγῆς τῆς χαλάζης ὅτι μεγάλη"
+    "verse": "πληγῆς τῆς χαλάζης ὅτι μεγάλη",
+    "verseBefore": "πληγῆς τῆς ",
+    "verseAfter": " ὅτι μεγάλη"
   }
 ]

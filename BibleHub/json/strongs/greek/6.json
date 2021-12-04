@@ -2,21 +2,29 @@
   {
     "reference": "Matthew 23:35",
     "word": "Ἅβελ",
-    "verse": "τοῦ αἵματος Ἅβελ τοῦ δικαίου"
+    "verse": "τοῦ αἵματος Ἅβελ τοῦ δικαίου",
+    "verseBefore": "τοῦ αἵματος ",
+    "verseAfter": " τοῦ δικαίου"
   },
   {
     "reference": "Luke 11:51",
     "word": "Ἅβελ",
-    "verse": "ἀπὸ αἵματος Ἅβελ ἕως αἵματος"
+    "verse": "ἀπὸ αἵματος Ἅβελ ἕως αἵματος",
+    "verseBefore": "ἀπὸ αἵματος ",
+    "verseAfter": " ἕως αἵματος"
   },
   {
     "reference": "Hebrews 11:4",
     "word": "Ἅβελ",
-    "verse": "πλείονα θυσίαν Ἅβελ παρὰ Καὶν"
+    "verse": "πλείονα θυσίαν Ἅβελ παρὰ Καὶν",
+    "verseBefore": "πλείονα θυσίαν ",
+    "verseAfter": " παρὰ Καὶν"
   },
   {
     "reference": "Hebrews 12:24",
     "word": "Ἅβελ",
-    "verse": "παρὰ τὸν Ἅβελ "
+    "verse": "παρὰ τὸν Ἅβελ ",
+    "verseBefore": "παρὰ τὸν ",
+    "verseAfter": " "
   }
 ]

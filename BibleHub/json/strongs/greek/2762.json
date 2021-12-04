@@ -2,11 +2,15 @@
   {
     "reference": "Matthew 5:18",
     "word": "κεραία",
-    "verse": "ἢ μία κεραία οὐ μὴ"
+    "verse": "ἢ μία κεραία οὐ μὴ",
+    "verseBefore": "ἢ μία ",
+    "verseAfter": " οὐ μὴ"
   },
   {
     "reference": "Luke 16:17",
     "word": "κεραίαν",
-    "verse": "νόμου μίαν κεραίαν πεσεῖν "
+    "verse": "νόμου μίαν κεραίαν πεσεῖν ",
+    "verseBefore": "νόμου μίαν ",
+    "verseAfter": " πεσεῖν "
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "Luke 6:21",
     "word": "γελάσετε",
-    "verse": "νῦν ὅτι γελάσετε "
+    "verse": "νῦν ὅτι γελάσετε ",
+    "verseBefore": "νῦν ὅτι ",
+    "verseAfter": " "
   },
   {
     "reference": "Luke 6:25",
     "word": "γελῶντες",
-    "verse": "οὐαί οἱ γελῶντες νῦν ὅτι"
+    "verse": "οὐαί οἱ γελῶντες νῦν ὅτι",
+    "verseBefore": "οὐαί οἱ ",
+    "verseAfter": " νῦν ὅτι"
   }
 ]

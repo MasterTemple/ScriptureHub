@@ -2,26 +2,36 @@
   {
     "reference": "Acts 24:23",
     "word": "ἄνεσιν",
-    "verse": "ἔχειν τε ἄνεσιν καὶ μηδένα"
+    "verse": "ἔχειν τε ἄνεσιν καὶ μηδένα",
+    "verseBefore": "ἔχειν τε ",
+    "verseAfter": " καὶ μηδένα"
   },
   {
     "reference": "2 Corinthians 2:13",
     "word": "ἄνεσιν",
-    "verse": "οὐκ ἔσχηκα ἄνεσιν τῷ πνεύματί"
+    "verse": "οὐκ ἔσχηκα ἄνεσιν τῷ πνεύματί",
+    "verseBefore": "οὐκ ἔσχηκα ",
+    "verseAfter": " τῷ πνεύματί"
   },
   {
     "reference": "2 Corinthians 7:5",
     "word": "ἄνεσιν",
-    "verse": "οὐδεμίαν ἔσχηκεν ἄνεσιν ἡ σὰρξ"
+    "verse": "οὐδεμίαν ἔσχηκεν ἄνεσιν ἡ σὰρξ",
+    "verseBefore": "οὐδεμίαν ἔσχηκεν ",
+    "verseAfter": " ἡ σὰρξ"
   },
   {
     "reference": "2 Corinthians 8:13",
     "word": "ἄνεσις",
-    "verse": "ἵνα ἄλλοις ἄνεσις ὑμῖν θλίψις"
+    "verse": "ἵνα ἄλλοις ἄνεσις ὑμῖν θλίψις",
+    "verseBefore": "ἵνα ἄλλοις ",
+    "verseAfter": " ὑμῖν θλίψις"
   },
   {
     "reference": "2 Thessalonians 1:7",
     "word": "ἄνεσιν",
-    "verse": "τοῖς θλιβομένοις ἄνεσιν μεθ' ἡμῶν"
+    "verse": "τοῖς θλιβομένοις ἄνεσιν μεθ' ἡμῶν",
+    "verseBefore": "τοῖς θλιβομένοις ",
+    "verseAfter": " μεθ' ἡμῶν"
   }
 ]

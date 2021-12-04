@@ -2,11 +2,15 @@
   {
     "reference": "Matthew 1:7",
     "word": "Ἀσάφ",
-    "verse": "ἐγέννησεν τὸν Ἀσάφ "
+    "verse": "ἐγέννησεν τὸν Ἀσάφ ",
+    "verseBefore": "ἐγέννησεν τὸν ",
+    "verseAfter": " "
   },
   {
     "reference": "Matthew 1:8",
     "word": "Ἀσὰφ",
-    "verse": "Ἀσὰφ δὲ ἐγέννησεν"
+    "verse": "Ἀσὰφ δὲ ἐγέννησεν",
+    "verseBefore": "",
+    "verseAfter": " δὲ ἐγέννησεν"
   }
 ]

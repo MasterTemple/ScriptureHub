@@ -2,16 +2,22 @@
   {
     "reference": "Acts 18:14",
     "word": "ἀδίκημά",
-    "verse": "μὲν ἦν ἀδίκημά τι ἢ"
+    "verse": "μὲν ἦν ἀδίκημά τι ἢ",
+    "verseBefore": "μὲν ἦν ",
+    "verseAfter": " τι ἢ"
   },
   {
     "reference": "Acts 24:20",
     "word": "ἀδίκημα",
-    "verse": "τί εὗρον ἀδίκημα στάντος μου"
+    "verse": "τί εὗρον ἀδίκημα στάντος μου",
+    "verseBefore": "τί εὗρον ",
+    "verseAfter": " στάντος μου"
   },
   {
     "reference": "Revelation 18:5",
     "word": "ἀδικήματα",
-    "verse": "θεὸς τὰ ἀδικήματα αὐτῆς "
+    "verse": "θεὸς τὰ ἀδικήματα αὐτῆς ",
+    "verseBefore": "θεὸς τὰ ",
+    "verseAfter": " αὐτῆς "
   }
 ]

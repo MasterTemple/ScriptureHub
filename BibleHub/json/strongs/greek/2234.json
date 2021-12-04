@@ -2,16 +2,22 @@
   {
     "reference": "Mark 6:20",
     "word": "ἡδέως",
-    "verse": "ἠπόρει καὶ ἡδέως αὐτοῦ ἤκουεν"
+    "verse": "ἠπόρει καὶ ἡδέως αὐτοῦ ἤκουεν",
+    "verseBefore": "ἠπόρει καὶ ",
+    "verseAfter": " αὐτοῦ ἤκουεν"
   },
   {
     "reference": "Mark 12:37",
     "word": "ἡδέως",
-    "verse": "ἤκουεν αὐτοῦ ἡδέως "
+    "verse": "ἤκουεν αὐτοῦ ἡδέως ",
+    "verseBefore": "ἤκουεν αὐτοῦ ",
+    "verseAfter": " "
   },
   {
     "reference": "2 Corinthians 11:19",
     "word": "ἡδέως",
-    "verse": "ἡδέως γὰρ ἀνέχεσθε"
+    "verse": "ἡδέως γὰρ ἀνέχεσθε",
+    "verseBefore": "",
+    "verseAfter": " γὰρ ἀνέχεσθε"
   }
 ]

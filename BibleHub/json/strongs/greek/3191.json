@@ -2,11 +2,15 @@
   {
     "reference": "Acts 4:25",
     "word": "ἐμελέτησαν",
-    "verse": "καὶ λαοὶ ἐμελέτησαν κενά "
+    "verse": "καὶ λαοὶ ἐμελέτησαν κενά ",
+    "verseBefore": "καὶ λαοὶ ",
+    "verseAfter": " κενά "
   },
   {
     "reference": "1 Timothy 4:15",
     "word": "μελέτα",
-    "verse": "ταῦτα μελέτα ἐν τούτοις"
+    "verse": "ταῦτα μελέτα ἐν τούτοις",
+    "verseBefore": "ταῦτα ",
+    "verseAfter": " ἐν τούτοις"
   }
 ]

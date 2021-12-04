@@ -2,16 +2,22 @@
   {
     "reference": "John 12:42",
     "word": "Ὅμως",
-    "verse": "Ὅμως μέντοι καὶ"
+    "verse": "Ὅμως μέντοι καὶ",
+    "verseBefore": "",
+    "verseAfter": " μέντοι καὶ"
   },
   {
     "reference": "1 Corinthians 14:7",
     "word": "ὅμως",
-    "verse": "ὅμως τὰ ἄψυχα"
+    "verse": "ὅμως τὰ ἄψυχα",
+    "verseBefore": "",
+    "verseAfter": " τὰ ἄψυχα"
   },
   {
     "reference": "Galatians 3:15",
     "word": "ὅμως",
-    "verse": "ἄνθρωπον λέγω ὅμως ἀνθρώπου κεκυρωμένην"
+    "verse": "ἄνθρωπον λέγω ὅμως ἀνθρώπου κεκυρωμένην",
+    "verseBefore": "ἄνθρωπον λέγω ",
+    "verseAfter": " ἀνθρώπου κεκυρωμένην"
   }
 ]

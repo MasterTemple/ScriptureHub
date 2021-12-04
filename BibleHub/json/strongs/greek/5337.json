@@ -2,31 +2,43 @@
   {
     "reference": "John 3:20",
     "word": "φαῦλα",
-    "verse": "γὰρ ὁ φαῦλα πράσσων μισεῖ"
+    "verse": "γὰρ ὁ φαῦλα πράσσων μισεῖ",
+    "verseBefore": "γὰρ ὁ ",
+    "verseAfter": " πράσσων μισεῖ"
   },
   {
     "reference": "John 5:29",
     "word": "φαῦλα",
-    "verse": "δὲ τὰ φαῦλα πράξαντες εἰς"
+    "verse": "δὲ τὰ φαῦλα πράξαντες εἰς",
+    "verseBefore": "δὲ τὰ ",
+    "verseAfter": " πράξαντες εἰς"
   },
   {
     "reference": "Romans 9:11",
     "word": "φαῦλον",
-    "verse": "ἀγαθὸν ἢ φαῦλον ἵνα ἡ"
+    "verse": "ἀγαθὸν ἢ φαῦλον ἵνα ἡ",
+    "verseBefore": "ἀγαθὸν ἢ ",
+    "verseAfter": " ἵνα ἡ"
   },
   {
     "reference": "2 Corinthians 5:10",
     "word": "φαῦλον",
-    "verse": "ἀγαθὸν εἴτε φαῦλον "
+    "verse": "ἀγαθὸν εἴτε φαῦλον ",
+    "verseBefore": "ἀγαθὸν εἴτε ",
+    "verseAfter": " "
   },
   {
     "reference": "Titus 2:8",
     "word": "φαῦλον",
-    "verse": "περὶ ἡμῶν φαῦλον "
+    "verse": "περὶ ἡμῶν φαῦλον ",
+    "verseBefore": "περὶ ἡμῶν ",
+    "verseAfter": " "
   },
   {
     "reference": "James 3:16",
     "word": "φαῦλον",
-    "verse": "καὶ πᾶν φαῦλον πρᾶγμα "
+    "verse": "καὶ πᾶν φαῦλον πρᾶγμα ",
+    "verseBefore": "καὶ πᾶν ",
+    "verseAfter": " πρᾶγμα "
   }
 ]

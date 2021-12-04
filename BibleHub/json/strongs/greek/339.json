@@ -2,11 +2,15 @@
   {
     "reference": "Luke 7:15",
     "word": "ἀνεκάθισεν",
-    "verse": "καὶ ἀνεκάθισεν ὁ νεκρὸς"
+    "verse": "καὶ ἀνεκάθισεν ὁ νεκρὸς",
+    "verseBefore": "καὶ ",
+    "verseAfter": " ὁ νεκρὸς"
   },
   {
     "reference": "Acts 9:40",
     "word": "ἀνεκάθισεν",
-    "verse": "τὸν Πέτρον ἀνεκάθισεν "
+    "verse": "τὸν Πέτρον ἀνεκάθισεν ",
+    "verseBefore": "τὸν Πέτρον ",
+    "verseAfter": " "
   }
 ]

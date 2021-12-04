@@ -2,21 +2,29 @@
   {
     "reference": "Matthew 26:73",
     "word": "λαλιά",
-    "verse": "γὰρ ἡ λαλιά σου δῆλόν"
+    "verse": "γὰρ ἡ λαλιά σου δῆλόν",
+    "verseBefore": "γὰρ ἡ ",
+    "verseAfter": " σου δῆλόν"
   },
   {
     "reference": "Mark 14:70",
     "word": "λαλιά",
-    "verse": "καὶ ἡ λαλιά σου ὁμοιάζει"
+    "verse": "καὶ ἡ λαλιά σου ὁμοιάζει",
+    "verseBefore": "καὶ ἡ ",
+    "verseAfter": " σου ὁμοιάζει"
   },
   {
     "reference": "John 4:42",
     "word": "λαλιὰν",
-    "verse": "τὴν σὴν λαλιὰν πιστεύομεν αὐτοὶ"
+    "verse": "τὴν σὴν λαλιὰν πιστεύομεν αὐτοὶ",
+    "verseBefore": "τὴν σὴν ",
+    "verseAfter": " πιστεύομεν αὐτοὶ"
   },
   {
     "reference": "John 8:43",
     "word": "λαλιὰν",
-    "verse": "τί τὴν λαλιὰν τὴν ἐμὴν"
+    "verse": "τί τὴν λαλιὰν τὴν ἐμὴν",
+    "verseBefore": "τί τὴν ",
+    "verseAfter": " τὴν ἐμὴν"
   }
 ]

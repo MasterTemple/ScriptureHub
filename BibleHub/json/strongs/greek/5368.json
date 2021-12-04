@@ -2,126 +2,176 @@
   {
     "reference": "Matthew 6:5",
     "word": "φιλοῦσιν",
-    "verse": "ὑποκριταί ὅτι φιλοῦσιν ἐν ταῖς"
+    "verse": "ὑποκριταί ὅτι φιλοῦσιν ἐν ταῖς",
+    "verseBefore": "ὑποκριταί ὅτι ",
+    "verseAfter": " ἐν ταῖς"
   },
   {
     "reference": "Matthew 10:37",
     "word": "φιλῶν",
-    "verse": "Ὁ φιλῶν πατέρα ἢ"
+    "verse": "Ὁ φιλῶν πατέρα ἢ",
+    "verseBefore": "Ὁ ",
+    "verseAfter": " πατέρα ἢ"
   },
   {
     "reference": "Matthew 10:37",
     "word": "φιλῶν",
-    "verse": "καὶ ὁ φιλῶν υἱὸν ἢ"
+    "verse": "καὶ ὁ φιλῶν υἱὸν ἢ",
+    "verseBefore": "καὶ ὁ ",
+    "verseAfter": " υἱὸν ἢ"
   },
   {
     "reference": "Matthew 23:6",
     "word": "φιλοῦσιν",
-    "verse": "φιλοῦσιν δὲ τὴν"
+    "verse": "φιλοῦσιν δὲ τὴν",
+    "verseBefore": "",
+    "verseAfter": " δὲ τὴν"
   },
   {
     "reference": "Matthew 26:48",
     "word": "φιλήσω",
-    "verse": "Ὃν ἂν φιλήσω αὐτός ἐστιν"
+    "verse": "Ὃν ἂν φιλήσω αὐτός ἐστιν",
+    "verseBefore": "Ὃν ἂν ",
+    "verseAfter": " αὐτός ἐστιν"
   },
   {
     "reference": "Mark 14:44",
     "word": "φιλήσω",
-    "verse": "Ὃν ἂν φιλήσω αὐτός ἐστιν"
+    "verse": "Ὃν ἂν φιλήσω αὐτός ἐστιν",
+    "verseBefore": "Ὃν ἂν ",
+    "verseAfter": " αὐτός ἐστιν"
   },
   {
     "reference": "Luke 20:46",
     "word": "φιλούντων",
-    "verse": "στολαῖς καὶ φιλούντων ἀσπασμοὺς ἐν"
+    "verse": "στολαῖς καὶ φιλούντων ἀσπασμοὺς ἐν",
+    "verseBefore": "στολαῖς καὶ ",
+    "verseAfter": " ἀσπασμοὺς ἐν"
   },
   {
     "reference": "Luke 22:47",
     "word": "φιλῆσαι",
-    "verse": "τῷ Ἰησοῦ φιλῆσαι αὐτόν "
+    "verse": "τῷ Ἰησοῦ φιλῆσαι αὐτόν ",
+    "verseBefore": "τῷ Ἰησοῦ ",
+    "verseAfter": " αὐτόν "
   },
   {
     "reference": "John 5:20",
     "word": "φιλεῖ",
-    "verse": "γὰρ πατὴρ φιλεῖ τὸν υἱὸν"
+    "verse": "γὰρ πατὴρ φιλεῖ τὸν υἱὸν",
+    "verseBefore": "γὰρ πατὴρ ",
+    "verseAfter": " τὸν υἱὸν"
   },
   {
     "reference": "John 11:3",
     "word": "φιλεῖς",
-    "verse": "ἴδε ὃν φιλεῖς ἀσθενεῖ "
+    "verse": "ἴδε ὃν φιλεῖς ἀσθενεῖ ",
+    "verseBefore": "ἴδε ὃν ",
+    "verseAfter": " ἀσθενεῖ "
   },
   {
     "reference": "John 11:36",
     "word": "ἐφίλει",
-    "verse": "Ἴδε πῶς ἐφίλει αὐτόν "
+    "verse": "Ἴδε πῶς ἐφίλει αὐτόν ",
+    "verseBefore": "Ἴδε πῶς ",
+    "verseAfter": " αὐτόν "
   },
   {
     "reference": "John 12:25",
     "word": "φιλῶν",
-    "verse": "ὁ φιλῶν τὴν ψυχὴν"
+    "verse": "ὁ φιλῶν τὴν ψυχὴν",
+    "verseBefore": "ὁ ",
+    "verseAfter": " τὴν ψυχὴν"
   },
   {
     "reference": "John 15:19",
     "word": "ἐφίλει",
-    "verse": "τὸ ἴδιον ἐφίλει ὅτι δὲ"
+    "verse": "τὸ ἴδιον ἐφίλει ὅτι δὲ",
+    "verseBefore": "τὸ ἴδιον ",
+    "verseAfter": " ὅτι δὲ"
   },
   {
     "reference": "John 16:27",
     "word": "φιλεῖ",
-    "verse": "ὁ πατὴρ φιλεῖ ὑμᾶς ὅτι"
+    "verse": "ὁ πατὴρ φιλεῖ ὑμᾶς ὅτι",
+    "verseBefore": "ὁ πατὴρ ",
+    "verseAfter": " ὑμᾶς ὅτι"
   },
   {
     "reference": "John 16:27",
     "word": "πεφιλήκατε",
-    "verse": "ὑμεῖς ἐμὲ πεφιλήκατε καὶ πεπιστεύκατε"
+    "verse": "ὑμεῖς ἐμὲ πεφιλήκατε καὶ πεπιστεύκατε",
+    "verseBefore": "ὑμεῖς ἐμὲ ",
+    "verseAfter": " καὶ πεπιστεύκατε"
   },
   {
     "reference": "John 20:2",
     "word": "ἐφίλει",
-    "verse": "μαθητὴν ὃν ἐφίλει ὁ Ἰησοῦς"
+    "verse": "μαθητὴν ὃν ἐφίλει ὁ Ἰησοῦς",
+    "verseBefore": "μαθητὴν ὃν ",
+    "verseAfter": " ὁ Ἰησοῦς"
   },
   {
     "reference": "John 21:15",
     "word": "φιλῶ",
-    "verse": "οἶδας ὅτι φιλῶ σε λέγει"
+    "verse": "οἶδας ὅτι φιλῶ σε λέγει",
+    "verseBefore": "οἶδας ὅτι ",
+    "verseAfter": " σε λέγει"
   },
   {
     "reference": "John 21:16",
     "word": "φιλῶ",
-    "verse": "οἶδας ὅτι φιλῶ σε λέγει"
+    "verse": "οἶδας ὅτι φιλῶ σε λέγει",
+    "verseBefore": "οἶδας ὅτι ",
+    "verseAfter": " σε λέγει"
   },
   {
     "reference": "John 21:17",
     "word": "φιλεῖς",
-    "verse": "Σίμων Ἰωάννου φιλεῖς με ἐλυπήθη"
+    "verse": "Σίμων Ἰωάννου φιλεῖς με ἐλυπήθη",
+    "verseBefore": "Σίμων Ἰωάννου ",
+    "verseAfter": " με ἐλυπήθη"
   },
   {
     "reference": "John 21:17",
     "word": "Φιλεῖς",
-    "verse": "τὸ τρίτον Φιλεῖς με καὶ"
+    "verse": "τὸ τρίτον Φιλεῖς με καὶ",
+    "verseBefore": "τὸ τρίτον ",
+    "verseAfter": " με καὶ"
   },
   {
     "reference": "John 21:17",
     "word": "φιλῶ",
-    "verse": "γινώσκεις ὅτι φιλῶ σε λέγει"
+    "verse": "γινώσκεις ὅτι φιλῶ σε λέγει",
+    "verseBefore": "γινώσκεις ὅτι ",
+    "verseAfter": " σε λέγει"
   },
   {
     "reference": "1 Corinthians 16:22",
     "word": "φιλεῖ",
-    "verse": "τις οὐ φιλεῖ τὸν κύριον"
+    "verse": "τις οὐ φιλεῖ τὸν κύριον",
+    "verseBefore": "τις οὐ ",
+    "verseAfter": " τὸν κύριον"
   },
   {
     "reference": "Titus 3:15",
     "word": "φιλοῦντας",
-    "verse": "Ἄσπασαι τοὺς φιλοῦντας ἡμᾶς ἐν"
+    "verse": "Ἄσπασαι τοὺς φιλοῦντας ἡμᾶς ἐν",
+    "verseBefore": "Ἄσπασαι τοὺς ",
+    "verseAfter": " ἡμᾶς ἐν"
   },
   {
     "reference": "Revelation 3:19",
     "word": "φιλῶ",
-    "verse": "ὅσους ἐὰν φιλῶ ἐλέγχω καὶ"
+    "verse": "ὅσους ἐὰν φιλῶ ἐλέγχω καὶ",
+    "verseBefore": "ὅσους ἐὰν ",
+    "verseAfter": " ἐλέγχω καὶ"
   },
   {
     "reference": "Revelation 22:15",
     "word": "φιλῶν",
-    "verse": "καὶ πᾶς φιλῶν καὶ ποιῶν"
+    "verse": "καὶ πᾶς φιλῶν καὶ ποιῶν",
+    "verseBefore": "καὶ πᾶς ",
+    "verseAfter": " καὶ ποιῶν"
   }
 ]

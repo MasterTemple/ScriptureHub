@@ -2,16 +2,22 @@
   {
     "reference": "Luke 15:17",
     "word": "μίσθιοι",
-    "verse": "ἔφη Πόσοι μίσθιοι τοῦ πατρός"
+    "verse": "ἔφη Πόσοι μίσθιοι τοῦ πατρός",
+    "verseBefore": "ἔφη Πόσοι ",
+    "verseAfter": " τοῦ πατρός"
   },
   {
     "reference": "Luke 15:19",
     "word": "μισθίων",
-    "verse": "ἕνα τῶν μισθίων σου "
+    "verse": "ἕνα τῶν μισθίων σου ",
+    "verseBefore": "ἕνα τῶν ",
+    "verseAfter": " σου "
   },
   {
     "reference": "Luke 15:21",
     "word": "μισθίων",
-    "verse": "ἕνα τῶν μισθίων σου "
+    "verse": "ἕνα τῶν μισθίων σου ",
+    "verseBefore": "ἕνα τῶν ",
+    "verseAfter": " σου "
   }
 ]

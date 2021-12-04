@@ -2,16 +2,22 @@
   {
     "reference": "Acts 8:32",
     "word": "σφαγὴν",
-    "verse": "πρόβατον ἐπὶ σφαγὴν ἤχθη καὶ"
+    "verse": "πρόβατον ἐπὶ σφαγὴν ἤχθη καὶ",
+    "verseBefore": "πρόβατον ἐπὶ ",
+    "verseAfter": " ἤχθη καὶ"
   },
   {
     "reference": "Romans 8:36",
     "word": "σφαγῆς",
-    "verse": "ὡς πρόβατα σφαγῆς "
+    "verse": "ὡς πρόβατα σφαγῆς ",
+    "verseBefore": "ὡς πρόβατα ",
+    "verseAfter": " "
   },
   {
     "reference": "James 5:5",
     "word": "σφαγῆς",
-    "verse": "ἐν ἡμέρᾳ σφαγῆς "
+    "verse": "ἐν ἡμέρᾳ σφαγῆς ",
+    "verseBefore": "ἐν ἡμέρᾳ ",
+    "verseAfter": " "
   }
 ]

@@ -2,16 +2,22 @@
   {
     "reference": "Mark 6:31",
     "word": "εὐκαίρουν",
-    "verse": "οὐδὲ φαγεῖν εὐκαίρουν "
+    "verse": "οὐδὲ φαγεῖν εὐκαίρουν ",
+    "verseBefore": "οὐδὲ φαγεῖν ",
+    "verseAfter": " "
   },
   {
     "reference": "Acts 17:21",
     "word": "ηὐκαίρουν",
-    "verse": "οὐδὲν ἕτερον ηὐκαίρουν ἢ λέγειν"
+    "verse": "οὐδὲν ἕτερον ηὐκαίρουν ἢ λέγειν",
+    "verseBefore": "οὐδὲν ἕτερον ",
+    "verseAfter": " ἢ λέγειν"
   },
   {
     "reference": "1 Corinthians 16:12",
     "word": "εὐκαιρήσῃ",
-    "verse": "δὲ ὅταν εὐκαιρήσῃ "
+    "verse": "δὲ ὅταν εὐκαιρήσῃ ",
+    "verseBefore": "δὲ ὅταν ",
+    "verseAfter": " "
   }
 ]

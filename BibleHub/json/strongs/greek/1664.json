@@ -2,11 +2,15 @@
   {
     "reference": "Matthew 1:14",
     "word": "Ἐλιούδ",
-    "verse": "ἐγέννησεν τὸν Ἐλιούδ "
+    "verse": "ἐγέννησεν τὸν Ἐλιούδ ",
+    "verseBefore": "ἐγέννησεν τὸν ",
+    "verseAfter": " "
   },
   {
     "reference": "Matthew 1:15",
     "word": "Ἐλιοὺδ",
-    "verse": "Ἐλιοὺδ δὲ ἐγέννησεν"
+    "verse": "Ἐλιοὺδ δὲ ἐγέννησεν",
+    "verseBefore": "",
+    "verseAfter": " δὲ ἐγέννησεν"
   }
 ]

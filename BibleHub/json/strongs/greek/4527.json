@@ -2,11 +2,15 @@
   {
     "reference": "Luke 3:32",
     "word": "Σαλά",
-    "verse": "Βοός τοῦ Σαλά τοῦ Ναασσών"
+    "verse": "Βοός τοῦ Σαλά τοῦ Ναασσών",
+    "verseBefore": "Βοός τοῦ ",
+    "verseAfter": " τοῦ Ναασσών"
   },
   {
     "reference": "Luke 3:35",
     "word": "Σαλά",
-    "verse": "Ἔβερ τοῦ Σαλά "
+    "verse": "Ἔβερ τοῦ Σαλά ",
+    "verseBefore": "Ἔβερ τοῦ ",
+    "verseAfter": " "
   }
 ]

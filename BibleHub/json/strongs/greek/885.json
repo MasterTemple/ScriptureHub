@@ -2,11 +2,15 @@
   {
     "reference": "Matthew 1:14",
     "word": "Ἀχίμ",
-    "verse": "ἐγέννησεν τὸν Ἀχίμ Ἀχὶμ δὲ"
+    "verse": "ἐγέννησεν τὸν Ἀχίμ Ἀχὶμ δὲ",
+    "verseBefore": "ἐγέννησεν τὸν ",
+    "verseAfter": " Ἀχὶμ δὲ"
   },
   {
     "reference": "Matthew 1:14",
     "word": "Ἀχὶμ",
-    "verse": "τὸν Ἀχίμ Ἀχὶμ δὲ ἐγέννησεν"
+    "verse": "τὸν Ἀχίμ Ἀχὶμ δὲ ἐγέννησεν",
+    "verseBefore": "τὸν Ἀχίμ ",
+    "verseAfter": " δὲ ἐγέννησεν"
   }
 ]

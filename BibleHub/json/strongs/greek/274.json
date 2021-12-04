@@ -2,11 +2,15 @@
   {
     "reference": "1 Thessalonians 2:10",
     "word": "ἀμέμπτως",
-    "verse": "δικαίως καὶ ἀμέμπτως ὑμῖν τοῖς"
+    "verse": "δικαίως καὶ ἀμέμπτως ὑμῖν τοῖς",
+    "verseBefore": "δικαίως καὶ ",
+    "verseAfter": " ὑμῖν τοῖς"
   },
   {
     "reference": "1 Thessalonians 5:23",
     "word": "ἀμέμπτως",
-    "verse": "τὸ σῶμα ἀμέμπτως ἐν τῇ"
+    "verse": "τὸ σῶμα ἀμέμπτως ἐν τῇ",
+    "verseBefore": "τὸ σῶμα ",
+    "verseAfter": " ἐν τῇ"
   }
 ]

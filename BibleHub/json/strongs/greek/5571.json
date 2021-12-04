@@ -2,16 +2,22 @@
   {
     "reference": "Acts 6:13",
     "word": "ψευδεῖς",
-    "verse": "τε μάρτυρας ψευδεῖς λέγοντας Ὁ"
+    "verse": "τε μάρτυρας ψευδεῖς λέγοντας Ὁ",
+    "verseBefore": "τε μάρτυρας ",
+    "verseAfter": " λέγοντας Ὁ"
   },
   {
     "reference": "Revelation 2:2",
     "word": "ψευδεῖς",
-    "verse": "εὗρες αὐτοὺς ψευδεῖς "
+    "verse": "εὗρες αὐτοὺς ψευδεῖς ",
+    "verseBefore": "εὗρες αὐτοὺς ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 21:8",
     "word": "ψευδέσιν",
-    "verse": "πᾶσιν τοῖς ψευδέσιν τὸ μέρος"
+    "verse": "πᾶσιν τοῖς ψευδέσιν τὸ μέρος",
+    "verseBefore": "πᾶσιν τοῖς ",
+    "verseAfter": " τὸ μέρος"
   }
 ]

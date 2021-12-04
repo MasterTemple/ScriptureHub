@@ -2,16 +2,22 @@
   {
     "reference": "2 Corinthians 11:27",
     "word": "μόχθῳ",
-    "verse": "κόπῳ καὶ μόχθῳ ἐν ἀγρυπνίαις"
+    "verse": "κόπῳ καὶ μόχθῳ ἐν ἀγρυπνίαις",
+    "verseBefore": "κόπῳ καὶ ",
+    "verseAfter": " ἐν ἀγρυπνίαις"
   },
   {
     "reference": "1 Thessalonians 2:9",
     "word": "μόχθον",
-    "verse": "καὶ τὸν μόχθον νυκτὸς καὶ"
+    "verse": "καὶ τὸν μόχθον νυκτὸς καὶ",
+    "verseBefore": "καὶ τὸν ",
+    "verseAfter": " νυκτὸς καὶ"
   },
   {
     "reference": "2 Thessalonians 3:8",
     "word": "μόχθῳ",
-    "verse": "κόπῳ καὶ μόχθῳ νυκτὸς καὶ"
+    "verse": "κόπῳ καὶ μόχθῳ νυκτὸς καὶ",
+    "verseBefore": "κόπῳ καὶ ",
+    "verseAfter": " νυκτὸς καὶ"
   }
 ]

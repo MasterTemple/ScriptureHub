@@ -2,11 +2,15 @@
   {
     "reference": "Matthew 24:29",
     "word": "φέγγος",
-    "verse": "δώσει τὸ φέγγος αὐτῆς καὶ"
+    "verse": "δώσει τὸ φέγγος αὐτῆς καὶ",
+    "verseBefore": "δώσει τὸ ",
+    "verseAfter": " αὐτῆς καὶ"
   },
   {
     "reference": "Mark 13:24",
     "word": "φέγγος",
-    "verse": "δώσει τὸ φέγγος αὐτῆς "
+    "verse": "δώσει τὸ φέγγος αὐτῆς ",
+    "verseBefore": "δώσει τὸ ",
+    "verseAfter": " αὐτῆς "
   }
 ]

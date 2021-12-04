@@ -2,16 +2,22 @@
   {
     "reference": "Romans 8:35",
     "word": "γυμνότης",
-    "verse": "λιμὸς ἢ γυμνότης ἢ κίνδυνος"
+    "verse": "λιμὸς ἢ γυμνότης ἢ κίνδυνος",
+    "verseBefore": "λιμὸς ἢ ",
+    "verseAfter": " ἢ κίνδυνος"
   },
   {
     "reference": "2 Corinthians 11:27",
     "word": "γυμνότητι",
-    "verse": "ψύχει καὶ γυμνότητι "
+    "verse": "ψύχει καὶ γυμνότητι ",
+    "verseBefore": "ψύχει καὶ ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 3:18",
     "word": "γυμνότητός",
-    "verse": "αἰσχύνη τῆς γυμνότητός σου καὶ"
+    "verse": "αἰσχύνη τῆς γυμνότητός σου καὶ",
+    "verseBefore": "αἰσχύνη τῆς ",
+    "verseAfter": " σου καὶ"
   }
 ]

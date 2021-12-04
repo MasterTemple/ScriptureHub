@@ -2,21 +2,29 @@
   {
     "reference": "Romans 5:11",
     "word": "καταλλαγὴν",
-    "verse": "νῦν τὴν καταλλαγὴν ἐλάβομεν "
+    "verse": "νῦν τὴν καταλλαγὴν ἐλάβομεν ",
+    "verseBefore": "νῦν τὴν ",
+    "verseAfter": " ἐλάβομεν "
   },
   {
     "reference": "Romans 11:15",
     "word": "καταλλαγὴ",
-    "verse": "ἀποβολὴ αὐτῶν καταλλαγὴ κόσμου τίς"
+    "verse": "ἀποβολὴ αὐτῶν καταλλαγὴ κόσμου τίς",
+    "verseBefore": "ἀποβολὴ αὐτῶν ",
+    "verseAfter": " κόσμου τίς"
   },
   {
     "reference": "2 Corinthians 5:18",
     "word": "καταλλαγῆς",
-    "verse": "διακονίαν τῆς καταλλαγῆς "
+    "verse": "διακονίαν τῆς καταλλαγῆς ",
+    "verseBefore": "διακονίαν τῆς ",
+    "verseAfter": " "
   },
   {
     "reference": "2 Corinthians 5:19",
     "word": "καταλλαγῆς",
-    "verse": "λόγον τῆς καταλλαγῆς "
+    "verse": "λόγον τῆς καταλλαγῆς ",
+    "verseBefore": "λόγον τῆς ",
+    "verseAfter": " "
   }
 ]

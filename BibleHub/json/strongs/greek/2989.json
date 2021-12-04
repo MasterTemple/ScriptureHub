@@ -2,36 +2,50 @@
   {
     "reference": "Matthew 5:15",
     "word": "λάμπει",
-    "verse": "λυχνίαν καὶ λάμπει πᾶσιν τοῖς"
+    "verse": "λυχνίαν καὶ λάμπει πᾶσιν τοῖς",
+    "verseBefore": "λυχνίαν καὶ ",
+    "verseAfter": " πᾶσιν τοῖς"
   },
   {
     "reference": "Matthew 5:16",
     "word": "λαμψάτω",
-    "verse": "οὕτως λαμψάτω τὸ φῶς"
+    "verse": "οὕτως λαμψάτω τὸ φῶς",
+    "verseBefore": "οὕτως ",
+    "verseAfter": " τὸ φῶς"
   },
   {
     "reference": "Matthew 17:2",
     "word": "ἔλαμψεν",
-    "verse": "αὐτῶν καὶ ἔλαμψεν τὸ πρόσωπον"
+    "verse": "αὐτῶν καὶ ἔλαμψεν τὸ πρόσωπον",
+    "verseBefore": "αὐτῶν καὶ ",
+    "verseAfter": " τὸ πρόσωπον"
   },
   {
     "reference": "Luke 17:24",
     "word": "λάμπει",
-    "verse": "ὑπ' οὐρανὸν λάμπει οὕτως ἔσται"
+    "verse": "ὑπ' οὐρανὸν λάμπει οὕτως ἔσται",
+    "verseBefore": "ὑπ' οὐρανὸν ",
+    "verseAfter": " οὕτως ἔσται"
   },
   {
     "reference": "Acts 12:7",
     "word": "ἔλαμψεν",
-    "verse": "καὶ φῶς ἔλαμψεν ἐν τῷ"
+    "verse": "καὶ φῶς ἔλαμψεν ἐν τῷ",
+    "verseBefore": "καὶ φῶς ",
+    "verseAfter": " ἐν τῷ"
   },
   {
     "reference": "2 Corinthians 4:6",
     "word": "λάμψει",
-    "verse": "σκότους φῶς λάμψει ὃς ἔλαμψεν"
+    "verse": "σκότους φῶς λάμψει ὃς ἔλαμψεν",
+    "verseBefore": "σκότους φῶς ",
+    "verseAfter": " ὃς ἔλαμψεν"
   },
   {
     "reference": "2 Corinthians 4:6",
     "word": "ἔλαμψεν",
-    "verse": "λάμψει ὃς ἔλαμψεν ἐν ταῖς"
+    "verse": "λάμψει ὃς ἔλαμψεν ἐν ταῖς",
+    "verseBefore": "λάμψει ὃς ",
+    "verseAfter": " ἐν ταῖς"
   }
 ]

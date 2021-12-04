@@ -2,11 +2,15 @@
   {
     "reference": "1 Corinthians 9:24",
     "word": "βραβεῖον",
-    "verse": "λαμβάνει τὸ βραβεῖον οὕτως τρέχετε"
+    "verse": "λαμβάνει τὸ βραβεῖον οὕτως τρέχετε",
+    "verseBefore": "λαμβάνει τὸ ",
+    "verseAfter": " οὕτως τρέχετε"
   },
   {
     "reference": "Philippians 3:14",
     "word": "βραβεῖον",
-    "verse": "εἰς τὸ βραβεῖον τῆς ἄνω"
+    "verse": "εἰς τὸ βραβεῖον τῆς ἄνω",
+    "verseBefore": "εἰς τὸ ",
+    "verseAfter": " τῆς ἄνω"
   }
 ]

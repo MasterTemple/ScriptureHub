@@ -2,21 +2,29 @@
   {
     "reference": "Mark 16:20",
     "word": "ἱερὸν",
-    "verse": "αὐτῶν τὸ ἱερὸν καὶ ἄφθαρτον"
+    "verse": "αὐτῶν τὸ ἱερὸν καὶ ἄφθαρτον",
+    "verseBefore": "αὐτῶν τὸ ",
+    "verseAfter": " καὶ ἄφθαρτον"
   },
   {
     "reference": "1 Corinthians 9:13",
     "word": "ἱερὰ",
-    "verse": "οἱ τὰ ἱερὰ ἐργαζόμενοι τὰ"
+    "verse": "οἱ τὰ ἱερὰ ἐργαζόμενοι τὰ",
+    "verseBefore": "οἱ τὰ ",
+    "verseAfter": " ἐργαζόμενοι τὰ"
   },
   {
     "reference": "Colossians 4:13",
     "word": "Ἱερᾷ",
-    "verse": "τῶν ἐν Ἱερᾷ Πόλει "
+    "verse": "τῶν ἐν Ἱερᾷ Πόλει ",
+    "verseBefore": "τῶν ἐν ",
+    "verseAfter": " Πόλει "
   },
   {
     "reference": "2 Timothy 3:15",
     "word": "ἱερὰ",
-    "verse": "βρέφους τὰ ἱερὰ γράμματα οἶδας"
+    "verse": "βρέφους τὰ ἱερὰ γράμματα οἶδας",
+    "verseBefore": "βρέφους τὰ ",
+    "verseAfter": " γράμματα οἶδας"
   }
 ]

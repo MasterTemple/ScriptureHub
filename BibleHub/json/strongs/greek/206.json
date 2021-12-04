@@ -2,31 +2,43 @@
   {
     "reference": "Matthew 24:31",
     "word": "ἄκρων",
-    "verse": "ἀνέμων ἀπ' ἄκρων οὐρανῶν ἕως"
+    "verse": "ἀνέμων ἀπ' ἄκρων οὐρανῶν ἕως",
+    "verseBefore": "ἀνέμων ἀπ' ",
+    "verseAfter": " οὐρανῶν ἕως"
   },
   {
     "reference": "Matthew 24:31",
     "word": "ἄκρων",
-    "verse": "ἕως τῶν ἄκρων αὐτῶν "
+    "verse": "ἕως τῶν ἄκρων αὐτῶν ",
+    "verseBefore": "ἕως τῶν ",
+    "verseAfter": " αὐτῶν "
   },
   {
     "reference": "Mark 13:27",
     "word": "ἄκρου",
-    "verse": "ἀνέμων ἀπ' ἄκρου γῆς ἕως"
+    "verse": "ἀνέμων ἀπ' ἄκρου γῆς ἕως",
+    "verseBefore": "ἀνέμων ἀπ' ",
+    "verseAfter": " γῆς ἕως"
   },
   {
     "reference": "Mark 13:27",
     "word": "ἄκρου",
-    "verse": "γῆς ἕως ἄκρου οὐρανοῦ "
+    "verse": "γῆς ἕως ἄκρου οὐρανοῦ ",
+    "verseBefore": "γῆς ἕως ",
+    "verseAfter": " οὐρανοῦ "
   },
   {
     "reference": "Luke 16:24",
     "word": "ἄκρον",
-    "verse": "βάψῃ τὸ ἄκρον τοῦ δακτύλου"
+    "verse": "βάψῃ τὸ ἄκρον τοῦ δακτύλου",
+    "verseBefore": "βάψῃ τὸ ",
+    "verseAfter": " τοῦ δακτύλου"
   },
   {
     "reference": "Hebrews 11:21",
     "word": "ἄκρον",
-    "verse": "ἐπὶ τὸ ἄκρον τῆς ῥάβδου"
+    "verse": "ἐπὶ τὸ ἄκρον τῆς ῥάβδου",
+    "verseBefore": "ἐπὶ τὸ ",
+    "verseAfter": " τῆς ῥάβδου"
   }
 ]

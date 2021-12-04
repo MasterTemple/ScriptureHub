@@ -2,11 +2,15 @@
   {
     "reference": "2 Timothy 2:20",
     "word": "ξύλινα",
-    "verse": "ἀλλὰ καὶ ξύλινα καὶ ὀστράκινα"
+    "verse": "ἀλλὰ καὶ ξύλινα καὶ ὀστράκινα",
+    "verseBefore": "ἀλλὰ καὶ ",
+    "verseAfter": " καὶ ὀστράκινα"
   },
   {
     "reference": "Revelation 9:20",
     "word": "ξύλινα",
-    "verse": "καὶ τὰ ξύλινα ἃ οὔτε"
+    "verse": "καὶ τὰ ξύλινα ἃ οὔτε",
+    "verseBefore": "καὶ τὰ ",
+    "verseAfter": " ἃ οὔτε"
   }
 ]

@@ -2,21 +2,29 @@
   {
     "reference": "Acts 5:26",
     "word": "βίας",
-    "verse": "οὐ μετὰ βίας ἐφοβοῦντο γὰρ"
+    "verse": "οὐ μετὰ βίας ἐφοβοῦντο γὰρ",
+    "verseBefore": "οὐ μετὰ ",
+    "verseAfter": " ἐφοβοῦντο γὰρ"
   },
   {
     "reference": "Acts 21:35",
     "word": "βίαν",
-    "verse": "διὰ τὴν βίαν τοῦ ὄχλου"
+    "verse": "διὰ τὴν βίαν τοῦ ὄχλου",
+    "verseBefore": "διὰ τὴν ",
+    "verseAfter": " τοῦ ὄχλου"
   },
   {
     "reference": "Acts 24:7",
     "word": "βίας",
-    "verse": "μετὰ πολλῆς βίας ἐκ τῶν"
+    "verse": "μετὰ πολλῆς βίας ἐκ τῶν",
+    "verseBefore": "μετὰ πολλῆς ",
+    "verseAfter": " ἐκ τῶν"
   },
   {
     "reference": "Acts 27:41",
     "word": "βίας",
-    "verse": "ὑπὸ τῆς βίας τῶν κυμάτων"
+    "verse": "ὑπὸ τῆς βίας τῶν κυμάτων",
+    "verseBefore": "ὑπὸ τῆς ",
+    "verseAfter": " τῶν κυμάτων"
   }
 ]

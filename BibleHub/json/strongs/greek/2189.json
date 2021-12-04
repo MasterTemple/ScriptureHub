@@ -2,31 +2,43 @@
   {
     "reference": "Luke 23:12",
     "word": "ἔχθρᾳ",
-    "verse": "γὰρ ἐν ἔχθρᾳ ὄντες πρὸς"
+    "verse": "γὰρ ἐν ἔχθρᾳ ὄντες πρὸς",
+    "verseBefore": "γὰρ ἐν ",
+    "verseAfter": " ὄντες πρὸς"
   },
   {
     "reference": "Romans 8:7",
     "word": "ἔχθρα",
-    "verse": "τῆς σαρκὸς ἔχθρα εἰς θεόν"
+    "verse": "τῆς σαρκὸς ἔχθρα εἰς θεόν",
+    "verseBefore": "τῆς σαρκὸς ",
+    "verseAfter": " εἰς θεόν"
   },
   {
     "reference": "Galatians 5:20",
     "word": "ἔχθραι",
-    "verse": "εἰδωλολατρία φαρμακεία ἔχθραι ἔρις ζῆλος"
+    "verse": "εἰδωλολατρία φαρμακεία ἔχθραι ἔρις ζῆλος",
+    "verseBefore": "εἰδωλολατρία φαρμακεία ",
+    "verseAfter": " ἔρις ζῆλος"
   },
   {
     "reference": "Ephesians 2:15",
     "word": "ἔχθραν",
-    "verse": "τὴν ἔχθραν ἐν τῇ"
+    "verse": "τὴν ἔχθραν ἐν τῇ",
+    "verseBefore": "τὴν ",
+    "verseAfter": " ἐν τῇ"
   },
   {
     "reference": "Ephesians 2:16",
     "word": "ἔχθραν",
-    "verse": "ἀποκτείνας τὴν ἔχθραν ἐν αὐτῷ"
+    "verse": "ἀποκτείνας τὴν ἔχθραν ἐν αὐτῷ",
+    "verseBefore": "ἀποκτείνας τὴν ",
+    "verseAfter": " ἐν αὐτῷ"
   },
   {
     "reference": "James 4:4",
     "word": "ἔχθρα",
-    "verse": "τοῦ κόσμου ἔχθρα τοῦ θεοῦ"
+    "verse": "τοῦ κόσμου ἔχθρα τοῦ θεοῦ",
+    "verseBefore": "τοῦ κόσμου ",
+    "verseAfter": " τοῦ θεοῦ"
   }
 ]

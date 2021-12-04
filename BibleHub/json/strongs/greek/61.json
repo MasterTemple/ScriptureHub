@@ -2,11 +2,15 @@
   {
     "reference": "Luke 5:4",
     "word": "ἄγραν",
-    "verse": "ὑμῶν εἰς ἄγραν "
+    "verse": "ὑμῶν εἰς ἄγραν ",
+    "verseBefore": "ὑμῶν εἰς ",
+    "verseAfter": " "
   },
   {
     "reference": "Luke 5:9",
     "word": "ἄγρᾳ",
-    "verse": "ἐπὶ τῇ ἄγρᾳ τῶν ἰχθύων"
+    "verse": "ἐπὶ τῇ ἄγρᾳ τῶν ἰχθύων",
+    "verseBefore": "ἐπὶ τῇ ",
+    "verseAfter": " τῶν ἰχθύων"
   }
 ]

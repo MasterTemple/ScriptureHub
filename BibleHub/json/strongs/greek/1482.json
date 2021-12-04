@@ -2,21 +2,29 @@
   {
     "reference": "Matthew 5:47",
     "word": "ἐθνικοὶ",
-    "verse": "καὶ οἱ ἐθνικοὶ τὸ αὐτὸ"
+    "verse": "καὶ οἱ ἐθνικοὶ τὸ αὐτὸ",
+    "verseBefore": "καὶ οἱ ",
+    "verseAfter": " τὸ αὐτὸ"
   },
   {
     "reference": "Matthew 6:7",
     "word": "ἐθνικοί",
-    "verse": "ὥσπερ οἱ ἐθνικοί δοκοῦσιν γὰρ"
+    "verse": "ὥσπερ οἱ ἐθνικοί δοκοῦσιν γὰρ",
+    "verseBefore": "ὥσπερ οἱ ",
+    "verseAfter": " δοκοῦσιν γὰρ"
   },
   {
     "reference": "Matthew 18:17",
     "word": "ἐθνικὸς",
-    "verse": "ὥσπερ ὁ ἐθνικὸς καὶ ὁ"
+    "verse": "ὥσπερ ὁ ἐθνικὸς καὶ ὁ",
+    "verseBefore": "ὥσπερ ὁ ",
+    "verseAfter": " καὶ ὁ"
   },
   {
     "reference": "3 John 1:7",
     "word": "ἐθνικῶν",
-    "verse": "ἀπὸ τῶν ἐθνικῶν "
+    "verse": "ἀπὸ τῶν ἐθνικῶν ",
+    "verseBefore": "ἀπὸ τῶν ",
+    "verseAfter": " "
   }
 ]

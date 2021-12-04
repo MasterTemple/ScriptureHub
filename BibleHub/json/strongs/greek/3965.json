@@ -2,16 +2,22 @@
   {
     "reference": "Luke 2:4",
     "word": "πατριᾶς",
-    "verse": "οἴκου καὶ πατριᾶς Δαυίδ "
+    "verse": "οἴκου καὶ πατριᾶς Δαυίδ ",
+    "verseBefore": "οἴκου καὶ ",
+    "verseAfter": " Δαυίδ "
   },
   {
     "reference": "Acts 3:25",
     "word": "πατριαὶ",
-    "verse": "πᾶσαι αἱ πατριαὶ τῆς γῆς"
+    "verse": "πᾶσαι αἱ πατριαὶ τῆς γῆς",
+    "verseBefore": "πᾶσαι αἱ ",
+    "verseAfter": " τῆς γῆς"
   },
   {
     "reference": "Ephesians 3:15",
     "word": "πατριὰ",
-    "verse": "οὗ πᾶσα πατριὰ ἐν οὐρανοῖς"
+    "verse": "οὗ πᾶσα πατριὰ ἐν οὐρανοῖς",
+    "verseBefore": "οὗ πᾶσα ",
+    "verseAfter": " ἐν οὐρανοῖς"
   }
 ]

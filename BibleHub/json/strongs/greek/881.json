@@ -2,11 +2,15 @@
   {
     "reference": "Matthew 1:9",
     "word": "Ἀχάζ",
-    "verse": "ἐγέννησεν τὸν Ἀχάζ Ἀχὰζ δὲ"
+    "verse": "ἐγέννησεν τὸν Ἀχάζ Ἀχὰζ δὲ",
+    "verseBefore": "ἐγέννησεν τὸν ",
+    "verseAfter": " Ἀχὰζ δὲ"
   },
   {
     "reference": "Matthew 1:9",
     "word": "Ἀχὰζ",
-    "verse": "τὸν Ἀχάζ Ἀχὰζ δὲ ἐγέννησεν"
+    "verse": "τὸν Ἀχάζ Ἀχὰζ δὲ ἐγέννησεν",
+    "verseBefore": "τὸν Ἀχάζ ",
+    "verseAfter": " δὲ ἐγέννησεν"
   }
 ]

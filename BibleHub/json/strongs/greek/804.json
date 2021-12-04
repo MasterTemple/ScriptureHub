@@ -2,26 +2,36 @@
   {
     "reference": "Acts 21:34",
     "word": "ἀσφαλὲς",
-    "verse": "γνῶναι τὸ ἀσφαλὲς διὰ τὸν"
+    "verse": "γνῶναι τὸ ἀσφαλὲς διὰ τὸν",
+    "verseBefore": "γνῶναι τὸ ",
+    "verseAfter": " διὰ τὸν"
   },
   {
     "reference": "Acts 22:30",
     "word": "ἀσφαλὲς",
-    "verse": "γνῶναι τὸ ἀσφαλὲς τὸ τί"
+    "verse": "γνῶναι τὸ ἀσφαλὲς τὸ τί",
+    "verseBefore": "γνῶναι τὸ ",
+    "verseAfter": " τὸ τί"
   },
   {
     "reference": "Acts 25:26",
     "word": "ἀσφαλές",
-    "verse": "περὶ οὗ ἀσφαλές τι γράψαι"
+    "verse": "περὶ οὗ ἀσφαλές τι γράψαι",
+    "verseBefore": "περὶ οὗ ",
+    "verseAfter": " τι γράψαι"
   },
   {
     "reference": "Philippians 3:1",
     "word": "ἀσφαλές",
-    "verse": "ὑμῖν δὲ ἀσφαλές "
+    "verse": "ὑμῖν δὲ ἀσφαλές ",
+    "verseBefore": "ὑμῖν δὲ ",
+    "verseAfter": " "
   },
   {
     "reference": "Hebrews 6:19",
     "word": "ἀσφαλῆ",
-    "verse": "τῆς ψυχῆς ἀσφαλῆ τε καὶ"
+    "verse": "τῆς ψυχῆς ἀσφαλῆ τε καὶ",
+    "verseBefore": "τῆς ψυχῆς ",
+    "verseAfter": " τε καὶ"
   }
 ]

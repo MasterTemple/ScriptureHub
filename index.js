@@ -7,7 +7,7 @@ let references = require('./references.json')
 let refs = require('./refs.json')
 let getCommentaryData = require('./getCommentaryData')
 let parseCommentary = require('./parseCommentary')
-let {downloadBibleGatewayVerses, parseBibleGateway, parseTranslation, mergeInterlinears, checkVerseParsing} = require('./functions')
+let {downloadBibleGatewayVerses, parseBibleGateway, parseTranslation, mergeInterlinears, checkVerseParsing, fixStrongsData} = require('./functions')
 // classes are not necessary, but I thought I might use it cause I never do :)
 /*
 let referenceList = require('./referenceList.json')
@@ -102,15 +102,17 @@ async function getAllStrongsDataFromWebsite() {
 }
 async function createStrongsJSON() {
 
-  // for(let i=1;i<=8674;i++){
-  //   if(!fs.existsSync(`./BibleHub/strongs/html/hebrew/${i}.htm`)) continue;
-  //   // if(fs.existsSync(`./BibleHub/json/strongs/hebrew/${i}.json`)) continue;
-  //   await getStrongsJSON("hebrew", i)
-  // }
+  for(let i=1;i<=8674;i++){
+    if(!fs.existsSync(`./BibleHub/strongs/html/hebrew/${i}.htm`)) continue;
+    // if(fs.existsSync(`./BibleHub/json/strongs/hebrew/${i}.json`)) continue;
+    // await getStrongsJSON("hebrew", i)
+    await fixStrongsData("hebrew", i)
+  }
   for(let i=1;i<=5624;i++){
     if(!fs.existsSync(`./BibleHub/strongs/html/greek/${i}.htm`)) continue;
     // if(fs.existsSync(`./BibleHub/json/strongs/greek/${i}.json`)) continue;
-    await getStrongsJSON("greek", i)
+    // await getStrongsJSON("greek", i)
+    await fixStrongsData("greek", i)
   }
 }
 async function createCommentariesFromWebsite(references){
@@ -301,3 +303,4 @@ translationList = [...new Set([...translationList])]
 
 // console.log(getAllCompleteTranslations(translationList))
 createStrongsJSON()
+// fixStrongsData("greek", 1)

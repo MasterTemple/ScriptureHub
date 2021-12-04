@@ -2,16 +2,22 @@
   {
     "reference": "Luke 24:29",
     "word": "ἑσπέραν",
-    "verse": "ὅτι πρὸς ἑσπέραν ἐστὶν καὶ"
+    "verse": "ὅτι πρὸς ἑσπέραν ἐστὶν καὶ",
+    "verseBefore": "ὅτι πρὸς ",
+    "verseAfter": " ἐστὶν καὶ"
   },
   {
     "reference": "Acts 4:3",
     "word": "ἑσπέρα",
-    "verse": "ἦν γὰρ ἑσπέρα ἤδη "
+    "verse": "ἦν γὰρ ἑσπέρα ἤδη ",
+    "verseBefore": "ἦν γὰρ ",
+    "verseAfter": " ἤδη "
   },
   {
     "reference": "Acts 28:23",
     "word": "ἑσπέρας",
-    "verse": "πρωὶ ἕως ἑσπέρας "
+    "verse": "πρωὶ ἕως ἑσπέρας ",
+    "verseBefore": "πρωὶ ἕως ",
+    "verseAfter": " "
   }
 ]

@@ -2,16 +2,22 @@
   {
     "reference": "1 Corinthians 8:7",
     "word": "μολύνεται",
-    "verse": "ἀσθενὴς οὖσα μολύνεται "
+    "verse": "ἀσθενὴς οὖσα μολύνεται ",
+    "verseBefore": "ἀσθενὴς οὖσα ",
+    "verseAfter": " "
   },
   {
     "reference": "Revelation 3:4",
     "word": "ἐμόλυναν",
-    "verse": "ἃ οὐκ ἐμόλυναν τὰ ἱμάτια"
+    "verse": "ἃ οὐκ ἐμόλυναν τὰ ἱμάτια",
+    "verseBefore": "ἃ οὐκ ",
+    "verseAfter": " τὰ ἱμάτια"
   },
   {
     "reference": "Revelation 14:4",
     "word": "ἐμολύνθησαν",
-    "verse": "γυναικῶν οὐκ ἐμολύνθησαν παρθένοι γάρ"
+    "verse": "γυναικῶν οὐκ ἐμολύνθησαν παρθένοι γάρ",
+    "verseBefore": "γυναικῶν οὐκ ",
+    "verseAfter": " παρθένοι γάρ"
   }
 ]

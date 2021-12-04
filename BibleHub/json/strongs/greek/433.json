@@ -2,16 +2,22 @@
   {
     "reference": "Ephesians 5:4",
     "word": "ἀνῆκεν",
-    "verse": "ἃ οὐκ ἀνῆκεν ἀλλὰ μᾶλλον"
+    "verse": "ἃ οὐκ ἀνῆκεν ἀλλὰ μᾶλλον",
+    "verseBefore": "ἃ οὐκ ",
+    "verseAfter": " ἀλλὰ μᾶλλον"
   },
   {
     "reference": "Colossians 3:18",
     "word": "ἀνῆκεν",
-    "verse": "ἀνδράσιν ὡς ἀνῆκεν ἐν κυρίῳ"
+    "verse": "ἀνδράσιν ὡς ἀνῆκεν ἐν κυρίῳ",
+    "verseBefore": "ἀνδράσιν ὡς ",
+    "verseAfter": " ἐν κυρίῳ"
   },
   {
     "reference": "Philemon 1:8",
     "word": "ἀνῆκον",
-    "verse": "σοι τὸ ἀνῆκον "
+    "verse": "σοι τὸ ἀνῆκον ",
+    "verseBefore": "σοι τὸ ",
+    "verseAfter": " "
   }
 ]

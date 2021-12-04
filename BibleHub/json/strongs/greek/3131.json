@@ -2,21 +2,29 @@
   {
     "reference": "John 6:31",
     "word": "μάννα",
-    "verse": "ἡμῶν τὸ μάννα ἔφαγον ἐν"
+    "verse": "ἡμῶν τὸ μάννα ἔφαγον ἐν",
+    "verseBefore": "ἡμῶν τὸ ",
+    "verseAfter": " ἔφαγον ἐν"
   },
   {
     "reference": "John 6:49",
     "word": "μάννα",
-    "verse": "ἐρήμῳ τὸ μάννα καὶ ἀπέθανον"
+    "verse": "ἐρήμῳ τὸ μάννα καὶ ἀπέθανον",
+    "verseBefore": "ἐρήμῳ τὸ ",
+    "verseAfter": " καὶ ἀπέθανον"
   },
   {
     "reference": "Hebrews 9:4",
     "word": "μάννα",
-    "verse": "ἔχουσα τὸ μάννα καὶ ἡ"
+    "verse": "ἔχουσα τὸ μάννα καὶ ἡ",
+    "verseBefore": "ἔχουσα τὸ ",
+    "verseAfter": " καὶ ἡ"
   },
   {
     "reference": "Revelation 2:17",
     "word": "μάννα",
-    "verse": "αὐτῷ τοῦ μάννα τοῦ κεκρυμμένου"
+    "verse": "αὐτῷ τοῦ μάννα τοῦ κεκρυμμένου",
+    "verseBefore": "αὐτῷ τοῦ ",
+    "verseAfter": " τοῦ κεκρυμμένου"
   }
 ]

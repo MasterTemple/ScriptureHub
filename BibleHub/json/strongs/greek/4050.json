@@ -2,21 +2,29 @@
   {
     "reference": "Romans 5:17",
     "word": "περισσείαν",
-    "verse": "οἱ τὴν περισσείαν τῆς χάριτος"
+    "verse": "οἱ τὴν περισσείαν τῆς χάριτος",
+    "verseBefore": "οἱ τὴν ",
+    "verseAfter": " τῆς χάριτος"
   },
   {
     "reference": "2 Corinthians 8:2",
     "word": "περισσεία",
-    "verse": "θλίψεως ἡ περισσεία τῆς χαρᾶς"
+    "verse": "θλίψεως ἡ περισσεία τῆς χαρᾶς",
+    "verseBefore": "θλίψεως ἡ ",
+    "verseAfter": " τῆς χαρᾶς"
   },
   {
     "reference": "2 Corinthians 10:15",
     "word": "περισσείαν",
-    "verse": "ἡμῶν εἰς περισσείαν "
+    "verse": "ἡμῶν εἰς περισσείαν ",
+    "verseBefore": "ἡμῶν εἰς ",
+    "verseAfter": " "
   },
   {
     "reference": "James 1:21",
     "word": "περισσείαν",
-    "verse": "ῥυπαρίαν καὶ περισσείαν κακίας ἐν"
+    "verse": "ῥυπαρίαν καὶ περισσείαν κακίας ἐν",
+    "verseBefore": "ῥυπαρίαν καὶ ",
+    "verseAfter": " κακίας ἐν"
   }
 ]

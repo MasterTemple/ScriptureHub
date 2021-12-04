@@ -2,11 +2,15 @@
   {
     "reference": "Matthew 27:6",
     "word": "κορβανᾶν",
-    "verse": "εἰς τὸν κορβανᾶν ἐπεὶ τιμὴ"
+    "verse": "εἰς τὸν κορβανᾶν ἐπεὶ τιμὴ",
+    "verseBefore": "εἰς τὸν ",
+    "verseAfter": " ἐπεὶ τιμὴ"
   },
   {
     "reference": "Mark 7:11",
     "word": "Κορβάν",
-    "verse": "τῇ μητρί Κορβάν ὅ ἐστιν"
+    "verse": "τῇ μητρί Κορβάν ὅ ἐστιν",
+    "verseBefore": "τῇ μητρί ",
+    "verseAfter": " ὅ ἐστιν"
   }
 ]

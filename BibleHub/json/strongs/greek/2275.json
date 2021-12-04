@@ -2,11 +2,15 @@
   {
     "reference": "Romans 11:12",
     "word": "ἥττημα",
-    "verse": "καὶ τὸ ἥττημα αὐτῶν πλοῦτος"
+    "verse": "καὶ τὸ ἥττημα αὐτῶν πλοῦτος",
+    "verseBefore": "καὶ τὸ ",
+    "verseAfter": " αὐτῶν πλοῦτος"
   },
   {
     "reference": "1 Corinthians 6:7",
     "word": "ἥττημα",
-    "verse": "οὖν ὅλως ἥττημα ὑμῖν ἐστὶν"
+    "verse": "οὖν ὅλως ἥττημα ὑμῖν ἐστὶν",
+    "verseBefore": "οὖν ὅλως ",
+    "verseAfter": " ὑμῖν ἐστὶν"
   }
 ]

@@ -2,11 +2,15 @@
   {
     "reference": "Matthew 13:48",
     "word": "ἄγγη",
-    "verse": "καλὰ εἰς ἄγγη τὰ δὲ"
+    "verse": "καλὰ εἰς ἄγγη τὰ δὲ",
+    "verseBefore": "καλὰ εἰς ",
+    "verseAfter": " τὰ δὲ"
   },
   {
     "reference": "Matthew 25:4",
     "word": "ἀγγείοις",
-    "verse": "ἐν τοῖς ἀγγείοις μετὰ τῶν"
+    "verse": "ἐν τοῖς ἀγγείοις μετὰ τῶν",
+    "verseBefore": "ἐν τοῖς ",
+    "verseAfter": " μετὰ τῶν"
   }
 ]

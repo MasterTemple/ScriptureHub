@@ -2,11 +2,15 @@
   {
     "reference": "Luke 13:29",
     "word": "βορρᾶ",
-    "verse": "καὶ ἀπὸ βορρᾶ καὶ νότου"
+    "verse": "καὶ ἀπὸ βορρᾶ καὶ νότου",
+    "verseBefore": "καὶ ἀπὸ ",
+    "verseAfter": " καὶ νότου"
   },
   {
     "reference": "Revelation 21:13",
     "word": "βορρᾶ",
-    "verse": "καὶ ἀπὸ βορρᾶ πυλῶνες τρεῖς"
+    "verse": "καὶ ἀπὸ βορρᾶ πυλῶνες τρεῖς",
+    "verseBefore": "καὶ ἀπὸ ",
+    "verseAfter": " πυλῶνες τρεῖς"
   }
 ]

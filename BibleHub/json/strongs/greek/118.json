@@ -2,11 +2,15 @@
   {
     "reference": "2 Timothy 2:5",
     "word": "ἀθλῇ",
-    "verse": "δὲ καὶ ἀθλῇ τις οὐ"
+    "verse": "δὲ καὶ ἀθλῇ τις οὐ",
+    "verseBefore": "δὲ καὶ ",
+    "verseAfter": " τις οὐ"
   },
   {
     "reference": "2 Timothy 2:5",
     "word": "ἀθλήσῃ",
-    "verse": "μὴ νομίμως ἀθλήσῃ "
+    "verse": "μὴ νομίμως ἀθλήσῃ ",
+    "verseBefore": "μὴ νομίμως ",
+    "verseAfter": " "
   }
 ]
