@@ -310,7 +310,7 @@ async function updateInterLinearContent(verse) {
       }
       // int.innerHTML += `
       dataForThisVerse += `
-      <article class="interlinear-card">
+      <article class="interlinear-card" id="strongs-${lang}-${num}">
       <div class="interlinear-content">
       <h3>${word} - <span class="accent">${grk || heb} ${translit} </span></h3>
       <h4 class="parse"><span class="accent">${parse}</span>${strongs}</h4>
@@ -365,31 +365,64 @@ async function interlinearExpandStrongs(lang, num) {
   //   document.querySelector("main > .first").style.transform = ""
   // })
   // document.querySelector("main > .first").style.display = "none";
+  // console.log(document.querySelector(`#strongs-${lang}-${num} > svg`).style.transform === "rotate(180deg)")
 
-  var third = document.createElement('div')
-  third.className = "item third"
-  third.id = "strongs"
-  third.style.width = "50%"
-  document.getElementById("main").appendChild(third)
-  // document.querySelector("main > .third").style.width = "50%";
-  document.querySelector("main > .second").style.width = "50%";
-  document.querySelector("main > .first").style.display = "none";
-  let data = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/strongs/${lang}/${num}.json`)
-  console.log(data);
-  data.forEach(({reference, word, verse}) => {
-    let strongsChild = document.createElement("div")
-    strongsChild.classList.add("strongs-child")
-    let referenceChild = document.createElement("h3")
-    referenceChild.textContent = reference
-    // let wordChild = document.createElement("div")
-    let verseChild = document.createElement("p")
-    verseChild.textContent = verse
+  if(document.querySelector(".strongs-open")){
+    document.querySelector(".strongs-open").style.transform = "rotate(0deg)"
+    document.querySelector(".strongs-open").classList.remove("strongs-open")
+    // document.getElementById("main").removeChild(document.querySelector("strongs-open"))
+    document.getElementById("main").removeChild(document.getElementById("strongs"))
 
-    strongsChild.appendChild(referenceChild)
-    // strongsChild.appendChild(wordChild)
-    strongsChild.appendChild(verseChild)
-    third.appendChild(strongsChild)
-  })
+    document.querySelector("main > .first").style.display = "unset"
+
+  }
+  // closes it
+  if(document.querySelector(`#strongs-${lang}-${num} > svg`).style.transform === "rotate(180deg)"){
+    // resets arrow direction
+    document.querySelector(`#strongs-${lang}-${num} > svg`).style.transform = "rotate(0deg)"
+
+    // document.getElementById("main").removeChild(document.getElementById("strongs"))
+    // document.querySelector("main > .first").style.display = "unset"
+
+  }else{ // opens it
+    // flips arrow direction
+    document.querySelector(`#strongs-${lang}-${num} > svg`).style.transform = "rotate(180deg)"
+    document.querySelector(`#strongs-${lang}-${num} > svg`).classList.add("strongs-open")
+
+    var third = document.createElement('div')
+    third.className = "item third"
+    third.id = "strongs"
+    third.style.width = "40%"
+    document.getElementById("main").appendChild(third)
+    // document.querySelector("main > .third").style.width = "50%";
+    document.querySelector("main > .second").style.width = "60%";
+    document.querySelector("main > .first").style.display = "none";
+    let data = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/strongs/${lang}/${num}.json`)
+    console.log(data);
+    data.forEach(({reference, word, verse, verseBefore, verseAfter}) => {
+      let strongsChild = document.createElement("div")
+      strongsChild.classList.add("strongs-child")
+      let referenceChild = document.createElement("h3")
+      referenceChild.textContent = reference
+      let wordChild = document.createElement("span")
+      wordChild.textContent = word
+      wordChild.classList.add("accent")
+      let verseChild = document.createElement("p")
+      // verseChild.
+      let verseBeforeChild = document.createTextNode(verseBefore)
+      let verseAfterChild = document.createTextNode(verseAfter)
+      // verseBeforeChild.textContent = verseBeforeChild
+      // verseAfterChild.textContent = verseAfterChild
+      verseChild.appendChild(verseBeforeChild)
+      verseChild.appendChild(wordChild)
+      verseChild.appendChild(verseAfterChild)
+
+      strongsChild.appendChild(referenceChild)
+      // strongsChild.appendChild(wordChild)
+      strongsChild.appendChild(verseChild)
+      third.appendChild(strongsChild)
+    })
+  }
 }
 
 async function updateCommentaryContent(verse) {
