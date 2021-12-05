@@ -474,53 +474,62 @@ async function interlinearExpandStrongs(lang, num) {
       document.querySelector("main > .first").style.display = "none";
       let data = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/strongs/${lang}/${num}.json`)
       console.log(data);
-      data.forEach(({reference, word, verse, verseBefore, verseAfter}, c) => {
+      data.forEach(({reference, og_before, og_after, og_word, eng_before, eng_after, eng_word}, c) => {
         let strongsChild = document.createElement("div")
         strongsChild.classList.add("strongs-child")
         strongsChild.id = `strongs-child-${c}`
         let referenceChild = document.createElement("h3")
         // referenceChild.textContent = `${reference} ${primaryTranslation}`
         referenceChild.textContent = reference
-        let verseChild = document.createElement("p")
 
-        let verseBeforeChild = document.createTextNode(verseBefore)
-        let wordChild = document.createElement("span")
-        wordChild.textContent = word
-        wordChild.classList.add("accent")
-        let verseAfterChild = document.createTextNode(verseAfter)
+        let og_verseBeforeChild = document.createTextNode(og_before.join(" "))
+        let og_wordChild = document.createElement("span")
+        og_wordChild.textContent = ` ${og_word} `
+        og_wordChild.classList.add("accent")
+        let og_verseAfterChild = document.createTextNode(og_after.join(" "))
 
-        verseChild.appendChild(verseBeforeChild)
-        verseChild.appendChild(wordChild)
-        verseChild.appendChild(verseAfterChild)
+        let og_verseChild = document.createElement("p")
+        og_verseChild.appendChild(og_verseBeforeChild)
+        og_verseChild.appendChild(og_wordChild)
+        og_verseChild.appendChild(og_verseAfterChild)
 
-        let passageChild = document.createElement("p")
+        let eng_verseBeforeChild = document.createTextNode(eng_before.join(" "))
+        let eng_wordChild = document.createElement("span")
+        eng_wordChild.textContent = ` ${eng_word} `
+        eng_wordChild.classList.add("accent")
+        let eng_verseAfterChild = document.createTextNode(eng_after.join(" "))
+
+        let eng_verseChild = document.createElement("p")
+        eng_verseChild.appendChild(eng_verseBeforeChild)
+        eng_verseChild.appendChild(eng_wordChild)
+        eng_verseChild.appendChild(eng_verseAfterChild)
 
         // passageChild.textContent = await getSingleVerse(
         //   reference.search(/[\w\s]+(?= \d)/g), //book
         //   reference.search(/(?<=[\w\s]+)\d+/g), //chapter
         //   reference.search(/(?<=[\w\s]+:)\d+/g), //verse
         //   primaryTranslation)
-        if(c < 5){
-          getInterlinearVerse(
-            reference.match(/[\w\s]+(?= \d)/g)[0], //book
-            reference.match(/(?<=[\w\s]+)\d+/g)[0], //chapter
-            reference.match(/(?<=[\w\s]+:)\d+/g)[0], //verse
-            num
-            // primaryTranslation
-            ).then((r) => {
-              console.log(r);
-              let interlinearPassageChild = document.createElement("strong")
-              interlinearPassageChild.classList.add("accent")
-              interlinearPassageChild.textContent = ` ${r.word} `
-              passageChild.appendChild(document.createTextNode(r.before.join(" ")))
-              passageChild.appendChild(interlinearPassageChild)
-              passageChild.appendChild(document.createTextNode(r.after.join(" ")))
-              if(!r.word){
-                strongsChild.classList.add("hide-interlinear")
-              }
+        // if(c < 5){
+        //   getInterlinearVerse(
+        //     reference.match(/[\w\s]+(?= \d)/g)[0], //book
+        //     reference.match(/(?<=[\w\s]+)\d+/g)[0], //chapter
+        //     reference.match(/(?<=[\w\s]+:)\d+/g)[0], //verse
+        //     num
+        //     // primaryTranslation
+        //     ).then((r) => {
+        //       console.log(r);
+        //       let interlinearPassageChild = document.createElement("strong")
+        //       interlinearPassageChild.classList.add("accent")
+        //       interlinearPassageChild.textContent = ` ${r.word} `
+        //       passageChild.appendChild(document.createTextNode(r.before.join(" ")))
+        //       passageChild.appendChild(interlinearPassageChild)
+        //       passageChild.appendChild(document.createTextNode(r.after.join(" ")))
+        //       if(!r.word){
+        //         strongsChild.classList.add("hide-interlinear")
+        //       }
 
-            })
-        }
+        //     })
+        // }
         // verseChild.
 
 
@@ -530,11 +539,15 @@ async function interlinearExpandStrongs(lang, num) {
 
 
 
-        strongsChild.appendChild(referenceChild)
-        // strongsChild.appendChild(wordChild)
-        strongsChild.appendChild(verseChild)
-        strongsChild.appendChild(passageChild)
-        third.appendChild(strongsChild)
+        if(eng_word){
+
+          strongsChild.appendChild(referenceChild)
+          // strongsChild.appendChild(wordChild)
+          strongsChild.appendChild(og_verseChild)
+          strongsChild.appendChild(eng_verseChild)
+          third.appendChild(strongsChild)
+        }
+
       })
     }
   }
