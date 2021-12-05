@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "2 Corinthians 6:5",
-    "word": "ἀγρυπνίαις",
-    "verse": "κόποις ἐν ἀγρυπνίαις ἐν νηστείαις",
-    "verseBefore": "κόποις ἐν ",
-    "verseAfter": " ἐν νηστείαις"
-  },
-  {
-    "reference": "2 Corinthians 11:27",
-    "word": "ἀγρυπνίαις",
-    "verse": "μόχθῳ ἐν ἀγρυπνίαις πολλάκις ἐν",
-    "verseBefore": "μόχθῳ ἐν ",
-    "verseAfter": " πολλάκις ἐν"
-  }
-]
+[{"reference":"2 Corinthians 6:5","eng_before":["in","beatings,","imprisonments,","[and] riots;","in","labor,"],"eng_word":"sleepless nights,","eng_after":["[and] hunger;"],"og_before":["ἐν","πληγαῖς","φυλακαῖς","ἀκαταστασίαις","ἐν","κόποις"],"og_word":"ἀγρυπνίαις","og_after":["νηστείαις"]},{"reference":"2 Corinthians 11:27","eng_before":["in labor","and","toil","[and] often"],"eng_word":"without sleep,","eng_after":["in","hunger","and","thirst","[and] often","without food,","in","cold","and","exposure."],"og_before":["κόπῳ","καὶ","μόχθῳ","πολλάκις"],"og_word":"ἀγρυπνίαις","og_after":["ἐν","λιμῷ","καὶ","δίψει","πολλάκις","νηστείαις","ἐν","ψύχει","καὶ","γυμνότητι"]}]

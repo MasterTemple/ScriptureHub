@@ -220,5 +220,59 @@ module.exports = {
 
   })
 },
+async fullyCompleteStrongsData(lang, num) {
+
+  return new Promise (async(resolve, reject) => {
+    console.log(`Strong's ${lang} #${num}`);
+    let data = []
+    let map = {}
+    let file = require(`./BibleHub/json/strongs/${lang}/${num}.json`)
+    file.forEach(({reference}) => {
+      // console.log(reference);
+      if(map[reference]) map[reference]++
+      else map[reference] = 1
+      let book = reference.match(/[\w\s]+(?= \d)/g)[0] //book
+      if(book === "Psalm") book = "Psalms"
+      // else if(book.includes("Song"))
+      let chapter = reference.match(/(?<=[\w\s]+)\d+/g)[0] //chapter
+      let verse = reference.match(/(?<=[\w\s]+:)\d+/g)[0] //verse
+      let intFile = require(`./BibleHub/json/interlinear/${book}/${chapter}/${verse}.json`)
+
+      let obj = {
+        reference,
+        eng_before: [],
+        eng_word: undefined,
+        eng_after: [],
+        og_before: [],
+        og_word: undefined,
+        og_after: [],
+      }
+      let count = 1
+      for(let word of intFile){
+
+        if(word.num === num && count === map[reference]){
+          obj.eng_word = word.word
+          obj.og_word = word.heb || word.grk
+        }
+        else{
+          if(obj.eng_word){
+            obj.og_after.push(word.heb || word.grk)
+            obj.eng_after.push(word.word)
+          }else{
+            obj.og_before.push(word.heb || word.grk)
+            obj.eng_before.push(word.word)
+          }
+        }
+
+      }
+
+      data.push(obj)
+    })
+
+    await writeFile(`./BibleHub/json/strongs/${lang}/${num}.json`, JSON.stringify(data))
+    resolve()
+
+  })
+},
 
 }

@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Matthew 1:9",
-    "word": "Ἀχάζ",
-    "verse": "ἐγέννησεν τὸν Ἀχάζ Ἀχὰζ δὲ",
-    "verseBefore": "ἐγέννησεν τὸν ",
-    "verseAfter": " Ἀχὰζ δὲ"
-  },
-  {
-    "reference": "Matthew 1:9",
-    "word": "Ἀχὰζ",
-    "verse": "τὸν Ἀχάζ Ἀχὰζ δὲ ἐγέννησεν",
-    "verseBefore": "τὸν Ἀχάζ ",
-    "verseAfter": " δὲ ἐγέννησεν"
-  }
-]
+[{"reference":"Matthew 1:9","eng_before":["Uzziah","was the father of","Jotham,","Jotham","the father of"],"eng_word":"Ahaz","eng_after":["and","the father of","Hezekiah."],"og_before":["Ὀζίας","ἐγέννησεν","Ἰωαθάμ","Ἰωαθὰμ","ἐγέννησεν"],"og_word":"Ἄχαζ","og_after":["δὲ","ἐγέννησεν","Ἑζεκίαν"]},{"reference":"Matthew 1:9","eng_before":["Uzziah","was the father of","Jotham,","Jotham","the father of","Ahaz,","and","Ahaz","the father of","Hezekiah."],"eng_after":[],"og_before":["Ὀζίας","ἐγέννησεν","Ἰωαθάμ","Ἰωαθὰμ","ἐγέννησεν","Ἄχαζ","δὲ","Ἄχαζ","ἐγέννησεν","Ἑζεκίαν"],"og_after":[]}]

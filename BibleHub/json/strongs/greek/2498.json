@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Matthew 1:8",
-    "word": "Ἰωσαφάτ",
-    "verse": "ἐγέννησεν τὸν Ἰωσαφάτ Ἰωσαφὰτ δὲ",
-    "verseBefore": "ἐγέννησεν τὸν ",
-    "verseAfter": " Ἰωσαφὰτ δὲ"
-  },
-  {
-    "reference": "Matthew 1:8",
-    "word": "Ἰωσαφὰτ",
-    "verse": "τὸν Ἰωσαφάτ Ἰωσαφὰτ δὲ ἐγέννησεν",
-    "verseBefore": "τὸν Ἰωσαφάτ ",
-    "verseAfter": " δὲ ἐγέννησεν"
-  }
-]
+[{"reference":"Matthew 1:8","eng_before":["Asa","was the father of"],"eng_word":"Jehoshaphat","eng_after":["the father of","Joram,","and","Joram","the father of","Uzziah."],"og_before":["Ἀσὰφ","ἐγέννησεν"],"og_word":"Ἰωσαφὰτ","og_after":["ἐγέννησεν","Ἰωράμ","δὲ","Ἰωρὰμ","ἐγέννησεν","Ὀζίαν"]},{"reference":"Matthew 1:8","eng_before":["Asa","was the father of","Jehoshaphat,","Jehoshaphat","the father of","Joram,","and","Joram","the father of","Uzziah."],"eng_after":[],"og_before":["Ἀσὰφ","ἐγέννησεν","Ἰωσαφάτ","Ἰωσαφὰτ","ἐγέννησεν","Ἰωράμ","δὲ","Ἰωρὰμ","ἐγέννησεν","Ὀζίαν"],"og_after":[]}]

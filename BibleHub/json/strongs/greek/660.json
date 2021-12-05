@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Luke 9:5",
-    "word": "ἀποτινάσσετε",
-    "verse": "ποδῶν ὑμῶν ἀποτινάσσετε εἰς μαρτύριον",
-    "verseBefore": "ποδῶν ὑμῶν ",
-    "verseAfter": " εἰς μαρτύριον"
-  },
-  {
-    "reference": "Acts 28:5",
-    "word": "ἀποτινάξας",
-    "verse": "μὲν οὖν ἀποτινάξας τὸ θηρίον",
-    "verseBefore": "μὲν οὖν ",
-    "verseAfter": " τὸ θηρίον"
-  }
-]
+[{"reference":"Luke 9:5","eng_before":["If anyone","does not welcome","you,"],"eng_word":"shake","eng_after":["the","dust","off","your","feet","when you leave","that","town,","as","a testimony","against","them.”"],"og_before":["ὅσοι","δέχωνται","ὑμᾶς"],"og_word":"ἀποτινάσσετε","og_after":["τὸν","κονιορτὸν","ἀπὸ","ὑμῶν","ποδῶν","ἐξερχόμενοι","ἐκείνης","πόλεως","εἰς","μαρτύριον","ἐπ’","αὐτούς"]},{"reference":"Acts 28:5","eng_before":["But"],"eng_word":"[Paul] shook","eng_after":["the","creature","{off} into","the","fire","[and] suffered","no","ill effects."],"og_before":["μὲν"],"og_word":"ἀποτινάξας","og_after":["τὸ","θηρίον","εἰς","τὸ","πῦρ","ἔπαθεν","οὐδὲν","κακόν"]}]

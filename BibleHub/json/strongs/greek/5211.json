@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "1 Timothy 1:20",
-    "word": "Ὑμέναιος",
-    "verse": "ὧν ἐστὶν Ὑμέναιος καὶ Ἀλέξανδρος",
-    "verseBefore": "ὧν ἐστὶν ",
-    "verseAfter": " καὶ Ἀλέξανδρος"
-  },
-  {
-    "reference": "2 Timothy 2:17",
-    "word": "Ὑμέναιος",
-    "verse": "ὧν ἐστὶν Ὑμέναιος καὶ Φίλητος",
-    "verseBefore": "ὧν ἐστὶν ",
-    "verseAfter": " καὶ Φίλητος"
-  }
-]
+[{"reference":"1 Timothy 1:20","eng_before":["Among [them]","are"],"eng_word":"Hymenaeus","eng_after":["and","Alexander,","whom","I have handed over","to Satan","to","be taught","not","to blaspheme."],"og_before":["ὧν","ἐστιν"],"og_word":"Ὑμέναιος","og_after":["καὶ","Ἀλέξανδρος","οὓς","παρέδωκα","Σατανᾷ","ἵνα","παιδευθῶσιν","μὴ","βλασφημεῖν"]},{"reference":"2 Timothy 2:17","eng_before":["and","the","talk","of [such men]","will","spread","like","gangrene.","Among [them]","are"],"eng_word":"Hymenaeus","eng_after":["and","Philetus,"],"og_before":["καὶ","ὁ","λόγος","αὐτῶν","ἕξει","νομὴν","ὡς","γάγγραινα","ὧν","ἐστιν"],"og_word":"Ὑμέναιος","og_after":["καὶ","Φιλητός"]}]

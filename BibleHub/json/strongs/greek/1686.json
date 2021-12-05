@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Matthew 26:23",
-    "word": "ἐμβάψας",
-    "verse": "εἶπεν Ὁ ἐμβάψας μετ' ἐμοῦ",
-    "verseBefore": "εἶπεν Ὁ ",
-    "verseAfter": " μετ' ἐμοῦ"
-  },
-  {
-    "reference": "Mark 14:20",
-    "word": "ἐμβαπτόμενος",
-    "verse": "δώδεκα ὁ ἐμβαπτόμενος μετ' ἐμοῦ",
-    "verseBefore": "δώδεκα ὁ ",
-    "verseAfter": " μετ' ἐμοῦ"
-  }
-]
+[{"reference":"Matthew 26:23","eng_before":["[Jesus] answered,","“The [one]"],"eng_word":"who has dipped","eng_after":["[his]","hand","into","the","bowl","with","Me","will betray","Me."],"og_before":["ἀποκριθεὶς","Ὁ"],"og_word":"ἐμβάψας","og_after":["τὴν","χεῖρα","ἐν","τῷ","τρυβλίῳ","μετ’","ἐμοῦ","παραδώσει","με"]},{"reference":"Mark 14:20","eng_before":["He answered","“[It is] one of","the","Twelve—","the [one who]"],"eng_word":"is dipping [ his bread ]","eng_after":["into","the","bowl","with","Me."],"og_before":["εἶπεν","Εἷς","τῶν","δώδεκα","ὁ"],"og_word":"ἐμβαπτόμενος","og_after":["εἰς","τὸ","τρύβλιον","μετ’","ἐμοῦ"]}]

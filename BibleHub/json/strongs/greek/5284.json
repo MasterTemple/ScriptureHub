@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Acts 27:4",
-    "word": "ὑπεπλεύσαμεν",
-    "verse": "κἀκεῖθεν ἀναχθέντες ὑπεπλεύσαμεν τὴν Κύπρον",
-    "verseBefore": "κἀκεῖθεν ἀναχθέντες ",
-    "verseAfter": " τὴν Κύπρον"
-  },
-  {
-    "reference": "Acts 27:7",
-    "word": "ὑπεπλεύσαμεν",
-    "verse": "τοῦ ἀνέμου ὑπεπλεύσαμεν τὴν Κρήτην",
-    "verseBefore": "τοῦ ἀνέμου ",
-    "verseAfter": " τὴν Κρήτην"
-  }
-]
+[{"reference":"Acts 27:4","eng_before":["[After] putting out","from there,"],"eng_word":"we sailed to the lee","eng_after":["of Cyprus","because","the","winds","were","against us."],"og_before":["ἀναχθέντες","κἀκεῖθεν"],"og_word":"ὑπεπλεύσαμεν","og_after":["Κύπρον","διὰ","τοὺς","ἀνέμους","εἶναι","ἐναντίους"]},{"reference":"Acts 27:7","eng_before":["[After]","sailing slowly","for","many","days,","we arrived","off","Cnidus.","[When] the","wind","impeded","us,"],"eng_word":"we sailed to the lee","eng_after":["of Crete,","opposite","Salmone."],"og_before":["δὲ","βραδυπλοοῦντες","Ἐν","ἱκαναῖς","ἡμέραις","γενόμενοι","κατὰ","Κνίδον","τοῦ","ἀνέμου","προσεῶντος","ἡμᾶς"],"og_word":"ὑπεπλεύσαμεν","og_after":["Κρήτην","κατὰ","Σαλμώνην"]}]

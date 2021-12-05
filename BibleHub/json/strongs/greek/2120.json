@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Matthew 26:16",
-    "word": "εὐκαιρίαν",
-    "verse": "τότε ἐζήτει εὐκαιρίαν ἵνα αὐτὸν",
-    "verseBefore": "τότε ἐζήτει ",
-    "verseAfter": " ἵνα αὐτὸν"
-  },
-  {
-    "reference": "Luke 22:6",
-    "word": "εὐκαιρίαν",
-    "verse": "καὶ ἐζήτει εὐκαιρίαν τοῦ παραδοῦναι",
-    "verseBefore": "καὶ ἐζήτει ",
-    "verseAfter": " τοῦ παραδοῦναι"
-  }
-]
+[{"reference":"Matthew 26:16","eng_before":["So","from","that time on","[Judas] looked for"],"eng_word":"an opportunity","eng_after":["to","betray","[Jesus]."],"og_before":["καὶ","ἀπὸ","τότε","ἐζήτει"],"og_word":"εὐκαιρίαν","og_after":["ἵνα","παραδῷ","αὐτὸν"]},{"reference":"Luke 22:6","eng_before":["[Judas] consented,","and","began to look for"],"eng_word":"[an] opportunity","eng_after":["to betray","[Jesus]","to them","in the absence of","[a] crowd."],"og_before":["ἐξωμολόγησεν","καὶ","ἐζήτει"],"og_word":"εὐκαιρίαν","og_after":["παραδοῦναι","αὐτὸν","αὐτοῖς","ἄτερ","ὄχλου"]}]

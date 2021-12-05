@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Acts 23:34",
-    "word": "ἐπαρχείας",
-    "verse": "ἐκ ποίας ἐπαρχείας ἐστὶν καὶ",
-    "verseBefore": "ἐκ ποίας ",
-    "verseAfter": " ἐστὶν καὶ"
-  },
-  {
-    "reference": "Acts 25:1",
-    "word": "ἐπαρχείᾳ",
-    "verse": "ἐπιβὰς τῇ ἐπαρχείᾳ μετὰ τρεῖς",
-    "verseBefore": "ἐπιβὰς τῇ ",
-    "verseAfter": " μετὰ τρεῖς"
-  }
-]
+[{"reference":"Acts 23:34","eng_before":["[The governor] read [the letter]","and","asked","what"],"eng_word":"province","eng_after":["[Paul] was","from.","Learning","that","[he was] from","Cilicia,"],"og_before":["Ἀναγνοὺς","καὶ","ἐπερωτήσας","ποίας"],"og_word":"ἐπαρχείας","og_after":["ἐστὶν","ἐκ","πυθόμενος","ὅτι","ἀπὸ","Κιλικίας"]},{"reference":"Acts 25:1","eng_before":["Three","days","after","his arrival","in the"],"eng_word":"province,","eng_after":["Festus","went up","from","Caesarea","to","Jerusalem,"],"og_before":["τρεῖς","ἡμέρας","μετὰ","ἐπιβὰς","τῇ"],"og_word":"ἐπαρχείᾳ","og_after":["Φῆστος","ἀνέβη","ἀπὸ","Καισαρείας","εἰς","Ἱεροσόλυμα"]}]

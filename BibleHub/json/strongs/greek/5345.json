@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Matthew 9:26",
-    "word": "φήμη",
-    "verse": "ἐξῆλθεν ἡ φήμη αὕτη εἰς",
-    "verseBefore": "ἐξῆλθεν ἡ ",
-    "verseAfter": " αὕτη εἰς"
-  },
-  {
-    "reference": "Luke 4:14",
-    "word": "φήμη",
-    "verse": "Γαλιλαίαν καὶ φήμη ἐξῆλθεν καθ'",
-    "verseBefore": "Γαλιλαίαν καὶ ",
-    "verseAfter": " ἐξῆλθεν καθ'"
-  }
-]
+[{"reference":"Matthew 9:26","eng_before":["And","the"],"eng_word":"news","eng_after":["about this","spread","throughout","that","region."],"og_before":["καὶ","ἡ"],"og_word":"φήμη","og_after":["αὕτη","ἐξῆλθεν","εἰς","ἐκείνην","γῆν"]},{"reference":"Luke 4:14","eng_before":["Jesus","returned","to","Galilee","in","the","power","of the","Spirit,","and"],"eng_word":"[the] news","eng_after":["about","Him","spread","throughout","the","surrounding region."],"og_before":["Ἰησοῦς","ὑπέστρεψεν","εἰς","Γαλιλαίαν","ἐν","τῇ","δυνάμει","τοῦ","Πνεύματος","καὶ"],"og_word":"φήμη","og_after":["περὶ","αὐτοῦ","ἐξῆλθεν","καθ’","τῆς","περιχώρου"]}]

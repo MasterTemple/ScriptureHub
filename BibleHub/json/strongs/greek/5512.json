@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Acts 2:13",
-    "word": "διαχλευάζοντες",
-    "verse": "ἕτεροι δὲ διαχλευάζοντες ἔλεγον ὅτι",
-    "verseBefore": "ἕτεροι δὲ ",
-    "verseAfter": " ἔλεγον ὅτι"
-  },
-  {
-    "reference": "Acts 17:32",
-    "word": "ἐχλεύαζον",
-    "verse": "οἱ μὲν ἐχλεύαζον οἱ δὲ",
-    "verseBefore": "οἱ μὲν ",
-    "verseAfter": " οἱ δὲ"
-  }
-]
+[{"reference":"Acts 2:13","eng_before":["But","others"],"eng_word":"mocked [them]","eng_after":["[and] said,","“They are","drunk","on new wine!”"],"og_before":["δὲ","Ἕτεροι"],"og_word":"διαχλευάζοντες","og_after":["ἔλεγον","εἰσίν","μεμεστωμένοι","Γλεύκους"]},{"reference":"Acts 17:32","eng_before":["[When]","they heard about","[the] resurrection","of [the] dead,","some"],"eng_word":"began to mock [him],","eng_after":["but","[others]","said,","“We want to hear","you","again","on","this [topic].”"],"og_before":["δὲ","Ἀκούσαντες","ἀνάστασιν","νεκρῶν","οἱ"],"og_word":"ἐχλεύαζον","og_after":["δὲ","οἱ","εἶπαν","Ἀκουσόμεθά","σου","πάλιν","περὶ","τούτου"]}]

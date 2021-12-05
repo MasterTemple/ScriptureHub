@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Luke 3:24",
-    "word": "Μαθθὰτ",
-    "verse": "τοῦ Μαθθὰτ τοῦ Λευὶ",
-    "verseBefore": "τοῦ ",
-    "verseAfter": " τοῦ Λευὶ"
-  },
-  {
-    "reference": "Luke 3:29",
-    "word": "Μαθθάτ",
-    "verse": "Ἰωρὶμ τοῦ Μαθθάτ τοῦ Λευὶ",
-    "verseBefore": "Ἰωρὶμ τοῦ ",
-    "verseAfter": " τοῦ Λευὶ"
-  }
-]
+[{"reference":"Luke 3:24","eng_before":["the [son]"],"eng_word":"of Matthat,","eng_after":["the [son]","of Levi,","the [son]","of Melchi,","the [son]","of Jannai,","the [son]","of Joseph,"],"og_before":["τοῦ"],"og_word":"Μαθθὰτ","og_after":["τοῦ","Λευὶ","τοῦ","Μελχὶ","τοῦ","Ἰανναὶ","τοῦ","Ἰωσὴφ"]},{"reference":"Luke 3:29","eng_before":["the [son]","of Joshua,","the [son]","of Eliezer,","the [son]","of Jorim,","the [son]"],"eng_word":"of Matthat,","eng_after":["the [son]","of Levi,"],"og_before":["τοῦ","Ἰησοῦ","τοῦ","Ἐλιέζερ","τοῦ","Ἰωρὶμ","τοῦ"],"og_word":"Μαθθὰτ","og_after":["τοῦ","Λευὶ"]}]

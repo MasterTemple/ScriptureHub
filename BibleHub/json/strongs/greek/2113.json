@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Acts 16:11",
-    "word": "εὐθυδρομήσαμεν",
-    "verse": "ἀπὸ Τρῳάδος εὐθυδρομήσαμεν εἰς Σαμοθρᾴκην",
-    "verseBefore": "ἀπὸ Τρῳάδος ",
-    "verseAfter": " εἰς Σαμοθρᾴκην"
-  },
-  {
-    "reference": "Acts 21:1",
-    "word": "εὐθυδρομήσαντες",
-    "verse": "ἀπ' αὐτῶν εὐθυδρομήσαντες ἤλθομεν εἰς",
-    "verseBefore": "ἀπ' αὐτῶν ",
-    "verseAfter": " ἤλθομεν εἰς"
-  }
-]
+[{"reference":"Acts 16:11","eng_before":["We sailed","from","Troas"],"eng_word":"straight","eng_after":["to","Samothrace,","and","on the","following day","on to","Neapolis."],"og_before":["Ἀναχθέντες","ἀπὸ","Τρῳάδος"],"og_word":"εὐθυδρομήσαμεν","og_after":["εἰς","Σαμοθρᾴκην","δὲ","τῇ","ἐπιούσῃ","εἰς","Νέαν"]},{"reference":"Acts 21:1","eng_before":["After","we had torn ourselves away","from","them,","we","sailed"],"eng_word":"directly","eng_after":["to","Cos,","and","the","next [day]","on to","Rhodes,","and from there","to","Patara."],"og_before":["Ὡς","ἀποσπασθέντας","ἀπ’","αὐτῶν","ἡμᾶς","ἀναχθῆναι"],"og_word":"εὐθυδρομήσαντες","og_after":["εἰς","Κῶ","δὲ","τῇ","ἑξῆς","εἰς","Ῥόδον","κἀκεῖθεν","εἰς","Πάταρα"]}]

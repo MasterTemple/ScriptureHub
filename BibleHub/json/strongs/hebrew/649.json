@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "1 Chronicles 2:30",
-    "word": " וְאַפָּ֑יִם ",
-    "verse": "נָדָ֖ב סֶ֣לֶד וְאַפָּ֑יִם וַיָּ֥מָת סֶ֖לֶד",
-    "verseBefore": "נָדָ֖ב סֶ֣לֶד",
-    "verseAfter": "וַיָּ֥מָת סֶ֖לֶד"
-  },
-  {
-    "reference": "1 Chronicles 2:31",
-    "word": " אַפַּ֖יִם ",
-    "verse": " וּבְנֵ֥י אַפַּ֖יִם יִשְׁעִ֑י וּבְנֵ֤י",
-    "verseBefore": " וּבְנֵ֥י",
-    "verseAfter": "יִשְׁעִ֑י וּבְנֵ֤י"
-  }
-]
+[{"reference":"1 Chronicles 2:30","eng_before":["The sons","of Nadab:","Seled"],"eng_word":"and Appaim.","eng_after":["Seled","died","without","children."],"og_before":["וּבְנֵ֥י","נָדָ֖ב","סֶ֣לֶד"],"og_word":"וְאַפָּ֑יִם","og_after":["סֶ֖לֶד","וַיָּ֥מָת","לֹ֥א","בָנִֽים׃"]},{"reference":"1 Chronicles 2:31","eng_before":["The son"],"eng_word":"of Appaim:","eng_after":["Ishi.","The son","of Ishi:","Sheshan.","The son","of Sheshan:","Ahlai."],"og_before":["וּבְנֵ֥י"],"og_word":"אַפַּ֖יִם","og_after":["יִשְׁעִ֑י","וּבְנֵ֤י","יִשְׁעִי֙","שֵׁשָׁ֔ן","וּבְנֵ֥י","שֵׁשָׁ֖ן","אַחְלָֽי׃"]}]

@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "1 Timothy 5:6",
-    "word": "σπαταλῶσα",
-    "verse": "ἡ δὲ σπαταλῶσα ζῶσα τέθνηκεν",
-    "verseBefore": "ἡ δὲ ",
-    "verseAfter": " ζῶσα τέθνηκεν"
-  },
-  {
-    "reference": "James 5:5",
-    "word": "ἐσπαταλήσατε",
-    "verse": "γῆς καὶ ἐσπαταλήσατε ἐθρέψατε τὰς",
-    "verseBefore": "γῆς καὶ ",
-    "verseAfter": " ἐθρέψατε τὰς"
-  }
-]
+[{"reference":"1 Timothy 5:6","eng_before":["But","she who"],"eng_word":"lives for pleasure","eng_after":["is dead","[even while she] is still alive."],"og_before":["δὲ","ἡ"],"og_word":"σπαταλῶσα","og_after":["τέθνηκεν","ζῶσα"]},{"reference":"James 5:5","eng_before":["{You have lived} on","earth","in luxury","and"],"eng_word":"self-indulgence.","eng_after":["You have fattened","your","hearts","in","[the] day","of slaughter."],"og_before":["ἐπὶ","γῆς","Ἐτρυφήσατε","καὶ"],"og_word":"ἐσπαταλήσατε","og_after":["ἐθρέψατε","ὑμῶν","καρδίας","ἐν","ἡμέρᾳ","σφαγῆς"]}]

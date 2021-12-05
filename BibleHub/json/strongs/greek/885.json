@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Matthew 1:14",
-    "word": "Ἀχίμ",
-    "verse": "ἐγέννησεν τὸν Ἀχίμ Ἀχὶμ δὲ",
-    "verseBefore": "ἐγέννησεν τὸν ",
-    "verseAfter": " Ἀχὶμ δὲ"
-  },
-  {
-    "reference": "Matthew 1:14",
-    "word": "Ἀχὶμ",
-    "verse": "τὸν Ἀχίμ Ἀχὶμ δὲ ἐγέννησεν",
-    "verseBefore": "τὸν Ἀχίμ ",
-    "verseAfter": " δὲ ἐγέννησεν"
-  }
-]
+[{"reference":"Matthew 1:14","eng_before":["Azor","was the father of","Zadok,","Zadok","the father of"],"eng_word":"Achim","eng_after":["and","the father of","Eliud."],"og_before":["Ἀζὼρ","ἐγέννησεν","Σαδώκ","Σαδὼκ","ἐγέννησεν"],"og_word":"Ἀχὶμ","og_after":["δὲ","ἐγέννησεν","Ἐλιούδ"]},{"reference":"Matthew 1:14","eng_before":["Azor","was the father of","Zadok,","Zadok","the father of","Achim,","and","Achim","the father of","Eliud."],"eng_after":[],"og_before":["Ἀζὼρ","ἐγέννησεν","Σαδώκ","Σαδὼκ","ἐγέννησεν","Ἀχίμ","δὲ","Ἀχὶμ","ἐγέννησεν","Ἐλιούδ"],"og_after":[]}]

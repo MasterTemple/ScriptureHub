@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Genesis 25:14",
-    "word": " וּמַשָּֽׂא׃ ",
-    "verse": "וּמִשְׁמָ֥ע וְדוּמָ֖ה וּמַשָּֽׂא׃ ",
-    "verseBefore": "וּמִשְׁמָ֥ע וְדוּמָ֖ה",
-    "verseAfter": ""
-  },
-  {
-    "reference": "1 Chronicles 1:30",
-    "word": " מַשָּׂ֖א ",
-    "verse": "מִשְׁמָ֣ע וְדוּמָ֔ה מַשָּׂ֖א חֲדַ֥ד וְתֵימָֽא׃",
-    "verseBefore": "מִשְׁמָ֣ע וְדוּמָ֔ה",
-    "verseAfter": "חֲדַ֥ד וְתֵימָֽא׃"
-  }
-]
+[{"reference":"Genesis 25:14","eng_before":["Mishma,","Dumah,"],"eng_word":"Massa,","eng_after":[],"og_before":["וּמִשְׁמָ֥ע","וְדוּמָ֖ה"],"og_word":"וּמַשָּֽׂא׃","og_after":[]},{"reference":"1 Chronicles 1:30","eng_before":["Mishma,","Dumah,"],"eng_word":"Massa,","eng_after":["Hadad,","Tema,"],"og_before":["מִשְׁמָ֣ע","וְדוּמָ֔ה"],"og_word":"מַשָּׂ֖א","og_after":["חֲדַ֥ד","וְתֵימָֽא׃"]}]

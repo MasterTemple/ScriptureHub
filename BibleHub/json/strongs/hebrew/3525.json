@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Psalm 105:18",
-    "word": " בַכֶּ֣בֶל ",
-    "verse": " עִנּ֣וּ בַכֶּ֣בֶל [רַגְלָיו כ]",
-    "verseBefore": " עִנּ֣וּ",
-    "verseAfter": "[רַגְלָיו כ]"
-  },
-  {
-    "reference": "Psalm 149:8",
-    "word": " בְּכַבְלֵ֥י ",
-    "verse": "בְּזִקִּ֑ים וְ֝נִכְבְּדֵיהֶ֗ם בְּכַבְלֵ֥י בַרְזֶֽל׃ ",
-    "verseBefore": "בְּזִקִּ֑ים וְ֝נִכְבְּדֵיהֶ֗ם",
-    "verseAfter": "בַרְזֶֽל׃ "
-  }
-]
+[{"reference":"Psalm 105:18","eng_before":["They bruised","his feet"],"eng_word":"with shackles","eng_after":["[and] placed","his neck","in irons,"],"og_before":["עִנּ֣וּ","רַגְל֑וֹ"],"og_word":"בַכֶּ֣בֶל","og_after":["בָּ֣אָה","נַפְשֽׁוֹ׃","בַּ֝רְזֶ֗ל"]},{"reference":"Psalm 149:8","eng_before":["to bind","their kings","with chains,","and their nobles"],"eng_word":"with shackles","eng_after":["of iron,"],"og_before":["לֶאְסֹ֣ר","מַלְכֵיהֶ֣ם","בְּזִקִּ֑ים","וְ֝נִכְבְּדֵיהֶ֗ם"],"og_word":"בְּכַבְלֵ֥י","og_after":["בַרְזֶֽל׃"]}]

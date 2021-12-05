@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Acts 2:10",
-    "word": "ἐπιδημοῦντες",
-    "verse": "καὶ οἱ ἐπιδημοῦντες Ῥωμαῖοι ",
-    "verseBefore": "καὶ οἱ ",
-    "verseAfter": " Ῥωμαῖοι "
-  },
-  {
-    "reference": "Acts 17:21",
-    "word": "ἐπιδημοῦντες",
-    "verse": "καὶ οἱ ἐπιδημοῦντες ξένοι εἰς",
-    "verseBefore": "καὶ οἱ ",
-    "verseAfter": " ξένοι εἰς"
-  }
-]
+[{"reference":"Acts 2:10","eng_before":["Phrygia","and","Pamphylia,","Egypt","and","the","parts","of Libya","near","Cyrene;"],"eng_word":"visitors","eng_after":["from Rome,"],"og_before":["Φρυγίαν","καὶ","Παμφυλίαν","Αἴγυπτον","καὶ","τὰ","μέρη","Λιβύης","κατὰ","Κυρήνην"],"og_word":"ἐπιδημοῦντες","og_after":["Ῥωμαῖοι"]},{"reference":"Acts 17:21","eng_before":["Now","all","[the] Athenians","and","foreigners"],"eng_word":"who lived there","eng_after":["spent their time","[doing]","nothing","[more]","than","hearing","and","articulating","new [ideas]."],"og_before":["δὲ","πάντες","Ἀθηναῖοι","καὶ","ξένοι"],"og_word":"ἐπιδημοῦντες","og_after":["ηὐκαίρουν","εἰς","οὐδὲν","ἕτερον","ἢ","ἀκούειν","ἢ","λέγειν","καινότερον"]}]

@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "James 1:8",
-    "word": "ἀκατάστατος",
-    "verse": "ἀνὴρ δίψυχος ἀκατάστατος ἐν πάσαις",
-    "verseBefore": "ἀνὴρ δίψυχος ",
-    "verseAfter": " ἐν πάσαις"
-  },
-  {
-    "reference": "James 3:8",
-    "word": "ἀκατάστατον",
-    "verse": "δύναται ἀνθρώπων ἀκατάστατον κακόν μεστὴ",
-    "verseBefore": "δύναται ἀνθρώπων ",
-    "verseAfter": " κακόν μεστὴ"
-  }
-]
+[{"reference":"James 1:8","eng_before":["[He is] a double-minded","man,"],"eng_word":"unstable","eng_after":["in","all","his","ways."],"og_before":["δίψυχος","ἀνὴρ"],"og_word":"ἀκατάστατος","og_after":["ἐν","πάσαις","αὐτοῦ","ὁδοῖς"]},{"reference":"James 3:8","eng_before":["but","no","man","can","tame","the","tongue."],"eng_word":"[It is] a restless","eng_after":["evil,","full","of deadly","poison."],"og_before":["δὲ","οὐδεὶς","ἀνθρώπων","δύναται","δαμάσαι","τὴν","γλῶσσαν"],"og_word":"ἀκατάστατον","og_after":["κακόν","μεστὴ","θανατηφόρου","ἰοῦ"]}]

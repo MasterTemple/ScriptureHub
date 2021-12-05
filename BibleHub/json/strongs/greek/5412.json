@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Matthew 11:28",
-    "word": "πεφορτισμένοι",
-    "verse": "κοπιῶντες καὶ πεφορτισμένοι κἀγὼ ἀναπαύσω",
-    "verseBefore": "κοπιῶντες καὶ ",
-    "verseAfter": " κἀγὼ ἀναπαύσω"
-  },
-  {
-    "reference": "Luke 11:46",
-    "word": "φορτίζετε",
-    "verse": "οὐαί ὅτι φορτίζετε τοὺς ἀνθρώπους",
-    "verseBefore": "οὐαί ὅτι ",
-    "verseAfter": " τοὺς ἀνθρώπους"
-  }
-]
+[{"reference":"Matthew 11:28","eng_before":["Come","to","Me,","all","you who","are weary","and"],"eng_word":"burdened,","eng_after":["and I","will give you rest."],"og_before":["Δεῦτε","πρός","με","πάντες","οἱ","κοπιῶντες","καὶ"],"og_word":"πεφορτισμένοι","og_after":["κἀγὼ","ἀναπαύσω"]},{"reference":"Luke 11:46","eng_before":["“Woe","to you","as well,","experts in the law!”","He replied."],"eng_word":"“You weigh men down","eng_after":["[with] heavy burdens,","but","you yourselves","will not lift","a","finger {to lighten}","[their]","load."],"og_before":["οὐαί","ὑμῖν","Καὶ","νομικοῖς","εἶπεν"],"og_word":"φορτίζετε","og_after":["φορτία","καὶ","αὐτοὶ","προσψαύετε","ἑνὶ","δακτύλων","τοῖς","φορτίοις"]}]

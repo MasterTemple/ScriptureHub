@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Matthew 23:10",
-    "word": "καθηγηταί",
-    "verse": "μηδὲ κληθῆτε καθηγηταί ὅτι καθηγητὴς",
-    "verseBefore": "μηδὲ κληθῆτε ",
-    "verseAfter": " ὅτι καθηγητὴς"
-  },
-  {
-    "reference": "Matthew 23:10",
-    "word": "καθηγητὴς",
-    "verse": "καθηγηταί ὅτι καθηγητὴς ὑμῶν ἐστὶν",
-    "verseBefore": "καθηγηταί ὅτι ",
-    "verseAfter": " ὑμῶν ἐστὶν"
-  }
-]
+[{"reference":"Matthew 23:10","eng_before":["Nor","are you to be called"],"eng_word":"Instructor,","eng_after":["for","you","[have]","one","the","Christ."],"og_before":["μηδὲ","κληθῆτε"],"og_word":"καθηγητὴς","og_after":["ὅτι","ὑμῶν","ἐστιν","εἷς","ὁ","Χριστός"]},{"reference":"Matthew 23:10","eng_before":["Nor","are you to be called","instructors,","for","you","[have]","one","Instructor,","the","Christ."],"eng_after":[],"og_before":["μηδὲ","κληθῆτε","καθηγηταί","ὅτι","ὑμῶν","ἐστιν","εἷς","καθηγητὴς","ὁ","Χριστός"],"og_after":[]}]

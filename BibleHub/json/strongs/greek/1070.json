@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Luke 6:21",
-    "word": "γελάσετε",
-    "verse": "νῦν ὅτι γελάσετε ",
-    "verseBefore": "νῦν ὅτι ",
-    "verseAfter": " "
-  },
-  {
-    "reference": "Luke 6:25",
-    "word": "γελῶντες",
-    "verse": "οὐαί οἱ γελῶντες νῦν ὅτι",
-    "verseBefore": "οὐαί οἱ ",
-    "verseAfter": " νῦν ὅτι"
-  }
-]
+[{"reference":"Luke 6:21","eng_before":["Blessed [are]","[you] who","hunger","now,","for","you will be satisfied.","Blessed [are]","[you] who","weep","now,","for"],"eng_word":"you will laugh.","eng_after":[],"og_before":["Μακάριοι","οἱ","πεινῶντες","νῦν","Ὅτι","χορτασθήσεσθε","Μακάριοι","οἱ","κλαίοντες","νῦν","Ὅτι"],"og_word":"γελάσετε","og_after":[]},{"reference":"Luke 6:25","eng_before":["Woe","to you","who","are well fed","now,","for","you will hunger.","Woe to","[you] who"],"eng_word":"laugh","eng_after":["now,","for","you will mourn","and","weep."],"og_before":["Οὐαὶ","ὑμῖν","οἱ","ἐμπεπλησμένοι","νῦν","Ὅτι","πεινάσετε","Οὐαί","οἱ"],"og_word":"γελῶντες","og_after":["νῦν","Ὅτι","πενθήσετε","καὶ","κλαύσετε"]}]

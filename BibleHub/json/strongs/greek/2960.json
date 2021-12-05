@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "1 Corinthians 11:20",
-    "word": "κυριακὸν",
-    "verse": "οὐκ ἔστιν κυριακὸν δεῖπνον φαγεῖν",
-    "verseBefore": "οὐκ ἔστιν ",
-    "verseAfter": " δεῖπνον φαγεῖν"
-  },
-  {
-    "reference": "Revelation 1:10",
-    "word": "κυριακῇ",
-    "verse": "ἐν τῇ κυριακῇ ἡμέρᾳ καὶ",
-    "verseBefore": "ἐν τῇ ",
-    "verseAfter": " ἡμέρᾳ καὶ"
-  }
-]
+[{"reference":"1 Corinthians 11:20","eng_before":["Now then,","[when] you","come together,","it is","not"],"eng_word":"[the] Lord’s","eng_after":["Supper","you eat."],"og_before":["οὖν","ὑμῶν","Συνερχομένων","ἔστιν","οὐκ"],"og_word":"κυριακὸν","og_after":["δεῖπνον","φαγεῖν"]},{"reference":"Revelation 1:10","eng_before":["On","the"],"eng_word":"Lord’s","eng_after":["day","I was","in","[the] Spirit,","and","I heard","behind","me","a loud","voice","like","a trumpet,"],"og_before":["ἐν","τῇ"],"og_word":"κυριακῇ","og_after":["ἡμέρᾳ","ἐγενόμην","ἐν","Πνεύματι","καὶ","ἤκουσα","ὀπίσω","μου","μεγάλην","φωνὴν","ὡς","σάλπιγγος"]}]

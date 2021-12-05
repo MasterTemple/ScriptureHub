@@ -25,7 +25,7 @@ module.exports = async(lang, num) => {
     let sentences = [...document.querySelectorAll(`.${lang}3`)].map(e => [...e.childNodes].map(t => t.textContent).join(" ").replace(/\s+/g, " "))
     let data = []
     for(let i=0; i<usedWords.length;i++){
-      let word = usedWords[i]
+      let word = usedWords[i].replace(/(\+|\*|\?|\^|\$|\\|\.|\[|\]|\{|\}|\(|\))/g, (m) => `\\${m}`)
       let verse = sentences[i]
       let verseBeforeRegex = new RegExp(`(?<=[^]+${word})`, "gi")
       let verseBefore = verse.replace(verseBeforeRegex, "")

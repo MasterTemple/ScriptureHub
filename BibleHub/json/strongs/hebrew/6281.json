@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Joshua 15:42",
-    "word": " וָעֶ֖תֶר ",
-    "verse": " לִבְנָ֥ה וָעֶ֖תֶר וְעָשָֽׁן׃ ",
-    "verseBefore": " לִבְנָ֥ה",
-    "verseAfter": "וְעָשָֽׁן׃ "
-  },
-  {
-    "reference": "Joshua 19:7",
-    "word": " וָעֶ֣תֶר ",
-    "verse": "עַ֥יִן ׀ רִמּ֖וֹן וָעֶ֣תֶר וְעָשָׁ֑ן עָרִ֥ים",
-    "verseBefore": "עַ֥יִן ׀ רִמּ֖וֹן",
-    "verseAfter": "וְעָשָׁ֑ן עָרִ֥ים"
-  }
-]
+[{"reference":"Joshua 15:42","eng_before":["Libnah,"],"eng_word":"Ether,","eng_after":["Ashan,"],"og_before":["לִבְנָ֥ה"],"og_word":"וָעֶ֖תֶר","og_after":["וְעָשָֽׁן׃"]},{"reference":"Joshua 19:7","eng_before":["Ain,","Rimmon,"],"eng_word":"Ether,","eng_after":["and Ashan—","four","cities,","along with their villages,"],"og_before":["עַ֥יִן ׀","רִמּ֖וֹן"],"og_word":"וָעֶ֣תֶר","og_after":["וְעָשָׁ֑ן","אַרְבַּ֖ע","עָרִ֥ים","וְחַצְרֵיהֶֽן׃"]}]

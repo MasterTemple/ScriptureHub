@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Matthew 1:7",
-    "word": "Ῥοβοάμ",
-    "verse": "ἐγέννησεν τὸν Ῥοβοάμ Ῥοβοὰμ δὲ",
-    "verseBefore": "ἐγέννησεν τὸν ",
-    "verseAfter": " Ῥοβοὰμ δὲ"
-  },
-  {
-    "reference": "Matthew 1:7",
-    "word": "Ῥοβοὰμ",
-    "verse": "τὸν Ῥοβοάμ Ῥοβοὰμ δὲ ἐγέννησεν",
-    "verseBefore": "τὸν Ῥοβοάμ ",
-    "verseAfter": " δὲ ἐγέννησεν"
-  }
-]
+[{"reference":"Matthew 1:7","eng_before":["Solomon","the father of"],"eng_word":"Rehoboam","eng_after":["the father of","Abijah,","and","Abijah","the father of","Asa."],"og_before":["Σολομὼν","ἐγέννησεν"],"og_word":"Ῥοβοὰμ","og_after":["ἐγέννησεν","Ἀβιά","δὲ","Ἀβιὰ","ἐγέννησεν","Ἀσάφ"]},{"reference":"Matthew 1:7","eng_before":["Solomon","the father of","Rehoboam,","Rehoboam","the father of","Abijah,","and","Abijah","the father of","Asa."],"eng_after":[],"og_before":["Σολομὼν","ἐγέννησεν","Ῥοβοάμ","Ῥοβοὰμ","ἐγέννησεν","Ἀβιά","δὲ","Ἀβιὰ","ἐγέννησεν","Ἀσάφ"],"og_after":[]}]

@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "2 Samuel 23:31",
-    "word": " הָֽעַרְבָתִ֔י ",
-    "verse": "אֲבִֽי־ עַלְבוֹן֙ הָֽעַרְבָתִ֔י עַזְמָ֖וֶת הַבַּרְחֻמִֽי׃",
-    "verseBefore": "אֲבִֽי־ עַלְבוֹן֙",
-    "verseAfter": "עַזְמָ֖וֶת הַבַּרְחֻמִֽי׃"
-  },
-  {
-    "reference": "1 Chronicles 11:32",
-    "word": " הָעַרְבָתִֽי׃ ",
-    "verse": "ס אֲבִיאֵ֖ל הָעַרְבָתִֽי׃ ס ",
-    "verseBefore": "ס אֲבִיאֵ֖ל",
-    "verseAfter": "ס "
-  }
-]
+[{"reference":"2 Samuel 23:31","eng_before":["Abi-albon"],"eng_word":"the Arbathite,","eng_after":["Azmaveth","the Barhumite,"],"og_before":["עַלְבוֹן֙"],"og_word":"הָֽעַרְבָתִ֔י","og_after":["עַזְמָ֖וֶת","הַבַּרְחֻמִֽי׃"]},{"reference":"1 Chronicles 11:32","eng_before":["Hurai","from the brooks","of Gaash,","Abiel"],"eng_word":"the Arbathite,","eng_after":[],"og_before":["חוּרַי֙","מִנַּ֣חֲלֵי","גָ֔עַשׁ","אֲבִיאֵ֖ל"],"og_word":"הָעַרְבָתִֽי׃","og_after":[]}]

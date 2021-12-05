@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "John 14:18",
-    "word": "ὀρφανούς",
-    "verse": "ἀφήσω ὑμᾶς ὀρφανούς ἔρχομαι πρὸς",
-    "verseBefore": "ἀφήσω ὑμᾶς ",
-    "verseAfter": " ἔρχομαι πρὸς"
-  },
-  {
-    "reference": "James 1:27",
-    "word": "ὀρφανοὺς",
-    "verse": "ἐστίν ἐπισκέπτεσθαι ὀρφανοὺς καὶ χήρας",
-    "verseBefore": "ἐστίν ἐπισκέπτεσθαι ",
-    "verseAfter": " καὶ χήρας"
-  }
-]
+[{"reference":"John 14:18","eng_before":["I will not leave","you"],"eng_word":"as orphans;","eng_after":["I will come","to","you."],"og_before":["ἀφήσω","ὑμᾶς"],"og_word":"ὀρφανούς","og_after":["ἔρχομαι","πρὸς","ὑμᾶς"]},{"reference":"James 1:27","eng_before":["Pure","and","undefiled","religion","before","[our]","God","and","Father","is","this:","to care for"],"eng_word":"orphans","eng_after":["and","widows","in","their","distress,","[and] to keep","oneself","from being polluted","by","the","world."],"og_before":["καθαρὰ","καὶ","ἀμίαντος","θρησκεία","παρὰ","τῷ","Θεῷ","καὶ","Πατρὶ","ἐστίν","αὕτη","ἐπισκέπτεσθαι"],"og_word":"ὀρφανοὺς","og_after":["καὶ","χήρας","ἐν","αὐτῶν","θλίψει","τηρεῖν","ἑαυτὸν","ἄσπιλον","ἀπὸ","τοῦ","κόσμου"]}]

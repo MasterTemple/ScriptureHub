@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "John 13:4",
-    "word": "λέντιον",
-    "verse": "καὶ λαβὼν λέντιον διέζωσεν ἑαυτόν",
-    "verseBefore": "καὶ λαβὼν ",
-    "verseAfter": " διέζωσεν ἑαυτόν"
-  },
-  {
-    "reference": "John 13:5",
-    "word": "λεντίῳ",
-    "verse": "ἐκμάσσειν τῷ λεντίῳ ᾧ ἦν",
-    "verseBefore": "ἐκμάσσειν τῷ ",
-    "verseAfter": " ᾧ ἦν"
-  }
-]
+[{"reference":"John 13:4","eng_before":["[So] He got up","from","the","supper,","laid aside","[His]","outer garments,","and","wrapped"],"eng_word":"a towel","eng_after":["{around} His {waist}."],"og_before":["ἐγείρεται","ἐκ","τοῦ","δείπνου","τίθησιν","τὰ","ἱμάτια","καὶ","διέζωσεν"],"og_word":"λέντιον","og_after":["ἑαυτόν"]},{"reference":"John 13:5","eng_before":["After that,","He poured","water","into","a basin","and","began","to wash","the","disciples’","feet","and","dry [them]","with the"],"eng_word":"towel","eng_after":["that","was","around Him."],"og_before":["εἶτα","βάλλει","ὕδωρ","εἰς","νιπτῆρα","καὶ","ἤρξατο","νίπτειν","τοὺς","μαθητῶν","πόδας","καὶ","ἐκμάσσειν","τῷ"],"og_word":"λεντίῳ","og_after":["ᾧ","ἦν","διεζωσμένος"]}]

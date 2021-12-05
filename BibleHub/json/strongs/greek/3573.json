@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Matthew 25:5",
-    "word": "ἐνύσταξαν",
-    "verse": "τοῦ νυμφίου ἐνύσταξαν πᾶσαι καὶ",
-    "verseBefore": "τοῦ νυμφίου ",
-    "verseAfter": " πᾶσαι καὶ"
-  },
-  {
-    "reference": "2 Peter 2:3",
-    "word": "νυστάζει",
-    "verse": "αὐτῶν οὐ νυστάζει ",
-    "verseBefore": "αὐτῶν οὐ ",
-    "verseAfter": " "
-  }
-]
+[{"reference":"Matthew 25:5","eng_before":["[When]","the","bridegroom","was delayed,"],"eng_word":"they all became drowsy","eng_after":["and","fell asleep."],"og_before":["δὲ","τοῦ","νυμφίου","χρονίζοντος"],"og_word":"ἐνύσταξαν","og_after":["καὶ","ἐκάθευδον"]},{"reference":"2 Peter 2:3","eng_before":["In","their greed,","[these false teachers] will exploit","you","with tales","they have concocted.","The","longstanding","verdict","against them","remains in force,","and","their","destruction","{does} not"],"eng_word":"sleep.","eng_after":[],"og_before":["ἐν","πλεονεξίᾳ","ἐμπορεύσονται","ὑμᾶς","λόγοις","πλαστοῖς","τὸ","ἔκπαλαι","κρίμα","οἷς","ἀργεῖ","καὶ","αὐτῶν","ἀπώλεια","οὐ"],"og_word":"νυστάζει","og_after":[]}]

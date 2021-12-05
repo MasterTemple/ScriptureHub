@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Romans 8:20",
-    "word": "ἑκοῦσα",
-    "verse": "ὑπετάγη οὐχ ἑκοῦσα ἀλλὰ διὰ",
-    "verseBefore": "ὑπετάγη οὐχ ",
-    "verseAfter": " ἀλλὰ διὰ"
-  },
-  {
-    "reference": "1 Corinthians 9:17",
-    "word": "ἑκὼν",
-    "verse": "εἰ γὰρ ἑκὼν τοῦτο πράσσω",
-    "verseBefore": "εἰ γὰρ ",
-    "verseAfter": " τοῦτο πράσσω"
-  }
-]
+[{"reference":"Romans 8:20","eng_before":["For","the","creation","was subjected","to","futility,","not"],"eng_word":"by its own will,","eng_after":["but","because of","the [One who]","subjected [it],","in","hope"],"og_before":["γὰρ","ἡ","κτίσις","ὑπετάγη","τῇ","ματαιότητι","οὐχ"],"og_word":"ἑκοῦσα","og_after":["ἀλλὰ","διὰ","τὸν","ὑποτάξαντα","ἐφ’","ἑλπίδι"]},{"reference":"1 Corinthians 9:17","eng_before":["If","my","[preaching]"],"eng_word":"[is] voluntary,","eng_after":["I have","a reward.","But","if","[it is] not voluntary,","I am [still] entrusted with","[a] responsibility."],"og_before":["εἰ","πράσσω","τοῦτο"],"og_word":"ἑκὼν","og_after":["ἔχω","μισθὸν","δὲ","εἰ","ἄκων","πεπίστευμαι","οἰκονομίαν"]}]

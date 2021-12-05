@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "1 Chronicles 2:40",
-    "word": " סִֽסְמָ֔י ",
-    "verse": "הֹלִ֣יד אֶת־ סִֽסְמָ֔י וְסִסְמַ֖י הֹלִ֥יד",
-    "verseBefore": "הֹלִ֣יד אֶת־",
-    "verseAfter": "וְסִסְמַ֖י הֹלִ֥יד"
-  },
-  {
-    "reference": "1 Chronicles 2:40",
-    "word": " וְסִסְמַ֖י ",
-    "verse": "אֶת־ סִֽסְמָ֔י וְסִסְמַ֖י הֹלִ֥יד אֶת־",
-    "verseBefore": "אֶת־ סִֽסְמָ֔י",
-    "verseAfter": "הֹלִ֥יד אֶת־"
-  }
-]
+[{"reference":"1 Chronicles 2:40","eng_before":["Elasah","was the father of"],"eng_word":"Sismai","eng_after":["was the father of","Shallum,"],"og_before":["וְאֶלְעָשָׂה֙","הֹלִ֣יד"],"og_word":"וְסִסְמַ֖י","og_after":["הֹלִ֥יד","שַׁלּֽוּם׃"]},{"reference":"1 Chronicles 2:40","eng_before":["Elasah","was the father of","Sismai,","Sismai","was the father of","Shallum,"],"eng_after":[],"og_before":["וְאֶלְעָשָׂה֙","הֹלִ֣יד","סִֽסְמָ֔י","וְסִסְמַ֖י","הֹלִ֥יד","שַׁלּֽוּם׃"],"og_after":[]}]

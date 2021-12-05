@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "1 Chronicles 2:37",
-    "word": " אֶפְלָ֔ל ",
-    "verse": "הוֹלִ֣יד אֶת־ אֶפְלָ֔ל וְאֶפְלָ֖ל הוֹלִ֥יד",
-    "verseBefore": "הוֹלִ֣יד אֶת־",
-    "verseAfter": "וְאֶפְלָ֖ל הוֹלִ֥יד"
-  },
-  {
-    "reference": "1 Chronicles 2:37",
-    "word": " וְאֶפְלָ֖ל ",
-    "verse": "אֶת־ אֶפְלָ֔ל וְאֶפְלָ֖ל הוֹלִ֥יד אֶת־",
-    "verseBefore": "אֶת־ אֶפְלָ֔ל",
-    "verseAfter": "הוֹלִ֥יד אֶת־"
-  }
-]
+[{"reference":"1 Chronicles 2:37","eng_before":["Zabad","was the father of"],"eng_word":"Ephlal","eng_after":["was the father of","Obed."],"og_before":["וְזָבָד֙","הוֹלִ֣יד"],"og_word":"וְאֶפְלָ֖ל","og_after":["הוֹלִ֥יד","עוֹבֵֽד׃"]},{"reference":"1 Chronicles 2:37","eng_before":["Zabad","was the father of","Ephlal,","Ephlal","was the father of","Obed."],"eng_after":[],"og_before":["וְזָבָד֙","הוֹלִ֣יד","אֶפְלָ֔ל","וְאֶפְלָ֖ל","הוֹלִ֥יד","עוֹבֵֽד׃"],"og_after":[]}]

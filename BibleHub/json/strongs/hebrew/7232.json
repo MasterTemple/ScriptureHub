@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Genesis 49:23",
-    "word": " וָרֹ֑בּוּ ",
-    "verse": " וַֽיְמָרֲרֻ֖הוּ וָרֹ֑בּוּ וַֽיִּשְׂטְמֻ֖הוּ בַּעֲלֵ֥י",
-    "verseBefore": " וַֽיְמָרֲרֻ֖הוּ",
-    "verseAfter": "וַֽיִּשְׂטְמֻ֖הוּ בַּעֲלֵ֥י"
-  },
-  {
-    "reference": "Psalm 18:14",
-    "word": " רָ֝ב ",
-    "verse": "וַיְפִיצֵ֑ם וּבְרָקִ֥ים רָ֝ב וַיְהֻמֵּֽם׃ ",
-    "verseBefore": "וַיְפִיצֵ֑ם וּבְרָקִ֥ים",
-    "verseAfter": "וַיְהֻמֵּֽם׃ "
-  }
-]
+[{"reference":"Genesis 49:23","eng_before":["The archers","attacked him with bitterness,"],"eng_word":"and aimed","eng_after":["in hostility."],"og_before":["בַּעֲלֵ֥י","וַֽיְמָרֲרֻ֖הוּ"],"og_word":"וָרֹ֑בּוּ","og_after":["וַֽיִּשְׂטְמֻ֖הוּ"]},{"reference":"Psalm 18:14","eng_before":["He shot","His arrows","and scattered [the foes];"],"eng_word":"He hurled","eng_after":["lightning","and routed them."],"og_before":["וַיִּשְׁלַ֣ח","חִ֭צָּיו","וַיְפִיצֵ֑ם"],"og_word":"רָ֝ב","og_after":["וּבְרָקִ֥ים","וַיְהֻמֵּֽם׃"]}]

@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Luke 3:20",
-    "word": "κατέκλεισεν",
-    "verse": "πᾶσιν καὶ κατέκλεισεν τὸν Ἰωάννην",
-    "verseBefore": "πᾶσιν καὶ ",
-    "verseAfter": " τὸν Ἰωάννην"
-  },
-  {
-    "reference": "Acts 26:10",
-    "word": "κατέκλεισα",
-    "verse": "ἐν φυλακαῖς κατέκλεισα τὴν παρὰ",
-    "verseBefore": "ἐν φυλακαῖς ",
-    "verseAfter": " τὴν παρὰ"
-  }
-]
+[{"reference":"Luke 3:20","eng_before":["[Herod] added","this","to","them all:"],"eng_word":"He locked","eng_after":["John {up}","in","prison."],"og_before":["προσέθηκεν","τοῦτο","ἐπὶ","πᾶσιν"],"og_word":"κατέκλεισεν","og_after":["Ἰωάννην","ἐν","φυλακῇ"]},{"reference":"Acts 26:10","eng_before":["And","[that] is what","I did","in","Jerusalem.","With","authority","from","the","chief priests","I"],"eng_word":"put","eng_after":["many","of the","saints","in","prison,","and","[when] they","were condemned to death,","I cast my vote against [them]."],"og_before":["καὶ","ὃ","ἐποίησα","ἐν","Ἱεροσολύμοις","λαβών","ἐξουσίαν","παρὰ","τῶν","ἀρχιερέων","ἐγὼ"],"og_word":"κατέκλεισα","og_after":["πολλούς","τῶν","ἁγίων","ἐν","φυλακαῖς","τε","αὐτῶν","ἀναιρουμένων","κατήνεγκα"]}]

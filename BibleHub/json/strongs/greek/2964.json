@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "2 Corinthians 2:8",
-    "word": "κυρῶσαι",
-    "verse": "παρακαλῶ ὑμᾶς κυρῶσαι εἰς αὐτὸν",
-    "verseBefore": "παρακαλῶ ὑμᾶς ",
-    "verseAfter": " εἰς αὐτὸν"
-  },
-  {
-    "reference": "Galatians 3:15",
-    "word": "κεκυρωμένην",
-    "verse": "ὅμως ἀνθρώπου κεκυρωμένην διαθήκην οὐδεὶς",
-    "verseBefore": "ὅμως ἀνθρώπου ",
-    "verseAfter": " διαθήκην οὐδεὶς"
-  }
-]
+[{"reference":"2 Corinthians 2:8","eng_before":["Therefore","I urge","you"],"eng_word":"to reaffirm","eng_after":["[your] love","for","him."],"og_before":["διὸ","παρακαλῶ","ὑμᾶς"],"og_word":"κυρῶσαι","og_after":["ἀγάπην","εἰς","αὐτὸν"]},{"reference":"Galatians 3:15","eng_before":["Brothers,","let me put this","in human terms.","Even","a human covenant,"],"eng_word":"once it is ratified,","eng_after":["cannot","be canceled","or","amended."],"og_before":["Ἀδελφοί","λέγω","κατὰ","ὅμως","διαθήκην"],"og_word":"κεκυρωμένην","og_after":["οὐδεὶς","ἀθετεῖ","ἢ","ἐπιδιατάσσεται"]}]

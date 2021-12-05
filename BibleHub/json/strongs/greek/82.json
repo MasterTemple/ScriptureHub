@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Luke 11:44",
-    "word": "ἄδηλα",
-    "verse": "μνημεῖα τὰ ἄδηλα καὶ οἱ",
-    "verseBefore": "μνημεῖα τὰ ",
-    "verseAfter": " καὶ οἱ"
-  },
-  {
-    "reference": "1 Corinthians 14:8",
-    "word": "ἄδηλον",
-    "verse": "γὰρ ἐὰν ἄδηλον σάλπιγξ φωνὴν",
-    "verseBefore": "γὰρ ἐὰν ",
-    "verseAfter": " σάλπιγξ φωνὴν"
-  }
-]
+[{"reference":"Luke 11:44","eng_before":["Woe","to you!","For","you are","like"],"eng_word":"unmarked","eng_after":["graves,","[which]","men","walk across","without","[even] noticing.”"],"og_before":["οὐαὶ","ὑμῖν","ὅτι","ἐστὲ","ὡς"],"og_word":"ἄδηλα","og_after":["μνημεῖα","καὶ","ἄνθρωποι","περιπατοῦντες","οὐκ","οἴδασιν"]},{"reference":"1 Corinthians 14:8","eng_before":["Again,","if","[the] trumpet","sounds"],"eng_word":"a muffled","eng_after":["call,","who","will prepare","for","battle?"],"og_before":["Καὶ","ἐὰν","σάλπιγξ","δῷ"],"og_word":"ἄδηλον","og_after":["φωνὴν","τίς","παρασκευάσεται","εἰς","πόλεμον"]}]

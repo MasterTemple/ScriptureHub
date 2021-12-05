@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Luke 14:32",
-    "word": "πρεσβείαν",
-    "verse": "πόρρω ὄντος πρεσβείαν ἀποστείλας ἐρωτᾷ",
-    "verseBefore": "πόρρω ὄντος ",
-    "verseAfter": " ἀποστείλας ἐρωτᾷ"
-  },
-  {
-    "reference": "Luke 19:14",
-    "word": "πρεσβείαν",
-    "verse": "καὶ ἀπέστειλαν πρεσβείαν ὀπίσω αὐτοῦ",
-    "verseBefore": "καὶ ἀπέστειλαν ",
-    "verseAfter": " ὀπίσω αὐτοῦ"
-  }
-]
+[{"reference":"Luke 14:32","eng_before":["And","if","[he is unable],","he will send"],"eng_word":"a delegation","eng_after":["[while the other king]","is","still","far off,","to ask","for","terms of peace."],"og_before":["δὲ","εἰ","μή¦γε","ἀποστείλας"],"og_word":"πρεσβείαν","og_after":["αὐτοῦ","ὄντος","ἔτι","πόρρω","ἐρωτᾷ","πρὸς","εἰρήνην"]},{"reference":"Luke 19:14","eng_before":["But","his","subjects","hated","him","and","sent"],"eng_word":"a delegation","eng_after":["after","him","to say,","‘We do not want","this [man]","to rule","over","us.’"],"og_before":["δὲ","αὐτοῦ","πολῖται","ἐμίσουν","αὐτόν","καὶ","ἀπέστειλαν"],"og_word":"πρεσβείαν","og_after":["ὀπίσω","αὐτοῦ","λέγοντες","θέλομεν","τοῦτον","βασιλεῦσαι","ἐφ’","ἡμᾶς"]}]

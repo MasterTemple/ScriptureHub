@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Matthew 13:5",
-    "word": "ἐξανέτειλεν",
-    "verse": "καὶ εὐθέως ἐξανέτειλεν διὰ τὸ",
-    "verseBefore": "καὶ εὐθέως ",
-    "verseAfter": " διὰ τὸ"
-  },
-  {
-    "reference": "Mark 4:5",
-    "word": "ἐξανέτειλεν",
-    "verse": "καὶ εὐθὺς ἐξανέτειλεν διὰ τὸ",
-    "verseBefore": "καὶ εὐθὺς ",
-    "verseAfter": " διὰ τὸ"
-  }
-]
+[{"reference":"Matthew 13:5","eng_before":["Some","fell","on","rocky ground,","where","they did not have","much","soil."],"eng_word":"They sprang up","eng_after":["quickly,","because","the soil","was","shallow."],"og_before":["Ἄλλα","ἔπεσεν","ἐπὶ","πετρώδη","ὅπου","εἶχεν","πολλήν","γῆν"],"og_word":"ἐξανέτειλεν","og_after":["εὐθέως","διὰ","γῆς","ἔχειν","βάθος"]},{"reference":"Mark 4:5","eng_before":["Other [ seed ]","fell","on","rocky ground,","where","it did not have","much","soil."],"eng_word":"It sprang up","eng_after":["quickly,","because","the soil","was shallow."],"og_before":["ἄλλο","ἔπεσεν","ἐπὶ","πετρῶδες","ὅπου","εἶχεν","πολλήν","γῆν"],"og_word":"ἐξανέτειλεν","og_after":["εὐθὺς","διὰ","γῆς","μὴ"]}]

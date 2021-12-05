@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Luke 3:24",
-    "word": "Μελχὶ",
-    "verse": "Λευὶ τοῦ Μελχὶ τοῦ Ἰανναί",
-    "verseBefore": "Λευὶ τοῦ ",
-    "verseAfter": " τοῦ Ἰανναί"
-  },
-  {
-    "reference": "Luke 3:28",
-    "word": "Μελχὶ",
-    "verse": "τοῦ Μελχὶ τοῦ Ἀδδὶ",
-    "verseBefore": "τοῦ ",
-    "verseAfter": " τοῦ Ἀδδὶ"
-  }
-]
+[{"reference":"Luke 3:24","eng_before":["the [son]","of Matthat,","the [son]","of Levi,","the [son]"],"eng_word":"of Melchi,","eng_after":["the [son]","of Jannai,","the [son]","of Joseph,"],"og_before":["τοῦ","Μαθθὰτ","τοῦ","Λευὶ","τοῦ"],"og_word":"Μελχὶ","og_after":["τοῦ","Ἰανναὶ","τοῦ","Ἰωσὴφ"]},{"reference":"Luke 3:28","eng_before":["the [son]"],"eng_word":"of Melchi,","eng_after":["the [son]","of Addi,","the [son]","of Cosam,","the [son]","of Elmadam,","the [son]","of Er,"],"og_before":["τοῦ"],"og_word":"Μελχὶ","og_after":["τοῦ","Ἀδδὶ","τοῦ","Κωσὰμ","τοῦ","Ἐλμαδὰμ","τοῦ","Ἢρ"]}]

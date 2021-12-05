@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Acts 9:3",
-    "word": "περιήστραψεν",
-    "verse": "τε αὐτὸν περιήστραψεν φῶς ἐκ",
-    "verseBefore": "τε αὐτὸν ",
-    "verseAfter": " φῶς ἐκ"
-  },
-  {
-    "reference": "Acts 22:6",
-    "word": "περιαστράψαι",
-    "verse": "τοῦ οὐρανοῦ περιαστράψαι φῶς ἱκανὸν",
-    "verseBefore": "τοῦ οὐρανοῦ ",
-    "verseAfter": " φῶς ἱκανὸν"
-  }
-]
+[{"reference":"Acts 9:3","eng_before":["[As]","[Saul]","drew near","to Damascus","on","his journey,","suddenly","a light","from","heaven"],"eng_word":"flashed around","eng_after":["him."],"og_before":["ἐγένετο","αὐτὸν","ἐγγίζειν","Δαμασκῷ","Ἐν","πορεύεσθαι","ἐξαίφνης","φῶς","ἐκ","οὐρανοῦ"],"og_word":"περιήστραψεν","og_after":["αὐτὸν"]},{"reference":"Acts 22:6","eng_before":["About","noon","[as]","I","was approaching","Damascus,","suddenly","a bright","light","from","heaven"],"eng_word":"flashed","eng_after":["around","me."],"og_before":["περὶ","μεσημβρίαν","Ἐγένετο","μοι","ἐγγίζοντι","Δαμασκῷ","ἐξαίφνης","ἱκανὸν","φῶς","ἐκ","οὐρανοῦ"],"og_word":"περιαστράψαι","og_after":["περὶ","ἐμέ"]}]

@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Leviticus 11:17",
-    "word": " הַשָּׁלָ֖ךְ ",
-    "verse": "הַכּ֥וֹס וְאֶת־ הַשָּׁלָ֖ךְ וְאֶת־ הַיַּנְשֽׁוּף׃",
-    "verseBefore": "הַכּ֥וֹס וְאֶת־",
-    "verseAfter": "וְאֶת־ הַיַּנְשֽׁוּף׃"
-  },
-  {
-    "reference": "Deuteronomy 14:17",
-    "word": " הַשָּׁלָֽךְ׃ ",
-    "verse": "הָרָחָ֖מָה וְאֶת־ הַשָּׁלָֽךְ׃ ",
-    "verseBefore": "הָרָחָ֖מָה וְאֶת־",
-    "verseAfter": ""
-  }
-]
+[{"reference":"Leviticus 11:17","eng_before":["the little owl,"],"eng_word":"the cormorant,","eng_after":["the great owl,"],"og_before":["הַכּ֥וֹס"],"og_word":"הַשָּׁלָ֖ךְ","og_after":["הַיַּנְשֽׁוּף׃"]},{"reference":"Deuteronomy 14:17","eng_before":["the desert owl,","the osprey,"],"eng_word":"the cormorant,","eng_after":[],"og_before":["וְהַקָּאָ֥ת","הָרָחָ֖מָה"],"og_word":"הַשָּׁלָֽךְ׃","og_after":[]}]

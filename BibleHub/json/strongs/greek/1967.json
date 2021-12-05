@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Matthew 6:11",
-    "word": "ἐπιούσιον",
-    "verse": "ἡμῶν τὸν ἐπιούσιον δὸς ἡμῖν",
-    "verseBefore": "ἡμῶν τὸν ",
-    "verseAfter": " δὸς ἡμῖν"
-  },
-  {
-    "reference": "Luke 11:3",
-    "word": "ἐπιούσιον",
-    "verse": "ἡμῶν τὸν ἐπιούσιον δίδου ἡμῖν",
-    "verseBefore": "ἡμῶν τὸν ",
-    "verseAfter": " δίδου ἡμῖν"
-  }
-]
+[{"reference":"Matthew 6:11","eng_before":["Give","us","this day","our"],"eng_word":"daily","eng_after":["bread."],"og_before":["δὸς","ἡμῖν","σήμερον","ἡμῶν"],"og_word":"ἐπιούσιον","og_after":["ἄρτον"]},{"reference":"Luke 11:3","eng_before":["Give","us","each","day","our"],"eng_word":"daily","eng_after":["bread."],"og_before":["δίδου","ἡμῖν","καθ’","ἡμέραν","ἡμῶν"],"og_word":"ἐπιούσιον","og_after":["ἄρτον"]}]

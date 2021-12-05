@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Luke 22:43",
-    "word": "ἐνισχύων",
-    "verse": "τοῦ οὐρανοῦ ἐνισχύων αὐτόν ",
-    "verseBefore": "τοῦ οὐρανοῦ ",
-    "verseAfter": " αὐτόν "
-  },
-  {
-    "reference": "Acts 9:19",
-    "word": "ἐνίσχυσεν",
-    "verse": "λαβὼν τροφὴν ἐνίσχυσεν Ἐγένετο δὲ",
-    "verseBefore": "λαβὼν τροφὴν ",
-    "verseAfter": " Ἐγένετο δὲ"
-  }
-]
+[{"reference":"Luke 22:43","eng_before":["Then","an angel","from","heaven","appeared","to Him"],"eng_word":"[and] strengthened","eng_after":["Him."],"og_before":["δὲ","ἄγγελος","ἀπ’","οὐρανοῦ","Ὤφθη","αὐτῷ"],"og_word":"ἐνισχύων","og_after":["αὐτόν"]},{"reference":"Acts 9:19","eng_before":["and","after taking","[some] food,"],"eng_word":"he regained his strength.","eng_after":["And","he spent","several","days","with","the","disciples","in","Damascus."],"og_before":["καὶ","λαβὼν","τροφὴν"],"og_word":"ἐνίσχυσεν","og_after":["δὲ","Ἐγένετο","τινὰς","ἡμέρας","μετὰ","τῶν","μαθητῶν","ἐν","Δαμασκῷ"]}]

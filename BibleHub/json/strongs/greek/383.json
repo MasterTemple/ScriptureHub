@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Mark 15:11",
-    "word": "ἀνέσεισαν",
-    "verse": "δὲ ἀρχιερεῖς ἀνέσεισαν τὸν ὄχλον",
-    "verseBefore": "δὲ ἀρχιερεῖς ",
-    "verseAfter": " τὸν ὄχλον"
-  },
-  {
-    "reference": "Luke 23:5",
-    "word": "Ἀνασείει",
-    "verse": "λέγοντες ὅτι Ἀνασείει τὸν λαὸν",
-    "verseBefore": "λέγοντες ὅτι ",
-    "verseAfter": " τὸν λαὸν"
-  }
-]
+[{"reference":"Mark 15:11","eng_before":["But","the","chief priests"],"eng_word":"stirred up","eng_after":["the","crowd","to","have him release","Barabbas","to them","instead."],"og_before":["δὲ","Οἱ","ἀρχιερεῖς"],"og_word":"ἀνέσεισαν","og_after":["τὸν","ὄχλον","ἵνα","ἀπολύσῃ","Βαραββᾶν","αὐτοῖς","μᾶλλον"]},{"reference":"Luke 23:5","eng_before":["But","they kept insisting,"],"eng_word":"“He stirs up","eng_after":["the","people","all","over","Judea","[with His] teaching.","He began","in","Galilee","[and has come] all the way","here.”"],"og_before":["δὲ","ἐπίσχυον"],"og_word":"Ἀνασείει","og_after":["τὸν","λαὸν","ὅλης","καθ’","Ἰουδαίας","διδάσκων","ἀρξάμενος","ἀπὸ","Γαλιλαίας","ἕως","ὧδε"]}]

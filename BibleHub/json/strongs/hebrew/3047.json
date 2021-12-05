@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "1 Chronicles 2:28",
-    "word": " וְיָדָ֑ע ",
-    "verse": "אוֹנָ֖ם שַׁמַּ֣י וְיָדָ֑ע וּבְנֵ֣י שַׁמַּ֔י",
-    "verseBefore": "אוֹנָ֖ם שַׁמַּ֣י",
-    "verseAfter": "וּבְנֵ֣י שַׁמַּ֔י"
-  },
-  {
-    "reference": "1 Chronicles 2:32",
-    "word": " יָדָע֙ ",
-    "verse": " וּבְנֵ֤י יָדָע֙ אֲחִ֣י שַׁמַּ֔י",
-    "verseBefore": " וּבְנֵ֤י",
-    "verseAfter": "אֲחִ֣י שַׁמַּ֔י"
-  }
-]
+[{"reference":"1 Chronicles 2:28","eng_before":["The sons","of Onam:","Shammai"],"eng_word":"and Jada.","eng_after":["The sons","of Shammai:","Nadab","and Abishur."],"og_before":["בְנֵי־","אוֹנָ֖ם","שַׁמַּ֣י"],"og_word":"וְיָדָ֑ע","og_after":["וּבְנֵ֣י","שַׁמַּ֔י","נָדָ֖ב","וַאֲבִישֽׁוּר׃"]},{"reference":"1 Chronicles 2:32","eng_before":["The sons"],"eng_word":"of Jada","eng_after":["the brother","of Shammai:","Jether","and Jonathan.","Jether","died","without","children."],"og_before":["וּבְנֵ֤י"],"og_word":"יָדָע֙","og_after":["אֲחִ֣י","שַׁמַּ֔י","יֶ֖תֶר","וְיוֹנָתָ֑ן","יֶ֖תֶר","וַיָּ֥מָת","לֹ֥א","בָנִֽים׃"]}]

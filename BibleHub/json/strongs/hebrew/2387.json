@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "1 Chronicles 24:15",
-    "word": " לְחֵזִיר֙ ",
-    "verse": " לְחֵזִיר֙ שִׁבְעָ֣ה עָשָׂ֔ר",
-    "verseBefore": "",
-    "verseAfter": "שִׁבְעָ֣ה עָשָׂ֔ר"
-  },
-  {
-    "reference": "Nehemiah 10:20",
-    "word": " חֵזִֽיר׃ ",
-    "verse": "מַגְפִּיעָ֥שׁ מְשֻׁלָּ֖ם חֵזִֽיר׃ ",
-    "verseBefore": "מַגְפִּיעָ֥שׁ מְשֻׁלָּ֖ם",
-    "verseAfter": ""
-  }
-]
+[{"reference":"1 Chronicles 24:15","eng_before":["the seventeenth"],"eng_word":"to Hezir,","eng_after":["the eighteenth","to Happizzez,"],"og_before":["שִׁבְעָ֣ה"],"og_word":"לְחֵזִיר֙","og_after":["שְׁמוֹנָ֥ה","עָשָֽׂר׃"]},{"reference":"Nehemiah 10:20","eng_before":["Magpiash,","Meshullam,"],"eng_word":"Hezir,","eng_after":[],"og_before":["מַגְפִּיעָ֥שׁ","מְשֻׁלָּ֖ם"],"og_word":"חֵזִֽיר׃","og_after":[]}]

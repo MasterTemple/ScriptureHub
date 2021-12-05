@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Matthew 10:4",
-    "word": "Καναναῖος",
-    "verse": "Σίμων ὁ Καναναῖος καὶ Ἰούδας",
-    "verseBefore": "Σίμων ὁ ",
-    "verseAfter": " καὶ Ἰούδας"
-  },
-  {
-    "reference": "Mark 3:18",
-    "word": "Καναναῖον",
-    "verse": "Σίμωνα τὸν Καναναῖον ",
-    "verseBefore": "Σίμωνα τὸν ",
-    "verseAfter": " "
-  }
-]
+[{"reference":"Matthew 10:4","eng_before":["Simon","the"],"eng_word":"Zealot,","eng_after":["and","Judas","Iscariot,","who","betrayed","[Jesus]."],"og_before":["Σίμων","ὁ"],"og_word":"Καναναῖος","og_after":["καὶ","Ἰούδας","Ἰσκαριώτης","ὁ","παραδοὺς","αὐτόν"]},{"reference":"Mark 3:18","eng_before":["Andrew,","Philip,","Bartholomew,","Matthew,","Thomas,","James","[son]","of Alphaeus,","Thaddaeus,","Simon","the"],"eng_word":"Zealot,","eng_after":[],"og_before":["Ἀνδρέαν","Φίλιππον","Βαρθολομαῖον","Μαθθαῖον","Θωμᾶν","Ἰάκωβον","τὸν","Ἁλφαίου","Θαδδαῖον","Σίμωνα","τὸν"],"og_word":"Καναναῖον","og_after":[]}]

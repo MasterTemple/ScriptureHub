@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Romans 5:13",
-    "word": "ἐλλογεῖται",
-    "verse": "δὲ οὐκ ἐλλογεῖται μὴ ὄντος",
-    "verseBefore": "δὲ οὐκ ",
-    "verseAfter": " μὴ ὄντος"
-  },
-  {
-    "reference": "Philemon 1:18",
-    "word": "ἐλλόγα",
-    "verse": "τοῦτο ἐμοὶ ἐλλόγα ",
-    "verseBefore": "τοῦτο ἐμοὶ ",
-    "verseAfter": " "
-  }
-]
+[{"reference":"Romans 5:13","eng_before":["For","sin","was","in","[the] world","before","[the] Law [was given];","but","sin"],"eng_word":"is not taken into account","eng_after":["when there is","no","law."],"og_before":["γὰρ","ἁμαρτία","ἦν","ἐν","κόσμῳ","ἄχρι","νόμου","δὲ","ἁμαρτία"],"og_word":"ἐλλογεῖται","og_after":["ὄντος","μὴ","νόμου"]},{"reference":"Philemon 1:18","eng_before":["But","if","he has wronged","you","in any way","or","owes [you anything],"],"eng_word":"charge it to my account.","eng_after":[],"og_before":["δέ","εἰ","ἠδίκησέν","σε","τι","ἢ","ὀφείλει"],"og_word":"ἐλλόγα","og_after":[]}]

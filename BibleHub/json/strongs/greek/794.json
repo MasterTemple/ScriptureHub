@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Romans 1:31",
-    "word": "ἀστόργους",
-    "verse": "ἀσυνέτους ἀσυνθέτους ἀστόργους ἀνελεήμονας ",
-    "verseBefore": "ἀσυνέτους ἀσυνθέτους ",
-    "verseAfter": " ἀνελεήμονας "
-  },
-  {
-    "reference": "2 Timothy 3:3",
-    "word": "ἄστοργοι",
-    "verse": "ἄστοργοι ἄσπονδοι διάβολοι",
-    "verseBefore": "",
-    "verseAfter": " ἄσπονδοι διάβολοι"
-  }
-]
+[{"reference":"Romans 1:31","eng_before":["[They are] senseless,","faithless,"],"eng_word":"heartless,","eng_after":["merciless."],"og_before":["ἀσυνέτους","ἀσυνθέτους"],"og_word":"ἀστόργους","og_after":["ἀνελεήμονας"]},{"reference":"2 Timothy 3:3","eng_before":[],"eng_word":"unloving,","eng_after":["unforgiving,","slanderous,","without self-control,","brutal,","without love of good,"],"og_before":[],"og_word":"ἄστοργοι","og_after":["ἄσπονδοι","διάβολοι","ἀκρατεῖς","ἀνήμεροι","ἀφιλάγαθοι"]}]

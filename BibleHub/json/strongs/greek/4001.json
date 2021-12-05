@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Luke 7:41",
-    "word": "πεντακόσια",
-    "verse": "ὤφειλεν δηνάρια πεντακόσια ὁ δὲ",
-    "verseBefore": "ὤφειλεν δηνάρια ",
-    "verseAfter": " ὁ δὲ"
-  },
-  {
-    "reference": "1 Corinthians 15:6",
-    "word": "πεντακοσίοις",
-    "verse": "ὤφθη ἐπάνω πεντακοσίοις ἀδελφοῖς ἐφάπαξ",
-    "verseBefore": "ὤφθη ἐπάνω ",
-    "verseAfter": " ἀδελφοῖς ἐφάπαξ"
-  }
-]
+[{"reference":"Luke 7:41","eng_before":["“Two [men]","were","debtors","to a certain moneylender.","One","owed [him]"],"eng_word":"five hundred","eng_after":["denarii,","and","the","other","fifty."],"og_before":["Δύο","ἦσαν","χρεοφειλέται","δανιστῇ","εἷς","ὤφειλεν"],"og_word":"πεντακόσια","og_after":["δηνάρια","δὲ","ὁ","ἕτερος","πεντήκοντα"]},{"reference":"1 Corinthians 15:6","eng_before":["After that,","He appeared","to more than"],"eng_word":"five hundred","eng_after":["brothers","at once,","most","of","whom","are still alive,","though","some","have fallen asleep."],"og_before":["ἔπειτα","ὤφθη","ἐπάνω"],"og_word":"πεντακοσίοις","og_after":["ἀδελφοῖς","ἐφάπαξ","πλείονες","ἐξ","ὧν","μένουσιν","δὲ","τινὲς","ἐκοιμήθησαν"]}]

@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "1 Chronicles 8:16",
-    "word": " וְיוֹחָ֖א ",
-    "verse": "וּמִיכָאֵ֧ל וְיִשְׁפָּ֛ה וְיוֹחָ֖א בְּנֵ֥י בְרִיעָֽה׃",
-    "verseBefore": "וּמִיכָאֵ֧ל וְיִשְׁפָּ֛ה",
-    "verseAfter": "בְּנֵ֥י בְרִיעָֽה׃"
-  },
-  {
-    "reference": "1 Chronicles 11:45",
-    "word": " וְיֹחָ֥א ",
-    "verse": "בֶּן־ שִׁמְרִ֔י וְיֹחָ֥א אָחִ֖יו הַתִּיצִֽי׃",
-    "verseBefore": "בֶּן־ שִׁמְרִ֔י",
-    "verseAfter": "אָחִ֖יו הַתִּיצִֽי׃"
-  }
-]
+[{"reference":"1 Chronicles 8:16","eng_before":["Michael,","Ishpah,"],"eng_word":"and Joha","eng_after":["[were] the sons","of Beriah."],"og_before":["וּמִיכָאֵ֧ל","וְיִשְׁפָּ֛ה"],"og_word":"וְיוֹחָ֖א","og_after":["בְּנֵ֥י","בְרִיעָֽה׃"]},{"reference":"1 Chronicles 11:45","eng_before":["Jediael","son","of Shimri","and his brother"],"eng_word":"Joha","eng_after":["the Tizite,"],"og_before":["יְדִֽיעֲאֵל֙","בֶּן־","שִׁמְרִ֔י","אָחִ֖יו"],"og_word":"וְיֹחָ֥א","og_after":["הַתִּיצִֽי׃"]}]

@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Acts 21:40",
-    "word": "σιγῆς",
-    "verse": "πολλῆς δὲ σιγῆς γενομένης προσεφώνησεν",
-    "verseBefore": "πολλῆς δὲ ",
-    "verseAfter": " γενομένης προσεφώνησεν"
-  },
-  {
-    "reference": "Revelation 8:1",
-    "word": "σιγὴ",
-    "verse": "ἑβδόμην ἐγένετο σιγὴ ἐν τῷ",
-    "verseBefore": "ἑβδόμην ἐγένετο ",
-    "verseAfter": " ἐν τῷ"
-  }
-]
+[{"reference":"Acts 21:40","eng_before":["Having received permission,","Paul","stood","on","the","steps","[and] motioned","to the","crowd.","A great"],"eng_word":"hush","eng_after":["came over [the crowd],","[and] he addressed [them]","in","Aramaic:"],"og_before":["ἐπιτρέψαντος","Παῦλος","ἑστὼς","ἐπὶ","τῶν","ἀναβαθμῶν","κατέσεισεν","τῷ","λαῷ","πολλῆς"],"og_word":"σιγῆς","og_after":["γενομένης","προσεφώνησεν","τῇ","Ἑβραΐδι"]},{"reference":"Revelation 8:1","eng_before":["When","[the Lamb] opened","the","seventh","seal,","there was"],"eng_word":"silence","eng_after":["in","heaven","for about","half an hour."],"og_before":["ὅταν","ἤνοιξεν","τὴν","ἑβδόμην","σφραγῖδα","ἐγένετο"],"og_word":"σιγὴ","og_after":["ἐν","οὐρανῷ","ὡς","ἡμιώριον"]}]

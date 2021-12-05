@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Habakkuk 1:1",
-    "word": " חֲבַקּ֖וּק ",
-    "verse": "אֲשֶׁ֣ר חָזָ֔ה חֲבַקּ֖וּק הַנָּבִֽיא׃ ",
-    "verseBefore": "אֲשֶׁ֣ר חָזָ֔ה",
-    "verseAfter": "הַנָּבִֽיא׃ "
-  },
-  {
-    "reference": "Habakkuk 3:1",
-    "word": " לַחֲבַקּ֣וּק ",
-    "verse": " תְּפִלָּ֖ה לַחֲבַקּ֣וּק הַנָּבִ֑יא עַ֖ל",
-    "verseBefore": " תְּפִלָּ֖ה",
-    "verseAfter": "הַנָּבִ֑יא עַ֖ל"
-  }
-]
+[{"reference":"Habakkuk 1:1","eng_before":["[This is] the oracle","that"],"eng_word":"Habakkuk","eng_after":["the prophet","received in a vision:"],"og_before":["הַמַּשָׂא֙‪‬‪‬","אֲשֶׁ֣ר"],"og_word":"חֲבַקּ֖וּק","og_after":["הַנָּבִֽיא׃","חָזָ֔ה"]},{"reference":"Habakkuk 3:1","eng_before":["[This is] a prayer"],"eng_word":"of Habakkuk","eng_after":["the prophet,","according to","Shigionoth:"],"og_before":["תְּפִלָּ֖ה"],"og_word":"לַחֲבַקּ֣וּק","og_after":["הַנָּבִ֑יא","עַ֖ל","שִׁגְיֹנֽוֹת׃"]}]

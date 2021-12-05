@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Acts 9:8",
-    "word": "χειραγωγοῦντες",
-    "verse": "οὐδὲν ἔβλεπεν χειραγωγοῦντες δὲ αὐτὸν",
-    "verseBefore": "οὐδὲν ἔβλεπεν ",
-    "verseAfter": " δὲ αὐτὸν"
-  },
-  {
-    "reference": "Acts 22:11",
-    "word": "χειραγωγούμενος",
-    "verse": "φωτὸς ἐκείνου χειραγωγούμενος ὑπὸ τῶν",
-    "verseBefore": "φωτὸς ἐκείνου ",
-    "verseAfter": " ὑπὸ τῶν"
-  }
-]
+[{"reference":"Acts 9:8","eng_before":["Saul","got up","from","the","ground,","but","when he opened","his","eyes","he could not see","[a thing].","[So]"],"eng_word":"they led him by the hand","eng_after":["into","Damascus."],"og_before":["Σαῦλος","ἠγέρθη","ἀπὸ","τῆς","γῆς","δὲ","ἀνεῳγμένων","αὐτοῦ","ὀφθαλμῶν","ἔβλεπεν","οὐδὲν","δὲ"],"og_word":"χειραγωγοῦντες","og_after":["εἰς","Δαμασκόν"]},{"reference":"Acts 22:11","eng_before":["Because","the","brilliance","of the","light","had blinded me,","my companions"],"eng_word":"led me by the hand","eng_after":["into","Damascus."],"og_before":["Ὡς","τῆς","δόξης","ἐκείνου","φωτὸς","ἐνέβλεπον","τῶν"],"og_word":"χειραγωγούμενος","og_after":["εἰς","Δαμασκόν"]}]

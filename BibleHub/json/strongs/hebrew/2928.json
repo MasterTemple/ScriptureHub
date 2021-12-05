@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Joshua 15:24",
-    "word": " וָטֶ֖לֶם ",
-    "verse": " זִ֥יף וָטֶ֖לֶם וּבְעָלֽוֹת׃ ",
-    "verseBefore": " זִ֥יף",
-    "verseAfter": "וּבְעָלֽוֹת׃ "
-  },
-  {
-    "reference": "Ezra 10:24",
-    "word": " וָטֶ֖לֶם ",
-    "verse": "הַשֹּׁ֣עֲרִ֔ים שַׁלֻּ֥ם וָטֶ֖לֶם וְאוּרִֽי׃ ס",
-    "verseBefore": "הַשֹּׁ֣עֲרִ֔ים שַׁלֻּ֥ם",
-    "verseAfter": "וְאוּרִֽי׃ ס"
-  }
-]
+[{"reference":"Joshua 15:24","eng_before":["Ziph,"],"eng_word":"Telem,","eng_after":["Bealoth,"],"og_before":["זִ֥יף"],"og_word":"וָטֶ֖לֶם","og_after":["וּבְעָלֽוֹת׃"]},{"reference":"Ezra 10:24","eng_before":["From","the singers:","Eliashib.","From","the gatekeepers:","Shallum,"],"eng_word":"Telem,","eng_after":["and Uri."],"og_before":["וּמִן־","הַמְשֹׁרְרִ֖ים","אֶלְיָשִׁ֑יב","וּמִן־","הַשֹּׁ֣עֲרִ֔ים","שַׁלֻּ֥ם"],"og_word":"וָטֶ֖לֶם","og_after":["וְאוּרִֽי׃"]}]

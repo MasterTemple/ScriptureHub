@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Matthew 1:15",
-    "word": "Ματθάν",
-    "verse": "ἐγέννησεν τὸν Ματθάν Ματθὰν δὲ",
-    "verseBefore": "ἐγέννησεν τὸν ",
-    "verseAfter": " Ματθὰν δὲ"
-  },
-  {
-    "reference": "Matthew 1:15",
-    "word": "Ματθὰν",
-    "verse": "τὸν Ματθάν Ματθὰν δὲ ἐγέννησεν",
-    "verseBefore": "τὸν Ματθάν ",
-    "verseAfter": " δὲ ἐγέννησεν"
-  }
-]
+[{"reference":"Matthew 1:15","eng_before":["Eliud","was the father of","Eleazar,","Eleazar","the father of"],"eng_word":"Matthan","eng_after":["the father of","Jacob,"],"og_before":["Ἐλιοὺδ","ἐγέννησεν","Ἐλεάζαρ","Ἐλεάζαρ","ἐγέννησεν"],"og_word":"Ματθὰν","og_after":["ἐγέννησεν","Ἰακώβ"]},{"reference":"Matthew 1:15","eng_before":["Eliud","was the father of","Eleazar,","Eleazar","the father of","Matthan,","Matthan","the father of","Jacob,"],"eng_after":[],"og_before":["Ἐλιοὺδ","ἐγέννησεν","Ἐλεάζαρ","Ἐλεάζαρ","ἐγέννησεν","Ματθάν","Ματθὰν","ἐγέννησεν","Ἰακώβ"],"og_after":[]}]

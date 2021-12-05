@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Matthew 1:13",
-    "word": "Ἀβιούδ",
-    "verse": "ἐγέννησεν τὸν Ἀβιούδ Ἀβιοὺδ δὲ",
-    "verseBefore": "ἐγέννησεν τὸν ",
-    "verseAfter": " Ἀβιοὺδ δὲ"
-  },
-  {
-    "reference": "Matthew 1:13",
-    "word": "Ἀβιοὺδ",
-    "verse": "τὸν Ἀβιούδ Ἀβιοὺδ δὲ ἐγέννησεν",
-    "verseBefore": "τὸν Ἀβιούδ ",
-    "verseAfter": " δὲ ἐγέννησεν"
-  }
-]
+[{"reference":"Matthew 1:13","eng_before":["Zerubbabel","the father of"],"eng_word":"Abiud","eng_after":["the father of","Eliakim,","and","Eliakim","the father of","Azor."],"og_before":["Ζοροβαβὲλ","ἐγέννησεν"],"og_word":"Ἀβιοὺδ","og_after":["ἐγέννησεν","Ἐλιακίμ","δὲ","Ἐλιακὶμ","ἐγέννησεν","Ἀζώρ"]},{"reference":"Matthew 1:13","eng_before":["Zerubbabel","the father of","Abiud,","Abiud","the father of","Eliakim,","and","Eliakim","the father of","Azor."],"eng_after":[],"og_before":["Ζοροβαβὲλ","ἐγέννησεν","Ἀβιούδ","Ἀβιοὺδ","ἐγέννησεν","Ἐλιακίμ","δὲ","Ἐλιακὶμ","ἐγέννησεν","Ἀζώρ"],"og_after":[]}]

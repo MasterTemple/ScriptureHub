@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Psalm 139:2",
-    "word": " לְ֝רֵעִ֗י ",
-    "verse": "וְקוּמִ֑י בַּ֥נְתָּה לְ֝רֵעִ֗י מֵרָחֽוֹק׃ ",
-    "verseBefore": "וְקוּמִ֑י בַּ֥נְתָּה",
-    "verseAfter": "מֵרָחֽוֹק׃ "
-  },
-  {
-    "reference": "Psalm 139:17",
-    "word": " רֵעֶ֣יךָ ",
-    "verse": "מַה־ יָּקְר֣וּ רֵעֶ֣יךָ אֵ֑ל מֶ֥ה",
-    "verseBefore": "מַה־ יָּקְר֣וּ",
-    "verseAfter": "אֵ֑ל מֶ֥ה"
-  }
-]
+[{"reference":"Psalm 139:2","eng_before":["You","know","when I sit","and when I rise;","You understand"],"eng_word":"my thoughts","eng_after":["from afar."],"og_before":["אַתָּ֣ה","יָ֭דַעְתָּ","שִׁבְתִּ֣י","וְקוּמִ֑י","בַּ֥נְתָּה"],"og_word":"לְ֝רֵעִ֗י","og_after":["מֵרָחֽוֹק׃"]},{"reference":"Psalm 139:17","eng_before":["How","precious to me"],"eng_word":"are Your thoughts,","eng_after":["O God,","how","vast","is their sum!"],"og_before":["מַה־","יָּקְר֣וּ"],"og_word":"רֵעֶ֣יךָ","og_after":["אֵ֑ל","מֶ֥ה","עָ֝צְמוּ","רָאשֵׁיהֶֽם׃"]}]

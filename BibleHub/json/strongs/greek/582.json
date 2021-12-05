@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Luke 2:2",
-    "word": "ἀπογραφὴ",
-    "verse": "αὕτη ἀπογραφὴ πρώτη ἐγένετο",
-    "verseBefore": "αὕτη ",
-    "verseAfter": " πρώτη ἐγένετο"
-  },
-  {
-    "reference": "Acts 5:37",
-    "word": "ἀπογραφῆς",
-    "verse": "ἡμέραις τῆς ἀπογραφῆς καὶ ἀπέστησεν",
-    "verseBefore": "ἡμέραις τῆς ",
-    "verseAfter": " καὶ ἀπέστησεν"
-  }
-]
+[{"reference":"Luke 2:2","eng_before":["This [was the]","first"],"eng_word":"census","eng_after":["to take place [while]","Quirinius","was governor","of","Syria."],"og_before":["αὕτη","πρώτη"],"og_word":"ἀπογραφὴ","og_after":["ἐγένετο","Κυρηνίου","ἡγεμονεύοντος","τῆς","Συρίας"]},{"reference":"Acts 5:37","eng_before":["After","[him],","Judas","the","Galilean","appeared","in","the","days","of the"],"eng_word":"census","eng_after":["and","drew away","people","after","him.","He too","perished,","and","all","his followers","were scattered."],"og_before":["μετὰ","τοῦτον","Ἰούδας","ὁ","Γαλιλαῖος","ἀνέστη","ἐν","ταῖς","ἡμέραις","τῆς"],"og_word":"ἀπογραφῆς","og_after":["καὶ","ἀπέστησεν","λαὸν","ὀπίσω","αὐτοῦ","κἀκεῖνος","ἀπώλετο","καὶ","πάντες","ὅσοι","διεσκορπίσθησαν"]}]

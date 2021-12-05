@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Acts 12:18",
-    "word": "τάραχος",
-    "verse": "ἡμέρας ἦν τάραχος οὐκ ὀλίγος",
-    "verseBefore": "ἡμέρας ἦν ",
-    "verseAfter": " οὐκ ὀλίγος"
-  },
-  {
-    "reference": "Acts 19:23",
-    "word": "τάραχος",
-    "verse": "καιρὸν ἐκεῖνον τάραχος οὐκ ὀλίγος",
-    "verseBefore": "καιρὸν ἐκεῖνον ",
-    "verseAfter": " οὐκ ὀλίγος"
-  }
-]
+[{"reference":"Acts 12:18","eng_before":["At","daybreak","there was","no","small"],"eng_word":"commotion","eng_after":["among","the","soldiers","as to what","had become [of]","Peter."],"og_before":["δὲ","ἡμέρας","ἦν","οὐκ","ὀλίγος"],"og_word":"τάραχος","og_after":["ἐν","τοῖς","στρατιώταις","τί","ἐγένετο","Πέτρος"]},{"reference":"Acts 19:23","eng_before":["About","that","time","a great"],"eng_word":"disturbance","eng_after":["arose","about","the","Way."],"og_before":["κατὰ","ἐκεῖνον","καιρὸν","ὀλίγος"],"og_word":"τάραχος","og_after":["Ἐγένετο","περὶ","τῆς","Ὁδοῦ"]}]

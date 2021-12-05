@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Luke 23:12",
-    "word": "προϋπῆρχον",
-    "verse": "μετ' ἀλλήλων προϋπῆρχον γὰρ ἐν",
-    "verseBefore": "μετ' ἀλλήλων ",
-    "verseAfter": " γὰρ ἐν"
-  },
-  {
-    "reference": "Acts 8:9",
-    "word": "προυπῆρχεν",
-    "verse": "ὀνόματι Σίμων προυπῆρχεν ἐν τῇ",
-    "verseBefore": "ὀνόματι Σίμων ",
-    "verseAfter": " ἐν τῇ"
-  }
-]
+[{"reference":"Luke 23:12","eng_before":["That","day","Herod","and","Pilate","became","friends;"],"eng_word":"before this [time]","eng_after":["they had been","enemies."],"og_before":["αὐτῇ","ἡμέρᾳ","Ἡρῴδης","καὶ","Πιλᾶτος","Ἐγένοντο","φίλοι"],"og_word":"προϋπῆρχον","og_after":["ὄντες","ἔχθρᾳ"]},{"reference":"Acts 8:9","eng_before":[],"eng_word":"Prior to that time,","eng_after":["a","man","named","Simon","had practiced sorcery","in","the","city","and","amazed","the","people","of Samaria.","He claimed","to be","someone","great,"],"og_before":[],"og_word":"προϋπῆρχεν","og_after":["τις","Ἀνὴρ","ὀνόματι","Σίμων","μαγεύων","ἐν","τῇ","πόλει","καὶ","ἐξιστάνων","τὸ","ἔθνος","Σαμαρείας","λέγων","εἶναί","τινα","μέγαν"]}]

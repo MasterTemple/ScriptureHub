@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "1 John 1:5",
-    "word": "ἀγγελία",
-    "verse": "αὕτη ἡ ἀγγελία ἣν ἀκηκόαμεν",
-    "verseBefore": "αὕτη ἡ ",
-    "verseAfter": " ἣν ἀκηκόαμεν"
-  },
-  {
-    "reference": "1 John 3:11",
-    "word": "ἀγγελία",
-    "verse": "ἐστὶν ἡ ἀγγελία ἣν ἠκούσατε",
-    "verseBefore": "ἐστὶν ἡ ",
-    "verseAfter": " ἣν ἠκούσατε"
-  }
-]
+[{"reference":"1 John 1:5","eng_before":["And","this","is","the"],"eng_word":"message","eng_after":["we have heard","from","Him","and","announce","to you:","God","is","light,","and","in","Him","there is","no","darkness","[at all]."],"og_before":["Καὶ","αὕτη","ἔστιν","ἡ"],"og_word":"ἀγγελία","og_after":["ἀκηκόαμεν","ἀπ’","αὐτοῦ","καὶ","ἀναγγέλλομεν","ὑμῖν","Θεὸς","ἐστιν","φῶς","καὶ","ἐν","αὐτῷ","ἔστιν","οὐκ","σκοτία","οὐδεμία"]},{"reference":"1 John 3:11","eng_before":["This","is","the"],"eng_word":"message","eng_after":["you have heard","from","[the] beginning:","We should love","one another."],"og_before":["αὕτη","ἐστὶν","ἡ"],"og_word":"ἀγγελία","og_after":["ἠκούσατε","ἀπ’","ἀρχῆς","ἀγαπῶμεν","ἀλλήλους"]}]

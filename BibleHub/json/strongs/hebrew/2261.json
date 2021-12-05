@@ -1,16 +1,1 @@
-[
-  {
-    "reference": "Songs 2:1",
-    "word": " חֲבַצֶּ֣לֶת ",
-    "verse": " אֲנִי֙ חֲבַצֶּ֣לֶת הַשָּׁר֔וֹן שֽׁוֹשַׁנַּ֖ת",
-    "verseBefore": " אֲנִי֙",
-    "verseAfter": "הַשָּׁר֔וֹן שֽׁוֹשַׁנַּ֖ת"
-  },
-  {
-    "reference": "Isaiah 35:1",
-    "word": " כַּחֲבַצָּֽלֶת׃ ",
-    "verse": "עֲרָבָ֛ה וְתִפְרַ֖ח כַּחֲבַצָּֽלֶת׃ ",
-    "verseBefore": "עֲרָבָ֛ה וְתִפְרַ֖ח",
-    "verseAfter": ""
-  }
-]
+[{"reference":"Songs 2:1","eng_before":["I"],"eng_word":"am a rose","eng_after":["of Sharon,","a lily","of the valley."],"og_before":["אֲנִי֙"],"og_word":"חֲבַצֶּ֣לֶת","og_after":["הַשָּׁר֔וֹן","שֽׁוֹשַׁנַּ֖ת","הָעֲמָקִֽים׃"]},{"reference":"Isaiah 35:1","eng_before":["The wilderness","and the land","will be glad;","the desert","will rejoice","and blossom"],"eng_word":"like a rose.","eng_after":[],"og_before":["מִדְבָּ֖ר","וְצִיָּ֑ה","יְשֻׂשׂ֥וּם‪‬","עֲרָבָ֛ה","וְתָגֵ֧ל","וְתִפְרַ֖ח"],"og_word":"כַּחֲבַצָּֽלֶת׃","og_after":[]}]
