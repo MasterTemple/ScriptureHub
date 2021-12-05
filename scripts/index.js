@@ -61,6 +61,62 @@ async function getPassage(book, chapter, translation){
       // .then(data => resolve(data));
   })
 }
+async function getSingleVerse(book, chapter, verse, translation){
+  return new Promise( async(resolve, reject) => {
+      fetch(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleGateway/translations/json/${book}/${chapter}/${translation}.json`)
+      .then(async(response) => {
+        try{
+          // response.json()
+          let res = await response.json()
+          verse = parseInt(verse)
+          if(verse === 1)verse = parseInt(chapter)
+          console.log(res);
+          resolve(res.find(v => v.num === verse))
+          // resolve([translation, res])
+        }
+        catch(e){
+          console.log(e);
+          resolve([])
+        }
+      })
+      // .then(data => resolve(data));
+  })
+}
+async function getInterlinearVerse(book, chapter, verse, num){
+  return new Promise( async(resolve, reject) => {
+      fetch(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/interlinear/${book}/${chapter}/${verse}.json`)
+      .then(async(response) => {
+        try{
+          // response.json()
+          let res = await response.json()
+          let obj = {
+            before: [],
+            word: undefined,
+            after: []
+          }
+          num = parseInt(num)
+          for(let w of res){
+            if(w.num !== num){
+              if(obj.word){
+                obj.after.push(w.word)
+              }else{
+                obj.before.push(w.word)
+              }
+            }else{
+              obj.word = w.word
+            }
+          }
+          resolve(obj)
+          // resolve([translation, res])
+        }
+        catch(e){
+          console.log(e);
+          resolve([])
+        }
+      })
+      // .then(data => resolve(data));
+  })
+}
 
 function getFormattedVerse(){
   let verse =  document.getElementById("search").value
@@ -418,27 +474,66 @@ async function interlinearExpandStrongs(lang, num) {
       document.querySelector("main > .first").style.display = "none";
       let data = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/strongs/${lang}/${num}.json`)
       console.log(data);
-      data.forEach(({reference, word, verse, verseBefore, verseAfter}) => {
+      data.forEach(({reference, word, verse, verseBefore, verseAfter}, c) => {
         let strongsChild = document.createElement("div")
         strongsChild.classList.add("strongs-child")
+        strongsChild.id = `strongs-child-${c}`
         let referenceChild = document.createElement("h3")
+        // referenceChild.textContent = `${reference} ${primaryTranslation}`
         referenceChild.textContent = reference
+        let verseChild = document.createElement("p")
+
+        let verseBeforeChild = document.createTextNode(verseBefore)
         let wordChild = document.createElement("span")
         wordChild.textContent = word
         wordChild.classList.add("accent")
-        let verseChild = document.createElement("p")
-        // verseChild.
-        let verseBeforeChild = document.createTextNode(verseBefore)
         let verseAfterChild = document.createTextNode(verseAfter)
-        // verseBeforeChild.textContent = verseBeforeChild
-        // verseAfterChild.textContent = verseAfterChild
+
         verseChild.appendChild(verseBeforeChild)
         verseChild.appendChild(wordChild)
         verseChild.appendChild(verseAfterChild)
 
+        let passageChild = document.createElement("p")
+
+        // passageChild.textContent = await getSingleVerse(
+        //   reference.search(/[\w\s]+(?= \d)/g), //book
+        //   reference.search(/(?<=[\w\s]+)\d+/g), //chapter
+        //   reference.search(/(?<=[\w\s]+:)\d+/g), //verse
+        //   primaryTranslation)
+        if(c < 5){
+          getInterlinearVerse(
+            reference.match(/[\w\s]+(?= \d)/g)[0], //book
+            reference.match(/(?<=[\w\s]+)\d+/g)[0], //chapter
+            reference.match(/(?<=[\w\s]+:)\d+/g)[0], //verse
+            num
+            // primaryTranslation
+            ).then((r) => {
+              console.log(r);
+              let interlinearPassageChild = document.createElement("strong")
+              interlinearPassageChild.classList.add("accent")
+              interlinearPassageChild.textContent = ` ${r.word} `
+              passageChild.appendChild(document.createTextNode(r.before.join(" ")))
+              passageChild.appendChild(interlinearPassageChild)
+              passageChild.appendChild(document.createTextNode(r.after.join(" ")))
+              if(!r.word){
+                strongsChild.classList.add("hide-interlinear")
+              }
+
+            })
+        }
+        // verseChild.
+
+
+        // verseBeforeChild.textContent = verseBeforeChild
+        // verseAfterChild.textContent = verseAfterChild
+
+
+
+
         strongsChild.appendChild(referenceChild)
         // strongsChild.appendChild(wordChild)
         strongsChild.appendChild(verseChild)
+        strongsChild.appendChild(passageChild)
         third.appendChild(strongsChild)
       })
     }
