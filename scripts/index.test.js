@@ -1,6 +1,7 @@
 const rewire = require("rewire")
 const index = rewire("./index")
 const changeRightContent = index.__get__("changeRightContent")
+const getFormattedVerse = index.__get__("getFormattedVerse")
 // @ponicode
 describe("changeRightContent", () => {
     test("0", () => {
@@ -16,5 +17,12 @@ describe("changeRightContent", () => {
     test("2", () => {
         let result = changeRightContent(undefined)
         expect(result).toMatchSnapshot()
+    })
+})
+
+// @ponicode
+describe("getFormattedVerse", () => {
+    test("0", () => {
+        getFormattedVerse("John 1:1 nasb")
     })
 })

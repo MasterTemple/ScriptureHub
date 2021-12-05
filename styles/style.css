@@ -36,6 +36,8 @@ main {
   /* transition: calc(var(--transition-speed)*4); */
   /* transition-duration: calc(var(--transition-speed)*4); */
   /* align-items: center; */
+  /* margin-bottom: 0;
+  padding-bottom: 0; */
 
 }
 body {
@@ -94,7 +96,7 @@ ul.horizontal {
   /* width: 50%; */
   /* height: calc(100vh - var(--horizontal-nav-width)); */
   /* max-height: 80vh; */
-  max-height: calc(100vh - (var(--horizontal-nav-width) + 4rem));
+  max-height: calc(100vh - (var(--horizontal-nav-width) ));
   /* resize: horizontal; */
 }
 /* .vertical {

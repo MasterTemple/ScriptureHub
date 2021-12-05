@@ -62,13 +62,22 @@ async function getPassage(book, chapter, translation){
   })
 }
 
-async function searchVerse(verse) {
-  verse = verse.replace(/psalm(?=[^s])/gim, "Psalms")
-  verse = verse.replace(/Songs? of Songs/gim, "Song of Songs")
+function getFormattedVerse(){
+  let verse =  document.getElementById("search").value
+  verse = verse.replace(/(?<=(^| ))[A-z]/gi, (m) => m.toUpperCase())
+  verse = verse.replace(/(?<=^\d? ?[A-z]+)(?=\d+:)/g, " ")
+  // verse = verse.replace(/(?<=[A-z\s]+\d:? ?)\w+/g, (m) => m.toUpperCase())
+  verse = verse.replace("Psalm", "Psalms")
+  return verse
+}
+
+async function searchVerse() {
+  // verse = verse.replace(/psalm(?=[^s])/gim, "Psalms")
+  // verse = verse.replace(/Songs? of Songs/gim, "Song of Songs")
   // let verse = document.getElementById("search").value
   // verse[0] = verse[0].toUpperCase()
-  verse = verse.replace(/^./g, (m => m.toUpperCase()))
-
+  // verse = verse.replace(/^./g, (m => m.toUpperCase()))
+  let verse = getFormattedVerse()
   apiData = {
     interlinear: [],
     commentary: [],
@@ -79,9 +88,15 @@ async function searchVerse(verse) {
   document.title = `ScriptureHub - ${verse}`
   let {book, chapter, start_verse, end_verse, givenTranslation} = [...verse.matchAll(/(?<book>\d? ?\S*) (?<chapter>\d{1,3}):?(?<start_verse>\d{1,3})?-?(?<end_verse>\d{1,3})? ?(?<givenTranslation>[A-z0-9]+)?/gim
     )]?.[0]?.groups
+  console.log({book, chapter, start_verse, end_verse, givenTranslation});
   if(!start_verse){
     start_verse = 1
     end_verse = references[book][chapter]
+  }
+  let verseRange = start_verse
+
+  if(end_verse){
+    verseRange = `${start_verse}-${end_verse}`
   }
   if(!end_verse) end_verse = start_verse
   if(availableTranslations.includes(givenTranslation?.toUpperCase())){
@@ -98,11 +113,8 @@ async function searchVerse(verse) {
   }
   start_verse = parseInt(start_verse)
   end_verse = parseInt(end_verse)
-  let verseRange = start_verse
 
-  if(end_verse){
-    verseRange = `${start_verse}-${end_verse}`
-  }
+
   // loads all the data
 
   Object.keys(apiData).forEach( async(key) => {
@@ -125,7 +137,7 @@ async function searchVerse(verse) {
       }
     }
   })
-  updateRightContent(verse)
+  updateRightContent()
 
 
   let translations = [primaryTranslation, ...availableTranslations.filter(f=>f!==primaryTranslation)]//["NASB", "ESV", "NKJV", ]
@@ -216,9 +228,9 @@ async function searchVerse(verse) {
 
 }
 
-async function updateRightContent(verse) {
+async function updateRightContent() {
   return new Promise (async(resolve, reject) => {
-
+    let verse = getFormattedVerse()
     // passing verse parameter is unnecessary
 
     // let verse = document.getElementById("search").value
@@ -688,7 +700,7 @@ function changeRightContent(iconClicked) {
   document.getElementById(`${iconClicked}-icon`).classList.add("selected")
 
   // document.getElementById(`${iconClicked}-icon`).value // IM HERE
-  updateRightContent(document.getElementById("search").value)
+  updateRightContent()
 }
 
 function getSuperScript(num){
@@ -850,8 +862,8 @@ function copyVerse(translation){
 document.querySelector("div.passage-col.version-NKJV > div.passage-text > div > div > p > span")
 document.addEventListener("DOMContentLoaded", async() => {
   let initialVerse = "John 1:1-3"
-  searchVerse(initialVerse)
   document.getElementById("search").value = initialVerse
+  searchVerse()
   // document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(0%) opacity(1)";
   document.getElementById(`${rightContent}-icon`).classList.add("selected")
   references = await get("https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/refs.json")
@@ -906,7 +918,7 @@ document.addEventListener("keyup", function(event) {
     document.getElementById("search").value = document.getElementById("search").value.replace(/^./g, (m => m.toUpperCase())).replace(/(?<=^\d? ?[A-z]+)(?=\d+:)/g, " ")
     // verse[0] = verse[0].toUpperCase()
 
-    searchVerse(document.getElementById("search").value)
+    searchVerse()
   }
   if(event.target.id === "search"){
     // console.log(event.target.value);
