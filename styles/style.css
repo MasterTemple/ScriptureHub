@@ -7,7 +7,8 @@
   --bg-secondary: #141418;
   --transition-speed: 400ms;
   --accent-color:#ce0213;
-  --gold: #b87d00;
+  --gold:#eba102;
+  /* --gold: #b87d00; */
   /* --vertical-nav-width: 8rem;
   --horizontal-nav-width: 4rem; */
   --vertical-nav-width: 6rem;
@@ -266,7 +267,7 @@ select:-webkit-autofill:focus {
   fill: var(--bg-secondary);
   stroke: var(--bg-secondary);
 }
-.commentary-header:hover > .arrow > path, .interlinear-card:hover > .arrow > path, .arrow:hover > path {
+.commentary-header:hover > .arrow > path,  .arrow:hover > path {
   fill: var(--accent-color);
   stroke: var(--accent-color);
 }
@@ -424,4 +425,9 @@ select:-webkit-autofill:focus {
 }
 .interlinear-card > svg {
   transition: var(--transition-speed);
+}
+
+.strongs-open > path {
+  fill: var(--gold);
+  stroke: var(--gold);
 }
