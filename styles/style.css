@@ -1,18 +1,31 @@
 :root {
   font-size: 16px;
   font-family: 'Open Sans';
-  --text-primary: #b6b6b6;
-  --text-secondary: #ececec;
-  --bg-primary: #23232e;
-  --bg-secondary: #141418;
   --transition-speed: 400ms;
-  --accent-color:#ce0213;
-  /* --gold:#eba102; */
-  --gold: #b87d00;
-  /* --vertical-nav-width: 8rem;
-  --horizontal-nav-width: 4rem; */
   --vertical-nav-width: 6rem;
   --horizontal-nav-width: 4rem;
+
+  --text-primary: #000000;
+  --bg-primary: #23232e;
+  --bg-secondary: #141418;
+  --arrow-color: #141418;
+  --accent-color:#ce0213;
+  --item-background: #ffffff;
+  --gold: #b87d00;
+
+
+  /* --text-primary: #fafafa;
+  --bg-primary: #2C2F33;
+  --bg-secondary: #23272A;
+  --arrow-color: #57f287;
+  --accent-color:#5865f2;
+  --item-background: #2F3136;
+  --gold: #57f287; */
+
+  /* --gold:#eba102; */
+  /* --vertical-nav-width: 8rem;
+  --horizontal-nav-width: 4rem; */
+
   /* transition: var(--transition-speed); */
 
 }
@@ -42,8 +55,9 @@ main {
 
 }
 body {
-  color: black;
-  background-color: white;
+  color: var(--text-primary);
+  /* background-color: white; */
+  background-color: var(--item-background);
   margin: 0;
   padding: 0;
 }
@@ -93,6 +107,7 @@ ul.horizontal {
   padding-left: 1rem;
   padding-right: 1rem;
   overflow-y: scroll;
+  background: var(--item-background);
   /* margin-left: 2rem; */
   /* width: 50%; */
   /* height: calc(100vh - var(--horizontal-nav-width)); */
@@ -267,8 +282,8 @@ select:-webkit-autofill:focus {
   /* show-interlinear */
 }
 .arrow > path{
-  fill: var(--bg-secondary);
-  stroke: var(--bg-secondary);
+  fill: var(--arrow-color);
+  stroke: var(--arrow-color);
 }
 .commentary-header:hover > .arrow > path,  .arrow:hover > path {
   fill: var(--accent-color);
@@ -319,15 +334,7 @@ select:-webkit-autofill:focus {
 #translation-select {
   margin: 1rem;
 }
-#color-picker {
-  /* width: 50%; */
-  /* margin: none !important; */
-  /* margin-right: 1rem; */
-}
-/* #close-dialog {
-  margin-left: 90%;
-  margin-bottom: 1rem;
-} */
+
 #dialog-menu {
   display: flex;
   flex-direction: row;
@@ -406,8 +413,7 @@ select:-webkit-autofill:focus {
 .interlinear-verse-header {
   color: var(--gold);
 }
-.interlinear-header-article {
-}
+
 .interlinear-verse-container {
   display: flex;
   flex-direction: row;
