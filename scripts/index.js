@@ -921,10 +921,10 @@ function switchColorTheme(){
     document.documentElement.style.setProperty('--text-primary', "#fafafa");
     document.documentElement.style.setProperty('--bg-primary', "#2C2F33");
     document.documentElement.style.setProperty('--bg-secondary', "#23272A");
-    document.documentElement.style.setProperty('--arrow-color', "#5865f2"); //#57f287
+    document.documentElement.style.setProperty('--arrow-color', "#5865f2"); //#57f287 // #5865f2
     document.documentElement.style.setProperty('--accent-color', "#57f287"); //#5865f2
     document.documentElement.style.setProperty('--item-background', "#2F3136");
-    document.documentElement.style.setProperty('--gold', "#57f287");
+    document.documentElement.style.setProperty('--gold', "#00b8ff");
   }
 }
 
