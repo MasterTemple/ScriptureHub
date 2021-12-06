@@ -297,6 +297,12 @@ async function updateRightContent() {
     // delete document.querySelector("main > .first").style.display
     // document.querySelector("main > .second").style.display = "";
     // document.querySelector("main > .third").style.display = "none";
+    // document.getElementById("main").removeChild(document.getElementById("strongs"))
+    document.querySelector("main > .first").style.display = "unset"
+    // document.querySelector("main > .third").style.display = "none"
+    if(document.getElementById("strongs")){
+      document.getElementById("main").removeChild(document.getElementById("strongs"))
+    }
 
     if(rightContent === "interlinear"){
       document.querySelector("main > .first").style.width = "50%";
