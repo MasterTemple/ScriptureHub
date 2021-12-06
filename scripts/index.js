@@ -467,10 +467,10 @@ async function interlinearExpandStrongs(lang, num) {
       var third = document.createElement('div')
       third.className = "item third"
       third.id = "strongs"
-      third.style.width = "40%"
+      third.style.width = "60%"
       document.getElementById("main").appendChild(third)
       // document.querySelector("main > .third").style.width = "50%";
-      document.querySelector("main > .second").style.width = "60%";
+      document.querySelector("main > .second").style.width = "40%";
       document.querySelector("main > .first").style.display = "none";
       let data = await get(`https://raw.githubusercontent.com/MasterTemple/ScriptureHub/main/BibleHub/json/strongs/${lang}/${num}.json`)
       console.log(data);
@@ -483,7 +483,7 @@ async function interlinearExpandStrongs(lang, num) {
         referenceChild.textContent = reference
 
         let og_verseBeforeChild = document.createTextNode(og_before.join(" "))
-        let og_wordChild = document.createElement("span")
+        let og_wordChild = document.createElement("strong")
         og_wordChild.textContent = ` ${og_word} `
         og_wordChild.classList.add("accent")
         let og_verseAfterChild = document.createTextNode(og_after.join(" "))
@@ -494,7 +494,7 @@ async function interlinearExpandStrongs(lang, num) {
         og_verseChild.appendChild(og_verseAfterChild)
 
         let eng_verseBeforeChild = document.createTextNode(eng_before.join(" "))
-        let eng_wordChild = document.createElement("span")
+        let eng_wordChild = document.createElement("strong")
         eng_wordChild.textContent = ` ${eng_word} `
         eng_wordChild.classList.add("accent")
         let eng_verseAfterChild = document.createTextNode(eng_after.join(" "))
