@@ -7,7 +7,7 @@ let references = require('./references.json')
 let refs = require('./refs.json')
 let getCommentaryData = require('./getCommentaryData')
 let parseCommentary = require('./parseCommentary')
-let {downloadBibleGatewayVerses, parseBibleGateway, parseTranslation, mergeInterlinears, checkVerseParsing, fixStrongsData, fullyCompleteStrongsData} = require('./functions')
+let {downloadBibleGatewayVerses, parseBibleGateway, parseTranslation, mergeInterlinears, checkVerseParsing, fixStrongsData, fullyCompleteStrongsData, getCrossReferences} = require('./functions')
 // classes are not necessary, but I thought I might use it cause I never do :)
 /*
 let referenceList = require('./referenceList.json')
@@ -188,9 +188,13 @@ async function parseAllOfBibleGateway(refs, translation) {
       // once nasb runs through i wont need to make this run anymore
       // fs.mkdir(`./BibleGateway/translations/json/${book}/${chapter}`, { recursive: true }, ()=>{})
 
-      if(!fs.existsSync(`./BibleGateway/translations/json/${book}/${chapter}/${translation}.json`)){
-        await parseTranslation(book, chapter, translation)
-      }
+      // console.log(`${book} ${chapter} ${translation}`);
+      await parseTranslation(book, chapter, translation)
+
+      // if(!fs.existsSync(`./BibleGateway/translations/json/${book}/${chapter}/${translation}.json`)){
+      //   await parseTranslation(book, chapter, translation)
+      // }
+
       // await parseBibleGateway(book, chapter, translations)
     }
   }
@@ -292,6 +296,10 @@ translationList = [...new Set([...translationList])]
 
 // translationList = ["NASB", "ESV", "NKJV"]
 
+
+// translationList = ["NASB"]
+// refs = {"Genesis":[0,51,0,0]}
+
 // translationList.forEach(e => {
 //   parseAllOfBibleGateway(refs, e)
 // })
@@ -308,5 +316,8 @@ translationList = [...new Set([...translationList])]
 // fs.writeFile("./badPassages.json", JSON.stringify(badPassages), ()=>{})
 
 // console.log(getAllCompleteTranslations(translationList))
-createStrongsJSON()
+// createStrongsJSON()
 // fixStrongsData("greek", 1)
+
+// refs = {"Songs":[0,2]}
+getCrossReferences(refs)

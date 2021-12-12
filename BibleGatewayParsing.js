@@ -21,15 +21,20 @@ module.exports = {
           })
         }
         //paragraphs
+
         [...childNodes].forEach((eachChildNode) => {
           //individual verses
           let obj = {
             num: 0,
             verse: ""
           }
+
           eachChildNode.childNodes.forEach(e => {
             let grandChildClasses = Object.values({...e.classList})
             // its the verse number
+            console.log(`${e.localName} .${e.classList}`);
+
+
             if(e.localName === "sup" && grandChildClasses.includes("versenum") || (e.localName === "span" && grandChildClasses.includes("chapternum"))){
               obj.num = parseInt(e.textContent.match(/\d+/g)[0])
             }

@@ -46,7 +46,9 @@ module.exports = {
         let data = []
         try{
           data = BibleGatewayParsing[type](document, translation)
-        }catch{}
+        }catch(e){
+          console.log(e);
+        }
         await writeFile(`./BibleGateway/translations/json/${book}/${chapter}/${translation}.json`, JSON.stringify(data))
       }
       // }catch{
@@ -275,4 +277,31 @@ async fullyCompleteStrongsData(lang, num) {
   })
 },
 
+  async getCrossReferences(refs){
+  let entries = Object.entries(refs)
+  for(let [book, chapters] of entries) {
+    for(let chapter=1;chapter<chapters.length;chapter++){
+      fs.mkdir(`./CrossReferences/json/${book}/${chapter}`, { recursive: true }, ()=>{})
+      for(let verse=1;verse<=chapters[chapter];verse++){
+        if(!fs.existsSync(`./CrossReferences/json/${book}/${chapter}/${verse}.json`)){
+          await getSingleCrossReference(book, chapter, verse)
+        }
+      }
+    }
+  }
+}
+
+}
+async function getSingleCrossReference(book, chapter, verse){
+  return new Promise( async(resolve, reject) => {
+    let ref = `${book} ${chapter}:${verse}`
+    console.log(ref);
+    let {data} = await axios({url:`https://www.openbible.info/labs/cross-references/search?q=${ref}`}).catch(e => console.log(e.toJSON()))
+    let {document} = (new JSDOM(data)).window
+    let array = [...document.querySelectorAll("#body > div > div > h3 > a")].map(m=>m.textContent)
+
+    writeFile(`./CrossReferences/json/${book}/${chapter}/${verse}.json`, JSON.stringify(array))
+    console.log(array.length, "Cross References");
+    resolve()
+  })
 }
