@@ -1,6 +1,6 @@
 // const ENTER_KEY = "13"
 var rightContent = "interlinear"
-var primaryTranslation = "ESV"
+var primaryTranslation = "NASB"
 var lightTheme = true
 var previousAccentColor = getComputedStyle(document.documentElement).getPropertyValue('--accent-color')
 var copyStyle = "newLines"
@@ -1000,7 +1000,7 @@ function switchColorTheme(){
 
 
 document.addEventListener("DOMContentLoaded", async() => {
-  let initialVerse = "John 1:1-3"
+  let initialVerse = "Genesis 3"
   document.getElementById("search").value = initialVerse
   searchVerse()
   // document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(0%) opacity(1)";

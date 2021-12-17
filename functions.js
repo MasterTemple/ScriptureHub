@@ -37,8 +37,8 @@ module.exports = {
 
       let {document} = (new JSDOM(file)).window
 
-      let type = Object.entries(parsingTypes).find(([k, t])=> t.includes(translation))?.[0] || "NASB"
-
+      // let type = Object.entries(parsingTypes).find(([k, t])=> t.includes(translation))?.[0] || "NASB"
+      let type = "test"
       // try{
       // if(translation !== "3" && translation !== "YLTKJ21" && !fs.existsSync(`./BibleGateway/translations/json/${book}/${chapter}/${translation}.json`)){
       if(translation !== "3" && translation !== "YLTKJ21"){
