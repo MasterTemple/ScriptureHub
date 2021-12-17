@@ -51,7 +51,7 @@ module.exports = {
           line.childNodes.forEach((part) => {
             if(part.localName === "br") {
               // line break
-              data.addText("\n");
+              data.addText("<br>");
             }
             else if(part.localName === "span"){
               part.childNodes.forEach((eachPart) =>{
@@ -82,7 +82,7 @@ module.exports = {
           })
 
         })
-        data.addText("\n")
+        data.addText("<br>")
       }
     }
     // console.log(data.verses);

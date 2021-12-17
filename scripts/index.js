@@ -1000,7 +1000,7 @@ function switchColorTheme(){
 
 
 document.addEventListener("DOMContentLoaded", async() => {
-  let initialVerse = "Genesis 3"
+  let initialVerse = "Genesis 3:1-23"
   document.getElementById("search").value = initialVerse
   searchVerse()
   // document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(0%) opacity(1)";
