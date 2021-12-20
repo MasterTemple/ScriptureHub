@@ -196,7 +196,8 @@ async function searchVerse() {
   })
   updateRightContent()
 
-
+  updateVerseContent(book, chapter, start_verse, end_verse, verseRange)
+  return
   let translations = [primaryTranslation, ...availableTranslations.filter(f=>f!==primaryTranslation)]//["NASB", "ESV", "NKJV", ]
   let left = document.querySelector(".first")
   let htmlToAdd = ""
@@ -282,6 +283,108 @@ async function searchVerse() {
   //     }
   //   }
   // })
+
+}
+
+function getVerseCardHeader(book, chapter, verseRange, translation){
+  let card_header = document.createElement("div")
+    card_header.classList.add("copy-verse-header")
+
+      let card_title = document.createElement("h3")
+        card_title.id = `translation-${translation}`
+        card_title.textContent = `${book} ${chapter}:${verseRange} ${translation}`
+      let card_img = document.createElementNS('http://www.w3.org/2000/svg', 'svg')
+        card_img.setAttribute("id", `${translation}-copy-icon`)
+        card_img.setAttribute("onclick", `copyVerse("${translation}")`)
+        card_img.setAttribute("width", "24px")
+        card_img.setAttribute("height", "24px")
+        card_img.setAttribute("viewBox", "0 0 24 24")
+        card_img.setAttribute("xmlns", "http://www.w3.org/2000/svg")
+        card_img.setAttribute("fill", "none")
+        card_img.setAttribute("stroke", "currentColor")
+        card_img.setAttribute("stroke-width", 2)
+        card_img.setAttribute("stroke-linecap","round")
+        card_img.setAttribute("stroke-linejoin","round")
+        card_img.setAttribute("class", "feather feather-copy")
+        card_img.innerHTML = `<rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path>`
+
+    card_header.appendChild(card_title)
+    card_header.appendChild(card_img)
+    return card_header
+}
+
+function getVerseCardText(passage, start_verse, end_verse, translation){
+  let card_text = document.createElement("div")
+  card_text.setAttribute("id", `${translation}-text`)
+  passage.forEach((verse, num) => {
+    if(num >= start_verse && num <= end_verse){
+      let verseElement = document.createElement("span")
+      verseElement.setAttribute("id", `v${num}-${translation}`)
+      verseElement.setAttribute("class", "verse-element")
+
+      let verseNum = document.createElement("sup")
+      verseNum.setAttribute("class", "verse-num")
+      verseNum.textContent = `${num}`
+
+      verseElement.appendChild(verseNum)
+
+      let textElement = document.createElement("span")
+      textElement.setAttribute("class", "column")
+
+      for(const part of verse){
+        // console.log(num, {part});
+        let element = document.createElement("p")
+        element.setAttribute("class", part.type)
+        element.textContent = part.content
+        textElement.appendChild(element)
+      }
+      verseElement.appendChild(textElement)
+      card_text.appendChild(verseElement)
+
+    }
+  })
+
+  return card_text
+
+}
+
+async function updateVerseContent(book, chapter, start_verse, end_verse, verseRange){
+
+  let translations = [primaryTranslation, ...availableTranslations.filter(f=>f!==primaryTranslation)]
+  let left = document.querySelector(".first")
+  while (left.firstChild) {
+        left.removeChild(left.firstChild);
+    }
+
+  let firstTimeLoading = false
+
+  globalVerses = {
+    book: book,
+    chapter: chapter,
+    start_verse: start_verse,
+    end_verse: end_verse
+  }
+
+  if(left.childNodes.length === 0) firstTimeLoading = true
+  let passages = translations.map(t=> getPassage(book, chapter, t))
+  passages = await Promise.all(passages)
+  console.log(passages);
+  for(const i in translations){
+    let translation = translations[i]
+    let passage = passages[i]
+    apiData.verses[translation] = passage
+
+    let card =  document.createElement("div")
+    card.id = `copy-${translation}`
+
+    let card_header = getVerseCardHeader(book, chapter, verseRange, translation)
+    card.appendChild(card_header)
+
+    let card_text = getVerseCardText(passage, start_verse, end_verse, translation)
+    card.append(card_text)
+
+    left.appendChild(card)
+  }
 
 }
 

@@ -313,8 +313,9 @@ select:-webkit-autofill:focus {
 
 .verse-num {
   font-weight: bold;
-  color: var(--accent-color)
-
+  color: var(--accent-color);
+  /* padding-top: 1rem; */
+  padding-right: 0.5rem;
 }
 #book-title {
   text-align: center;
@@ -439,4 +440,25 @@ select:-webkit-autofill:focus {
 .strongs-open > path {
   fill: var(--gold);
   stroke: var(--gold);
+}
+.verse-element {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: .5rem;
+}
+
+span.column > p.prose {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+span.column > p.header {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+}
+
+span.column > p.poetry {
+  margin-top: 0;
+  margin-bottom: 0;
 }
