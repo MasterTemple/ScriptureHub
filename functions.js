@@ -32,7 +32,8 @@ module.exports = {
   },
   async parseTranslation(book, chapter, translation) {
     return new Promise(async(resolve, reject) => {
-
+      let path = `./BibleGateway/translations/json//${book}/${chapter}/${translation}.json`
+      if(fs.existsSync(path)) resolve();
       let file = await readFile(`./BibleGateway/translations/html/${book}/${(await readdir(`./BibleGateway/translations/html/${book}`)).find(n => n.includes(`-${translation}-`))}/${chapter}.html`)
 
       let {document} = (new JSDOM(file)).window
@@ -50,7 +51,7 @@ module.exports = {
         }catch(e){
           console.log(e);
         }
-        await writeFile(`./BibleGateway/translations/json/${book}/${chapter}/${translation}.json`, JSON.stringify(data, null, 2))
+        await writeFile(path, JSON.stringify(data))
       }
       // }catch{
       //   console.log(`${translation} Failed`);
