@@ -4,7 +4,7 @@ let {readFile, writeFile, readdir} = fs.promises
 
 let {JSDOM} = require('jsdom')
 let BibleGatewayParsing = require("./BibleGatewayParsing")
-
+let parseVerses = require("./parseVerses")
 let parsingTypes = {
   "NASB": [
     "AKJV","AKJV","AMP","AMP","AMPC","AMPC","ASV","ASV","BRG","BRG","CEB","CEB","CEV","CEV","CJB","CJB","CSB","CSB","DARBY","DARBY","DLNT","DLNT","DRA","DRA","EHV","EHV","ERV","ERV","ESV","ESV","ESVUK","ESVUK","EXB","EXB","GNT","GNT","GNV","GNV","GW","GW","HCSB","HCSB","ICB","ICB","ISV","ISV","JUB","JUB","KJ21","KJV","KJV","LEB","LEB","MEV","MEV","MOUNCE","MOUNCE","MSG","MSG","NABRE","NABRE","NASB","NASB","NASB1995","NASB1995","NCB","NCB","NCV","NCV","NET","NET","NIRV","NIRV","NIVUK","NIVUK","NKJV","NKJV","NLT","NLT","NLV","NLV","NMB","NMB","NOG","NOG","NRSV","NRSV","NRSVA","NRSVA","NRSVACE","NRSVACE","NRSVCE","NRSVCE","NTE","NTE","OJB","OJB","PHILLIPS","PHILLIPS","RGT","RGT","RSV","RSV","RSVCE","RSVCE","TLB","TLB","TLV","TLV","TPT","TPT","VOICE","VOICE","WE","WE","WEB","WEB","WYC","WYC","YLT","YLTKJ21"
@@ -38,18 +38,19 @@ module.exports = {
       let {document} = (new JSDOM(file)).window
 
       // let type = Object.entries(parsingTypes).find(([k, t])=> t.includes(translation))?.[0] || "NASB"
-      let type = "test"
+      // let type = "arrayParse"
       // try{
       // if(translation !== "3" && translation !== "YLTKJ21" && !fs.existsSync(`./BibleGateway/translations/json/${book}/${chapter}/${translation}.json`)){
       if(translation !== "3" && translation !== "YLTKJ21"){
         console.log(`Parsing ${book} ${chapter} ${translation}`);
         let data = []
         try{
-          data = BibleGatewayParsing[type](document, translation)
+          // data = BibleGatewayParsing[type](document, translation)
+          data = parseVerses(document, translation)
         }catch(e){
           console.log(e);
         }
-        await writeFile(`./BibleGateway/translations/json/${book}/${chapter}/${translation}.json`, JSON.stringify(data))
+        await writeFile(`./BibleGateway/translations/json/${book}/${chapter}/${translation}.json`, JSON.stringify(data, null, 2))
       }
       // }catch{
       //   console.log(`${translation} Failed`);

@@ -28,8 +28,123 @@ class verseData {
 
 }
 
+class verseElement {
+  type;
+  content;
+  constructor(type, content){
+    this.type = type;
+    if(type === "poetry") this.content = [];
+    else this.content = "";
+  }
+  addText(text){
+    this.content += text;
+  }
+  addPoetry(text){
+    this.content.push(text)
+  }
+}
+
+class verseArray {
+  verses;
+  currentVerse;
+  element;
+  constructor(){
+    this.verses = [[], []];
+    this.currentVerse = 1;
+    this.element = new verseElement("start",)
+  }
+  getVerses(){
+    // this.verses.forEach((verse) => {
+    //   // this is cause the first element might be undefined
+    //   // verse.filter(each => each.type !== "start");
+    //   verse.filter(each => each);
+    // })
+    // this.verses[1] = this.verses[1].filter(each => each.type !== "start")
+    this.verses.forEach((verse) => {
+      verse = verse.slice(1);
+    })
+    return this.verses
+  }
+  incrementVerse(){
+    this.verses[this.currentVerse].push(this.element);
+    this.element = new verseElement("start",)
+    this.currentVerse++;
+    this.verses.push([]);
+  }
+  addHeader(text){
+    if(this.element?.type !== "header"){
+      // this.verses[this.currentVerse].push(this.element);
+      this.element = new verseElement("header", text)
+    }
+    this.element.addText(text);
+
+  }
+  addPoetry(text){
+    if(this.element?.type !== "poetry"){
+      // this.verses[this.currentVerse].push(this.element);
+      this.element = new verseElement("poetry", text)
+    }
+    this.element.addPoetry(text);
+
+  }
+  addProse(text){
+    if(this.element?.type !== "prose"){
+      // this.verses[this.currentVerse].push(this.element);
+      this.element = new verseElement("prose", text)
+    }
+    this.element.addText(text);
+
+  }
+
+}
+
 
 module.exports = {
+  arrayParse(document, translation){
+    let data = new verseArray()
+    const paragraphs = document.querySelector(`body > div.nav-content > div > section > div > div > div.passage-resources > section > div.passage-table > div.passage-cols > div > div.passage-col.version-${translation} > div.passage-text > div > div`).childNodes
+    for(const paragraph of paragraphs){
+      // header
+      if(paragraph.localName === "h3"){
+        data.addHeader(paragraph.textContent)
+      }
+      // poetry
+      else if(paragraph.className === "poetry"){
+        for(const line of paragraph.childNodes){
+          for(const part of line.childNodes){
+            if(part.localName === "br"){
+              data.addPoetry("\n");
+            }
+            else if(part.localName === "span"){
+              for(const eachpart of part.childNodes){
+                if(eachpart.localName === undefined){
+                  data.addPoetry(paragraph.textContent);
+                }
+                else if(eachpart.localName && eachpart.className === "versenum"){
+                  data.incrementVerse();
+                }
+              }
+            }
+          }
+        }
+      }
+      // prose
+      else{
+        for(const verse of paragraph.childNodes){
+          for(const part of verse.childNodes){
+            // normal text
+            if(part.localName === undefined){
+              data.addProse(part.textContent);
+            }
+            else if(part.localName === "sup" && part.className === "versenum"){
+              data.incrementVerse();
+            }
+          }
+        }
+      }
+    }
+    return data.getVerses();
+  },
   test(document, translation){
     let data = new verseData()
     let paragraphs = document.querySelector(`body > div.nav-content > div > section > div > div > div.passage-resources > section > div.passage-table > div.passage-cols > div > div.passage-col.version-${translation} > div.passage-text > div > div`).childNodes
@@ -82,7 +197,9 @@ module.exports = {
           })
 
         })
-        data.addText("<br>")
+        if(data.text.length > 0){
+          data.addText("<br>")
+        }
       }
     }
     // console.log(data.verses);

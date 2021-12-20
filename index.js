@@ -296,6 +296,7 @@ async function createInterlinearChapters(refs){
 
 // })
 parseTranslation("Genesis", 3, "NASB")
+// parseTranslation("Psalms", 3, "NASB")
 // run again with these translations to get the verse i missed
 
 // translationList = ["NASB", "ESV", "NKJV"]
