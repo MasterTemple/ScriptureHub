@@ -278,9 +278,11 @@ translationList = ["ESV", "NASB", "NKJV", "NET", "NLT", "YLT", "AMP", "NRSV", "M
 //   translations.push(translationList.slice(i*5, (i*5)+5))
 // }
 
-translationList.forEach((t) => {
-  parseAllOfBibleGateway(refs, t)
-})
+// translationList.forEach((t) => {
+//   parseAllOfBibleGateway(refs, t)
+// })
+
+parseTranslation("Isaiah", 3, "NASB")
 
 // translationList = ["NASB","NASB1995","NCB","NCV","NET"]
 // translationList = ["NET","NIRV","NIV","NIVUK","NKJV"]

@@ -53,6 +53,14 @@ class verseArray {
     this.element = new verseElement("start",)
   }
   getVerses(){
+    // console.log((this.verses));
+    this.verses.forEach((verse, c) => {
+      this.verses[c] = verse.filter(part => part.content.length > 0)
+      if(verse[verse.length-1]?.type === "header"){
+        this.verses[c+1] = [verse[verse.length-1], ...this.verses[c+1]]
+        this.verses[c].pop()
+      }
+    })
 
     return this.verses;
     // this.verses.forEach((verse) => {
