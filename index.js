@@ -272,17 +272,24 @@ async function createInterlinearChapters(refs){
 let translationList = ["KJ21","ASV","AMP","AMPC","BRG","CSB","CEB","CJB","CEV","DARBY","DLNT","DRA","ERV","EHV","ESV","ESVUK","EXB","GNV","GW","GNT","HCSB","ICB","ISV","PHILLIPS","JUB","KJV","AKJV","LEB","TLB","MSG","MEV","MOUNCE","NOG","NABRE","NASB","NASB1995","NCB","NCV","NET","NIRV","NIV","NIVUK","NKJV","NLV","NLT","NMB","NRSV","NRSVA","NRSVACE","NRSVCE","NTE","OJB","TPT","RGT","RSV","RSVCE","TLV","VOICE","WEB","WE","WYC","ASV","AMP","AMPC","BRG","CSB","CEB","CJB","CEV","DARBY","DLNT","DRA","ERV","EHV","ESV","ESVUK","EXB","GNV" ,"GW","GNT","HCSB","ICB","ISV","PHILLIPS","JUB","KJV","AKJV","LEB","TLB","MSG","MEV","MOUNCE","NOG","NABRE","NASB","NASB1995","NCB","NCV","NET","NIRV","NIV","NIVUK","NKJV","NLV","NLT","NMB","NRSV","NRSVA","NRSVACE","NRSVCE","NTE","OJB","TPT","RGT","RSV","RSVCE","TLV","VOICE","WEB","WE","WYC","YLT"]
 translationList = [...new Set([...translationList])]
 translationList = ["ESV", "NASB", "NKJV", "NET", "NLT", "YLT", "AMP", "NRSV", "MSG"]
+
+let entries = Object.entries(refs)
+for(let [book, chapters] of entries) {
+  for(let chapter=1;chapter<chapters.length;chapter++){
+    fs.mkdir(`./BibleGateway/translations/json/${book}/${chapter}`, { recursive: true }, ()=>{})
+  }
+}
 // let translations = []
 // for(let i=0;i<translationList.length/5;i++){
 //   // console.log(i*5, (i*5)+5);
 //   translations.push(translationList.slice(i*5, (i*5)+5))
 // }
 
-// translationList.forEach((t) => {
-//   parseAllOfBibleGateway(refs, t)
-// })
+translationList.forEach((t) => {
+  parseAllOfBibleGateway(refs, t)
+})
 
-parseTranslation("Isaiah", 3, "NASB")
+// parseTranslation("Isaiah", 3, "NASB")
 
 // translationList = ["NASB","NASB1995","NCB","NCV","NET"]
 // translationList = ["NET","NIRV","NIV","NIVUK","NKJV"]
@@ -300,12 +307,6 @@ parseTranslation("Isaiah", 3, "NASB")
 // // refs = {"1 Timothy":[0,51]}
 // translations = ['NASB']
 
-// let entries = Object.entries(refs)
-// for(let [book, chapters] of entries) {
-//   for(let chapter=1;chapter<chapters.length;chapter++){
-//     fs.mkdir(`./BibleGateway/translations/json/${book}/${chapter}`, { recursive: true }, ()=>{})
-//   }
-// }
 
 // translations.forEach((eachGroup) => {
 

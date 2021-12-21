@@ -193,6 +193,9 @@ let data = new verseArray()
             else if(part.localName === "sup" && part.className === "versenum"){
               data.incrementVerse();
             }
+            else if(part.localName === "span" && part.className === "small-caps"){
+              data.addProse(part.textContent.toUpperCase())
+            }
           }
         }
       }
