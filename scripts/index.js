@@ -804,24 +804,28 @@ async function updateContextContent(verse) {
   //   </article>
   //   `
   // })
-  json.forEach(({header, num, verse}, c) => {
-    if(header){
-      int.innerHTML += `
-      <article class="context-card">
-      <div class="context-content">
-      <p class="passage-header">${header}</p>
-      </div>
-      </article>
-      `
-    }else{
-      int.innerHTML += `
-      <article class="context-card">
-      <div class="context-content">
-      <p class="context-verse" id="verse${num}"><span class="accent verse-num">${num} </span><span class="verse-text">${verse}</span></p>
-      </div>
-      </article>
-      `
-    }
+  json.forEach((arr, c) => {
+    arr.forEach(({type, content}) => {
+      let num =0
+      // console.log(verse);
+      if(type==="header"){
+        int.innerHTML += `
+        <article class="context-card">
+        <div class="context-content">
+        <p class="passage-header">${content}</p>
+        </div>
+        </article>
+        `
+      }else{
+        int.innerHTML += `
+        <article class="context-card">
+        <div class="context-content">
+        <p class="context-verse" id="verse${c}"><span class="accent verse-num">${c} </span><span class="verse-text">${content}</span></p>
+        </div>
+        </article>
+        `
+      }
+    })
   })
   resolve()
 })
