@@ -805,6 +805,7 @@ async function updateContextContent(verse) {
   //   `
   // })
   json.forEach((arr, c) => {
+    let displayNone = ""
     arr.forEach(({type, content}) => {
       let num =0
       // console.log(verse);
@@ -820,10 +821,11 @@ async function updateContextContent(verse) {
         int.innerHTML += `
         <article class="context-card">
         <div class="context-content">
-        <p class="context-verse" id="verse${c}"><span class="accent verse-num">${c} </span><span class="verse-text">${content}</span></p>
+        <p class="context-verse" id="verse${c}"><span class="accent verse-num" ${displayNone}>${c} </span><span class="verse-text">${content}</span></p>
         </div>
         </article>
         `
+        displayNone = `style="color: var(--item-background);"`
       }
     })
   })
