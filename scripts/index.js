@@ -1150,6 +1150,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     /https\:\/\/github\.com\/MasterTemple\/ScriptureHub\/main\/index\.html\??/gim,
     ""
   ); // removes html preview glitch
+  if (initialVerse.length == 0) initialVerse = "John 1:1-3";
   document.getElementById("search").value = initialVerse;
   searchVerse();
   // document.getElementById(`${rightContent}-icon`).style.filter = "grayscale(0%) opacity(1)";
