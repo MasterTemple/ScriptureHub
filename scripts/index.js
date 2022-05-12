@@ -1146,7 +1146,7 @@ document.addEventListener("DOMContentLoaded", async () => {
   let initialVerse =
     decodeURIComponent(window.location.toString().match(/(?<=\?).*/gim)?.[0]) ||
     "John 1:1-3";
-  initialVerse.replace(
+  initialVerse = initialVerse.replace(
     "https://htmlpreview.github.io/?https://github.com/MasterTemple/ScriptureHub/main/index.html?",
     ""
   ); // removes html preview glitch
