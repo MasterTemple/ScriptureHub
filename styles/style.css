@@ -462,8 +462,6 @@ span.column > p.poetry {
   margin-top: 0;
   margin-bottom: 0;
 }
-@-moz-document url-prefix() {
-  #verseList {
-    margin-left: 8rem;
-  }
+#verseList {
+  margin-left: 9rem;
 }

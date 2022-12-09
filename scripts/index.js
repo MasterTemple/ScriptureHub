@@ -1143,9 +1143,9 @@ function switchColorTheme() {
 // }
 
 document.addEventListener("DOMContentLoaded", async () => {
-  let initialVerse =
-    decodeURIComponent(window.location.toString().match(/(?<=\?).*/gim)?.[0]) ||
-    "John 1:1-3";
+  let initialVerse = decodeURIComponent(
+    window.location.toString().match(/(?<=\?).*/gim)?.[0] || "John 1:1-3"
+  );
   initialVerse = initialVerse.replace(
     /https\:\/\/github\.com\/MasterTemple\/ScriptureHub\/main\/index\.html\??/gim,
     ""
